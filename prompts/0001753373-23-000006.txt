@@ -1,0 +1,42 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Description of Business
+DESCRIPTION OF BUSINESS
+ 
+Overview
+ 
+Inky Inc. was incorporated in the State of Nevada on June 12, 2018. The Company (“we,” “us,” or the “Company”) is engaged in developing tattoo projects. Inky is developing a service with an artificial intelligence that will create a unique tattoo design and online platform to connect and inspire tattoo artists and clients with the objective of simplifying and enhancing the experience for clients when choosing a tattoo design and finding an appropriate artist.
+ In November 2022, the Company has launched an online platform with a global reach, providing an effortless experience for individuals interested in the art of tattoos. The platform facilitates the process of finding an ideal tattoo design and suitable artist for clients, while also aiding tattoo artists in locating potential clients. The overall aim of the platform is to streamline and expedite the process of finding a tattoo artist and design, creating an enjoyable experience for both parties involved. We have made the search process much simpler and more convenient by means of our website https://inky.live.
+ As of November 2022, the company has launched an online platform that targets an international audience. The platform was developed to streamline this process by creating an interactive service that connects clients with tattoo artists, focusing on facilitating a seamless experience for both parties, thereby bringing a positive change to the industry. The platform has an extensive database of tattoo artists, providing them with an additional advertising space to showcase their work and attract potential clients.
+ Inky Inc. has introduced a subscription-based service that provides users with access to AI-generated tattoo ideas. As of November 30, 2022, we managed to generate the first income based on selling access to the application programming interface (API), which has become the primary source of revenue for the Company. This feature allows customers to obtain personalized tattoo designs, saving them time and effort in selecting a design. The company has observed a positive trend in project development and an increase in income generation. The AI-powered service also benefits tattoo artists, who can use it to explore new styles and enhance their skills. By analyzing customer preferences and generating unique designs, Inky Inc.'s AI-powered service provides tattoo artists with a valuable tool for expanding their creative horizons.
+
+
+As of November 30, 2022 Inky Inc. has put in funds in the development of products by purchasing software with artificial intelligence for tattoo idea generation service for $100,000 and its implementation: tattoo idea generation service integration and improvement of website sections. Based on this the Company launched an additional service on the website, which was formed into a service for selling API access by subscription. The total asset during the year has increased by $106,395 from $19,456 as on November 2021 to $125,851 as on November 30, 2022.
+ 
+4
+  
+We were previously considered a shell company as defined by Rule 405 of the Securities Act of 1933, as amended. However, during the year ended November 30, 2022, we ceased to be a shell company as we have significantly increased our business activities and assets and have met the criteria set forth in Rule 144(i)(1) under the Securities Act. As a result, we are now considered a non-shell company. We have updated our filings with the SEC to reflect this change in status.
+ 
+Sales, Marketing and Distribution
+ 
+We plan that the main source of income for INKY will be monetization from the sale of API for generating tattoo ideas. We are interested in increasing website traffic by increasing the number of users which will lead also to great popularity and high demand. Moreover, we plan to attract additional promotional tools that we believe will actively help us develop and bring additional income.
+Competition
+ 
+Developing and distributing API (Application Programming Interface) is a highly competitive business, characterized by frequent use. API simplifies the programming process when building applications by abstracting away the underlying implementation and providing only the objects or actions that the developer needs. If a GUI for an email client can provide the user with a button that will go through all the steps to fetch and highlight new emails, then the File I/O API can give the developer a function that copies a file from one location to another without requiring the developer to understand file operations, systems happening behind the scenes.
+ 
+With respect to competing for consumers of our app, we will compete primarily based on API quality and customer reviews. We will compete for promotional and digital storefront placement based on these factors, as well as our relationship with the storefront owner, historical performance, perception of sales potential and relationships with licensors of brands, properties, and other content. We believe that our small size will provide us a competitive advantage for the time being and allow us to make quick product development to take advantage of consumer preferences at a particular point in time.
+ 
+Most of our competitors and our potential competitors have one or more advantages over us, including:
+ · significantly greater financial and personnel resources;
+ · stronger brand and consumer recognition;
+ · the capacity to leverage their marketing expenditures across a broader portfolio of mobile and non-mobile products;
+ · more substantial intellectual property of their own;
+ · lower labor and development costs and better overall economies of scale; and
+ · broader distribution and presence.
+ 
+Government Regulation
+ 
+We are subject to various federal, state, and international laws and regulations that affect our business, including those relating to the privacy and security of customer and employee personal information and those relating to the Internet, behavioral tracking, mobile applications, advertising and marketing activities, and sweepstakes and contests. Additional laws in all these areas are likely to be passed in the future, which could result in significant limitations on or changes to the ways in which we can collect, use, host, store or transmit the personal information and data of our customers or employees, communicate with our customers, and deliver products and services, may significantly increase our compliance costs. As our business expands to include new uses or collection of data that are subject to privacy or security regulations, our compliance requirements and costs will increase, and we may be subject to increased regulatory scrutiny.
+Employees
+ 
+We are a start-up company and currently have one employee - Ioanna Kallidou, our president, treasurer, secretary, and director. We intend to outsource any additional services if the business requires.

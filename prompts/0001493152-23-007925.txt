@@ -1,0 +1,186 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1: BUSINESS
+Overview
+ 
+Co-Diagnostics, Inc., a Utah corporation (the “Company” or “CODX”), develops, manufactures and sells reagents used for diagnostic tests that function via the detection and/or analysis of nucleic acid molecules (DNA or RNA), including robust and innovative molecular tools for detection of infectious diseases, liquid biopsy for cancer screening, and agricultural applications. In connection with the sale of our tests we may sell diagnostic equipment from other manufacturers as self-contained lab systems (which we refer to as the “MDx Device”). We are also developing a unique, groundbreaking portable PCR device and proprietary test cups (the “Co-Dx PCR Home™ platform”) that have been designed to bring affordable, reliable polymerase chain reaction (“PCR”) to patients in point-of-care and even at-home settings. This platform is subject to U.S. Food and Drug Administration (“FDA”) review and is not available for sale at the time of this filing. There is no guarantee that our Co-Dx PCR Home platform will receive the necessary regulatory approvals for commercialization, or that, if regulatory approval is received, we will be able to successfully commercialize this platform.
+ 
+Our diagnostics systems enable dependable, low-cost, molecular testing for organisms and genetic diseases by automating or simplifying historically complex procedures in both the development and administration of tests. CODX’s technical advance involves a novel, patented approach to PCR test design of primer and probe structure (“CoPrimers™”) that eliminates one of the key vexing issues of PCR amplification: the exponential growth of primer-dimer pairs (false positives and false negatives) which adversely interferes with identification of the target DNA/RNA.
+ 
+We believe our proprietary molecular diagnostics technology is paving the way for innovation in disease detection and life sciences research through our enhanced detection of genetic material. For various reasons, including owning our own platform, we believe we will be able to accomplish this faster and more economically than some competitors, allowing for significant margins while still positioning ourselves as a low-cost provider of molecular diagnostics and screening services.
+ 
+In addition, continued development has demonstrated the unique properties of our CoPrimer technology that we believe makes it ideally suited for a variety of applications where specificity is key to optimal results, including multiplexing several targets, enhanced Single Nucleotide Polymorphism (“SNP”) detection and enrichment for next generation sequencing.
+ 
+Our scientists use the complex mathematics of DNA/RNA PCR test design to engineer and optimize PCR tests and to automate algorithms that rapidly screen millions of possible options to pinpoint the optimum design. Dr. Brent Satterfield, our founder, developed the intellectual property we use in our business, consisting of the predictive mathematical algorithms and patented molecular structure used in the testing process, which together represent a major advance in PCR testing systems. CODX technologies are now protected by more than 20 granted or pending US and foreign patents, as well as certain trade secrets and copyrights. Ownership of our proprietary platform permits us the advantage of avoiding payment of patent royalties required by other PCR test systems, which may allow the sale of diagnostic PCR tests at a lower price than competitors, while enabling us to maintain profit margins.
+ 
+Our proprietary test design process involves identifying the optimal locations on the target genes for amplification and pair the locations with the optimized primer and probe structure to achieve outputs that meet the design input requirements identified from market research. This is done by following planned and documented processes, procedures and testing. In other words, we use the data resulting from our tests to verify whether we succeeded in designing what we intended. Verification involves a series of testing that concludes that the product is ready to proceed to validation in an evaluation either in our laboratory or in an independent laboratory setting using initial production tests to confirm that the product as designed meets the user needs.
+ 
+We may either sell or lease the MDx Device to labs and diagnostic centers, through sale or lease agreements, and sell the reagents that comprise our proprietary tests to those laboratories and testing facilities.
+ 
+
+4
+-
+
+ 
+
+Using our proprietary test design system and proprietary reagents, we have designed and obtained regulatory approval in the European Community and/or in India to sell PCR diagnostic tests for the detection of COVID-19, influenza, tuberculosis, hepatitis B and C, human papillomavirus, malaria, chikungunya, dengue, and the Zika virus. In the United States, we obtained Emergency Use Authorization (“EUA”) for our Logix Smart™ COVID-19 detection test from the Food and Drug Administration, or FDA, and we sell that test to qualified labs. In addition, our COVID-19 detection test and certain of our other suite of COVID-19 products have been approved for sale in countries such as the United Kingdom, Australia and Mexico by the regulatory bodies in those countries and have been registered for sale in many more countries.
+ 
+In addition to testing for infectious disease, the technology lends itself to identifying any section of a DNA or RNA strand that describes any type of genetic trait, which creates several significant applications. We, in conjunction with our customers, are active in designing and licensing tests that identify genetic traits in plant and animal genomes. We also have three multiplexed tests developed to test mosquitos for the identification of diseases carried by the mosquitos to enable municipalities to concentrate their efforts in managing mosquito populations on the specific areas known to be breeding the mosquitos that carry deadly viruses.
+ 
+On January 23, 2020, we announced the completion of the principal design work for a PCR test for COVID-19, intended to address the potential need for detection of the virus. This test features our patented CoPrimers technology, and was designed using our proprietary software system, following the guidelines published by the World Health Organization (WHO) and Centers for Disease Control (CDC).
+ 
+On February 24, 2020, we announced that this test had obtained regulatory clearance to be sold as an in vitro diagnostic (“IVD”) for the diagnosis of COVID-19 in markets that accept CE-marking as valid regulatory approval and became available for purchase from our Utah-based ISO-13485:2016 certified facility.
+ 
+We commenced sales of the COVID-19 tests in February and March of 2020 to international customers and to date have since sold over 34,000,000 of this and other COVID tests in numerous countries around the world through an expanding distributor network.
+ 
+On April 6, 2020, we announced that we had received an EUA from the FDA allowing us to commence sales of our Logix Smart COVID-19 test to laboratories certified by the Center for Medicare and Medicaid Services under the Clinical Laboratories Improvements Act (“CLIA”) to accept human samples for diagnostics testing throughout the United States and have sold our Logix Smart COVID-19 test to such CLIA labs since that time.
+ 
+Because we believe that testing for COVID-19 will continue to be a consideration for public health worldwide, we have initiated the Co-Dx PCR Home platform to facilitate frequent testing in homes, schools, businesses, and the hospitality industry. We believe this may be accomplished through the development of a compact, relatively low-cost testing device, easy to use by non-professionals, that can provide PCR test results in around 30 minutes. The initial project built on this platform, an at-home and point-of-care COVID-19 PCR test, was ultimately facilitated by our development of a saliva or nasal swab-based PCR test that does not require the RNA/DNA extraction. While we believe the final result is believed to be approximately equivalent to those processed by a high-complexity clinical laboratory, it our COVID-19 PCR test has the advantages of increased speed and ease of handling thanks to lyophilization (or freeze-drying) of our testing reagents to allow for stability at room temperatures.
+ 
+On February 15, 2021, we engaged the services of a group of professionals at Idaho Molecular, Inc (“IdMo”) and Advanced Conceptions, Inc (“ACI”), with the expertise to develop the hardware for a device using our CoPrimers as the reagent chemistry. In December 2021, we announced the closing of the acquisitions of IdMo and ACI along with all existing and future assets and intellectual property related to the platform and device. It is expected that the device and test will be available to homes, schools, offices, and the travel industry among other locations, at a cost that will allow screening frequently to prevent spread of the COVID-19 virus in the future, as well as other diseases as additional single- and multiplex tests are developed and validated for use on the device. The device would also be available to test for other pathogens detectable through saliva or other samples as we develop those tests and offer them to the marketplace. All such tests will be subject to regulatory approval.
+ 
+
+5
+-
+
+ 
+
+On February 22, 2023, we announced that clinical evaluations for the device and its initial test for COVID-19 had begun. Because the evaluations are dependent on identifying and enrolling a particular number of both symptomatic and asymptomatic COVID-19-positive and -negative patients at testing sites, the Company did not provide projected timelines for completion at that time.
+ 
+Infectious Disease Product Offering
+ 
+Using our proprietary test design system and proprietary reagents, we and CoSara Diagnostics Pvt Ltd (“CoSara”), our joint venture for manufacturing in India, design and sell PCR diagnostic tests for detection of diseases and pathogens such as COVID-19, influenza, tuberculosis, hepatitis B and C, malaria, dengue, human papillomavirus, chikungunya, and Zika virus, all of which tests have been designed and verified in our laboratories. Our tuberculosis test and Zika test received a CE Mark in 2018, and a triplex test for Zika, dengue and chikungunya received a CE Mark in 2019, qualifying the tests to be sold throughout the European community and in most countries in Central and South America. In December 2019, CoSara received a license to manufacture and sell tuberculosis, hepatitis B, hepatitis C, human papillomavirus 16/18 and malaria tests in India from the Central Drugs Standard Control Organization (“CDSCO”). In February 2020, we received a CE Mark for our Logix Smart COVID-19 test followed by an EUA by the FDA in April 2020. Also, in April 2020, our COVID-19 test was approved for manufacture and sale in India by the CDSCO and in Mexico by the INDRE, Mexico’s equivalent to the United States Center for Disease Control. In August 2020, we received approval from the Australian Department of Health Therapeutic Goods Division to sell our COVID-19 test in Australia.
+ 
+As explained above, our Logix Smart COVID-19 test was designed, developed, submitted for regulatory approval and ready to be used as an in vitro diagnostic or IVD in countries that accept a CE Mark as approval for use of the test in a period of just over 30 days. This is a real-world example of how the CODX technology can be used in an evolving epidemic or pandemic to get diagnostic tools in the hands of medical professionals in a timely manner. It can be similarly used to design a test for mutated strains of the virus should they not be detectable using currently available tests.
+ 
+Caribbean and Central and South America
+ 
+We began selling PCR diagnostic tests to entities located in South and Central America and the Caribbean in 2018. In some of those countries, there are limited regulatory hurdles, allowing us to begin offering our tests immediately. We have applied for and received registrations for our tests in many of those countries that require registration, and our distributors in those countries have provided us with in-country assistance in completing such registrations.
+ 
+We first offered our Zika test in this region because of the demand for such a test, followed by tests for tuberculosis, and our triplex test for Zika, chikungunya, and dengue. Sales of those tests have not been material, but with the granting of a CE mark for our Logix Smart COVID-19, we experienced an increase in sales in this region.
+ 
+India
+ 
+In January 2017, the Company entered into an agreement to manufacture diagnostics tests for seven infectious diseases with a pharmaceutical manufacturing company in India and formed CoSara as an Indian joint venture. The agreement provided for the construction of a manufacturing plant and the manufacture of the tests named above and the joint sales and marketing of those tests in India. We have received a license for the plant in Ranoli, India to manufacture approved tests and it is being used for testing and manufacturing of our products for the Indian market.
+ 
+As mentioned above, the CDSCO has given us the approval for manufacture and sale of the nine tests referred to above, and the Company’s joint venture has begun manufacture and sale of those tests. The Company has commenced a reagent rental program in India with thermocyclers purchased from third-party vendors and which we refer to as our MDx Device. Each of the reagent rental placements requires the purchase of a minimum number of tests per month. The placement of thermocyclers in India has facilitated the sale of the SaraGene COVID-19 tests in India. The WHO 2019 Global Tuberculosis Report indicates that India is the country with the highest number of cases of tuberculosis in the world. WHO tuberculosis statistics for India for 2018 give an estimated incidence figure of 2.69 million cases of tuberculosis for India out of a global incidence of approximately 10.0 million.
+ 
+
+6
+-
+
+ 
+
+On March 19, 2020, we announced that CoSara received authorization to begin manufacture and sale of COVID-19 tests in India. Those tests in India are branded as SaraGene COVID-19 tests and are sold exclusively by CoSara. The Indian government places restrictions on the price that could be charged for COVID-19 tests which limited the revenue in India more than we experienced in other parts of the world. At the time of this report, CoSara has received CDSCO clearance for RT-PCR tests for Mycobacterium tuberculosis, malaria, hepatitis B, hepatitis C (including viral load tests for both hepatitis B and C), human papillomavirus (HPV), a test for high-risk HPV, two COVID-19 assays, chikungunya, dengue, a dengue/chikungunya duplex test, an influenza A/influenza B/COVID-19 (“ABC”) multiplex test.
+ 
+Europe
+ 
+Molecular diagnostics, such as our tests, are governed in Europe by the framework for IVDs, which encompasses diagnostic products such as reagents, instruments and systems intended for use in diagnosis of disease. The regulatory system for some IVDs has historically allowed for a self-certification procedure, placing heavy responsibility on manufacturers. Non self-certified products were subject to the same standards as self-certified products but were also subject to audit and review by a notified body prior to receiving approval to be CE-marked. A CE-marking is a manufacturer’s declaration that a product meets the requirements of the applicable European Commission directive. Examples of current obligations include having in place a qualitative manufacturing process, user instructions that are clear and fit for purpose, and ensuring that the ‘physical’ features of devices and diagnostics do not pose any danger. If a product fulfils these and other related control requirements, it may be CE-marked, as an indication that the product is compliant with EU legislation and sold in the European Union. We have received CE Marks for six of our tests including for COVID-19, COVID-19 (2 gene test), ABC (a triplex test for Flu A, Flu B and COVID-19), a DS (Direct Saliva, extraction-free) COVID-19 test, tuberculosis, Zika, and our Zika, dengue, chikungunya triplex tests. Recently, the European Commission has revised its directive governing the CE- marking of IVDs, which included reclassifying which IVDs may be self-certified, and which may not. As a result of this change in directive and reclassification, substantially all of the Company’s products are now subject to audit and review by a notified body, as well as a more rigorous clinical evaluation process, prior to receiving approval to be CE-marked.
+ 
+We are ISO 13485:2016 certified, relating to the design and manufacture of our medical device products. The ISO certification indicates that we meet the standards required to pursue CE-marking for certain of our products and affix a CE-marking for sales of our products in countries accepting CE-marking (not in the United States).
+ 
+United States
+ 
+The FDA has granted permission for us to export all of our IVD products. The FDA’s permission to export was granted under Section 801(e) of the Federal Food, Drug, and Cosmetic Act, as amended (the “FDC Act”). Section 801(e) of the FDA Act covers certain medical devices that have not yet received an approved Premarket Approval in the United States by the FDA, such as our products. We have not commenced any Premarket Approval steps with the FDA. Section 801(e) of the FDA Act applies to medical devices that are acceptable to the importing country and that are manufactured under the FDA’s Good Manufacturing Practices. We have received EUA for our COVID-19 test, which allows sales to qualified labs in the United States, and facilitates the registration for sale in other countries as well. Under the FDA’s existing policy the FDA continues to review a prioritized subset of COVID-19 tests for EUAs, and emphasizes that traditional device premarket review pathways remain open to all developers. We intend to pursue all appropriate FDA review pathways for products under development, including traditional premarket review pathways.
+ 
+Under our EUA, we are actively selling our Logix Smart COVID-19 test to CLIA certified laboratories in the United States. The CLIA labs are able to use our test, or to further validate our COVID-19 tests (or other tests) as Laboratory Developed Tests (LDTs), which refers to a diagnostic test that has been validated for use in the CLIA lab. LDTs may be used by the lab only in that laboratory. CLIA laboratories develop the performance characteristics, perform the analytical validation for their LDTs and obtain licenses to offer them as diagnostic services. We are currently marketing our Logix Smart COVID-19 test to CLIA laboratories throughout the US.
+ 
+
+7
+-
+
+Market Opportunity
+ 
+The market opportunity for our tests changed radically with the emergence of the COVID-19 pandemic. Because we were able to respond rapidly and produce a quality product, we have been able to build a distribution network that extends to more than 80 countries with over 50 distributors, most of which have been the sales network that has allowed us to export products throughout the world. We believe that after the pandemic is brought under control, the network of distributors that we have built in these extraordinary times will serve us well in sales of other diagnostic tests.
+ 
+The molecular diagnostics market is a fast-growing portion of the in vitro (test tube-based, controlled environment) diagnostics market. There are several advantages of PCR tests, such as the ones we market and sell, over other forms of diagnostic testing. These advantages include higher specificity and sensitivity, the ability to perform multiplex tests and the ability to test for drug resistance or for individual genes.
+ 
+Mosquito Vector Control Services
+ 
+In response to market demand, in June 2019 we introduced our first diagnostics tests to be used exclusively to test for mosquito borne pathogens in mosquito populations. Municipalities in the US and many other countries in the world are concerned about the diseases carried by mosquitos, which infect the human population. To prevent outbreaks of potentially harmful viruses such as Zika or West Nile from infecting the public, many municipalities conduct mitigation operations to eliminate the mosquito populations carrying the diseases. Because it is too expensive and potentially harmful to the environment to spray all mosquito breeding areas, municipalities identify which particular area has mosquitos that are carrying the harmful viruses. To know where the host mosquitos with the harmful viruses are located, traps are set, mosquitos collected and then tested to find the areas that most needed spraying. There are over 3,000 mosquito abatement districts throughout the United States and almost all of them conduct testing to help make the spraying more effective.
+ 
+Our first vector related test was a triplex test that tests for West Nile, western equine and St. Louis encephalitis. We began shipping the tests in June 2019. We added a second test that tests mosquitos for Zika, chikungunya and dengue in a triplex test. Finally, in November 2019, we completed a test for West Nile, eastern equine and St. Louis encephalitis, specifically for use in the eastern United States. As a result, mosquito abatement districts can test for three target viruses in one test as compared to performing three different tests using other market available tests. Our products allow municipalities to obtain test results in a matter of hours, instead of the weeks they might otherwise have to wait for a central lab to process the mosquito tests.
+ 
+We have sold our Vector Smart™ test products and/or related lab equipment to testing districts in different sections of the country and are marketing our products through trade shows, electronic and regular mail solicitations.
+
+
+Liquid Biopsy for Cancer Screening
+ 
+The enhanced specificity of our technology opens up some unique applications for liquid biopsy, demonstrating its ability to detect small quantities of mutations associated with cancer within an environment of large amounts of normal DNA, as we position the Company to take part in this historic and challenging development in human health care.
+Agricultural Applications
+ 
+SNP detection is also used in the agricultural industry to identify variations in crop genomes to achieve improved seed viability and other desired characteristics, including drought resistance, disease resistance, pest resistance and higher yield.
+ 
+In mid-2017, the Company was first approached by a large agribusiness to evaluate our ability to multiplex certain target genomes. The results of the development project have successfully demonstrated our ability to not only multiplex the target genomes, but targeted SNP’s as well. The project was undertaken in conjunction with the manufacturer of our CoPrimers tests. The results of the project encouraged the parent of our manufacturer to seek a world-wide licensing arrangement for our CoPrimers in the agricultural industry, which was completed in October 2018. Pursuant to the exclusive license for the agronomics industry, the licensee pays us a royalty for all CoPrimers sold to the licensee’s customers. In January 2019, the licensee formally introduced the product at a large agricultural conference and has branded the product under the name “BHQ CoPrimers”.
+ 
+
+8
+-
+
+Additional Licensing and Assay Development
+ 
+We believe the unique properties of our CoPrimers technology make them ideally suited to a variety of applications where sensitivity is key to optimal results, including multiplexing several targets, enhanced SNP detection and enrichment for next generation sequencing. Our licensee for our agricultural testing requested an expansion of our license agreement to include test design services for their customers and potential customers, both in the infectious disease arena as well as for agricultural customers. The license was amended in July 2019 and we expect to derive a license fee from our licensee for its design services. If any of its customers desire to commercialize the tests designed, they will need to seek a commercial license directly from us. Because of these unique characteristics of CoPrimers, research companies and institutions have requested that we design diagnostics to locate and identify uncommon gene sequences and SNPs and create tests for the target sequences in a multiplexed reaction. This application of our technology is in its beginning stages, but we believe that the results from our initial research indicate a significant step forward in defining the capabilities of our technology, which we believe can be translated to revenue producing licensing arrangements. However, there can be no guarantee that we will be able to develop the requested capabilities, or that we will be able to successfully commercialize this application of our technology.
+ 
+Competitive Advantages of Co-Diagnostics
+ 
+We believe that we have the following competitive advantages:
+
+
+
+● | Affordability: Lower-cost test kits, a low-cost MDx-device, and an affordable Co-Dx PCR Home platform for at-home and point-of-care testing (the platform is subject to FDA review and not available for sale at the time of this filing). 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Flexibility: CODX’s tests have been designed to run on many customers’ DNA/RNA diagnostic testing machines. Our technology is well suited to the new generation of point-of-care testing (“POCT”), compact and portable analysis machinery for field, clinical and office applications. 
+● | Speed: We believe our rapid assay design system software provides shorter time to product release. This has been demonstrated with the conception, design, product manufacture, clinical verification and submission for a CE Mark for our Logix Smart COVID-19 test being approximately 30 days. 
+
+
+● | Accuracy: We believe our technology allows us to build tests that are highly sensitive and specific, the two benchmarks for accuracy in PCR testing. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Personalized Medicine: We project that rising health care costs in developed and developing nations will increasingly require that health care systems be patient-specific to eliminate waste, misdiagnoses, and ineffectiveness. A critical component will be accurate, more affordable DNA-based diagnostics, especially in at-home and POCT settings, for which we are developing products. 
+● | Low-cost Provider: Our platform technology obviates the need to pay patent royalties typically required of our competitors, which use patented test platforms to design their tests. 
+● | Worldwide Footprint: With a dynamic technology that encompasses markets worldwide, we anticipate that we can identify the best target markets, not only in high burden developing countries but also in developed nations. 
+● | Growth Industry Category: We believe that real-time PCR testing is the fastest-growing segment of in vitro diagnostic testing. 
+● | Combination Product Offering: Our sensitive tests can be a well-designed match for a new generation of compact and other small POCT devices now entering the market, including our own MDx and Co-Dx PCR Home devices. Used together, we believe these affordable tests and devices have the potential to revolutionize the molecular diagnostics industry in cost, speed of test results and simplification. 
+● | Multiplexing: Our existing multiplexed tests demonstrate that our CoPrimer-designed tests are able to test for multiple targets in the same sample without the distortion caused by false negatives and false positives that often occur in multiplexed tests. 
+
+
+9
+-
+
+Intellectual Property
+ 
+Much of our future success and value depends on our proprietary technology, and therefore, our patent and intellectual property strategy is of critical importance. Currently, our flagship CoPrimers technology is covered by two U.S. patents titled “Cooperative primers, probes, and applications thereof” as well as by granted and pending foreign counterparts. We have another three U.S. patents directed to our earlier work in primer and assay designs. For more recent works, we have filed international and U.S. patent applications directed to “Methods and Compositions for Next Generation Sequencing (NGS) Library Preparation,” “Allele-Specific Design of Cooperative Primers for Improved Nucleic Acid Variant Genotyping,” “Methods and Compositions Related to Cooperative Primers and Reverse Transcription,” and “Systems, Methods, and Apparatus for Automated Self-Contained Biological Analysis” which is the basis of our at-home and point-of-care PCR system. We intend to continue building our patent portfolio as development continues and resources are available.
+ 
+We also protect some of our technology and know-how as trade secrets and, where appropriate, we use and register trademarks to protect and strengthen our products and proprietary brands. All trademarks, trade/product names, graphics and logos of Co-Diagnostics contained herein are trademarks of Co-Diagnostics or its subsidiary, as applicable, in the U.S. and/or other countries. Solely for convenience, we may refer to trademarks in this Annual Report on Form 10-K without the ™ or ® symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent permitted by law, our rights to our trademarks.
+ 
+Major Customers
+ 
+We had certain customers which were each responsible for generating 10% or more of our total revenue for the years ended December 31, 2022 and 2021, respectively. One customer accounted for approximately 37% of total revenue for the year ended December 31, 2022 and two customers together accounted for approximately 48% of total revenue for the year ended December 31, 2021. These customers may not account for the same percentage of sales in future periods. If we were to sell nothing to those customers in the future, it would have a material adverse effect on our financial condition unless we were able to replace those customers with others.
+Competition
+ 
+The molecular diagnostics industry is extremely competitive. There are many firms that provide some or all of the products we provide and provide many diagnostic tests that we have yet to develop. Many of these competitors are larger than us and have significantly greater financial resources. Because we are more recently established, many of our competitors have a competitive advantage in the diagnostic testing industry because they also have other lines of business in the pharmaceutical industry from which they derive revenues and for which they are well known and respected in the medical profession. We will need to overcome the disadvantage of being perceived as a start up with no significant recognition from the medical and testing professionals, although we believe this is changing as we continue to market our Logix Smart COVID-19 tests and other tests in the United States to well-known and successful laboratories. Many of these competitors already have an established customer base with industry standard technology, which we must overcome to be successful. In the diagnostic testing and POCT industries, we compete with such companies as BioMerieux, Siemens, Qiagen, Cue Health, Lumira Dx and Cepheid and with such pharmaceutical companies as Abbott Laboratories, Becton Dickinson and Johnson and Johnson.
+
+10
+--
+
+ 
+
+Competition has been particularly intense in the market for COVID-19 diagnostic tests. Numerous companies in the United States and internationally have announced their intention to offer new products, services and technologies that could be used in substitution for our Logix Smart COVID-19 tests. Many of those competitors are significantly larger, and have substantially greater financial, engineering and other resources, than our company. Existing and potential competitors in the market for COVID-19 diagnostic tests include developers of serological, antigen and molecular tests. We also compete with companies from Asia in certain markets who are willing to sell their tests for much less than we sell our tests, which creates competitive price pressure on us in certain regions, particularly Asia and Latin America.
+ 
+We expect competition to continue to increase as other established and emerging companies enter the market, as customer requirements evolve, and as new products, services and technologies are introduced. The entrance of new competitors is being encouraged by governmental authorities, who are offering funding to support development of testing solutions for COVID-19. Some of our existing or new competitors may have strong relationships with current and potential customers, including governmental authorities, and, as a result, may be able to respond more quickly to new or changing regulatory requirements, new or emerging technologies, and changes in customer requirements.
+ 
+Government Regulation
+ 
+In the United States, we are regulated by the FDA and our products must be approved, cleared, or authorized by the FDA before we are allowed to sell our tests in the United States as in vitro diagnostics. The FDA granted us an EUA to manufacture and sell our Logix Smart COVID-19 test to CLIA labs in the United States. We are ISO 13485:2016 certified, relating to the design and manufacture of our medical device products. Being ISO certified greatly facilitates our applications for CE-Marking, which allows us to sell any CE Marked test in most countries in Europe, South America and Asia, depending on the country and following that country’s registration process. We currently have CE Markings issued for our Logix Smart COVID-19 test, tuberculosis test, our Zika virus test, a triplex test that tests for Zika, dengue, and chikungunya simultaneously, a triplex “ABC” test that identifies and distinguishes between Flu A, Flu B and Covid-19, our SARS-CoV-2 2-gene multiplex test, and our DS (Direct Saliva, extraction-free) COVID-19 test. In addition, our Logix Smart COVID-19 has received the required license to manufacture and sell in India from India’s CDSCO, and The National Epidemiology Institute in Mexico evaluated our Logix Smart COVID-19 and ABC tests and approved them for sale in Mexico. We have also received approval to sell in Australia. We are in the process of registering for sale our Logix Smart COVID-19 and other tests in a number of major countries around the world.
+Employees
+ 
+As of December 31, 2022, we had 145 full-time and part-time employees at our executive offices and lab facilities in Salt Lake City, Utah. We have engaged independent contractors in India to promote the use of our products and develop outlets for products and employ the services of independent sales representatives on an “as needed” basis.
+ 
+We consider our people and the way we work to support each other and serve our customers to be critical to our success. The key human capital measures and objectives that we focus on in managing our business are: maintaining a strong and collaborative company culture, increasing our diversity, inclusion and belonging, offering fair and competitive compensation and benefits, investing in people and organizational development, protecting and enriching employee health and wellness, and sustaining a culture of respectful and effective communications.
+ 
+Organizational History and Corporate Information
+ 
+We were incorporated as Co-Diagnostics, Inc., in Utah on April 18, 2013. Our principal executive office is located at 2401 S. Foothill Drive, Salt Lake City, Utah 84109. Our telephone number is (801) 438-1036. Our web address is www.codiagnostics.com. The contents of our website are not incorporated by reference in this Annual Report.
+
+11
+--
+

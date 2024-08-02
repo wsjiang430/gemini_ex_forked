@@ -1,0 +1,1555 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1 – BUSINESS
+Overview
+
+
+
+ Future FinTech is a holding company incorporated under the laws of the State of Florida and it is not a Chinese operating company. As a holding company with no material operations of our own, we conduct a substantial majority of our operations through our subsidiaries and contractual arrangements with a variable interest entity (VIE) – Cloud Chain E-Commerce (Tianjin) Co., Ltd., formerly known as Chain Cloud Mall E-Commerce (Tianjin) Co., Ltd. (“E-Commerce Tianjin”), based in China and this structure involves unique risks to investors. The Company historically engaged in the production and sale of fruit juice concentrates (including fruit purees and fruit juices), fruit beverages (including fruit juice beverages and fruit cider beverages) in People’s Republic of China (“PRC” or “China”). Due to drastically increased production costs and tightened environmental laws in China, the Company had transformed its business from fruit juice manufacturing and distribution to a real-name blockchain based e-commerce platform, supply chain financing services and trading business and financial technology business. The main business of the Company includes an online shopping platform, Chain Cloud Mall (“CCM”), which is based on blockchain technology; supply chain financing services and trading, financial technology service business and the application and development of blockchain-based technology in financial technology services. The Company has also expanded into financial services and cryptocurrency market data and information service businesses.
+
+
+
+ There are legal and operational risks associated with being based in and having majority of our operations in Hong Kong and China. Recently, the PRC government initiated a series of regulatory actions and statements to regulate business operations in China with little advance notice, including cracking down on illegal activities in the securities market, enhancing supervision over China-based companies listed overseas using variable interest entity structure, adopting new measures to extend the scope of cybersecurity reviews, and expanding the efforts in anti-monopoly enforcement. On July 6, 2021, the General Office of the Communist Party of China Central Committee and the General Office of the State Council jointly issued an announcement to crack down on illegal activities in the securities market and promote the high-quality development of the capital market, which, among other things, requires the relevant governmental authorities to strengthen cross-border oversight of law-enforcement and judicial cooperation, to enhance supervision over China-based companies listed overseas, and to establish and improve the system of extraterritorial application of the PRC securities laws. On December 28, 2021, Cybersecurity Review Measures published by Cyberspace Administration of China or the CAC, National Development and Reform Commission, Ministry of Industry and Information Technology, Ministry of Public Security, Ministry of State Security, Ministry of Finance, Ministry of Commerce, People’s Bank of China, State Administration of Radio and Television, China Securities Regulatory Commission, State Secrecy Administration and State Cryptography Administration, effective on February 15, 2022, which provides that, Critical Information Infrastructure Operators (“CIIOs”) that purchase internet products and services and Data Processing Operators (“DPOs”) engaging in data processing activities that affect or may affect national security shall be subject to the cybersecurity review by the Cybersecurity Review Office. On November 14, 2021, CAC published the Administration Measures for Cyber Data Security (Draft for Public Comments), or the “Cyber Data Security Measure (Draft)”, which requires cyberspace operators with personal information of more than 1 million users who want to list abroad to file a cybersecurity review with the Office of Cybersecurity Review. As of the date of this report, these new laws and guidelines have not impacted the Company’s ability to conduct its business, accept foreign investments, or list and trade on a U.S. or other foreign exchange; however, there are uncertainties in the interpretation and enforcement of these new laws and guidelines, which could materially and adversely impact our business and financial outlook and may impact our ability to accept foreign investments or continue to list on a U.S. or other foreign exchange. Any change in foreign investment regulations, and other policies in China or related enforcement actions by Chinese government could result in a material change in our operations and the value of our securities and could significantly limit or completely hinder our ability to offer our securities to investors or cause the value of our securities to significantly decline or be worthless. The Company’s auditor is headquartered in the U.S. and the Public Company Accounting Oversight Board (United States) (the “PCAOB”) currently has access to inspect the working papers of our auditor and our auditor is not subject to the determinations announced by the PCAOB on December 16, 2021. The Holding Foreign Companies Accountable Act, or the HFCA Act, was enacted on December 18, 2020. In accordance with the HFCA Act, trading in securities of any registrant on a national securities exchange or in the over-the-counter trading market in the United States may be prohibited if the PCAOB determines that it cannot inspect or fully investigate the registrant’s auditor for three consecutive years beginning in 2021, and, as a result, an exchange may determine to delist the securities of such registrant. On June 22, 2021, the U.S. Senate passed the Accelerating Holding Foreign Companies Accountable Act, which, if enacted, would amend the HFCA Act and require the SEC to prohibit an issuer’s securities from trading on any U.S. stock exchanges if its auditor is not subject to PCAOB inspections for two consecutive years instead of three, thus reducing the time period before our securities may be prohibited from trading or delisted if our auditor is unable to meet the PCAOB inspection requirement. The Holding Foreign Companies Accountable Act and related regulations currently does not affect the Company as the Company’s auditor is subject to PCAOB’s inspections and investigations. However, if it is later determined that the PCAOB is unable to inspect or investigate completely our auditor because of a position taken by an authority in a foreign jurisdiction or any other reasons, the lack of inspection could cause the trading in our securities to be prohibited under the Holding Foreign Companies Accountable Act, and as a result Nasdaq may delist our securities.
+
+
+
+ As a holding company, we may rely on dividends and other distributions on equity paid by our subsidiaries for our cash and financing requirements. If any of our subsidiaries or our WFOE incurs debt on its own behalf in the future, the instruments governing such debt may restrict their ability to pay dividends to us. However, neither any of our subsidiaries or the VIE has made any dividends, other distributions or cash transfers to our holding company or any U.S. investors as of the date of this report. In the future, cash proceeds raised from overseas financing activities may be transferred by us to our PRC subsidiaries via capital contribution or shareholder loans, as the case may be. As a holding company, we may rely principally on dividends and other distributions on equity paid by our subsidiaries for our cash and financing requirements we may have. As of the date of this report, we do not have cash management policies and procedures in place that dictate how funds are transferred through our organization. Rather, the funds can be transferred in accordance with the applicable PRC laws and regulations. See “Dividend Distribution and Cash Transfer Between the Holding Company, Subsidiary and VIE” and “Selected Condensed Consolidated Financial Schedule of the Company and Its Subsidiaries and VIE.
+
+
+
+
+
+1
+
+
+
+
+
+
+
+ As of the date of this report, no dividends or distributions have been made between the holding company, its subsidiaries, and consolidated VIE, or to investors other than U.S. investors. The holding company, its subsidiaries, and the VIE do not have any plan to distribute dividend or settle amounts owed under the VIE Agreements in the foreseeable future. To the extent cash and/or assets in the business are in the PRC and/or Hong Kong or our PRC and/or Hong Kong entities, the VIE, and the WFOE (as defined below), such funds and/or assets may not be available to fund operations or for other use outside of the PRC and/or Hong Kong due to interventions in or the imposition of restrictions and limitations on the ability of us or our subsidiaries by the PRC government to transfer cash and/or assets. See “Dividend Distribution and Cash Transfer Between the Holding Company, Subsidiary and VIE.” and “Risk Factor - We could be restricted from paying dividends to shareholders due to PRC laws and other contractual requirements. To the extent cash and/or assets in the business are in the PRC and/or Hong Kong or our PRC and/or Hong Kong entities, the VIE, and the WFOE, such funds and/or assets may not be available to fund operations or for other use outside of the PRC and/or Hong Kong due to interventions in or the imposition of restrictions and limitations on the ability of us or our subsidiaries by the PRC government to transfer cash and/or assets.”
+
+
+
+ In the opinion of our PRC counsel Fengdong Law Firm, the VIE and certain subsidiaries of the Company are incorporated and operating in mainland China and they have received all required permissions from Chinese authorities to operate their current business in China, including Business licenses, Bank Account Open Permits and Value Added Telecom Business License. Our subsidiaries outside of mainland China also have obtained permissions or approvals to operate their business in the countries where they operate their business.
+
+
+
+ As of the date of this report, in the opinion of our PRC counsel Fengdong Law Firm, we, our subsidiaries and the VIE in China are not subject to permission requirements from the China Securities Regulatory Commission (“CSRC”), Cyberspace Administration of China (“CAC”) or any other entity that is required to approve of the VIE’s operations and have not received or were denied such permissions by any PRC authorities. Nevertheless, the General Office of the Central Committee of the Communist Party of China and the General Office of the State Council jointly issued the “Opinions on Severely Cracking Down on Illegal Securities Activities According to Law,” or the Opinions, which were made available to the public on July 6, 2021. The Opinions emphasized the need to strengthen the administration over illegal securities activities, and the need to strengthen the supervision over overseas listings by Chinese companies. Given the current PRC regulatory environment, it is uncertain when and whether we, our subsidiaries or the VIE, might be required to obtain permission from the PRC government to offer our securities to foreign investors in the future, and even when such permission is obtained, whether it will be denied or rescinded. If we or any of our subsidiaries or the VIE do not receive or maintain such permissions or approvals, inadvertently conclude that such permissions or approvals are not required, or applicable laws, regulations, or interpretations change and we or our subsidiaries are required to obtain such permissions or approvals in the future, it could significantly limit or completely hinder our ability to offer or continue to offer our securities to investors and cause the value of our securities to significantly decline or become worthless. If applicable laws, regulations, or interpretations change and the VIE is required to obtain such permissions or approvals in the future, we may face substantial uncertainties as to whether we can obtain such permissions or approvals in a timely manner, or at all. Failure to take timely and appropriate measures to adapt to any of these or similar regulatory compliance challenges could materially and adversely affect our current corporate structure and business operations. In addition, these VIE agreements have not been truly tested in the courts in China and Chinese regulatory authorities could disallow the VIE structure, which would likely result in a material change in our operations and/or value of our securities, including that it could cause the value of our securities to significantly decline or become worthless. The VIE structure is used to provide investors with exposure to foreign investment in China-based companies where Chinese law prohibits or restricts direct foreign investment in certain types of operating companies, and that investors may never hold equity interests in the VIE. See “Risk Factor - If the PRC government deems that the contractual arrangements in relation to the consolidated variable interest entity do not comply with PRC regulatory restrictions on foreign investment in the relevant industries, or if these regulations or the interpretation of existing regulations change in the future, we could be subject to severe penalties or be forced to relinquish our interests in those operations.”
+
+
+
+ On May 11, 2021, the Company established Future Supply Chain (Chengdu) Co., Ltd. Its business is coal and aluminum ingots supply chain financing services and trading.
+
+
+
+ On May 12, 2021, the Company established Future Big Data (Chengdu) Co., Ltd. in Chengdu, China. Its business includes big data technology and industrial internet data services.
+
+
+
+ On June 8, 2021, the Company established Tianjin Future Private Equity Fund Management Partnership (Limited Partnership) in Tianjin, China. Its main business is external equity investment.  
+
+
+
+ On June 24, 2021, the Company established FTFT Capital Investments L.L.C. in Dubai, United Arab Emirates. In December 2021, FTFT Capital Investments, LLC (“FTFT Dubai”), a subsidiary of the Company, officially launched FTFTX, a cryptocurrency market data platform that provides investors with real-time cryptocurrency market data and trading information from a large number of cryptocurrency exchanges. The market data is available for Bitcoin, ETH, EOS, Litecoin, TRON and other cryptocurrencies at https://www.ftftx.com and via the FTFTX App on iOS and Android devices. The FTFTX app is free to download on Google Play and the Apple Store.
+
+
+
+
+
+2
+
+
+
+
+
+
+
+ June 14, 2021, the Company established Future FinTech Labs Inc. in New York to serve as its global R&D and technical support center.
+
+
+
+ On July 2, 2021, the Company established Future Fintech Digital Number One US, LP. which is an investment fund.
+
+
+
+ On July 6, 2021, the Company established Future Fintech Digital Capital Management, LLC., which provides investment advisory services and investment fund management. 
+
+
+
+ On July 6, 2021, the Company established Future Fintech Digital Number One GP, LLC., which is an off-shore investment fund.
+
+
+
+ On August 2, 2021, the Company incorporated FTFT UK Limited in United Kingdom as serve as its operating base to develop fintech business in Europe.
+
+
+
+ On August 6, 2021, the Company completed acquisition of 90% of the issued and outstanding shares of Nice Talent Asset Management Limited (“NTAM”), a Hong Kong-based asset management company, from Joy Rich Enterprises Limited (“Joy Rich”). NTAM is licensed under the Securities and Futures Commission of Hong Kong (“SFC”) to carry out regulated activities in Type 4: Advising on Securities and Type 9: Asset Management.
+
+
+
+ On August 11, 2021, the Company established Future Private Equity Fund Management (Hainan) Co., Ltd. Its business is investment fund management.
+
+
+
+ On September 1, 2021, FTFT UK Limited, a company organized under the laws of United Kingdom and a wholly owned subsidiary of the Company (“FTFT UK”) entered into a Share Purchase Agreement with Rahim Shah, a resident of United Kingdom (“Seller”) to acquire 100% of the issued and outstanding shares (the “Sale Shares”) of Khyber Money Exchange Ltd., which is a money transfer company with a platform for transferring money through one of its agent locations or via its online portal, mobile platform or over the phone. Khyber Money Exchange Ltd. is regulated by the UK Financial Conduct Authority (FCA) and the parties are waiting for the approval by the FCA before formal closing of the transaction.
+On August 11, 2021, the Company established Future Private Equity Fund Management (Hainan) Co., Ltd. Its business is investment fund management.
+
+
+
+ On November 22, 2021, the Company established FTFT Digital Number One, Ltd., an investment fund.
+
+
+
+ On November 22, 2021, the Company established Future Fintech Digital Number One Offshore, LLC., an investment fund.
+
+
+
+ On December 15, 2021, the Company established FTFT Super Computing Inc. Its business is bitcoin and other cryptocurrency mining and related services.
+
+
+
+ In March 2022, FTFT UK received has received approval to operate as an Electronic Money Directive (“EMD”) Agent and has been registered as such with the Financial Conduct Authority (FCA), a UK regulator. This status grants FTFT UK the ability to distribute or redeem e-money and provide certain financial services on behalf of an e-money institution (registration number 903050).
+
+
+
+ Currently, Chain Cloud Mall adopts an “Enterprise Communication as A Service” or eCAAS platform which is a part of 3.15 China Responsible Brand Program run by the Anti-Counterfeiting Committee of China Foundation of Consumer Protection (the “Anti-Counterfeiting Committee”). Anti-Counterfeiting Committee reviews and accepts the companies to join its 3.15 China Responsible Brand Program. After acceptance, these companies are authorized to use anti-counterfeiting labels on their products which have authenticated signatures of these companies and Anti-Counterfeiting Committee recorded on the blockchain quality and safety traceability system controlled by the Anti-Counterfeiting Committee. The companies will sell such products on our eCAAS platform. The companies can also use sales agents to sell their products on our eCAAS platform and parties can negotiate the commission percentages for the products sold. Any new sales agent must be recommended by existing agents and pay a one-time fee to the eCAAS platform to be admitted as the authorized agent to provide sales agent services on the platform.
+
+
+
+ The Company started its trial operation of NONOGIRL, a cross-border e-commerce platform, in March 2020 and formally launched it in July 2020. The cross-border e-commerce platform aimed to build a new s2b2c (supplier to business and consumer) outsourcing sales platform dominated by social media influencers. It was aimed at the growing female consumer market, with the ability to broadcast, short video, and all forms communication through the platform. It could also create a sales oriented sharing ecosystem with other major social media used by customers, etc. The Company’s promotion strategy previously mainly relied on the training of members and distributors through meetings and conferences. Due to the outbreak of COVID-19, the Chinese government put a restriction on large gatherings. These restrictions made the promotion strategy for our online e-commerce platforms difficult to implement and the Company has experienced difficulties to subscribe new members for its online e-commerce platforms. Due to the lack of new subscribers, in June 2021, the Company suspended its cross-border e-commerce platform (NONOGIRL). Also, since the second quarter of 2021, the Company has transformed its member-based business model of Chain Cloud Mall to a sale agent based “Enterprise Communication as A Service” or eCAAS platform and began to provide supply chain financing services and trading of coal for coal mines and power generation plants as well as aluminum ingots.
+
+
+
+
+
+3
+
+
+
+
+
+
+
+ The Company currently has nine direct wholly-owned subsidiaries: DigiPay FinTech Limited (“DigiPay”), a company incorporated under the laws of the British Virgin Islands, Future FinTech (Hong Kong) Limited, a company incorporated under the laws of Hong Kong, GlobalKey Shared Mall Limited, a company incorporated under the laws of Cayman Islands (“GlobalKey Shared Mall”), Tianjin Future Private Equity Fund Management Partnership, a Limited Partnership under the laws of China, FTFT UK Limited, a company incorporated under the laws of United Kingdom, Future Fintech Digital Capital Management, LLC, a company incorporated under the laws of Connecticut, Future Fintech Digital Number One GP, LLC, a company incorporated under the laws of Connecticut, Future FinTech Labs Inc., a company incorporated under the laws of New York and FTFT SuperComputing Inc. a company incorporated under the laws of Ohio. 
+
+
+
+ SkyPeople Foods Holdings Limited (“SkyPeople BVI”) was a wholly owned subsidiary of the Company and a company organized under the laws of the British Virgin Islands, which held 100% of the equity interest of HeDeTang Holdings (HK) Ltd. (“HeDeTang HK”), a company organized under the laws of the Hong Kong Special Administrative Region of the People’s Republic of China (“Hong Kong”), and HeDeTang HK held 73.42% of the equity interest of SkyPeople Juice Group Co., Ltd., (“SkyPeople (China)”), a company incorporated under the laws of the PRC. SkyPeople (China) had eleven subsidiaries in the PRC, which were mainly involved in the production and sales of fruit juice concentrates, fruit juice beverages and other fruit-related products in the PRC and overseas markets. On February 27, 2020, SkyPeople BVI (the “Seller”) completed the transfer of its ownership of HeDeTang HK to New Continent International Co., Ltd. (the “Buyer”), an unrelated third party and a company incorporated in the British Virgin Islands for a total price of RMB 0.6 million (approximately $85,714), pursuant to a Share Transfer Agreement entered into by the Seller and the Buyer on September 18, 2019 and approved at the special shareholders meeting of the Company on February 26, 2020 (the “Sale Transaction”). SkyPeople BVI had no operational assets or business after the transfer and the Company dissolved SkyPeople BVI on July 27, 2020.
+
+
+
+ Our organizational structure as of December 31, 2021 is set forth in the diagram:
+
+
+
+
+
+
+
+
+Contractual Arrangements
+
+
+ Equity Interest
+
+
+
+
+
+4
+
+
+
+
+
+
+
+ VIE Contractual Arrangements
+
+
+
+ On July 31, 2019, Cloud Chain Network and Technology (Tianjin) Co., Limited (“CCM Network” or “CCM Tianjin”, formerly known as Chain Cloud Mall Network and Technology (Tianjin) Co., Limited), Cloud Chain E-Commerce (Tianjin) Co., Ltd., formerly known as Chain Cloud Mall E-Commerce (Tianjin) Co., Ltd. (“E-Commerce Tianjin”), a limited liability company incorporated under the laws of China, and Mr. Zeyao Xue and Mr. Kai Xu, citizens of China and together 100% shareholders of E-Commerce Tianjin, entered into the following agreements, or collectively, the “Variable Interest Entity Agreements” or “VIE Agreements,” pursuant to which CCM Network has contractual rights to control and operate the business of E-commerce Tianjin (the “VIE”). Mr. Zeyao Xue is a major shareholder of the Company and the son of Mr. Yongke Xue, the President of the Company. Mr. Kai Xu was the Chief Operating Officer of the Company then and currently is the Deputy General Manager of FT Commercial Group Ltd., a wholly owned subsidiary of the Company and the vice president of blockchain division of the Company. The VIE is consolidated for accounting purposes but is not an entity in which we own equity.
+
+
+
+ Pursuant to Chinese law and regulations, a foreign owned enterprise cannot apply for and hold a license for operation of certain e-commerce businesses. CCM Network is an indirectly wholly foreign owned enterprise of the Company (“WFOE”). In order to comply with Chinese law and regulations, CCM Network agreed to provide E-Commerce Tianjin an Exclusive Operation and Use Rights Authorization to operate and use the Chain Cloud Mall System owned by CCM Network. Although the VIE Contractual Arrangements have been widely adopted by PRC companies seeking for listing aboard, such arrangements have not been truly tested in any of the PRC courts. There are very few precedents as to how contractual arrangements in the context of a consolidated variable interest entity should be interpreted or enforced under PRC laws. In addition, these VIE agreements have not been truly tested in the courts in China and Chinese regulatory authorities could disallow the VIE structure, which would likely result in a material change in our operations and/or value of our securities, including that it could cause the value of our securities to significantly decline or become worthless. The VIE structure is used to provide investors with exposure to foreign investment in China-based companies where Chinese law prohibits or restricts direct foreign investment in certain types of operating companies, and that investors may never hold equity interests in the VIE. If the consolidated VIE or its shareholders fail to perform their respective obligations under the contractual arrangements, we may have to incur substantial costs and expend additional resources to enforce such arrangements.
+
+
+
+ The following is a summary of the currently effective contractual arrangements relating to E-Commerce Tianjin.
+
+
+
+ Contractual Arrangements with The Consolidated Affiliated Entity and Its Respective Shareholders
+
+
+
+ The contractual arrangements with the VIE and its shareholders allow us to consolidate financial results of the VIE in our financial statements because we have satisfied conditions for consolidation of the VIE under U.S. GAAP, pursuant to which E-Commerce Tianjin is considered a VIE under the Statement of Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) 810 “Consolidation”, because the equity investments in E-Commerce Tianjin no longer have the characteristics of a controlling financial interest, and the Company, through CCM Network, is the primary beneficiary of E-Commerce Tianjin for accounting purposes. A VIE is an entity that either has a total equity investment that is insufficient to finance its activities without additional subordinated financial support, or whose equity investors lack the characteristics of a controlling financial interest, such as through voting rights, right to receive the expected residual returns of the entity. The variable interest holder, if any, that has a controlling financial interest in a VIE is deemed to be the primary beneficiary of, and must consolidate, the VIE. CCM Network has a controlling financial interest in, receives the economic benefits from, is the primary beneficiary of and has the power to direct the activities of the VIE to the extent that it has satisfied the conditions for consolidation of the VIE under U.S. GAAP. Pursuant to the contractual arrangements with CCM Network, E-Commerce Tianjin shall pay service fees equal to all of its net profit after tax to CCM Network. Such contractual arrangements are designed so that the E-Commerce Tianjin would operate for the benefit of CCM Network and ultimately, the Company.
+
+
+
+ As a result of the contractual arrangements with the VIE, we are regarded as the primary beneficiary of the VIE for accounting purposes, and we treat the VIE and its subsidiaries as the consolidated affiliated entities under U.S. GAAP. We have consolidated the financial results of the VIE in our consolidated financial statements in accordance with U.S. GAAP.
+
+
+
+ Exclusive Technology Consulting and Service Agreement.
+
+
+
+ Pursuant to the Exclusive Technology Consulting and Service Agreement, CCM Network agreed to act as the exclusive consultant of E-Commerce Tianjin and provide technology consulting and services to E-Commerce Tianjin. In exchange, E-Commerce Tianjin agreed to pay CCM Network a technology consulting and service fee, the amount of which is to be equivalent to the amount of net profit before tax of E-Commerce Tianjin, payable on a quarterly basis after making up losses of previous years (if necessary) and deducting necessary costs and expenses related to the business operations of E-Commerce Tianjin. Without the prior written consent of CCM Network, E-Commerce Tianjin may not accept the same or similar technology consulting and services provided by any third party during the term of the agreement. All the benefits and interests generated from the agreement, including but not limited to intellectual property rights, know-how and trade secrets, will be CCM Network’s sole and exclusive property. This agreement has a term of 10 years and may be extended unilaterally by CCM Network with CCM Network’s written confirmation prior to the expiration date. E-Commerce Tianjin cannot terminate the agreement early unless CCM Network commits fraud, gross negligence or illegal acts, or becomes bankrupt or winds up.
+
+
+
+
+
+5
+
+
+
+
+
+
+
+ Exclusive Purchase Option Agreement and Power of Attorney.
+
+
+
+ Pursuant to the Exclusive Purchase Option Agreement, Mr. Zeyao Xue and Mr. Kai Xu granted to CCM Network and any party designated by CCM Network the exclusive right to purchase, at any time during the term of this agreement, all or part of the equity interests in E-Commerce Tianjin, or the “Equity Interests,” at a purchase price equal to the registered capital paid by Mr. Zeyao Xue and Mr. Kai Xu for the Equity Interests, or, in the event that applicable law requires an appraisal of the Equity Interests, the lowest price permitted under applicable law. Pursuant to powers of attorney executed by Mr. Zeyao Xue and Mr. Kai Xu, they irrevocably authorized any person appointed by CCM Network to exercise all shareholder rights, including but not limited to voting on their behalf on all matters requiring approval of E-Commerce Tianjin’s shareholder, disposing of all or part of the shareholder’s equity interest in E-Commerce Tianjin, and electing, appointing or removing directors and executive officers. The person designated by CCM Network is entitled to dispose of dividends and profits on the equity interest without reliance on any oral or written instructions of Mr. Zeyao Xue and Mr. Kai Xu. The powers of attorney will remain in force for so long as Mr. Zeyao Xue and Mr. Kai Xu remain the shareholders of E-Commerce Tianjin. Mr. Zeyao Xue and Mr. Kai Xu have waived all the rights which have been authorized to CCM Network’s designated person under the powers of attorney.
+ Equity Pledge Agreement.
+
+
+
+ Pursuant to the Equity Pledge Agreements, Mr. Zeyao Xue and Mr. Kai Xu pledged all of the Equity Interests to CCM Network to secure the full and complete performance of the obligations and liabilities on the part of E-Commerce Tianjin and them under this and the above contractual arrangements. If E-Commerce Tianjin, Mr. Zeyao Xue, or Mr. Kai Xu breaches their contractual obligations under these agreements, then CCM Network, as pledgee, will have the right to dispose of the pledged equity interests. Mr. Zeyao Xue and Mr. Kai Xu agree that, during the term of the Equity Pledge Agreements, they will not dispose of the pledged equity interests or create or allow any encumbrance on the pledged equity interests, and they also agree that CCM Network’s rights relating to the equity pledge should not be interfered with or impaired by the legal actions of the shareholders of E-Commerce Tianjin, their successors or designees. During the term of the equity pledge, CCM Network has the right to receive all of the dividends and profits distributed on the pledged equity. The Equity Pledge Agreements will terminate on the second anniversary of the date when E-Commerce Tianjin, Mr. Zeyao Xue and Mr. Kai Xu have completed all their obligations under the contractual agreements described above.
+ Spousal Consent Letters. The spouse of Mr. Kai Xu (Mr. Zeyao Xue is not married), the shareholder of E-Commerce Tianjin has signed a spousal consent letter agreeing that the equity interests in E-Commerce Tianjin held by and registered under the name of such shareholder will be disposed pursuant to the contractual agreements with CCM Network. The spouse of such shareholder agreed not to assert any rights over the equity interest in E-Commerce Tianjin held by such shareholder.
+
+
+
+ We are a holding company incorporated in Florida. As a holding company with no material operations of our own, we conduct a substantial majority of our operations through our subsidiaries and contractual arrangements with the VIE (E-Commerce Tianjin) based in China. The VIE is consolidated for accounting purposes but is not an entity in which we own equity. The VIE structure is subject to various risks. For example, the contractual arrangements may not be as effective as direct ownership in providing us with control over E-Commerce Tianjin. We expect to rely on the performance by the VIE shareholders of their respective obligations under the contracts to exercise control over E-Commerce Tianjin. The VIE shareholders may not act in the best interests of our company or may not perform their obligations under these contracts. Such risks will exist throughout the period in which we operate related e-commerce platform business through the contractual arrangements. If any dispute relating to these contracts remains unresolved, we will have to enforce our rights under these contracts through the operations of PRC law and arbitration, litigation or other legal proceedings which could be a lengthy process and very costly.
+
+
+
+ Dividend Distribution and Cash Transfer Between the Holding Company, Subsidiary and VIE
+
+
+
+ Our PRC operating entities receive a substantial part of our revenue in the RMB. Under our current corporate structure, to fund any cash and financing requirements we may have, the Company may rely on dividend payments from its nine direct wholly-owned subsidiaries. CCM Network will receives payment from E-Commerce Tianjin when it starts to generate profits, pursuant to the VIE Agreements. Under existing PRC foreign exchange regulations, payments of current account items, such as profit distributions and trade and service-related foreign exchange transactions, can be made in foreign currencies without prior approval from State Administration of Foreign Exchange or the SAFE by complying with certain procedural requirements. Therefore, our Chinese subsidiaries are able to pay dividends in foreign currencies to us without prior approval from SAFE, subject to the condition that the remittance of such dividends outside of the PRC complies with certain procedures under PRC foreign exchange regulation, such as the overseas investment registrations by our shareholders or the ultimate shareholders of our corporate shareholders who are PRC residents. Approval from or registration with appropriate government authorities is, however, required where the RMB is to be converted into foreign currency and remitted out of China to pay capital expenses such as the repayment of loans denominated in foreign currencies. The PRC government may also at its discretion restrict access in the future to foreign currencies for current account transactions. For the Company and our subsidiaries in Hong Kong, BVI, Japan, Cayman, UK, Dubai and U.S. (“Non-PRC Entities”), there is no restrictions on foreign exchange for such entities and they are able to transfer cash among these entities across borders. Also, there is no restrictions and limitations on the abilities of Non-PRC Entities to distribute earnings from their businesses, including from subsidiaries to the parent company or from the Company to the U.S. investors.
+
+
+
+
+
+6
+
+
+
+
+
+
+
+Current PRC regulations permit our PRC subsidiaries to pay dividends to the Company only out of their accumulated profits, if any, determined in accordance with Chinese accounting standards and regulations. In addition, each of our subsidiaries in China is required to set aside at least 10% of its after-tax profits each year, if any, to fund a statutory reserve until such reserve reaches 50% of its registered capital. Each such entity in China is also required to further set aside a portion of its after-tax profits to fund the employee welfare fund, although the amount to be set aside, if any, is determined at the discretion of its board of directors. Although the statutory reserves can be used, among other ways, to increase the registered capital and eliminate future losses in excess of retained earnings of the respective companies, the reserve funds are not distributable as cash dividends except in the event of liquidation. Under the existing laws of Hong Kong, funds from capital accounts can be repatriated and remitted overseas without restrictions, and there is no foreign exchange control imposed.
+
+
+
+To the extent cash and/or assets in the business are in the PRC and/or Hong Kong or our PRC and/or Hong Kong entities, the VIE, and the WFOE, such funds and/or assets may not be available to fund operations or for other use outside of the PRC and/or Hong Kong due to interventions in or the imposition of restrictions and limitations on the ability of us or our subsidiaries by the PRC government to transfer cash and/or assets. See “Risk Factor - We could be restricted from paying dividends to shareholders due to PRC laws and other contractual requirements.” and “Risk Factor - We could be restricted from paying dividends to shareholders due to PRC laws and other contractual requirements. To the extent cash and/or assets in the business are in the PRC and/or Hong Kong or our PRC and/or Hong Kong entities, the VIE, and the WFOE, such funds and/or assets may not be available to fund operations or for other use outside of the PRC and/or Hong Kong due to interventions in or the imposition of restrictions and limitations on the ability of us or our subsidiaries by the PRC government to transfer cash and/or assets.” We intend to keep any future earnings to re-invest in and finance the expansion of our business, and we do not anticipate that any cash dividends will be paid in the foreseeable future. We currently don’t have any cash management policies and procedures in place that dictate how funds are transferred through our organization. Rather, the funds can be transferred in accordance with the applicable PRC laws and regulations. 
+
+
+
+Cash dividends, if any, on our shares of common stock will be paid in U.S. dollars. If we are considered a PRC tax resident enterprise for tax purposes, any dividends we pay to our overseas shareholders may be regarded as China-sourced income and as a result may be subject to PRC withholding tax at a rate of up to 10.0%. Pursuant to the Arrangement between the Mainland of China and the Hong Kong Special Administrative Region for the Avoidance of Double Taxation and the Prevention of Fiscal Tax Evasion With Respect to Taxes On Income, or the Double Tax Avoidance Arrangement, the 10% withholding tax rate may be lowered to 5%, if the recipient of the relevant dividends qualifies certain necessary requirements, including without limitation that (a) the Hong Kong project must be the beneficial owner of the relevant dividends; and (b) the Hong Kong project must directly hold no less than 25% share ownership in the PRC project during the 12 consecutive months preceding its receipt of the dividends. The 5% withholding tax rate, however, does not automatically apply and in current practice, a Hong Kong project must obtain a tax resident certificate from the Hong Kong tax authority to apply for the 5% lower PRC withholding tax rate. As the Hong Kong tax authority will issue such a tax resident certificate on a case-by-case basis, we cannot assure you that we will be able to obtain the tax resident certificate from the relevant Hong Kong tax authority and enjoy the preferential withholding tax rate of 5% under the Double Taxation Arrangement with respect to any dividends paid by our PRC subsidiaries to its immediate holding company, Future FinTech (Hong Kong) Limited. As of the date of this report, we have not applied for the tax resident certificate from the relevant Hong Kong tax authority. Future FinTech (Hong Kong) Limited intends to apply for the tax resident certificate if and when its PRC subsidiaries plan to declare and pay dividends to Future FinTech (Hong Kong) Limited.
+
+
+
+
+
+7
+
+
+
+
+
+
+
+During the fiscal years ended December 31, 2021 and 2020, cash transfers between our Company, our subsidiaries, and the VIE were as follows: 
+
+
+
+Selected Condensed Consolidated Financial Schedule of the Company and Its Subsidiaries and VIE
+
+
+
+The following tables present selected condensed consolidated financial data of the Company and its subsidiaries and VIE for the years ended December 31, 2021 and 2020, and balance sheet data as of December 31, 2021 and 2020, which have been derived from our audited consolidated financial statements for those periods.  The Company records its investments in its subsidiaries under the equity method of accounting. Such investments are presented in the selected condensed consolidated balance sheets of the Company as “Investments in VIE” and the profit of the subsidiaries is presented as “Income for equity method investment” in the selected condensed consolidated statements of income and comprehensive income.
+Future FinTech Group Inc.
+
+As of December 31, 2021
+
+
+
+ | Future FinTech(1) | | WOFE(2) | | Parent(3) | Subsidiaries(4) | PRC(5) | | | Hong Kong subsidiaries(6) | | VIE(7) | Eliminations | | Consolidated Total(8) | 
+-------------------------------------------+-------------------+------------+---------+------------+-----------+-----------------+--------+-------------+---+---------------------------+-------------+--------+--------------+---+-----------------------+---------
+Cash | | 50,262,855 | | 3,208 | | 36,013,785 | | 1,735,353 | | | 11,385,955 | | 1,127,762 | | | 10,662 | | - | | 50,273,517
+Intercompany receivables | | | | 91,648 | | 145,935,113 | | - | | | 731,542 | | 21,606,086 | | | 399,594 | | (168,672,334 | ) | - 
+TOTAL CURRENT ASSETS | | 72,282,967 | | 174,690 | | 181,977,108 | | 3,627,337 | | | 40,615,756 | | 31,110,930 | | | 438,088 | | (185,048,164 | ) | 72,721,055
+Investment in subsidiaries | | - | | - | | 373,366 | | 153,259 | | | 1,568,455 | | 42,943,083 | | | - | | (45,038,163 | ) | - 
+TOTAL NON CURRENT ASSETS | | 18,899,330 | | 37,590 | | 373,366 | | 649,526 | | | 4,341,708 | | 42,989,219 | | | 36,700 | | (29,454,489 | ) | 18,936,030
+TOTAL ASSETS | | 91,182,297 | | 212,280 | | 182,350,474 | | 4,276,863 | | | 44,957,464 | | 74,100,149 | | | 474,788 | | (214,502,653 | ) | 91,657,085
+Intercompany payables | | | | - | | - | | 20,090,419 | | | 79,878,750 | | 87,889,375 | | | 601,915 | | (188,460,459 | ) | - 
+TOTAL LIABILITIES | | 9,938,826 | | 1,972,157 | | 313,363 | | 20,297,678 | | | 82,134,085 | | 96,232,710 | | | 864,101 | | (189,039,010 | ) | 10,802,927
+TOTAL STOCKHOLDERS’ EQUITY | | 81,243,471 | | (1,759,877 | ) | 182,037,111 | | (16,020,815 | ) | | (37,176,621 | ) | (22,132,561 | ) | | (389,313 | ) | (25,463,643 | ) | 80,854,158
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY | | 91,182,297 | | 212,280 | | 182,350,474 | | 4,276,863 | | | 44,957,464 | | 74,100,149 | | | 474,788 | | (214,502,653 | ) | 91,657,085
+
+Future FinTech Group Inc.
+
+For the year ended December 31, 2021
+
+
+
+
+ | Future FinTech(1) | | | WOFE(2) | | Parent(3) | Subsidiaries(4) | | PRC(5) | | | Hong Kong subsidiaries(6) | | VIE(7) | Eliminations | | Consolidated Total(8) | 
+-----------------------------+-------------------+-------------+---+---------+---------+-----------+-----------------+---+--------+------------+---+---------------------------+------------+--------+--------------+---+-----------------------+---------
+Revenues | | 25,044,142 | | | - | | - | | | - | | | 34,034,661 | | 5,315,708 | | | 6,659 | | (14,306,227 | ) | 25,050,801 | 
+Cost of goods/services | | 23,242,882 | | | - | | - | | | - | | | 33,524,791 | | 4,024,318 | | | 6,054 | | (14,306,227 | ) | 23,248,936 | 
+Other material expenses | | 14,879,235 | | | 66,955 | | 11,401,929 | | | 2,564,823 | | | (566,789 | ) | 1,479,272 | | | 131,214 | | - | | 15,010,449 | 
+Subtotals | | (13,077,975 | ) | | (66,955 | ) | (11,401,929 | ) | | (2,564,823 | ) | | 1,076,659 | | (187,882 | ) | | (130,609 | ) | - | | (13,208,584 | )
+Net Income (Loss) | | (14,117,924 | ) | | 341,357 | | (11,413,830 | ) | | (2,584,775 | ) | | (523,733 | ) | (235,699 | ) | | (88,001 | ) | 640,113 | | (14,205,925 | )
+Comprehensive Income ( Loss) | | (14,349,765 | ) | | 385,623 | | (11,413,830 | ) | | (2,584,775 | ) | | (115,462 | ) | (235,699 | ) | | (56,007 | ) | - | | (14,405,773 | )
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+Future FinTech Group Inc.
+
+For the year ended December 31, 2021
+
+
+
+
+ | Future FinTech(1) | | | WOFE(2) | | Parent(3) | Subsidiaries(4) | | PRC(5) | | | Hong Kong subsidiaries(6) | | VIE(7) | Eliminations | | Consolidated Total(8) | 
+----------------------------------------------------+-------------------+-------------+---+---------+---------+-----------+-----------------+---+--------+-----------+---+---------------------------+-------------+--------+--------------+---+-----------------------+--------
+Net cash provided by (used in) operating activities | | (17,378,033 | ) | | (44,014 | ) | 29,838,415 | | | 2,981,154 | | | (56,152,939 | ) | 5,955,337 | | | 4,439 | | - | (17,373,594 | )
+Net Cash Used in Investing Activities | | (11,144,882 | ) | | - | | - | | | (586,913 | ) | | (4,797,486 | ) | (5,760,483 | ) | | (36,105 | ) | - | (11,180,987 | )
+Net Cash Provided by Financing Activities | | 69,274,810 | | | - | | (1,163,146 | ) | | - | | | 70,437,956 | | - | | | - | | - | 69,274,810 | 
+
+Future FinTech Group Inc.
+
+As of December 31 2020
+
+
+
+
+ | Future FinTech(1) | | WOFE(2) | | Parent(3) | Subsidiaries(4) | PRC(5) | | | Hong Kong subsidiaries(6) | | VIE(7) | Eliminations | | Consolidated Total (8) | 
+-------------------------------------------+-------------------+------------+---------+------------+-----------+-----------------+--------+-------------+---+---------------------------+-------------+--------+--------------+---+------------------------+---------
+Cash | | 9,777,282 | | 2,955 | | 7,338,516 | | 1,765 | | | 2,436,497 | | 504 | | | 10,759 | | - | | 9,788,041 
+Intercompany receivables | | | | 173,924 | | 101,097,836 | | - | | | 5,097,188 | | 22,010,542 | | | 273,538 | | (128,479,105 | ) | - 
+TOTAL CURRENT ASSETS | | 15,216,076 | | 178,259 | | 108,451,352 | | 5,765 | | | 13,263,597 | | 22,011,046 | | | 303,792 | | (128,515,684 | ) | 15,519,869
+Investment in subsidiaries | | - | | - | | - | | 153,259 | | | 153,259 | | - | | | - | | (306,518 | ) | - 
+TOTAL NON CURRENT ASSETS | | 410,548 | | 50,260 | | | | 153,259 | | | 860,470 | | - | | | 1,296 | | (603,181 | ) | 411,843 
+TOTAL ASSETS | | 15,626,624 | | 228,519 | | 108,451,352 | | 159,024 | | | 14,124,066 | | 22,011,046 | | | 305,088 | | (129,118,865 | ) | 15,931,712
+Intercompany payables | | | | 1,868,390 | | - | | 15,182,391 | | | 72,455,666 | | 44,533,300 | | | 435,954 | | (132,607,312 | ) | - 
+TOTAL LIABILITIES | | 6,602,083 | | 2,285,671 | | 2,032,810 | | 15,182,391 | | | 76,580,789 | | 44,581,295 | | | 598,488 | | (131,775,202 | ) | 7,200,571 
+TOTAL STOCKHOLDERS’ EQUITY | | 9,024,541 | | (2,057,152 | ) | 106,418,542 | | (15,023,367 | ) | | (62,456,723 | ) | (22,570,248 | ) | | (293,400 | ) | 2,656,337 | | 8,731,141 
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY | | 15,626,624 | | 228,519 | | 108,451,352 | | 159,024 | | | 14,124,066 | | 22,011,046 | | | 305,088 | | (129,118,865 | ) | 15,931,712
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+Future FinTech Group Inc.
+
+For the year ended December 31 2020
+
+
+
+
+ | Future FinTech(1) | | | WOFE(2) | | Parent(3) | Subsidiaries(4) | | PRC(5) | | | Hong Kong subsidiaries(6) | | VIE(7) | Eliminations | | Consolidated Total(8) | 
+-----------------------------+-------------------+-------------+---+---------+------------+-----------+-----------------+---+--------+------------+---+---------------------------+-------------+--------+--------------+---+-----------------------+---------
+Revenues | | 189,131 | | | 187,199 | | - | | | - | | | 189,964 | | - | | | 181,526 | | (833 | ) | 370,657 | 
+Cost of goods/services | | 265 | | | - | | - | | | - | | | 1,098 | | - | | | 35,021 | | (833 | ) | 35,286 | 
+Other material expenses | | 15,040,378 | | | 1,911,205 | | 8,843,304 | | | 160,148 | | | (16,478,272 | ) | 22,515,198 | | | 312,624 | | - | | 15,353,002 | 
+Subtotals | | (14,851,512 | ) | | (1,724,006 | ) | (8,843,304 | ) | | (160,148 | ) | | 16,667,138 | | (22,515,198 | ) | | (166,119 | ) | - | | (15,017,631 | )
+Net Income (Loss) | | 89,108,113 | | | (1,750,192 | ) | (11,750,075 | ) | | 12,410,399 | | | 65,930,569 | | 22,517,221 | | | (177,802 | ) | - | | 88,930,311 | 
+Comprehensive Income ( Loss) | | 75,440,746 | | | (4,963,670 | ) | (11,750,075 | ) | | 12,410,399 | | | 52,263,201 | | 22,517,221 | | | 102,143 | | - | | 75,542,889 | 
+
+Future FinTech Group Inc.
+
+For the year ended December 31 2020
+
+
+
+
+ | Future FinTech (1) | | | WOFE (2) | Parent(3) | Subsidiaries(4) | | PRC(5) | | Hong Kong subsidiaries(6) | | VIE(7) | Eliminations | Consolidated Total(8) | 
+----------------------------------------------------+--------------------+-------------+---+----------+-----------+-----------------+---+--------+---+---------------------------+------------+--------+--------------+-----------------------+--------
+Net cash provided by (used in) operating activities | | (10,274,604 | ) | | | (957,990 | ) | | - | | (9,495,682 | ) | 179,068 | | 133,770 | | - | (10,140,834 | )
+Net Cash Used in Investing Activities | | (46,195 | ) | | | - | | | - | | (46,195 | ) | - | | (1,814 | ) | - | (48,009 | )
+Net Cash Provided by Financing Activities | | 3,220,580 | | | | 957,990 | | | - | | 2,262,590 | | - | | 4,531 | | - | 3,225,111 | 
+
+
+(1) | Future FinTech：all companies except for VIE.
+----+---------------------------------------------
+
+
+(2) | WFOE: Cloud Chain Network and Technology (Tianjin) Co., Limited, the wholly foreign owned entity of the Company that is the primary beneficiary of the VIE.
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Parent：the holding company, i.e. Future FinTech Group Inc.
+----+-----------------------------------------------------------
+
+
+(4) | Subsidiaries：all subsidiaries except for VIE, subsidiaries in PRC, Future FinTech (Hong Kong) Limited and Nice Talent Asset Management Limited in Hong Kong.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | PRC：all subsidiaries in China except for VIE.
+----+----------------------------------------------
+
+
+(6) | Hong Kong subsidiaries：Future FinTech (Hong Kong) Limited and Nice Talent Asset Management Limited.
+----+----------------------------------------------------------------------------------------------------
+
+
+(7) | VIE：E-Commerce Tianjin.
+----+------------------------
+
+
+(8) | Consolidated Total：all companies included.
+----+-------------------------------------------
+
+
+
+
+
+
+10
+
+
+
+
+
+
+
+ Impact of COVID-19 on our Business
+
+
+
+ In December 2019, a novel strain of coronavirus was reported and has spread throughout China and other parts of the world. On March 11, 2020, the World Health Organization characterized the outbreak as a “pandemic”. In early 2020, Chinese government took emergency measures to combat the spread of the virus, including quarantines, travel restrictions, and the temporary closure of office buildings and facilities in China. In response to the evolving dynamics related to the COVID-19 outbreak, the Company is following the guidelines of local authorities as it prioritizes the health and safety of its employees, contractors, suppliers and business partners. Our offices in China were closed and the employees worked from home at the end of January until late March 2020 and was closed again in January 2022 due to the COVID-19 outbreak. The quarantines, travel restrictions, and the temporary closure of office buildings have materially negatively impacted our business. Our suppliers were negatively affected, and could continue to be negatively affected in their ability to supply and ship products to our customers in case of any resurgence of COVID-19. Our customers that have been negatively impacted by the outbreak of COVID-19 may reduce their budgets to purchase products and services from us, which may materially adversely impact our revenue. The business operations of the third parties’ stores on our e-commerce platform have been and continue to be negatively impacted by the outbreak, which in turn adversely affects the business of our platform as a whole as well as our financial condition and operating results. The outbreak has had and continues to have disruption to our supply chain, logistics providers, customers or our marketing activities with the new variants of COVID-19, which could materially adversely impact our business and results of operations. Although China has already begun to recover from the outbreak of COVID-19, there are still outbreak in various cities and provinces due to new variants, including the recent outbreak of Omicron variant in Xi’an city, Hong Kong and Shanghai city in 2022 which have resulted quarantines, travel restrictions, and temporary closure of office buildings and facilities in these cities. The Company’s promotion strategy of CCM Shopping Mall previously mainly relied on the training of members and distributors through meetings and conferences. Chinese government still puts a restriction on large gatherings. These restrictions made the promotion strategy for our online e-commerce platforms difficult to implement and the Company has experienced difficulties to subscribe new members for its online e-commerce platforms. Due to the lack of new subscribers, in June 2021, the Company suspended its cross-border e-commerce platform NONOGIRL. Also, since the second quarter of 2021, the Company has transformed its member-based Chain Cloud Mall to a sale agent based eCAAS platform and began to provide supply chain financing services.
+
+
+
+ The global economy has also been materially negatively affected by the COVID-19 and there is continued severe uncertainty about the duration and intensity of its impacts. The Chinese and global growth forecast is extremely uncertain, which would seriously affect our business.
+
+
+
+ While the potential economic impact brought by, and the duration of COVID-19 and its new variants may be difficult to assess or predict, a widespread pandemic could result in significant disruption of global financial markets, reducing our ability to access capital, which could negatively affect our liquidity. In addition, a recession or market correction resulting from the spread of COVID-19 and its new variants could materially negatively affect our business and the value of our common stock. 
+
+
+
+ Further, as we do not have access to a revolving credit facility, there can be no assurance that we would be able to secure commercial debt financing in the future in the event that we require additional capital. We currently believe that our financial resources will be adequate to see us through the outbreak. However, in the event that we do need to raise capital in the future, outbreak-related instability in the securities markets could adversely affect our ability to raise additional capital.
+
+
+
+ Consequently, our results of operations have been materially and adversely affected by COVID-19 pandemic. Any potential further impact to our results will depend on, to a large extent, future developments and new information that may emerge regarding the duration and severity of the COVID-19, new variants of COVID-19, the efficacy and distribution of COVID-19 vaccines and the actions taken by government authorities and other entities to contain the COVID-19 or treat its impact, almost all of which are beyond our control.
+
+
+
+ Company Strategy and Principal Products and Services
+
+
+
+ Our core business historically has been in the production and sale of fruit juice concentrates (including fruit purees and fruit juices), fruit beverages (including fruit juice beverages and fruit cider beverages) in the PRC and internationally. Due to drastically increased production cost and tightened environmental laws in China, the Company has transformed its main business from fruit juice manufacturing and distribution to a real-name blockchain e-commerce platform that integrates blockchain and internet technology in fiscal year 2019. The e-commerce platform contributed 93.7% to the total revenue for fiscal year 2020. Due to the outbreak of COVID-19, the Chinese government put a restriction on large gatherings. These restrictions made the promotion strategy for our online e-commerce platforms difficult to implement and the Company has experienced difficulties to subscribe new members for its online e-commerce platforms. Due to the lack of new subscribers, since the second quarter of 2021, the Company has transformed its member-based business model of Chain Cloud Mall to a sale agent based eCAAS platform and began to provide supply chain financing services and trading of coal for coal mines and power generation plants as well as aluminum ingots. Also, the Company acquired 90% of the issued and outstanding shares of NTAM, a Hong Kong-based asset management company in August 2021. NTAM is licensed under the Securities and Futures Commission of Hong Kong (“SFC”) to carry out regulated activities in Type 4: Advising on Securities and Type 9: Asset Management. During the fiscal year of 2021, the supply chain financing and wealth management business of NTAM contributed 78.75% and 21.22% of our revenues, respectively.
+
+
+
+
+
+11
+
+
+
+
+
+
+
+ On September 1, 2021, FTFT UK entered into a Share Purchase Agreement with Rahim Shah, a resident of United Kingdom (“Seller”) to acquire 100% of the issued and outstanding shares (the “Sale Shares”) of Khyber Money Exchange Ltd., which is a money transfer company with a platform for transferring money through one of its agent locations or via its online portal, mobile platform or over the phone. Khyber Money Exchange Ltd. is regulated by the UK Financial Conduct Authority (FCA) and the parties are waiting for the approval by the FCA before formal closing of the transaction.
+
+
+
+ In December 2021, FTFT Capital Investments, LLC officially launched FTFTX, a cryptocurrency market data platform that provides investors with real-time cryptocurrency market data and trading information from a large number of cryptocurrency exchanges. The market data is available for Bitcoin, ETH, EOS, Litecoin, TRON and other cryptocurrencies at https://www.ftftx.com and via the FTFTX App on iOS and Android devices. The FTFTX app is free to download on Google Play and the Apple Store.
+
+
+
+ In March 2022, FTFT UK FTFT UK received has received approval to operate as an Electronic Money Directive (“EMD”) Agent and has been registered as such with the Financial Conduct Authority (FCA), a UK regulator. This status grants FTFT UK the ability to distribute or redeem e-money and provide certain financial services on behalf of an e-money institution (registration number 903050).
+
+
+
+ The Company is in the process of transition and developing its financial technology related business, including asset management, supply chain financial services, digital banking and payment services, blockchain based e-commerce, and cryptocurrency market data services.
+
+
+
+ Chain Cloud Mall (CCM)
+
+
+
+ The trial operation of CCM started on December 26, 2018. On January 22, 2019, the Company formally launched Chain Cloud Mall, the real-name and membership-based blockchain shared shopping mall platform that integrates blockchain and internet technology. On June 1, 2019, CCM v2.0 was launched and on May 1, 2020, CCM v3.0 was launched. The blockchain technology enables CCM to record every event or transaction on a distributed ledger and makes the whole process traceable. It also enables the CCM to record and provide CCM points to its members upon a successful new member and/or product referral, which can be used as credit when making purchases on CCM. It incentivizes its members to promote the platform and share the products with their social contacts, which in turn increases the sales through CCM.
+
+
+
+ Due to the outbreak of COVID-19, the Chinese government put a restriction on large gatherings. These restrictions made the promotion strategy for our online e-commerce platforms difficult to implement and the Company has experienced difficulties to subscribe new members for its online e-commerce platforms. Due to the lack of new subscribers, since the second quarter of 2021, the Company has transformed its member-based business model of CCM to a sale agent based eCAAS platform.
+
+
+
+ Currently, Chain Cloud Mall adopts an “Enterprise Communication as A Service” or eCAAS platform which is a part of 3.15 China Responsible Brand Program run by the Anti-Counterfeiting Committee of China Foundation of Consumer Protection (the “Anti-Counterfeiting Committee”). Anti-Counterfeiting Committee reviews and accepts the companies to join its 3.15 China Responsible Brand Program. After acceptance, these companies are authorized to use anti-counterfeiting labels on their products which have authenticated signatures of these companies and Anti-Counterfeiting Committee recorded on the blockchain quality and safety traceability system controlled by the Anti-Counterfeiting Committee. The companies will sell such products on our eCAAS platform. The companies can also use sales agents to sell their products on our eCAAS platform and parties can negotiate the commission percentages for the products sold. Any new sales agent must be recommended by existing agents and pay a one-time fee to the eCAAS platform to be admitted as the authorized agent to provide sales agent services on the platform.
+
+
+
+
+
+12
+
+
+
+
+
+
+
+ Coal and Aluminum Ingots Supply Chain Financing Service and Trading
+
+
+
+ Since the second quarter of 2021, we started coal supply chain financing service and trading business. Since the third quarter of 2021, we started aluminum ingots supply chain financing service and trading business.
+
+
+
+ Our supply chain finance business mainly serves the receivables and payables of industrial customers, obtains the creditor’s rights or commodity goods rights of large state-owned enterprises through trade execution, provides customers with working capital, accelerates capital turnover, and then expands the business scale and improves the industrial value.
+
+
+
+ Through our supply chain service ability and customer resources, we can tap into low-risk assets, flexibly carry out financial services around the actual financial needs of certain industries, and reduce the overall risk of the business by using the control of business flow, goods logistics and capital flow in the process of commodity circulation.
+
+
+
+ We focus on bulk coal and aluminum ingots an take large state-owned or listed companies as the core service targets; We use our own funds as the operation basis, actively uses a variety of channels and products for financing, such as banks, commercial factoring companies, accounts receivable, asset-backed securities, and other innovative financing methods to obtain sufficient funds.
+
+
+
+ We sign purchase and sale agreements with suppliers and buyers. The suppliers are responsible for the supply and transportation of coal to the end users’ designated freight yard or transfer the title of aluminum ingots to us in certain warehouses. We select the customers and suppliers that have good credit and reputation.
+
+
+
+ Asset Management Service.
+
+
+
+ NTAM was founded in 2018 and it engages asset management and advisory services. NTAM is licensed under the Securities and Futures Commission of Hong Kong (SFC) for carrying out regulated activities in “Advising on Securities” and “Asset Management”. NTAM offers diversified asset management portfolio for professional investors. Assets of NTAM’s clients are held in banks, where clients gave the banks their authorization allowing NTAM to place trading instructions on behalf of the clients in order to manage the clients’ assets.
+
+
+
+ NTAM mainly engages in following asset management services for its clients:
+
+
+
+ (1) Equity Investment
+
+
+
+ NTAM manages clients’ investment portfolio in stocks of the companies listed on the international market with strong liquidity. At the same time, it selects companies that have unique or differentiated businesses, realizing above average profit growth.
+
+
+
+ (2) Debt investment
+
+
+
+ When NTAM manages clients’ investment portfolio in bonds that are denominated in major international currencies such as US dollar, euro and sterling, the issuer of debts shall have good credit rating and asset liability ratio. Through active management, NTAM focus in bonds with higher yield to maturity among bonds with the same maturity and credit rating.
+
+
+
+ (3) Precious metals and currencies investment
+
+
+
+ NTAM also manages clients’ investment portfolio in major international currencies and precious metals, including US dollar, euro, British pound, Japanese yen, Australian dollar and offshore Chinese yuan. Precious metals include gold, platinum and silver. With research on the fundamentals of market supply and demand to predict the trend of commodity prices, NTAM endeavors to improve the rate of return for clients through dual currency investment, options and structured products.
+
+
+
+ (4) Derivative Investment
+
+
+
+ NTAM also manages clients’ investment portfolio in financial derivatives in different asset classes, such as options and structured products.
+
+
+
+
+
+13
+
+
+
+
+
+
+
+ (5) External Asset Management Services (EAM)
+
+
+
+ This business takes customer demand as the service purpose, cooperates with several private banks which provide asset custody services, and innovatively introduces the function of investment bank to provide exclusive private solutions for our clients.
+
+
+
+ NTAM’s main revenue is generated from providing professional advices to clients and management fees for managing the investment of the clients. As of March 15, 2022, NTAM has approximately US$260 million assets under its management.
+
+
+
+ Competition and our Competitive Advantages
+
+
+
+ E-Commerce Market in China
+
+
+
+ The e-commerce industry in China is intensely competitive. Our competitors include all major e-commerce companies in China, and other internet companies that engage in social e-commerce businesses.
+
+
+
+ We anticipate that the e-commerce industry will continually evolve and will continue to experience rapid technological change, evolving industry standards, shifting customer requirements, and frequent innovation. We must continually innovate to remain competitive.
+
+
+
+ We have a unique real-name based blockchain e-commerce shopping platform that integrates blockchain, internet technology and distinguishes itself through its eCAAS platform which is a part of 3.15 China Responsible Brand Program run by the Anti-Counterfeiting Committee of China Foundation of Consumer Protection. Our platform utilizes technologies that read the authenticated signatures of the companies and Anti- Counterfeiting Committee on the products that are recorded on the blockchain quality and safety traceability system controlled by the Anti-Counterfeiting Committee. We work closely with Anti-Counterfeiting Committee of the China Foundation of Consumer Protection which is the first and only organization that is approved by China’s Ministry of Civil Affairs that specializes in anti- counterfeiting in China. .
+
+
+
+ Asset Management Market in Hong Kong
+
+
+
+ We believe NTAM has the following competitive advantages in the asset management market in Hong Kong:
+
+
+
+ (1) Provide customers with comprehensive and professional financial services
+
+
+
+ NTAM currently holds Type 4 (Securities Advisory) and Type 9 (Asset Management) regulated activity licenses issued by the Hong Kong Securities and Futures Commission. It can provide a series of professional financial services for customers, including providing financial advisory services, and various capital entrusted investment management services for the investment in the companies and instruments listed or unlisted on the stock exchanges in Hong Kong, mainland China and worldwide.
+
+
+
+ (2) Simple and efficient management structure
+
+
+
+ Compared with the multi-level structure with multiple approval procedures by other large firms, NTAM adopts a more concise and efficient direct reporting system. Each business team can directly report the business to the board of directors of NTAM, which provides fast and efficient services for the company’s customers, quickly responds to the changes of market conditions, timely seizes market investment opportunities and responds to adverse factors.
+
+
+
+ (3) An experienced and diligent management team
+
+
+
+ The senior managers in NTAM have many years of experience in private banks and accounting firms and some of them have been in the asset management industry for more than 10 years. The management team has a comprehensive vision and efficient execution ability, and can bring more incremental business to the company with their professional advantages and personal resources.
+
+
+
+
+
+14
+
+
+
+
+
+
+
+ (4) Maintain close and stable relationship with customers
+
+
+
+ NTAM has established a close and stable business relationship with its existing customers and understood their long-term business objectives, strategies and preferences, so that it can provide customized advisory and asset management services to the customers. NTAM believes its market reputation and existing customers’ confidence in the company can promote customers to introduce and bring new customers.
+
+
+
+ Supply Chain Finance Market in China
+
+ 
+
+ We believe our supply chain finance business has the following competitive strengths and set us apart from our competitors:
+
+
+
+ (1) Independent risk control management system
+
+
+
+ At the beginning of its establishment, we established a complete and independent risk control management system for our supply chain fiancé business, and have strictly implemented the unified and comprehensive risk control management for customer access, contract signing, business execution, and capital allocation.
+
+
+
+ (2) High-quality customer groups
+
+
+
+ The criteria for our corporate clients are generally the wholly owned or controlled subsidiaries of large state-owned companies or publicly listed companies. At present, our customers are mainly in the coal and metal industries, power generation and heating industries, which includes subsidiary of China Datang Corporation, one of the five large-scale power generation enterprises in China and Shanxi Lu’an Environmental Protection Energy Development Co., Ltd. (a public company listed on Shanghai Stock Exchange).
+
+
+
+ (3) Standardization of financing process and system
+
+
+
+ To improve operational efficiency and decision-making timeliness, we have established a standardized financing process and system to provide supply chain finance and services. 
+
+
+
+ (4) Access to capital market
+
+
+
+ One of the key elements to the supply chain finance is to have access to sufficient funds in order to expand its business and increase number of clients. Our supply chain business will take the advantage as a subsidiary of the public company of Future FinTech as well as its other financial technology business development to obtain enough funds for its further development and provide comprehensive financial services to its clients.
+
+
+
+ Industry and Principal Markets
+
+
+
+
+ E-Commerce Market in China
+
+
+
+ According to emarketer data, the global e-commerce market is expected to reach US$4.89 trillion in 2021. China is leading the global e-commerce market, with online sales of nearly $2.8 trillion in 2021, accounting for half of the total global e-commerce market. The United States, which ranks second in the world, is expected to have a total e-commerce market of about US$843 billion in 2021. In addition, China’s digital consumers reached 792.5 million, accounting for 33.3% of the global total, ranking first in the world. In terms of retail, 52.1% of China’s retail transactions come from e-commerce, and China will become the first country in history where online retail sales exceed offline retail sales.
+
+
+
+
+
+15
+
+
+
+
+
+
+
+ Asset Management Market in Hong Kong
+
+
+
+ According to a report by Research Office Information Services Division Legislative Council Secretariat on April 30, 2021, asset management is an important pillar for Hong Kong as an international financial center. While Hong Kong serves as the gateway for overseas investors to invest in the mainland China, it also serves as the gateway for the mainland investors to invest in overseas markets at the same time. This has contributed to the rapid development of the asset management industry in Hong Kong. According to the latest available information, asset management accounted for 1.0% of Hong Kong’s Gross Domestic Product in 2017. As at end-2020, there were 1,914 companies licensed by or registered with the Securities and Futures Commission (“SFC”) to carry out asset management business, representing an increase of 78% over 2014. Over the same period, the number of individuals licensed for asset management also grew from 7,729 to 13,074. The thriving development of the sector is also reflected in the rising trend in the revenue received by the industry. According to the Census and Statistics Department of Hong Kong, the business receipts index for the industry increased to 135 in 2020, representing an increase of 45% over 2014. According to a survey by SFC, Hong Kong’s asset management business amounted to HK$17.9 trillion (approximately US$2.29 trillion) as at end-2019. Within the industry, licensed corporations (e.g. fund houses) were the major market players, accounting for 87% of the total business. This was followed by registered institutions (i.e. banks engaging in asset management business) (7%) and insurance companies (6%).
+Supply Chain Finance Market in China
+
+ 
+
+ Supply chain finance has become an important financing channel for small and medium-sized enterprises in China. Although China started late in supply chain finance, thanks to the favorable regulatory environment and good economic development, the scale of China’s supply chain financial market is expected reach RMB 29 trillion  (approximately US$4.46 trillion) in 2022 according to the Overview Survey and Development Strategy Research Consulting Report for China Supply Chain Finance Industry 2021-2025 by Zhongyan Puhua Industry Research Institute.
+
+
+
+ The market participants in supply chain finance business in China are diversified, among which supply chain management service companies, internet financial platforms and business sections of commercial banks have a total market share of nearly 60%, according to the 2021 China Supply Chain Finance Market Forecast and Investment Strategy Planning Analyst Report by Qianzhan Industry Research Institute. 
+
+
+
+ Since 2021, the performance of bulk commodities has been particularly strong. Affected by COVID-19 pandemic and related supply chain disruption, economic recovery, monetary easing and the carbon emission control goal, the prices of bulk commodities have been rising, among which the price of coal has reached a new high in 2021. In this context, the active trading situation and market demand provide a good business environment for commodity supply chain enterprises.
+
+
+
+ Commodity supply chain is an important part of modern economic system. The development of China’s bulk commodity supply chain is conducive to the optimal allocation of bulk commodity resources and further enhance China’s competitiveness and voice in the global bulk commodity market.
+
+
+
+ In recent years, thanks to good economic development and favorable policy support, China’s supply chain financial market has developed rapidly. The scale of supply chain financial market in China has increased from RMB 16.7 trillion in 2016 to RMB 28.6 trillion in 2021, with an average annual compound growth rate of 10.5%. The market scale in 2022 is expected to be the same as that in 2021, according to the Overview Survey and Development Strategy Research Consulting Report for China Supply Chain Finance Industry 2021-2025 by Zhongyan Puhua Industry Research Institute.
+
+
+
+ The Chinese government has regarded the development of supply chain finance as an effective way to promote the real economy and supply chain industry. The Guideline Opinions of Promoting Supply Chain Finance to Serve the Real Economy issued by China Banking and Insurance Regulatory Commission in 2019 and the Opinions on Management of the Development of Supply Chain Finance to Support the Stable Business Cycle and Optimized Upgrade for Supply Chain Industry jointly issued by the People’s Bank of China, the Ministry of Industry and Information Technology (“MIIT”), the Ministry of Commerce, China Banking and Insurance Regulatory Commission and four other regulatory departments in 2020 are designed to encourage and promote the development of supply chain industry.
+
+
+
+
+
+16
+
+
+
+
+
+
+
+ Marketing and Sales
+
+
+
+ Due to the lack of new member subscriptions caused by restrictions on our promotion strategy for the control of spread of COVID-19, we have transformed the CCM shopping mall to an “Enterprise Communication as A Service” or eCAAS platform. The eCAAS platform is entrusted by the Anti-Counterfeiting Committee of the China Foundation of Consumer Protection (the “Anti-Counterfeiting Committee”) to run its 3.15 China Responsible Brand Program.
+
+
+
+ Anti-Counterfeiting Committee will review and accept the companies to join its 3.15 China Responsible Brand Program. After acceptance, these companies are authorized to use anti-counterfeiting labels on their products and sell them on our eCAAS platform. The companies can also use sales agents to sell their products on our eCAAS platform and parties can negotiate the commission percentages for the products sold. Any new sales agent must be recommended by existing agents and pay a one-time fee to the eCAAS platform to be admitted as the authorized agent to provide sales agent services on the platform.
+
+
+
+ We market our supply chain financing services to large state-owned or controlled enterprises and public company, with a focus on energy and metal industries. Our supply chain finance business has established a high-quality team that fully understands our strategy and market situation and is sensitive to market changes to find target customers and expand our business. Based on standardized operation, our team has established a good reputation in the cooperation with existing customers, and to reach out to their respective upstream and downstream business partners to expand our business scope.
+
+
+
+ NTAM has multidimensional flexible layout for its business development. It manages clients’ investment portfolio in a diversified manner across multiple asset classes in global markets . The type and proportion of positions are determined according to the long-term and short-term investment goals of investors and other market factors. In terms of specific operation, NTAM relies on solid investment and research ability to flexibly adjust its position and avoid the price fluctuation of its subject matter caused by risk events. NTAM also uses “License + talent” to maintain core competitiveness. With its Type 4 (Securities Advisory) and Type 9 (Asset Management) licenses issued by the Hong Kong Securities and Futures Commission, NTAM continues to take the advantages of such licenses to optimize its business structure, expand the business scale, actively expand business opportunities in different regions, continue to recruit outstanding talents in the industry, and introduce incentive measures for the senior management, so as to maintain the development vitality of the company, continuously strengthening the core competitiveness. NTAM runs its risk management system throughout its core business operations and continuously evaluates the potential risks that may cause impact in the daily operation of its business segment, including evaluating the effectiveness of existing internal control measures, whether they are sufficient to deal with potential risks and whether they need to be supplemented. The relevant review results are entered in time to analyze the potential strategic impact, so that the internal control measures can be more effective and timely, and ensure the steady operation of the company while developing rapidly.
+
+
+
+
+
+17
+
+
+
+
+
+
+
+ Government Regulations
+
+
+
+ Regulations on Cybersecurity Review
+
+
+
+ On December 28, 2021, Cybersecurity Review Measures was published by Cyberspace Administration of China or the CAC, National Development and Reform Commission, Ministry of Industry and Information Technology, Ministry of Public Security, Ministry of State Security, Ministry of Finance, Ministry of Commerce, People’s Bank of China, State Administration of Radio and Television, China Securities Regulatory Commission, State Secrecy Administration and State Cryptography Administration, effective on February 15, 2022, which provides that, Critical Information Infrastructure Operators (“CIIOs”) that intend to purchase internet products and services and Data Processing Operators (“DPOs”) engaging in data processing activities that affect or may affect national security shall be subject to the cybersecurity review by the Cybersecurity Review Office. On November 14, 2021, CAC published the Administration Measures for Cyber Data Security (Draft for Public Comments), or the “Cyber Data Security Measure (Draft)”, which requires cyberspace operators with personal information of more than 1 million users who want to list abroad to file a cybersecurity review with the Office of Cybersecurity Review. Our e-commerce platform currently is not a cyberspace operator with personal information of more than 1 million users or has activities that affect or may affect national security.
+
+
+
+ Regulations Relating to E-Commerce
+
+
+
+ In January 2014, State Administration for Market Regulation or SAMR (formerly known as State of Administration of Industry and Commerce) adopted the Administrative Measures for Online Trading, or the Online Trading Measures, which took effect in March 2014. Under the Online Trading Measures, e-commerce platform operators are required to examine, register and archive the identity information of the merchants applying for access to their platforms as sellers, and verify and update such information regularly. The Online Trading Measures also provide that e-commerce platform operators must make publicly available (i) the link to or the information contained in the business licenses of the merchants, in the case of business entities, or (ii) a label confirming the verified identity of the merchants, in the case of individuals. A consumer is entitled to return the commodities within seven days after receipt of the commodities without giving a reason, except for the following commodities: customized commodities, fresh and perishable commodities, audio-visual products downloaded online or unpackaged by consumers and computer software and other digital commodities, and newspapers and journals that have been delivered. E-commerce platform operators must, within seven days upon receipt of the returned commodities, provide full refunds to consumers. In addition, operators are prohibited from setting forth provisions in contracts or other terms that are not fair or reasonable to consumers such as those excluding or restraining consumers’ rights, relieving or exempting operators’ responsibilities, and increasing the consumers’ responsibilities, or conducting transactions in a forcible manner taking advantage of contractual terms or technical means.
+
+
+
+ In March 2016, the State Administration of Taxation, or the SAT, the Ministry of Finance, or the MOF, and the General Administration of Customs jointly issued the Circular on Tax Policy for Cross-Border E-Commerce Retail Imports, which took effect in April 2016. Pursuant to this circular, goods imported through the cross-border e-commerce retail are subject to tariff, import value-added tax, and consumption tax based on the types of goods. Individuals purchasing any goods imported through cross-border e-commerce retail are taxpayers, and e-commerce companies, companies operating e-commerce transaction platforms or logistic companies are required to withhold the taxes.
+
+
+
+ On August 31, 2018, the Standing Committee of the National People’s Congress promulgated the E-Commerce Law, which became effective on January 1, 2019. The E-Commerce Law sets forth a series of requirements on e-commerce platform operators. According to the E-Commerce Law, e-commerce platform operators shall verify and register platform merchants, and cooperate with the market regulatory administrative department and tax administrative department to conduct industry and commerce registrations and tax registrations for merchants. The e-commerce platform operators shall also prepare a contingency plan for cybersecurity events and take technological measures and other measures to prevent online illegal and criminal activities. The E-Commerce Law also expressly requires platform operators to take necessary actions to ensure fair dealing on their platforms to safeguard the legitimate rights and interests of consumers, including to prepare platform service agreements and transaction information record-keeping and transaction rules, to prominently display such documents on the platform’s website, and to keep such information for no fewer than three years following the completion of a transaction. To legally handle intellectual property infringement disputes, upon receipt of the notice specifying preliminary evidence for alleged infringement, the platform operators are required to take necessary measures in a timely manner, such as deleting, blocking and disconnecting the hyperlinks, terminating transactions and services, and forwarding notices to merchants on its platform. If an e-commerce platform operator fails to take necessary measures when it knows or should have known that a merchant on the platform infringes any third-party intellectual property rights, products or services provided by a merchant on its platform do not meet the requirements regarding personal or property safety, or any merchant otherwise impairs the lawful rights and interests of consumers, the e-commerce platform operator will be held jointly liable with the merchants on its platform.
+
+
+
+
+
+18
+
+
+
+
+
+
+
+ Moreover, the E-Commerce Law imposes a requirement on operators of e-commerce platforms to assist in tax collection with respect to income generated by sellers from transactions conducted on e-commerce platforms, including among others, submitting to the tax authority information on the identities of sellers on e-commerce platforms and other information relating to tax payment. Failure to comply with the requirement may result in operators of e-commerce platform being subject to fines and, in severe circumstances, suspension of business operations of e-commerce platforms. If the merchants on our platform were deemed to be selling our products on consignment basis, the PRC tax authorities may require our members to make tax registration and request our assistance in these efforts, pursuant to the new E-Commerce Law, and the merchants may be subject to more stringent tax compliance requirements. See “Risk Factors— Failure to comply with the relatively new E-Commerce Law may have a material adverse impact on our business, financial conditions and results of operations.” According to the EIT Law, the VAT Law and other applicable regulations, sellers that conduct transactions on e-commerce platforms are generally subject to enterprise income tax at a rate of 25%, and value-added tax at a rate of 13% or 9% for services or products sold on the e-commerce platforms. Certain sellers that are deemed as small taxpayers under PRC law are subject to reduced value-added tax at a rate of 3%.
+
+
+
+ Value-Added Telecommunication Business Operating Licenses
+
+
+
+ The PRC Telecommunications Regulations, or the Telecom Regulations, which were issued by the State Council in 2000 and were most recently amended in February 2016 are the primary governing law on telecommunication services. The Telecom Regulations set out the general framework for the provision of telecommunication services by PRC entities. Under the Telecom Regulations, telecommunications service providers are required to procure operating licenses prior to their commencement of operations. The Telecom Regulations draw a distinction between “basic telecommunications services” and “value-added telecommunications services.” A “Catalog of Telecommunications Business” was issued as an attachment to the Telecom Regulations to categorize telecommunications services as basic or value-added. In December 2015, MIIT released the Catalog of Telecommunication Business (2015 Revision), or the 2015 Telecom Catalog, implemented in March 2016. Under the 2015 Telecom Catalog, both the online data processing and transaction processing business (i.e., operating e-commerce business) and information service business, continue to be categorized as value-added telecommunication services.
+
+
+
+ In March 2009, MIIT issued the Administrative Measures for Telecommunications Business Operating Permit, or the Telecom Permit Measures, which was implemented in 2009 and most recently amended in 2017. Pursuant to the Telecom Permit Measures, the operation scope of the value-added telecommunication business operating license, or VATS license, shall detail the permitted activities of the enterprise to which it is granted. An approved telecommunication services operator shall conduct its business in accordance with the specifications recorded on its VATS License. The VATS Licenses can be further categorized based on the specific business operations permitted to be carried out under such licenses, including among others, the VATS Licenses for internet information services, or the ICP License, and the VATS License for electronic data interchange business, or the EDI License. In addition, a VATS License holder is required to obtain approval from the original permit-issuing authority prior to any change to its shareholders, business scope or other information recorded on such license. In February 2015, the State Council issued the Decisions on Cancelling and Adjusting a Batch of Administrative Approval Items, which, among other things, replaced the pre-registration approval requirement for telecommunications businesses with a post-registration approval requirement.
+
+
+
+ In September 2000, the State Council promulgated the Administrative Measures on Internet Information Services, or the Internet Measures, most recently amended in January 2011. Under the Internet Measures, “internet information services” refer to the provision of information through the internet to online users, and are divided into “commercial internet information services” and “non-commercial internet information services”. Commercial internet information services operators shall obtain an ICP License, from the relevant government authorities within China. E-commerce (Tianjin), the VIE, holds our VATS License for our Value-Added Telecommunication businesses.
+
+
+
+
+
+19
+
+
+
+
+
+
+
+ Regulations Relating to Internet Information Security and Privacy Protection
+
+
+
+ Internet information in China is regulated from a national security standpoint. The National People’s Congress, or the NPC, enacted the Decisions on Preserving Internet Security in December 2000 and amended in August 2009, which subject violators to potential criminal punishment in China for any attempt to: (i) gain improper entry into a computer or system of strategic importance; (ii) disseminate politically disruptive information; (iii) leak state secrets; (iv) spread false commercial information; or (v) infringe intellectual property rights. The Ministry of Public Security of the PRC, or the MPS, promulgated the Administrative Measures for the Computer Information Network and Internet Security Protection in December 1998 and amended in January 2011, which prohibits use of the internet in ways which, among other things, result in a leak of state secrets or a spread of socially destabilizing content. If an internet information service provider violates these measures, the MPS and its local branches may issue a warning, confiscate the illegal gains, impose fines, and, in severe cases, advise competent authority to revoke its operating license or shut down its websites.
+
+
+
+ Under the Several Provisions on Regulating the Market Order of Internet Information Services, issued by the MIIT in December 2011 and implemented in March 2012, an internet information service provider may not collect any user personal information or provide any such information to third parties without the consent of the user. An internet information service provider must expressly inform the users of the method, content and purpose of the collection and processing of such user personal information and may only collect such information necessary for the provision of its services. An internet information service provider is also required to properly maintain the user’s personal information, and in case of any leak or likely leak of the user’s personal information, the internet information service provider must take immediate remedial measures and, in severe circumstances, immediately report to the telecommunications authority. Moreover, pursuant to the Ninth Amendment to the Criminal Law issued by Standing Committee of the National People’s Congress (the “SCNPC”) in August 2015 and implemented in November 2015, any internet service provider that fails to fulfill the obligations related to internet information security administration as required by applicable laws and refuses to rectify such failure upon orders, shall be subject to criminal penalty for the result of (i) any dissemination of illegal information in large scale; (ii) any severe effect due to the leakage of the client’s information; (iii) any serious loss of criminal evidence; or (iv) other severe situation. Any individual or entity that (i) sells or provides personal information to others in a way violating the applicable law, or (ii) steals or illegally obtains any personal information, shall be subject to criminal penalty in severe situation. In addition, the Interpretations of the Supreme People’s Court and the Supreme People’s Procuratorate of the PRC on Several Issues Concerning the Application of Law in Handling Criminal Cases of Infringing Personal Information, issued in May 2017 and implemented in June 2017, clarified certain standards for the conviction and sentencing of the criminals in relation to personal information infringement.
+
+
+
+ In November 2016, the SCNPC promulgated the Cyber Security Law of the PRC, or the Cyber Security Law, which became effective on June 1, 2017. The Cyber Security Law requires that a network operator, which includes, among other things, internet information services providers, take technical measures and other necessary measures in accordance with applicable laws and regulations and the compulsory requirements of the national and industrial standards to safeguard the safe and stable operation of its networks. We are subject to such requirements as we are operating websites and mobile applications and providing certain internet services mainly through our mobile applications. The Cyber Security Law further requires internet information service providers to formulate contingency plans for network security incidents, report to the competent departments immediately upon the occurrence of any incident endangering cyber security and take corresponding remedial measures.
+
+
+
+ Internet information service providers are also required to maintain the integrity, confidentiality and availability of network data. The Cyber Security Law reaffirms the basic principles and requirements specified in other existing laws and regulations on personal data protection, such as the requirements on the collection, use, processing, storage and disclosure of personal data, and internet information service providers being required to take technical and other necessary measures to ensure the security of the personal information they have collected and prevent the personal information from being divulged, damaged or lost. Any violation of the Cyber Security Law may subject the internet information service provider to warnings, fines, confiscation of illegal gains, revocation of licenses, cancellation of filings, shutdown of websites or criminal liabilities.
+
+
+
+
+
+20
+
+
+
+
+
+
+
+ Furthermore, MIIT’s Rules on Protection of Personal Information of Telecommunications and Internet Users promulgated in July 2013, effective September 2013, contain detailed requirements on the use and collection of personal information as well as security measures required to be taken by telecommunications business operators and internet information service providers.
+
+
+
+ Regulations Relating to Asset Management in Hong Kong.
+
+
+
+ The Securities and Futures Ordinance (Cap. 571) of Hong Kong, or the HKSFO, including its subsidiary legislation, is the principal legislation regulating the securities and futures industry in Hong Kong, including the regulation of securities and futures markets and leveraged foreign exchange trading, the offering of investments to the public in Hong Kong, and intermediaries and their conduct of regulated activities. In particular, Part V of the HKSFO and the relevant guidelines and codes issued by the HKSFC deal with licensing and registration matter.
+
+
+
+ The HKSFO is administered by the HKSFC, which is the statutory regulatory body that governs the securities and futures markets and non-bank retail leveraged foreign exchange market in Hong Kong.
+
+
+
+ The HKSFC is an independent statutory body which administers the HKSFO and is responsible for regulating the securities and the futures industry in Hong Kong, including Brokers, investment advisers, fund managers, and intermediaries carrying out the regulated activities as listed in “—Licensing Regime Under the HKSFO—Types of Regulated Activities” below. The HKSFC works to strengthen and protect the integrity and soundness of Hong Kong’s securities and futures markets for the benefit of investors and the industry.
+
+
+
+ Licensing Regime Under the HKSFO
+
+
+
+ The functions of the HKSFC, as a gatekeeper of standards for individuals and corporations seeking approval to enter into the securities and futures markets of Hong Kong, include the following:
+
+
+
+
+● | grant licenses to those who are appropriately qualified and can demonstrate their fitness and properness to be licensed under the HKSFO; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | maintain online a public register of licensed persons and registered corporations; 
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+● | monitor the ongoing compliance of licensing requirements by licensees, substantial shareholders of licensed corporations, and directors of licensed corporations; and 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | initiate policies on licensing issues. 
+--+-----------------------------------------------------------------------------------
+
+
+
+
+ The HKSFC operates a system of authorizing corporations and individuals (through licenses) to act as financial intermediaries. Under the HKSFO, a corporation that is not an authorized financial institution (as defined in section 2(1) of the Banking Ordinance (Cap. 155) of Hong Kong) and is: 
+
+
+
+
+● | carrying on a business in a regulated activity (or holding out as carrying on a regulated activity), or 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | actively marketing, whether in Hong Kong or from a place outside Hong Kong, to the public such services it provides, would constitute a regulatory activity if provided in Hong Kong, 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ must be licensed by the HKSFC to carry out that regulatory activity, unless one of the exemptions under the HKSFO applies.
+
+
+
+ In addition to the licensing requirements on corporations, any individual who: (i) performs any regulated function in relation to a regulated activity carried on as a business, or (ii) holds himself out as performing such regulated activity, must be licensed separately under the HKSFO as a Licensed Representative accredited to his principal.
+
+
+
+
+
+21
+
+
+
+
+
+
+
+ Types of Regulated Activities Under the HKSFO
+
+
+
+ The HKSFO provides a licensing regime under which a person needs a license to carry on different types of regulated activities as specified in Schedule 5 of the HKSFO. The different types of regulated activities are set out as follows:
+
+
+
+ Type 1: dealing in securities;
+
+
+
+ Type 2: dealing in futures contracts;
+
+
+
+ Type 3: leveraged foreign exchange trading;
+
+
+
+ Type 4: advising on securities;
+
+
+
+ Type 5: advising on futures contracts;
+
+
+
+ Type 6: advising on corporate finance;
+
+
+
+ Type 7: providing automated trading services;
+
+
+
+ Type 8: securities margin financing;
+
+
+
+ Type 9: asset management;
+
+
+
+ Type 10: providing credit rating services;
+
+
+
+ Type 11: Dealing in OTC derivative products or advising on OTC derivative products; and
+
+
+
+ Type 12: Providing client clearing services for OTC derivative transactions.
+
+
+
+ The Type 12 regulated activity came into operation on September 1, 2016 pursuant to the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2016 (L.N. 27 of 2016), in so far as it relates to paragraph (c) of the new definition of “excluded services” in Part 2 of Schedule 5 to the HKSFO. The licensing requirement with respect to Type 12 regulated activity is, as of the date of this annual report, not yet in operation and the effective date will be appointed by the Hong Kong Secretary for Financial Services and the Treasury by notice published in the Gazette.
+
+
+
+ As of the date of this annual report, our subsidiary NTAM is licensed under the HKSFO to conduct the following regulated activities:
+
+
+
+
+
+Company | Type of Regulated Activities 
+------------------------------------------------------+---------------------------------
+Nice Talent Asset Management Limited (“NTAM”) (1) | Type 4 and Type 9 
+
+ Notes:
+
+
+
+
+(1) | The following conditions are currently imposed on the HKSFC license of NTAM: 
+----+-------------------------------------------------------------------------------------------------------------------------
+
+
+● | The licensee shall only provide services to professional investors. The term “professional investor” is as defined in the HKSFO and its subsidiary legislation. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The licensee shall not hold client assets. The terms “hold” and “client assets” are as defined under the HKSFO. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Licensed Corporation
+
+
+
+ For application as a licensed corporation, the applicant has to be incorporated in Hong Kong or an overseas company registered with the Companies Registry of Hong Kong. The licensed corporation has to satisfy the HKSFC that it has proper business structure, good internal control systems and qualified personnel to ensure the proper management of risks that it will encounter in carrying on the proposed regulated activities as detailed in its business plan submitted to the HKSFC. Detailed guidelines to meet the requirements and expectations of the HKSFC are contained in the following publications of the HKSFC:
+
+● | “Guidelines on Competence”; 
+--+------------------------------------------------------------------------
+
+
+● | “the Code of Conduct for Persons Licensed by or Registered with the Securities and Futures Commission,” or the Code of Conduct; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+22
+
+
+
+
+
+
+
+
+● | “the Management, Supervision and Internal Control Guidelines for Persons Licensed by or Registered with the HKSFC”; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | “Corporate Finance Adviser Code of Conduct”; and 
+--+---------------------------------------------------------------------------------------------
+
+
+● | “Fund Manager Code of Conduct.” 
+--+----------------------------------------------------------------------------
+
+Responsible Officers
+
+
+
+ For each regulated activity conducted by a licensed corporation, it must appoint no less than two responsible officers, at least one of them must be an executive director, to directly supervise the business of such regulated activity. A responsible officer is an individual approved by the HKSFC to supervise the regulated activity or activities of the licensed corporation to which he or she is accredited. For each regulated activity of a licensed corporation, it should have at least one responsible officer available at all times to supervise the business.
+Qualification and Experience Required for Being a Responsible Officer
+
+
+
+ A person who intends to apply to be a responsible officer must demonstrate that he or she fulfills the requirements on both competence and sufficient authority. An applicant should possess appropriate ability, skills, knowledge, and experience to properly manage and supervise the corporation’s regulated activity or activities. Accordingly, the applicant has to fulfill certain requirements on academic and industry qualifications, relevant industry experience, management experience, and local regulatory framework paper as stipulated by the HKSFC.
+
+
+
+ Managers-in-Charge of Core Functions, or MICs
+
+
+
+ A licensed corporation is required to designate certain individuals as MICs and provide to the HKSFC information about its MICs and their reporting lines. MICs are individuals appointed by a licensed corporation to be principally responsible, either alone or with others, for managing each of the following eight core functions of the licensed corporation:
+
+
+
+
+(a) | overall management oversight; 
+----+--------------------------------------------------------------------------
+
+
+(b) | key business lines; 
+----+----------------------------------------------------------------
+
+
+(c) | operational control and review; 
+----+----------------------------------------------------------------------------
+
+
+(d) | risk management; 
+----+-------------------------------------------------------------
+
+
+(e) | finance and accounting; 
+----+--------------------------------------------------------------------
+
+
+(f) | information technology; 
+----+--------------------------------------------------------------------
+
+
+(g) | compliance; and 
+----+------------------------------------------------------------
+
+
+(h) | anti-money laundering and counter-terrorist financing. 
+----+---------------------------------------------------------------------------------------------------
+
+
+
+
+ The management structure of a licensed corporation (including its appointment of MICs) should be approved by the board of the licensed corporation. The board should ensure that each of the licensed corporation’s MICs has acknowledged his or her appointment as MIC and the particular core function(s) for which he or she is principally responsible.
+
+
+
+ Fit and Proper Requirement
+
+
+
+ Persons who apply for licenses under the HKSFO must satisfy and continue to satisfy after the grant of such licenses by the HKSFC that they are fit and proper persons to be so licensed. Generally, a fit and proper person means one who is financially sound, competent, honest, reputable, and reliable.
+
+
+
+
+
+23
+
+
+
+
+
+
+
+ Section 129(1) of the HKSFO sets out a number of matters that the HKSFC shall have regard to in assessing the fitness and properness of a person, an individual, corporation, or institution, which includes:
+
+
+
+
+● | financial status or solvency; 
+--+--------------------------------------------------------------------------
+
+
+● | educational or other qualifications or experience having regard to the nature of the functions to be performed; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | ability to carry on the regulated activity concerned competently, honestly, and fairly; and 
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | reputation, character, reliability, and financial integrity of the applicant and other relevant persons as appropriate. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ The above fit and proper criteria serve as the fundamental basis when the HKSFC considers each license or registration application. Detailed guidelines are contained in “the Fit and Proper Guidelines,” “the Licensing Information Booklet,” and “the Guidelines on Competence” published by the HKSFC.
+
+
+
+ The Fit and Proper Guidelines apply to a number of persons including the following:
+
+
+
+
+● | an individual who applies for license or is licensed under Part V of the HKSFO; 
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+● | a licensed representative who applies for approval or is approved as a responsible officer under Part V of the HKSFO; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | a corporation which applies for license or is licensed under Part V of the HKSFO; 
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+● | an authorized financial institution which applies for registration or is registered under Part V of the HKSFO; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | an individual whose name is to be or is entered in the register maintained by the Hong Kong Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) of Hong Kong; and 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | an individual who applies to be or has been given consent to act as an executive director of a registered institution under section 71C of the Banking Ordinance (Cap. 155 of Hong Kong). 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ Section 129(2) of the HKSFO empowers the HKSFC to take into consideration any of the following in considering whether a person is fit and proper:
+
+
+
+
+● | decisions made by such relevant authorities as stated in section 129(2)(a) of the HKSFO or any other authority or regulatory organization, whether in Hong Kong or elsewhere, in respect of that person; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | in the case of a corporation, any information relating to: 
+--+-------------------------------------------------------------------------------------------------------
+
+
+o | any other corporation within the group of companies; or 
+--+----------------------------------------------------------------------------------------------------
+
+
+o | any substantial shareholder or officer of the corporation or of any of its group companies; 
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | in the case of a corporation licensed under section 116 or 117 of the HKSFO or registered under section 119 of the HKSFO or an application for such license or registration: 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | any information relating to any other person who will be acting for or on its behalf in relation to the regulated activity; and 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | whether the person has established effective internal control procedures and risk management systems to ensure its compliance with all applicable regulatory requirements under any of the relevant provisions; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | in the case of a corporation licensed under section 116 or section 117 of the HKSFO or an application for the license, any information relating to any person who is or to be employed by, or associated with, the person for the purposes of the regulated activity; and 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the state of affairs of any other business which the person carries on or proposes to carry on. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ The HKSFC is obliged to refuse an application to be licensed if the applicant fails to satisfy the HKSFC that the applicant is a fit and proper person to be licensed. The onus is on the applicant to make out a case that the applicant is fit and proper to be licensed for the regulated activity.
+
+
+
+
+
+24
+
+
+
+
+
+
+
+ Continuing Obligations of Licensed Corporations
+
+
+
+ Licensed corporations, licensed representatives, and responsible officers must remain fit and proper as defined under the HKSFO at all times. They are required to comply with all applicable provisions of the HKSFO and its subsidiary rules and regulations as well as the codes and guidelines issued by the HKSFC.
+
+
+
+ Outlined below are some of the key continuing obligations of the licensed corporations within the Group under the HKSFO:
+
+
+
+
+● | maintenance of minimum paid-up share capital and liquid capital, and submission of financial returns to the HKSFC in accordance with the requirements under the Securities and Futures (Financial Resources) Rules (as discussed in more detail below); 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | maintenance of segregated account(s), and custody and handling of client securities in accordance with the requirements under the Securities and Futures (Client Securities) Rules (Chapter 571H of the Laws of Hong Kong); 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | maintenance of segregated account(s), and holding and payment of client money in accordance with the requirements under the Securities and Futures (Client Money) Rules (Chapter 571I of the Laws of Hong Kong); 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | maintenance of proper records in accordance with the requirements prescribed under the Securities and Futures (Keeping of Records) Rules (Chapter 571O of the Laws of Hong Kong); 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | maintenance of insurance against specific risks for specified amounts in accordance with the requirements under the Securities and Futures (Insurance) Rules (Chapter 571AI of the Laws of Hong Kong); 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | payment of annual fees and submission of annual returns to the HKSFC within one month after each anniversary date of the license; and 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | implementation of appropriate policies and procedures relating to client acceptance, client due diligence, record keeping, identification, and reporting of suspicious transactions and staff screening, education, and training in accordance with the requirements under the Guideline on Anti-Money Laundering and Counter-Terrorist Financing issued by the HKSFC; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ Obligation for substantial shareholders
+
+
+
+ A person shall, in relation to a corporation, be regarded as a substantial shareholder of the corporation if he, either alone or with any of his associates—
+
+
+
+
+(a) | has an interest in shares in the corporation— 
+----+------------------------------------------------------------------------------------------
+
+
+(i) | the aggregate number of which shares is equal to more than 10% of the total number of issued shares of the corporation; or 
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(ii) | which entitles the person, either alone or with any of his associates and either directly or indirectly, to exercise or control the exercise of more than 10% of the voting power at general meetings of the corporation; or 
+-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(b) | holds shares in any other corporation which entitles him, either alone or with any of his associates and either directly or indirectly, to exercise or control the exercise of 35% or more of the voting power at general meetings of the other corporation, or of a further corporation, which is itself entitled, either alone or with any of its associates and either directly or indirectly, to exercise or control the exercise of more than 10% of the voting power at general meetings of the corporation. 
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ A person shall be regarded as being entitled to exercise or control the exercise of 35% or more of the voting power at general meetings of a corporation indirectly if he, either alone or with any of his associates, has an interest in shares in a further corporation which entitles him, either alone or with any of his associates, to exercise or control the exercise of 35% or more of the voting power at general meetings of the further corporation which is itself entitled, either alone or with any of its associates, to exercise or control the exercise of 35% or more of the voting power at general meetings of the first-mentioned corporation.
+
+
+
+ Under section 132 of the HKSFO, a person (including a corporation) has to apply for HKSFC’s approval prior to becoming or continuing to be, as the case may be, a substantial shareholder of a corporation licensed under section 116 of the HKSFO. A person who has become aware that he has become a substantial shareholder of a licensed corporation without HKSFC’s prior approval should, as soon as reasonably practicable and in any event within three business days after he becomes so aware, apply to the HKSFC for approval to continue to be a substantial shareholder of the licensed corporation.
+
+
+
+ An application to the HKSFC regarding the change of the substantial shareholder of NTAM to Future FinTech (Hong Kong) Limited was approved by the HKSFC on June 17, 2021.
+
+
+
+
+
+25
+
+
+
+
+
+ 
+
+ Supervision by the HKSFC
+
+ 
+
+ HKSFC supervises licensed corporations and intermediaries operating in the market. HKSFC conducts on-site inspections and off-site monitoring to ascertain and supervise intermediaries’ business conduct and compliance with relevant regulatory requirements and to assess and monitor the financial soundness of intermediaries.
+
+ 
+
+ Disciplinary Power of the HKSFC
+
+ 
+
+ Under Part IX of the HKSFO and subject to the due process for exercising disciplinary powers laid down in section 198 of the HKSFO, the HKSFC may exercise any of the following disciplinary actions against a regulated person (including a licensed person or a registered institution) if that person is found to be guilty of misconduct or the HKSFC is of the opinion that a regulated person is not fit and proper to be or remain the same type of regulated person (sections 194 and 196 of the HKSFO).
+
+ 
+
+
+● | revocation or suspension of a license or a registration; 
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | revocation or suspension of part of a license or registration in relation to any of the regulated activities for which a regulated person is licensed or registered; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | revocation or suspension of the approval granted to a responsible officer; 
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+● | public or private reprimand on a regulated person; 
+--+-----------------------------------------------------------------------------------------------
+
+
+● | prohibition of a regulated person from applying to be licensed or registered or to be approved as a responsible officer; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | prohibition of a regulated person from applying to be given consent to act or continue to act as an executive officer of a registered institution; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | prohibition of a regulated person from re-entry to be licensed or registered; and 
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+● | pecuniary penalty of not exceeding the amount of HK$10 million or three times the amount of the profit gained or loss avoided as a result of the misconduct. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 
+
+ Regulations Relating to Pledged Assets and Rights in PRC
+
+ 
+
+ On January 1, 2021, the Civil Code of China took effective which replaced the Guarantee Law, Contract Law, Property Law and General Provisions of Civil Law. The credit control measures used in supply chain finance business mostly are subject to the relevant provisions of the Civil Code. Article 681 of the Civil Code stipulates that a guarantee contract is a contract to ensure the realization of creditor’s rights. The guarantor and the creditor may agree when the debtor fails to pay its due debts or the event agreed by the parties occur, the guarantor shall pay the debts or bear responsibility. Article 696 of the Civil Code stipulates that if the creditor transfers all or part of the creditor’s rights without notifying the guarantor, the transfer shall have no effect on the guarantor. The guarantor and the creditor may agree to prohibit the transfer of creditor’s rights. Also, if the collateral lien is not registered, it cannot be used against a bona fide third party. A bona fide third party means a buyer who has paid a reasonable price and obtained the property in normal business activities. In supply chain finance business, the bulk goods are usually used as collaterals for the financing and the pledge must be registered in order to be used against the claim from a bona fide buyer. Certain accounts receivable may be pledged pursuant to the Civil Code. Article 440 of the Civil Code stipulates that the debtor or a third party that has the disposal rights to the assets may pledge such assets, including bills of exchange, promissory notes and cheques, bonds and certificates of deposit, warehouse receipt and bill of lading, etc. The Decision On Implementation of Unified Registration of Tangible Assets and Rights Guarantees by the State Counsel became effective on January 1, 2021. The types of tangible assets and right guarantees covered by the unified registration include production equipment, raw materials, semi-finished products and products, accounts receivable, deposit certificate, warehouse receipt and bill of lading, finance lease and factoring, etc. The tangible assets and rights guarantee covered by the unified registration shall be registered by the parties through the unified registration and publicity system of tangible assets financing under the credit investigation center of the People’s Bank of China, and parties shall be responsible for the authenticity, integrity and legitimacy of the registered contents. The registration authority does not conduct substantive examination of the registered contents.
+
+ 
+
+ Regulations Relating to Intellectual Property in the PRC
+
+ 
+
+ Trademark
+
+ 
+
+ The Trademark Law of the PRC was promulgated in August 2013, which took effect in May 2014 (the “Trademark Law”), and was revised in 2019, and its implementation rules protect registered trademarks. The Trademark Office of National Intellectual Property Administration, PRC, formerly the PRC Trademark Office of the State Administration of Market Regulation, is responsible for the registration and administration of trademarks throughout the PRC. The Trademark Law has adopted a “first-to-file” principle with respect to trademark registration. Registered trademarks are granted a valid term of ten years, which can be renewed each time for another ten years commencing from the day after the expiry date of the last period of validity if the required renewal formalities have been completed. Pursuant to the PRC Trademark Law, counterfeit or unauthorized production of the label of another person’s registered trademark, or sale of any label that is counterfeited or produced without authorization will be deemed as an infringement to the exclusive right to use a registered trademark. The infringing party will be ordered to stop the infringement immediately, a fine may be imposed, and the counterfeit goods will be confiscated. The infringing party may also be held liable for the right holder’s damages, which will be equal to the gains obtained by the infringing party or the losses suffered by the right holder as a result of the infringement, including reasonable expenses incurred by the right holder for stopping the infringement.
+
+ 
+
+
+
+26
+
+
+
+
+
+
+
+ Domain Name
+
+
+
+ The MIIT promulgated the Measures on Administration of Internet Domain Names, or the Domain Name Measures, on August 24, 2017, which took effect on November 1, 2017. The MIIT is the major regulatory body responsible for the administration of PRC internet domain names, under supervision of which the China Internet Network Information Center, or CNNIC, is responsible for the daily administration of “.cn” domain names and Chinese domain names. CNNIC adopts a “first-to-file” principle with respect to the registration of domain names. Applicants for registration of domain names must provide the true, accurate and complete information of their identities to domain name registration service institutions. The applicants will become the holder of such domain names upon the completion of the registration procedure.
+Copyright
+
+
+
+ The PRC Copyright Law, or the Copyright Law, which took effect on June 1, 1991 and was amended in 2001 and 2010, provides that Chinese citizens, legal persons, or other organizations shall, whether published or not, own copyright in their copyrightable works, which include, among other things, works of literature, art, natural science, social science, engineering technology and computer software. Copyright owners enjoy certain legal rights, including the right of publication, right of authorship and right of reproduction. The Copyright Law extends copyright protection to Internet activities, products disseminated over the Internet and software products. In addition, the Copyright Law provides for a voluntary registration system administered by the China Copyright Protection Center, or the CPCC. According to the Copyright Law, an infringer of copyrights shall be subject to various civil liabilities, which include ceasing infringement activities, apologizing to the copyright owners and compensating the loss of copyright owner. Infringers of copyright may also be subject to fines and/or administrative or criminal liabilities in severe situations.
+
+
+
+ Pursuant to the Computer Software Copyright Protection Regulations promulgated by the State Council on December 20, 2001 and amended on January 30, 2013, Chinese citizens, legal persons and other organizations shall enjoy copyright on software they develop, regardless of whether the software is released publicly. Software copyright commences from the date on which the development of the software is completed. The protection period for software copyright of a legal person or other organizations shall be 50 years, concluding on December 31 of the 50th year after the software’s initial release. The software copyright owner may go through the registration formalities with a software registration authority recognized by the State Council’s copyright administrative department. The software copyright owner may authorize others to exercise that copyright, and is entitled to receive remuneration.
+
+
+
+ Intellectual Property
+
+
+
+ The Company previously had 10 trademarks in China, including Hedetang, SkyPeople, Qianmeiduo, VCFruits King, ZhenGuoShu, ZhenMiHouTao, ZhenSangshen, ZhenShiLiu, Quangou, FullMart. All these trademarks are owned by the subsidiaries of HeDeTang HK and were transferred with HeDeTang HK to New Continent International Co., Ltd. on February 27, 2020. 
+
+
+
+
+ The Company currently has 34  registered Internet Domain names, including hedejiachuan.com, intervalue.vip, intervalue.net.cn, intervalue.com.cn, intervalue.cc, intervalue.ltd, intervalue.top, ftex.ltd, ftex.net.cn, ftex.vip, ftex.top, ftex.cc, dcon.top, dconpay.com, dconio.com, digipay.ink, digipay.vip, globalkey.vip, globalkey.shop, globalkey.store, digipay.net.cn, digipay.ltd, globalkey.net.cn, globalkey.cc, globalkey.top, ftft.top, ftftex.com, ftft.com, ftftbank.com, mftftpay.com, inuteam.com,ftftx.com,ftftcapital.com,ftftorbit.com,ftftdigitalcapital.com. All these Domain names are owned by the subsidiaries of the Company.
+
+
+
+ The Company owns copyrights for the software for its blockchain based e-commerce platform application, including: (i) a blockchain credit points discount settlement system; (ii) a blockchain credit points circulation monitoring system; (iii) a legal currency and credit points synchronization settlement system; (iv) a blockchain credit points flow system; (v) an agent automatic profit distribution system (vi) an agent automatic tax deduction and accounting system; (vii) a manufacturer automatic accounting system; (viii) an e-commerce and blockchain anti-counterfeiting linkage system; (ix) a blockchain discount and promotion automatic balance system; (x) a blockchain real-name authentication and legal responsibility system. FTFT UK owns the software for its financial app and FTFT Capital Investments L.L.C. owns the software for its marketing data platform FTFTX.
+
+
+
+ We believe that our continued success and competitive status depend largely on our proprietary technology and ability to innovate. We have taken measures to protect the confidentiality of our proprietary technologies and intellectual property. We rely on a combination of know-how, copyrights for our software and trade secret laws, as well as confidentiality agreements to protect our proprietary rights. We will take the necessary action to seek remuneration if we believe our intellectual property rights have been infringed upon. 
+
+
+
+
+
+27
+
+
+
+
+
+
+
+ Human Capital Resources
+
+
+
+ We understand that our success depends on our ability to attract, train and retain our employees. We strive to attract, recruit, and retain employees through competitive compensation and benefit programs, learning and development opportunities that support career growth and advancement opportunities, and employee engagement initiatives that foster a strong Company culture. In addition to cash compensation, we offer customary benefits in accordance with local regulatory requirements as well as performance-based stock awards to our employees. We also recognize the importance of keeping our employees safe. In response to the COVID-19 pandemic, we implemented changes that we determined were in the best interest of our employees and have followed local government orders to prevent the spread of COVID-19
+Employees
+
+
+
+ As of December 31, 2021, we had 71 full-time employees and 17 part-time employees, among which 31 are located in the PRC, 18 are located in Hong Kong, 10 are located in the United States, 11 are located in United Kingdom and 18 are located in Dubai. None of our employees are covered by a collective bargaining agreement as of the date of this Report. We consider our relationships with our employees to be good.
