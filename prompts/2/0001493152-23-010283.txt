@@ -1,0 +1,191 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1 – BUSINESS
+History 
+ 
+Iveda Solutions, Inc. (“Iveda”, or the “Company”) was incorporated in Nevada as Charmed Homes, Inc. in June 2006. On October 15, 2009, IntelaSight, d/b/a Iveda, a Washington corporation, became a wholly owned subsidiary of the Company. In December 2010, IntelaSight merged with and into the Company and the Company became the surviving company. Iveda offered the first cloud hosting of streaming and recorded video from security cameras for its customers and real-time remote surveillance service utilizing intervention specialists to watch our customers’ cameras in real time, 24/7.
+ 
+In April 2011, Iveda completed the acquisition of the Taiwan-based company Sole-Vision Technologies (doing business as Iveda Taiwan).
+ 
+Historically, we sold and installed video surveillance equipment, primarily for security purposes and secondarily for operational efficiencies and marketing. We also provided video hosting, in-vehicle streaming video, archiving, and real-time remote surveillance services to a variety of businesses and organizations. While we only used off-the shelf camera systems from well-known camera brands, we now source our own cameras using manufacturers in Taiwan in order for us to be more flexible in fulfilling our customer needs. We now have the capability to provide IP cameras and NVRs based on customer specifications. We still utilize ONVIF (Open Network Video Interface Forum) cameras which is a global standard for the interface of IP-based physical security products.
+ 
+In 2014, we changed our business model from direct project-based sales to licensing our platform and selling IoT hardware to service providers such as telecommunications companies, integrators and other technology resellers already providing services to an existing customer base. Partnering with service providers that have an existing loyal customer base allows us to focus on servicing just a handful of our partners and concentrating on our technology offering. Service providers leverage their end-user infrastructure to sell, bill, and provide customer service for Iveda’s product offering. This business model provides dual revenue streams – one from hardware sales and the other from monthly licensing fees.
+ 
+
+4
+-
+
+ 
+
+Iveda Taiwan, our subsidiary in Taiwan, specializes in deploying new, and integrating existing, video surveillance systems for airports, commercial buildings, government customers, data centers, shopping centers, hotels, banks, and Safe City. Iveda Taiwan combines security surveillance products, software, and services to provide integrated security solutions to the end user. Through Iveda Taiwan, we have access not only to Asian markets but also to Asian manufacturers and engineering expertise. Iveda Taiwan is our research and development arm, working with a team of developers in Taiwan. The company depends on Iveda Taiwan as the majority of the company’s revenues have come from Iveda Taiwan since we acquired them in April 2011.
+ 
+Overview
+ 
+Iveda specializes in AI and digital transformation technologies with real-world applications that improve quality of life and safety worldwide.
+ 
+Iveda, through its wholly-owned subsidiary IntelaSight, Inc. has been offering real-time IP video surveillance technologies to our customers since 2005, prior to its merger with the company. While we still offer video surveillance technologies, our core product line has evolved to include AI intelligent video search technology that provide true intelligence to any video surveillance system and IoT (Internet of Things) devices and platforms. Our evolution is in response to digital transformation demands from many cities and organizations worldwide. Our IvedaAI intelligent video search technology adds critical intelligence to normally passive video surveillance systems. IvedaAI provides AI functions to any IP camera and most popular network video recorders (NVR) and video management systems (VMS). IvedaAI comes with an appliance or server, preconfigured with multiple AI functions based on the end user requirements.
+ 
+In the last few years, the concept of a smart city has been a hot topic among cities across the globe. With little to no human interaction, technology increases efficiency, expedites decision making, and reduces response time. Dwindling public safety budgets and resources have necessitated the transformation. More and more municipalities are using next-generation technologies to improve the safety and security of its citizens. Our response is our complete suite of IoT technologies, including AI intelligent video search technology, smart sensors, tracking devices, video surveillance systems, and smart power.
+ 
+Technology / Products
+ 
+Iveda offers AI intelligent video search, smart utility, smart sensors, gateways and trackers, and IoT platforms (Products).
+ 
+IvedaAI
+ 
+IvedaAI consists of deep-learning video analytics software running in a computer/server environment that can either be deployed at an edge level or data center for centralized cloud model. We combined hardware and artificial intelligence software for fast and efficient video search for objects stored in an external (NVR) or storage device and live streaming video data from any IP camera.
+ 
+IvedaAI works with any ONVIF-compliant IP cameras and most popular NVR/VMS (Video Management System) platforms, enabling accurate search across dozens to thousands of cameras in less than 1 second. IvedaAI products are designed to maximize efficiency, save time, and cut cost. Instead of watching hours of video recording after-the-fact, users can set up alerts.
+ 
+AI Functions
+ 
+
+● | Object Search 
+--+------------------------------------------------------------------------
+● | Face Search (No Database Required) 
+● | Face Recognition (from a Database) 
+● | License Plate Recognition (100+ Countries), includes make and model 
+● | Intrusion Detection 
+● | Weapon Detection 
+● | Fire Detection 
+● | People Counting 
+● | Vehicle Counting 
+● | Temperature Detection 
+● | Public Health Analytics (Facemask Detection, 
+● | QR and Barcode Detection 
+
+
+5
+-
+
+Key Features
+ 
+
+● | Live Camera View 
+--+---------------------------------------------------------------------
+● | Live Tracking 
+● | Abnormality Detection – Vehicle/Person wrong direction detection 
+● | Vehicle/Person Loitering Detection 
+● | Fall Detection 
+● | Illegal Parking Detection 
+● | Heatmap Generation 
+
+ 
+IvedaPinpoint 
+ 
+IvedaPinpoint centrally manages Bluetooth trackers and sensors and displays them on a map for exact location. Trackers and sensors are small devices that can track assets and people such as medical equipment at hospitals, students at schools, workers at factories, and dementia patients at senior care facilities. The same platform manages TempPad sensors to monitor temperature of patients at hospitals for increased nurse productivity and employees and students for initial COVID-19 screening and contact tracing.
+ 
+Iveda offers many IoT sensors and devices for various applications such as energy management, smart home, smart building, smart community and patient/elder care. Our gateway and station serve as the main hub for sensors and devices in any given area. They are equipped with high-level communication protocols such as Zigbee, WiFi, Bluetooth, and USB. They connect to the Internet via Ethernet or cellular data network. We provide IoT platforms that enable centralized device management and push digital services on a massive scale. Our smart devices include water sensor, environment sensor, entry sensor, smart plug, siren, body temperature pad, care watch and tracking devices.
+ 
+Sentir Video
+ 
+Sentir Video is Iveda’s video surveillance solution for all kinds of applications. Serving our customers over the past seventeen years has allowed us to validate the best in video surveillance technologies and methodologies, including IP network cameras, NVRs, wireless systems, and other components necessary to deploy a scalable, efficient, and effective video surveillance system. Iveda designs, builds, and delivers highly secure turnkey video surveillance systems featuring our ZEE IP Cameras and Sentir NVRs.
+Cerebro IoT Platform
+ 
+Cerebro is a software technology platform that integrates a multitude of disparate systems for central access and management of applications, subsystems, and devices throughout an entire environment. It is system agnostic and will support cross-platform interoperability. Cerebro’s roadmap includes a dashboard for all of Iveda’s platforms for central management of all devices. It provides remote access to a Dashboard for a single user interface, providing convenient anywhere, anytime access and analysis of relevant information in a timely manner for managing an entire organization or city. Cerebro links city systems and subsystems inseparably to each other. This integration and unification of all subsystems enable acquisition and analysis of all information on one central entity allowing comprehensive, effective and overall management and protection of a city.
+ 
+IvedaSPS
+ 
+IvedaSPS is our smart power solution, utilizing our Cerebro IoT platform. This completes our digital transformation solution crucial in smart city deployments as well as in large organizations. We offer smart power technology for office buildings, schools, shopping centers, hotels, hospitals, and smart city projects. This line of product includes smart power, water meter, smart lighting controls systems, and smart payment system. Cerebro manages all the components of our smart power technology including statistics on energy consumption. Cerebro is a software platform designed to integrate multiple unconnected energy, security and safety applications and devices and control them through one comprehensive user interface.
+ 
+IvedaCare
+ 
+IvedaCare is a simple, easy to use suite of wireless health and wellness devices intended to help you monitor the health and activities of your loved ones, even when you can’t be there yourself. Our mission is to help ensure your loved one’s safety and independence. Stay connected to your elderly loved ones with our advanced IoT devices. Real-time monitoring, fall detection, medication reminders and more. With IvedaCare, you not only can monitor your home and loved ones from afar, but potentially life-saving decisions can be made using the app. Cloud-based, wireless sensors collect real-time data that is shared with the entire family circle within the app. Customers may add a subscription service for Pro Monitoring.If the Trusted Circle is unavailable, our emergency call center will dispatch emergency services quickly.
+ 
+Utilus
+ 
+Utilus is our smart pole solution, utilizing our Cerebro IoT platform. This completes our digital transformation solution crucial in smart city deployments as well as in large organizations. Iveda leverages infrastructure already available in most modern cities – Light poles with power
+ 
+We equip existing poles with Utilus. Utilus consists of power and Internet, establishing a communication network for access and management of sensors and devices that the city requires to keep its citizens safe and secure and to effectively manage utility consumption.
+ 
+Our smart pole offering is also ideal for government or large-scale city deployments.
+ 
+Supporting and Improving City Services
+ Reducing Emergency Response Times
+ Crime & Hazard Protection
+ Monitoring and Improving Air Quality
+ Sound Detection
+ Traffic Monitoring and Mobility as a Service
+ Data Analytics and Monetization Opportunities
+ 
+
+6
+-
+
+Customers
+ 
+Our business model in the US is to license our software to organizations already providing services to an existing customer base and facilitating hardware acquisition through third party partners. This business model provides dual revenue streams – one from surveillance camera and analytics hardware sales to the service providers and the other from software licensing fees.
+ 
+Iveda Taiwan continues to service its enterprise and government clients on a per-project basis. Some of its customers include Chunghwa Telecom, the Taiwan Stock Exchange, New Taipei City Police Department, Chicony Power Technology Co, Ltd. and Taiwan Energy Systems.
+ 
+Here is a sample list of our present customers and partners
+ 
+
+Seasonality of Business
+ 
+There is no significant seasonality in our business.
+ 
+Research and Development
+ 
+Our CTO is spearheading the continued development of Cerebro, our proprietary IoT platform, utilizing internal resources and outsourced software engineers.
+ 
+Intellectual Property
+ 
+We regard certain aspects of our internal operations, products, and documentation as proprietary and rely on a combination of copyright and trademark (federal and common) laws, trade secrets, software security measures, license agreements, and nondisclosure agreements to protect our proprietary information. We do not own any patents, but in November 2012 we licensed, through our subsidiary, Sole-Vision Technologies, Inc., the right to use U.S. Patent No. 8,719,442 (as well as its Taiwanese and Chinese counterparts) ITRI with respect to the development of cloud-video technologies. We also recognize common law trademarks for “Iveda Solutions” and “Iveda” and its logo. We have pending trademarks applications before the U.S. Patent and Trademark Office for these marks.
+ 
+We cannot guarantee that our protections will be adequate or that our competitors will not independently develop technologies that are substantially equivalent or superior to our system. Nonetheless, we intend to vigorously defend our proprietary technologies, trademarks, and trade secrets. We have required and will continue to require existing and future members of management, employees, and consultants to sign non-disclosure and invention assignment agreements for work performed on our behalf.
+ 
+
+7
+-
+
+ 
+
+We are currently developing Cerebro IoT platform. Cerebro is a federated software platform for smart city management. It consists of power management, traffic management, location-based asset tracking, security systems management and AI intelligent video search management. We may consider patent protection for Cerebro based on the unique features we are developing. We are using a combination of open source and proprietary code for all our source coding.
+ 
+We do not believe that our proprietary rights infringe the intellectual property rights of third parties. However, we cannot guarantee that third parties will not assert infringement claims against us with respect to current or future technology or that any such assertion may not require us to enter into royalty arrangements or result in costly litigation. Furthermore, our proposed future products and services may not be proprietary and other companies may already be providing these products and services.
+ 
+Environmental Issues
+ 
+Our business currently does not implicate any environmental regulation.
+ 
+Industry Overview
+ 
+Iveda is in AI space providing critical intelligence to video surveillance systems and IoT space providing digital transformation solutions to cities around the world. Both industry segments are projected to grow significantly. According to International Data Corporation (IDC) Worldwide Artificial Intelligence Spending Guide, global spending on AI is forecast to double over the next four years from USD 50.1 billion in 2020 to more than USD110 billion in 2024. Spending on AI systems will accelerate over the next several years as organizations deploy artificial intelligence as part of their digital transformation efforts and to remain competitive in the digital economy.
+ 
+According to Fortune Business Insights, the global IoT market size was USD 308.97 billion in 2020, exhibiting a growth of 23.1% in 2020 compared to the average year-on-year growth during 2017-2019. The market is projected to grow from USD 381.30 billion in 2021 to USD 1,854.76 billion in 2028.
+ 
+Corporate Information
+ 
+Our principal executive office is located at 1744 S. Val Vista Drive, Ste. 213, Mesa, Arizona 85204. The telephone number of our principal executive offices is (480) 307-8700. Our registered agent is CT Corporation System and their office is located at 701 S Carson Street, Suite 200, Carson City, NV, 89701. Information contained on our website on that can be accessed through our website is not incorporated by reference in this prospectus.
+Government Regulation
+ 
+The security and surveillance industry and consumer data privacy are subject to government regulation. Future changes in laws or regulations could require us to change the way we operate, which could increase costs or otherwise disrupt operations. In addition, failure to comply with any applicable laws or regulations could result in substantial fines or revocation of any required operating permits and licenses. If laws and regulations change or we fail to comply in the future, our business, financial condition, and results of operations could be materially and adversely affected.
+Employees
+ 
+As of December 31, 2022, we had 7 full-time employees in the United States and 25 full-time employees in Taiwan. Our future success will depend, in part, on our ability to attract, retain, and motivate highly qualified security, sales, marketing, technical, and management personnel. From time to time, we employ independent consultants or contractors to support our development, marketing, sales and support, and administrative needs. Our employees are not represented by any collective bargaining unit.
+
+8
+-
+
+Insurance
+ 
+We maintain insurance, including comprehensive general liability coverage, in amounts and types of coverage that we believe are customary in our industry. Special coverage is sometimes added in response to unique customer requirements. We also maintain compliance with applicable state workers’ compensation laws. A certificate of insurance, which meets individual contract specifications, is made available to every customer.
+Our History
+ 
+We were incorporated in Nevada in June 2006 under the name Charmed Homes, Inc. and engaged in the construction and marketing of custom homes in Alberta, Canada. As a result of the unfavorable housing market and a lack of available funding, we ceased operations in 2008. On October 15, 2009, we completed a reverse merger with IntelaSight, Inc. doing business as Iveda Solutions, a Washington corporation (“IntelaSight”), pursuant to which IntelaSight became a wholly owned subsidiary of our company. Thereafter, we changed our name to Iveda Corporation. After the reverse merger, all of our operations were conducted under IntelaSight until December 31, 2010, at which time IntelaSight merged with and into our company, with our company surviving. At that time, we changed our name to Iveda Solutions, Inc. On April 30, 2011, we completed our acquisition of Iveda Taiwan, which was incorporated in the Republic of China (Taiwan) on July 5, 1999.
+ 
+Our common stock is listed on NASDAQ under the symbol “IVDA.”
+ 
+Available Information
+ 
+Our principal executive offices are located at 1744 Val Vista, Suite 213, Mesa, Arizona 85204 and our telephone number is (480) 307-8700. Iveda Taiwan’s headquarters is located at 2F,-15, No. 14, Lane 609, Sec. 5, Chongxin Rd., Sanchong City, Taipei County 241, Taiwan (R.O.C.). We have two website addresses: www.iveda.com and www.mega-sys.com. The information contained on our websites does not constitute a part of this Annual Report on Form 10-K.
+ 
+We electronically file our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to these reports and other information with the Securities and Exchange Commission (the “SEC”). Through our website, we make available free of charge our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+ 
+The public can also obtain copies of any materials we file with, or furnish to, the SEC by visiting the SEC’s Public Reference Room at 100 F Street NE, Washington, DC 20549 on official business days during the hours of 10:00 a.m. to 3:00 p.m. or by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+ 
+
+9
+-
+

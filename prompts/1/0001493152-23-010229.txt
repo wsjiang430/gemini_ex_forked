@@ -1,0 +1,213 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+ 
+Unless otherwise indicated or the context requires otherwise, the terms “we,” “us,” “our,” and “our company” refer to Cerberus Cyber Sentinel Corporation, a Delaware corporation, and our wholly owned subsidiaries. Unless otherwise specified, all dollar amounts are expressed in United States dollars.
+ 
+Our Business
+ 
+General
+ 
+We are a cybersecurity and compliance company comprised of highly trained and seasoned security professionals who work with clients to enhance or create a better cyber posture in their organization. Cybersecurity, also known as computer security or information technology security, is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide. The cybersecurity industry has a supply and demand issue wherein there is more demand for cybersecurity services than there are expert and seasoned compliance and cybersecurity professionals available in the market. We seek to identify, attract, and retain highly skilled cyber and compliance teams and bring them together to provide holistic cyber services. We accomplish this through acquisitions, direct hiring, and incentivizing employees with stock options to help retain them. On an ongoing basis, we seek to identify cyber talent that is culturally aligned and that offers operating leverage through both existing customer revenue and relationships. We have invested in enterprise solutions and executive talent to integrate our different organizations into an ecosystem that works together to provide complete and holistic cybersecurity through cross pollination of solutions. The ecosystem is intended to provide additional revenue opportunities and drive overall recurring revenue.
+ 
+We emphasize to clients the critical nature of having their work force create a continuously aware security culture. Once engaged, we strive to become the trusted advisors for customers’ cybersecurity and compliance needs by providing tailored security solutions based upon their organizational needs. We do not focus on selling cybersecurity products; we are product-agnostic so that we can provide solutions that fit the customer’s security needs, financial realities, and future strategy. Our approach is to evaluate the client’s organization holistically, identify compliance requirements, and secure the infrastructure while helping to create a culture of security.
+ 
+We provide a full range of cybersecurity consulting and related services, encompassing all three pillars of compliance, cybersecurity, and culture. Our services include compliance services, secured managed services, security operations center (“SOC”) services, virtual Chief Information Security Officer (“vCISO”) services, incident response, certified forensics, technical assessments, and cybersecurity training. We believe that culture is the foundation of every successful cybersecurity and compliance program. To deliver that outcome, we developed our unique offering of MCCP+ (“Managed Compliance & Cybersecurity Provider + Culture”), which is the only holistic solution that provides all three of these pillars under one roof from a dedicated team of subject matter experts. In contrast to the majority of cybersecurity firms that are focused on a specific technology or service, we seek to differentiate ourselves by remaining technology agnostic, focusing on accumulating highly sought-after topic experts. We continually seek to identify and acquire cybersecurity talent to expand our service scope and geographical coverage to provide the best possible service for our clients. We believe that bringing together a world-class team of technological experts with multi-faceted expertise in the critical aspects of cybersecurity is key to providing technology agnostic solutions to our clients in a business environment that has suffered from a chronic lack of highly skilled professionals, thereby setting us apart from competitors and in-house security teams. Our goal is to create a culture of security and to help quantify, define, and capture a return on investment from information technology and cybersecurity spending. Our brand rallies around the battle cry: “Cyber security is a Culture, not a Product.”
+ 
+Offering this set of cybersecurity services allows us to capture more revenue with greater efficiency, facilitating greater profitability and stronger customer retention. The benefit to our customers is that they receive an efficient engagement from a single provider that covers a wide range of their needs. This means their challenges are addressed more thoroughly and problems are resolved more rapidly when compared to working with multiple vendors. This leads to the best possible outcome, which enables our customers to commit to us for the long term.
+ 
+We believe that our business model is differentiated from other companies in the industry in that our employees are not consultants; they are dedicated partners available on a recurring monthly contract. Due to the numerous challenges in hiring experienced cybersecurity and compliance professionals, assimilating our team of industry and subject matter experts into our clients’ teams is the ideal solution.
+ 
+We are technology agnostic. Whereas, most cybersecurity firms are locked into working with a single technology, we seek to differentiate ourselves by remaining technology agnostic. This approach enables us to work with any business, no matter what systems or tools they use. For our customers, the benefit is equally valuable as they are able to choose the best tools and technology for their business needs without affecting their relationship with us.
+ 
+
+-4-
+---
+
+
+We believe that building a world-class technology team with industry-specific and subject-matter expertise is the key to providing cutting-edge solutions to our clients. We will continue to identify and acquire cybersecurity talent to expand our scope of services and geographical footprint to fortify our capability to deliver excellence to our customers. Furthermore, our goal is to stay a step ahead of threat actors and regulatory obligations to keep our customers safe and compliant.
+ 
+The Cybersecurity Challenge
+ 
+As the world has become increasingly connected through the Internet and the Internet of Things (“IoT”), cyberattacks have prevailed and evolved, in different forms, causing uncontainable threats to the integrity and privacy of enterprise and personal data and resulted in significant economic losses globally. The McKinsey Global Institute has estimated that approximately 127 new IoT devices connect to the Internet every second. A report published by Cybersecurity Ventures stated that damages from global cybercrime is predicted to hit $10.5 trillion annually by 2025. Cybersecurity Ventures estimated that a business fell victim to a ransomware attack every 11 seconds in 2021, up from every 14 seconds in 2019. As a result, ransomware is one of the fastest growing types of cybercrime. Moreover, an Accenture survey reported that 68% of business leaders feel their cybersecurity risks are increasing. Cybersecurity Ventures has also predicted that worldwide global cybersecurity spending will exceed $1.75 trillion cumulatively from the fiscal years 2021 to 2025. The New York Times reported that in 2021 there would be 3.5 million unfilled job openings in the cybersecurity field. Two years later, despite widespread university and government investments into education programs and recruitment efforts, the rates are roughly the same. Continued efforts to bridge the workforce and skills gaps simply can’t keep up with the ongoing increase in demand.
+ 
+In response to the increasing economic damage caused by heightened cybersecurity risks, regulatory bodies have pushed the implementation of new cybersecurity legislations, and cyber insurance companies have increased minimum cybersecurity underwriting requirements, as well as premium costs. We believe that we are well positioned in a fast-growing industry to provide businesses with a wide scope of cybersecurity services and with significant opportunities for growth.
+ 
+Service Offering
+ 
+We currently offer two major types of services to clients including security managed services and professional services.
+ 
+Security Managed Services
+ 
+Our security managed services include cybersecurity and compliance solutions. Through our consultative approach, we evaluate the cybersecurity posture and ecosystem of our clients to expose risks, optimize resources and implement best-fit solutions that are tailored to the business and address their unique challenges.
+ 
+We offer multiple services in the security managed services portfolio, including the following:
+ 
+
+● | Compliance: Our compliance practice ensures the customers are implementing the right controls, properly prioritizing risks, and investing in the appropriate remediation in order to comply and adhere to applicable industry standards and guidelines, and manage continuous monitoring over time. We provide the combination of integrated processes and systems, experienced staff, and innovative technology to help our customers meet those goals. Our seasoned experts possess the stringent industry certifications and accreditations that indicate their depth of knowledge in security compliance regulations, frameworks, and controls. As an authorized Federal Risk and Authorization Management Program (“FedRAMP”) vendor, we bring an insider’s perspective to the process in the following standards: 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-5-
+---
+
+
+○ | FedRAMP: provides standardization to cloud security for Cloud Service Providers. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+○ | FISMA 2014: codifies the Department of Homeland Security’s role in administering the implementation of information security policies for federal Executive Branch civilian agencies, overseeing agencies’ compliance with those policies, and assisting the U.S. Office of Management and Budget in developing those policies. 
+○ | ISO 17021 and ISO 27001: international standard providing certification bodies with a set of requirements that will enable them to ensure that their management system certification process is carried out in a competent, consistent, and impartial manner. 
+○ | Health Insurance Portability and Accountability Act (“HIPAA”) and Technology for Economic and Clinical Health Act of 2009: laws regulated by the Department of Health and Human Services to secure the privacy and confidentiality of protected health information. 
+○ | PCI: a standard administered by the Payment Card Industry Security Standards Council. 
+○ | Cybersecurity Framework: a set of cybersecurity activities, desired outcomes, and applicable informative references common across critical infrastructure sectors. 
+○ | The National Institute of Standards and Technology (“NIST”): formally known as a National Bureau of Standards, NIST is a federal agency that promotes and maintains measurement standards while encouraging and assisting industry and science to develop and use these standards. 
+○ | Cybersecurity Maturity Model Certification: intended to serve as a verification mechanism to ensure that defense industrial base companies implement appropriate cybersecurity practices and processes to protect federal contract information and controlled unclassified information within their unclassified networks. 
+○ | General Data Protection Regulation: intended to standardize data protection law across the single market and give people in a growing digital economy greater control over how their personal information is used. 
+○ | Service Organization 2: an auditing procedure that focuses on a business’ non- financial reporting controls related to security, availability, processing, integrity, confidentiality, and privacy of a system. 
+○ | Health Information Trust Alliance comprehensive security framework: developed in collaboration with healthcare, technology, and information security leaders to create, access, store, and exchange sensitive and/or regulated data. 
+
+
+● | Secured Managed Services: Our team has extensive experience in identifying and remediating security issues in a holistic fashion to quickly affect change on an organizational scale. We partner with our clients to address the items that are identified through the course of routine network hygiene or from a security review, penetration test, or incident response. Our remediation services resolve vulnerabilities that may introduce risk and lead to adverse outcomes if not addressed. Examples of issues that we remediate include rearchitecting computer networks to minimize attack surface, implementing high security password requirements and multi-factor authentication, applying missing security patches that expose an organization to security attack, or correcting misconfigurations that can lead to unauthorized access such. Our services provide customers with a mature methodology for the heavy lifting needed to ensure that implementing solutions to minimize security risk are done efficiently and effectively. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | SOC Managed Services: We offer SOC-as-a-service, which is a subscription-based service that provides 24x7x365 coverage and overwatch including threat monitoring, alerting, validation, and proactive threat hunting to defend against cyber threats. 
+● | vCISO Service: Organizations are in need of a cybersecurity program to reduce cyber risk to the business, but many do not have the capital resources or knowledge base to hire a Chief Information Security Officer to lead the effort. We offer this to companies on an ongoing managed service basis as a resource to augment their management team. vCISO services include road mapping the future state for the client and providing our knowledgeable expertise to help them achieve their security needs. 
+
+
+-6-
+---
+
+Professional Services
+ 
+Our professional services include an extensive portfolio of tailored advisory solutions. Our in-depth and uniquely acquired industry expertise allows us to act as a trusted advisor of our clients to help them lower their risk profile, minimize cost impact, and meet regulatory compliance demands. We specialize in:
+
+● | Incident Response and Forensics: We focus on identification, investigation, and remediation of cyberattacks. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Technical Assessments: We specialize in advanced cybersecurity assessments that highlight the skills and experience of our team’s top-tier talent. Our customers love us because we routinely identify issues that no one else does due to our emphasis on real-world manual testing techniques and custom exploit development to uncover new avenues of attack. Our approach to penetration testing services strikes the perfect equilibrium between cost, time, and results. The team of highly skilled testers utilize the same tools and techniques a malicious cybercriminal would use to try to gain unauthorized access to highly guarded corporate systems and data to evaluate technical controls and quantify business risks in a meaningful way. This level of analysis provides business leaders the knowledge required to not only understand the impact a successful attack might have on their business operations, but also can validate the effectiveness of existing security controls and justify additional security related investment. 
+● | Training: We provide security awareness training that can build a cyber vigilant culture by equipping users with the tools and techniques required to spot a potential cyberattack in the early stages. This targets the root cause for 75% of cyber breach events by starting with a culture of security-first forward thinking. 
+● | Other Cybersecurity Services: 
+
+
+◌ | Cyber Vigilance: Bringing the culture of cybersecurity to an organization is a critical first step of building any resilience to cyber threats. Through our consulting service, we dive into both the cultural and technical aspects of cybersecurity within the organization, providing meaningful recommendations to rapidly improve cybersecurity posture. We help our clients build effective policies and best practices, design or enhance a cybersecurity system, and train the executive management team to foster a top-down culture of cybersecurity in order to facilitate diligent implementation of cybersecurity awareness. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+◌ | Gap and Risk Assessment: We combine decades of security expertise and in-depth knowledge of how cyberattackers operate to deliver a thorough security risk gap analysis that identifies real world threats and issues guidance for protection. We first familiarize ourselves with the customer’s environment, business model, operations, and business drivers to best determine a customer’s cybersecurity posture in an ever evolving threat landscape. We then use our advanced threat intelligence, data breach experience, and analytics to accurately assess the customers unique cybersecurity risk based on their “as is” state. We then operate with a holistic mindset, considering every link in the cybersecurity chain from people, processes, and technology, to determine their ideal “to be” state, aligned with their business goals, compliance requirements, and risk tolerance. Finally, we collaboratively devise and develop a strategic cybersecurity plan that takes into account critical priorities to effectively reduce cybersecurity risk by closing the gap between their “as is” and “to be” states. This comprehensive awareness of internal systems and policies provides our customers with a clear understanding of their overall risk as well as the strategies and tools they need to protect their most valuable assets: their data and brand reputation. 
+
+
+-7-
+---
+
+Growth Strategy
+ 
+Cybersecurity service and consulting firms operate on various forms of business models. We do not focus on selling products; we promote a cybersecurity culture. Our growth strategy focuses on external acquisition and internal scalability to drive that culture within our customers’ organizations. Therefore, our revenue streams mainly come from security managed service and professional service fees. As the cybersecurity market grows over the years, we continue to see an increasing number of players entering the market with different sets of qualifications. However, organizations facing cybersecurity issues also usually lack the expertise to identify the right service provider or do not have the capital resources to hire a qualified CISO. We believe that this is where our growth opportunity lies since the lack of expertise leads to information asymmetry, which causes additional noise in the cybersecurity marketplace and exposes organizations to greater risks if found issues are not mitigated with the right group of experts. Furthermore, the industry is in need of highly qualified technology professionals in the cybersecurity field. A limited pool of talent results in increasing compensation and cost to retain such talent, which in turn compromises companies’ bottom line profitability and then increases the need to work externally with a partner such as our company. According to a Cybersecurity Jobs Report released in 2017 by Herjavec Group, unfilled cybersecurity positions were to be approximately 3.5 million by 2021. It has been our intention to capitalize on this gap as our growth opportunity.
+ 
+Our external acquisition strategy targets engineer-owned cybersecurity firms in the top U.S. and international markets with existing revenue in the range of $2 million to $25 million and profit margin of at least 15% to 25%, although there could be opportunities beyond the larger end of this range. We expect each acquisition to be strategic and accretive, and we expect to obtain direct access to a pool of ready-to-deploy and seasoned cybersecurity talent and enhanced access to a larger client base geographically.
+ 
+Our internal scalability strategy will focus on exploring and materializing synergies with the acquired targets. With strategic acquisitions, on the topline, we expect to provide a broadened service offering, which translates into more diverse revenue streams and a larger client base. We also anticipate that we will be able to broaden our geographical sales coverage and reduce client acquisition costs. We also intend to synergize best practices across the platform, which will enhance client experience and client loyalty. On the bottom line, we plan to centralize general and administrative support functions in one location, which will significantly improve net margin for all the service lines. This will allow our management to focus on sales initiatives and achieve internal operations scalability in a relatively short period of time. We estimate that with a typical acquisition, we will realize annual savings on centralized operations, generate additional revenue from upselling to existing clients, and add revenue from new clients. In the long term, we expect to become a pure-play cybersecurity consolidator in the United States.
+ 
+Our Corporate and Acquisition History
+ 
+We were formed on March 5, 2019 as a Delaware corporation. Our principal offices are located at 6900 East Camelback Road, Suite 240, Scottsdale, Arizona 85251.
+ 
+On October 2, 2019, we filed a registration statement on Form 10-12G with the Securities and Exchange Commission (“SEC”) to effect registration of our common stock, par value $0.00001 per share, under the Exchange Act. The registration statement became effective on December 1, 2019.
+
+-8-
+---
+
+
+We have substantially expanded our business in recent years through a number of acquisitions. The following table sets for certain information regarding such acquisitions:
+ 
+
+Acquired Company, Location | Type of Acquisition | Date | Services Provided by Acquired Company 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------
+GenResults, LLC (“GenResults”) Arizona(1) | Stock | April 12, 2019 | Cybersecurity services. 
+VCAB Six Corporation (“VCAB”) Texas | Merger | April 12, 2019 | N/A(2) 
+TalaTek, LLC (“TalaTek”) Virginia | Merger | October 1, 2019 | Integrated risk management services, including risk assessments, IT audits, cybersecurity services, and managed compliance services. 
+Technologyville, Inc. Illinois | Stock | May 25, 2020 | Managed IT services. 
+Clear Skies Security, LLC Georgia | Stock | August 1, 2020 | Security assessment and penetration testing. 
+Alpine Security, LLC Missouri | Merger | December 16, 2020 | Integrated risk management services. 
+Catapult Acquisition Corporation (“VelocIT”) New Jersey | Merger | August 12, 2021 | Integrated risk management services. 
+Atlantic Technology Systems, Inc., and Atlantic Technology Enterprises, Inc. (collectively, “Atlantic”) New Jersey | Stock | October 1, 2021 | Integrated risk management services. 
+RED74 LLC (“RED74”) New Jersey | Merger | November 9, 2021 | Integrated risk management services. 
+Ocean Point Equities, Inc. (“Arkavia”) Santiago, Chile | Stock | December 1, 2021 | Cybersecurity services. 
+True Digital Security, Inc. (“True Digital”) New York Florida Oklahoma | Stock | January 19, 2022 | Cybersecurity and compliance. 
+Creatrix, Inc. Tennessee Maryland | Stock | June 1, 2022 | Identity management, systems integration and software engineering, biometrics, vetting, credentialing, and case management. 
+CyberViking, LLC Georgia Oregon | Stock | July 1, 2022 | Application security services, incident response, threat hunting, and creation and management of security operation centers. 
+Servicios Informaticos CUATROi, S.P.A., Comercializadora CUATROi S.P.A., CUATROi Peru, S.A.C., and CUATROi S.A.S. Santiago, Chile Bogota, Columbia, and Lima, Peru | Stock | August 25, 2022 | Managed services and cybersecurity. 
+NLT Networks, S.P.A., NLT Technologias, Limitada, NLT Servicios Profesionales, S.P.A., and White and Blue Solutions, LLC Providencia, Chile Florida | Stock | September 1, 2022 | Security solutions and managed services. 
+RAN Security Buenos Aires, Argentina Chile, Peru, Bolivia, and Paraguay | Stock | Expected 2023(3) | Secured managed services. 
+
+
+(1) | Prior to our acquisition of GenResults, GenResults was wholly owned by an entity affiliated with David G. Jemmett, our Chief Executive Officer and a director of our company. Due to the companies being under common control, we accounted for the acquisition as a reorganization. 
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) | At the time of the VCAB Merger, VCAB was subject to a bankruptcy proceeding and had minimal assets, no equity owners, and no liabilities, except for approximately 1,500 holders of Class 5 Allowed General Unsecured Claims and a holder of allowed administrative expenses (collectively the “Claim Holders”). Pursuant to the terms of the VCAB Merger, and in accordance with the bankruptcy plan, we issued an aggregate of 2,000,000 shares of our common stock (the “Plan Shares”) to the Claim Holders as full settlement and satisfaction of their respective claims. As provided in the bankruptcy plan, the Plan Shares were issued pursuant to Section 1145 of the United States Bankruptcy Code. We entered into the VCAB Merger to increase our stockholder base to, among other things, assist us in satisfying the listing standards of a national securities exchange. 
+(3) | On January10, 2023, we entered into a definitive agreement for the acquisition of RAN Security, which is expected to close later in the year, subject to the satisfaction of customary closing conditions, including applicable regulatory approvals. 
+
+
+-9-
+---
+
+Customers
+ 
+Our recent acquisitions have resulted in expansion of our customer base and increased usage within existing customers. None of our customers individually accounted for more than 10.0% of our consolidated revenue for the year ended December 31, 2022, nor are we dependent upon a few major customers. One of our customers accounted for an aggregate of 20.4% of our consolidated revenue for the year ended December 31, 2021.
+Competition
+ 
+The cybersecurity market is highly fragmented. In the top quartile, the market is dominated by several major global players, including IBM Corporation, Cisco Systems, AVG Technologies, Broadcom, and Dell. The rest of the market is highly competitive without dominant players. According to MarketsandMarkets.com, North America is expected to continue its hold as the largest market size in the cybersecurity market through the year 2023. A report from Statista forecasted the cybersecurity market to grow to $345.4 billion by 2026. An increasing awareness of cyber threats has led to a rising investment in cybersecurity infrastructure worldwide.
+ 
+We face direct competition from all small-to-medium-sized cybersecurity service providers nationwide given the broad service scope we currently provide. Many competitors provide cloud-based services, which means our competition is not restricted by regions. It is critical for our executive management team to identify and attract strategic acquisition targets in order to strengthen our competitive advantage as a cybersecurity consolidator, which we believe brings higher service quality, more diverse service scope, and broader geographical coverage at a lower cost.
+ 
+Intellectual Property
+ 
+We intend to take appropriate steps to protect our intellectual property. We have registered the trademark “Cyber security is a culture, not a product,” which has been approved with a registration date of October 29, 2019.
+ 
+We have non-disclosure, confidentiality, and license agreements with employees, contractors, customers and other third parties, which limit access to and use of our proprietary information. Though we rely in part upon these legal and contractual protections, as well as various procedural safeguards, we believe the skill and ingenuity of our employees, and the functionality and frequent enhancements to our solutions are more important to maintaining our competitive position in the marketplace.
+ 
+Government Regulation
+ 
+We are not aware of any specific regulations that govern cybersecurity firms or the areas in which we operate. While there are a few federal cybersecurity regulations, they govern industries that we serve and exist to focus on specific industries.
+ 
+Three of the main cybersecurity regulations are HIPAA, the 1999 Gramm-Leach-Bliley Act, and the 2002 Homeland Security Act, which included the Federal Information Security Management Act (“FISMA”). The three regulations mandate that healthcare organizations, financial institutions, and federal agencies, respectively, should protect their systems and information. FISMA, which applies to every government agency, requires the development and implementation of mandatory policies, principles, standards, and guidelines on information security. However, the regulations do not address numerous computer related industries, such as Internet Service Providers and software companies. Furthermore, the regulations do not specify what cybersecurity measures must be implemented and require only a “reasonable” level of security.
+ 
+
+-10-
+----
+
+
+In addition, the National Cybersecurity Division is another regulatory body that is a division of the Office of Cybersecurity & Communications within the U.S. Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency.
+ 
+Human Capital Management
+ 
+We believe that our future success will depend, in part, on our continued ability to attract, hire, and retain qualified personnel. In particular, we depend on the skills, experience, and performance of our senior management and engineering and technical personnel. We compete for qualified personnel with other cyber security companies and industry experts.
+ 
+We provide competitive compensation and benefits programs to help meet the needs of our employees. In addition to salaries, these programs (which vary by country/region and employment classification) include incentive compensation plan, pension, healthcare and insurance benefits, paid time off, family leave, and on-site services, among others. We also use targeted equity-based grants with vesting conditions to facilitate retention of personnel, particularly for our key employees.
+ 
+The success of our business is fundamentally connected to the well-being of our people. Accordingly, we are committed to the health and safety of our employees. In response to the COVID-19 pandemic, we implemented significant changes that we determined were in the best interest of our employees, as well as the communities in which we operate, and which comply with government regulations. This includes having employees work from home, while implementing additional safety measures for employees continuing critical on-site work.
+ 
+Environmental, Social, and Governance Efforts
+ 
+Environmental Commitment
+ 
+We are committed to protecting the environment and attempt to mitigate any negative impact of our operations. We monitor resource use, improve efficiency, and at the same time reduce our emissions and waste.
+Social Responsibility
+ 
+We are a trusted cybersecurity expert providing safe, efficient, and sustainable services to our existing and new communities. Our success is the direct result of the dedication and strength of our team and promotes equity, diversity, integrity, inclusion, reliability and accountability. We believe that a combination of diverse team members and an inclusive culture contributes to our success. Each member is a valued part of our team bringing a diverse perspective to help grow business and achieve our goals. Our tradition of serving employees, customers, and investors is at the core of our culture. For third-party vendor selection and oversight, we have standard operating procedures that apply to employees and subcontractors who, on our behalf, oversee and conduct technical protocols.
+Employees
+ 
+As of December 31, 2022, we had 449 employees, of which 443 were full-time. In addition, we utilize independent contractors for projects of short duration or where specialized knowledge or experience is needed for a complex project. We are not dependent on any independent contractor, and we believe adequate replacements would be available in the event any such independent contractor becomes unavailable to us. We believe our relations with our employees is good.
+
+-11-
+----
+
+Available Information
+ 
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, our proxy and information statements and all amendments to those reports will be available free of charge through our website at www.ciso.inc as soon as practicable after such material is electronically filed with, or furnished to, the SEC. Except as otherwise stated in these documents, the information contained on our website or available by hyperlink from our website is not incorporated by reference into this report or any other documents we file, with or furnish to, the SEC.
+Implications of Being an Emerging Growth Company
+ 
+We qualify as an “emerging growth company” as the term is used in The Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”), and therefore, we may take advantage of certain exemptions from various public company reporting requirements, including:
+
+● | a requirement to only have two years of audited financial statements and only two years of related selected financial data and management’s discussion and analysis; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | exemption from the auditor attestation requirement on the effectiveness of our internal controls over financial reporting; 
+● | reduced disclosure obligations regarding executive compensation; and 
+● | exemptions from the requirements of holding a nonbinding advisory stockholder vote on executive compensation and any golden parachute payments. 
+
+ 
+We may take advantage of these provisions for up to five years or such earlier time that we are no longer an emerging growth company. We would cease to be an emerging growth company if we have more than $1.07 billion in annual revenue, issue more than $1.0 billion of non-convertible debt over a three-year period, or become a large accelerated filer. So long as we remain an emerging growth company, we may choose to take advantage of some, but not all, of the available benefits of the JOBS Act. We have taken advantage of some of the reduced reporting requirements in our filings. Accordingly, the information contained herein may be different than the information you receive from other public companies in which you hold stock. In addition, the JOBS Act provides that an emerging growth company can delay adopting new or revised accounting standards until such time as those standards apply to private companies. We have elected to avail ourselves of this exemption from new or revised accounting standards and, therefore, we will not be subject to the same new or revised accounting standards as other public companies that are not emerging growth companies.
+ 

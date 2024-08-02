@@ -1,0 +1,274 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+The following discussion of our business contains forward-looking statements that involve risks and uncertainties (see the section entitled “Forward-Looking Statements” herein). Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including those factors set forth under “Risk Factors” and elsewhere in this Form 10-K.
+ 
+Overview
+ 
+We are a life sciences company that develops, manufactures, and markets bioproduction tools and services which are designed to improve quality and de-risk biologic manufacturing, storage, distribution, and transportation in the cell and gene therapy (“CGT”) industry and broader biopharma markets. Our products are used in basic and applied research and commercial manufacturing of biologic-based therapies. Customers use our products to maintain the health and function of biologic material during sourcing, manufacturing, storage, and distribution.
+ 
+We currently operate as one bioproduction tools and services business which supports several steps in the biologic material manufacturing and delivery process. We have a diversified portfolio of tools and services that focuses on biopreservation, cell processing, frozen biologic storage products and services, cold-chain transportation, and thawing of biologic materials. We have in-house expertise in cryobiology and continue to capitalize on opportunities to maximize the value of our product platform for our extensive customer base through both organic growth innovations and acquisitions.
+ 
+Our products
+ 
+Our bioproduction tools and services are comprised of three revenue lines that contain seven main offerings:
+ 
+
+● | Cell processing
+--+----------------
+
+
+○ | Biopreservation media
+--+----------------------
+
+
+○ | Human platelet lysate media (“hPL”), cryogenic vials, and automated cell-processing fill machines
+--+--------------------------------------------------------------------------------------------------
+
+
+● | Freezers and thaw systems
+--+--------------------------
+
+
+○ | Ultra-low temperature freezers
+--+-------------------------------
+
+
+○ | Cryogenic freezers and accessories
+--+-----------------------------------
+
+
+○ | Automated thawing devices
+--+--------------------------
+
+
+● | Storage and cold chain services
+--+--------------------------------
+
+
+○ | Biological and pharmaceutical material storage
+--+-----------------------------------------------
+
+
+○ | Cloud connected “smart” shipping containers
+--+--------------------------------------------
+
+ 
+Cell processing
+ 
+Biopreservation media
+ 
+Our proprietary biopreservation media products, HypoThermosol® FRS and CryoStor®, are formulated to mitigate preservation-induced, delayed-onset cell damage and death, which result when cells and tissues are subjected to reduced temperatures. Our technology can provide our CGT customers with significant shelf-life extension of biologic source material and final cell products and can also greatly improve post-preservation cell and tissue viability and function. Our biopreservation media are serum-free, protein-free, fully defined, and manufactured under current Good Manufacturing Practices (cGMP). We strive to source wherever possible, the highest available grade, multi-compendium raw materials. We estimate our cell processing products have been incorporated in nearly 700 customer clinical applications, including numerous chimeric antigen receptor (CAR) T cell and other cell types. 
+ 
+Stability (i.e. shelf-life) and functional recovery are crucial aspects of academic research and clinical practice in the biopreservation of biologic-based source material, intermediate derivatives, and isolated/derived/expanded cellular products and therapies. Limited stability is especially critical in the CGT field, where harvested cells and tissues will lose viability over time, if not maintained appropriately at normothermic body temperature (37ºC) or stored in a hypothermic state in an effective preservation medium. Chilling (hypothermia) is used to reduce metabolism and delay degradation of harvested cells and tissues. However, subjecting biologic material to hypothermic environments induces damaging molecular stress and structural changes. Although cooling successfully reduces metabolism (i.e., lowers demand for energy), various levels of cellular damage and death occur when using suboptimal methods. Traditional biopreservation media range from simple “balanced salt” (electrolyte) formulations to complex mixtures of electrolytes, energy substrates such as sugars, osmotic buffering agents and antibiotics. The limited stability, which results from the use of these traditional biopreservation media formulations, is a significant shortcoming that our optimized proprietary products address with great success.
+ 
+    4 
+
+  
+
+Our scientific research activities over the last 20+ years enabled a detailed understanding of the molecular basis for the hypothermic and cryogenic (low-temperature induced) damage/destruction of cells through apoptosis and necrosis. This research led directly to the development of our HypoThermosol FRS and CryoStor technologies. Our proprietary biopreservation media products are specifically formulated to:
+ 
+
+● | Minimize cell and tissue swelling
+--+----------------------------------
+
+
+● | Reduce free radical levels upon formation
+--+------------------------------------------
+
+
+● | Maintain appropriate low temperature ionic balances
+--+----------------------------------------------------
+
+
+● | Provide regenerative, high-energy substrates to stimulate recovery upon warming
+--+--------------------------------------------------------------------------------
+
+
+● | Avoid the creation of an acidic state (acidosis)
+--+-------------------------------------------------
+
+
+● | Inhibit the onset of apoptosis and necrosis
+--+--------------------------------------------
+
+ 
+A key feature of our biopreservation media products is their “fully-defined” profile. All of our cGMP products are serum-free, protein-free and are formulated and filled using aseptic processing. We strive to use USP/Multicompendial grade or the highest quality available synthetic components. All of these features benefit prospective customers by facilitating the qualification process required to incorporate our products into their regulatory filings. 
+ 
+Competing biopreservation media products are often formulated with simple isotonic media cocktails, animal serum, potentially a single sugar or human protein. A key differentiator of our proprietary HypoThermosol FRS and CryoStor formulation is the engineered optimization of the key ionic component concentrations for low temperature environments, as opposed to normothermic body temperature around 37°C, as found in culture media or saline-based isotonic formulas. Competing cryopreservation freeze media is often comprised of a single permeating cryoprotectant such as dimethyl sulfoxide (“DMSO”). Our CryoStor formulations incorporate multiple permeating and non-permeating cryoprotectant agents which allow for multiple mechanisms of protection and reduces the dependence on a single cryoprotectant. We believe that our products offer significant advantages over in-house formulations, or commercial “generic” preservation media, including, time savings, improved quality of components, more rigorous quality control release testing, cost effectiveness, and improved preservation efficacy.
+ 
+The results of independent testing demonstrate that our biopreservation media products significantly extend shelf-life and improve cell and tissue post-thaw viability and function. Our products have demonstrated improved biopreservation outcomes, including greatly extended shelf-life and post-thaw viability, across a broad array of cell and tissue types.
+ 
+We estimate that annual revenue from each customer commercial application in which our products are used could range from $500,000 to $2.0 million, if such application is approved and our customer commences large scale commercial manufacturing of the biologic-based therapy.
+ 
+Human platelet lysate media, cryogenic vials and automated cell-processing fill machines
+ 
+In September 2021, we acquired Sexton Biotechnologies, Inc. (“Sexton”), a producer of bioproduction tools. Sexton's bioproduction tools portfolio includes human platelet lysates for cell expansion, which reduces risk and improves downstream performance over fetal bovine serum, human serum, and other chemically defined media, CellSeal® closed system vials that are purpose-built rigid containers used in CGT that can be filled manually or with high throughput systems, and automated cell processing machines that bring multiple processes traditionally performed by manual techniques under a higher level of control to protect therapies from loss or contamination.
+ 
+For our Sexton vials and media, we estimate that annual revenue from each customer commercial application in which these products are used could also range from $500,000 to $2.0 million, if such application is approved and our customer commences large scale commercial manufacturing of the biologic-based therapy.
+ 
+Freezers and thaw systems
+ 
+Ultra-low temperature freezers
+ 
+In May 2021, we acquired Global Cooling, Inc. (“Global Cooling”), a manufacturer of class defining ultra-low temperature freezers. Global Cooling carries a portfolio of freezers that range in size from portable units to stationary upright freezers to accommodate a wide variety of use cases. Users can configure these freezers to achieve temperatures between -20°C and -86°C. The portfolio was designed to be environmentally friendly and energy efficient, using as little as 2.8 kWh/day at temperatures of -80°C. The freezers do not use compressor-based or cascade refrigeration systems. Instead, they use patented free-piston Stirling engine technology that uses fewer moving parts.
+ 
+    5 
+
+  
+
+Cryogenic freezers and accessories
+ 
+Our line of cryogenic freezers offer leading design and manufacture of state-of-the-art liquid nitrogen laboratory freezers, cryogenic equipment and accessories. Our Isothermal LN2 freezers are constructed with a patented system which stores liquid nitrogen in a jacketed space in the walls of the freezer. This dry storage method eliminates liquid nitrogen contact with stored specimens, reduces the risk of cross-contamination, and provides increased user safety in a laboratory setting. To accommodate customer requirements, we offer customizable features including wide bodied and extended height models. Our high-capacity controlled rate freezers (“HCFR”) are designed for large volume storage with customizable freezing programs and the ability to monitor conditions in real time.
+ 
+To accompany the offerings of cryogenic freezer equipment, we supply equipment for storing critically important biological materials. This storage equipment includes upright freezer racks, chest freezer racks, liquid nitrogen freezer racks, canisters/cassettes and frames as well as laboratory boxes and dividers. Due to our onsite design and manufacturing capability, racks and canisters can be customized to address customers’ varying requirements.
+ 
+Automated thawing devices
+ 
+The ThawSTAR® line includes automated vial and cryobag thawing products that control the heat and timing of the thawing process of biologic material. Our customizable, automated, water-free thawing products use algorithmic programmed heating plates to consistently bring biologic material from a frozen state to a liquid state in a controlled and consistent manner. This helps reduce damage during the temperature transition. The ThawSTAR products can also reduce risk of contamination versus using a traditional water bath.
+ 
+Storage and cold chain services
+ 
+Biological and pharmaceutical storage
+ 
+In October 2020, we acquired SciSafe Holdings, Inc. (“SciSafe”), a premier provider of biological and pharmaceutical storage. In addition to providing storage services, SciSafe provides cold chain logistics that ensures materials are kept at target temperatures from the moment that the materials leave the customer’s premises to their ultimate return. State-of-the-art monitoring systems employed by SciSafe allow for customers to monitor the storage temperatures of their materials throughout the entire logistics chain.
+ 
+We operate six storage facilities in the USA and one facility in the Netherlands.
+ 
+Cloud connected “smart” shipping containers
+ 
+We are a leading developer and supplier of next generation cold chain management tools for cell and gene therapies. Our cloud-connected shipping containers and evo.is cloud app allows biologic products to be traced and tracked in real time. Our evo platform consists of rentable cloud-connected shippers that include technologies enabling tracking software to provide real-time information on geolocation, payload temperature, ambient temperature, tilt of shipper, humidity, altitude, and real-time alerts when a shipper has been opened. Our internally developed evo.is software allows customers to customize alert notifications both in data measurements and user requirements. The evo Dry Vapor Shipper (“DVS”) is specifically marketed for use with cell and gene therapies. The evo DVS has an improved form factor and ergonomics over the traditional dewar, including extended thermal performance, reduced liquid nitrogen recharge time, improved payload extractors, and ability to maintain temperature for longer periods if tilted on its side.
+ 
+We utilize couriers who already have established logistic channels and distribution centers. Our strategy greatly reduces the cash need to build out specialized facilities around the world. Our partnerships with several white glove couriers allow us to scale our sales and marketing effort by leveraging their salesforce. Our courier partnerships market our evo platform to their existing cell and gene therapy customers as a cost effective and innovative solution. We also market directly to our existing and prospective customers who can utilize the evo platform through our courier partnerships.
+ 
+Our market opportunity
+ 
+The CGT market has been rapidly expanding, treating diseases once thought incurable. According to the Alliance for Regenerative Medicine (“ARM”), “2023 State of the Industry Report” there were over 2,220 ongoing clinical trials utilizing regenerative medicine at the end of Q4 2022, with an 11% growth in CGT development companies throughout 2022. ARM also reported there were over $12.6 billion in total global financings in the regenerative market raised in 2022. The FDA predicts up to fourteen cell and gene therapy regulatory decisions to be made during 2023.
+ 
+    6 
+
+  
+
+These technologies change the way physicians treat patients. The manufacturing, distribution and the delivery process is significantly different from many other types of medicines and therapies. We believe we are well positioned to address many of the manufacturing difficulties in the process of producing cell and gene therapies.
+ 
+The bioproduction process
+ 
+Our various products and services currently integrate into several steps in our customers’ bioproduction workflow process for cell and gene therapies. See the diagram below for an illustration of this process and our product roles. We now offer products that integrate into the critical steps of preservation, thawing, fixed storage, and transportable storage under controlled conditions.
+ 
+Complementary products portfolio
+ Expanding Participation in Customers’ Workflow
+ 
+
+
+Our strategy
+ 
+We are focused on the development, production, and commercialization of differentiated, best-in-class products and services that facilitate the manufacturing, delivery, and storage of cell and gene therapies and biologic materials. Our products are designed to increase our customers’ product yield and we are committed to supporting our customers with strong customer service and applications expertise.
+ 
+We leverage our numerous relationships with the leading cell and gene therapy companies that use our expanded product portfolio of bioproduction tools and services to cross-sell our other parts of the portfolio. Over the last several years, we have built a strong reputation as a trusted supplier of critical tools used in cell and gene therapy manufacturing and the broader biopharma market. We believe that our relationships and reputation could enable us to drive incremental revenue growth through the sale of additional products to a captive customer base. Our products are designed to increase our customers’ product yield and functionality, and we are committed to supporting our customers with strong customer service and expertise in the clinical applications of our products.
+ 
+  7 
+
+  
+
+Business Operations
+ 
+Research and development
+ 
+Our research and development activities are focused on evaluating new, potentially disruptive technologies, which may be applicable throughout the cell and gene therapy manufacturing workflow. We routinely assess and analyze the strengths and weaknesses of competitive products and are typically engaged in business development discussions on an ongoing basis. We strive to continue to introduce differentiated and high-quality products that address specific difficulties in manufacturing, delivery and storage of biologic material.
+ 
+Sales and marketing
+ 
+We market and sell our products through direct sales and third-party distribution. We have significantly expanded our global commercial organization from 18 team members in 2020 to 58 team members as of December 31, 2022.
+ 
+We have experienced field-based sales employees who market our growing product portfolio on a direct basis. Over time, we have expanded our sales team and anticipate adding additional sales personnel. Our technical applications engineers and customer care support teams have extensive experience with the products and services that we offer.
+ 
+Our products are also marketed and distributed by STEMCELL Technologies, MilliporeSigma, VWR, part of Avantor, Thermo Fisher and several other regional distributors under non-exclusive agreements. In 2022, 2021, and 2020, sales to third-party distributors accounted for 50%, 46%, and 45% of our revenue, respectively.
+ 
+During the years ended December 31, 2022 and 2021, we derived approximately 18% and 17% of our revenue from the same customer, respectively. During the year ended December 31, 2020, we derived approximately 13% of our revenue from a different customer.
+ 
+The following table represents the Company’s total revenue by geographic area (based on the location of the customer):
+ 
+
+ | Year Ended December 31, | 
+-------------------------------------------+-------------------------+----
+Revenue by customers’ geographic locations | 2022 | | | 2021 | | 2020
+United States | | 72 | % | | 78 | % | 73 | %
+Canada | | 17 | % | | 7 | % | 13 | %
+Europe, Middle East, Africa (EMEA) | | 7 | % | | 14 | % | 12 | %
+Other | | 4 | % | | 1 | % | 2 | %
+Total revenue | | 100 | % | | 100 | % | 100 | %
+
+Manufacturing
+ 
+Cell processing – We maintain and operate two independent cGMP clean room production suites for manufacturing sterile biopreservation media products in Bothell, Washington. Our quality management system (“QMS”) in Bothell is certified to the ISO 13485:2016 standard. Our QMS takes guidance from applicable sections of 21 CFR Part 820 – Quality System Regulation for Good Manufacturing Practice of medical devices, 21 CFR Parts 210 and 211 – cGMP for Finished Pharmaceuticals, FDA Guidance – Sterile Drug Products, Volume 4, EU Guidelines Annex 1 – Manufacture of Sterile Medicinal Products, ISO 13408 – Aseptic Processing of Healthcare Products, and ISO 14644 – Clean Rooms and Associated Controlled Environments.
+ 
+We also maintain and operate one cGMP clean room production suite for manufacturing hPL media in Indianapolis, Indiana. Our quality management system (“QMS”) in Indianapolis is certified to the ISO 9001:2015 standard. Our QMS takes guidance from applicable sections of 21 CFR Part 820 – Quality System Regulation for Good Manufacturing Practice of medical devices, 21 CFR Parts 210 and 211 – cGMP for Finished Pharmaceuticals, Volume 4, EU Guidelines Annex 2 – Manufacture of Biological active substances and Medicinal Products for Human Use and ISO 14644 – Clean Rooms and Associated Controlled Environments.
+ 
+We seek to manage single-source supplier risk by regularly assessing the quality and capacity of our suppliers, implementing supply and quality agreements where appropriate and actively managing lead times and inventory levels of sourced components. Pursuant to our supply agreements, we are required to notify customers of any changes to our raw materials. For certain components in which we do not have a secondary supplier, we estimate that it would take up to six months to find and qualify a second source. Order quantities and lead times for externally sourced components are based on our forecasts, which are derived from historical demand and anticipated future demand. Lead times for components may vary depending on the size of the order, specific supplier requirements and current market demand for the materials and parts. Due to COVID-19, we have seen increased lead times for certain raw materials, particularly personal protective equipment used in our clean rooms and certain form factors of bottles and vials used in our finished products. To date, we have not experienced significant difficulties in obtaining raw materials for the manufacture of our biopreservation media products.
+ 
+    8 
+
+  
+
+Freezers and thaw systems – Ultra-low temperature (“ULT”) freezers are produced in our facilities in Athens, Ohio and Bruce Township, Michigan and by a contract manufacturing organization (“CMO”) based in Ohio. We believe this CMO has the skills, experience and capacity needed to meet our quality standards and demand expectations for the product line. We estimate that it would take up to six months to find and qualify an alternative CMO. As of December 31, 2022, we were transitioning manufacturing operations for this product line to in-house production and anticipate completion within the year ended December 31, 2023. To date, we have not experienced significant difficulties in obtaining our ULT freezer products from our CMO. During the year ended December 31, 2021, we experienced difficulties in obtaining sheet metal and electrical components incorporating semiconductor chips for the manufacture of our ULT freezer products. During the year ended December 31, 2022, supply chain bottlenecks were mitigated through the diversification of suppliers, resulting in improved pricing from the year ended December 31, 2021. We were still experiencing constraints in supply for semiconductor chips as of December 31, 2022. Though our costs to obtain semiconductor components normalized throughout the year, we were still experiencing constraints in obtaining electrical component parts. These constraints are expected to improve through diversification of our semiconductor supply chain partnerships.
+ 
+The majority of our isothermal LN2 freezers and related accessories are manufactured in our facility in Bruce Township, Michigan. We are reliant on certain critical suppliers for some components. Due to COVID-19, we have seen increased lead times for certain raw materials and components from our suppliers as well as increased costs on certain raw materials. To date, we have not experienced significant difficulties in obtaining raw materials for the manufacture of our LN2 freezers freezer and related accessories.
+ 
+Our ThawSTAR automated, water-free thawing products are produced by a CMO based in the United States. We believe this CMO has the skills, experience and capacity needed to meet our quality standards and demand expectations for the product line. Due to COVID-19, we have seen increased lead times from our CMO due to increased lead times from our CMO’s suppliers. We estimate that it would take up to six months to find and qualify an alternative CMO. To date, we have not experienced significant difficulties in obtaining our automated thaw products from our CMO.
+ 
+Storage and cold chain services – Production of our evo cold chain management hardware products is performed by external CMOs and by personnel in our Albuquerque, New Mexico facility. During the year-ended December 31, 2022, we began to transition our operations from the Albuquerque, New Mexico facility to our facility in Bruce Township, Michigan. We anticipate this to be completed in the first quarter of 2023. Our QMS is certified to the ISO 9001:2015 standard. Due to COVID-19 and other market-wide supply chain constraints, we have seen increased lead times for certain raw materials and components from our suppliers, causing additional increased lead times for the manufacture of our evo cold chain products.
+ 
+We practice continuous improvement based on routine internal audits as well as external feedback and audits performed by our partners and customers. In addition, we maintain a business continuity management system that focuses on key areas such as contingency planning, security stocks and off-site storage of raw materials and finished goods to ensure continuous supply of our products.
+ 
+SciSafe operates six cGMP compliant storage facilities in the United States and one state-of-the-art facility in the Netherlands, which is registered with the European Regulatory body in Netherlands (IGJ) for Good Distribution of Active Pharmaceutical Ingredients. One facility in the United States is certified to the ISO 20387:2018 standard and all facilities, both in the United States and the Netherlands, are certified to the ISO 9001:2015 standard. We rely on outside suppliers for the build out of our cold-storage chambers and stand-alone freezers. Due to COVID-19, we have experienced increased lead times in acquiring external stand-alone freezers, which we use to store customers’ biologic materials.
+ 
+Product regulatory status
+ 
+Our products are not subject to any specific United States Food and Drug Administration (“FDA”) or other international marketing regulations for drugs, devices, or biologics. We are not required to sponsor formal prospective, controlled clinical trials in order to establish safety and efficacy. However, to support our current and prospective clinical customers, we manufacture and release our products in compliance with cGMP and other relevant quality standards.
+ 
+To assist customers with their regulatory applications, we maintain Type II Master Files at the FDA for CryoStor, HypoThermosol FRS, BloodStor 27, Stemulate, nLiven PR, T-Liven PR, CellSeal Closed System Cryogenic Vials, and our Cell Thawing Media products, which provide the FDA with information regarding our manufacturing facility and process, our quality system, stability and safety, and any additional testing that has been performed. Customers engaged in clinical and commercial applications may notify the FDA of their intention to use our products in their product development and manufacturing process by requesting a cross-reference to our master files.
+ 
+A group of isothermal, standard, and carousel LN2 freezers in our freezers and thaw systems product line is currently regulated as Class 2 medical devices in the EU.
+ 
+    9 
+
+  
+
+Intellectual property
+ 
+The following table lists our granted and pending patents. We have also obtained certain trademarks and tradenames for our products to distinguish our genuine products from our competitors’ products and we maintain certain details about our processes, products, and strategies as trade secrets. While we believe that the protection of patents and trademarks is important to our business, we also rely on a combination of trade secrets, nondisclosure and confidentiality agreements, scientific expertise and continuing technological innovation to maintain our competitive position. Despite these precautions, it may be possible for unauthorized third parties to copy certain aspects of our products and/or to obtain and use information that we regard as proprietary (see “Item 1A. Risk Factors” of this Annual Report for additional details). The laws of some foreign countries in which we may sell our products do not protect our proprietary rights to the same extent as do the laws of the United States.
+ 
+
+ | Issued Patents | | Patents Applied For | | Registered Trademarks
+--------------------------------+----------------+-----+---------------------+----+----------------------
+Cell processing | | 58 | | 9 | | 37
+Freezers and thaw systems | | 85 | | 66 | | 24
+Storage and cold chain services | | 11 | | 24 | | 9 
+Total | | 154 | | 99 | | 70
+
+Competition
+ 
+Our bioproduction products and services compete on the basis of value proposition, performance, quality, cost effectiveness, and application suitability with numerous established technologies. Additional products using new technologies that may be competitive with our products may also be introduced. Many of the companies selling or developing competitive products have greater financial and human resources, R&D, manufacturing and marketing experience than we do. They may undertake their own development of products that are substantially similar to or compete with our products and they may succeed in developing products that are more effective or less costly than any that we may develop. These competitors may also prove to be more successful in their production, marketing and commercialization activities. We cannot be certain that the research, development and commercialization efforts of our competitors will not render any of our existing or potential products obsolete.
+ 
+Human capital
+ 
+We view our employees and our culture as key to our success. As of December 31, 2022, we had 466 full time employees and 1 part-time employee. Our employees are not covered by any collective bargaining agreement. We consider relations with our employees to be good.
+ 
+Since the beginning of the COVID-19 pandemic, the health and safety of our employees has remained a priority. We have implemented and will continue to implement initiatives safeguarding our employees from the transmission of COVID-19 in accordance with federal, state, and local regulations. We have taken a variety of measures to ensure the availability and functioning of our critical infrastructure to promote the safety and security of our employees and to support the communities in which we operate. These measures have included the increase of our raw materials, manufacturing safety stock inventory for our biopreservation media, expansion of availability for our biological and pharmaceutical storage, requiring remote working arrangements for employees who are not integral to physically making and shipping our products or who do not need specialized equipment to perform their work, restricting on-site visits by non-employees, implementing social distancing protocols, and investing in personal protective equipment. As we continue to monitor the recommendations of public health authorities, we have encouraged positions not essential to being on-site to work to continue working under our flexible work arrangement. 
+ 
+Corporate history
+ 
+We were incorporated in Delaware in 1987 under the name Trans Time Medical Products, Inc. In 2002, the Company, then known as Cryomedical Sciences, Inc. was engaged in manufacturing and marketing cryosurgical products. The entity was merged with our wholly owned subsidiary, BioLife Solutions, Inc., which was engaged as a developer and marketer of biopreservation media products for cells and tissues. Following the merger, we changed our name to BioLife Solutions, Inc.
+ 
+Principal offices; available information
+ 
+Our principal executive offices are located at 3303 Monte Villa Parkway, Suite 310, Bothell, Washington 98021 and the telephone number is (425) 402-1400. We maintain a website at www.biolifesolutions.com. The information contained on or accessible through our website is not part of this Annual Report on Form 10-K and is not incorporated in any manner into this Annual Report. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”), are available free of charge on our website as soon as reasonably practicable after we electronically file such reports with, or furnish those reports to, the Securities and Exchange Commission (the “SEC”). The SEC also maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at http://www.sec.gov.
+ 
+    10 
+
+  
+

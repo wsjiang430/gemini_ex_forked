@@ -1,0 +1,320 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ 
+summary
+ 
+Dynamic Shares Trust (the “Trust”) is a Delaware statutory trust organized on March 8, 2019 and is currently organized into a single series, Dynamic Short Short-Term Volatility Futures ETF (the “Fund”), which commenced investment operations on January 12, 2022. The Fund issues common units of beneficial interest (“Shares”), which represent units of fractional undivided beneficial interest in the ownership of the Fund. The Shares of the Fund are listed on the NYSE Arca, Inc. (“NYSE Arca”).
+ 
+The Fund seeks to achieve its investment objective, under normal circumstances, by obtaining investment exposure to an actively managed portfolio of short positions in futures contracts with monthly expirations (“VIX Futures Contracts”), which are based on the Chicago Board Options Exchange, Incorporated (“CBOE”) Volatility Index (the “VIX Index” or “VIX”). The Fund expects that the notional exposure of its portfolio of short positions in VIX Futures Contracts will range from -0.1 to -0.5 under normal circumstances. The Fund expects to primarily take short positions in VIX Futures Contracts by shorting the next two near term VIX Futures Contracts and rolling the nearest month VIX Futures Contract to the next month on a daily basis. As such, the Fund expects to have a constant one-month rolling short position in first and second month VIX Futures Contracts under normal circumstances.
+ 
+The Trust had no operations prior to January 12, 2022, other than matters relating to its organization, the registration of the Fund under the Securities Act of 1933, as amended, and the sale and issuance to Dynamic Shares, LLC, a Delaware limited liability company (the “Sponsor”) of five Shares at an aggregate purchase price of $100 in the Fund.
+ 
+The Fund continuously offers and redeems its Shares in blocks of 50,000 Shares (each such block a “Creation Unit”). Only Authorized Participants may purchase and redeem Shares from the Fund and then only in Creation Units. An Authorized Participant is an entity that has entered into an Authorized Participant Agreement with the Fund. Shares of the Fund are offered to Authorized Participants in Creation Units at the Fund’s Net Asset Value (“NAV”). Authorized Participants may then offer to the public, from time to time, Shares from any Creation Unit they create at a per-Share market price that varies depending on, among other factors, the trading price of the Shares of the Fund on its listing exchange, the NAV and the supply of and demand for the Shares at the time of the offer. Shares from the same Creation Unit may be offered at different times and may have different offering prices based upon the above factors. The form of Authorized Participant Agreement and related Authorized Participant Handbook set forth the terms and conditions under which an Authorized Participant may purchase or redeem a Creation Unit. Authorized Participants do not receive from the Fund, the Sponsor, or any of their affiliates, any underwriting fees or compensation in connection with their sale of Shares to the public. Shares of the Fund commenced trading on NYSE Arca on January 13, 2022.
+ 
+The Sponsor also serves as the Trust’s commodity pool operator. Wilmington Trust Company serves as the Trustee of the Trust (the “Trustee”). The Fund is a commodity pool, as defined under the Commodity Exchange Act (the “CEA”), and the applicable regulations of the Commodity Futures Trading Commission (the “CFTC”) and are operated by the Sponsor, a commodity pool operator registered with the CFTC. The Trust is not an investment company registered under the Investment Company Act of 1940, as amended (the “1940 Act”).
+ 
+
+1
+-
+
+The Algorithm
+ 
+In seeking to achieve the Fund’s investment objectives, the Sponsor uses a proprietary algorithm, which learns from VIX Futures Contracts historical prices and contango trend, to optimize VIX Futures Contracts trading risks and returns. The algorithm starts with a relatively low notional exposure (-0.05 to -0.15) and recalibrates its notional exposure upon the change of price and contango of VIX Futures Contracts. The Sponsor expects the algorithm to slightly increase the Fund’s notional exposure when the price of VIX Futures Contracts go up to a level not beyond -0.5, and, when the price of VIX Futures Contracts goes down, the Sponsor expects the algorithm to decrease the Fund’s notional exposure to lower levels to prepare for potential upcoming spikes in the price of VIX Futures Contracts. In the event that the Fund’s notional exposure has already reached -0.5 and the price of VIX Futures Contracts increases, the Fund expects to maintain its notional exposure at -0.5 at the close of each trading day. Conversely, if the price of VIX Futures Contracts decreases when the Fund’s notional exposure is below -0.05 and the stress mode is not activated, then the Fund expects to maintain its notional exposure at -0.05 when calibrating its notional exposure. When the stress mode is activated and the expected notional exposure level is below -0.05, then the Fund expects to maintain its notional exposure at 0 when calibrating its notional exposure. The Sponsor will not materially modify the algorithm described in this Registration Statement after this Registration Statement is declared effective by the Securities and Exchange Commission. Therefore, if the algorithm is unsuccessful, the Fund will likely fail to grow or maintain an economically viable size, in which case it could ultimately liquidate.
+ 
+Unlike a traditional short VIX short-term futures ETF, which may maintain a fixed notional exposure every day regardless of the movement in prices of VIX Futures Contracts over time, the Fund changes its notional exposure based on the algorithm, which tries to predict periods during which movements in prices of VIX Futures Contracts will be either favorable or adverse to the Fund based on historical trends, as described in further detail in the paragraphs below. If the algorithm is successful, then the Sponsor expects a shareholder would experience superior performance relative to a shareholder in a traditional short VIX short-term futures ETF that maintains a fixed notional exposure of -0.5 because the algorithm would better manage risk by causing the Fund to maintain lower notional exposure to VIX Futures Contracts during periods where such exposure would cause the Fund to incur losses and maintain similar notional exposure to VIX Futures Contracts during periods where such exposure would cause the Fund to make profits. Despite the preceding sentence, due to the Fund’s gradual increase of its notional exposure when the price of VIX Futures Contracts go up, as described in the paragraph above, there will be periods during which a traditional short VIX short-term futures ETF that maintains a fixed notional exposure of -0.5 would experience higher returns than the Fund as a consequence of the Fund’s lower notional exposure.
+ 
+Information about Financial Instruments and Commodities Markets
+ 
+Futures Contracts
+ 
+A derivative refers to any financial instrument whose value is derived, at least in part, from the price of an underlying security, asset, rate, or index. The use of derivatives presents risk different from, and possibly greater than, the risks associated with investing directly in traditional securities. Changes in the value of a derivative may not correlate perfectly with the underlying security, asset, rate or index. Gains or losses in a derivative may be magnified and may be much greater than the derivative’s original cost.
+
+2
+-
+
+
+Generally speaking, a futures contract obligates the seller to deliver (and the purchaser to accept) the future delivery of a specified quantity and type of asset at a specified time and place. The contractual obligations of a buyer or seller may generally be satisfied by taking or making physical delivery of the underlying commodity, if applicable, or by making an offsetting sale or purchase of an identical futures contract on the same or linked exchange before the designated date of delivery, or by cash settlement at expiration of contract.
+ 
+Upon entering into a futures contract, the Fund is required to deposit and maintain as collateral at least such initial margin as required by the exchange on which the transaction is affected. The initial margin is segregated as cash and/or securities balances with brokers for futures contracts, as disclosed in the Statements of Financial Condition, and is restricted as to its use. The Fund maintains collateral at the broker in the form of cash and/or securities. Pursuant to the futures contract, the Fund generally agrees to receive from or pay to the broker(s) an amount of cash equal to the daily fluctuation in value of the futures contract. Such receipts or payments are known as variation margin and are recorded by the Fund as unrealized gains or losses. The Fund will realize a gain or loss upon closing of a futures transaction.
+ 
+The Fund invests in and has investment exposure to an actively managed portfolio of short positions in VIX Futures Contracts, which are based on the CBOE VIX Index. VIX Futures Contracts, which are types of derivative contracts, are unlike traditional futures contracts and are not based on a tradable reference asset. The VIX Index is not directly investable, and the settlement price of a VIX Futures Contract is based on the calculation that determines the level of the VIX Index.
+ 
+Futures contracts involve, to varying degrees, elements of market risk and exposure to loss in excess of the amount of variation margin. The face or contract amounts reflect the extent of the total exposure the Fund has in the particular classes of instruments. Additional risks associated with the use of futures contracts are imperfect correlation between movements in the price of the futures contracts and the market value of the underlying Index or commodity and the possibility of an illiquid market for a futures contract. With futures contracts, there is minimal but some counterparty risk to the Fund since futures contracts are exchange-traded and the credit risk resides with the Fund’s clearing broker or clearinghouse itself. Many futures exchanges and boards of trade limit the amount of fluctuation permitted in futures contract prices during a single trading day. Once the daily limit has been reached in a particular contract, no trades may be made that day at a price beyond that limit or trading may be suspended for specified times during the trading day. Futures contracts prices could move to the limit for several consecutive trading days with little or no trading, thereby preventing prompt liquidation of futures positions and potentially subjecting the Fund to substantial losses. If trading is not possible, or if the Fund determines not to close a futures position in anticipation of adverse price movements, the Fund will be required to make daily cash payments of variation margin. The risk the Fund will be unable to close out a futures position will be minimized by entering into such transactions on a national exchange with an active and liquid secondary market.
+ 
+
+3
+-
+
+Regulations
+ 
+Derivatives exchanges in the United States are subject to regulation under the CEA, by the CFTC, the governmental agency having responsibility for regulation of derivatives exchanges and trading on those exchanges. Following the adoption of the Dodd-Frank Act, the CFTC also has authority to regulate OTC derivative markets, including certain OTC foreign exchange markets. The CFTC has exclusive authority to designate exchanges for the trading of specific futures contracts and options on futures contracts and to prescribe rules and regulations of the marketing of each. The CFTC also regulates the activities of “commodity pool operators” and the CFTC has adopted regulations with respect to certain of such persons’ activities. Pursuant to its authority, the CFTC requires a commodity pool operator, such as the Sponsor, to keep accurate, current and orderly records with respect to each pool it operates. The CFTC may suspend, modify or terminate the registration of any registrant for failure to comply with CFTC rules or regulations. Suspension, restriction or termination of the Sponsor’s registration as a commodity pool operator would prevent it, until such time (if any) as such registration were to be reinstated, from managing, and might result in the termination of the Fund. If the Sponsor were unable to provide services and/or advice to the Fund, the Fund would be unable to pursue its investment objectives unless and until the Sponsor’s ability to provide services and advice to the Fund was reinstated or a replacement for the Sponsor as commodity pool operator could be found. Such an event could result in termination of the Fund.
+ 
+The CEA requires all FCMs to meet and maintain specified fitness and financial requirements, segregate customer funds from proprietary funds and account separately for all customers’ funds and positions, and to maintain specified books and records open to inspection by the staff of the CFTC. See “Item 1A. Risk Factors. Failure of the FCMs to segregate assets may increase losses in the Fund.” in this Annual Report on Form 10-K.
+ 
+The CEA also gives the states certain powers to enforce its provisions and the regulations of the CFTC.
+ 
+Under certain circumstances, the CEA grants shareholders the right to institute a reparations proceeding before the CFTC against the Sponsor (as a registered commodity pool operator), an FCM, as well as those of their respective employees who are required to be registered under the CEA. Shareholders may also be able to maintain a private right of action for certain violations of the CEA.
+ 
+Pursuant to authority in the CEA, the National Futures Association (the “NFA”) has been formed and registered with the CFTC as a registered futures association. At the present time, the NFA is the only self-regulatory organization for commodities professionals other than exchanges. As such, the NFA promulgates rules governing the conduct of commodity professionals and disciplines those professionals that do not comply with such standards. The CFTC has delegated to the NFA responsibility for the registration of commodity pool operators, FCMs, swap dealers, commodity trading advisors, introducing brokers and their respective associated persons and floor brokers. The Sponsor is a member of the NFA (the Fund is not required to become a member of the NFA).
+ 
+As an NFA member, the Sponsor is subject to NFA standards relating to fair trade practices, financial condition, and consumer protection. The CFTC is prohibited by statute from regulating trading on foreign commodity exchanges and markets.
+ 
+The CEA and CFTC regulations prohibit market abuse and generally require that all futures exchange-based trading be conducted in compliance with rules designed to ensure the integrity of market prices and without any intent to manipulate prices. CFTC regulations and futures exchange rules also impose limits on the size of the positions that a person may hold or control as well as standards for aggregating certain positions. The rules of the CFTC and the futures exchanges also authorize special emergency actions to halt, suspend or limit trading overall or to restrict, halt, suspend or limit the trading of an individual trader or to otherwise impose special reporting or margin requirements. See also “Item 1A. Risk Factors. Regulatory changes or actions, including the implementation of new legislation, may alter the operations and profitability of the Fund” and “Item 1A. Risk Factors. Regulatory and exchange accountability levels may restrict the creation of Creation Units and the operation of the Trust” in this Annual Report on Form 10-K.
+ 
+
+4
+-
+
+
+Description of the VIX Futures Indexes
+ 
+The Fund seeks to offer exposure to forward equity market volatility by obtaining exposure to the VIX Futures Index, which is based on publicly traded VIX futures contracts. The VIX Futures Index is intended to reflect the returns that are potentially available through an unleveraged investment in the VIX futures contracts comprising the VIX Futures Index. The VIX, which is not the index underlying the Fund, is calculated based on the prices of put and call options on the S&P 500. The Fund can be expected to perform very differently from the VIX.
+ 
+The Short-Term VIX Index employs rules for selecting VIX futures contracts comprising the Short-Term VIX Index and a formula to calculate a level for that index from the prices of these VIX futures contracts. Specifically, the VIX futures contracts comprising the Short-Term VIX Index represent the prices of two near-term VIX futures contracts, replicating a position that rolls the nearest month VIX futures to the next month VIX futures on a daily basis in equal fractional amounts. This results in a constant weighted average maturity of one-month. The roll period begins on the Tuesday prior to the monthly Cboe VIX futures settlement and runs through the Tuesday prior to the subsequent month’s Cboe VIX futures settlement date.
+ 
+The level of the VIX Futures Index will be published by Bloomberg L.P. in real time and at the close of trading on each VIX Futures Index business day under the following ticker symbol:
+ 
+
+Index | Bloomberg Ticker Symbol 
+-----------------------------------------+----------------------------
+S&P 500 VIX Short-Term Futures Index | SPVXSP 
+
+ 
+The performance of the VIX Futures Index is influenced by the S&P 500 (and options thereon) and the VIX. A description of VIX futures contracts, the VIX and the S&P 500 follows:
+ 
+VIX Futures Contracts
+ 
+The VIX Futures Index is comprised of VIX futures contracts. VIX futures contracts were first launched for trading by the Cboe in 2004. VIX futures contracts have expirations ranging from the front month consecutively out to the tenth month. VIX futures contracts allow investors the ability to invest based on their view of forward implied market volatility. Investors that believe the forward implied market volatility of the S&P 500, as represented by VIX futures contracts, will increase may buy VIX futures contracts. Conversely, investors that believe that the forward implied market volatility of the S&P 500, as represented by VIX futures contracts, will decline may sell VIX futures contracts. VIX futures contracts are reported by Bloomberg under the ticker symbol “VX.”
+ 
+While the VIX represents a measure of the current expected volatility of the S&P 500 over the next 30 days, the prices of VIX futures contracts are based on the current expectation of what the expected 30-day volatility will be at a particular time in the future (on the expiration date). The VIX and VIX futures contracts generally behave quite differently. To illustrate, on December 30, 2022, the VIX was $21.67 and the settlement price of the January 2023 VIX futures contracts expiring on January 18, 2023 was $23.0981. In this example, the price of the VIX represented the 30-day implied, or “spot,” volatility represented forward implied volatility (the volatility expected for the period from December 30, 2022 to January 18, 2023 of the S&P 500. The spot/forward relationship between the VIX and VIX futures contracts has two noteworthy consequences: (1) the price of a VIX futures contract can be lower, equal to or higher than the VIX, depending on whether the market expects volatility to be lower, equal to or higher in the 30-day forward period covered by the VIX futures contract than in the 30-day spot period covered by the VIX; and (2) an investor cannot create a position equivalent to one in VIX futures contracts by buying the VIX and holding the position to the futures expiration date while financing the transaction.
+ 
+
+5
+-
+
+
+The VIX
+ 
+The Fund is not linked to the VIX and can be expected to perform very differently from the VIX. The VIX is an index designed to measure the implied volatility of the S&P 500 over 30 days in the future, and is calculated based on the prices of certain put and call options on the S&P 500. The VIX is reflective of the premium paid by investors for certain options linked to the level of the S&P 500. During periods of rising investor uncertainty, including periods of market instability, the implied level of volatility of the S&P 500 typically increases and, consequently, the prices of options linked to the S&P 500 typically increase (assuming all other relevant factors remain constant or have negligible changes). This, in turn, causes the level of the VIX to increase. The VIX has historically had a negative correlation to the S&P 500. The VIX was developed by the Cboe and is calculated, maintained and published by the Cboe. The Cboe has no obligation to continue to publish, and may discontinue the publication of, the VIX. The VIX is reported by Bloomberg under the ticker symbol “VIX.”
+ 
+The calculation of the VIX involves a formula that uses the prices of a weighted series of out-of-the-money put and call options on the level of the S&P 500 (“SPX Options”) with two adjacent expiry terms to derive a constant 30-day forward measure of market volatility. The VIX is calculated independent of any particular option pricing model and in doing so seeks to eliminate any biases which may otherwise be included in using options pricing methodology based on certain assumptions. Although the VIX measures the 30-day forward volatility of the S&P 500 as implied by the SPX Options, 30-day options are only available once a month. To arrive at the VIX level, a broad range of out-of-the-money SPX Options expiring on the two closest nearby months (“near term options” and “next term options,” respectively) are selected in order to bracket a 30-day calendar period. SPX Options having a maturity of less than eight days are excluded at the outset and, when the near-term options have eight days or less left to expiration, the VIX rolls to the second and third contract months in order to minimize pricing anomalies that occur close to expiration. The model-free implied volatility using prices of the near-term options and next term options are then calculated on a strike price weighted average basis in order to arrive at a single average implied volatility value for each month. The results of each of the two months are then interpolated to arrive at a single value with a constant maturity of 30 days to expiration.
+ 
+The S&P 500
+ 
+The S&P 500 is an index that measures large-cap U.S. stock market performance. It is a float-adjusted market capitalization weighted index of 500 U.S. operating companies and real estate investment trusts selected by the S&P U.S. Index Committee through a non- mechanical process that factor in criteria such as domicile, investible weight factor, liquidity, market capitalization and financial viability. Changes to the index composition are made on an as needed basis. There is no scheduled reconstitution. Rather, changes in response to corporate actions and market developments can be made at any time. As of December 31, 2022, the S&P 500 included companies with a total of $32.13 trillion market cap. S&P publishes the S&P 500. The daily calculation of the current value of the S&P 500 is based on the relative value of the aggregate market value of the common stocks of 500 companies as of a particular time compared to the aggregate average initial market value of the common stocks of 500 similar companies at the time of the inception of the S&P 500. The 500 companies are not the 500 largest publicly traded companies and not all 500 companies are listed on the NYSE. Constituent selection is at the discretion of the Index Committee and is based on eligibility criteria. The indices have a fixed constituent company count of 500, 400, and 600, respectively. Sector balance, as measured by a comparison of each GICs sector’s weight in the S&P Total Market Index, in the relevant capitalization range, is also considered in the selection of companies for the indices. S&P may from time-to-time, in its sole discretion, add companies to, or delete companies from, the S&P 500 to achieve the objectives stated above. Relevant criteria employed by S&P include the viability of the particular company, the extent to which that company represents the industry group to which it is assigned, the extent to which the company’s common stock is widely held and the market value and trading activity of the common stock of that company.
+ 
+
+6
+-
+
+THE FUND IS NOT SPONSORED, ENDORSED, SOLD OR PROMOTED BY S&P AND ITS AFFILIATES OR CBOE. S&P AND CBOE MAKE NO REPRESENTATION, CONDITION OR WARRANTY, EXPRESS OR IMPLIED, TO THE OWNERS OF THE FUND OR ANY MEMBER OF THE PUBLIC REGARDING THE ADVISABILITY OF INVESTING IN SECURITIES GENERALLY OR IN THE FUND SPECIFICALLY OR THE ABILITY OF THE INDEXES TO TRACK MARKET PERFORMANCE AND/OR OF GROUPS OF ASSETS OR ASSET CLASSES AND/OR TO ACHIEVE ITS STATED OBJECTIVE AND/OR TO FORM THE BASIS OF A SUCCESSFUL INVESTMENT STRATEGY, AS APPLICABLE. S&P’S AND CBOE’S ONLY RELATIONSHIP TO THE TRUST ON BEHALF OF THE FUND AND THE SPONSOR IS THE LICENSING OF CERTAIN TRADEMARKS AND TRADE NAMES AND OF THE VIX FUTURES INDEX WHICH IS DETERMINED, COMPOSED AND CALCULATED BY S&P WITHOUT REGARD TO THE TRUST ON BEHALF OF THE FUND AND THE SPONSOR OR THE FUND. S&P HAS NO OBLIGATION TO TAKE THE NEEDS OF THE TRUST ON BEHALF OF THE FUND AND THE SPONSOR OR THE OWNERS OF THE FUND INTO CONSIDERATION IN DETERMINING, COMPOSING OR CALCULATING THE VIX FUTURES INDEX. S&P AND CBOE ARE NOT ADVISORS TO THE FUND AND ARE NOT RESPONSIBLE FOR AND HAVE NOT PARTICIPATED IN THE DETERMINATION OF THE PRICES AND AMOUNT OF THE FUND OR THE TIMING OF THE ISSUANCE OR SALE OF THE FUND OR IN THE DETERMINATION OR CALCULATION OF THE EQUATION BY WHICH THE FUND SHARES ARE TO BE CONVERTED INTO CASH. S&P AND CBOE HAVE NO OBLIGATION OR LIABILITY IN CONNECTION WITH THE ADMINISTRATION, MARKETING, OR TRADING OF THE FUND.
+ 
+S&P DOW JONES INDICES AND CBOE MAKES NO EXPRESS OR IMPLIED WARRANTIES, AND EXPRESSLY DISCLAIMS ALL WARRANTIES, OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE AS TO RESULTS TO BE OBTAINED BY THE TRUST, ON BEHALF OF THE FUND, AND THE SPONSOR, OWNERS OF THE FUND, OR ANY OTHER PERSON OR ENTITY FROM THE USE OF THE S&P 500 VIX SHORT-TERM FUTURES ER MCAP INDEX OR WITH RESPECT TO ANY DATA RELATED THERETO. IN NO EVENT WHATSOEVER SHALL S&P DOW JONES INDICES OR CBOE, BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES INCLUDING BUT NOT LIMITED TO, LOSS OF PROFITS, TRADING LOSSES, LOST TIME OR GOODWILL, EVEN IF THEY HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE. THERE ARE NO THIRD-PARTY BENEFICIARIES OF ANY AGREEMENTS OR ARRANGEMENTS BETWEEN S&P DOW JONES INDICES AND THE TRUST, ON BEHALF OF THE FUND, OR THE SPONSOR, OTHER THAN THE LICENSORS OF S&P DOW JONES INDICES.
+ 
+
+7
+-
+
+CREATION AND REDEMPTION OF SHARES
+ 
+The Fund creates and redeems Shares from time to time, but only in one or more Creation Units. A Creation Unit is a block of 50,000 Shares. Creation Units may be created or redeemed only by Authorized Participants. Except when aggregated in Creation Units, the Shares are not redeemable securities.
+ 
+The manner by which Creation Units are purchased and redeemed is dictated by the terms of the Authorized Participant Agreement and Authorized Participant Handbook. By placing a purchase order, an Authorized Participant agrees to deposit cash (unless as provided otherwise in the prospectus) with the Custodian of the Fund.
+ 
+From time to time the Sponsor, in its sole discretion, may impose limits on the number of Creation Units that may be created each day by each Authorized Participant, or on the total number of Creation Units that may be created by all Authorized Participants on such day, or may suspend the purchase and/or redemption of Creation Units altogether. For example, the Sponsor may impose such limits or suspension if it believes doing so would help the Fund manage its portfolio, such as by allowing the Fund to comply with counterparty or position limits, or to manage or otherwise comply with Share registration requirements, or in response to significant and/or rapid increases in the size of the Fund as a result of an increase in creation activity.
+ 
+If permitted by the Sponsor in its sole discretion with respect to the Fund, an Authorized Participant may also agree to enter into or arrange for an exchange of a futures contract for a related position (“EFCRP”) or block trade with the Fund whereby the Authorized Participant would also transfer to the Fund a number and type of exchange-traded futures contracts at or near the closing settlement price for such contracts on the purchase order date. Similarly, the Sponsor in its sole discretion may agree with an Authorized Participant to use an EFCRP to affect an order to redeem Creation Units.
+ 
+An EFCRP is a technique permitted by the rules of the applicable futures exchange that, as utilized by the Fund in the Sponsor’s discretion, would allow the Fund to take a position in a futures contract from an Authorized Participant, or give futures contracts to an Authorized Participant, in the case of a redemption, rather than to enter the futures exchange markets to obtain such a position. An EFCRP by itself will not change either party’s net risk position materially. Because the futures position that the Fund would otherwise need to take in order to meet its investment objective can be obtained without unnecessarily impacting the financial or futures markets or their pricing, EFCRPs can generally be viewed as transactions beneficial to the Fund. A block trade is a technique that permits the Fund to obtain a futures position without going through the market auction system and can generally be viewed as a transaction beneficial to the Fund.
+ 
+The form of Authorized Participant Agreement and the related Authorized Participant Handbook set forth the procedures for the creation and redemption of Creation Units and for the payment of cash required for such creations and redemptions. The Sponsor may delegate its duties and obligations under the form of Authorized Participant Agreement to Capital Investment Group (“CIG”) or The Nottingham Company, in its capacity as the Administrator, without consent from any shareholder or Authorized Participant. The form of Authorized Participant Agreement and the related procedures attached thereto may be amended by the Sponsor without the consent of any shareholder or Authorized Participant. Authorized Participants who purchase Creation Units from the Fund receive no fees, commissions or other form of compensation or inducement of any kind from either the Sponsor or the Fund, and no such person has any obligation or responsibility to the Sponsor or the Fund to affect any sale or resale of Shares.
+ 
+
+8
+-
+
+
+Authorized Participants are cautioned that some of their activities may result in their being deemed participants in a distribution in a manner which would render them statutory underwriters and subject them to the prospectus delivery and liability provisions of the Securities Act of 1933, as amended (the “1933 Act”).
+ 
+Each Authorized Participant must be registered as a broker-dealer under the 1934 Act and regulated by Financial Industry Regulatory Authority (“FINRA”), or exempt from being, or otherwise not required to be, so regulated or registered, and must be qualified to act as a broker or dealer in the states or other jurisdictions where the nature of its business so requires. Certain Authorized Participants may be regulated under federal and state banking laws and regulations. Each Authorized Participant must have its own set of rules and procedures, internal controls and information barriers as it determines is appropriate in light of its own regulatory regime.
+ 
+Authorized Participants may act for their own accounts or as agents for broker-dealers, custodians and other securities market participants that wish to create or redeem Creation Units. In addition, Authorized Participants may sell the Shares included in the Creation Units they purchase from the Fund to other investors in the secondary market.
+ 
+Persons interested in purchasing Creation Units should contact the Sponsor or the Administrator to obtain the contact information for the Authorized Participants. Shareholders who are not Authorized Participants are only able to redeem their Shares through an Authorized Participant.
+ 
+Pursuant to the Authorized Participant Agreement, the Sponsor agreed to indemnify the Authorized Participants against certain liabilities, including liabilities under the 1933 Act, and to contribute to the payments the Authorized Participants may be required to make in respect of those liabilities.
+ 
+The following description of the procedures for the creation and redemption of Creation Units is only a summary and an investor should refer to the relevant provisions of the Amended and Restated Trust Agreement of the Trust, as may be further amended from time to time (the “Trust Agreement”) and the form of Authorized Participant Agreement for more detail. The Trust Agreement and the form of Authorized Participant Agreement are incorporated by reference into this Annual Report on Form 10-K.
+ 
+Creation Procedures
+ 
+On any Business Day, an Authorized Participant may place an order with the Distributor to create one or more Creation Units. For purposes of processing both purchase and redemption orders, a “Business Day” for the Fund means any day on which the NAV of the Fund is determined. Purchase orders must be placed by the cut-off time shown below or earlier if the Fund’s primary listing exchange, or other exchange material to the valuation or operation of the Fund (an “Exchange” as defined below) closes before the cut-off time. If a purchase order is received prior to the applicable cut-off time, the day on which CIG receives a valid purchase order is the purchase order date. If the purchase order is received after the applicable cut-off time, the purchase order date will be the next day. Purchase orders are irrevocable.
+
+9
+-
+
+Determination of Required Payment
+ 
+The total payment required to create each Creation Unit is the NAV of 50,000 Shares of the Fund on the purchase order date plus the applicable transaction fee. Authorized Participants have create/redeem cut-off times prior to the NAV calculation time, which may be different from the close of the U.S. markets, as shown in the table below.
+
+Underlying Benchmark | Create/Redeem Cutoff* | NAV Calculation Time 
+-----------------------------------------+------------------------------+-----------------------------
+S&P 500 VIX Short-Term Futures Index | 2:00 p.m. (Eastern Time) | 4:00 p.m. (Eastern Time) 
+
+
+* | Although the Fund’s shares may continue to trade on secondary markets subsequent to the calculation of the final NAV, these times represent the final opportunity to transact in creation or redemption units for the year ended December 31, 2022. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+* | Effective Monday, October 26, 2020, the Chicago Futures Exchange (a subsidiary of the Chicago Board Options Exchange) changed the settlement time for the VIX futures contracts in which the Fund invests from 4:15 p.m. (Eastern Time) to 4:00 p.m. (Eastern Time). Please see Note 7 of the Notes to Financial Statements of this Form 10-K for more information. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Delivery of Cash
+ 
+Cash required for settlement will typically be transferred to the Custodian through: (1) the Continuous Net Settlement (“CNS”) clearing process of the National Securities Clearing Corporation (“NSCC”), as such processes have been enhanced to effect creations and redemptions of Creation Units; or (2) the facilities of DTC on a Delivery Versus Payment (“DVP”) basis, which is the procedure in which the buyer’s payment for securities is due at the time of delivery. Security delivery and payment are simultaneous. If the Custodian does not receive the cash by the market close on the first Business Day following the purchase order date (T+1), such order may be charged interest for delayed settlement or cancelled. The Sponsor reserves the right to extend the deadline for the Custodian to receive the cash required for settlement up to the second Business Day following the purchase order date (T+2). In the event a purchase order is cancelled, the Authorized Participant will be responsible for reimbursing the Fund for all costs associated with cancelling the order including costs for repositioning the portfolio. At its sole discretion, the Sponsor may agree to a delivery date other than T+2. Additional fees may apply for special settlement. The Creation Unit will be delivered to the Authorized Participant upon the Custodian’s receipt of the purchase amount.
+Delivery of Exchange of Futures Contract for Related Position (“EFCRP”) Futures Contracts or Block Trades
+ 
+In the event that the Sponsor shall have determined to permit the Authorized Participant to transfer futures contracts pursuant to an EFCRP or to engage in a block trade purchase of futures contracts from the Authorized Participant with respect to the Fund, as well as to deliver cash, in the creation process, futures contracts required for settlement must be transferred directly to the Fund’s account at its FCM. If the cash is not received by the market close on the second Business Day following the purchase order date (T+2); such order may be charged interest for delayed settlements or cancelled. In the event a purchase order is cancelled, the Authorized Participant will be responsible for reimbursing the Fund for all costs associated with cancelling the order including costs for repositioning the portfolio. At its sole discretion, the Sponsor may agree to a delivery date other than T+2. The Creation Unit will be delivered to the Authorized Participant upon the Custodian’s receipt of the cash purchase amount and the futures contracts.
+
+10
+--
+
+Suspension or Rejection of Purchase Orders
+ 
+The Sponsor may, in its discretion, suspend the right to purchase, or postpone the purchase settlement date, (1) for any period during which any of the NYSE, NYSE Arca, Cboe, CFE, CME (including CBOT and NYMEX) or ICE or other exchange material to the valuation or operation of the Fund (each, an “Exchange”) is closed or when trading is suspended or restricted on such exchanges in any of the underlying commodities; (2) for any period during which an emergency exists as a result of which the fulfillment of a purchase order is not reasonably practicable; or (3) for such other period as the Sponsor determines to be necessary for the protection of the shareholders. The Sponsor will not be liable to any person or in any way for any loss or damages that may result from any such suspension or postponement.
+ 
+The Sponsor also may reject a purchase order if:
+ 
+
+● | it determines that the purchase order is not in proper form; 
+--+---------------------------------------------------------------------------------------------------------
+
+
+● | the Sponsor believes that the purchase order would have adverse tax consequences to the Fund or its shareholders; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the order would be illegal; or 
+--+---------------------------------------------------------------------------
+
+
+● | circumstances outside the control of the Sponsor make it, for all practical purposes, not feasible to process creations of Creation Units. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+None of the Sponsor, the Administrator, the Transfer Agent, the Distributor or the Custodian will be liable for the suspension or rejection of any purchase order.
+ 
+Redemption Procedures
+ 
+The procedures by which an Authorized Participant may redeem one or more Creation Units mirror the procedures for the creation of Creation Units. On any Business Day, an Authorized Participant may place an order with the Distributor to redeem one or more Creation Units. If a redemption order is received prior to the applicable cut-off time, or earlier if the Exchange, or other exchange material to the valuation or operation of such Fund, closes before the cut-off time, the day on which Distributor receives a valid redemption order is the redemption order date. If the redemption order is received after the applicable cut-off time, the redemption order date will be the next day. Redemption orders are irrevocable. The redemption procedures allow Authorized Participants to redeem Creation Units. Individual shareholders may not redeem directly from the Fund.
+ 
+By placing a redemption order, an Authorized Participant agrees to deliver the Creation Units to be redeemed through DTC’s book-entry system to the Fund not later than noon (Eastern Time), on the first Business Day immediately following the redemption order date (T+1). The Sponsor reserves the right to extend the deadline for the Fund to receive the Creation Units required for settlement up to the second Business Day following the redemption order date (T+2). In its sole discretion, the Sponsor may agree to a delivery date other than T+2. Additional fees may apply for special settlement.
+ 
+
+11
+--
+
+
+Upon request of an Authorized Participant made at the time of a redemption order, the Sponsor at its sole discretion may determine, in addition to delivering redemption proceeds, to transfer futures contracts to the Authorized Participant pursuant to an EFCRP or to a block trade sale of futures contracts to the Authorized Participant.
+ 
+Determination of Redemption Proceeds
+ 
+The redemption proceeds from the Fund consist of the cash redemption amount and, if permitted by the Sponsor in its sole discretion with respect to the Fund, an EFCRP or block trade with the Fund, as described in “Creation and Redemption of Shares” above. The cash redemption amount is equal to the NAV of the number of Creation Unit(s) of the Fund requested in the Authorized Participant’s redemption order as of the time of the calculation of such Fund’s NAV on the redemption order date, less transaction fees and any amounts attributable to any applicable EFCRP or block trade.
+Delivery of Redemption Proceeds
+ 
+The redemption proceeds due from the Fund are delivered to the Authorized Participant at noon (Eastern Time), on the second Business Day immediately following the redemption order date if, by such time on such Business Day immediately following the redemption order date, the Fund’s DTC account has been credited with the Creation Units to be redeemed. The Fund should be credited through: (1) the CNS clearing process of NSCC, as such processes have been enhanced to effect creations and redemptions of Creation Units; or (2) the facilities of DTC on a Delivery Versus Payment basis. If the Fund’s DTC account has not been credited with all of the Creation Units to be redeemed by such time, the redemption distribution is delivered to the extent whole Creation Units are received. Any remainder of the redemption distribution is delivered on the next Business Day to the extent any remaining whole Creation Units are received if: (1) the Sponsor receives the fee applicable to the extension of the redemption distribution date which the Sponsor may, from time to time, determine, and; (2) the remaining Creation Units to be redeemed are credited to the Fund’s DTC account by noon (Eastern Time), on such next Business Day. Any further outstanding amount of the redemption order may be cancelled. The Authorized Participant will be responsible for reimbursing the Fund for all costs associated with cancelling the order including costs for repositioning the portfolio.
+ 
+The Sponsor is also authorized to deliver the redemption distribution notwithstanding that the Creation Units to be redeemed are not credited to the Fund’s DTC account by noon (Eastern Time), on the second Business Day immediately following the redemption order date if the Authorized Participant has collateralized its obligation to deliver the Creation Units through DTC’s book-entry system on such terms as the Sponsor may determine from time-to-time.
+ 
+In the event that the Authorized Participant shall have requested, and the Sponsor shall have determined to permit the Authorized Participant to receive futures contracts pursuant to an EFCRP, as well as the cash redemption proceeds, in the redemption process, futures contracts required for settlement shall be transferred directly from the Fund’s account at its FCM to the account of the Authorized Participant at its FCM.
+ 
+
+12
+--
+
+Suspension or Rejection of Redemption Orders
+ 
+The Sponsor may, in its discretion, suspend the right of redemption, or postpone the redemption settlement date: (1) for any period during which any Exchange, or other exchange material to the valuation or operation of the Fund, is closed or when trading is suspended or restricted on such Exchanges in any of the underlying commodities; (2) for any period during which an emergency exists as a result of which the redemption distribution is not reasonably practicable; or (3) for such other period as the Sponsor determines to be necessary for the protection of the shareholders. The Sponsor will not be liable to any person or in any way for any loss or damages that may result from any such suspension or postponement.
+ 
+The Sponsor will reject a redemption order if the order is not in proper form as described in the form of Authorized Participant Agreement or if the fulfillment of the order might be unlawful.
+ 
+Special Settlement
+ 
+The Sponsor may allow for early settlement of purchase or redemption orders. Such arrangements may result in additional charges to the Authorized Participant.
+ 
+NAV
+ 
+The NAV of the Fund means the total assets of the Fund including, but not limited to, all cash and cash equivalents or other debt securities less total liabilities of the Fund, consistently applied under the accrual method of accounting. In particular, the NAV includes any unrealized profit or loss on open Financial Instruments, and any other credit or debit accruing to the Fund but unpaid or not received by the Fund. The NAV per Share of the Fund is computed by dividing the value of the net assets of the Fund (i.e., the value of its total assets less total liabilities) by its total number of Shares outstanding. Expenses and fees are accrued daily and taken into account for purposes of determining the NAV. The Fund’s NAV is calculated on each day other than a day when the Exchange is closed for regular trading. The Fund computes its NAV at 4 p.m. (Eastern Time), or an earlier time as set forth on www.dynamicsharesetf.com if necessitated by the Exchange or other exchange material to the valuation or operation of the Fund closing early. The Fund’s NAV is calculated only once each trading day.
+ 
+In calculating the NAV of the Fund, the settlement value of the Fund’s non-exchange traded Financial Instruments, is determined by applying the then-current disseminated value for the corresponding benchmark to the terms of the Fund’s non-exchange traded Financial Instruments. However, in the event that an underlying reference asset is not trading due to the operation of daily limits or otherwise, the Sponsor may, in its sole discretion, choose to fair value the Fund’s non-exchange traded Financial Instruments for purposes of the NAV calculation. Such fair value prices would generally be determined based on available inputs about the current value of the underlying reference assets and would be based on principles that the Sponsor deems fair and equitable so long as such principles are consistent with normal industry standards.
+ 
+Futures contracts traded on a U.S. exchange are calculated at their then-current market value, which is based upon the settlement price, for that particular futures contract traded on the applicable U.S. exchange on the date with respect to which the NAV is being determined. If a futures contract traded on a U.S. exchange could not be liquidated on such day, due to the operation of daily limits or other rules of the exchange upon which that position is traded or otherwise, the Sponsor may, in its sole discretion, choose to determine a fair value price as the basis for determining the market value of such position for such day.
+ 
+
+13
+--
+
+
+In addition, the Sponsor may, in its sole discretion, choose to fair value a Fund’s Financial Instruments for purposes of the NAV calculation for (1) any period for which, in the Sponsor’s sole discretion, market quotations or settlement prices do not accurately reflect the fair value of a Financial Instrument, (2) any period during which the Exchange or any other exchange, marketplace or trading center, deemed to affect the normal operations of the Fund, is closed, or when trading is restricted or suspended, or (3) such other period as the Sponsor determines, in its sole discretion, to be necessary for the protection of the Shareholders of the Fund.
+ 
+Such fair value prices would generally be determined based on available inputs about the current value of the underlying reference assets and would be based on principles that the Sponsor deems fair and equitable so long as such principles are consistent with normal industry standards.
+ 
+The Fund may use a variety of money market instruments to invest excess cash. Money Market instruments used in this capacity are valued at amortized cost which approximates fair value for daily NAV purposes.
+ 
+Indicative Optimized Portfolio Value (“IOPV”)
+ 
+The IOPV is an indicator of the value of the Fund’s net assets at the time the IOPV is disseminated. The IOPV is calculated and disseminated every 15 seconds throughout the trading day. The IOPV is generally calculated using the prior day’s closing net assets of the Fund as a base and updating throughout the trading day changes in the value of the Financial Instruments held by the Fund. The IOPV should not be viewed as an actual real time update of the NAV because NAV is calculated only once at the end of each trading day. The IOPV also should not be viewed as a precise value of the Shares. Neither the Fund nor the Sponsor is liable for any errors in the calculation of the IOPV or any failure to disseminate IOPV.
+ 
+The Fund’s primary listing exchange disseminates the IOPV. In addition, the IOPV is published on the Fund’s primary listing exchange’s website and is available through on- line information services such as Bloomberg Finance L.P. and/or Reuters.
+ 
+Fees and Expenses
+ 
+Offering Expenses
+ 
+Offering costs will be amortized by the Fund over a twelve-month period on a straight-line basis beginning on the date that the fund commences operations. Normal and expected expenses incurred in connection with the continuous offering of Shares of a Fund after the commencement of its trading operations will be paid by the Sponsor.
+
+14
+--
+
+
+Offering expenses mean those expenses incurred in connection with the qualification and registration of the Shares of the Fund and in offering, distributing and processing the Shares of the Fund under applicable federal law, and any other expenses actually incurred and, directly or indirectly, related to the organization of each offering of the Shares of such Fund, including, but not limited to, expenses such as:
+ 
+
+● | initial SEC registration fees and SEC and FINRA filing fees; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | costs of preparing, printing (including typesetting), amending, supplementing, mailing and distributing the Trust’s Registration Statements, the exhibits thereto and the related prospectuses; 
+● | the costs of qualifying, printing (including typesetting), amending, supplementing and mailing sales materials used in connection with the offering and issuance of the Shares; and 
+● | accounting, auditing and legal fees (including disbursements related thereto) incurred in connection therewith. 
+
+Management Fee
+ 
+The Fund pays the Sponsor a management fee (the “Management Fee”), monthly in arrears, in an amount equal to 1.85% per annum of its average daily net assets (calculated by summing the month-end net assets of the Fund and dividing by the number of calendar days in the month). The Management Fee is paid in consideration of the Sponsor’s trading advisory services and the other services provided to the Fund that the Sponsor pays directly or indirectly.
+ 
+Effective April 1, 2022, the Sponsor voluntarily has agreed to lower the rate of the Management Fee to 0.50% per annum of the average daily net assets of the Fund (the “Voluntary Waiver”). The Voluntary Waiver will continue for a period of at least twelve (12) months from April 1st (the “Initial Waiver Period”). The Sponsor has indicated its intention not to extend the Voluntary Waiver beyond the Initial Waiver Period. 
+ 
+Routine Operational, Administrative and Other Ordinary Expenses
+ 
+From the Management Fee, the Sponsor pays all of the routine operational, administrative and other ordinary expenses of the Fund, generally, as determined by the Sponsor, including, but not limited to, fees and expenses of the Administrator, Custodian, Distributor, Sponsor, and Transfer Agent, accounting and audit fees and expenses, tax preparation expenses, legal fees not in excess of $100,000 per annum, ongoing SEC registration fees not exceeding 0.021% per annum of the NAV of the Fund, FINRA filing fees, individual K-1 preparation and mailing fees not exceeding 0.10% per annum of the NAV of a Fund, and report preparation and mailing expenses.
+ 
+Non-Recurring Fees and Expenses
+ 
+The Fund pays all its non-recurring and unusual expenses, if any, as determined by the Sponsor. Non-recurring and unusual fees and expenses are fees and expenses which are unexpected or unusual in nature, such as legal claims and liabilities and litigation costs or indemnification or other unanticipated expenses. Extraordinary fees and expenses also include material expenses which are not currently anticipated obligations of the Fund. Routine operational, administrative and other ordinary expenses are not deemed extraordinary expenses.
+ 
+
+15
+--
+
+Selling Commission
+ 
+Retail investors may purchase and sell Shares through traditional brokerage accounts. Investors are expected to be charged a customary commission by their brokers in connection with purchases of Shares that will vary from investor to investor. Investors are encouraged to review the terms of their brokerage accounts for applicable charges. The price at which an Authorized Participant sells a Share may be higher or lower than the price paid by such Authorized Participant in connection with the creation of such Share in a Creation Unit.
+Brokerage Commissions and Fees
+ 
+The Fund pays all its respective brokerage commissions, including applicable exchange fees, NFA fees and give-up fees, pit brokerage fees and other transaction related fees and expenses charged in connection with trading activities for the Fund’s investments in CFTC regulated investments, except as provided in the following sentence. The Sponsor will pay for any brokerage commissions on VIX Futures Contracts that exceed 0.6% of the Fund’s average net assets annually. The Sponsor believes it is unlikely that any brokerage commissions on VIX Futures Contracts will exceed 0.6% of the Fund’s average net assets annually and does not expect that it will be responsible for any brokerage commissions on VIX Futures Contracts in normal market conditions.
+Other Transaction Costs
+ 
+The Fund bears other transaction costs including financing costs/fees associated with the use of financial instruments and costs relating to the purchase of U.S. Treasury securities or similar high credit quality, short-term fixed-income or similar securities (such as shares of money market funds, bank deposits, bank money market accounts, certain variable rate-demand notes and collateralized repurchase agreements).
+Employees
+ 
+The Trust has no employees.
+ 
