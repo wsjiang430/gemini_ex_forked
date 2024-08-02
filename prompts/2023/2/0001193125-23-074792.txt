@@ -1,0 +1,317 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+ Unless the context otherwise requires, all references in this section to Bridger, we, us, our or the Company refer to the business of Legacy Bridger and its subsidiaries prior to the consummation of the Business Combination and the business of Bridger Aerospace Group Holdings, Inc. and its subsidiaries after the consummation of the Business Combination. 
+ Company Overview 
+ Bridger provides aerial wildfire surveillance, relief and suppression and aerial firefighting services using next-generation technology and environmentally friendly and sustainable firefighting methods primarily throughout the United States. Our mission is to save lives, property and habitats threatened by wildfires, leveraging our high-quality team, specialized aircraft and innovative use of technology and data. We are meeting an underserved and growing need for next-generation full-service aerial firefighting platforms. 
+ Bridger was founded by our Chief Executive Officer and former Navy SEAL officer Timothy Sheehy, in Bozeman, Montana in 2014 with one aircraft and a vision to build a global enterprise to fight wildfires. Bridger has since grown into a full-spectrum aerial firefighting service provider in the U.S. and in the field of aerial wildfire management, offering technology and services to provide front-line firefighters and fire suppression decision-makers access to key fire data in order to effectively combat wildfires. As of December 31, 2022, the Company has a team of 166 employees and has developed an ecosystem of solutions, services and technologies supporting firefighting ground crews and the public. 
+ The areas in which human development meets or intermingles with undeveloped wildland and vegetative fuels that are both fire-dependent and fire-prone (wildland-urban interface or WUI) have grown by more than 179 thousand square kilometers in the U.S. from 1980 to 2020, according to a 2022 article by the United States Forest Service (the USFS and the USFS WUI Increase Article).2 WUI areas, which comprise 9.4% of the U.S. land area, now include nearly one-third of all residences, according to the USFS WUI Increase Article. At the same time, the annual acres burned per fire between 1985 and 2020 have increased by nearly five-fold according to data published by the National Interagency Fire Center (the NIFC).3 As the WUI areas continue to grow and wildfires grow larger, more aggressive firefighting strategies are necessary to ensure public safety. Additionally, the NIFC Suppression Costs Data shows total number of U.S. acres burned annually has increased more than three-fold from 1985 to 2020. 
+ These trends have led to a response by the U.S. federal government to increase spending on fire suppression since 1985 with a compound annual growth rate of 8.4% to $4.4 billion in 2021, according to the NIFC Suppression Costs Data. Even with this increased spending and demand, unfulfilled requests for fixed wing aircraft for aerial firefighting grew at a compound annual growth rate of 4.7% between 2002 and 2022, with 654 unfulfilled requests in 2022, according to National Interagency Coordination Center (the NICC).4
+
+
+
+2 | United States Department of Agriculture  Forest Service, New Analyses Reveal WUI Growth in the U.S., last modified Sept. 8, 2022 (https://www.nrs.fs.usda.gov/data/WUI/).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3 | NIFC, Suppression Costs, last accessed Feb. 24, 2022 (https://www.nifc.gov/fire-information/statistics/suppression-costs) (the NIFC Suppression Costs Data).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4 | National Interagency Coordination Center, Wildland Fire Summary Statistics Annual Report 2022, last accessed Feb. 28, 2023 (https://www.predictiveservices.nifc.gov/intelligence/2022_statssumm/annual_report_2022.pdf) (the NICC 2022 Annual Report); NIFC, 2002 Statistics Summary, last accessed Feb. 28, 2022 (https://www.nifc.gov/nicc/predictive/intelligence/2002_statssumm/incident_support.pdf).
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+1 
+
+
+ Bridgers management estimates that aerial suppression spend represented approximately 42.7% of an estimated $21.9 billion firefighting market globally in 2021.5 There is a rapidly growing global need for fire suppression assets, and Bridgers management believes that a shift away from ground services to air-based suppression has already commenced. The market is anticipated to continue to expand as wildfires rage across Europe and the U.S. 
+ Our Services 
+ Our portfolio is organized across two core offerings: 
+ 
+
+ | Fire Suppression: Consists of deploying specialized Super Scooper aircraft to drop large amounts of water quickly and directly on wildfires.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Aerial Surveillance: Consists of providing aerial surveillance for fire suppression aircraft over an incident and providing tactical coordination with the incident commander. Aerial surveillance uses both manned aircraft (Air Attack) and unmanned aircraft.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fire Suppression 
+ We provide direct fire suppression aerial firefighting support for ground crews by operating the Super Scooper. Aerial fire suppression is provided in conjunction with traditional ground firefighting approaches, and specialized aircraft drop high volumes of water directly onto active wildfires. Because wildfires largely occur within close proximity to a major water source, leveraging readily available resources is more time- and fuel- efficient in combating wildfires when time is of the essence. The Super Scooper aircraft allow for rapid delivery of water strikes to extinguish wildfires, particularly when deployed in tandem or larger groups to allow for continuous water delivery as aircraft return to the water source. In 2020, we were the first launch customer for the Super Scooper aircraft produced by Viking Air Limited (Viking), an affiliate of Longview Aviation Services Inc. (LAS), and we immediately deployed the aircraft to combat wildfires in Nevada, Oregon and Washington. 
+Aerial Surveillance 
+ Wildfires can spread quickly and change course in an instant. Our aerial surveillance services provide decision-makers rapid, current intelligence from useful aerial vantage points, giving them access to key information to support more effective deployment of ground firefighters and improved safety for the public at large. Our aerial surveillance services leverage manned and unmanned aircraft. 
+ Our manned aerial surveillance services operate 13 aircraft, including five Twin Commanders (Twin Commanders), four Daher Kodiak 100s (Daher Kodiak), three Pilatus PC-12 and one DeHaviland Twin Otter (Twin Otter). We have seven years of experience in providing USFS Type 1 Air Tactical Group Supervisors (ATGS) the aerial platform to relay the necessary information to ground-based Interagency Incident Commanders (Incident Commanders) who are responsible for the overall management of the wildfire and determine how resources are deployed. We are one of the largest ATGS platform providers in the U.S. and have contracts covering 100% of the U.S. 
+ 
+
+
+5 | Bridger management defines the global firefighting market as the sum of the air-based suppression, ground, and fire data, aerial imagery-related, and emergency mobile application markets. The air-based suppression market is based on the global aerial firefighting market size from the June 2021 Verified Market Research report. The ground market is based on Bridger managements estimated $4.3 billion US ground market based on budgeted wildfire expenditures for key federal and state agencies; Bridger management estimated that the US ground market represented approximately 45% of the global ground market. The fire data, aerial imagery-related, and emergency mobile application market is based on Bridger managements estimated $0.9 billion US market for the fire data and surveillance-related emergency market based on review of available peer company data; Bridger management estimated that the US fire data and surveillance-related emergency market represented approximately 30% of the global fire data, aerial imagery-related, and emergency mobile application market.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+2 
+
+
+ Our unmanned aerial surveillance (UAS) services fly in low-visibility or in hazardous conditions over active wildfires where manned aircraft are not optimal due to safety concerns. UAS surveillance services provide near real-time data to USFS Incident Commanders using infrared and optical imagery to track the movement and status of the entire fire area and inform decisions in allocating resources. The data from UAS surveillance is displayed on a tablet, providing decision-makers with near real-time data from the aircraft in flight. Our current UAS include two Aurora Vertical Take-Off and Landing (eVTOL) Skiron systems (Aurora eVTOL Skiron). The two Aurora eVTOL Skiron aircraft are fully electric and emit zero emissions during operations, supporting our sustainable and environmentally friendly firefighting methods. Our UAS operations have logged over 385 hours of flight time in multiple wildland complexes since inception. As a result, the U.S. Department of the Interior chose us to be the first ever Type I UAS on a call-when-needed basis over active wildfires throughout the U.S. 
+ Our Aircraft 
+ We deploy modern technology to track and attack wildland fires and have an expansive fleet of specialized firefighting aircraft stationed at two existing hangars at the Bozeman Yellowstone International Airport in Belgrade, Montana. Our aircraft form the basis of our service offerings and, as such, we strive to continually invest in advancements in aerial firefighting platforms. We continually invest in our fleet to expand our capabilities while assessing opportunities to acquire next-generation firefighting assets to combat the rising threat of wildfires. 
+ We currently operate an aircraft fleet of 21 planes, comprised of the following: 
+ 
+
+ | 6 Super Scoopers
+--+-----------------
+
+
+ | 5 Twin Commanders
+--+------------------
+
+
+ | 4 Daher Kodiak
+--+---------------
+
+
+ | 3 Pilatus PC-12 (one owned and two unowned)
+--+--------------------------------------------
+
+
+ | 2 Aurora eVTOL Skiron
+--+----------------------
+
+
+ | 1 Twin Otter (unowned)
+--+-----------------------
+
+ Super Scooper 
+The Super Scooper is the only aircraft designed and built to fight fires and can fly more aggressively in extreme terrains over all other aircraft with equal or greater water capacity. The Super Scooper is an amphibious aircraft that skims the surface of a body of water to scoop water into onboard tanks to drop on a fire. The purposeful design of the Super Scooper allows for an aggressive low-altitude flight profile, which enables pilots to deliver their drops with more precision, hitting the fire harder and extinguishing it faster. Super Scoopers can scoop up to 1,412 gallons of water in approximately 12 seconds, and with 90% of wildfires within 20 miles of a major water source (see graph below), Super Scoopers provide an extremely effective tool to economically and expeditiously deliver water to a fire without having to return to an airport to refill the water tanks. With a water source within a five-mile radius, the Super Scooper can drop on its target up to every seven minutes for a total of approximately 35 drops, or 50,000 gallons of water, before needing to refuel. As a result of our operations of these Super Scooper assets, in conjunction with our Air Attack and UAS fleet, we believe that we are one of the most full-spectrum aerial fire service providers in North America. 
+ 
+3 
+
+
+ 
+Source: 2012 Air Attack Against Wildfire Study by the Rand Homeland Security and Defense Center.
+The Super Scooper aircraft has an impeccable safety record, direct support from the original equipment manufacturer (the OEM), short take-off and landing capabilities (STOL) and a multi-crew flight deck. The Super Scooper has a cruising speed of 207 miles per hour. Additionally, the Super Scooper is a highly efficient aircraft when fighting wildland fires and has the ability to drop a higher volume of liquid than retardant-dropping fixed-wing aircraft over the same amount of time due to its ability to gather water from nearby bodies of water. 
+ Our Super Scoopers have an immaculate safety record, as we have never been assessed with any safety violations and/or citations, nor have any of our aircraft ever been involved in any crashes or serious injuries. We have also adopted a safety management system (SMS) designed to reduce the likelihood of safety-related issues from arising in the course of our overall operations. The SMS program has been audited by both the Federal Aviation Administration (the FAA) and the USFS. 
+ Furthermore, the Super Scooper has the ability to operate from smaller airports with runways as short as 2,500 feet in length while larger jet-powered aerial firefighting aircraft often need a runway of at least 4,000 feet in length. The Super Scooper is capable of scooping water in 12 seconds from bodies of water of 4,900 feet or more in length and can empty the water load in 3 seconds in one drop or split the drop into two. The Super Scoopers water tank capacity is shown in the table below: 
+ 
+
+ | Volume Liters | | Imp Gal | | U.S. Gal | Weight Kg | Lbs | 
+Each tank | | 2,673 | | 588 | | 706 | | 2,722 | 6,000 
+Total both tanks | | 5,346 | | 1,176 | | 1,412 | | 5,443 | 12,000
+
+ 
+4 
+
+
+ A summary graphic of the Super Scooper and its efficiency in collecting water is provided below. 
+ 
+
+Source: United States Department of Agriculture Amphibious Water Scooper Aircraft Operations Plan 2016.
+Air Attack Fleet 
+ Air Attack aircraft provide high level situational awareness of fire growth, ground firefighting elements, other aircraft within the fire traffic area, and changing weather conditions to Incident Commanders. Each aircraft is outfitted with a broad suite of communication technologies. The Daher Kodiak and Pilatus PC-12 aircraft, the newest additions to our Air Attack fleet, are particularly renowned for their rugged build and versatility in landing on challenging terrain which is an asset given the inconsistent and harsh flying conditions that challenge aerial firefighting. Our Air Attack fleet is suitable for STOL, allowing for deployment in a greater range of scenarios. A high level of reliability allows the aircraft to be serviced and available for contract for more days, with fewer unscheduled maintenance events in-field. Above active wildfires, the aircraft can maintain the fuel efficiency required to loiter for four to seven hours with slow and stable flight characteristics, offering the ATGS greater visibility. 
+ Unmanned Aircraft Systems 
+We own and operate two Aurora eVTOL Skiron UAS as part of our unmanned aerial surveillance services. The Aurora eVTOL Skiron provide real time data to firefighters using infrared and optical imagery and have extended flight endurance of two to four hours. Our dual-sensor imaging systems are capable of single-pass fire perimeter mapping. The data can be displayed on a tablet, allowing decision-makers to leverage near real-time data from the aircraft in flight. Belly-mounted compact dual-sensor imaging systems generate large scale orthographic images and fire perimeter mapping, which can be overlayed on a Google Earth image for greater ease of use. Our Aurora eVTOL Skiron use a hybrid vertical take-off and landing to facilitate agile flight operations, have an extended flight endurance of two to four hours and provide persistent intelligence, surveillance and reconnaissance to Incident Commanders while minimizing downtime. The two Aurora eVTOL Skiron aircraft are fully electric and emit zero emissions during operations, supporting our sustainable and environmentally friendly firefighting methods. Our Aurora eVTOL Skiron, while still a burgeoning capability, offer our clients consistent surveillance when traditional manned solutions are limited. 
+Key Market Drivers and Opportunities 
+ There are several key market drivers and opportunities for our business, including: 
+ Longer and more severe fire seasons drive demand for fire suppression and aerial surveillance services 
+ NIFC Suppression Costs Data supports that the acreage burned in the U.S. has increased over time. While there is variability in the acreage burned in any given year, the annual average of 7.0 million acres burned since 2000 has more than doubled the annual average acreage burned in the 1990s of 3.3 million. The year 2020 was one of the most intense fire years recorded in U.S. history with over 10.1 million acres burned. 
+ 
+5 
+
+
+ While the North American wildfire off-season is typically between November and April, fires are starting earlier in the spring and lasting deeper into the fall according to the United States Environmental Protection Agency (the EPA).6 The U.S. fire season is also lengthening on a consistent basis  according to Climate Central, the U.S. fire season is on average 105 days longer than it was in 1970. Climate Central also reported that the average number of large fires (larger than 1,000 acres) burning each year had tripled between the period of the 1970s to the 2010s, and the acres burned by such fires showed a six-fold increase in the 2010s compared to the 1970s.7 Climate Central attributes the lengthening wildfire season to factors including warmer springs, longer summer dry seasons and drier soils and vegetation, with climate change threatening to increase the extent and severity of these fires. The United States national fire preparedness level has increased over time. The five preparedness levels range from the lowest (1) to the highest (5) and are dictated by fuel and weather conditions, fire activity, and fire suppression resource availability throughout the country. Level 5 represents that several geographic areas are experiencing large, complex wildland fire incidents, which have the potential to exhaust national wildland firefighting resources, while Level 1 represents there is very minimal fire activity. According to data provided by the NIFC, the average U.S. fire preparedness level during the main wildfire season (June through September) has increased over time by almost half of a level: during the past five years (2018  2022) the average U.S. fire preparedness level was 3.24, while the average U.S. fire preparedness level since 1990 was 2.80.8
+In 2022, about 7.6 million acres of U.S. land had burned, according to the 2022 annual report by the National Centers for Environmental Information  National Oceanic and Atmospheric Administration (NCEI), up 7.6% from the 2001-2020 average for the same period.9 However, the number of wildfires during 2022 was down 3.6% from the 2001-2020 average for the same period. Additionally, according to data from the NIFC, the average national wildland fire preparedness levels per month in 2022 reached a high of Level 4. In the same period in 2021 and 2020, the average national preparedness levels per month reached a high of Level 5.10 This decrease in the U.S. national level of fire preparedness in 2022 may be partially attributed to the Western United States, which experienced one of the slowest wildfire seasons in recent years, according to a November 2022 Wall Street Journal article, due to increased and timely precipitation and cooler temperatures.11
+Increasing federal and state funding for wildfire control 
+ National funding for wildfire management is appropriated by Congress and each state pays for wildland firefighting slightly differently. While fire suppression activities on wildlands in the U.S. are financed through federal funds, budget-making processes may restrict the amount allocated. According to the NIFC Suppression Costs Data, federal government fire suppression spending in 2021 increased by 93.0% from 2020 to $4.4 billion. The funding is allocated to the Department of the Interior (the DOI) and the USFS. Our company then enters into short, medium 
+ 
+
+6 | United States Environmental Protection Agency, Climate Change Indicators: Wildfires, last accessed Oct. 26, 2022 (https://www.epa.gov/climate-indicators/climate-change-indicators-wildfires) (the EPA Climate Change Indicators Article).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+7 | Climate Central, Climate Change is Tipping Scales Toward More Wildfires, Jun. 23, 2016 (https://www.climatesignals.org/headlines/climate-change-tipping-scales-toward-more-wildfires) (the Climate Central Article).
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+8 | NIFC, Fire Information, last accessed Feb. 24, 2023 (https://www.nifc.gov/fire-information#current-level).
+--+-----------------------------------------------------------------------------------------------------------
+
+
+9 | NCEI, Monthly Wildfires Report for Annual 2022, last accessed Feb. 19, 2023 (https://www.ncei.noaa.gov/access/monitoring/monthly-report/fire/202213).
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+10 | NIFC, Fire Information, last accessed Feb. 24, 2023 (https://www.nifc.gov/fire-information#current-levels).
+---+------------------------------------------------------------------------------------------------------------
+
+
+11 | J. Carlson, Wildfire Season in U.S. West Ends with Fewer Blazes, Less Damage, Wall Street Journal, Nov. 17, 2022
+---+-----------------------------------------------------------------------------------------------------------------
+
+ (https://www.wsj.com/articles/wildfire-season-in-u-s-west-ends-with-fewer-blazes-less-damage-11668691872) (WSJ Wildfire Season Article). 
+ 
+6 
+
+
+  and long-term contracts with federal agencies during the firefighting season. Additionally, on the state level, we are generally seeing significant increases in several state governments and private entities who are preparing themselves for the new fire reality. For example, in December 2022, the federal government announced the allocation of an additional $228.0 million in fiscal year 2023 to wildfire mitigation efforts, and in 2021, Washington State invested $328.0 million over the five following years to fight wildfires.12 While this level of commitment is unique, it is reflective of the increased awareness across many levels of government and private entities that wildfire risk has entered a new era of severity. 
+ Given our long-standing customer relationships with governmental bodies, we have an opportunity to fulfill this increased demand for firefighting services driven by longer and more severe fire seasons. We view the increased demand as a means to further government agency ties and to capitalize on new aircraft investments. 
+ Increased demand and limited supply of purpose-built suppression aircraft 
+ According to the reports published by the National Interagency Coordination Center, demand for Type 3 multi-engine airtankers, which includes the Super Scooper aircraft, increased by over 56% for the two-year period of 2021 and 2022 compared to the prior two-year period of 2019 and 2020.13 The Wildland Fire Reports showed that the increase in demand led to a higher percentage of unfulfilled requests, and in 2022, 34.9% of Type 3 multi-engine airtankers requests were unfulfilled compared to 8.9% in 2020. 
+ Super Scoopers are multi-engine airtankers built specifically for aerial firefighting. They are highly effective at fighting fires and have historically been owned and operated by foreign governments throughout Europe (there are approximately 40 amphibious scooping aircraft owned by France, Greece, Italy and Spain) and as a result, used amphibious scooping aircraft are difficult to locate and obtain in the United States. We are an original customer for LAS launch of their Super Scooper CL-415EAF (Enhanced Aerial Firefighter) Program. LAS has only made a limited number of Super Scoopers available for sale between 2020 and 2025, and pursuant to our purchase agreement with LAS and Viking, dated April 13, 2018 (as amended and supplemented from time to time, the LAS Purchase Agreement), which has been amended numerous times to add additional planes and upgrades, we agreed to purchase six of the limited number of Super Scoopers. On February 17, 2023, we received our sixth Super Scooper, which will allow greater deployment of the Bridger aircraft fleet across the U.S. LAS may terminate the LAS Purchase Agreement with respect to a purchased aircraft for which the closing has not occurred by providing at least thirty (30) days notice upon occurrence of certain events of default by us and certain excusable delays. We have the right to terminate the LAS Purchase Agreement with respect to a purchased aircraft 
+ 
+
+12 | U.S. Department of the Interior, Deputy Secretary Beaudreau Announces $228 Million for Wildfire Mitigation and Resilience from Bipartisan Infrastructure Law, Dec. 14, 2022 (https://www.doi.gov/pressreleases/deputy-secretary-beaudreau-announces-228-million-wildfire-mitigation-and-resilience #:~:text=The%20%24228%20million%20announced%20today,of%20%24408%20million%20in%20funding.); L. Pulkkinen, Inside Washingtons $328M push to prevent disastrous wildfires, CrossCut, Apr. 16, 2021 (https://crosscut.com/politics/2021/04/inside-washingtons-328m-push-prevent-disastrous-wildfires); Washington State Legislature, HB11682021-22, last accessed Oct. 26, 2022 (https://app.leg.wa.gov/billsummary?BillNumber=1168&Year=2021&Initiative=false). 
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+13 | The NICC 2022 Annual Report; National Interagency Coordination Center, Wildland Fire Summary and Statistics Annual Report 2021, last accessed Feb. 28, 2023 (https://www.predictiveservices.nifc.gov/intelligence/2021_statssumm/annual_report_2021.pdf); National Interagency Coordination Center, Wildland Fire Summary and Statistics Annual Report 2020, last accessed Feb. 28, 2023 (https://www.predictiveservices.nifc.gov/intelligence/2020_statssumm/annual_report_2020.pdf); National Interagency Coordination Center, Wildland Fire Summary and Statistics Annual Report 2019, last accessed Feb. 28, 2023 (https://www.predictiveservices.nifc.gov/intelligence/2019_statssumm/annual_report_2019.pdf) (the Wildland Fire Reports).
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+7 
+
+
+  for which the closing has not occurred by providing at least thirty (30) days notice upon occurrence of certain events of default by LAS or certain delays in aircraft delivery. As we are a long-standing customer of LAS, and as LAS develops their next generation of aerial firefighting solutions, our continuous feedback informs advancements in firefighting technology. 
+ Given the limited supply of purpose-built multi-engine airtankers, upkeep and maintenance of existing aircraft is vital to minimize lapses in firefighting services occurring during wildfire season and to reduce the impact of any disruptions that occur. The Super Scooper is the only aerial fire suppression aircraft with factory OEM support which aids in reducing downtime. 
+ Our Competitive Strengths 
+ Full spectrum of aerial firefighting services 
+ We provide full-spectrum aerial firefighting services, offering both fire suppression and aerial surveillance services in the U.S. We emphasize continued investment in new aerial surveillance and aerial fire suppression aircraft, as well as innovation in the realm of unmanned platforms. Our aerial surveillance fleet has evolved since our inception from a single aircraft and pilot to the fleet operated today. The diversity of our service offerings affords customers the opportunity to select the appropriate services for their specific needs. 
+ Purpose-built aircraft that can drop higher volumes of water 
+ Our Super Scooper aircraft are the latest model in the LAS production line and feature enhanced industry technology. Viking, a subsidiary of LAS, purchased the type certificate and is the OEM for the design of all the CL-215 and CL-415 models from Bombardier Aerospace. LAS then made significant improvements and introduced the Super Scooper, which includes the following improvements over the CL-415:
+
+
+ | Higher cruising speed;
+--+-----------------------
+
+
+ | Improved air safety;
+--+---------------------
+
+
+ | Latest-generation technological reliability;
+--+---------------------------------------------
+
+
+ | New avionics and instrumentation;
+--+----------------------------------
+
+
+ | More accurate water discharge technology;
+--+------------------------------------------
+
+
+ | Suitability for mountainous terrain;
+--+-------------------------------------
+
+
+ | STOL on asphalt, gravel and water;
+--+-----------------------------------
+
+
+ | Lower speed during water-bombing (low and slow flight);
+--+--------------------------------------------------------
+
+
+ | Improved operational efficiency; and
+--+-------------------------------------
+
+
+ | Structural integrity.
+--+----------------------
+
+ The Super Scooper leverages modern turbine engines to deliver superior high-altitude performance. The Super Scooper is able to reload in under a minute, compared to a reload time of approximately 30 minutes to one hour, depending on base capabilities, for other air tankers enabling the Super Scooper to make more drops in the same amount of time. The Super Scooper can drop approximately 50,000 gallons before requiring refueling, while the largest tanker in the market can only drop 30 thousand gallons of retardant before needing to refuel and reload retardant. The Super Scooper aircraft allow for rapid delivery of water strikes to extinguish wildfires, particularly when deployed in tandem or larger groups to allow for continuous water-delivery as aircraft return to the water source. 
+ 
+8 
+
+
+ Highly-skilled crew of pilots and maintenance personnel 
+ As of December 31, 2022, we have 12 captains on staff as part of the Super Scooper flight crew. Each captain has thousands of hours of flight time in the Super Scooper conducting firefighting operations. All flight crew have a minimum of four years of aerial firefighting experience. Recurrent training for all flight crew is required in a Level D full motion flight simulator. 
+ Each of our pilots attends annual and recurrent training specific to the aircraft they operate and to meet our standards of safety and standard operating procedures. Each pilot that flies an aircraft on contract for a government agency receives a certification card on an annual basis that validates they are qualified by the government to safely operate the aircraft while on contract. 
+ As of December 31, 2022, we have 11 crew chiefs on staff as part of the Super Scooper maintenance crew. Each crew chief has thousands of hours maintaining aircraft in the Viking family and are familiar with firefighting operations. Factory training is mandatory for all of the maintenance team specific to the aircraft and components they maintain. They are also required to complete company-specific training courses regarding safety, standard operating procedures and systems in which they track and sign-off on maintenance logs. 
+ Long-standing client relationships 
+ We have provided aerial firefighting services for six years to government agencies, including the USFS, California Department of Forestry and Fire Protection (Cal Fire) and multiple other state governments. The Company was awarded the first contract by the DOI to operate a fleet of UAS on-call over active wildfires throughout the U.S. We have been praised as an industry leader, specifically by the USFS, with regards to the SMS program and have been recommended by the USFS as a model for safe aircraft operations. Currently, we maintain active contracts with multiple federal agencies and the state governments of many high wildfire risk states, and we have a 100% renewal rate on our federal and state contracts. We bid upon and were awarded a USFS multi-year contract beginning with the 2021 fire season through the beginning of the 2025 fire season for the use of our Super Scooper planes. 
+ Our relationship with the USFS involves three material service agreements: Contract No. 1202SA21T9009, dated as of June 3, 2021 (Call-When-Needed Water Scooper Contract), Contract No. 12024B19C9025, dated as of May 15, 2019 (Exclusive Use Light Fixed Wing Contract), and Contract No. 1202SA21G5100, dated as of February 22, 2021 (Call-When-Needed Light Fixed Wing Contract). Under the Call-When-Needed Water Scooper Contract, we provide Super Scooper aircraft services for wildland firefighting on a national basis for a period of four years from June 3, 2021. We generate revenue under the Call-When-Needed Water Scooper Contract from task orders placed by the USFS. Under the terms of the Call-When-Needed Water Scooper Contract, the USFS reserves the right to terminate the Call-When-Needed Water Scooper Contract, or any part thereof, for its sole convenience or in the event of any default by us. Under the Exclusive Use Light Fixed Wing Contract, we provide light fixed wing aircraft firefighting services on an exclusive use basis for the Northern, Rocky Mountain, Southwestern, Intermountain and Pacific Southwest regions, as defined by the U.S. Department of Agriculture. The original term of the Exclusive Use Light Fixed Wing Contract was for 12-months from May 15, 2019; however, the contract included an option to extend the contract for four additional periods of one year each, and the USFS has exercised its annual option to extend the contract for 12-month periods on each of March 18, 2020, April, 21, 2021 and April 18, 2022. We generate revenue under the Exclusive Use Light Fixed Wing Contract by providing guaranteed availability of our services for 120 calendar days per year, with different rates charged for standby hours and flight hours. Under the terms of the Exclusive Use Light Fixed Wing Contract, the USFS reserves the right to terminate the Exclusive Use Light Fixed Wing Contract, or any part thereof, for its sole convenience or 
+ 
+9 
+
+
+  in the event of any default by us. Under the Call-When-Needed Light Fixed Wing Contract, we provide light fixed wing aircraft firefighting services, on a call-when-needed basis, for the air tactical group supervision mission on behalf of the Northern Region, as defined by the USFS. The term of the Call-When-Needed Light Fixed Wing Contract is for a period of four years. We generate revenue under the Call-When-Needed Light Fixed Wing Contract by providing our services when called upon by the USFS, if available at time of call, with different rates charged for standby hours and flight hours. Under the terms of the Call-When- Needed Light Fixed Wing Contract, the USFS reserves the right to terminate the Call-When-Needed Light Fixed Wing Contract, or any part thereof, for its sole convenience or in the event of any default by us. 
+ Our Growth Strategy 
+ Acquire and deploy additional aircraft to meet increased demand 
+ We are an original customer for LASs launch of its Super Scooper CL-415EAF Program. There are approximately 40 amphibious scooping aircraft owned by France, Greece, Italy and Spain and as a result, used amphibious scooping aircraft are difficult to locate and obtain. LAS has only made a limited number available for sale between 2020 and 2025, and we agreed to purchase six of this limited number and are in discussion to potentially purchase two more. 
+ Expanding our services 
+ Fire Monitoring Technology: With roughly 70,000 wildfires occurring each year in the U.S. (according to the NIFC Suppression Costs Data), news feeds are saturated with reports of wildfires that have grown quickly and are out of control. Current consolidated fire data is controlled by wildfire agencies with limited to no access publicly available. We launched our FireTRAC application (FireTRAC) in April 2022 to provide a resource to the general public in easy to use mobile and web applications. FireTRAC notifies users of potential fire danger and provides maps and high- resolution photo overlays so users can learn where the fires are located and find safety. FireTRAC provides near real-time data directly to citizens, landowners, insurance companies, utilities, municipal and county governments and potentially federal agencies. The app provides consolidated information, imagery and data regarding critical wildfire incidents in a seamless and user-friendly interface. The app puts this critical information in one place, providing rapid updates and building a user community along the way. 
+ Maintenance, Repair, Overhaul: We have an experienced and well-trained crew of maintenance professionals. Maintenance personnel and their maintenance support staff are current on all general aviation standards and requirements and are specifically trained to service our fleet of aircraft. We ensure our maintenance team has all the necessary equipment needed to exceed FAA maintenance standards and maintain USFS and DOI contract aircraft requirements. We are a FAA Certified Part 145 Repair Station offering Airframe and Avionics repair capabilities for the Aerial Firefighting Fleet. In April 2022, our Part 145 Certified Repair Station was awarded an ISO 9110, certification which is one of the highest standards in a repair organization recognized by the FAA. This certification was completed by the British Standards Institution, recognized as an industry leader in quality management systems. 
+ Domestic and international expansion 
+ We are committed to increasing our market share and service offering domestically. Given our competitive strengths, we believe we are well-positioned to take advantage of the growth in domestic demand for fire safety and environmental awareness. We currently have contracts in place with the USFS, the DOI, Washington State Department of Natural Resources, Alaska Department of Natural Resources, Cal Fire, Idaho Department of Lands, Minnesota Department of Natural Resources, Montana Department of Natural Resources and Conservation, Nevada Department of Conservation and Natural Resources, and Oregon Department of Forestry. 
+ 
+10 
+
+
+ We intend to penetrate certain additional domestic markets through leveraging existing relationships and building local market teams. We have established this historically by maintaining relationships in the field with customers, gathering near real-time feedback to improve operations, as well as holding regular feedback sessions to incorporate points of improvement and planning for subsequent years. 
+ While our current expansion focus is on domestic markets, we believe international expansion may provide additional growth opportunities for us in the future. We are exploring the possibility of operating internationally during the North American wildfire off-season, which generally occurs between November and April. We seek to become a global entity that provides aerial firefighting services worldwide. Our goal is to bring the Super Scooper to Europe, Asia and/or South America as our first international expansions in the future and to demonstrate the platforms effectiveness. Currently, Super Scoopers are either not utilized on wildland fires in these areas or are not operated in a contractor-owned, contractor-operated business model. We plan to fill an underserved need to provide an alternative solution to aging and obsolete government-owned, government- operated fleets. 
+ Pursuing Opportunistic M&A 
+ We intend to continue to evaluate M&A opportunities to expand our fleet, add new geographies or add additional services. Consistent with this strategy, we regularly evaluate potential acquisition opportunities, including ones that would be significant to us. We cannot predict the timing of any contemplated transactions, and none are currently probable. 
+Seasonality 
+ Our operating results are impacted by seasonality. Climate conditions and other factors that may influence our revenues may vary each quarter and year. Many of these factors are outside of our control, including but not limited to: 
+
+ | forest fires tend to have a higher occurrence during the summer months and during times of drought, but are ultimately unpredictable;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | climate change and changes in global temperatures occur over time;
+--+-------------------------------------------------------------------
+
+
+ | unexpected weather patterns, natural disasters or other events that increase or decrease the rate or intensity of wildfires or impair our ability to perform firefighting services; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | changes in governmental regulations or in the status of our regulatory approvals or applications.
+--+--------------------------------------------------------------------------------------------------
+
+ Historically, the demand for our services has been higher in the second and third quarters of each fiscal year due to the timing and duration of the North American fire season. Consequently, revenues, expenses, and operating cash flows from our services are generated mostly in the second and third quarters of our fiscal year. However, the seasonal fluctuation in the need to fight wildfires based upon location and the varying intensity of the fire season may lead our operating results to fluctuate significantly from quarter to quarter and year to year. 
+ Our Customers 
+ Our high-performing aircraft, including the Super Scooper, and full-service support platform have allowed us to enter into contracts with U.S. federal, state and local governmental entities and focus on growth while building additional services to map and analyze fire boundaries. Currently, we are engaged in short, medium and long-term contracts with multiple federal agencies such as the USFS and DOI and the state governments of many of the states most endangered by wildfires. Automatically renewing contracts with governmental entities provide stable revenue streams, allowing us to innovate in the aerial firefighting industry and diversify offerings to customers. We were awarded the first contract by the DOI to operate a fleet of UAS on-call over active wildfires throughout the U.S. We bid upon and were awarded a contract with the USFS for use of our Super Scooper aircraft, beginning in 2021 into 2025. 
+ 
+11 
+
+
+ While a majority of our existing contracts are for a one-year base term, we enter into short, medium and long-term contracts with customers, primarily with the aforementioned government agencies during the firefighting season, to deploy aerial fire management assets. Contracts are based on either a Call-When-Needed (CWN) or Exclusive Use (EU) basis. Rates established are generally more competitive based on the security of the revenue from the contract (i.e., an EU versus only on an as-needed basis in CWN). We have a 100% renewal rate on our federal and state contracts. 
+ Facilities 
+ Our headquarters are located in Belgrade, Montana, and our aircraft fleet resides at the Bozeman Yellowstone International Airport. We lease five existing lots at the airport on 20-year and 10-year ground leases. We own two hangars and plan to construct two additional hangars adjacent to our existing hangars. 
+ Our Competitors 
+ Our primary competition is a private aerial firefighting operator that currently manages 4 CL-415s, 3 Type II Dash 8-400AT and 7 Avro RJ85s, which are designed to drop retardant. Additionally, from time-to-time we may compete with aerial firefighting companies that drop water from helicopters. However, our management does not view helicopters as a direct threat to our operations because while many helicopters are only able to pursue two-hour missions due to fuel capacity, our Super Scooper aircraft have four-hour fuel capacity. 
+ Our Super Scooper program is not designed to replace the use of aircraft that drop fire retardant on wildfires. Fire retardant is a substance frequently deployed by large air tankers to slow down or stop the spread of fire and is frequently used to create a perimeter or border around a fire. While it is possible for a fire to burn through a fire line created by fire retardant, fire retardant remains a valuable tool in the fight and management of wildfires, and when combined with the deployment of Super Scoopers dropping water, can be effective in managing, controlling and slowing the spread of wildfires. 
+ We believe our ability to compete successfully as an aerial firefighting service will depend on a number of factors, which may change in the future due to increased competition, including the price of our offerings, consumer confidence in the safety and efficacy of our offerings and consumer satisfaction for the solutions we offer. 
+ Our Environmental Impact 
+ According to the EPA Climate Change Indicators Article, multiple studies have found that climate change has already led to an increase in wildfire season length, wildfire frequency and burned area, climate change threatens to increase the frequency, extent and severity of fires through increased temperatures and drought and wildfires release a significant amount of carbon emissions each year. 
+ Amid raging wildfires, changing climate and year-round fire season, we use sustainable and environmentally friendly firefighting methods. By sourcing water near the fire for our fire suppression services, we minimize harm to the local water system by keeping water in the local ecology and reducing flight time between scoops and drops. Our mission is to save lives, property, and habitats through our world-class team, specialized aircraft, and innovative use of technology and data. 
+ Human Capital 
+ Our employees are critical to our success. As of December 31, 2022, we had 166 employees. We have high selection standards, recruiting individuals with specific technical skills and demonstrated ability to work independently in a wide variety of work environments. Prior to joining our company, 
+ 
+12 
+
+
+  many of our employees had prior experience working for a wide variety of reputed research, commercial and military aerospace and non-aerospace organizations. As a company founded by veterans, we seek to employ qualified veterans and draw upon the experiences of their shared military background including their strategic mindset, management skillset and high level of discipline. As of December 31, 2022, approximately 1 out of 5 of our employees is a veteran of the U.S. military. 
+ To date, we have not experienced any work stoppages, and we consider our relationship with our employees to be good. We routinely solicit feedback from our entire employee base and empower individuals by encouraging them to formulate solutions and process improvements no matter the level of role. Accordingly, our voluntary turnover is very low, employee engagement is high, and we have not experienced any interruptions of operations due to labor disagreements. Our employees are not subject to collective bargaining agreements or represented by labor union. 
+ Health and Safety 
+ We are committed to the safety of our employees. We maintain environmental, health and safety policies that seek to promote the operation of our business in a manner that is protective of the health and safety of the public and its employees, particularly in response to the global COVID-19 pandemic. Depending on the current circumstances of the evolving COVID-19 pandemic, we have implemented actions to maintain the health of our employees including social distancing measures, the use of masks, restricting visitors and unnecessary travel and working from home, where appropriate. 
+ Our operations offer several health and welfare programs to employees to promote fitness and wellness and to encourage preventative healthcare. In addition, our employees are offered a confidential employee assistance program that provides professional counseling to employees and their family members. We have a holistic philosophy for our benefits offerings, supporting physical health, mental health, financial health, community support and a wide variety of insurance plans to hedge against uncertain losses (e.g., accident, short term disability, paid leaves, and life insurance). 
+ Employee Trainings 
+ To address the inherently dangerous nature of the job, we adhere to achieving operational excellence and providing our employees with the means to further their development. All of our pilots are given extensive training during the winter months, regardless of tenure or previous experience. The trainings include classroom/ online courses, simulators, and in-plane time. We strive to have high industry standards and employ several dedicated pilot and airframe-specific trainers. Routinely, we fund enhanced workforce training in specific technical fields related to those employees desires. In one instance, we have had an employee who was hired as a facility cleaner. With further training and investment, the employee became a ground vehicle support manager and is now an aircraft mechanic. We also hire entry level mechanics and train them to obtain their airframe and powerplant certification, which allows them to perform maintenance on any aircraft unsupervised. 
+ In addition to technical training, we invest heavily in leadership and management training as well as some of the most advanced safety training available in our industry. The State of Montana Job Grant program has been a tremendous help to us through our early years by providing state funded training to employees attending schooling to better their position as employees within the State of Montana. Before hiring externally as needs are identified, a careful analysis is done of our current staff to determine if the aptitude and interest is already in our employee base. By prioritizing training and promoting current employees, we enhance employee engagement and cut costs simultaneously. 
+ 
+13 
+
+
+ Employee Retention and Opportunity 
+ We believe that attraction and retention of top talent from a variety of backgrounds is important and we employ policies and procedures to recruit diverse talent as well as policies to ensure pay equality. We have an Equal Employment Opportunity Policy whereby we commit to providing equal employment opportunity, promotion, services, or activities which operates for all qualified employees and applicants without regard to race, color, sex, sexual orientation, gender identity, gender expression, parental status, citizenship status, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information or other legally protected status. We drive a culture that understands and respects differences. We rely heavily on recruiting internationally to work on our purpose-built aerial firefighting aircraft and identify the cultural benefits that these individuals bring to our company. 
+Governmental Regulation 
+ Federal Aviation Administration 
+ The regulations, policies and guidance issued by the FAA apply to the use and operation of our aircraft. Operators of aircraft are required to have proper licenses, permits and authorizations from the FAA and comply with the FAAs insurance requirements for third-party liability and government property. While our aircraft are currently registered with the FAA, in the event of a change in ownership, the FAA license will be updated with current information. In that instance, once any such new vehicle registration applications are filed, the applications will serve as registrations until the FAA issues the new vehicle registrations, which will allow operations to continue during that period. 
+ Failure to comply with the FAAs aviation or space transportation regulations may result in civil penalties or private lawsuits, or the suspension or revocation of licenses or permits, which would prevent operating our aircraft. 
+ In addition to the FAA, our industry is regulated by multiple federal agencies who, in some cases, act as both customer and regulator. We are proud to have a stellar record of performance both in flight and on the ground with respect to all of our regulatory bodies. 
+ 

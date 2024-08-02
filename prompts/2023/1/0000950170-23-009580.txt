@@ -1,0 +1,1490 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Business Overview
+ 
+Meta Materials Inc. (also referred to herein as the “Company”, “META®”, “META” “we”, “us”, “our”, or “Resulting Issuer”) is a developer of high-performance functional materials and nanocomposites. We are developing materials that we believe can improve the performance and efficiency of many current products as well as allow new products to be developed that cannot otherwise be developed without such materials. We believe META is positioned for growth, by pioneering a new category of intelligent surfaces, which will allow us to become the metamaterials industry leader. We enable our potential customers across a range of industries - consumer electronics, 5G communications, healthcare, aerospace, automotive, and clean energy - to deliver improved products to their customers. For example, our nano-optic metamaterial technology provides anti-counterfeiting security features for Central Bank customers and currencies and authentication for Global brands. We currently have over 500 active patent documents, of which 315 patents have issued.
+ 
+Our principal executive office is located at 60 Highfield Park Drive, Dartmouth, Nova Scotia, Canada.
+
+At META, we create nanostructures on the surfaces that everyone is surrounded by and interacts with - windows, windshields, screens on our devices, even the glasses we wear on our heads – and we believe that the materials we are developing can open up an entirely new world of performance and efficiency.
+ 
+We specialize in the design and fabrication of metamaterials, a new class of multi-functional surfaces that require less raw material and energy compared to traditional solutions and are able to do things that were previously unachievable.
+ •We help aerospace companies to keep their pilots and passengers safe from laser strikes.
+ •We help defense companies to equip aircraft with lighter weight, more efficient solar technology.
+ •We help cellular communications companies embed nanostructures that turn glass windows into 5G antennas and reflectors to receive, amplify or distribute cellular signals.
+ •We are exploring opportunities with auto industry leaders to de-ice and defog LiDAR, Radar and Camera sensors using a fraction of the energy currently needed without affecting the core sensor function. 
+ •We are exploring opportunities with battery OEMs applications to increase the safety and performance of lithium-ion batteries using a fraction of the materials or replacing them with nanocomposites that are several times more stable under heat than conventional materials. 
+ 
+META in the last decade has developed and acquired a portfolio of intellectual property, and we are now moving toward commercializing products at a performance and price point combination that we believe have the potential to be disruptive in multiple market verticals. Our platform technology includes holography, lithography, electro-optics, nano-optics, battery materials, and medical wireless sensing. In 2021, we acquired the assets and IP which comprise ARfusion®, our platform technology for smart, augmented reality (AR) prescription eyewear, and we added nano-optic security products with the acquisition of Nanotech Security Corp. In 2022, we acquired nanoporous ceramic battery separator technology and high-speed vacuum coating capabilities. The underlying approach that powers our platform technologies comprises advanced materials, metamaterials and functional surfaces. These materials include structures that are patterned in ways that manipulate light, heat, and electromagnetic waves in unusual ways. Our advanced structural design technologies and scalable manufacturing methods provide a path to broad commercial opportunities in aerospace and defense, automotive, energy, healthcare, consumer electronics, and data transmission.
+ 
+Throughout 2022, we focused our resources on the pilot scale manufacturing of our NANOWEB® transparent conductive film applications, expansion of our production capacity in our ARfusion® smart lenses for AR eyewear, as well as the banknote and brand security lines, and more aggressive design, development and pre-clinical testing of certain medical products.
+ We have product concepts currently in various stages of development with multiple potential customers in diverse market verticals. Our business model is to co-develop innovative products or applications with industry leaders that add value. This approach enables us to understand market dynamics and ensure the relevance and need for our products.
+
+
+
+META’s customers can benefit from:
+1.Speed of Discovery.
+ ▪Rapid design: Using artificial intelligence and machine learning to mine our library of nanopatterns allows META to create functional prototypes much faster than traditional chemical synthesis.
+ ▪Multi-physics modeling: Our analysis tools allow us to build rapid prototypes in software to model how changing one parameter affects the entire system before implementation in physical form, saving millions of dollars in trial and error prototypes as compared to our competitor’s traditional chemical synthesis.
+ ▪Mass customization: Bringing together our core capabilities—holography, lithography, wireless sensing, battery materials and coating technologies—into a device or system allows us to create a smart material that performs multiple functions.
+ 2.Manufacturing at Scale.
+ ▪Large area solutions: Our manufacturing facilities house proprietary production equipment that can produce nanocomposites with dimensions suitable for use in many high-volume applications such as vehicles and energy.
+ ▪High volume production: Our nanofabrication and coating technologies allow new materials to be produced at high speed and large quantities (e.g. batch wise or roll-to-roll) enabling META to fabricate metamaterial products at higher volume than our competitors with semi-conductor quality.
+ ▪Quality: The very precise and demanding quality standards of advanced nanofabrication is why META adheres to the ISO 9001 Quality Management System (“QMS”) standard.
+ 3.Breakthrough Performance.
+ ▪Multi-functional applications: We are a technology platform company that can design and build multi-functional products uniquely combining more than one capability across a customer application – e.g. a head-mounted display (holography) with an electrochromic dimmable surface (lithography) into an ophthalmic grade casted lens (ARfusion). 
+ ▪Breakthrough solutions: Our advanced capabilities in both design and manufacturing of metamaterials are why some of the world’s best-known companies consider us to co-develop breakthrough solutions.
+ 
+What is a Metamaterial?
+ 
+Over the past 20 years, techniques for producing nanostructures have matured, resulting in a wide range of groundbreaking solutions that can control light, heat, and electromagnetic waves at very small scales. Some of the areas of advancement that have contributed to these techniques are photonic crystals, nanolithography, plasmonic phenomena and nanoparticle manipulation. From these advances, a new branch of material science has emerged – metamaterials. Metamaterials are composite structures, consisting of conventional materials such as metals and plastics, which are engineered by scientists to exhibit new or enhanced properties relating to reflection, refraction, diffraction, filtering, conductance and other properties that have the potential for multiple commercial applications.
+
+A metamaterial typically consists of a multitude of structured unit nano-cells that are comprised of multiple individual elements. These are referred to as meta-atoms. The individual elements are usually arranged in periodic patterns that, together, can manipulate light, heat, or electromagnetic waves. Development strategies for metamaterials and functional surfaces focus on structures that produce unusual and exotic electromagnetic properties by manipulating light and other forms of energy in ways that have never been naturally possible. They gain their properties not as much from their composition as from their exactingly designed structures. The precise shape, geometry, size, orientation, and arrangement of these nanostructures affect the light and other electromagnetic waves to create material properties that are not easily achievable with conventional materials.
+
+Controlling light, heat, electricity, and radio waves have played key roles in technological advancements throughout history. Advances in electrical and electromagnetic technologies, semiconductors, wireless communications, lasers, and computers have all been made possible by challenging the understanding of how light and other types of energy naturally behave, and how it is possible to manipulate them.
+
+Holography Technology 
+Holography is a technique where collimated visible wavelength lasers are used to directly write an interference pattern inside the volume of light-sensitive material (photopolymer) in order to produce highly transparent optical filters and holographic optical elements. For
+
+some product lines that require large surface areas, this is combined with a proprietary scanning technique, where the lasers, optically or mechanically, directly write nano-patterns to cover large surface areas with nanometer accuracy.
+META’s principal products that employ holography technology are its metaAIR® laser glare protection eyewear, metaAIR® laser glare protection films for law enforcement and holoOPTIX® notch filters. META co-developed its metaAIR® laser glare protection eyewear product with Airbus S.A.S. It has been engineered to provide laser glare protection for pilots, military and law enforcement using META’s holography technology. metaAIR® is a holographic optical filter developed using nano-patterned designs that block and deflect specific colors or wavelengths of light. META launched metaAIR® with strategic and exclusive distribution partner, Satair, a wholly owned Airbus company and started producing and selling metaAIR® in April 2019. The scale-up and specification for the raw photopolymer material used to produce the eyewear was successfully finalized in late 2019 and commercialized in 2020. META launched its laser glare protection films for law enforcement use in late 2020. These films are designed to be applied to face shields and helmet visors providing the wearer with the same type of laser glare eye protection afforded to pilots by metaAIR® glasses while preserving peripheral vision critical to law enforcement duties. holoOPTIX® notch filters are optical filters that selectively reject a portion of the spectrum, while transmitting all other wavelengths. They are used in applications where it is necessary to block light from a laser, as in machine vision applications and in confocal or multi-photon microscopy, laser-based fluorescence instrumentation, or other life science applications. We commercially launched holoOPTIX® notch filters in November 2020.
+ META has additional products in development that utilize its proprietary holography technology. Included in the holoOPTIX® family of products are holographic optical elements (“HOEs”). HOEs are a core component in the display of augmented reality smart glasses products, as well as (in their larger version) in Heads-Up Displays (“HUDs”), in automobiles and aircraft.
+Additionally, our ARfusion® technology combines precision cast lens fabrication tools with functional metamaterials and volume holograms, to provide AR wearable developers with a platform for seamlessly integrating smart technologies into thin lightweight prescription glasses. To achieve widespread commercial adoption and ultimately become as ubiquitous as smartphones, AR glasses must be comfortable, affordable, natural looking, and easy to use. A successful solution needs to achieve high-quality images and a large field of view (FOV) in a fashionable, compact form factor, without adding excess weight. This means that the smart technologies (displays, filters, active dimming) must be embedded within a rugged, cast prescription lens.
+ Our ARfusion® system was first developed by a Swiss company, Interglass Technology (“Interglass”), which we acquired in February 2021. Interglass designed the automated lens casting system as a more sustainable solution to producing prescription lenses, using a fraction of the material and energy compared to conventional processes. The lenses were directly cast into the final correction using an extensive library of reusable front and back molds. Acrylic monomer injected between the two molds is cured with UV light in seconds. The molds are automatically separated, and the lens substrate is ready in as quick as 1 minute, with no cleaning, polishing or post-production for a simple corrective lens. To accommodate precisely formed and embedded smart AR elements in prescription lenses, ARfusion® produces an optimized, minimal thickness, semi-finished blank lens, ready to be ground to the final curvature on standard ophthalmic processing equipment.
+ In a traditional cast plastic lens, up to 80% of the original lens blank material is wasted as the prescription is ground into the blank. With the same amount of material, ARfusion® can produce several optimized semi-finished lenses. In a standard thermal process, curing of semi-finished lens blanks for up to 50 hours requires much more energy and process time compared to the UV curable materials and associated processes used by ARfusion®.
+ Lithography Technology 
+Lithography is a process commonly used in the fabrication of integrated circuits, in which a light-sensitive polymer (photoresist), is exposed and developed to form 3D relief images on the substrate, typically a silicon wafer of up to 300mm (11.8 inches) in diameter. In order to meet the performance, fabrication-speed, and/or cost criteria required for many potential applications that require large area and low cost nanopatterning, we have developed a new nanolithography method called “Rolling Mask” lithography (registered trademark RML®), which combines the best features of photolithography, soft lithography and roll-to-plate/roll-to-roll printing capability technologies. Rolling Mask Lithography utilizes a proprietary UV light exposure method where a master pattern is provided in the form of a cylindrical mask. These master patterns are designed by us and over the years they have become part of a growing library of patterns, enriching the intellectual property (“IP”) of the Company. The nanostructured pattern on the mask is then rolled over a flat surface area writing a nano-pattern into the volume of a photoresist, creating patterned grooves, metal is then evaporated and fills the patterned grooves. The excess metal is then removed by a known post-process called lift-off. The result is conductive metal mesh-patterned surface (registered trademark NANOWEB®) that is not visible to the unaided eye, and which can be fabricated onto any glass or plastic transparent surface in order to offer high transparency, high conductivity and low haze smart materials.
+
+
+
+Our current principal prototype product in lithography technology is transparent conductive film, NANOWEB®. The lithography division operates out of our wholly owned U.S. subsidiary, Metamaterial Technologies USA Inc. ("MTI US"). MTI US can produce meter-long samples of NANOWEB®, at a small volumes scale, for industry customers/partners. Throughout 2021 and 2022, we have been ordering and upgrading our equipment at MTI US's California facility to efficiently supply NANOWEB® samples in larger volumes. In early 2022, we installed our first roll-to-roll, NANOWEB® pilot scale production line at our Pleasanton, California facility. The line is configured for 300mm-wide rolls of substrate. Our roll-to-roll production now matches or exceeds functional performance of wafer-based samples. We have achieved cosmetic uniformity and transparency in our samples and they now exceed customer specifications for transmission, haze and sheet resistance.
+ There are six NANOWEB®-enabled applications that are currently in early stages of development including:
+•NANOWEB® for Transparent EMI Shielding.
+ •NANOWEB® for Transparent Antennas.
+ •NANOWEB® for 5G Signal Enhancement.
+ •NANOWEB® for Touch Screen Sensors.
+ •NANOWEB® for Solar Cells.
+ •NANOWEB® for Transparent Heating to de-ice and de-fog.
+ We have entered into a collaboration agreement with Crossover Solutions Inc. to assist with commercialization of the NANOWEB® enabled products and applications for the automotive industry and with ADI Technologies to help secure contracts with the US Department of Defense.
+Nano-optic Structures and Color-shifting Foils
+ During 2021 we acquired Nanotech Security Corp. "Nanotech" which specializes in designing, originating, recombining, and mass-producing nanotechnology-based films with application for a wide variety of products and markets. Nanotech develops and produces nano-optic structures and color-shifting foils used in authentication and brand protection applications including banknotes, secure government documents, and commercial branding. Our nano-optic security technology platforms include:
+ 
+•KolourOptik®, a patented visual technology that is exclusive to the government and banknote market and combines sub-wavelength nanostructures and microstructures to create modern overt security features with a unique and customizable optical effect. KolourOptik® pure plasmonic color pixels produce full color, 3D depth, and movement used in security stripes and threads that are nearly impossible to replicate. 
+ •LiveOptik, a patented visual technology that utilizes innovative nano-optics one tenth the size of traditional holographic structures to create next generation overt security features customized to Nanotech’s customers’ unique requirements. LiveOptik delivers multi-color, 3D depth, movement and image switches for secure brand protection stripes, threads and labels that are nearly impossible to replicate. 
+ •LumaChrome optical thin film security features are manufactured using precision engineered nanometer thick layers of metals and ceramics to form filters designed to uniquely manipulate visible and non-visible light. This unique manipulation of light properties is used to create specialized security features in the form of threads, stripes, and patches that are applied to banknotes and other secure documents. By using sophisticated electron beam and sputtered deposition methods, Nanotech precisely controls the construction and inherent properties to provide custom color-shifting solutions. An individual looking at these threads, stripes and patches sees an obvious color shift (e.g. green to magenta) when the document or bank note is tilted or rotated.
+ 
+
+
+
+Wireless Sensing and Radio Wave Imaging Technology 
+META’s Wireless Sensing platform uses infrared and radio frequency (RF) transmitters and receivers to collect and measure a variety of biological information enabling non-invasive and safe medical diagnostics. The platform requires the ability to cancel reflections (anti-reflection) from the skin to reduce the natural impedance the skin provides to such signals and increase the Signal-to-Noise Ratio (“SNR”) of certain diagnostic instruments used in conjunction with the platform. This reflection-cancelling requirement is satisfied using META’s proprietary metamaterial films that employ patterned designs, printed on metal-dielectric structures on flexible substrates that act as anti-reflection (impedance-matching) coatings when placed over the human skin in combination with medical diagnostic modalities, such as MRI, ultrasound systems, non-invasive glucometers etc.
+We are developing a number of medical products that employ this proprietary technology, which are subject to FDA approval prior to marketing as described in more detail below. glucoWISE®, is in development as a completely non-invasive glucose measurement device. It is being developed first as a tabletop system for use in the home or clinic, followed by a portable, pocket-size product and ultimately as a wearable. In magnetic resonance imaging (MRI), increasing the SNR by orders of magnitude has been demonstrated to produce much higher resolution images with significant increases in imaging speed resulting in better patient throughput and potentially more accurate diagnoses in imaging clinics. For example, we began developing metaSURFACE (also known as radiWISE) an innovation which allows an improvement in SNR of up to 40 times for MRI scans. The metaSURFACE device consists of proprietary non-ferrous metallic and dielectric layers that are exactingly designed to interact (resonate) with radio waves increasing the SNR. META is also researching the use of its Radio Wave Imaging technology in breast cancer and stroke diagnosis. We also are developing wireless sensing and radio wave imaging applications from our London, UK and Athens, Greece offices.
+ During 2022, we developed new prototypes utilizing glucoWISE® technology for new pre-clinical studies and human trials. These prototypes are for a non-invasive glucose monitor that incorporates metamaterial antireflective film as well as dual radio wave and optical sensors which provides for enhanced signal penetration through the skin.
+Battery Materials
+We acquired the assets and IP of Optodot Corporation, a developer of advanced materials technologies in June 2022, and we began focusing on developing and licensing ceramic separator technology for lithium-ion batteries. The separator is a critical component for battery performance and safety. Ceramic coated plastic separators (CCS) are widely used today. They are prone to failure at high temperatures, leading to battery fires thus aggravating a tenuous safety profile as energy density and battery size increase. Our next-generation NPORE®is the world’s first flexible, free-standing ceramic nanoporous membrane separator for lithium-ion batteries. NPORE® separators eliminate the use of plastic substrate, provide superior functionality and outstanding heat resistance for current and next generation lithium-ion batteries. NPORE®all-ceramic separators (CSP) offer increased safety and performance by eliminating the plastic layer entirely, and exhibit less than 1% heat shrinkage at temperatures up to 200 degrees C. Our third generation electrode coated separators (ECS) combine what are presently two discrete functions in Lithium-ion batteries and offer a simpler, faster, lower-cost assembly process compatible with current and future battery chemistries (siliconanode, lithium metal, and solid state).
+The global market for Lithium-ion battery separators was estimated at $5.1 billion in 2021 and is projected to reach $9.0 billion in 2025 (Source: Yano Research Institute Ltd.). Separator shipments were about 5.5 billion square meters in 2021 and are projected to reach 15.9 billion square meters in 2025 (Source: SNE Research). About 15 million square meters are required per GWh of battery capacity.
+ Additionally, electric vehicle (EV) consumers desire increased range and fast charging to get back on the road quickly. Storing more energy relative to weight and volume and accepting higher charge rates increase the requirements for material performance, stability, and safety. Wider EV adoption demands improved material utilization along the supply chain.
+ In April 2022, we acquired UK-based Plasma App Ltd., developer of a proprietary, high-speed, pulsed plasma deposition technology. With the combination of these acquired technologies, we plan to develop new battery materials and manufacturing techniques to address all these challenges. PLASMAfusion® high-speed vacuum coating technology has been used to produce prototype NCORE thin polymer-metal composite copper current collectors, significantly reducing weight, with a fuse-like feature for increased safety. Lighter batteries increase energy density and vehicle range. Lower copper content makes battery production and recycling more sustainable.
+High Speed Coating
+ PLASMAfusion® is a first of its kind, patented manufacturing platform technology developed by our Oxford, UK based Plasma App Ltd, a wholly owned subsidiary which was acquired during 2022. PLASMAfusion® enables high speed coating of any solid material on any substrate. It uniquely enables doping, multilayering, or mixing of materials in vacuum with controlled stoichiometry distribution within the deposited film at low substrate temperature.
+ We expect to apply PLASMAfusion® to the metallization step in our roll-to-roll production process for NANOWEB® films as well as KolourOptik® security films. This is expected to significantly accelerate line speed and increase annual capacity. Large scale and efficient metallization is a critical step for volume production of NANOWEB® and many other high volume potential applications such
+
+as lithium-ion battery components. Large scale metallization is expected to leverage capital equipment investment and substantially reduce cost per square meter of output. META intends to continue to industrialize and scale up PLASMAfusion® including applications for its high volume factory in Thurso, Quebec. Additionally, PLASMAfusion® will be available for licensing and co-development for strategic partners.
+ PLASMAfusion® creates unprecedented new high-performance nanocomposites in real time by using multiple, time sequenced targets. We believe this is a unique process enabler, likely to facilitate META’s entry into multiple high-growth markets. High energy beam deposition of materials, at low temperature, without solvents and other toxic chemicals, promises highly sustainable, breakthrough performance. Compared to traditional coating technologies, we estimate PLASMAfusion® is approximately 60x more energy efficient compared to Plasma Laser Deposition (PLD) and 8x more efficient compared to Magnetron Sputtering to produce each 100nm of coating on each square cm area of the substrate, while also offering higher adhesion, deposition rates, and overall coating uniformity.
+ PLASMAfusion® enables design of surfaces and a path to industrial surface manufacturing for a variety of applications including batteries, semiconductors and metamaterials, printed circuit boards and protective optical coatings.
+ 
+Electro-Optic and IR
+We produce high-precision thin film coatings, optics, holographic and lithographic gratings, and optomechanical assemblies for ultraviolet, visible, and infrared applications. For example, we are developing an advanced, electro-optical motion imagery system with applications in the aerospace and defense sectors, and for potential smart city, disaster recovery, wildlife preservation and natural resource monitoring applications.
+Customers
+ Our customers are OEM providers in multiple industries including aerospace, automotive, consumer electronics, communications, energy, banknote and brand security, and medical devices. We organize our development and support efforts around these different vertical markets to enable us to effectively penetrate these markets and to develop products specific to the needs of these OEM customers.
+Marketing and Sales
+ We operate under a Business-to-Business model. Our marketing and sales functions are organized to support and grow this operating model. We utilize a combination of field-based and in-house selling resources to promote and sell our standard off-the-shelf products and a vertical market focused Business Development group to develop and support long-term customer relationships in the vertical market of interest. Our marketing efforts are focused on technical education of our customer base regarding our products, support of a meaningful presence at trade shows and industry events and routine production of collateral materials to support our sales and business development efforts throughout the year.
+Manufacturing
+ We employ a hybrid model for manufacturing our high-performance functional materials and nanocomposites.
+ We provide research scale production of our products in-house to our customers in the lithography and holography business areas. We are scaling up pilot scale production of in our Pleasanton and Highfield Park facilities. We have current capacity in our Thurso facility to produce 7.5 million square meters per year of our banknote security and brand security product at commercial scale and we are expanding this capacity. In certain instances where volume warrants, we will make available on a license basis, our equipment and proprietary processes to our customers or to third party contractors to produce our products for their needs.
+ 
+We are constantly improving and investing in our manufacturing capabilities and the associated quality control and resource planning infrastructure. We hold ISO9001 certification for our Highfield Park facility and our Thurso facility.
+Research And Development
+ 
+We operate in a rapidly evolving industry subject to significant technological change and new product introductions and enhancements. We believe that our continued commitment to research and development is a critical element of our ability to introduce new and enhanced products and technologies. In 2022 we invested approximately twenty-five percent (25%) of our operating expenses in our research and development efforts and these activities are integral to maintaining and enhancing our competitive position. We also increasingly seek to deploy our resources to solve fundamental challenges that are both common to, and provide competitive advantage across, our high-performance functional materials and nanocomposites.
+
+
+We believe that our success depends in part on our ability to achieve the following in a cost-effective and timely manner:
+ •Enable our OEM customers to integrate our functional films into their products.
+ •Develop new technologies that meet the changing needs of the vertical markets we have chosen to pursue.
+ •Improve our existing technologies to enable growth into new application areas; and expand our intellectual property portfolio.
+ Intellectual Property
+
+During 2022, we significantly expanded our patent and trademark portfolios in a wide range of applications including holography, lithography, wireless sensing technology, nano-optic structures as well as battery safety, battery separator technology, and high-speed coating capabilities. We added more than 10 patent documents from the Plasma acquisition, and 101 patent documents from the Optodot acquisition. We currently have over 500 active patent documents, of which 315 patents have issued, compared with 269 active patent documents and 163 issued patents one year ago. Our patent portfolio is comprised of 126 patent families, of which 68 include at least one issued patent. During 2022 we also filed 44 trademark registration applications and 15 trademarks were registered, resulting in a total of 60 registered trademarks and 98 pending applications. We believe that our combination of patents, trademarks, and trade secrets provides us with an important competitive advantage, marketing benefits, and licensing revenue opportunities.
+Regulation
+ 
+We are subject to significant regulation by local, state, federal and international laws in all jurisdictions in which we operate. Compliance with these requirements can be costly and time consuming. We believe that our operations, products, services, and actions substantially comply with applicable regulations in all jurisdictions. However, the risk of non-compliance cannot be eliminated and therefore there is no assurance that future costs related to these regulations will not be incurred. There is also the possibility that regulations will be retroactively applied, interpreted, or applied differently to our operations, products, services, and actions which will require significant time and resources.
+ 
+The development, testing, manufacturing, marketing, post-market surveillance, distribution, advertising, and labeling of certain medical devices are subject to regulation in the United States by the Center for Devices and Radiological Health of the U.S. Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (FDCA) and comparable state and foreign regulatory agencies. FDA defines a medical device as an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component part or accessory, which is (i) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or (ii) intended to affect the structure or any function of the body of man or other animals and which does not achieve any of its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its primary intended purposes. Medical devices to be commercially distributed in the United States must receive from the FDA either clearance of a premarket notification, known as 510(k), or premarket approval pursuant to the FDC Act prior to marketing, unless subject to an exemption.
+ 
+In the U.S., if we market our products for medical purposes, such products would be subject to regulation by the FDA under premarket and post-market control as medical devices, unless an exemption applies, and we would be required to obtain either prior 510(k) clearance or prior premarket approval from the FDA before commercializing the product. Obtaining the requisite regulatory approvals can be expensive and may involve considerable delay. Some countries have regulatory review processes that are substantially longer than U.S. processes. Failure to obtain regulatory approval in a timely manner and meet all of the local regulatory requirements where we plan to market our products could prevent us from marketing products in such countries or subject us to sanctions and fines. Changes to the current regulatory framework, including the imposition of additional or new regulations, could arise at any time during the development or marketing of our products.
+
+FDA classifies medical devices into one of three classes. Devices deemed to pose lower risk to the patient are placed in either class I or II, which, unless an exemption applies, requires the manufacturer to submit a premarket notification requesting FDA clearance for commercial distribution pursuant to Section 510(k) of the FDCA. This process, known as 510(k) clearance, requires that the manufacturer demonstrate that the device is substantially equivalent to a previously cleared and legally marketed 510(k) device or a “pre-amendment” class III device for which premarket approval applications (“PMAs”) have not been required by the FDA. This FDA review process typically takes from four to twelve months, although it can take longer. Most Class I devices are exempted from this 510(k) premarket submission requirement. If no legally marketed predicate can be identified for a new device to enable the use of the 510(k) pathway, the device is automatically classified under the FDCA as Class III, which generally requires premarket approval, or PMA approval. However, the FDA can reclassify or use “de novo classification” for a device that meets the FDCA standards for a Class II device, permitting the device to be marketed without PMA approval. To grant such a reclassification, FDA must determine that the
+
+FDCA’s general controls alone, or general controls and special controls together, are sufficient to provide a reasonable assurance of the device’s safety and effectiveness. The de novo classification route is generally less burdensome than the PMA approval process. Devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting, or implantable devices, or those deemed not substantially equivalent to a legally marketed predicate device, are placed in class III. Class III devices typically require PMA approval. To obtain PMA approval, an applicant must demonstrate the reasonable safety and effectiveness of the device based, in part, on data obtained in clinical studies. All clinical studies of investigational medical devices to determine safety and effectiveness must be conducted in accordance with the FDA’s investigational device exemption (“IDE”) regulations, including the requirement for the study sponsor to submit an IDE application to the FDA, unless exempt, which must become effective prior to commencing human clinical studies. PMA reviews generally last between one and two years, although they can take longer. Both the 510(k) and the PMA processes can be expensive and lengthy and may not result in clearance or approval. If we are required to submit our products for premarket review by the FDA, we may be required to delay marketing and commercialization while we obtain premarket clearance or approval from the FDA. There would be no assurance that we could ever obtain such clearance or approval.
+ 
+All medical devices that are regulated by the FDA are also subject to the quality system regulation. Obtaining the requisite regulatory approvals, including the FDA quality system inspections that are required for PMA approval, can be expensive and may involve considerable delay. The regulatory approval process for such products may be significantly delayed, may be significantly more expensive than anticipated, and may conclude without such products being approved by the FDA. Without timely regulatory approval, we will not be able to launch or successfully commercialize such diagnostic products. Changes to the current regulatory framework, including the imposition of additional or new regulations, could arise at any time during the development or marketing of our products. This may negatively affect our ability to obtain or maintain FDA or comparable regulatory clearance or approval of our products in the future. In addition, regulatory agencies may introduce new requirements that may change the regulatory requirements for us or our customers, or both.
+ 
+If our products become subject to FDA regulation as medical devices, the regulatory clearance or approval and the maintenance of continued and postmarket regulatory compliance for such products will be expensive, time-consuming, and uncertain both in timing and outcome. Commercialization of such regulated medical devices can increase our exposure under additional laws. For example, medical device companies are subject to additional healthcare regulation and enforcement by the federal government and by authorities in the states and foreign jurisdictions in which they conduct their business and may constrain the financial arrangements and relationships through which we research, as well as sell, market and distribute any medical products for which we obtain marketing authorization. Such laws include, without limitation, state and federal anti-kickback, fraud and abuse, false claims, data privacy and security, and transparency laws and regulations related to payments and other transfers of value made to physicians and other healthcare providers. If our operations are found to be in violation of any of such laws or any other governmental regulations that apply, we may be subject to penalties, including, without limitation, administrative, civil, and criminal penalties, damages, fines, disgorgement, the curtailment or restructuring of operations, integrity oversight and reporting obligations, exclusion from participation in federal and state healthcare programs and imprisonment.
+
+Additionally, we must comply with complex foreign and U.S. laws and regulations, such as the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, and other local laws prohibiting corrupt payments to governmental officials, anti-competition regulations and sanctions imposed by the U.S. Office of Foreign Assets Control, and other similar laws and regulations. Violations of these laws and regulations could result in fines and penalties, criminal sanctions, restrictions on our business conduct, and on our ability to offer our products in one or more countries, and could also materially affect our brand, our ability to attract and retain employees, our international operations, our business, and our operating results. As we continue to expand our business into multiple international markets, our success will depend, in large part, on our ability to anticipate and effectively manage these and other risks associated with our international operations. Any of these risks could harm our international operations and negatively impact our sales, adversely affecting our business, results of operations, financial condition, and growth prospects.
+ 
+Human Capital Resources
+ 
+As of February 28, 2023, we had 239 employees. Approximately 86% of our employees are located in Canada and the United States. Of the total workforce, 114 employees are involved in research and development; 45 employees are involved in operations, manufacturing, service and quality assurance; and 80 employees are involved in sales and marketing, information technology, general management and other administrative functions.
+Available Information
+ 
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports and proxy and information statements are accessible free of charge on our website at www.metamaterial.com as soon as reasonably practicable after we electronically file such material with, or furnish them to, the SEC. The SEC also maintains an internet site that
+
+contains reports, proxy and information statements and other information regarding our filings at www.sec.gov. The reference to our company website does not constitute incorporation by reference of the information contained at the site.
+ 
+Business Combinations
+ 
+Torchlight RTO
+ 
+On December 14, 2020, the Company (formerly known as “Torchlight Energy Resources, Inc.” or “Torchlight”) and its subsidiaries, Metamaterial Exchangeco Inc. (formerly named 2798832 Ontario Inc., “Canco”) and 2798831 Ontario Inc. (“Callco”), entered into an Arrangement Agreement (the “Arrangement Agreement”) with Metamaterial Inc. ("MMI"), an Ontario corporation headquartered in Nova Scotia, Canada, to acquire all of the outstanding common stock of MMI by way of a statutory plan of arrangement (the “Arrangement”) under the Business Corporations Act (Ontario), on and subject to the terms and conditions of the Arrangement Agreement (the “Torchlight RTO”). On June 25, 2021, we implemented a reverse stock split, changed our name from “Torchlight Energy Resources, Inc.” to “Meta Materials Inc.” and changed our trading symbol from “TRCH” to “MMAT”. On June 28, 2021, following the satisfaction of the closing conditions set forth in the Arrangement Agreement, the Arrangement was completed.
+ On June 28, 2021, and pursuant to the completion of the Arrangement Agreement, we began trading on the Nasdaq Capital Market under the symbol “MMAT” while MMI common stock was delisted from the Canadian Securities Exchange (“CSE”). At the same time, Metamaterial Exchangeco Inc., a wholly owned subsidiary of META, started trading under the symbol “MMAX” on the CSE. Certain previous shareholders of MMI elected to convert their common stock of MMI into exchangeable shares in Metamaterial Exchangeco Inc. These exchangeable shares, which can be converted into common stock of META at the option of the holder, are similar in substance to common shares of META and have been included in the determination of outstanding common shares of META.
+For accounting purposes MMI, the legal subsidiary, has been treated as the accounting acquirer and we the legal parent, have been treated as the accounting acquiree. The transaction has been accounted for as a reverse acquisition in accordance with ASC 805 Business Combination. Accordingly, the consolidated financial statements are a continuation of MMI consolidated financial statements prior to June 28, 2021 and exclude the balance sheets, statements of operations and comprehensive loss, statement of changes in stockholders’ equity and statements of cash flows of Torchlight prior to June 28, 2021. See note 4 of our audited consolidated financial statements for additional information.
+ 
+On December 14, 2022, we distributed all of our 165,472,241 outstanding shares of Common Stock of Next Bridge Hydrocarbons Inc. (“Next Bridge”) to holders of our Series A Non-Voting Preferred Stock on a pro rata basis. Next Bridge was originally incorporated in Nevada on August 31, 2021 as OilCo. Holdings, Inc. (and changed its name to Next Bridge Hydrocarbons, Inc. pursuant to its Amended and Restated Articles of Incorporation filed on June 30, 2022) and was previously our wholly owned subsidiary. Immediately after the distribution, Next Bridge became an independent company, and as a result, we have deconsolidated the financial results of Next Bridge from our consolidated financial results from December 14, 2022 onwards. See note 5 of our audited consolidated financial statements for additional information on this transaction.
+ 
+Nanotech acquisition
+ 
+On August 5, 2021, we announced the signing of a definitive agreement to acquire Nanotech. On October 5, 2021, a wholly owned subsidiary of META purchased 100% of Nanotech’s common stock at CA$1.25 per share. In addition, the transaction price included the settlement of certain Nanotech share awards outstanding immediately prior to the closing of the agreement, including the repurchase and cancellation of 303,391 Nanotech restricted share units ("RSU") at a purchase price of CA$1.25 per RSU and the settlement of 4,359,000 Nanotech in-the-money stock options at a purchase price equal to CA$1.25 per option, less the exercise price thereof. The consideration payable to securityholders under the arrangement was payable in cash, resulting in a total purchase price of $72.1 million.
+
+Nanotech is incorporated under the laws of British Columbia, Canada. Nanotech’s head office is located at #505 - 3292 Production Way, Burnaby, BC, Canada V5A 4R4. In addition, Nanotech owns and operates a manufacturing facility located in Thurso, Quebec.
+
+Plasma App Ltd acquisition
+
+On April 1, 2022, we completed the purchase of 100% of the issued and outstanding shares of Plasma App Ltd. ("PAL"). PAL is the developer of PLASMAfusion®, a proprietary manufacturing platform technology, which enables high speed coating of any solid material on any type of substrate. PAL’s team is located at the Rutherford Appleton Laboratories in Oxford, UK.
+ 
+We issued an aggregate of 9,677,419 shares of our common stock to PAL's shareholders at closing, representing a number of shares of common stock equal to $18,000,000 divided by $1.86 (the volume weighted average price for the ten trading days ending on March 31, 2022), with an additional deferral of common stock equal to $2,000,000 divided by $1.86 to be issued subject to satisfaction of certain claims and warranties.
+
+
+Optodot acquisition
+We completed an asset purchase agreement with Optodot Corporation (“Optodot”) on June 22, 2022). Optodot, based in Devens, Massachusetts, USA, is a developer of advanced materials technologies for the battery and other industries.
+ 
+The consideration transferred included the following: A cash payment of $3,500,000 as well as unrestricted common stock equal to $37,500,000 divided by our common stock's daily volume weighted average trading price per share on the Nasdaq Capital Market for a period of twenty trading days ending on June 21, 2022 and restricted common stock, subject to milestones as set forth in the Purchase Agreement, equal to $7,500,000 divided by the daily volume weighted average trading price per share of our Common Stock on the Nasdaq Capital Market for the consecutive period of twenty trading days ending on June 21, 2022.
+
+
+
+
+
+
+Item 1. Financial Statements
+META MATERIALS INC.
+ CONSOLIDATED BALANCE SHEETS
+ 
+
+
+ | As of December 31, | 
+ | 2022 | | | 2021 | 
+Assets | | | | | 
+Current assets: | | | | | 
+Cash and cash equivalents | $ | 10,090,858 | | | $ | 46,645,704 | 
+Restricted cash | | 1,720,613 | | | | 788,768 | 
+Short-term investments | | — | | | | 2,875,638 | 
+Grants receivable | | — | | | | 175,780 | 
+Accounts and other receivables | | 902,718 | | | | 1,665,700 | 
+Notes receivable | | 2,211,900 | | | | — | 
+Inventory | | 468,027 | | | | 265,718 | 
+Prepaid expenses and other current assets | | 7,202,099 | | | | 3,451,367 | 
+Assets held for sale | | — | | | | 75,500,000 | 
+Due from related parties | | 8,461 | | | | 10,657 | 
+Total current assets | | 22,604,676 | | | | 131,379,332 | 
+Intangible assets, net | | 56,313,317 | | | | 28,971,824 | 
+Property, plant and equipment, net | | 42,674,699 | | | | 27,018,114 | 
+Operating lease right-of-use assets | | 5,576,824 | | | | 6,278,547 | 
+Goodwill | | 281,748,466 | | | | 240,376,634 | 
+Total assets | $ | 408,917,982 | | | $ | 434,024,451 | 
+Liabilities and stockholders’ equity | | | | | 
+Current liabilities | | | | | 
+Trade and other payables | $ | 16,694,211 | | | $ | 13,335,470 | 
+Current portion of long-term debt | | 483,226 | | | | 491,278 | 
+Current portion of deferred revenues | | 730,501 | | | | 779,732 | 
+Current portion of deferred government assistance | | 799,490 | | | | 846,612 | 
+Preferred stock liability | | — | | | | 75,500,000 | 
+Current portion of operating lease liabilities | | 967,126 | | | | 663,861 | 
+Asset retirement obligations | | — | | | | 21,937 | 
+Total current liabilities | | 19,674,554 | | | | 91,638,890 | 
+Deferred revenues | | 479,808 | | | | 637,008 | 
+Deferred government assistance | | 319,017 | | | | 3,038 | 
+Deferred tax liabilities | | 3,253,985 | | | | 324,479 | 
+Long-term operating lease liabilities | | 3,375,031 | | | | 3,706,774 | 
+Funding obligation | | 180,705 | | | | 268,976 | 
+Long-term debt | | 3,070,729 | | | | 2,737,171 | 
+Total liabilities | | 30,353,829 | | | | 99,316,336 | 
+Stockholders’ equity | | | | | 
+Common stock - $0.001 par value; 1,000,000,000 shares authorized, 362,247,867 shares issued and outstanding at December 31, 2022, and $0.001 par value; 1,000,000,000 shares authorized, 284,573,316 shares issued and outstanding at December 31, 2021 | | 340,425 | | | | 262,751 | 
+Additional paid-in capital | | 590,962,866 | | | | 463,136,404 | 
+Accumulated other comprehensive loss | | (5,242,810 | ) | | | (296,936 | )
+Accumulated deficit | | (207,496,328 | ) | | | (128,394,104 | )
+Total stockholders’ equity | | 378,564,153 | | | | 334,708,115 | 
+Total liabilities and stockholders’ equity | $ | 408,917,982 | | | $ | 434,024,451 | 
+
+ 
+Commitments and contingencies (note 26)
+Subsequent events (note 27)
+The accompanying notes are an integral part of these consolidated financial statements
+
+
+META MATERIALS INC.
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+ 
+
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+Revenue: | | | | | 
+Product sales | $ | 1,211,746 | | | $ | 407,915 | 
+Development revenue | | 8,988,421 | | | | 3,674,602 | 
+Total revenue | | 10,200,167 | | | | 4,082,517 | 
+Cost of goods sold | | 3,036,190 | | | | 675,973 | 
+Gross profit | | 7,163,977 | | | | 3,406,544 | 
+Operating expenses: | | | | | 
+Selling & marketing | | 6,244,883 | | | | 2,267,354 | 
+General & administrative | | 61,543,282 | | | | 29,699,601 | 
+Research & development | | 22,640,495 | | | | 9,497,427 | 
+Total operating expenses | | 90,428,660 | | | | 41,464,382 | 
+Loss from operations | | (83,264,683 | ) | | | (38,057,838 | )
+Interest expense, net | | (174,234 | ) | | | (1,106,445 | )
+Loss on foreign exchange, net | | (2,054,447 | ) | | | (205,882 | )
+Gain on deconsolidation of wholly-owned subsidiary | | 3,990,737 | | | | — | 
+Loss on financial instruments, net | | — | | | | (40,540,091 | )
+Other expenses, net | | (3,433,757 | ) | | | (11,939,068 | )
+Total other expense, net | | (1,671,701 | ) | | | (53,791,486 | )
+Loss before income taxes | | (84,936,384 | ) | | | (91,849,324 | )
+Income tax recovery | | 5,834,160 | | | | 852,063 | 
+Net loss | $ | (79,102,224 | ) | | $ | (90,997,261 | )
+Other comprehensive (loss) income net of tax | | | | | 
+Foreign currency translation loss | | (4,945,874 | ) | | | (321,663 | )
+Fair value gain on changes of own credit risk | | — | | | | 680,611 | 
+Total other comprehensive (loss) income | | (4,945,874 | ) | | | 358,948 | 
+Comprehensive loss | $ | (84,048,098 | ) | | $ | (90,638,313 | )
+Basic and diluted loss per share (1) | $ | (0.24 | ) | | $ | (0.39 | )
+Weighted average number of shares outstanding - basic and diluted (1) | | 328,350,452 | | | | 232,898,398 | 
+
+ (1) Retroactively restated for the year ended December 31, 2021 for the Torchlight reverse acquisition (“Torchlight RTO”)
+ The accompanying notes are an integral part of these consolidated financial statements
+
+
+META MATERIALS INC.
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+ 
+
+ | | | | | | | | Accumulated | | | | | | 
+ | | | | | | Additional | | Other | | | | | Total | 
+ | Common Stock | | Paid-in | | | Comprehensive | | Accumulated | | Stockholders’ | 
+ | Shares | | Amount | | | Capital | | Income (loss) | | Deficit | | | Equity | 
+Balance, January 1, 2021 | | 154,163,975 | | $ | 132,347 | | $ | 29,022,977 | | $ | (655,884 | ) | | $ | (37,396,843 | ) | $ | (8,897,403 | )
+Net loss | | — | | | — | | | — | | | — | | | | (90,997,261 | ) | | (90,997,261 | )
+Other comprehensive income | | — | | | — | | | — | | | 358,948 | | | | — | | | 358,948 | 
+Conversion of promissory notes | | 20,391,239 | | | 20,391 | | | 23,635,974 | | | — | | | | — | | | 23,656,365 | 
+Conversion of secured debentures | | 14,155,831 | | | 14,156 | | | 22,104,626 | | | — | | | | — | | | 22,118,782 | 
+Conversion of unsecured debentures | | 5,105,338 | | | 5,105 | | | 5,764,370 | | | — | | | | — | | | 5,769,475 | 
+Conversion of long-term debt | | 124,716 | | | 125 | | | 221,718 | | | — | | | | — | | | 221,843 | 
+Conversion of payable to related party | | 150,522 | | | 151 | | | 225,835 | | | — | | | | — | | | 225,986 | 
+Exercise of stock options | | 4,786,927 | | | 4,787 | | | 1,288,476 | | | — | | | | — | | | 1,293,263 | 
+Exercise of warrants | | 361,729 | | | 362 | | | 122,108 | | | — | | | | — | | | 122,470 | 
+Exercise of broker warrants | | 82,494 | | | 83 | | | 16,173 | | | — | | | | — | | | 16,256 | 
+Effect of reverse acquisition | | 82,813,994 | | | 82,814 | | | 369,378,596 | | | — | | | | — | | | 369,461,410 | 
+Shares issued in lieu of operating lease liability | | 1,832,989 | | | 1,833 | | | 2,780,135 | | | — | | | | — | | | 2,781,968 | 
+Stock-based compensation | | 603,562 | | | 597 | | | 8,575,416 | | | — | | | | — | | | 8,576,013 | 
+Balance, December 31, 2021 | | 284,573,316 | | $ | 262,751 | | $ | 463,136,404 | | $ | (296,936 | ) | | $ | (128,394,104 | ) | $ | 334,708,115 | 
+Net loss | | — | | | — | | | — | | | — | | | | (79,102,224 | ) | | (79,102,224 | )
+Other comprehensive loss | | — | | | — | | | — | | | (4,945,874 | ) | | | — | | | (4,945,874 | )
+Issuance of common stock and warrants | | 37,037,039 | | | 37,037 | | | 49,962,963 | | | — | | | | — | | | 50,000,000 | 
+Stock issuance costs | | — | | | — | | | (3,680,666 | ) | | — | | | | — | | | (3,680,666 | )
+Exercise of stock options | | 1,688,538 | | | 1,688 | | | 447,023 | | | — | | | | — | | | 448,711 | 
+Settlement of restricted stock units | | 658,538 | | | 659 | | | (18,686 | ) | | — | | | | — | | | (18,027 | )
+Exercise of warrants | | 1,623,700 | | | 1,624 | | | 167,950 | | | — | | | | — | | | 169,574 | 
+Issuance of stock in connection with acquisitions | | 36,443,684 | | | 36,444 | | | 67,086,069 | | | — | | | | — | | | 67,122,513 | 
+Stock-based compensation | | 223,052 | | | 222 | | | 13,861,809 | | | — | | | | — | | | 13,862,031 | 
+Balance, December 31, 2022 | | 362,247,867 | | $ | 340,425 | | $ | 590,962,866 | | $ | (5,242,810 | ) | | $ | (207,496,328 | ) | $ | 378,564,153 | 
+
+ 
+(1) Retroactively restated from the earliest period presented for the Torchlight reverse acquisition (“Torchlight RTO”)
+ The accompanying notes are an integral part of these consolidated financial statements
+58
+
+
+META MATERIALS INC.
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+Cash flows from operating activities: | | | | | 
+Net loss | $ | (79,102,224 | ) | | $ | (90,997,261 | )
+Adjustments to reconcile net loss to net cash used in operating activities: | | — | | | | 
+Non-cash finance income | | (135,524 | ) | | | (471,689 | )
+Non-cash interest expense | | 403,317 | | | | 902,940 | 
+Non-cash lease expense | | 1,608,992 | | | | 439,791 | 
+Deferred income tax | | (5,834,160 | ) | | | (852,063 | )
+Depreciation and amortization | | 9,272,074 | | | | 3,491,493 | 
+Impairment of assets | | 108,004 | | | | 237,013 | 
+Unrealized foreign currency exchange loss | | 2,050,029 | | | | 407,352 | 
+Loss on financial instruments, net | | — | | | | 40,540,091 | 
+Gain on deconsolidation of wholly-owned subsidiary | | (3,990,737 | ) | | | — | 
+Change in deferred revenue | | (129,679 | ) | | | (679,541 | )
+Non-cash government assistance | | (3,047 | ) | | | (544,932 | )
+Gain on sale of assets | | (783 | ) | | | — | 
+Loss on debt settlement | | — | | | | 19,253 | 
+Stock-based compensation | | 13,184,396 | | | | 1,576,849 | 
+Non-cash consulting expense | | 677,638 | | | | 6,513,378 | 
+Changes in operating assets and liabilities | | (353,090 | ) | | | 4,652,415 | 
+Net cash used in operating activities | | (62,244,794 | ) | | | (34,764,911 | )
+Cash flows from investing activities: | | | | | 
+Purchases of intangible assets | | — | | | | (1,133,894 | )
+Purchases of property, plant and equipment | | (19,587,511 | ) | | | (11,655,417 | )
+Proceeds from sale of property, plant and equipment | | 39,140 | | | | — | 
+Proceeds from (Purchases of) short-term investments | | 2,811,152 | | | | (2,889,852 | )
+Proceeds from below-market capital government loan | | 1,071,862 | | | | — | 
+Acquisition of business, net of cash acquired | | (3,486,906 | ) | | | (66,131,025 | )
+Loan advance pursuant to deconsolidation | | (319,987 | ) | | | — | 
+Proceeds from reverse takeover | | — | | | | 146,954,733 | 
+Net cash (used in) provided by investing activities | | (19,472,250 | ) | | | 65,144,545 | 
+Cash flows from financing activities: | | | | | 
+Proceeds from long-term debt | | — | | | | 1,127,151 | 
+Proceeds from the issuance of common stock and warrants | | 50,000,000 | | | | 
+Stock issuance costs paid on the issuance of common stock and warrants | | (3,680,666 | ) | | | — | 
+Repayments of long-term debt | | (552,579 | ) | | | (1,090,047 | )
+Proceeds from government grants | | — | | | | 223,384 | 
+Proceeds from unsecured promissory notes | | — | | | | 13,963,386 | 
+Proceeds from stock option exercises | | 448,711 | | | | 1,293,263 | 
+Repurchases of common stock for income tax withheld upon settlement of restricted stock units | | (18,027 | ) | | | — | 
+Proceeds from warrant exercises | | 169,574 | | | | 138,726 | 
+Net cash provided by financing activities | | 46,367,013 | | | | 15,655,863 | 
+Net (decrease) increase in cash, cash equivalents and restricted cash | | (35,350,031 | ) | | | 46,035,497 | 
+Cash, cash equivalents and restricted cash at beginning of the year | | 47,434,472 | | | | 1,395,683 | 
+Effects of exchange rate changes on cash, cash equivalents and restricted cash | | (272,970 | ) | | | 3,292 | 
+Cash, cash equivalents and restricted cash at end of the year | $ | 11,811,471 | | | $ | 47,434,472 | 
+Supplemental cash flow information | | | | | 
+Accrued purchases of property, equipment and patents | | 2,270,887 | | | | 1,692,969 | 
+Right-of-use assets obtained in exchange for lease liabilities | | 288,499 | | | | 3,590,148 | 
+Right-of-use assets and prepaid expenses recognized in exchange for common stock | | — | | | | 2,149,381 | 
+Settlement of liabilities in common stock | | — | | | | 51,992,451 | 
+Interest paid on debt | | — | | | | 64,528 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements
+
+
+META MATERIALS INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 1. Corporate information
+Meta Materials Inc. (also referred to herein as the “Company”, “META”, “we”, “us”, “our”, or “Resulting Issuer”) is a smart materials and photonics company specializing in metamaterial research and products, nanofabrication, and computational electromagnetics. Our registered office is located at 85 Swanson Road, Boxborough, Massachusetts 01719 and our principal executive office is located at 60 Highfield Park Drive, Dartmouth, Nova Scotia, Canada.
+On December 14, 2020, we (formerly known as “Torchlight Energy Resources, Inc.” or “Torchlight”) and our subsidiaries, Metamaterial Exchangeco Inc. (formerly named 2798832 Ontario Inc., “Canco”) and 2798831 Ontario Inc. (“Callco”), entered into an Arrangement Agreement (the “Arrangement Agreement”) with Metamaterial Inc., an Ontario corporation headquartered in Nova Scotia, Canada (“MMI”), to acquire all of the outstanding common stock of MMI by way of a statutory plan of arrangement (the “Arrangement”) under the Business Corporations Act (Ontario), on and subject to the terms and conditions of the Arrangement Agreement (the “Torchlight RTO”). On June 25, 2021, we implemented a reverse stock split. On June 28, 2021, following the satisfaction of the closing conditions set forth in the Arrangement Agreement, the Arrangement was completed, and we changed our name from “Torchlight Energy Resources, Inc.” to “Meta Materials Inc.” and changed our trading symbol from “TRCH” to “MMAT”.
+On June 28, 2021, and pursuant to the completion of the Arrangement Agreement, we began trading on the Nasdaq Capital Market under the symbol “MMAT” while MMI common stock was delisted from the Canadian Securities Exchange (“CSE”) and at the same time, Metamaterial Exchangeco Inc., a wholly-owned subsidiary of META, started trading under the symbol “MMAX” on the CSE. Certain previous shareholders of MMI elected to convert their common stock of MMI into exchangeable shares in Metamaterial Exchangeco Inc. These exchangeable shares, which can be converted into common stock of META at the option of the holder, are similar in substance to common shares of META and have been included in the determination of outstanding common shares of META.
+For accounting purposes, the legal subsidiary, MMI, has been treated as the accounting acquirer and the Company, the legal parent, has been treated as the accounting acquiree. The transaction has been accounted for as a reverse acquisition in accordance with ASC 805 Business Combinations. Accordingly, these consolidated financial statements are a continuation of MMI consolidated financial statements prior to June 28, 2021 and exclude the balance sheets, statements of operations and comprehensive loss, statement of changes in stockholders’ equity and statements of cash flows of Torchlight prior to June 28, 2021. See note 4 for additional information.
+
+On December 14, 2022, we distributed all of the 165,472,241 outstanding shares of Common Stock of Next Bridge Hydrocarbons Inc. (“Next Bridge”), incorporated in Nevada on August 31, 2021, as OilCo. Holdings, Inc., as a wholly owned subsidiary of META, (and changed its name to Next Bridge Hydrocarbons, Inc. pursuant to its Amended and Restated Articles of Incorporation filed on June 30, 2022), on a pro rata basis to holders of our Series A Non-Voting Preferred Stock. Immediately after the distribution, Next Bridge became an independent company, and as a result, we have deconsolidated the financial results of Next Bridge from our consolidated financial results from December 14, 2022 onwards. See note 5 for additional information on this transaction.
+
+ 
+
+
+2. Going Concern
+
+At each reporting period, we evaluate whether there are conditions or events that raise substantial doubt about our ability to continue as a going concern within one year after the date that the financial statements are issued. Our evaluation entails analyzing prospective operating budgets and forecasts for expectations of our cash needs and comparing those needs to the current cash and cash equivalent balances. We are required to make certain additional disclosures if we conclude substantial doubt exists and it is not alleviated by our plans or when our plans alleviate substantial doubt about our ability to continue as a going concern.
+
+In accordance with Accounting Standards Codification ("ASC") 205-40, going concern, we evaluated whether there are conditions and events, considered in the aggregate, that raise substantial doubt about our ability to continue as a going concern within one year after the date that these consolidated financial statements are issued. This evaluation initially does not take into consideration the potential mitigating effect of management’s plans that have not been fully implemented as of the date the financial statements are issued. When substantial doubt exists under this methodology, management evaluates whether the mitigating effect of its plans sufficiently alleviates substantial doubt about our ability to continue as a going concern. The mitigating effect of management’s plans, however, is only considered if both (1) it is probable that the plans will be effectively implemented within one year after the date that the financial statements are issued, and (2) it is probable that the plans, when implemented, will mitigate the relevant conditions or events that raise substantial doubt about the entity’s ability to continue as a going concern within one year after the date that these consolidated financial statements are issued. In performing its analysis, management excluded certain elements of its operating plan that cannot be considered probable.
+
+We have incurred net losses of $79.1 million and $91.0 million for the years ended December 31, 2022 and 2021, respectively, and have an accumulated deficit of $207.5 million as of December 31, 2022. Our expectation to generate operating losses and negative operating cash flows in the future and the need for additional funding to support our planned operations, raise substantial doubt regarding our ability to continue as a going concern for a period of one year after the date that these consolidated financial statements are issued. Management's plans to alleviate the conditions that raise substantial doubt include reduced spending, and the pursuit of additional capital. Management has concluded the likelihood that its plan to successfully obtain sufficient funding from one or more of these sources, or adequately reduce expenditures, while highly possible, is less than probable because these plans are not entirely within our control and/or have not been approved by our Board of Directors as of the date of these consolidated financial statements.. If we are unsuccessful in obtaining financing, we will be required to assess alternative forms of action. Accordingly, we have concluded that substantial doubt exists about our ability to continue as a going concern for a period of at least 12 months from the date of issuance of these consolidated financial statements.
+
+The accompanying financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities in the ordinary course of business. The financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result from the outcome of the uncertainties described above. These adjustments may be material.
+
+ 
+
+
+3. Significant accounting policies
+
+Basis of presentation – These consolidated financial statements and related notes are presented in accordance with accounting principles generally accepted in the United States of America (“US GAAP”). Our fiscal year-end is December 31. The consolidated financial statements include the accounts of Meta Materials Inc. and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated on consolidation.
+
+
+Functional currency – Items included in the consolidated financial statements of each of META and its subsidiaries are measured using the currency of the primary economic environment in which the entity operates (the ‘functional currency’).
+
+Reporting currency – The reporting currency of META is in US Dollars. The consolidated financial statements, and the financial information contained herein, are reported in US dollars, except share amounts or as otherwise stated, as we believe this results in more relevant and reliable information for its financial statement users.
+•transactions and balances – Foreign currency transactions are recorded into the functional currency using the exchange rates prevailing at the dates of the associated transactions. Foreign exchange gains and losses resulting from the settlement of such transactions and from the measurement at period end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognized in the statement of operations.
+•translation – The results and financial position of all subsidiaries that have a functional currency different from the presentation currency are translated into the presentation currency as follows:
+•Company’s assets and liabilities are translated at the closing rate at the date of the balance sheet;
+•Company’s income and expenses are translated at average exchange rates;
+•Company’s resulting exchange differences are recognized in other comprehensive income, a separate component of equity.
+
+
+Use of estimates – The preparation of these consolidated financial statements in conformity with US GAAP requires management to make estimates and certain assumptions that affect the amounts reported in these consolidated financial statements and accompanying notes. Actual results could differ from these estimates. Significant items subject to such estimates and assumptions include the valuation of goodwill, the valuation of net assets acquired via business combinations, and the preparation of the consolidated financial statements on a going concern basis.
+
+
+Cash and cash equivalents – We consider all highly liquid investments with a maturity of three months or less when purchased to be cash equivalents.
+
+
+Inventory – Inventory is measured at the lower of cost and net realizable value. Cost is determined using the first-in, first-out method (FIFO) for all inventory. Inventory consumed during research and development activities is recorded as a research and development expense.
+
+
+Notes receivable - Notes receivable consists of an amount due from Next Bridge, which was previously a wholly-owned subsidiary of Meta, until the completion of the spin-off transaction on December 14, 2022. The note is partially secured by a combination of Meta’s common shares and an interest in the Orogrande Project Property. The note receivable has been recognized at its fair value as part of the deconsolidation of Next Bridge from our consolidated financial results. At subsequent reporting periods, the note will be measured net of any credit losses in accordance with ASC 326 Financial Instruments – Credit Losses. See note 5 for further details. As all amounts on our notes receivable and all accrued interest are due in 2023, we have not recorded an allowance for losses on notes receivable as of December 31, 2022.
+
+Long-lived assets – Long-lived assets, such as property, plant and equipment, and intangible assets subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. If circumstances require a long-lived asset or asset group be tested for possible impairment, we first compare undiscounted cash flows expected to be generated by that asset or asset group to its carrying amount. If the carrying amount of the long-lived asset or asset group is not recoverable on an undiscounted cash flow basis, an impairment is recognized to the extent that the carrying amount exceeds its fair value. Fair value is determined through various valuation techniques including discounted cash flow models, quoted market values and third-party independent appraisals, as considered necessary.
+
+
+ 
+Assets held for sale – Assets held for sale are measured at the lower of their carrying amount or fair value less cost to sell. Such amounts have been derecognized as part of the deconsolidation of Next Bridge on December 14, 2022.
+
+Goodwill – Goodwill represents the excess of the purchase price in a business combination over the fair value of net tangible and intangible assets acquired. The carrying amount of goodwill is periodically reviewed for impairment (at a minimum annually) and whenever events or changes in circumstances indicate that the carrying value of this asset may not be recoverable.
+
+We first perform a qualitative assessment to test the reporting unit’s goodwill for impairment. Based on the qualitative assessment, if it is determined that the fair value of our reporting unit is more likely than not (i.e., a likelihood of more than 50 percent) to be less than its carrying amount, the quantitative assessment of the impairment test is performed. In the quantitative assessment, we compare the fair value of our reporting unit to its carrying value. If the fair value of the reporting unit exceeds its carrying value, goodwill is not considered impaired and we are not required to perform further testing. If the carrying value of the net assets of the reporting unit exceeds its fair value, then an impairment loss equal to the difference, but not exceeding the total carrying value of goodwill allocated to the reporting unit, would be recorded.
+
+
+Acquired intangibles – In accordance with ASC 805 Business Combinations, we allocate the purchase price of acquired companies to the tangible and intangible assets acquired and the liabilities assumed based on their estimated fair values. Such valuations may require management to make significant estimates and assumptions, especially with respect to intangible assets. Acquired intangible assets consist of acquired technology and customer relationships. In valuing acquired intangible assets, we make assumptions and estimates based in part on projected financial information, which makes assumptions and estimates inherently uncertain, particularly for early-stage technology companies. The significant estimates and assumptions used by us in the determination of the fair value of acquired intangible technology assets include the revenue growth rate and the discount rate. The significant estimates and assumptions used by us in the determination of the fair value of acquired customer contract intangible assets include the revenue growth rate and the discount rate.
+
+As a result of the judgments that need to be made, we obtain the assistance of independent valuation firms. We complete these assessments as soon as practical after the closing dates. Any excess of the purchase price over the estimated fair values of the identifiable net assets acquired is recorded as goodwill.
+
+
+Business combinations - We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill to reporting units based on the expected benefit from the business combination. Allocation of purchase consideration to identifiable assets and liabilities affects the amortization expense, as acquired finite-lived intangible assets are amortized over the useful life, whereas any indefinite-lived intangible assets, including goodwill, are not amortized. During the measurement period, which is not to exceed one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings. Acquisition-related expenses are recognized separately from business combinations and are expensed as incurred.
+
+
+Leases -  We are a lessee in several non-cancellable operating leases for buildings. We account for leases in accordance with ASC 842 Leases. We determine if an arrangement is or contains a lease at contract inception. We recognize a right-of-use (ROU) asset and a lease liability at the lease commencement date.
+
+For operating leases, the lease liability is initially and subsequently measured at the present value of the unpaid lease payments at the lease commencement date. Lease expense for lease payments is recognized on a straight-line basis over the lease term. For finance leases, the lease liability is initially measured in the same manner and date as for operating leases and is subsequently measured at amortized cost using the effective-interest rate method.
+
+The ROU asset is initially measured at cost, which comprises the initial amount of the lease liability adjusted for lease payments made at or before the lease commencement date, plus any initial direct costs incurred less any lease incentives received. The ROU asset is subsequently measured throughout the lease term at the carrying amount of the lease liability, plus initial direct costs, plus (minus) any prepaid (accrued) lease payments, less the unamortized balance of lease incentives received.
+
+We do not record leases on our consolidated balance sheet with a term of one year or less. We elected a package of transition practical expedients, which included not reassessing whether any expired or existing contracts are or contain leases, not reassessing the lease classification of expired or existing leases, and not reassessing initial direct costs for existing leases. We also elected a practical expedient to not separate lease and non-lease components.
+
+
+ 
+Government grants and assistance – Government grants are recognized at their fair value in the period when there is reasonable assurance that the conditions attaching to the grant will be met and that the grant will be received. Grants are recognized as income over the periods necessary to match them with the related costs that they are intended to compensate. When the grant relates to an asset, it is recognized as income over the useful life of the depreciable asset by way of government assistance.
+
+We also receive interest-free repayable loans from the Atlantic Canada Opportunities Agency (“ACOA”), a government agency. The benefit of the loan at a below-market rate of interest is treated as a government grant, measured as the difference between proceeds received and the fair value of the loan based on prevailing market interest rates. The fair value of the components, being the loan and the government grant, must be calculated initially in order to allocate the proceeds to the components. The valuation is complex, as there is no active trading market for these items and is based on unobservable inputs.
+
+
+Revenue recognition – Our revenue is generated from product sales as well as development revenue. We recognize revenue when it satisfies performance obligations under the terms of its contracts, and control of its products is transferred to its customers in an amount that reflects the consideration we expect to receive from its customers in exchange for those products or services.
+
+Revenue from the sale of prototypes and finished products is recognized at the point in time when control of the asset is transferred to the customer, generally on delivery of goods. We consider whether there are other obligations in the contract that are separate performance obligations to which a portion of the transaction price needs to be allocated. In determining the transaction price for the sale of prototypes, we consider the effects of variable consideration, the existence of significant financial components, non-cash consideration and consideration payable to the customer (if any).
+
+Revenue from development activities is recognized over time, using an output method to measure progress towards complete satisfaction of the research activities and associated performance obligations identified within each contract have been satisfied.
+
+
+Deferred revenue – Consist of fees invoiced or paid by our customers for which the associated performance obligations have not been satisfied and revenue has not been recognized based on our revenue recognition criteria described above.
+
+Deferred revenue is reported in a net position on an individual contract basis at the end of each reporting period and is classified as current in the consolidated balance sheet when the revenue recognition associated with the related customer payments and invoicing is expected to occur within one year of the balance sheet date and as long-term when the revenue recognition associated with the related customer payments and invoicing is expected to occur more than one year from the balance sheet date.
+
+
+Fair value measurements – We use valuation approaches that maximize the use of observable inputs and minimize the use of unobservable inputs to the extent possible. We determine fair value based on assumptions that market participants would use in pricing an asset or liability in the principal or most advantageous market. When considering market participant assumptions in fair value measurements, the following fair value hierarchy distinguishes between observable and unobservable inputs, which are categorized in one of the following levels:
+•Level 1 inputs: Unadjusted quoted prices in active markets for identical assets or liabilities accessible to the reporting entity at the measurement date.
+•Level 2 inputs: Other than quoted prices included in Level 1 inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the asset or liability.
+•Level 3 inputs: Unobservable inputs for the asset or liability used to measure fair value to the extent that observable inputs are not available, thereby allowing for situations in which there is little, if any, market activity for the asset or liability at measurement date.
+
+Fair value option – Under the Fair Value Option Subsections of ASC Subtopic 825-10, Financial Instruments – Overall, we have the irrevocable option to report certain financial assets and financial liabilities at fair value on an instrument-by-instrument basis, with changes in fair value reported in the statement of operations. Any changes in the fair value of liabilities resulting from changes in instrument-specific credit risk are reported in other comprehensive income.
+
+
+Research and development – Research and development activities are expensed as incurred.
+
+
+Basic and diluted earnings (loss) per share – Basic earnings (loss) per common share is computed by dividing net income (loss) available to common stockholders by the weighted average number of common shares outstanding during the period. Diluted earnings (loss) per common share gives effect to all dilutive potential common stock outstanding during the period including stock options, deferred stock units (“DSUs”), Restricted Share Units ("RSUs"), and warrants which are calculated using the treasury stock method,
+ 
+and convertible debt instruments using the if-converted method. Diluted earnings (loss) per common share excludes all dilutive potential shares if their effect is anti-dilutive.
+
+
+Stock based compensation – We recognize compensation expense for equity awards based on the grant date fair value of the award. We recognize stock-based compensation expense for awards granted to employees that have a graded vesting schedule based on a service condition only on a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was, in substance, multiple awards (the “graded-vesting attribution method”), based on the estimated grant date fair value for each separately vesting tranche. For equity awards with a graded vesting schedule and a combination of service and performance conditions, we recognize stock-based compensation expense using a graded-vesting attribution method over the requisite service period when the achievement of a performance-based milestone is probable, based on the relative satisfaction of the performance condition as of the reporting date.
+
+For stock-based awards granted to consultants and non-employees, compensation expense is recognized using the graded-vesting attribution method over the period during which services are rendered by such consultants and non-employees until completed.
+The measurement date for each tranche of employee awards is the date of grant, and stock-based compensation costs are recognized as expense over the employees’ requisite service period, which is the vesting period.
+
+We estimate the grant date fair value of awards using the Black-Scholes option pricing model and estimate the number of forfeitures expected to occur. We may use other pricing models when applicable such as Monte-Carlo simulation. See note 13 for our assumptions used in connection with option grants made during the periods covered by these consolidated financial statements.
+
+
+Income taxes – Income taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss carry forwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. A valuation allowance is established to reduce deferred tax assets if it is more likely than not that the related tax benefits will not be realized.
+
+Authoritative guidance for uncertainty in income taxes requires that we recognize the financial statement benefit of a tax position only after determining that the relevant tax authority would more likely than not sustain the position following an examination. Management has reviewed our tax positions and determined there were no uncertain tax positions requiring recognition in the consolidated financial statements. Company tax returns remain subject to Federal, Provincial and State tax examinations. Generally, the applicable statutes of limitation are three to four years from their respective filings.
+
+Recently adopted accounting pronouncements
+
+ASU 2019-12
+
+Effective January 1, 2021, we adopted ASU 2019-12 on a prospective basis. The new standard was issued in December 2019 with the intent of simplifying the accounting for income taxes. The accounting update removes certain exceptions to the general principles in Accounting Standards Codification (ASC) Topic 740 Income Taxes and provides simplification by clarifying and amending existing guidance. The adoption of this ASU did not have a material impact on our consolidated financial statements.
+ASU 2020-09
+
+In October 2020, the FASB issued ASU 2020-09, Debt (Topic 470): Amendments to SEC Paragraphs Pursuant to SEC Release No. 33-10762. The amendments in ASU 2020-09 amend rules focused on the provision of material, relevant, and decision-useful information regarding guarantees and other credit enhancements and eliminate prescriptive requirements that have imposed unnecessary burdens and incentivized issuers of securities with guarantees and other credit enhancements to offer and sell those securities on an unregistered basis. The adopted amendments relate to the financial disclosure requirements for guarantors and issuers of guaranteed securities registered or being registered in Rule 3-10 of Regulation S-X, and affiliates whose securities collateralize securities registered or being registered in Rule 3-16 of Regulation S-X. The amendments in ASU 2020-09 are effective for public business entities for annual periods beginning after December 15, 2020. We adopted ASU 2020-09 on January 1, 2021 and its adoption did not have a material effect on our consolidated financial statements and related disclosures.
+ASU 2020-10
+
+In October 2020, the FASB issued ASU 2020-10, Codification Improvements, which updated various codification topics by clarifying or improving disclosure requirements to align with the SEC’s regulations. The amendments in ASU 2020-10 are effective for annual periods beginning after December 15, 2020, for public business entities. We adopted ASU 2020-10 on January 1, 2021 and its adoption did not have a material effect on our consolidated financial statements and related disclosures.
+ASU 2021-04
+
+In April 2021, the FASB issued ASU 2021-04, Earnings Per Share (Topic 260). This guidance clarifies and reduces diversity in an issuer’s accounting for modifications or exchanges of freestanding equity-classified written call options due to a lack of explicit guidance in the FASB Codification. This guidance is effective for the Company's interim and annual reporting periods beginning after December 15, 2021. We adopted ASU 2021-04 on January 1, 2022 and its adoption did not have a material effect on our consolidated financial statements and related disclosures.
+ASU 2021-10
+
+In November 2021, the FASB issued ASU 2021-10, Government Assistance (Topic 832): Disclosure by Business Entities about Government Assistance, which improves the transparency of government assistance received by most business entities by requiring the disclosure of: (1) the types of government assistance received; (2) the accounting for such assistance; and (3) the effect of the assistance on a business entity's financial statements. This guidance is effective for the Company's interim and annual reporting periods beginning after December 15, 2021. We adopted ASU 2021-10 on January 1, 2022 and its adoption did not have a material effect on our consolidated financial statements and related disclosures.
+ASU 2022-03
+
+In June 2022, the FASB issued ASU 2022-03, which amends Fair Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions (“ASU 2022-03”). ASU 202203 clarifies guidance for fair value measurement of an equity security subject to a contractual sale restriction and establishes new disclosure requirements for such equity securities. We elected to early adopt ASU 2022-03 on January 1, 2022, and applied the amendment in measuring consideration transferred in the acquisition of the assets and IP of Optodot Corporation. As a result, we have not applied a discount for lack of marketability associated with the shareholder specific restriction for shares issued as consideration in the Optodot acquisition. See note 4.
+
+Accounting pronouncements not yet adopted
+
+ASU 2021-08
+
+In October 2021, the FASB issued ASU 2021-08, Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers, which clarifies that an acquirer of a business should recognize and measure contract assets and contract liabilities in a business combination in accordance with ASC Topic 606, Revenue from Contracts with Customers. This guidance will be effective for our interim and annual reporting periods beginning after December 15, 2022. We do not anticipate the adoption of this standard on January 1, 2023 will have a material effect on our consolidated financial statements and related disclosures.
+
+
+ 4. Acquisitions
+
+Plasma acquisition
+
+On April 1, 2022, we completed the purchase of 100% of the issued and outstanding shares of Plasma App Ltd. ("PAL"). PAL is the developer of PLASMAfusion®, a proprietary manufacturing platform technology, which enables high speed coating of any solid material on any type of substrate. PAL’s team is located at the Rutherford Appleton Laboratories in Oxford, UK.
+
+At closing, we issued to PAL's shareholders an aggregate of 9,677,419 shares of our common stock, representing a number of shares of common stock equal to $18,000,000 divided by $1.86 (the volume weighted average price for the ten trading days ending on March 31, 2022) with an additional deferral of common stock equal to $2,000,000 divided by $1.86 to be issued subject to satisfaction of certain claims and warranties. The acquisition was accounted for as a business combination in accordance with ASC 805.
+
+66
+ 
+Deferred Consideration
+We are obligated to issue to PAL shareholders an aggregate of 1,075,268 shares of our common stock on October 1, 2023, subject to reductions arising from general and specific claims and warranties that might arise of more than $20,000 and less than or equal to $2,000,000. The number of shares were calculated as $2,000,000 divided by $1.86 (the volume weighted average price for the ten trading days ending on March 31, 2022). We have classified the deferred consideration in the consolidated statement of changes in stockholders’ equity since the number of shares to be issued is contractually specified in the agreement and is not contingent on a future event or condition being met.
+
+We recorded provisional estimated fair values for the assets purchased, liabilities assumed and purchase consideration as of the date of the acquisition during the second quarter of 2022, resulting in goodwill of $10.1 million. The determination of fair value required management to make significant estimates and assumptions based on information that was available at the time the consolidated financial statements were prepared.
+
+As of December 31, 2022, we have made the following changes, based on information as of the acquisition date, to the provisional purchase price allocation previously disclosed in the condensed consolidated interim financial statements for the three and nine months ended September 30, 2022 in Form 10-Q:
+•We have increased intangibles by $5.9 million.
+•We have reduced goodwill by $2.7 million.
+•We recognized a deferred tax liability of $3.2 million.
+
+The following table presents the provisional purchase price allocation as of December 31, 2022:
+
+
+ | Amount (USD) | 
+Fair value of common stock issued (1) | $ | 15,290,320 | 
+Fair value of deferred consideration (2) | | 1,698,926 | 
+ | $ | 16,989,246 | 
+Net assets of PAL: | | 
+Cash and cash equivalents | $ | 13,822 | 
+Other assets | | 36,104 | 
+Intangibles | | 12,600,000 | 
+Deferred tax liability | | (3,150,000 | )
+Goodwill | | 7,489,320 | 
+ | $ | 16,989,246 | 
+
+(1) The fair value of the common stock issued or to be issued was determined by multiplying 9,677,419 shares, calculated as per the purchase agreement, by the closing share price on April 1, 2022 of $1.60. We recognized $9,677 in common stock and $15,280,645 in additional paid in capital in the consolidated statements of changes in stockholders' equity.
+(2) The estimated fair value of the deferred consideration on acquisition date was determined by multiplying 1,075,268 shares, calculated as per the purchase agreement, by the closing share price on April 1, 2022 of $1.60. We recognized the full amount in additional paid in capital in the consolidated statements of changes in stockholders' equity.
+
+
+Acquired intangible assets totaling $12.6 million relate to a developed technology intangible asset. The significant estimates and assumptions used by the Company in the determination of the fair value of the acquired developed technology intangible asset includes the revenue growth rate and the discount rate.
+
+The goodwill resulting from the transaction is attributable to assembled workforce, synergies, technical know-how and expertise.
+
+The estimated fair value of acquired assets and liabilities was measured as at the acquisition date based on a valuation report provided by a third-party valuation expert. The preliminary purchase price allocation is subject to change as additional information becomes available concerning the tax basis of the assets acquired. Any additional adjustments to the purchase price allocation will be made as soon as practicable but no later than one year from the date of acquisition.
+
+Revenue and net losses from the PAL acquisition since the acquisition date included in the consolidated statements of operations and comprehensive loss for the year ended December 31, 2022 were $Nil and $1 million respectively.
+ 
+
+Unaudited pro forma results of operations for the years ended December 31, 2022 and 2021 are included below as if the Plasma acquisition occurred on January 1, 2021. This summary of the unaudited pro forma results of operations is not necessarily indicative of what our results of operations would have been had PAL been acquired at the beginning of 2021, nor does it purport to represent results of operations for any future periods.
+
+
+ | Year ended | | | Year ended | 
+ | December 31, 2022 | | | December 31, 2021 | 
+ | META excluding PAL | | | PAL | | | Total | | META | | PAL | | | Total | 
+Revenue | $ | 10,200,167 | | | $ | — | | $ | 10,200,167 | | $ | 4,082,517 | | | $ | — | | $ | 4,082,517 | 
+Loss from operations | | (81,818,759 | ) | | | (567,475 | ) | | (82,386,234 | ) | | (38,057,838 | ) | | | (16,822 | ) | | (38,074,660 | )
+Net loss | | (78,147,504 | ) | | | (76,271 | ) | | (78,223,775 | ) | | (90,997,261 | ) | | | (16,822 | ) | | (91,014,083 | )
+Add back: acquisition cost | | 264,883 | | | | 16,663 | | | 281,546 | | | — | | | | — | | | — | 
+Deduct: additional depreciation and amortization | | — | | | | (1,178,859 | ) | | (1,178,859 | ) | | — | | | | (1,178,859 | ) | | (1,178,859 | )
+Adjusted net loss | $ | (77,882,621 | ) | | $ | (1,238,467 | ) | $ | (79,121,087 | ) | $ | (90,997,261 | ) | | $ | (1,195,681 | ) | $ | (92,192,942 | )
+
+Acquisition cost includes legal, accounting, and other professional fees related to the Plasma acquisition.
+Optodot acquisition
+On June 22, 2022, we completed an asset purchase agreement with Optodot Corporation ("Optodot"), a developer of advanced materials technologies, to acquire certain assets related to patents and intellectual property for the battery and other industries.
+Consideration transferred consisted of the following:
+•Cash payment of $3,500,000.
+•Unrestricted common stock equal to $37,500,000 divided by the daily volume weighted average trading price per share of our common stock on the Nasdaq Capital Market for the consecutive period of twenty trading days ending on June 21, 2022.
+•Restricted common stock equal to $7,500,000 divided by the daily volume weighted average trading price per share of our Common Stock on the Nasdaq Capital Market for the consecutive period of twenty trading days ending on June 21, 2022. The restricted stock is subject to certain vesting milestones as set forth in the Purchase Agreement and outlined below.
+
+The acquisition was accounted for as a business combination in accordance with ASC 805. The transaction was structured as a tax-free re-organization pursuant to Internal Revenue Code Section 368(a)(1)(c). Accordingly, the tax basis of net assets acquired retain their carryover tax basis and holding period.
+
+We recorded provisional estimated fair values for the assets purchased, liabilities assumed and purchase consideration as of the date of the acquisition during the second quarter of 2022, resulting in goodwill of $32.2 million. The determination of fair value required management to make significant estimates and assumptions based on information that was available at the time the consolidated financial statements were prepared.
+
+As of December 31, 2022, we have made the following changes, based on information as of the acquisition date, to the provisional purchase price allocation previously disclosed in the condensed consolidated interim financial statements for the three and nine months ended September 30, 2022 in Form 10-Q:
+•We have increased intangibles by $1.8 million
+•We have increased goodwill by $3.1 million
+•We recognized a deferred tax liability of $4.9 million. 
+
+ 
+The following table presents the revised purchase price allocation:
+
+
+ | Amount | 
+Fair value of unrestricted common stock issued or to be issued (1) | $ | 41,791,115 | 
+Fair value of restricted common stock issued (2) | | 8,342,152 | 
+Cash consideration | | 3,500,000 | 
+Total consideration | $ | 53,633,267 | 
+Net assets of Optodot: | | 
+Intangibles | | 23,300,000 | 
+Deferred tax liability | | (4,893,000 | )
+Goodwill | | 35,226,267 | 
+ | $ | 53,633,267 | 
+
+(1) The fair value of the unrestricted common stock issued or to be issued was determined by multiplying 22,348,190 shares, calculated as per the purchase agreement, by the closing share price on June 22, 2022 of $1.87. We have issued 22,305,221 shares on the closing date of June 22, 2022 and 42,969 shares are yet to be issued. As of December 31, 2022, we recognized $22,305 in common stock and $41,768,810 in additional paid in capital in the consolidated statements of changes in stockholders' equity.
+(2) The fair value of the restricted common stock issued was determined by multiplying 4,461,044 shares, calculated as per the purchase agreement, by the closing share price on June 22, 2022 of $1.87. The restricted common stock is subject to vesting as follows:
+ a) Two thirds or 2,974,029 shares shall be subject to the limitations on transfer until the earlier of (A) META's achievement of at least $5,000,000 in revenue, from any third-party source, to the extent resulting from the sale or license of Optodot IP during the year ended June 22, 2023 and (B) June 22, 2023;
+ b) One third or 1,487,015 shares shall be subject to the limitations on transfer until the earlier of (A) META's achievement of at least $10,000,000 in revenue, from any third-party source, to the extent resulting from the sale or license of Optodot IP during the year ended June 22, 2024 and (B) June 22, 2024;
+
+
+We applied the requirements of ASU 2022-03 in measuring the share consideration transferred.
+
+Deferred Consideration
+
+Based on the terms of the agreement outlined above and our consideration of ASC 805, we have classified the deferred consideration in the consolidated statement of changes in stockholders’ equity since the restricted shares have been already issued and the restriction will be removed at the end of the period specified.
+
+Acquired intangible assets totaling $23.3 million relate to a developed technology intangible asset. The significant estimates and assumptions used by the Company in the determination of the fair value of the acquired developed technology intangible asset includes the revenue growth rate and the discount rate.
+
+The goodwill resulting from the transaction is attributable to assembled workforce, synergies, technical know-how and expertise.
+
+The preliminary purchase price allocation is subject to change as additional information becomes available concerning the tax basis of the assets acquired. Any additional adjustments to the purchase price allocation will be made as soon as practicable but no later than one year from the date of acquisition.
+
+The estimated fair value of acquired assets and liabilities has been measured as at the acquisition date based on a valuation report provided by a third-party valuation expert.
+Revenue and net losses from the Optodot acquisition since the acquisition date included in the consolidated statements of operations and comprehensive loss for the year ended December 31, 2022 were $0.9 million and $nil respectively.
+
+Unaudited pro forma results of operations for the years ended December 31, 2022 and 2021 are included below as if the Optodot acquisition occurred on January 1, 2021. This summary of the unaudited pro forma results of operations is not necessarily indicative of what our results of operations would have been had Optodot been acquired at the beginning of 2021, nor does it purport to represent results of operations for any future periods.
+
+ 
+
+ | Year ended | | | Year ended | 
+ | December 31, 2022 | | | December 31, 2021 | 
+ | META excluding Optodot | | | Optodot | | | Total | | META | | Optodot | | | Total | 
+Revenue | $ | 10,120,865 | | | $ | 121,174 | | $ | 10,242,038 | | $ | 4,082,517 | | | $ | 127,090 | | $ | 4,209,607 | 
+Loss from operations | | (80,158,252 | ) | | | (2,816,441 | ) | | (82,974,694 | ) | | (38,057,838 | ) | | | (3,475,074 | ) | | (41,532,912 | )
+Net loss | | (76,075,095 | ) | | | (2,731,989 | ) | | (78,807,085 | ) | | (90,997,261 | ) | | | 4,652,718 | | | (86,344,543 | )
+Add back: acquisition cost | | 700,404 | | | | 97,712 | | | 798,116 | | | — | | | | — | | | — | 
+Deduct: additional depreciation and amortization | | — | | | | (2,330,000 | ) | | (2,330,000 | ) | | — | | | | (2,330,000 | ) | | (2,330,000 | )
+Adjusted net loss | $ | (75,374,692 | ) | | $ | (4,964,277 | ) | $ | (80,338,969 | ) | $ | (90,997,261 | ) | | $ | 2,322,718 | | $ | (88,674,543 | )
+
+Acquisition cost includes legal, accounting, and other professional fees related to the Optodot acquisition.
+Torchlight RTO
+
+As discussed in note 1, on June 28, 2021, we completed the acquisition of Torchlight Energy Resources, Inc. June 28, 2021. Pursuant to ASC 805 Business Combinations, the transaction was accounted for as a reverse acquisition. Consideration transferred was measured to be $358 million and the difference between the consideration transferred and fair value of net assets resulted in the recognition of goodwill of $213 million.
+
+During the year ended December 31, 2022, we finalized the purchase price allocation to the individual assets acquired and liabilities assumed using the acquisition method. There were no further changes to the purchase price allocation, as disclosed in the audited consolidated financial statements and notes for the years ended December 31, 2021 and 2020.
+The following table summarizes the allocation of the purchase price to the net assets acquired based on the respective fair value of the acquired assets and liabilities:
+
+
+ | Amount | 
+Fair value of deemed issuance of MMI’s stock – Common Stock | $ | 82,814 | 
+Fair value of deemed issuance of MMI’s stock – Additional paid in capital | | 357,206,830 | 
+Fair value of Torchlight’s outstanding warrants – Additional paid in capital | | 2,773,778 | 
+Fair value of Torchlight’s outstanding options – Additional paid in capital | | 9,397,988 | 
+Total Effect on Equity | | 369,461,410 | 
+Effective settlement of notes payable by MMI to Torchlight | | (11,322,637 | )
+ | $ | 358,138,773 | 
+Net assets (liabilities) of Torchlight: | | 
+Cash and cash equivalents | $ | 143,381,229 | 
+Other assets | | 3,906,290 | 
+Oil and natural gas properties | | 72,600,000 | 
+Preferred stock liability | | (72,600,000 | )
+Accounts payable | | (2,496,510 | )
+Other liabilities | | (21,937 | )
+Goodwill | | 213,369,701 | 
+ | $ | 358,138,773 | 
+
+
+As of December 31, 2021, the acquired oil and natural gas properties were classified as assets held for sale. We estimated the fair value of the O&G assets by obtaining a valuation study performed by a third party valuation firm. The valuation concluded an implied enterprise value as of December 31, 2021 to be between $55.1 million and $109.0 million. We recorded the fair value of the Orogrande Project property at $72.0 million and the fair value of the Hazel Project property at $3.5 million, totaling a value of $75.5 million. The deconsolidation of Next Bridge resulted in the disposition of the O&G assets and the extinguishment of the Preferred stock liability. See note 5.
+Nanotech acquisition
+
+70
+ 
+On August 5, 2021, we announced the signing of a definitive agreement to acquire Nanotech Security Corp. (“Nanotech”). On October 5, 2021, a wholly-owned subsidiary of META purchased 100% of Nanotech’s common stock at CA$1.25 per share. In addition, the transaction price included the settlement of certain Nanotech share awards outstanding immediately prior to the closing of the agreement, including the repurchase and cancellation of 303,391 Nanotech restricted share units ("RSU") at a purchase price of CA$1.25 per RSU and the settlement of 4,359,000 Nanotech in-the-money stock options at a purchase price equal to CA$1.25 per option, less the exercise price thereof. The consideration payable to securityholders under the arrangement was payable in cash, resulting in a total purchase price of $72.1 million. The acquisition was accounted for as a business combination in accordance with ASC 805.
+
+We finalized the purchase accounting for this acquisition during the post-acquisition annual measurement period in accordance with ASC 805. The impact of finalization of the purchase accounting associated with this acquisition was not material to the accompanying consolidated financial statements for the years ended December 31, 2022 and 2021.
+The following table summarizes the allocation of the revised purchase price to the net assets acquired based on the respective fair value of the acquired assets and liabilities:
+
+
+ | Amount | 
+Consideration paid to acquire Nanotech outstanding common stock | $ | 69,214,652 | 
+Consideration paid to repurchase Nanotech restricted stock units | | 300,610 | 
+Consideration paid to repurchase Nanotech stock options | | 2,612,035 | 
+ | $ | 72,127,297 | 
+Net assets (liabilities) of Nanotech: | | 
+Cash and cash equivalents | $ | 5,974,254 | 
+Accounts receivable | | 741,783 | 
+Trade payables | | (1,349,139 | )
+Prepaid expenses | | 271,741 | 
+Inventory | | 126,326 | 
+Property and equipment | | 14,771,456 | 
+Intangibles | | 25,309,847 | 
+Deferred tax liability | | (1,933,998 | )
+Goodwill | | 28,215,027 | 
+ | $ | 72,127,297 | 
+
+5. Deconsolidation of Next Bridge subsidiaries and Notes Receivable
+
+On December 14, 2022, we distributed all of the issued and outstanding common shares of Next Bridge. Immediately after the distribution, Next Bridge became an independent public reporting company.
+
+As a result, from December 14, 2022 onwards, Next Bridge is no longer our wholly-owned subsidiary and we have retained no ownership interest in Next Bridge. We have deconsolidated Next Bridge's financial results from our consolidated financial statements in accordance with ASC 810 Consolidation.
+
+In deconsolidating the financial results of Next Bridge from our consolidated financial results, we have recognized a gain on deconsolidation in our consolidated statement of operations and comprehensive loss of $4.0 million during the year ended December 31, 2022, consisting of:
+•The net impact of derecognizing Next Bridge working capital amounts for $1.8 million (or a decrease in our consolidated net liabilities); and
+•The recognition, at fair value, of a note receivable from Next Bridge for $2.2 million. 
+
+Amounts owing from Next Bridge as of December 31, 2022 include:
+a.An October 2021 secured promissory note (the 2021 Note”) principal amount of $15 million. The 2021 Note bears interest at 8% per annum, and matures March 31, 2023 (the “2021 Note Maturity Date”); provided, however, that if Next Bridge raises $30 million or more in capital through debt or equity or a combination thereof by the 2021 Note Maturity Date, the 2021 Note Maturity Date will be extended to October 3, 2023 and the 2021 Note would be amortized in six equal monthly installments. If an event of default has occurred and is continuing, interest on the 2021 Note may accrue at the default rate of 12% per annum. The outstanding principal of the 2021 Note, together with all accrued interest thereon, becomes due on the 2021 Note Maturity Date. The 2021 Note is secured by a security interest in (i) a Stock Pledge Agreement dated as of September 30, 2021 between Gregory McCabe (the “Pledgor”) 
+71
+ 
+and us (the “Stock Pledge Agreement”) for 1,515,000 shares of our common shares that are owned directly and beneficially by the Pledgor, and (b) pursuant to a Deed of Trust, Mortgage, Security Agreement, Fixture Filing, Financing Statement and Assignment of Production dated as of September 30, 2021 made by Wolfbone Investments, LLC (an affiliate of the Pledgor) for our benefit (the “Security Agreement”), a 25% working interest beneficially owned by the Pledgor in the Orogrande Project Property as defined in the Security Agreement.
+b.An unsecured note receivable for principal amount of $5 million (the "2022 Note"). The 2022 Note is due and payable on the 2021 Maturity Date unless extended as described below. The 2022 Note bears interest at a fixed rate of 8% per annum if no event of default exists, and at a fixed rate of 12% per annum if an event of default exists. Under the 2022 Note, if Next Bridge raises $30 million or more in capital through debt or equity or a combination thereof by the 2021 Maturity Date, the maturity date will be extended to October 3, 2023 and the 2022 Note would be paid in six equal monthly installments
+c.Accrued interest on the 2021 Note and 2022 Note totaling $1.6 million as of December 31, 2022.
+d.Certain costs borne by us in effecting the deconsolidation to which we expect to be reimbursed by Next Bridge
+
+We estimated and measured the fair value of the amount receivable from Next Bridge to be $2.2 million as of December 14, 2022. In estimating fair value, the key assumption used was our share price as of the date of deconsolidation, since a portion of amounts owing from Next Bridge are secured by the Stock Pledge Agreement.
+
+ 6. Related party transactions
+As of December 31, 2022, and December 31, 2021, receivables due from a related party (Lamda Guard Technologies Ltd, or “LGTL”) were $8,461 and $10,657, respectively.
+
+ 7. Inventory
+Inventory consists of photosensitive materials, lenses, laser protection film and finished eyewear, and is comprised of the following:
+
+
+ | As of December 31, | 
+ | 2022 | | | 2021 | 
+Raw materials | $ | 490,077 | | | $ | 196,868
+Supplies | | 11,345 | | | | 8,886 
+Work in process | | 51,589 | | | | 30,636 
+Finished goods | | 42,058 | | | | 29,328 
+Inventory provision | | (127,042 | ) | | | — 
+Total inventory | $ | 468,027 | | | $ | 265,718
+
+
+We have a contract with a primary raw material supplier which outlines certain restrictions for use of the associated materials. Raw material inventory as at December 31, 2022 includes $0.4 million (2021 - $Nil) that is restricted.
+
+We have expensed nominal amount of restricted raw materials inventory to research and development expense during the year ended December 31, 2022 (2021 - $0.2 million).
+
+During the year ended December 31, 2022, the Company recognized $0.8 million (2021 - $0.2 million) of inventory in cost of goods sold in the consolidated statements of operations and comprehensive loss.
+
+During the year ended December 31, 2022, the Company recorded write-downs related to inventory in costs of goods sold of $0.1 million, related to inventory deemed to be obsolete in comparison to nil in 2021.
+
+ 72
+
+
+8. Prepaid expenses and other current assets
+Prepaid expenses and other current assets consist of the following:
+
+
+ | As of December 31, | 
+ | 2022 | | 2021 | 
+Prepaid expenses | $ | 2,835,660 | | $ | 1,262,112
+Other current assets | | 365,583 | | | 683,044 
+Taxes receivable | | 4,000,856 | | | 1,506,211
+Total prepaid expenses and other current assets | $ | 7,202,099 | | $ | 3,451,367
+
+ 
+9. Property, plant and equipment, net
+Property, plant and equipment consist of the following:
+
+
+ | | As of December 31, | 
+ | Useful life | 2022 | | | 2021 | 
+ | (years) | | | | | 
+Land | N/A | $ | 439,309 | | | $ | 469,317 | 
+Building | 25 | | 5,063,091 | | | | 5,509,403 | 
+Computer equipment | 3-5 | | 775,736 | | | | 262,320 | 
+Computer software | | | 606,729 | | | | 277,717 | 
+Manufacturing equipment | -5 | | 22,701,761 | | | | 17,762,405 | 
+Office furniture | 5-7 | | 660,549 | | | | 525,961 | 
+Leasehold improvements | 2 | | 2,172,134 | | | | 236,251 | 
+Enterprise Resource Planning software | 5 | | 197,648 | | | | 211,149 | 
+Assets under construction | N/A | | 20,337,338 | | | | 8,872,695 | 
+ | | | 52,954,295 | | | | 34,127,218 | 
+Accumulated depreciation and impairment | | | (10,279,596 | ) | | | (7,109,104 | )
+ | | $ | 42,674,699 | | | $ | 27,018,114 | 
+
+
+Depreciation expense was $3.6 million and $1.8 million for the year ended December 31, 2022 and 2021, respectively.
+
+Impairment expense was $0.1 million and $0.3 million for the year ended December 31, 2022 and 2021, respectively.
+
+Land and building were acquired as part of the Nanotech acquisition.
+
+Manufacturing equipment additions include roll-to-roll manufacturing equipment for the NANOWEB® pilot scale production line at our facility in Pleasanton, California.
+
+Assets under construction include $18.4 million in costs related to ongoing construction work at the Highfield Park and the Thurso facility as well as $1.9 million of equipment in transit.
+
+Property, plant and equipment is pledged as security under a General Security Agreement (a “GSA”) signed in favor of the Royal Bank of Canada (“RBC”) on July 14, 2014, which is related to the Company’s corporate bank account and credit card and includes all property, plant and equipment and intangible assets.
+
+73
+
+
+10. Intangible Assets and Goodwill
+Intangibles
+Intangibles consist of the following:
+
+
+ | | As of December 31, | 
+ | Useful life | 2022 | | | 2021 | 
+ | (years) | | | | | 
+Patents | 5-10 | $ | 42,111,143 | | | $ | 7,839,182 | 
+Trademarks | | | 124,845 | | | | 132,636 | 
+Developed technology | 20 | | 13,976,668 | | | | 14,931,377 | 
+Customer contract | 5 | | 9,598,348 | | | | 10,253,983 | 
+ | | | 65,811,004 | | | | 33,157,178 | 
+Accumulated amortization and impairment | | | (9,497,687 | ) | | | (4,185,354 | )
+ | | $ | 56,313,317 | | | $ | 28,971,824 | 
+
+
+Amortization expense was $5.7 million and $1.7 million for the years ended December 31, 2022 and 2021, respectively.
+
+Developed technology and customer contract represent the acquired intangibles as part of the Nanotech acquisition in late 2021.
+
+During the year ended December 31, 2022, we recognized patent additions of $12.6 million in acquired patents as part of the PAL acquisition and $23.3 million in acquired patents as part of the Optodot acquisition. These amounts remain subject to change as the purchase price allocations for the associated business combination accounting remains provisional See Note 4.
+Goodwill
+  
+Goodwill at December 31, 2021 | $ | 240,376,634 | 
+Additions from business combination | | 42,343,552 | 
+Purchase price Allocation adjustments | | 1,446,639 | 
+Effect of foreign exchange on goodwill | | (2,418,359 | )
+Goodwill at December 31, 2022 | $ | 281,748,466 | 
+
+
+We perform the annual impairment test for goodwill at year-end, by comparing the reporting unit’s fair value to its carrying amount, including goodwill, as of December 31, 2022, using the market approach to determine fair value. All goodwill has been allocated to one reporting unit. As the reporting unit’s fair value exceeded its carrying amount, we determined that goodwill was not impaired. The key assumption used to calculate the recoverable amount of goodwill as of December 31, 2022 was our share price.
+
+ 74
+
+
+11. Long-term debt
+
+
+ | As of December 31, | 
+ | 2022 | | 2021 | 
+ACOA Business Development Program (“BDP”) 2012 interest-free loan with a maximum contribution of CA$500,000, repayable in monthly repayments commencing October 1, 2015, of CA$5,952 until June 1, 2023. Loan repayments were temporarily paused effective April 1, 2020, until January 1, 2021, as a result of the COVID-19 outbreak. As of December 31, 2022, the amount of principle drawn down on the loan, net of repayments is CA$ 35,714.29 (2021 - CA$ 107,142.86). | $ | 25,880 | | $ | 80,390 
+ACOA Atlantic Innovation Fund (“AIF”) 2015 interest-free loan with a maximum contribution of CA$ 3,000,000. Annual repayments, commencing June 1, 2021, are calculated as a percentage of gross revenue for the preceding fiscal year, at Nil when gross revenues are less than CA$1,000,000, 5% when gross revenues are less than CA$10,000,000, and greater than CA$1,000,000, and CA$500,000 plus 1% of gross revenues when gross revenues are greater than CA$10,000,000. As of December 31, 2022, the amount or principal drawn down on the loan, net of repayments, is CA$,2661,293 (2021 - CA$ 2,924,615). | | 1,449,493 | | | 1,666,764
+ACOA BDP 2018 interest-free loan with a maximum contribution of CA$3,000,000, repayable in monthly repayments commencing June 1, 2021, of CA$31,250 until May 1, 2029. As of December 31, 2022, the amount of principal drawn down on the loan, net of repayments, is CA$2,406,250 (2021 - CA$2,781,250). | | 1,136,556 | | | 1,319,130
+ACOA PBS 2019 interest-free loan with a maximum contribution of CA$100,000, repayable in monthly repayments commencing June 1, 2021, of CA$1,400 until May 1, 2027. As of September 30, 2022, the amount of principal drawn down on the loan, net of repayments, is CA$73,611. (2021 - CA$90,278). | | 34,750 | | | 42,011 
+ACOA Regional Relief and Recovery Fund (“RRRF”) 2020 interest-free loan with a maximum contribution of CA$390,000, repayable on monthly repayments commencing April 1, 2023 of CA$11,000 until April 1, 2026. As at December 31, 2022, the amount of principle drawn down on the loan is CA$390,000 (2020 - CA$390,000). | | 159,642 | | | 120,154 
+Economic Development Agency of Canada for the Regions of Quebec (EDC) 2022 interest-free loan with a maximum contribution of CA$2,000,000 (CA$1,000,000 for building renovations and CA$1,000,000 for acquisition of equipment for Nanotech). Repayable in 60 monthly installments of CA$ 24,236, with the first repayment due Dec 31, 2025. As of December 31, 2022, the amount of principal drawn down of this funding was CA$1,454,167 with CA$1,012,569, treated as a loan and CA$441,598, treated as Deferred government assistance (See Note 19). | | 747,634 | | | — 
+ | | 3,553,955 | | | 3,228,449
+Less: current portion | | 483,226 | | | 491,278 
+ | $ | 3,070,729 | | $ | 2,737,171
+
+ We were required to maintain a minimum balance of positive equity throughout the term of the loan. However, on November 14, 2019, ACOA waived this requirement for the period ending June 30, 2019 and for each period thereafter until the loan is fully repaid.
+
+ The carrying amount of the ACOA AIF loan is reviewed each reporting period and adjusted as required to reflect management’s best estimate of future cash flows, discounted at the original effective interest rate.
+
+ A portion of the ACOA BDP 2018 loan was used to finance the acquisition and construction of manufacturing equipment resulting in $425,872 was recorded as deferred government assistance, which is being amortized over the useful life of the associated equipment. We recorded amortization expense of $3,047 and $145,739 for the years ended December 31, 2022 and 2021, respectively, as government assistance in the consolidated statements of operations and comprehensive loss.
+
+75
+ 
+
+12. Capital stock
+Common stock
+Authorized: 1,000,000,000 common shares, $0.001 par value.
+All references to numbers of common shares and amounts in the consolidated statements of changes in stockholder’s equity and in the notes to the consolidated financial statements have been retroactively restated to reflect as if the Torchlight RTO had taken place as of the beginning of the earliest period presented.
+•The number of common shares issued pre-Torchlight RTO have been multiplied by the 1.845 Torchlight conversion ratio.
+•The amounts of common shares issued pre-Torchlight RTO were calculated by multiplying the number of shares by 0.001 and the 1.845 Torchlight conversion ratio and the difference were recognized in additional paid in capital. 
+
+During the year ended December 31, 2022, 1,988,629 warrants were exercised to purchase 1,623,700 common shares where most warrant holders elected cashless exercise and consequently, the difference of 364,929 shares was withheld to cover the exercise cost.
+
+During the year ended December 31, 2022, 1,688,538 stock options were exercised to purchase an equal number of common shares. In addition, 673,944 restricted stock units ("RSUs") have vested and settled into 658,538 common shares. The difference of 15,406 RSUs were withheld to cover the tax obligation from certain employees.
+
+During the year ended December 31, 2022, we issued 9,677,419 common stock as consideration in relation to the PAL acquisition and 26,766,265 as consideration in relation to the Optodot acquisition (note 4).
+
+During the year ended December 31, 2022, we issued 223,052 common shares at $1.87 as a compensation to a service provider in relation to the Optodot acquisition.
+During the year ended December 31, 2021, we converted unsecured convertible promissory notes of $23,656,365, secured convertible debentures of $22,118,782, and unsecured convertible debentures of $5,769,475 into common stock. We remeasured the financial liabilities at fair value as of respective conversion dates and recognized a non-cash realized loss of $39,486,830. We subsequently reclassified the remeasured liabilities into equity and recognized $39,652 in common stock and $51,504,970 in additional paid in capital. The number of shares issued was calculated as the total outstanding principal and interest of each liability divided by the conversion price stated in each respective instrument’s agreement.
+During the year ended December 31, 2021, we converted long-term debt of $221,843 and due to related party of $225,986 into common stock. We recorded the common stock issued at fair value using our share price at the time of conversion. We recognized $276 in common stock and $447,553 in additional paid in capital. The resulting net loss calculated as the difference between the fair value of common stock and the carrying value of the liabilities of $19,330 was recorded in other income in the consolidated statements of operations and comprehensive loss. The number of shares issued was calculated as the total outstanding principal and interest of each liability multiplied by the agreed upon conversion price.
+During the year ended December 31, 2021, we issued 286,292 common shares at CA$0.58 per share as compensation in exchange for a fairness opinion obtained with respect to the Torchlight RTO. We paid CA$90,000 in cash in 2020 and agreed to settle the remaining CA$90,000 in common stock. We recognized the share-based payment in trade and other payables in 2020 until the shares were issued in 2021.
+During the year ended December 31, 2021, and pursuant to the Torchlight RTO, we recognized $369,631,002 in equity as the fair value of 82,813,994 common shares that were deemed to have been issued to Torchlight as part of the Torchlight RTO (note 4).
+During the year ended December 31, 2021, we issued 148,368 common shares as stock-based compensation at $3.37 per share to a service provider. The total amount of $500,000 was recorded as prepaid expenses and is being amortized over the period of service.
+During the year ended December 31, 2021, we issued 125,000 common shares as stock-based compensation at $5.27 per share for a total of $658,750 as partial compensation for a fairness opinion obtained with respect to the Nanotech acquisition. We paid the remaining $511,406 in cash.
+
+Registered direct offering
+
+76
+ 
+On June 24, 2022, we entered into a securities purchase agreement, as amended and restated on June 27, 2022, with certain institutional investors (the “SPA”) for the purchase and sale in a registered direct offering of 37,037,039 shares of our common stock at a purchase price of $1.35 per share and warrants to purchase 37,037,039 shares at an exercise price of $1.75 per share. This resulted in gross proceeds from the offering of $50 million and net proceeds of $46.3 million.
+
+The gross proceeds were allocated between common stock and accompanying warrants based on their relative fair values. The fair value of common stock was calculated based on the closing share price on June 27, 2022 of $1.15. The fair value of the warrants was estimated using the Black-Scholes option pricing model. Accordingly, we have allocated $27.9 million as the fair value of common stock and $18.5 million as the fair value of warrants.
+
+The warrants became exercisable six months after the date of issuance, expire five and a half years from the date of issuance and have an exercise price of $1.75 per share of common stock. We have evaluated the warrants as either equity-classified or liability-classified instruments based on an assessment of the warrants’ specific terms and applicable authoritative guidance in ASC 480, “Distinguishing Liabilities from Equity” and ASC 815, “Derivatives and Hedging”. We have concluded that the warrants are considered indexed to our common shares and as such they have been classified as equity.
+
+On November 9, 2022, we filed a registration statement (File No. 333-268282) on form S-3 allowing us to issue securities with aggregate offering price not to exceed $250 million. This registration statement was declared effective by the SEC on November 18, 2022.
+
+As of December 31, 2022, no shares of our common stock have been sold under this registration statement.
+Warrants
+On June 28, 2021 and pursuant to the completion of Torchlight RTO, each MMI warrant was converted into 1.845 META warrants and the exercise price was updated to be CA$0.49. Also, as part of the Torchlight RTO, Torchlight outstanding warrants of 853,278 underwent a reverse stock split at a ratio of 2:1 resulting in warrants of 430,380 and for an amount being recorded at $2,773,779 in additional paid in capital as part of the consideration transferred.
+The following table summarizes the changes in warrants of the Company:
+
+
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+ | Number of | | | | | | Number of | | 
+ | warrants | | | Amount | | | warrants 1 | Amount 1 | 
+Balance, beginning of year | | 5,278,846 | | | $ | 6,959,800 | | 3,144,272 | | $ | 419,027 | 
+Issued | | 37,337,039 | | | | 18,714,297 | | 2,153,500 | | | 3,831,124 | 
+Exercised | | (1,988,629 | ) | | | (253,741 | ) | (449,306 | ) | | (64,130 | )
+Expired | | (706,337 | ) | | | (101,163 | ) | — | | | — | 
+Fair value of deemed issuance to Torchlight | | — | | | | — | | 430,380 | | | 2,773,779 | 
+Balance, end of year | | 39,920,919 | | | $ | 25,319,193 | | 5,278,846 | | $ | 6,959,800 | 
+
+ All references to numbers of warrants have been retroactively restated to reflect as if Torchlight RTO had taken place as of the beginning of the earliest period presented. The numbers of warrants issued pre-CPM RTO have been divided by , multiplied by the 2.75 CPM conversion ratio and the 1.845 Torchlight conversion ratio. There were no warrants issued post CPM RTO except for Torchlight warrants. All references to numbers of broker warrants have been retroactively restated to reflect as if Torchlight RTO had taken place as of the beginning of the earliest period presented. The numbers of broker warrants issued pre-CPM RTO have been multiplied by the 2.75 CPM conversion ratio and the 1.845 Torchlight conversion ratio. There were no broker warrants issued post CPM RTO.
+
+
+During the year ended December 31, 2022, we granted 300,000 five-year warrants to purchase common stock to external consultants as stock-based compensation. The warrants have an exercise price of $1.18 per share, based on the closing price of our common stock on May 10, 2022.
+
+On June 27, 2022, we issued 37,037,039 warrants which are exercisable six months after the date of issuance, expire five and a half years from the date of issuance and have an exercise price of $1.75 per share of common stock as part of the registered direct offering.
+During the year ended December 31, 2021, we granted 2,153,500 five-year warrants to purchase common stock to external consultants as stock-based compensation.
+
+77
+ 
+The fair value of 1,153,500 warrants issued during the year ended December 31, 2021 was estimated to be $3,129,208 using the Black-Scholes option pricing model. The total amount has been recorded in General & Administrative expense in the consolidated statements of operations and comprehensive loss.
+
+The fair value of 1,000,000 warrants issued during the year ended December 31, 2021 was estimated to be $701,910 using the Monte Carlo Simulation model. The total amount has been recorded in General & Administrative expense in the consolidated statements of operations and comprehensive loss.
+The fair value of warrants and broker warrants that were issued and estimated using the Black-Scholes option pricing model have the following inputs and assumptions:
+
+
+ | Year ended December 31,
+ | 2022 | 2021 
+Weighted average grant date fair value | 0.53 | 3.73 
+Weighted average expected volatility | 89% | 91% 
+Weighted average risk-free interest rate | 3.18% | 0.87% 
+Weighted average dividend yield | 0.00% | 0.00% 
+Weighted average forfeiture rate | 0.00% | 0.00% 
+Weighted average term of warrants | 5 years | 4.36 years
+
+The fair value of warrants that were issued and estimated using the Monte Carlo Simulation have the following inputs and assumptions:
+
+
+ | Year ended December 31,
+ | 2021 
+Weighted average risk-free interest rate | 0.42% 
+Weighted average expected volatility | 80.00% 
+Weighted average term of warrants | 5 years 
+
+ 
+13. Stock-based payments
+On December 3, 2021, the shareholders of the Company approved the 2021 Equity Incentive Plan to utilize the 3,500,000 shares reserved and unissued under the Torchlight 2015 Stock Option and Grant Plan and the 6,445,745 shares reserved and unissued under the MMI 2018 Stock Option and Grant plan to set the number of shares reserved for issuance under the 2021 Equity Incentive Plan at 34,945,745 shares.
+The 2021 Equity Incentive Plan allows the grants of non-statutory stock options, restricted stock, restricted stock units ("RSUs"), stock appreciation rights, performance units and performance shares to employees, directors, and consultants.
+
+DSU Plan
+Each unit is convertible at the option of the holder into one common share of the Company.
+On March 28, 2013, we implemented a Deferred Stock Unit (DSU) Plan for its directors, employees and officers. Directors, employees and officers are granted DSUs of the Company with immediate vesting as a form of compensation. Each unit is convertible at the option of the holder into one common share of the Company. Eligible individuals are entitled to receive all DSUs (including dividends and other adjustments) no later than December 1st of the first calendar year commencing after the time of termination of their services.
+The following table summarizes the change in DSUs of the Company:
+
+
+ | Number ofDSUs (#) 1 | | WeightedAveragegrant date fair value | 
+Outstanding, December 31, 2020 | | 3,455,224 | | $ | 0.08
+Granted | | 191,802 | | | 2.70
+Outstanding, December 31, 2021 | | 3,647,026 | | $ | 0.22
+Granted | | 263,160 | | | 1.71
+Outstanding, December 31, 2022 | | 3,910,186 | | $ | 0.32
+
+
+1 All references to numbers of DSUs have been retroactively restated to reflect as if the Torchlight RTO had taken place as of the beginning of the earliest period presented. The numbers of DSUs issued pre-CPM RTO have been multiplied by the 2.75 CPM conversion ratio and the 1.845 Torchlight conversion ratio.
+ 
+
+As of December 31, 2022, there was $Nil unrecognized compensation cost related to unvested DSUs.
+RSU Plan
+Each RSU unit is convertible at the option of the holder into one common share of the Company upon meeting the vesting conditions.
+Total stock-based compensation expense related to RSUs included in the consolidated statements of operations was as follows:
+
+
+ | Year ended December 31, | 
+ | 2022 | | 2021 | 
+Cost of sales | $ | 544,468 | | $ | — 
+Selling & marketing | | 376,449 | | | — 
+General & administrative | | 1,631,995 | | | 517,869
+Research & development | | 2,101,035 | | | — 
+ | $ | 4,653,947 | | $ | 517,869
+
+
+As of December 31, 2022, the unrecognized compensation cost related to unvested RSUs was $5,723,616 (2021 - $Nil). This cost will be recognized over the next four years.
+
+The following table summarizes the change in outstanding RSUs:
+
+
+ | Number ofRSUs # | | | WeightedAveragegrant date fair value | 
+Outstanding, December 31, 2020 | | — | | | $ | — 
+Granted | | 300,000 | | | | 6.43
+Outstanding, December 31, 2021 | | 300,000 | | | $ | 6.43
+Granted | | 7,207,261 | | | | 1.45
+Forfeited | | (326,395 | ) | | | 1.60
+Vested and settled | | (673,944 | ) | | | 1.15
+Outstanding, December 31, 2022 | | 6,506,922 | | | $ | 1.71
+Vested but not yet settled, December 31, 2022 | | 482,486 | | | $ | 4.47
+
+Employee Stock Option Plan
+Each stock option is convertible at the option of the holder into one common share of the Company.
+During the year ended December 31, 2021, the Company’s existing MMI options were converted at a ratio of 1.845 META options for each MMI option pursuant to the Torchlight RTO. Also, as part of the Torchlight RTO, Torchlight outstanding options of 3,000,000 underwent a reverse stock split at a ratio of 2:1 resulting in outstanding options of 1,500,000 and an amount of $9,397,988 was recorded in additional paid in capital as part of the consideration transferred.
+Total stock-based compensation expense included in the consolidated statements of operations was as follows:
+
+
+ | Year ended December 31, | 
+ | 2022 | | 2021 | 
+Selling & marketing | $ | 195,041 | | $ | 34,735 
+General & administrative | | 5,930,518 | | | 544,530 
+Research & development | | 2,490,979 | | | 479,715 
+ | $ | 8,616,538 | | $ | 1,058,980
+
+
+
+As of December 31, 2022, the unrecognized compensation cost related to unvested stock options was $4,133,287 (2021 - $493,577). This cost will be recognized over the next four years.
+
+The following table summarizes the change in outstanding stock options of the Company:
+
+
+ | | | | Average | | | Average | 
+ | | | | exercise | | | exercise | 
+ | | | | price per | | | remaining | Aggregate 
+ | Number ofoptions # 1 | | | stockoption | | | contractualterm(years) | intrinsicvalue
+Outstanding, December 31, 2020 | | 24,477,507 | | | $ | 0.33 | | 8.36 | $ | 688,952 
+Exercised | | (4,486,965 | ) | | | 0.36 | | | | 
+Forfeited | | (85,901 | ) | | | 0.34 | | | | 
+Fair value of deemed issuance to Torchlight | | 1,500,000 | | | | 2.22 | | | | 
+Outstanding, December 31, 2021 | | 21,404,641 | | | $ | 0.46 | | 7.34 | $ | 56,924,556
+Granted | | 14,318,993 | | | | 1.41 | | | | 
+Exercised | | (1,688,538 | ) | | | 0.27 | | | | 
+Forfeited | | (440,052 | ) | | | 1.02 | | | | 
+Outstanding, December 31, 2022 | | 33,595,044 | | | $ | 0.80 | | 9.31 | $ | 17,611,251
+Exercisable, December 31, 2022 | | 24,327,577 | | | $ | 0.71 | | 8.23 | $ | 14,917,424
+
+
+Below is a summary of the outstanding options as of December 31, 2022 and December 31, 2021:
+
+
+ | As of December 31, | 
+ | 2022 | | 2021 
+Range of exercise price | Number outstanding# | | Number exercisable# | | Number outstanding# 1 | Number exercisable# 1
+$0.12 - $0.27 | | 18,128,657 | | 15,549,318 | | 19,954,641 | 11,781,030
+$0.89 - $1.00 | | 2,984,668 | | 1,822,394 | | 375,000 | 325,000 
+$1.17 - $1.26 | | 2,782,704 | | 932,082 | | — | — 
+$1.31 - $1.58 | | 6,729,904 | | 3,054,672 | | — | — 
+$1.97 - 2.00 | | 2,969,111 | | 2,969,111 | | 1,075,000 | 1,125,000 
+ | | 33,595,044 | | 24,327,577 | | 21,404,641 | 13,231,030
+
+
+ 
+The fair value of options granted was estimated at the grant date using the following weighted-average assumptions:
+
+
+ | Year ended December 31,
+ | 2022 | 2021 
+Weighted average Grant date fair value | 0.81 | 6.27 
+Weighted average expected volatility | % | 84% 
+Weighted average risk-free interest rate | 2.56% | 0.73% 
+Weighted average expected life of the options | 4.19 years | 1 year
+
+
+Where possible, we use the simplified method to estimate the expected term of employee stock options. We do not have adequate historical exercise data to provide a reasonable basis for estimating the expected term for the current share options granted. The simplified method assumes that employees will exercise share options evenly between the period when the share options are vested and ending on the date when the options would expire.
+
+The expected volatility reflects the assumption that the historical volatility over a period similar to the life of the options is indicative of future trends, which may not necessarily be the actual outcome.
+
+ 
+14. Income taxes
+
+Loss before income taxes was as follows:
+
+
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+Local | $ | (58,490,568 | ) | | $ | (30,552,839 | )
+Foreign | | (26,445,816 | ) | | | (61,296,485 | )
+Loss before income taxes | $ | (84,936,384 | ) | | $ | (91,849,324 | )
+
+
+Income tax provision was as follows:
+
+
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+Current tax expense: | | | | | 
+Local | $ | 1,256 | | | $ | 800 | 
+Foreign | | — | | | | — | 
+Current tax expense | | 1,256 | | | | 800 | 
+Deferred tax benefit: | | | | | 
+Local | | (4,893,000 | ) | | | — | 
+Foreign | | (942,416 | ) | | | (852,863 | )
+Deferred tax benefit | | (5,835,416 | ) | | | (852,863 | )
+Income tax recovery | $ | (5,834,160 | ) | | $ | (852,063 | )
+
+
+
+We have determined the deferred tax position in accordance with ASC Topic 740, Income Taxes, resulting in recognition of deferred tax liabilities for future reversing of taxable temporary differences primarily for intangible assets. This resulted mainly in a preliminary net deferred tax liability of $4.9 million from the Optodot acquisition, which includes the carryover basis of historical recognized deferred tax assets, liabilities and valuation allowance. The net deferred tax liabilities allowed us to utilize certain previously fully reserved deferred tax assets. Accordingly, we recognized a reduction to our valuation allowance resulting in a net tax benefit of $4.9 million for the year ended December 31, 2022.
+
+The income tax provision differs from the amount computed by applying the federal income tax rate of 21% for 2021 (2020 - 21%) to the loss before income taxes as a result of the following differences:
+
+ 
+
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+Tax computed at federal statutory rate | $ | (17,836,641 | ) | | $ | (19,288,357 | )
+State income taxes, net of federal benefit | | (1,428,381 | ) | | | (1,075,114 | )
+Capital loss | | (7,192,458 | ) | | | — | 
+Share-based compensation | | — | | | | 2,289,214 | 
+Unrealized loss on Fair Value Through Profit and Loss liabilities | | — | | | | 11,752,697 | 
+Other permanent items | | (3,750,116 | ) | | | (114,799 | )
+Foreign currency and other | | 185,860 | | | | 929,664 | 
+Research and development credit | | (319,137 | ) | | | — | 
+Foreign rate differential | | (1,484,069 | ) | | | (4,889,797 | )
+Provision to return | | 1,595,074 | | | | — | 
+Deferred true-ups | | 1,525,095 | | | | — | 
+Change in valuation allowance | | 22,870,613 | | | | 9,544,429 | 
+Income tax recovery | $ | (5,834,160 | ) | | $ | (852,063 | )
+
+
+The tax effects of temporary differences that give rise to significant portions of the deferred tax assets and deferred tax liabilities are as follows:
+
+
+ | As of December 31, | 
+ | 2022 | | | 2021 | 
+Deferred tax assets | | | | | 
+Non-capital losses | $ | 30,527,370 | | | $ | 25,110,497 | 
+Capital loss carryforward | | 7,228,389 | | | | — | 
+Stock-based compensation | | 5,718,562 | | | | — | 
+Allowance for doubtful accounts | | 4,609,247 | | | | — | 
+Research and development tax credits | | 2,824,760 | | | | 1,972,694 | 
+Research and development expense capitalization | | 2,198,314 | | | | — | 
+Reserves and other accruals | | 1,144,703 | | | | — | 
+Operating lease right-of-use assets | | 808,717 | | | | — | 
+Intangible assets | | 72,895 | | | | 69,964 | 
+Other assets | | 37,426 | | | | 46,725 | 
+Total gross deferred tax assets | | 55,170,383 | | | | 27,199,880 | 
+Less: valuation allowance | | (41,688,855 | ) | | | (18,659,901 | )
+ | | 13,481,528 | | | | 8,539,979 | 
+Deferred tax liabilities | | | | | 
+Intangible assets | | (12,355,386 | ) | | | (6,276,390 | )
+Property, plant and equipment | | (2,791,147 | ) | | | (2,226,741 | )
+Long-term operating lease liabilities | | (1,234,015 | ) | | | — | 
+Long-term debt | | (189,260 | ) | | | (251,646 | )
+Funding obligation | | (112,974 | ) | | | (109,681 | )
+Other liabilities | | (52,731 | ) | | | — | 
+ | | (16,735,513 | ) | | | (8,864,458 | )
+Net deferred tax liability | $ | (3,253,985 | ) | | $ | (324,479 | )
+
+
+
+At December 31, 2022, we have a net operating loss carryforward (“NOLs”) of approximately $111.4 million (2021: $91.3 million) that can be used to offset future taxable income, and such NOLs, as well as timing differences from certain financial instruments, result in a gross deferred tax asset of approximately $55.2 million (2021: $27.2 million). These NOLs begin to expire in 2028.
+
+In evaluating its valuation allowance, we consider all available positive and negative evidence, including projected future taxable income and recent financial performance. Due to uncertainty with respect to the ultimate realizability of these deferred tax assets, we have recorded a valuation allowance of approximately $41.7 million at December 31, 2022, (2021: $18.7 million) against our deferred tax assets.
+
+ 
+
+15. Net loss per share
+The following table sets forth the calculation of basic and diluted net loss per share during the periods presented:
+
+
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+Numerator: | | | | | 
+Net loss | $ | (79,102,224 | ) | | $ | (90,997,261 | )
+Denominator: | | | | | 
+Weighted-average shares, basic | | 328,350,452 | | | | 232,898,398 | 
+Weighted-average shares, diluted | | 328,350,452 | | | | 232,898,398 | 
+Net loss per share | | | | | 
+Basic | | (0.24 | ) | | | (0.39 | )
+Diluted | | (0.24 | ) | | | (0.39 | )
+
+
+The following potentially dilutive shares were not included in the calculation of diluted shares above as the effect would have been anti-dilutive:
+
+
+ | As of December 31, | 
+ | 2022 | | 2021
+Options | | 33,595,044 | | 21,404,641
+Warrants | | 39,920,919 | | 5,278,846 
+RSUs | | 6,506,922 | | 300,000 
+DSUs | | 3,910,186 | | 3,647,026 
+ | | 83,933,071 | | 30,630,513
+
+ 
+16. Additional cash flow information
+The net changes in operating assets and liabilities consist of the following:
+
+
+ | As of December 31, | 
+ | 2022 | | | 2021 | 
+Grants receivable | $ | 172,765 | | | $ | 149,798 | 
+Inventory | | (319,116 | ) | | | 325,657 | 
+Accounts and other receivables | | 287,320 | | | | (880,613 | )
+Prepaid expenses and other current assets | | (4,799,174 | ) | | | (2,100,370 | )
+Trade payables | | 5,410,515 | | | | 6,906,375 | 
+Due to related party | | (108,102 | ) | | | (78,940 | )
+Operating lease Right-of-use Asset | | (231 | ) | | | 1,018,691 | 
+Operating lease liabilities | | (997,067 | ) | | | (688,183 | )
+ | $ | (353,090 | ) | | $ | 4,652,415 | 
+
+ 
+
+
+
+17. Fair value measurements
+
+We use a fair value hierarchy, based on the relative objectivity of inputs used to measure fair value, with Level 1 representing inputs with the highest level of objectivity and Level 3 representing the lowest level of objectivity.
+
+The fair values of cash and cash equivalents, restricted cash, short-term investments, grants and accounts receivable, due from related parties and trade and other payables approximate their carrying values due to the short-term nature of these instruments. The current portion of long-term debt has been included in the below table.
+
+The fair value of our note receivable from Next Bridge is classified at Level 3 in the fair value hierarchy. See Note 5 for further details.
+The fair values of the funding obligation, operating lease liabilities, and long-term debt would be classified at Level 3 in the fair value hierarchy, as each instrument is estimated based on unobservable inputs including discounted cash flows using the market rate, which is subject to similar risks and maturities with comparable financial instruments as at the reporting date.
+Carrying values and fair values of financial instruments that are not carried at fair value are as follows:
+
+
+ | 2022 | | 2021 | 
+Financial liability | Carrying value | | Fair value | | | Carrying value | | Fair value
+Funding obligation | $ | 180,705 | | $ | 85,411 | | $ | 268,976 | $ | 170,338 
+Operating lease liabilities | | 4,342,157 | | | 5,666,940 | | | 4,370,635 | | 6,149,369
+Long-term debt | | 3,553,955 | | | 2,663,460 | | | 3,228,449 | | 2,303,648
+
+18. Revenue
+We have one operating segment based on how management internally evaluates separate financial information, business activities and management responsibility.
+Revenue is disaggregated as follows:
+
+
+ | Year ended December 31, | 
+ | 2022 | | 2021 | 
+Product sales | $ | 1,211,746 | | $ | 407,915 
+Contract revenue [1] | | 8,809,119 | | | 3,427,938
+Other development revenue | | 179,302 | | | 246,664 
+Development revenue | | 8,988,421 | | | 3,674,602
+ | $ | 10,200,167 | | $ | 4,082,517
+
+
+[1] A portion of contract revenue represents previously recorded deferred revenue that was recognized as revenue after satisfaction of performance obligations either through passage of time or after completion of specific performance milestones. Refer to note 19 for outstanding contracts.
+
+
+Customer concentration
+
+A significant amount of our revenue is derived from contracts with major customers. For the years ended December 31, 2022 and December 31, 2021, revenue from one customer (a G10 central bank) accounted for $8.6 million or % and $1.8 million or 45% respectively of total revenue.
+
+We currently derive a significant portion of our revenue from contract services with a G10 central bank. In 2021, we were awarded a development contract for up to $41.5 million over a period of up to five years, from this same G10 central bank customer. In 2022, we were awarded a $4.3 million purchase order under this contract. These contract services incorporate both nano-optic and optical thin film technologies and are focused on developing authentication features for future banknotes.
+
+
+
+19. Deferred revenue
+Deferred revenue consists of the following:
+
+
+ | As of December 31, | 
+ | 2022 | | | 2021 | 
+Satair A/S-exclusive rights [1] | $ | 575,770 | | | $ | 717,615 | 
+Satair A/S-advance against PO [2] | | 459,539 | | | | 490,929 | 
+LM Aero-MetaSOLAR commercialization [3] | | — | | | | 92,698 | 
+Breakthrough Starshot Foundation [4] | | 75,000 | | | | 75,000 | 
+Innovate UK-R&D tax credit | | — | | | | 18,588 | 
+Other deferred revenue | | 100,000 | | | | 21,910 | 
+ | | 1,210,309 | | | | 1,416,740 | 
+Less: current portion | | (730,501 | ) | | | (779,732 | )
+ | $ | 479,808 | | | $ | 637,008 | 
+
+
+[1] On September 18, 2018, we signed an exclusive distribution agreement with Satair A/S for a term of 10 years. According to this agreement, the Company grants Satair A/S the exclusive right to sell, market, and distribute eyewear and visor products incorporating metamaterial-based laser protection technology that are developed or manufactured by the Company for use in aviation, military, and defense. On September 13, 2018, we received a fee of $1,000,000 for the exclusive distribution rights granted under this agreement and the payment was recognized as deferred revenue on the consolidated balance sheets. It will be accounted as development revenue over a period of 8 years and no repayment of the $1,000,000 is required if the contract termination is after the 8th anniversary of the effective date. During the year ended December 31, 2022, we have recognized $99,629 (2021: $102,269) as development revenue related to this agreement.
+[2] On July 20, 2018, we received a purchase order for MetaVisor (eyewear/eye protection) from Satair A/S for $2,000,000. On November 7, 2018, we received a partial advance payment of $500,000 against this purchase order. We have set up a guarantee/standby letter of credit with RBC. In the event we fail to deliver the product as per the contract or refuse to accept the return of the product as per the buyback clause of the contract or fails to repay the advance payment in accordance with the conditions of the agreement signed with Satair on September 18, 2018, Satair shall draw from the letter of credit with RBC. As at December 31, 2022, no amount has been drawn from the letter of credit with RBC. Refer to note 26 for information regarding the letter of credit.
+[3] On April 26, 2017, we received $4,150,000 from Lockheed Martin Aeronautics Corporation (“LM Aero”) in relation to the Offset Project Agreement (“OPA”). The purpose of the OPA was to document the agreement between LM Aero and the Company with respect to our planned growth through R&D and commercialization activities using the MetaSOLAR technology as well as the contribution that LM Aero made to us in return for our effective assistance in obtaining credit arising from the project as set forth in the OPA. We have set up an irrevocable standby letter of credit with RBC. In the event we fail to meet the obligations under the OPA, LM Aero shall draw from the letter of credit with RBC. The performance obligations for the milestone are satisfied through-out the period. During the year ended December 31, 2022, we have recognized $93,000 (2021: $562,531) as development revenue related to this agreement.
+[4] On March 1, 2020, we entered into a research agreement with Breakthrough Starshot Foundation LLC under the project “Lightsail” for $150,000. We received $75,000 on March 6, 2020 which has been recorded as part of deferred revenue.
+
+
+
+20. Deferred government assistance
+ a) Grants receivable
+
+
+ | As of December 31, | 
+ | 2022 | | 2021 | 
+ACOA-PBS [1] | $ | — | | $ | 8,069 
+Co-Op wage subsidy [2] | | — | | | 7,318 
+Canada Emergency Wage Subsidy [3] | | — | | | 122,940
+Innovate UK – Diabet [4] | | — | | | 13,790 
+NSBI - Export development program [5] | | — | | | 23,663 
+ | $ | — | | $ | 175,780
+
+
+[1] | On November 21, 2018, ACOA approved two non-repayable contribution of $37,679 each to the Company under Business Development Program – Productivity and Business skills (“PBS”) for the cost to create product and commercialization strategies.
+
+
+[2] | During 2021, we applied for and received grants related to co-op students and recent graduates under the Nova Scotia Co-Op Subsidy, Graduate To Opportunity Program ("GTO") and Venture for Canada program ("VFC").
+
+
+[3] | During 2021, we received the 2020 outstanding balance of $233,446 as well as recognized $443,494 government assistance from Canada Emergency Wage subsidy ("CEWS") as other income in the consolidated statements of operations and comprehensive loss, of which $321,547 has been received.
+
+
+[4] | On February 13, 2019, Innovate UK approved a grant to MediWise for the project “Diabet – Innovate wrist device for high accuracy non-invasive blood glucose monitoring”. During 2022, we received $nil (2021: $132,288) in relation to the grant and in recognized government assistance of $nil (2021: $110,125) as other income in the consolidated statements of operations and comprehensive loss.
+
+
+[5] | On December 15, 2021, we applied for NSBI - Export development program and recognized $23,663 as other income in the consolidated statements of operations and comprehensive loss.
+
+b) Deferred government assistance
+
+
+ | As of December 31, | 
+ | 2022 | | | 2021 | 
+SDTC [1] | $ | 799,490 | | | $ | 846,612 | 
+Deferred government assistance [2] | | 319,017 | | | | 3,038 | 
+ | | 1,118,507 | | | | 849,650 | 
+Less: current portion | | (799,490 | ) | | | (846,612 | )
+ | $ | 319,017 | | | $ | 3,038 | 
+
+
+[1] | On May 15, 2018, we entered into an agreement with the Canada Foundation for Sustainable Development Technology Canada (“SDTC”) for $4.2 million. The contribution provides funding for eligible costs incurred relating to the further development and demonstration of technology related to solar cells in connection with the project entitled “Enabling solar flight a testing ground for lightweight and efficient solar panels”. On March 30, 2021, we have received an additional 5% contribution from SDTC of $0.2 million. During the year ended December 31, 2022, we have recognized $Nil (2021: $0.2 million) as government assistance in the consolidated statements of operations and comprehensive loss.
+[2] | On November 10, 2022, we entered into an agreement with the Economic Development Agency of Canada for the Regions of Quebec (“EDC”) for $1.5 million. The contribution provides funding for eligible costs incurred relating to improvement of the Thurso facilities and the acquisition of digital production equipment. On December 20, 2022, we have received approximately $1.1 million of the total contribution and as of December 31, 2022 we have recognized $0.4 million in deferred government assistance. During the year ended December 31, 2022, we have recognized $Nil (2021: $Nil) as government assistance in the consolidated statements of operations and comprehensive loss. 
+
+
+ 
+
+  
+c) Government assistance recognized in the consolidated statements of operations and comprehensive loss
+
+
+ | Year ended December 31, | 
+ | 2022 | | 2021 | 
+Innovative UK | $ | — | | $ | 161,990 
+Payroll subsidies | | 77,075 | | | 741,322 
+Amortization of deferred government assistance | | 3,047 | | | 145,739 
+R&D tax credit | | 138,410 | | | — 
+Fair value gain on initial recognition of ACOA loans | | — | | | 236,021 
+SDTC | | — | | | 448,894 
+ | $ | 218,532 | | $ | 1,733,966
+
+ 
+
+21. Interest expense, net
+  
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+Non-cash interest accretion | $ | (403,317 | ) | | $ | (904,925 | )
+Interest & bank charges | | 133,518 | | | | (220,460 | )
+Interest income | | 95,565 | | | | 18,940 | 
+ | $ | (174,234 | ) | | $ | (1,106,445 | )
+
+ 
+22. Loss on financial instruments, net
+
+
+ | Year ended December 31, | 
+ | 2022 | | 2021 | 
+Loss on unsecured convertible promissory notes – Bridge loan | $ | — | | $ | (19,163,417 | )
+Loss on unsecured convertible promissory notes – Torchlight notes | | — | | | (343,197 | )
+Loss on secured convertible debentures | | — | | | (16,957,029 | )
+Loss on unsecured convertible debentures | | — | | | (4,076,448 | )
+ | $ | — | | $ | (40,540,091 | )
+
+
+No loss on financial instruments for the years ending December 31, 2022 and December 31, 2021 represent non-cash losses resulting from remeasurement of the fair value of convertible financial liabilities at each balance sheet date or on conversion date using the fair value option.
+
+Each of the above referenced promissory notes and debentures included a conversion feature, exercisable at the option of the debt holder. For accounting purposes, each of these conversion features is an embedded derivative in the note or debenture. We elected to account for fluctuations in (a) the value of the liabilities driven by interest rate volatility and our credit risk and (b) the embedded derivatives driven by fluctuations in the Company’s common stock share price using a method known as Fair Value option. This accounting method calls for the Company to measure the fair value of the convertible financial liabilities at each balance sheet date and to record any fluctuations in the values that as non-cash adjustments relating to instrument specific credit risk in the other comprehensive income and non-cash adjustments relating to other factors in the statements of operations. If, as in the case of the liabilities described above, the debt is converted, the valuations and any adjustments are to be recorded as of the date of such conversion.
+
+The Fair Value option also provides that the total revaluation adjustment be recorded in Common Stock and additional paid in capital thus having no impact on stockholders' equity despite the recording of the loss in the statement of operations.
+
+
+
+23. Other expenses, net
+  
+ | Year ended December 31, | 
+ | 2022 | | | 2021 | 
+O&G assets maintenance cost [1] | $ | (3,859,851 | ) | | $ | (14,155,851 | )
+Government Assistance (note 20) | | 218,532 | | | | 1,733,966 | 
+Other income | | 72,038 | | | | 8,850 | 
+Fair value gain on long-term debt | | 56,185 | | | | 2,278 | 
+Fair value gain on funding obligation (note 24) | | 79,339 | | | | 471,689 | 
+ | $ | (3,433,757 | ) | | $ | (11,939,068 | )
+
+
+[1] | We incurred costs in relation to certain drilling activity carried out at its Oil and Gas properties, to remain in compliance with all aspects of our lease obligations and to satisfy the Continuous Drilling Clause ("CDC") with University Lands. Subsequent to December 14, 2022, these oil and gas assets, and the associated lease obligations, are no longer owned by us, as they formed part of the net assets deconsolidated as part of the Next Bridge spin-off (see note 5). 
+
+ 
+24. Funding obligation
+  
+ | As of December 31, | 
+ | 2022 | | | 2021 | 
+Outstanding obligation [1] | $ | 959,835 | | | $ | 1,025,398 | 
+Fair value of interest-free component [2] | | (852,573 | ) | | | (855,060 | )
+Principal adjusted for interest-free component | | 107,262 | | | | 170,338 | 
+Accumulated non-cash interest accretion | | 73,443 | | | | 98,638 | 
+Carrying amount | | 180,705 | | | | 268,976 | 
+Less current portion | | — | | | | — | 
+ | $ | 180,705 | | | $ | 268,976 | 
+
+
+[1] | In June 2019, we entered into a statement of work (“SOW”) with a third party for the purchase of manufacturing equipment. The SOW was initiated based on the Industrial and Regional Benefits general investment funding between the third party and the Government of Canada. We received the funds in two tranches after achieving two milestones as per the SOW. The funds are repayable, commencing three years from date of receipt, based on 10% of revenue from the sale of holographic film that is produced using the related manufacturing equipment paid for under this funding obligation. In June 2019, we achieved the first milestone and received CA$325,000 and in October 2019, we achieved the second milestone and received CA$975,000. We have not sold holographic film related to this SOW to date.
+
+
+[2] | The amounts received under the agreement have been recorded at fair value by applying the effective interest rate method on the dates the funding was received, using an estimated market interest rate of 15%. During the year ended December 31, 2021, we elected to bring the market interest rate to current rates and increased it to 19.17%. Following management discussions, the revenue generation ability from the manufacturing equipment bought under the funding obligation was reduced, resulting in a longer repayment period. The combination of these two changes prompted us to recognize a gain of $79,339 for the year ended December 31, 2022 (2021, $471,004) in the consolidated statements of operations and comprehensive loss.
+
+25. Leases
+We lease properties in USA, Canada, United Kingdom, and Greece for production, research and development and administration.
+Total operating lease expense included in the consolidated statements of operations and comprehensive loss is as follows:
+
+
+ | Year ended December 31, | 
+ | 2022 | | 2021 | 
+Operating lease expense | $ | 2,057,157 | | $ | 546,197
+Short term lease expense | | 584,645 | | | 229,475
+Variable and other lease expense | | 263,500 | | | 92,862 
+Total | $ | 2,905,302 | | $ | 868,534
+
+
+We completed our evaluation of the provisions of ASC 842 "Leases" and elected the practical expedient to not capitalize any leases with initial terms of less than twelve months on our balance sheet and include them as short-term lease expense in the consolidated statements of operations and comprehensive loss.
+
+Future minimum payments under non-cancelable operating lease obligations were as follows as of December 31, 2022:
+
+
+2023 | $ | 1,261,249 | 
+2024 | | 1,263,455 | 
+2025 | | 1,153,305 | 
+2026 | | 994,967 | 
+Thereafter | | 2,892,472 | 
+Total minimum lease payments | | 7,565,448 | 
+Less: interest | | (3,223,291 | )
+Present value of net minimum lease payments | | 4,342,157 | 
+Less: current portion of lease liabilities | | (967,126 | )
+Total long-term lease liabilities | $ | 3,375,031 | 
+
+
+Supplemental balance sheet information related to leases is as follows:
+
+
+ | Year ended December 31,
+ | 2022 | 2021 
+Weighted Average Remaining Lease Term | 5 years | 5 years
+Weighted Average Discount Rate | 17.17 % | 17.85% 
+
+ 
+
+
+
+26. Commitments and contingencies
+
+Legal Matters
+
+SEC Subpoena
+In September 2021, we received a subpoena from the Securities and Exchange Commission, Division of Enforcement, in a matter captioned In the Matter of Torchlight Energy Resources, Inc. The subpoena requests that we produce certain documents and information related to, among other things, the merger involving Torchlight Energy Resources, Inc. and Metamaterial Inc. We are cooperating and intend to continue to cooperate with the SEC’s investigation. We can offer no assurances as to the outcome of this investigation or its potential effect, if any, on us or our results of operation.
+Securities Class Action
+
+On January 3, 2022, a putative securities class action lawsuit was filed in the U.S. District Court for the Eastern District of New York captioned Maltagliati v. Meta Materials Inc., et al., No. 1:21-cv-07203, against us, our Chief Executive Officer, our Chief Financial Officer, Torchlight’s former Chairman of the Board of Directors, and Torchlight’s former Chief Executive Officer. On January 26, 2022, a similar putative securities class action lawsuit was filed in the U.S. District Court for the Eastern District of New York captioned McMillan v. Meta Materials Inc., et al., No. 1:22-cv-00463. The McMillan complaint names the same defendants and asserts the same claims on behalf of the same purported class as the Maltagliati complaint. The complaints, purportedly brought on behalf of all purchasers of our publicly traded securities from September 21, 2020 through and including December 14, 2021, assert claims under Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 (the “Exchange Act”) arising primarily from a short-seller report and statements related to our business combination with Torchlight. The complaints seek unspecified compensatory damages and reasonable costs and expenses, including attorneys’ fees. On July 15, 2022, the Court consolidated these actions under the caption In re Meta Materials Inc. Securities Litigation, No. 1:21-cv-07203, appointed lead plaintiffs and approved the lead plaintiffs’ selection of lead counsel. Lead plaintiffs filed a consolidated complaint on August 29, 2022.  We moved to dismiss that complaint on October 13, 2022. The motion was fully briefed on January 12, 2023. The Court held a hearing on the motion to dismiss on February 27, 2023 and took the motion under submission.
+Shareholder Derivative Action
+On January 14, 2022, a shareholder derivative action was filed in the U.S. District Court for the Easter District of New York captioned Hines v. Palikaras, et al., No. 1:22-cv-00248. The complaint names as defendants certain of our current officers and directors, certain former Torchlight officers and directors, and us (as nominal defendant). The complaint, purportedly brought on behalf of the Company, asserts claims under Section 14(a) of the Exchange Act, contribution claims under Sections 10(b) and 21D of the Exchange Act, and various state law claims such as breach of fiduciary duties and unjust enrichment. The complaint seeks, among other things, unspecified compensatory damages in favor of the Company, certain corporate governance related actions, and an award of costs and expenses to the derivative plaintiff, including attorneys’ fees. On March 9, 2022, the Court entered a stipulated order staying this action until there is a ruling on a motion to dismiss in the securities class action.
+Westpark Capital Group
+On July 25, 2022, WestPark Capital Group, LLC filed a complaint in Los Angeles County Superior Court against us for breach of contract, alleging that it is owed a $450,000 commission as a placement agent with respect to our June 2022 direct offering. On August 31, 2022, we filed an answer to the complaint. We dispute that WestPark Capital Group placed the investor in the direct offering and is owed a commission.
+Contractual Commitments and Purchase Obligations
+a)During 2018, we arranged a guarantee/standby letter of credit with RBC in favor of Satair A/S for $500,000 in relation to an advance payment received. In the event we fail to deliver the product as per the contract or refuse to accept the return of the product as per the buyback clause of the contract or fails to repay the advance payment in accordance with the conditions of the agreement signed with Satair on September 18, 2018, Satair shall draw from the letter of credit with RBC. Borrowings from the letter of credit with RBC are repayable on demand. The letter of credit from RBC is secured by a performance security guarantee cover issued by Export Development of Canada. Further, this guarantee/standby letter of credit expires on October 5, 2023. As of December 31, 2022, no amount has been drawn from the letter of credit with RBC. 
+b)On December 8, 2016, we entered into a cooperation agreement with a large aircraft manufacturer to co-develop laser protection filters for space and aeronautical civil and military applications, metaAIR®, and support the setup of manufacturing facilities for product certification and development. The cooperation agreement includes financial support provided to us in the form of 
+ 
+non-recurring engineering costs of up to $4 million to be released upon agreement of technical milestones in exchange for a royalty fee due by us on gross profit after sales and distribution costs. The total royalty fee to be paid may be adjusted based on the timing of our sales and the amount ultimately paid to us by this large aircraft manufacturer to support the development.
+c)Certain nano-optic products are subject to a 3% sales royalty in favor of Simon Fraser University (“SFU”) where certain elements of the nano-optic technology originated. Royalties were $1,575 during the twelve months ended December 31, 2022 (2021 - nil). In 2014, the Company's wholly owned subsidiary, Nanotech, prepaid royalties that would offset against future royalties owed as part of the transfer of the intellectual property from SFU, of which $195,441 remains prepaid as at December 31, 2022 (December 31, 2021 - $197,016).
+d)Product revenue associated with six patents acquired by Nanotech is subject to royalties. We agreed to share 10% of any revenues related to the patents received from a specific customer for a period of two years and ongoing royalties of 3% to 6% on other revenues derived from the patents for a period of five years. There were no royalties during the year ended December 31, 2022.
+e)On September 1, 2022, we entered into an operating lease agreement for the space of approximately 11,642 Square Footage for an office in a building located in Columbia, Maryland, USA. This was not recognized as an operating lease in 2022, as we have not yet occupied premises as of December 31, 2022, due to ongoing construction with a lease term of 132 months onwards with an option to renew the lease for an additional 5 years. There are step-up lease payments for each 12-month period from lease commencement, with the first 12 months fully abated. 
+f)On October 1, 2022, we entered into an operating lease agreement for the space of approximately 12,655 Square Feet on the 2nd Floor of Building One, in two separate sections: Phase 1: 8,097 Rentable Square Footage; and Phase 2: 4,558 Rentable Square Footage in a commercial building located in Billerica, Massachusetts, USA. This was not recognized as an operating lease in 2022, as we have not yet occupied either premise as of December 31, 2022, due to ongoing renovations. The lease terms are  years and  months for both spaces commencing from the delivery date in which each space will be made readily available. Lease payments are to commence from the delivery date for each Phase until the end of the lease term with an option to renew the lease for an additional 5 years. Annual Lease payments will be $18.00 per Square Feet in the Lease Year 1, $18.50 per Square Foot in Lease Year 2, $19.00 per Square Foot in Lease Year 3, $19.50 per Square Foot in Lease Year 4, and $20.00 per Square Feet in Lease Year 5
+g)As of December 31, 2022, we have on-going commitments for leases and maintenance contracts as follow:
+
+
+2023 | $ | 267,210 
+2024 | | 557,747 
+2025 | | 569,240 
+2026 | | 583,795 
+Thereafter | | 5,207,113
+ | $ | 7,185,105
+
+ 
+
+27. Subsequent events
+
+On February 10, 2023, we entered into a sales agreement (the "ATM Agreement") with an investment bank with the establishment of an “at-the-market” offering program under which we may sell up to an aggregate of $100.0 million of shares of common stock (the “ATM Shares”) from time to time. The sales agents are entitled to compensation at a fixed commission rate of 3.0% of the gross proceeds of each sale of shares of our common stock.
+
+Under the ATM Agreement, we set the parameters for the sale of ATM Shares, including the number of ATM Shares to be issued, the time period during which sales are requested to be made, limitations on the number of ATM Shares that may be sold in any one trading day and any minimum price below which sales may not be made. Sales of the ATM Shares, if any, under the ATM Agreement may be made in transactions that are deemed to be “at-the-market offerings” as defined in Rule 415 under the Securities Act.
+
+As of March 20, 2023, we have sold an aggregate of 17,573,969 shares of our common stock pursuant to the ATM Agreement for aggregate gross proceeds of approximately $10.5 million.
+
+Subsequent to December 31, 2022, 1,042,000 stock options were exercised, 1,288,789 RSUs have vested and settled and 39,278 RSUs have been forfeited.
+
+ 

@@ -1,0 +1,489 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. DESCRIPTION OF BUSINESS
+ 
+Overview and recent developments
+ 
+Viewbix Inc. (the “Registrant”, “Viewbix” or the “Company”) was incorporated in the State of Delaware on August 16, 1985, under a predecessor name, The InFerGene Company (“InFerGene Company”). On August 25, 1995, a wholly owned subsidiary of InFerGene Company merged with Zaxis International, Inc., an Ohio corporation, which following such merger, the surviving entity, InFerGene Company, changed its name to Zaxis International, Inc. (“Zaxis”).
+ 
+On March 16, 2015, Zaxis and Emerald Medical Applications Ltd., a private limited liability company organized under the laws of the State of Israel (“Emerald Israel”) executed a share exchange agreement, which closed on July 14, 2015, and Emerald Israel became the Company’s wholly-owned subsidiary. Accordingly, on September 14, 2015, the Company changed its name to Emerald Medical Applications Corp. Emerald Israel was engaged in the business of developing Emerald Israel’s DermaCompare technology and the development, sale and service of imaging solutions utilizing its DermaCompare software for use in derma imaging and analytics for the detection of skin cancer. On January 29, 2018, the Company ceased the DermaCompare operations of its former subsidiary. On May 2, 2018, the District Court of Lod, Israel issued a winding-up order for Emerald Israel and appointed an Israeli attorney as special executor for Emerald Israel.
+ 
+On January 17, 2018, the Company formed a new wholly-owned subsidiary under the laws of the State of Israel, Virtual Crypto Technologies Ltd. (the “VCT Israel”), to develop and market software and hardware products facilitating and supporting the purchase and/or sale of cryptocurrencies through ATMs, tablets, personal computers (“PCs”) and/or mobile devices. On February 22, 2018, the Company’s name was changed from Emerald Medical Applications Corp. to Virtual Crypto Technologies, Inc. to reflect its new operations and business focus. On January 27, 2020, VCT Israel was sold to a third party for NIS 50,000 ($14,459).
+ 
+On February 7, 2019, the Company entered into a share exchange agreement (the “Recapitalization Transaction”) with Gix Internet Ltd. (formerly known as Algomizer Ltd.), a company organized under the laws of the State of Israel (“Gix Internet” or “parent company”), pursuant to which, Gix Internet assigned, transferred and delivered 99.83% of its holdings in Viewbix Ltd., a company organized under the laws of the State of Israel (“Viewbix Israel”), to the Company in exchange for shares of restricted common stock, par value $0.0001 per share (“Common Stock”) of the Company, which resulted in Viewbix Israel becoming a subsidiary of the Company. In connection with the Recapitalization Transaction, effective as of July 26, 2019, the Company’s name was changed from Virtual Crypto Technologies, Inc. to Viewbix Inc.
+ 
+Reorganization Transaction with Gix Media Ltd.
+ 
+On December 5, 2021, the Company entered into a certain Agreement and Plan of Merger (the “Reorganization Transaction”) with Gix Media Ltd., an Israeli company and the majority-owned subsidiary of Gix Internet, in the field of MarTech (Marketing Technology) solutions, primarily search and content monetization (“Gix Media”) and Vmedia Merger Sub Ltd., an Israeli company and wholly-owned subsidiary of the Company (“Merger Sub”), pursuant to which, following the Reorganization Transaction, and upon satisfaction of additional closing conditions, Merger Sub will merge with and into Gix Media, with Gix Media being the surviving entity and wholly-owned subsidiary of the Company. Prior to the closing of the Reorganization Transaction, Gix Media was a majority-owned subsidiary of Gix Internet, which held approximately 58% of the Common Stock of the Company, on a fully diluted basis.
+ 
+On September 19, 2022, the Reorganization Transaction, was consummated (the “Closing”) and, as a result, all outstanding ordinary shares of Gix Media, having no par value (the “Gix Media Shares”) were exchanged for shares of the Company’s Common Stock such that Gix Media became a wholly owned subsidiary of the Company. Following the Reorganization Transaction, holders of the Gix Media Shares held 90% of the Company’s Common Stock on a fully diluted basis, with Gix Internet holding 76.67% of the Common Stock on a fully diluted basis.
+ 
+
+4
+-
+
+ 
+
+The following diagram illustrates the associated corporate structure of the Company prior to and following the Reorganization Transaction.
+ 
+
+Following the closing of the Reorganization Transaction, the Company began to integrate Gix Media’s technology into its operations aiming to expand its growth potential in the search and content monetization space. Gix Media’s business operations include both (i) the provision of services to the world’s leading search engines through the development, marketing and distribution of free software to many Internet users, and (ii) editing and marketing of content in different languages to different target markets, for the purpose of monetizing advertisements on digital marketing and advertising platforms.
+ 
+In connection with the Closing, effective as of August 31, 2022, the Company adopted an Amended and Restated Certificate of Incorporation (“Certificate of Incorporation”), pursuant to which the Company, among other things, effected a reverse stock split of its Common Stock at a ratio of 1-for-28 (the “Reverse Split”) and an Amended and Restated Bylaws (“Bylaws”). All descriptions of our stock capital, including share amounts and per share amounts in this Annual Report, are presented after giving effect to the Reverse Split.
+ 
+Acquisition of Cortex Media Group Ltd.
+ 
+On October 13, 2021, Gix Media acquired 70% (on a fully diluted basis) of the share capital of Cortex Media Group Ltd. (“Cortex” and the “Cortex Acquisition”, respectively), an Israeli private company operating in the field of online media and advertising. In consideration for the Cortex Acquisition, Gix Media paid NIS 35 million in cash (approximately $11 million), out of which an amount of $0.5 million was deposited in trust for a period of 12 months from the closing date. The Cortex Acquisition also includes the obligation and right of Gix Media to acquire 30% of Cortex’s share capital in three equal tranches, each at the beginning of 2023, 2024 and 2025 (“Remaining Balance Shares”), such that following the acquisition of all of the Remaining Balance Shares, Gix Media will hold 100% of Cortex’s share capital on a fully diluted basis. On January 23, 2023, Gix Media purchased an additional 10% of Cortex’s share capital.
+
+5
+-
+
+ 
+
+In connection with the Cortex Acquisition, on October 13, 2021, Gix Media entered into a financing agreement with Bank Leumi Le Israel Ltd (“Leumi”), for the provision of a line of credit in the total amount of up to $3.5 million and a long-term loan totaling $6 million, which Gix Media used to finance the Cortex Acquisition (the “Financing Agreement”). On July 25, 2022, Gix Media and Leumi entered into an addendum to the Financing Agreement according to which Leumi will provide Gix Media with a loan of up to $1,500,000 to be withdrawn at the discretion of Gix Media by no later than January 31, 2023 (the “Additional Loan”). The Additional Loan was withdrawn in connection with the purchase of the additional 10% of Cortex’s share capital on January 17, 2023.
+ 
+Viewbix Business Overview
+ 
+Viewbix is a digital advertising platform that develops and markets a variety of technological platforms that automate, optimize and monetize digital online campaigns. Viewbix’s operations were previously focused on analysis of the video marketing performance of its clients as well as the effectiveness of their messaging (“Video Advertising Platform”). With the Video Advertising Platform, Viewbix allowed its clients with digital video properties the ability to use its platforms in a way that allows viewers to engage and interact with the video. The Video Advertising Platform measures when a viewer performs a specific action while watching a video and collects and reports the results to the client. However, due to the Company’s failure to meet predetermined sales targets which were set pursuant to the Recapitalization Transaction, in January 2020, the Company determined to reduce its operations and the size of its sales and R&D team in the Digital Advertising Platform.
+ 
+The Company, through its subsidiaries Gix Media and Cortex, expanded its digital advertising operations across two additional main pillars: ad search and digital content (the “Search Platform” and the “Content Platform”, respectively”). Gix Media and Cortex develop and market a variety of technological software solutions that automate, optimize and monetize online campaigns. Cortex also creates, edits and markets content in various languages to different target audiences in order to generate revenues from advertisements displayed together with the content, which are posted on digital content, marketing and advertising platforms. These technological tools enable advertisers and website owners to earn more from their advertising campaigns and generate additional profits from their sites.
+ 
+Through its Search Platform, the Company provides services to leading search engines worldwide (“Search Engines”) by developing, marketing and distributing software products to internet users. The operations and activity on this platform are powered by Gix Media.
+ 
+Through the Content Platform, the Company provides editing and marketing services of content in different languages and to different target audiences with the goal of generating revenues from advertising employed in such content, which is based on digital content marketing and advertising platforms. The operations and activity on this platform are powered by Cortex.
+ 
+Search Platform
+ 
+Gix Media’s Search Platform allows for the referral of user traffic (i.e., searches that are performed by internet users) to Search Engines, such as Yahoo and Bing, where the Search Engines display the ads of their customers. The Search Engines pay Gix Media for the searches that were referred by it, based on the amount of consideration that the Search Engine receives from the advertisers for the user traffic generated, less a certain percentage from the revenues attributed to the Search Engine. Since the customers of Gix Media are the Search Engines, and not the advertisers, Gix Media recognizes revenues for the actual amount received from the Search Engines, and not from the advertisement revenue itself.
+
+6
+-
+
+ 
+
+
+The referral of user traffic by Gix Media to the Search Engines is possible after users download Gix Media’s products, which are browser add-ons, usually from the browser stores (mostly Google Chrome browsers) and by downloading desktop software products, free of charge, for the Apple operating system (for Mac computers) and for the Microsoft operating system (for PC computers). When downloading Gix Media’s products, the users grant permission to Gix Media to refer the searches performed while using Gix Media’s products to the Search Engines.
+ 
+In addition, Gix Media provides user traffic referral services to Search Engines through the referral of traffic of browsers who engage content generated by Gix Media. This content is displayed on ad spaces that are purchased by the Company by content recommendation companies (such as Yahoo!, Outbrain, Taboola and Gemini). When occasional users click on such content, Gix Media transfers user traffic to a Search Engine which contains search words that are related to the advertising content.
+ 
+Content Platform
+ 
+Cortex’s Content Platform produces engaging content and marketing material in various languages to various target audiences, in order to generate revenues from advertisements displayed together with the content, which are posted on digital content, marketing and advertising platforms. Cortex acts as a digital content platform that publishes content written by creative writers and editors which it employs. The content is displayed on several different content websites owned by Cortex, covering various subjects including culture, history, trips, pets, entertainment and leisure, food, etc. (the “Cortex Websites”). Cortex developed capabilities that enables it and its customers to profit from the original content which it publishes by advertising the content on leading international websites. Readers are exposed to the articles and may choose to read them by clicking an ad, after which readers are directed automatically to the Cortex Websites where the content is posted.
+
+7
+-
+
+ 
+
+
+The technological tools developed by Cortex allow businesses in the digital advertising market (search engines, ad exchanges, advertisers, content owners and brand owners) to earn more from their advertising campaigns and generate additional profit from their websites, both from its content and from its advertising.
+ 
+Advertisers display ads on the different platforms for potential customers (internet users and readers). In order to help maximize the effectiveness of advertising, Cortex developed different advertising systems and tools for content management, content distribution and campaigns and measurement of performance on the various platforms that display the content.
+ 
+Business Model
+ 
+The Search and Content Platform are operated through two models, direct and indirect:
+ 
+Direct Model
+ 
+Gix Media operates its Search Platform using a direct model whereby it refers searches that are conducted by users of its products, which are thereafter distributed to Search Engines directly by Gix Media.
+ 
+Additionally, through the direct model Gix Media refers user traffic to the Search Engines by purchasing advertising space on leading publishing websites around the world using content recommendation companies such as Taboola and Outbrain, such that user traffic referred by it to the Search Engines is created by users on the websites where the ad is displayed.
+ 
+The revenues generated by Gix Media from the Search Platform applying this model, constituted approximately 7% and 15% of the total revenues of Gix Media for the fiscal year-ended December 31, 2022 and December 31, 2021, respectively.
+ 
+Cortex operates its Content Platform using the direct model through an Artificial Intelligence (“AI”) based system developed by Cortex, which connects user traffic and advertisers (the end customers of Cortex) who advertise on the Cortex Websites through online, algorithmic, and customized advertising. See “Item 1. Description of Business – Business Overview – Products and Services – Content Platform”, for further information on the AI system and other systems devolved by Cortex.
+ 
+
+8
+-
+
+ 
+
+The revenues generated by Cortex from the Content Platform are entirely from the direct model.
+ 
+Indirect Model
+ 
+Gix Media also operates its Search Platform using an indirect model, whereby it refers searches that are conducted by users of products developed by third party strategic partners (in contrast to users of its own products as conducted through the direct model), which are thereafter distributed to Search Engines by Gix Media. Gix Media engages with strategic partners who have similar products and allow these strategic partners to integrate Gix Media’s technological tools into their own products in order to refer searches conducted by resulting users to the customers of Gix Media. Using this model, Gix Media shares revenues received from Search Engines with its strategic partners.
+ 
+The revenues generated by Gix Media from the Search Platform applying this model, constituted approximately 93% and 85% of the total revenues of Gix Media for the fiscal year-ended December 31, 2021 and December 31, 2022, respectively.
+ 
+Growth Strategy
+ 
+
+● | Growth through Mergers and Acquisitions. We continue to identify attractive opportunities in the digital advertising market and examine different options to perform additional acquisitions. We focus on companies with substantial revenues that operate in emerging industries and which present considerable commercial potential. We believe that we can expand our footprint in our industry through mergers and acquisitions, which will also lead to the recruitment of additional human capital thereby supporting existing and new customer needs.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expansion of Product Range, Search Platform. In 2023 we intend to focus on the expansion of our product range by the development and distribution of new products in attractive yet related sectors. In addition to our digital content activities, we plan to concentrate on increasing the volume of content that the Company produces in different topics, which will enable a higher exposure of readers and will increase the time spent on our websites, and will also enable us to increase the number of impressions to ads on our websites. Due to our extensive technological platforms, customer base and existing partners, and our vast experience in creating unique and engaging content and launching products, we expect that we will be able to develop and commercialize new products. We plan to do this by recruiting additional human capital that will support the expansion of our product base and increase the amount of content that is produced.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expansion of Product Range, Content Platform. We intend to focus on increasing the amount of content that we publish in order to increase the typical reader’s visit on our websites. Extended periods of time spent reading the articles on our websites will allow us to increase the number of ad impressions. We intend to increase the amount of digital content in Spanish and to begin posting on our websites content in other languages such as German and French. The addition of new languages is part of our strategy to enter into international markets outside the United States (“Go Global”). For this purpose, we plan to allocate resources for the production and development of high-quality content in additional languages, and to enter into agreements with advertisement specialists in select countries.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Collaborations. We intend to continue to enter into distribution agreements and collaboration agreements with distributors and partners in connection with our Search Platform, in various regions and territories, in order to facilitate the development, sales, marketing and distribution of our systems.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+9
+-
+
+Products and Services
+ 
+Search Platform
+ 
+
+● | Add-ons to internet browser (referral of searches directly and indirectly). Internet users download free browser add-ons, usually from browser stores. These browser add-ons enhance browser capabilities when activated by the user, and offer users services such as file converters, video players, radio players, games, safe internet usage, different designs of backgrounds, different calculators and more. In addition, these add-ons allow us to refer the searches of these users to the customers of the Search Engines.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Desktop and mobile apps (referral of searches directly and indirectly). Free software products for the Apple and PC computers provide users services similar to the add-ons of the internet browsers. After the users download these software products, they grant permission to us to refer the searches performed on these products to the Search Engines.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Mobile devices applications (launcher). This product is used as an external envelope for the operating system and enables the display of a different appearance and other options that do not typically exist in the standard system. Unlike iPhones, Android-based devices can customize almost any feature on the device. However, not all user interfaces of the device manufacturers give the user the freedom to customize the device. For the purpose of solving this problem, we developed applications for these launchers, which allow the user to receive a customized interface. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Native to Search (referral of searches directly). The Native to Search system is an automated system for the purchase and sale of ad spaces based on search terms. The system purchases ad spaces for a certain vertical and analyzes a number of different search words from the same vertical in which it performs optimization in a number of tiers: purchase/sale price of each search word, the volume of traffic that is available for each search word and clicking percentage for each search word (CTR).This system is an inter-organizational system used by us, and does not generate revenues for us. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The process of referring searches to Search Engines starts with the purchase of ad space in leading content publishing websites by content recommendation platforms (such as Gemini, Yahoo!, Taboola and Outbrain). Such ad space displays content ads of ours on various subjects. The ad will offer the user a link to receive information or content on a specific subject. Users who click these content ads will be directed to the webpage of the Search Engine’s results that includes relevant content from the Search Engines, based on the search terms related to the ad content.
+ 
+
+○ | Stage A: Content ad of Gix Media is displayed in an ad space that was purchased by Gix Media on a publisher’s website. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+10
+--
+
+
+○ | Stage B: Search results are displayed to the user after the user clicked the ad content. 
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+When purchasing these ad spaces, we receive assistance from Search Ads, a system that we developed for the purpose of managing the purchase process. These self-designed systems will then find an optimal combination designed to yield maximum profits at a given time in relation to specified variables, such as: the costs of the ad space, the payment that we will receive as a result of user traffic that was referred by our content ads on this ad space, the amount of available user traffic for the different search terms and the click percentage of each such search. In addition, our self-designed system can also stop a purchase and change prices for the purpose of maximizing performance.
+ 
+Search Systems:
+ 
+The technological backbones of our Search Platform involves the following key systems:
+ 
+
+● | Online campaign management. This system runs various platforms and includes modules for measurement of campaign performance, Business Intelligence (“BI”) tools, and general management of campaigns for different customers. The system enables optimization and automation of internet campaigns by data and recommendations provided by the BI system. These systems are based on predictive models that were developed by Gix Media. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | AI systems. Gix Media developed AI systems which are used for the optimization of the appearance of the content displayed to users, including landing pages and the creation of landing pages. This system periodically analyzes and assesses the effectiveness of the content displayed to users. These AI systems extract and analyze data from our intelligence and fraud detection systems and automatically recommend the most effective and efficient content in real- time. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+11
+--
+
+
+● | “Intelligence” system. This system automatically selects landing pages through a self-designed optimization tool from various web pages, specifically those treated as most applicable, in real time in order to improve the conversion rate of users’ views to product installations. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fraud detection system. This system detects, through the use of an algorithm, fraud attempts to flood our systems with misinformation, including, for example, misinformation regarding the installation attempts of browser add-ons. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Proprietary BI system. This system was developed by Gix Media and includes three layers: 
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+(i) | Infrastructure. This layer allows transmission of statistical data regarding various events according to certain criteria and/or requirements set by us, including: performance of online searches, performance of any action on ads, performance of an installation, etc. The infrastructure collects a wide variety of background data on any event and dozens of parameters that are registered and collected (while complying with privacy protection laws that apply to our operations), which allows the performance of business and technical optimizations. 
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(ii) | Data processing and storage. This layer allows us to process the big-data we gather on our platforms and to divide such data into interim tables based on different parameters. This stage is performed daily, by a tool that was developed by Gix Media. Vast amount of data is accumulated on a daily basis, which requires a secure, easy to access storage that can be cost-effectively analyzed thereafter. For this purpose, Gix Media uses a combination of in-house technology and external tools of leading companies, such as Microsoft and Google. 
+-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(iii) | Data presentation. This layer presents the data to Gix Media’s customers in an easy, fast, and convenient manner, while combining other layers of information and integrating statistical models that were developed by Gix Media. The presentation tool that we use is Sisense, a popular BI platform, which is a tool used by leading companies in the industry around the world and ranked highly by the Gartner Company. 
+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The BI system allows us to have real time control over critical events occurring on our systems by sending alerts directly to our employees with the relevant information, including assistance to customers in purchasing media, reports about malfunctions and the discovery of any irregular online behavior. In addition, the BI system also sends automated reports to us and to our different partners (providers/customers), which present data on a weekly/quarterly/monthly or on a cumulative basis to be used by management and finance departments.
+ 
+
+● | Automatic creation. This system, known as Tabzmania, allows users to create browser add-ons such as backgrounds, and, by using its extension, can create different types of add-ons for content websites. The system includes models, content creation, additions of applications and distribution of content. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+12
+--
+
+Content Platform
+ 
+Our Content Platform operations primarily focus on the development of an AI-based software that connects internet and mobile users (the “Users”) who browse on the Cortex Websites (the “Readers”) to advertisers and who pay Cortex to display ads with the content published by Cortex on the Cortex Websites with online customized advertisements (the “Software”).
+ 
+The Software that Cortex develops is primarily based on nine technological components: (1) monitoring and Big Data, (2) campaign management, (3) content monetization, (4) targeted AI tools to predict Google monetization, (5) campaign launching, (6) digital content management, (7) digital content index and labeling, (8) bidding management and ad optimization, and (9) an A/B testing for performance comparison.
+ 
+The Software operates as one integral system that enables a smart connection between the traffic of Users and advertisers which are Cortex’s customers.
+ 
+The business model used by Cortex on the Content Platform is the direct model. The revenues from the Content Platform are generated from the consideration Cortex receives from the advertisers, either based on the number of views the ads receive or based on the number of Users who clicked on the ads and were re-directed to the advertisers’ websites.
+ 
+
+13
+--
+
+ 
+
+The following illustration describes the Readers’ traffic acquisition process:
+ 
+
+
+The Software manages the traffic activities of Users to the Cortex Websites by re-directing their traffic from various online platforms (such as Yahoo, AOL, Zamenta and Outbrain). By using machine learning and AI, the Software analyzes the properties of a given User and compares the data to the historical data of other Users and then analyzes the probability that the given User’s interaction with the promoted content will advance to a conversion process, by either viewing the promoted ad on the Cortex Websites or by clicking on the promoted ad (“Conversion”).
+ 
+According to both the probability of Conversion calculated by the Software and the maximum predicted profit from the Conversion actions of the User, the Software determines the optimal purchase price for the traffic, in order to maximize ad revenues from Readers’ interactions.
+ 
+The algorithms that we develop help analyze the historical results of a User’s Conversions with respect to each advertiser and factor them together with the price per Reader that each advertiser pays. According to this analysis, the algorithm then decides which ad to display to each Reader in order to maximize the probability that the Reader’s interaction will reach a Conversion, and, in turn, maximize ad revenues.
+ 
+Content Systems: 
+ 
+The nine technological components of the Content Platform are as follows:
+ 
+
+● | Monitoring and Big Data Systems. An important element in our online ad campaign management and monitoring its performance results is an accurate log of the activities on the Cortex Websites. When a Reader is directed from other media outlets to the Cortex Websites, this system measures and documents in automated codes the properties of the Reader, such as the Reader’s IP address, geographic location, type of device used by the Reader and the Reader’s operating system, all in a manner which is in compliance with the applicable privacy rules and regulations. An average session of a Reader on the Cortex Websites generates approximately 1,000 different records. The system checks, inter alia, the types of web-pages viewed by the Reader, the length of time the Reader spent on each page, the types of advertisements the Reader viewed, the length of time the Reader viewed these advertisements, and whether the Reader is a returning Reader. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In addition, the Software identifies which advertisements were delivered to the Reader, the payment amount that the advertisers paid to Cortex for each ad read by the Reader, the length of time the Reader viewed the ad, and whether the Reader clicked the ad or not. This monitoring system allows us to accumulate and analyze such data about any User in an optimal manner.
+ 
+
+14
+--
+
+ 
+
+The vast number of Users who visit the Cortex Websites (which can reach up to one million Users per day) and the extensive information that Cortex collects in response, generate substantial traffic from the Users’ browser to the Cortex servers. Cortex developed a backend infrastructure to receive this traffic, process it, and document it in a manner to enable Cortex to assess such data in an effective and efficient manner.
+ 
+Our big data servers are responsible for processing the information transmitted to them by the monitoring system and are responsible for regulating the rate of updates to the databases. Cortex has a backup system in the event that one of its servers fails. This system collects and summarizes the information in tabular form for further analysis, in accordance with data processing regulations.
+ 
+
+● | Campaign management system. We purchase Readers’ traffic through paid campaigns for the Cortex Websites, which in turn generates revenues by the exposure of the Readers to the ads. Accordingly, advertisers pay us for each Reader exposed to the ads on the Cortex Websites. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The price quotations that we submit for traffic is critical; a price that is too high (higher than the proceeds obtained for this traffic) will result in a loss, and a price that is too low will result in a loss in bids for ad spaces and a decrease in the volume of activity. The optimal price is a function of the revenues obtained from each Reader, however in light of the fact that we first pay for the Users and only thereafter generate revenues, we aim to set an accurate price in order to predict, as accurately as possible, the revenues from each User.
+ 
+The AI system that Cortex developed seeks to manage all of these campaigns without any human involvement, which contributes to our revenues and the economic success of the campaign. This system manages up to 100,000 campaigns simultaneously, and each campaign runs in different ad spaces (Yahoo, MSN, FOX, CNN and others). The system is required to predict accurately, and at any given moment, the behavior of the targeted Users, and predict the amount of bids that competing advertisers will place for such ad space.
+ 
+As described above, in order to make effective recommendations, our technology must first predict a User’s interaction with a given promoted content. Our systems processes a significant number of records from the User databases and the data from our monetization system (as described further below), which allows us to determine which campaigns should be promoted and which campaigns should be halted, as well as the optimal value of each campaign.
+ 
+
+● | Content monetization system. Cortex works with dozens of advertisers that promote ads, display native ads, and videos on the Cortex Websites. The ads are displayed pursuant to a real-time bidding process for each User who browses on one of the Cortex Websites. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The purpose of the AI system for the valuation and prediction of the monetization is to predict the bids of the advertisers, according to a number of parameters, including the content of the article, the User, the day in the week and the time of day.
+ 
+The system is connected by an application programming interface (“API”) to tens of systems of advertisers who work with Cortex in the ad exchange. In light of the fact that hundreds of thousands of ad bids are held at any given hour, the system simultaneously runs through thousands of advertisers’ systems and retrieves accessible and relevant data.
+ 
+Additionally, algorithms analyze the historic data of the Reader’s behavior, the current data received from advertisers, and data regarding the results of the bids from the monitoring system, after which, the algorithms predict the demand of advertisers and the price that advertisers would pay for a future Reader. This prediction is performed on an individual level according to the User’s data, the type of article and the ad location.
+ 
+
+15
+--
+
+
+● | Targeted AI tools to predict Google monetization. Cortex developed an AI tool that is capable of predicting the price that Google will pay for ads in a specific space, as a function of several features, including the campaign itself, Users’ properties, the time of day, and the day in the week. When the tool sends bids to Google, it also sends encrypted third party data, which enables us to re-identify the bids. Using this encrypted data, the tool that Cortex developed then aggregates the data and reverse analyzes the amount that Google paid us for each campaign. This process is used as a predictive tool in order to predict the amount that Google will pay for future campaigns with us. This tool is regularly updated in real time, with new information that updates its predictive accuracy. Cortex successfully achieves such predictions at an accuracy level of more than 95%. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Campaign launch system. While our AI system manages automated campaigns from start to finish, without human intervention, the creation of the campaigns still requires human intervention as campaigns of advertisers requires human-generated creative content in order to attracting Readers to interact with the promoted ads. The dashboard provides the campaigns’ manager for each advertiser (the “Creative Team”) data regarding the success of previous campaigns. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In addition, a special tool that was developed by the AI system, scans all the campaigns that were launched in the past two years, identifies new opportunities on a daily basis, and launches the campaigns automatically as long as the campaigns are profitable.
+ 
+The creation of an ad campaign in a certain network requires specialization in the network and extensive work on each campaign. Cortex developed a dashboard that enables the Creative Team to focus only on the creative aspects of the campaign and later select in a simplified matter, based on data presented to it in the dashboard, which interfaces, countries and networks to present the campaign in, and when to launch the campaign. With this process, it is possible to launch up to hundreds of campaigns within minutes, an action that, without using the system, may have taken a number of days of manual work.
+ 
+
+16
+--
+
+ 
+
+The dashboard that is used by the Creative Team to launch the campaign appears as such:
+ 
+
+
+● | Digital content management system. Cortex engages with creative content writers who produce dozens of articles for the Cortex Websites each week, publishing hundreds of articles a year that are read by hundreds of millions of Users. The articles are reviewed, proofed, and edited by a chief editor. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Cortex developed a system to manage these articles, which includes version tracking, logs of changes, full back-up of the articles, and options to edit photos and text. This system is only used for internal purposes.
+ 
+
+● | Digital content index and label system. Cortex developed a tool that allows to re-use previously developed content of Cortex, which was saved in its databases, including the media that was already posted to the Cortex Websites and for which the copyright payments were already paid for. This tool saves time and reduces costs relating to digital content creation and also allows to reuse materials for new articles. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The index system scans each article that was posted on the Cortex Websites, and labels the content and photos associated with it in a database that is user-friendly, in such manner that the content writers can search for articles based on search words or phrases, in order to use information and relevant photos for new articles.
+ 
+
+● | Bidding management system and ad optimization. Readers browsing the Cortex Websites are exposed to various ads, which are delivered to each Reader by our advertising bid system. In order to maximize our revenues, we hold real time bidding campaigns between advertisers, for each ad that is displayed on the Cortex Websites. The winning bidder is chosen based on various criteria, such as: price, payments, preferences of certain advertisers based on the types of deals and terms of payment. According to this criteria, our bidding system selects which type of ads to display on the Cortex Websites and which advertisers to include in each bid. When a Reader browses a web-page on the Cortex Websites, the bidding system holds a bidding campaign between the selected advertisers, in order to choose the ads to deliver to the Reader. At the end of the bidding process, the system selects the winning bid, which is then sent to the Google ads server in order to receive a competing bid from Google. The ad from the winning bid is delivered to the Reader and displayed on the web-page. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+17
+--
+
+ 
+
+This bidding system is an important tool for the Cortex monetization system. All of Cortex’s customers use this system and our development team updates the interfaces a number of times a year, based on the technological developments of the advertisers, the browsers and applicable privacy restrictions.
+ 
+
+● | A/B testing system for performance comparison. Due to the frequent changes involved in the digital advertising market, it is difficult to predict the optimal price and performance of digital market campaigns. Our profit maximization depends on Readers’ preferences and the response of advertisers, elements that, due to their nature, we cannot predict. There are numerous trade-offs involved in ad delivery optimization, including, for example, that more advertisers that participate in a bid may increase revenues but may also increase the load on the Reader’s browser thereby affecting the user experience, the bidding performance and the display of content on the website. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Cortex developed an A/B testing system which runs several A/B tests simultaneously to produce versatile data which enables Cortex to (i) run bids between selected sub-groups of advertisers, (ii) display different ads, (iii) compare different partners of Google, (iv) check the contribution to the profit of a specific advertiser or ad, and (v) compare the performance of different configurations and designs of the web-pages in terms of performance.
+ 
+Customers
+ 
+Search Platform
+ 
+As of the date of this Annual Report, the customers of Gix Media in the Search Platform are Search Engines. These Search Engines engage with their customers who are different advertisers, in advertising and promotion agreements.
+ 
+Gix Media engages with Search Engines according to customary industry conditions, through either the direct business model or indirect business model. The average distribution of the revenue sharing between Gix Media and Search Engines is between 70% -80% (in favor of Gix Media).
+ 
+As of December 31, 2022, Gix Media has one major customer, a reputable international Search Engine (“Gix Major Customer”). Gix Media has generated revenues of approximately $16.2 million from the Gix Major Customer, constituting approximately 71% of the total revenues of Gix Media during the year ended December 31, 2022. Our relationship with this Gix Major Customer originated in 2013 upon the signing of an exclusive cooperation agreement, which is extended from time to time. In March 2020, an extension of the foregoing agreement was signed, whereby the term of the agreement was extended until October 26, 2023,and will be automatically renewed for additional one year periods, unless either party gives notice of non-renewal 90 days’ in advance.
+ 
+Content Platform
+ 
+Cortex’s customers in the Content Platform include advertising companies that are active in the digital advertising market.
+ 
+Generally, our sales are performed by marketing and advertising agents and advertising agencies (“Bidders”), who represent end customers and receive advertising budgets from the end customers and purchase ad spaces with these budgets.
+ 
+All of the Bidders are repeat customers and the vast majority of the clusters are North American companies.
+ 
+
+18
+--
+
+ 
+
+As of the date of this Annual Report, Cortex has one major customer from its Content Platform operations, Google, which it engages with through Total Media Ltd. (“Total Media”). Since August 2017 Cortex and Total Media have collaborated through a services agreement that can be extended from time to time. Each party can terminate the agreement with 48 hours’ advance notice. The other aspects of Cortex’s engagement with Google, such as the interfaces with Google, are directly with Google. Cortex has generated revenues of approximately $17.4 million from Total Media, constituting approximately 24% of the total revenues of Cortex during the year ended December 31, 2022.
+ 
+Marketing and Distribution 
+ 
+We have a wide variety of products, and each product requires specific, tailor-made marketing and distribution models. We have advanced BI systems that improve constantly, which assist in distributing different products online, with a goal of maximum customization of the product to the end user. These BI systems were developed in-house by Gix Media and Cortex.
+ 
+Gix Media also designs and implements an advanced self-service marketing and launch campaigns which market its products directly across the internet, in various languages and countries.
+ 
+To support our sales force, our team participates at industry conferences, invests in public relations, utilizes existing commercial relationships in order to build brand awareness and acquire new customers and creates meetings online and in-person with key industry players.
+ 
+Competition
+ 
+The competition in the digital advertising market is fierce. There are many players in all areas of the market: both a large number of advertisers and content owners, a large number of software products and algorithms, many advertising platforms and technologies. New players appear frequently in all of these areas. We compete with many companies that offer solutions for advertisers and website owners, including in the pillar of ad search, and with tools that allow internet users to change the default search settings on their browsers. There is a large number of digital content companies and ad search companies that offer services that are similar to those provided by us. Our products compete on limited budgets of advertisers and on an inventory of ad spaces from website owners. Some of our competitors are companies that are considerably bigger than the Company with considerably higher budgets, such as Google, Meta, and Microsoft. In light of the fact that a major part of the Company’s revenues is generated from a supply of searches, the Company also competes with the providers of the Search Engines themselves, such as Google, Microsoft, IAC and Verizon Media. Many of the present and potential competitors of the Company have financial, R&D, analytical systems, production resources and sales and marketing systems that are significantly larger in scope than those of the Company.
+Search Platform
+ 
+As of the date of this Annual Report, there are companies that develop different types of software products which enable, in a partial manner, the performance of some of the actions performed by Gix Media’s Search Platform. There is intense competition in the digital advertising market, and Gix Media has many competitors from various fields. As of the date of this Annual Report, the Company cannot estimate its size and positioning compared to its other competitors and its size in the ad search market. Our main competitors in this market include: Ironsource, Perion, FireArc, Spigot, IAC and AOL.
+Content Platform
+ 
+As of the date of this Annual Report, there are companies that develop different types of software products, which enable partial performance of the operations that are performed by the Content Platform of Cortex. As of the date of this Annual Report, the Company cannot estimate its size and positioning with relation to its other competitors and its size in the digital content market. Our main competitors in this market include: Perion, Buzz Feed, Pub+, Novelty, Hive Media and Kueez.
+
+19
+--
+
+Competition Management
+ 
+We focus our competition management on developing advanced technological tools and receive updates from time to time regarding new technologies that can be used to gain an advantage against our competitors. We also maintain high-quality and professional human capital with many years of experience in order to maintain a competitive advantage.
+ 
+We maintain the ongoing creation of content in different languages, to various audiences and geographic areas and focus on constant improvement of our technology that enables better competition of the Company in bids for the purchase of ad spaces in leading websites to post Cortex Websites’ articles, such as Yahoo and CNN.
+ 
+We act continuously to improve the user experience and improve our distribution methods so that we can reach a higher number of users and continue to keep a critical mass of customers that will allow us to continue and promote its products and tools, and all in conformance to the requirements and the existing and future platforms in the market.
+ 
+Industry Trends and Seasonality 
+ 
+The digital advertising market is generally not materially affected by seasonality. Nevertheless, there is a seasonality trend reflected during the fourth quarter of each fiscal year that is characterized by a higher volume of activity compared to the average, while the first quarter is characterized by a lower volume of activity compared to the average. In general, advertising campaigns are performed throughout the year in high intensity, and therefore the phenomenon of seasonality is not material in this market.
+ 
+This seasonality stems, among others, from changes in the major advertising budgets, usually towards the end of each quarter, and even more so towards the end of each year. In addition, the last quarter of the year includes many events and dates that lead to an increase in the advertisement budgets and in the volume of online traffic.
+ 
+Intellectual Property and Other Proprietary Rights
+ 
+Our commercial success depends, in part, on obtaining and maintaining patent and other intellectual property protection, in the United States and internationally, for the technologies used in our products. We cannot be sure that any of our patents will be commercially useful in protecting our technology. Our commercial success also depends in part on our non-infringement of the patents or proprietary rights of third parties. The patent positions can be highly uncertain and involve complex and evolving legal and factual questions.
+ 
+We have four patents that have been granted to us in the U.S.:
+ 
+
+● | U.S. Patent No. 10,467,684: the granted patent relates to novel techniques implemented by Viewbix which enables businesses to configure their video players to incorporate interactivity functions, such as call-to-actions, into their video publishing and delivery workflows; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | U.S. Patent No. 8,706,562: the granted patent relates to video e-commerce networking, modules and methods used to configure a video or playlist that is delivered to viewers where the content displayed in the video player is dynamic and can be automatically customized based on the publisher site; 
+● | U.S. Patent No. 8,706,558: the granted patent relates video e-commerce networking, modules and methods to display a video or playlist that is delivered to a viewer where the content displayed in the video player is dynamic and automatically customized based on the publisher site; and 
+● | U.S. Patent No. 9,792,645: the granted patent provides a unique method to facilitate video interactions between a publisher and end users, and measures the data produced through that interaction. 
+
+
+20
+--
+
+ 
+
+We also protect our proprietary technology and processes, in part, by confidentiality and invention assignment agreements with our employees, consultants, scientific advisors and other contractors. These agreements may be breached, and we may not have adequate remedies for any breach. We also rely on trade secrets to protect our product candidates. However, our trade secrets may otherwise become known or be independently discovered by competitors. To the extent that our employees, consultants, scientific advisors or other contractors use intellectual property owned by others in their work for us, disputes may arise as to the rights in related or resulting know-how and inventions.
+ 
+Product Development
+ 
+Gix Media focuses its R&D efforts in the Search Platform on improving existing products and their technologies, and on continuing the development and optimization of the inter-organizational systems used in its activity.
+ 
+During the years ended December 31, 2022, and December 31, 2021, the total R&D expenses of the Company in the Search Platform, through Gix Media, were $1.7 million and $2.2 million, respectively.
+ 
+We estimate that during the twelve months following the date of this Annual Report, we will invest a total amount of approximately $2.3 million in R&D expenses in the Search Platform, primarily to improve our existing services and technologies in this platform.
+ 
+Cortex focuses its R&D efforts in the Content Platform on improving its algorithm and AI, and on preparing work and monitoring tools for the creators of the digital advertising.
+ 
+During the year ended December 31, 2022, the total R&D expenses of the Company in the Content Platform were $2.1 million.
+ 
+We estimate that during the twelve months following the date of this Annual Report, we will invest a total amount of approximately $2.5 million in R&D expenses in the Content Platform, primarily to improve our existing services and technologies in this platform.
+ 
+Government Regulation 
+ 
+We are subject to a number of U.S. federal and state laws and foreign laws and regulations that affect companies conducting business on the internet. The manner in which existing laws and regulations will be applied to the internet in general, and how they will relate to our business in particular is unclear. Accordingly, we cannot be certain how existing laws will be interpreted or how they will evolve in areas such as user privacy, data protection, content, use of “cookies,” access changes, “net neutrality,” pricing, advertising, distribution of “spam,” intellectual property, distribution, protection of minors, consumer protection, taxation and online payment services.
+ 
+For example, we are subject to U.S. federal and state laws regarding copyright infringement, privacy and protection of user data, many of which are subject to regulation by the Federal Trade Commission. These laws include the California Consumer Privacy Act, which provides data privacy rights for consumers and operational requirements for companies and the CPRA which imposes additional notice and opt out obligations, including an obligation to provide an opt-out for behavioral advertising. The Digital Millennium Copyright Act, which aims to reduce the liability of online service providers for listing or linking to third-party websites that include materials that infringe copyrights or the rights of others, and other federal laws that restrict online service providers’ collection of user information on minors as well as distribution of materials deemed harmful to minors. Many U.S. states, such as California, have adopted or are planning to adopt statutes that require online service providers to report certain security breaches of personal data and to report to consumers when personal data will be disclosed to direct marketers. There are also a number of legislative proposals pending before the U.S. Congress and various state legislative bodies concerning data protection which could affect us. The interpretation of data protection laws, and their application to the internet, is unclear and in a state of flux. There is a risk that these laws may be interpreted and applied in conflicting ways and in a manner that is not consistent with our current data protection practices.
+ 
+
+21
+--
+
+ 
+
+Foreign data protection, privacy and other laws and regulations may affect our business, and such laws can be more restrictive than those in the United States. For example, in Israel, privacy laws require that any request for personal information for use or retention in a database, be accompanied by a notice that indicates: whether a person is legally required to disclose such information or that such disclosure is made at such person’s free will and consent; the purpose for which the information is requested; and to whom the information is to be delivered and for which purposes. A breach of privacy under such laws is considered a civil wrong and subject to administrative fines as well as civil damages. Certain violations of the law are considered criminal offences punishable by imprisonment. In the European Union, similar data protection rules exist as well was privacy legislation restricting the use of cookies and similar technologies. Subject to some limited exceptions, the storing of information, or the gaining of access to information already stored, in the terminal equipment of a subscriber or user is only allowed on condition that the subscriber or user concerned has given his or her informed consent. Moreover, the GDPR, the General Data Protection Regulation (“GDPR”) presumably has an even wider territorial scope, broadened the definition of personal data to include location data and online identifiers, and imposes more stringent user consent requirements. Further, it includes stringent operational requirements for companies that process personal data and will contain significant penalties for non-compliance. Also in other relevant subject matters, such as cyber security, e-commerce, copyright and cookies, new European initiatives have been announced by the European regulators. To further complicate matters in Europe, to date, member States have some flexibility when implementing European Directives and certain aspects of the GDPR, which can lead to diverging national rules.
+ 
+Because our services are accessible worldwide, certain foreign jurisdictions may claim that we are required to comply with their laws, including in jurisdictions where we have no local entity, employees or infrastructure.
+ 
+These regulations result in significant compliance costs and could result in restricting the growth and profitability of the Company’s business.
+ 
+Human Capital Management
+ 
+As of March 9, 2023, we employ 51 full-time employees or consultants. Of these employees, 15 are primarily engaged in search activities for Gix Media, 28 are primarily engaged in digital content activities for Cortex and 8 are primarily engaged in general administrative, business development and financial consulting. None of our employees are members of a union or subject to the terms of a collective bargaining agreement.
+ 
+We believe that our future success will depend, in part, on our continued ability to attract, hire and retain qualified personnel. In particular, we depend on the skills, experience and performance of our senior management and customer service and research personnel. We compete for qualified personnel with other ad-tech companies.
+ 
+The success of our business is fundamentally connected to the well-being of our people. Accordingly, we are committed to the environmental, health and safety of our employees (EHS). The keys to our EHS success are a workforce that is engaged and a management team who supports and invests in employees’ wellbeing.
+ 
+
+22
+--
+
+ 
+
+We consider our employees to be a key factor to our success and we are focused on attracting and retaining the best employees at all levels of our business. We employ people based on relevant qualifications, demonstrated skills, performance and other job-related factors. We do not tolerate unlawful discrimination related to employment, and strive to ensure that employment decisions related to recruitment, selection, evaluation, compensation, and development, among others, are not influenced by race, color, religion, gender, age, ethnic origin, nationality, sexual orientation, marital status, or disability. We are committed to creating a trusting environment where all ideas are welcomed and employees feel comfortable and empowered to draw on their unique experiences and backgrounds.
+ 
+We consider our relations with our employees to be good.
+ 
+Employment Agreements 
+ 
+Our non-executive employees are employed under written employment agreements, based on global monthly salary or on an hourly basis. Some employees receive base salaries and commissions contingent on targets based on the position they fill. The terms of employment generally include, senior employees’ insurance or a pension fund, study fund, loss of working capacity insurance, vacation days and recuperation pay. The Company may participate in employees’ car and mobile phone expenses, under the conditions set out in their individual employment agreements, and also reimburses certain business expenses. The employment agreements are generally for an unlimited period of time and each side is entitled to terminate the agreement with advance notice. Our employment agreements also include an undertaking of confidentiality and non-competition by our employees.
+ 
+The Company’s employees’ employment terms are generally subject to the terms and conditions of the compensation policy of Gix Internet, our parent company.
+ 

@@ -1,0 +1,1615 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Microvast Holdings, Inc. is an advanced battery technology company headquartered near Houston, Texas, and is publicly traded on the NASDAQ stock exchange (the “NASDAQ”). We design, develop and manufacture battery components and systems primarily for electric commercial vehicles and utility-scale energy storage systems (“ESS”). 
+When we founded Microvast in 2006, our guiding principle, which remains at the heart of everything we do today, was to adopt an innovative and creative approach to the design of lithium-ion batteries without relying on past technologies.We call this true innovation. Our design approach began without preconceptions on how to make a lithium-ion battery, which contrasts to many other battery companies which took legacy battery technologies used in consumer electronics and adopted those for use in new market opportunities, such as electric vehicles, which we believe is product development, not innovation. To understand this difference, is to understand what we have set out to achieve. 
+Our mission is to use our innovative approach to create the battery technologies and solutions to accelerate the adoption of electric vehicles and the integration of renewable energy sources in order to power the transition to a sustainable economy. In particular, we seek to lead the charge in establishing and securing U.S. domestic battery production, which will strengthen the U.S. battery manufacturing base and reduce reliance on foreign battery manufacturing, in what is becoming a sector with significant strategic importance. We believe continuous investment in our technology and operations will deliver long-term targeted revenue and income growth.
+We have developed proprietary technologies covering the entire battery system through our vertically integrated approach: from basic cell materials like the cathode, anode, electrolyte and separator, to cooling systems and software controls for the battery pack. Since our inception, we have primarily focused on developing new battery solutions for the transportation industry which requires batteries that are ultra-fast charging, high energy density, long lasting and safe.
+In the future, in addition to expanding our production of battery systems and battery components, we expect to increase our focus on producing ESS solutions to support the shift to electrification, with the goal of becoming a leading global ESS solution provider to the energy market. This is a necessity because electric vehicles can only be considered as a green technology if the energy used to power them is also green. Addressing this symbiotic relationship is at the heart of our research activities and we expect it will shape our strategies for the foreseeable future. 
+Our most recent innovation is our high-energy nickel manganese cobalt (“NMC”) 53.5 ampere-hour battery cell (the “53.5Ah”), whose performance characteristics make it an ideal solution for commercial vehicle and ESS applications. To bring this product to market we have made significant investments in capacity expansions in Huzhou, China and Clarksville, Tennessee. Both facilities are using the same fully-automated production equipment for the 53.5Ah cell which will give us considerable operating efficiencies. We expect the 53.5Ah cell to be our dominant revenue driver for this next phase of our growth.
+Since 2009, when we launched our first ultra-fast battery system, we have sold and delivered approximately 3,347.9 megawatt hours (“MWh”) of battery systems. Our revenue for the year ended December 31, 2022, increased $52.5 million to $204.5 million, a 35% increase compared to the year ended December 31, 2021. As of December 31, 2022, we had an order backlog of approximately $410.5 million for our battery systems (the equivalent of approximately 1,599.7 MWh), nearly 90% of which is attributable to the U.S. and Europe. We expect to fulfill a majority of our backlog within 2023 and 2024. 
+Our Applications
+Our three principal areas of focus for our business and future growth are electric commercial vehicles, utility-scale ESS and battery components. 
+Electric Commercial Vehicles
+We design, develop and manufacture battery solutions for electric commercial vehicles such as light, medium and heavy-duty trucks, buses, trains, mining trucks, marine and port vehicles, automated guided and specialty vehicles. We 
+Table of Contents
+
+focus on combining critical attributes for better performance, including ultra-fast charging capabilities, long lifespan, low total cost of ownership, high-energy density and high safety. The ultra-fast charging capabilities of our battery systems mean electric commercial vehicles equipped with our batteries only need to charge for as little as 10 to 30 minutes to reach 80% to 95% of full design capacity, which allows for their continuous operation. Certain of our competitors’ batteries typically need to charge anywhere from 3 hours to overnight to reach full design capacity. Ultra-fast charging capability is a critical performance differentiator for applications that are in year-round 24/7 operation, such as those vehicles used in ports, airports, logistics, warehousing and other similar use cases. 
+Furthermore, our battery system’s lifespan covers the typical operational life for commercial vehicle use, avoiding the significant cost of replacing the battery during the lifespan of the vehicle. In contrast, a majority of our competitors’ batteries need to be replaced on an average of 5 to 6 years, which is only half of the lifespan of our batteries. 
+The high-energy density of our battery systems makes our products an ideal choice for light duty vans. By equipping sufficient energy onboard these mid-range delivery vehicles, our products are capable of optimizing the daily operational requirements for the commercial vehicle user. 
+In addition, fundamental to the purchasing decision of a commercial vehicle customer is an understanding of the total cost of ownership from deploying a particular battery solution and comparing that to competing powertrains, which have traditionally been internal combustion engines. The key variables influencing the total cost of ownership are system cost, cycle life and charging capability. Because of our industry-leading performance, especially on cycle life, we believe our battery systems are able to give commercial vehicle customers a superior total cost of ownership versus what would be achieved from competing systems. 
+The solutions we provide to customer vehicle original equipment manufacturers ("OEMs") are equipped with state-of-the-art BMS that we have developed internally. Our latest BMS for the commercial vehicle market will completely meet automotive functional safety “ISO 26262” and automotive cybersecurity “ISO 21434” standards. Microvast’s BMS 5.0 will also have built-in digital twin technology.
+As the volume of our battery systems sold increases, our installed base grows correspondingly. In order to add value during the operational life of our product, we are investing in service personnel and predictive and diagnostic software to better monitor the after-sales needs of our customers so that we can expand and further improve our after-sales product offering to customers.
+The market potential for electric commercial vehicles is large because the global transportation sector is the second largest emitter of GHG’s, with commercial vehicles accounting for approximately a third of these emissions. Currently, the global electric commercial vehicle market is valued at $43.5 billion and based on data from Allied Market Research is projected to reach $558.4 billion by 2031, growing at a CAGR of 29.9%. This electric commercial vehicle opportunity encompasses all types of vehicle, including buses, light commercial vans, light, medium and heavy-duty trucks, mining equipment, port equipment and specialty vehicles. Microvast technologies are in operation in all these vehicle types. 
+The key benefits of our technologies are clearly being recognized by leading commercial vehicle OEMs. For instance, based on the Industrial and Commercial Cooperation Agreement we entered into with Iveco Group in 2019, we have been nominated by them to supply battery systems for their light commercial vehicles (IVECO eDaily, which launched in Q4 of 2022) and certain bus platforms, such as the Iveco Crossway which has been presented for multiple tenders in 2022, with potential deliveries starting mid-2023. In the port equipment sector, we are a supplier to Kalmar (one of the world’s leading OEMs in this segment), and we have a long-term partnership agreement in place, which has been extended to 2026 to work on their electrification projects. In addition, we work with multiple mining truck OEMs including XCMG and others. In parallel, we participated in the mining industry electrification consortium led by Shell, and our battery systems are deployed in heavy-duty mining trucks from 90 to 400 tons. 
+Recently, we were selected by Trepel to electrify its airport cargo handling equipment because our battery systems are able to meet their demand of year-round 24/7 operations. We also work with multiple bus OEMs on their electrification strategies, including full electric, hybrid or fuel-cell, and we are present in all the main global bus markets, such as the Asia & Pacific region, India and Europe working with the likes of FPT Industrial (branch of Iveco Group), SAFRA, Foton, Higer, JBM Group, Ashok Leyland and others. 
+Table of Contents
+
+Utility-Scale ESS
+The goal of eliminating greenhouse gas (“GHG”) emissions from the commercial vehicle sector is most impactful if the energy source for these vehicles is also non-polluting. Renewable energy sources, such as solar energy, require storage, and therefore we believe that energy storage is currently the foundation for all electrification.
+In October 2022, we announced the development of our new battery ESS solution to address this challenge. This utility-scale ESS solution stores energy generated by solar, wind, or other energy sources and then dispatches the stored power to the grid when needed, such as during periods of peak electricity demand, a usage commonly referred to as “energy shifting”. Our ESS container incorporates our high-energy 53.5Ah cell technology. 
+Our current ESS product is designed to supply energy for up to 4 hours, which is currently in high demand for energy shifting applications, thereby increasing grid resilience, reliability, and performance while helping reduce GHG emissions. We plan to manufacture the battery cells and modules for the ESS container in our Clarksville, Tennessee facility beginning in the fourth quarter of 2023. 
+Our ESS container features 4.3 MWh energy per 20-foot container and is easily transportable and deployable. Our higher energy density ESS allows energy storage developers to use fewer containers to reach the total rated energy design of an energy storage project. We estimate that by using our ESS solution up to 30% fewer containers would be required to reach the total rated energy design of an energy storage project. This smaller footprint in turn lowers construction cost, provides for easier and faster installation, and reduces maintenance with far fewer containers to maintain over the life of the project. 
+The BMS offered in our ESS container provides customers the ability to monitor the performance of the ESS and provides functionality that allows the BMS to fix operational problems inside each individual tray and optimize system performance. The BMS for our ESS container was designed and developed in the U.S. at our Fort Collins, Colorado facility, and with the BMS also being manufactured in the U.S., this will help ensure the security and safety of the U.S. electric grid. 
+In December 2022, we were awarded a contract to supply a utility-scale 1.2 gigawatt hours (“GWh”) battery ESS project to a customer in the U.S., one of the largest contracts of its kind to date. First deliveries of our ESS containers to this customer are expected to commence in the third quarter of 2023. We expect our ESS container to be a direct beneficiary under section 45X of the Inflation Reduction Act (the “IRA”), which offers a $45 per kilowatt-hour (“kWh”) tax credit. We believe our U.S. customers will also benefit from our cell and module production qualifying as domestic content which will enable them to increase their investment tax credit under the IRA from 30% to 40% of the total project cost.
+We expect to be awarded many additional ESS projects due to our technologies’ key benefits listed above. Further, global additions of energy storage in 2022 were 35 GWh and are projected to grow at a 21% CAGR through 2030, with the U.S. and China being the leading individual markets (according to Bloomberg New Energy Finance (“BNEF”)). Our current focus is the U.S. market where it is estimated that 13.5 GWh of energy storage capacity will have been installed by the end of 2022. Based on research from BNEF, approximately 396 GWh of energy storage capacity will be added by 2030, with approximately 70% of this being for energy shifting applications, which is our target market. This presents an approximately $45 billion market opportunity through 2030.
+Battery Components
+As a vertically integrated battery company, we develop and own proprietary intellectual property and know-how relating to the design, development and manufacture of the four critical components of lithium-ion batteries, namely the cathode, anode, electrolyte and separator. This allows us to use these components in our products and market the individual components, such as the cathode or separator, to other lithium-ion battery companies or significant purchasers of lithium-ion batteries, like passenger car OEMs and consumer electronics manufacturers. We believe our most recent developments to the cathode and the separator have resulted in significant and unique proprietary intellectual property, including our full concentration gradient (“FCG”) cathode and polyaramid separator.
+Table of Contents
+
+We believe our exclusive polyaramid separator, which includes 26 patented technologies, has significant safety advantages over traditional polyethylene and polypropylene separators, including high mechanical and thermal stabilities, helping to ensure less thermo-induced changes. We believe our exclusive FCG cathode, which includes 33 patented technologies, offers a safer and more reliable solution that increases energy density and minimizes the use of cobalt in the cathode.
+In October 2022, we were notified by the U.S. Department of Energy (“DOE”) that we had been selected, in collaboration with General Motors, to receive $200 million in grant funding as part of the DOE's Battery Materials Processing and Battery Manufacturing initiative pursuant to the recently enacted infrastructure law, subject to negotiation of specific terms. Once finalized, the grant funding will remain subject to certain conditions precedent and other terms and conditions to be agreed between us and the DOE. The grant funding is expected to support the construction of a new polyaramid separator manufacturing facility in the U.S. To complete this project, we will need to obtain additional financing. We cannot assure you that such financing will be available on acceptable terms. See “Risks Related to Our Business and Industry— We may be unable to meet our future capital requirements and we may require additional capital to support business growth, and this capital might not be available on acceptable terms, or at all” and "Risks Related to Our Business and Industry—Our $200 million grant from the DOE remains subject to negotiation of specific terms, and completion of the project the grant supports will require us to obtain additional financing which may not be available at all or on acceptable terms; continued availability of grant funding is uncertain and contingent on our compliance with the requirements of the grants we have or may receive in the future." 
+Our Technologies
+Since 2008, our objectives and research have been focused on developing innovative battery technologies targeted to provide ultra-fast charging capabilities, long lifespan, high-energy density and safety. Some of the key highlights from our technology portfolio are:
+Battery Cell Materials
+•Polyaramid Separator—Our polyaramid separator, conceived and developed entirely by us, is significantly more stable under heat than traditional polyethylene separators. Polyaramid is similar to Kevlar, the material that is used in bulletproof vests, and its excellent thermal properties (stable to nearly 300°C in the air) are well known, but we have developed proprietary techniques to form this material into ~10um thick, meters wide and hundreds of meters long porous separator material that is suited for lithium-ion batteries. The project manager from one of the big three OEMs has described this technology as “the greatest breakthrough in lithium-ion battery separator technology in 20 years.”
+•LTO—Our lithium titanate oxide (“LTO”) powder is specifically manufactured to promote high power operation, making it ideal for ultra-fast-charging applications. LTO is a safer lithium-ion battery anode material because it is one of the only anode materials inherently stable against traditional lithium-ion electrolytes.
+•FCG Cathode—Our FCG cathode was licensed from Argonne National Labs in 2017. Since then, we have developed significant, flexible manufacturing know-how to produce the material with minimal cost increases compared to normal NMC materials. We have found that by controlling the concentration of metals within a particle, the material’s safety can be enhanced. This is because the gradient is a designer cathode, meaning the material design can be tailored for specific end uses and cells/customers can receive a unique material product tailored to their needs. This customization makes the technology well suited for ultra-fast charging and low-cost advanced lithium-ion cells. We believe this technology is especially well suited going forward for the development of materials that greatly reduce or eliminate cobalt from the cathode.
+•Non-Flammable Electrolyte—Since lithium-ion batteries typically use flammable organic solvents, they have the potential, under certain conditions, to catch fire. Our technology, protected through patents and trade secrets, will not catch fire even if a flame is directly brought in contact with a cup of the electrolyte formulation. We believe that the use of our electrolyte greatly slows, and in some cases can entirely stop, a lithium-ion cell from catching fire. Reducing the flammability of lithium-ion cells is an important safety feature that we believe will become more valued as the market pushes towards ever higher, and hence less stable, energy density cells.
+Table of Contents
+
+Cell Chemistry
+•LTO—LTO is used in place of the typical graphite on the anode. LTO greatly enhances the lithium-ion cell’s safety and fast charge ability, at the cost of some energy density. As compared to a majority of our carbon anode competitors, our cells using LTO have an exceptional lifespan, lasting up to 20 times longer. Our cells using LTO have successfully addressed a key problem for the technology, cell gassing, which degrades battery performance. By eliminating the gas generation during cycling, our cells can have a long lifespan.
+•NMC—Applications requiring higher energy cell density today must be built using the layered metal oxide crystal structure (which includes NMC, nickel cobalt aluminum, and nickel cobalt manganese aluminum). Our cells based on this chemistry have excellent cycle performance, as demonstrated by our cells being able to complete thousands of constant current charge cycles before losing performance compared to cells produced by certain of our competitors, which we contribute to our better understanding of the various cell materials from our vertical integration structure. Through our control of the cathode and separator technologies, we expect our NMC cells will have a lower total cost of ownership and enhanced safety compared to many of our competitors’ products. Microvast cells using NMC technology have been third-party evaluated by various U.S. National Labs and by Technischer Überwachungsverein (Technical Inspection Association), confirming our claims to performance. The high energy 53.5Ah cell is our latest product offering from our long history of developing and manufacturing NMC cell technologies.
+•LFP—One of the safest cathode options, lithium iron phosphate (“LFP”), is manufactured from lower-cost materials, making it more affordable than NMC cells, though in recent times this cost advantage has been somewhat eroded due to the significant increases in the price of lithium, which is used in higher quantities in a LFP cell compared to a NMC cell. Our LFP cells were developed at the behest of a Chinese OEM, and we believe that our technology was selected over one of the biggest battery companies in the world because our performance and price were superior.
+Key Benefits of our Technology and Applications
+We believe our technologies and battery systems offer the following advantages:
+•Tailored Battery Solutions. Our history of conducting research into lithium-ion batteries has allowed us to develop and commercialize a broad range of cell chemistries, including LTO, LFP, nickel manganese cobalt version 1 (“NMC-1”) and nickel manganese cobalt version 2 (“NMC-2”). This broad spectrum of lithium-ion cell technologies allows us to tailor our product offering to suit each customer’s needs. We are then able to take their preferred cell chemistry and integrate it into our modules and packs, which are designed to maximize the performance of each Microvast cell technology. As a result, we have battery solutions for any commercial vehicle application, including light, medium, and heavy-duty trucks, buses, trains, mining trucks, marine and port vehicles, automated guided and specialty vehicles. In some cases, BMS and installation may be provided to the customer. The BMS monitors the battery, improving the safety and thermal control, which enhances the battery system lifespan and cost-efficiency.
+•Ultra-Fast Charging Capability. Depending on the selected battery chemistry, we can offer battery solutions that can be fully charged in as little as 10 to 30 minutes, significantly faster than commonly used battery systems. The ultra-fast charging capabilities of our battery systems significantly enhance electric vehicle mobility, and we believe our solutions have the potential to accelerate consumer adoption of electric vehicles. Our latest-generation LTO cells can be fully charged within 10 minutes while providing an energy density of up to 180 watt-hours per liter (“Wh/l”) and 95 watt-hours per kilogram (“Wh/kg”). These ultra-fast charging capabilities and long battery life can meet the diverse vehicle design requirements of our OEM customers. Our NMC-2 products can be fully charged within 30 minutes, providing higher energy density of more than 220Wh/kg. Ultra-Fast charging capabilities are a critical performance criterion for our commercial vehicle business while cells with higher energy densities are important to both electric commercial vehicle and ESS customers.
+Table of Contents
+
+•Long Battery Lifespan. We can offer battery solutions with a lifespan of between 2,500 and 20,000 full charge/discharge cycles. The longer battery lifespan enables our battery systems’ useful life to match the life of the vehicles or energy storage projects in which our systems are installed, avoiding the need to replace the battery and thereby lowering our customers’ total cost of ownership. For example, our LTO batteries retain 90% of their initial capacity after approximately 10,300 full charge/discharge cycles, according to a test report produced by the Warwick Manufacturing Group, an academic department at the University of Warwick in the United Kingdom (the “U.K.”).
+•Enhanced Margin of Safety. Drawing from an intellectual property library that took over a decade to develop, we work to increase the margin of safety of our products, beginning with the initial design and continuing through the use of carefully selected battery components. We believe our LTO battery is inherently safer than other battery chemistries, due to its thermal stability, ability to operate in a broad range of temperatures, and a lower risk of internal short circuits and fire-related hazards. For products demanding higher energy densities, our in-house manufactured battery components, polyaramid separator, non-flammable electrolyte and FCG cathode individually or collectively are being implemented in certain current and future products to improve product safety. Our in-depth knowledge of how these battery components interact with each other in the battery cell is utilized in the design and development of our products, enhancing our product margins.
+Our Strategies 
+Our strategic objective is to generate long-term value for our stakeholders. To achieve this goal, we intend to focus on the following: 
+•Grow our ESS capabilities to help solve energy transition needs. We have developed, and are continuing to develop, a broad range of battery technologies that will enable the transition to meet energy needs from clean and renewable sources. Our growth strategy includes leveraging our technology and industry expertise to gain market share and play a key part in decarbonization and mitigating climate change. We intend to further develop our line of ESS solutions and services globally. So far, we have primarily sold our battery solutions to OEMs for use in electric commercial vehicles and other specialty vehicles. We are now seeing considerable interest for our battery systems from operators and developers of renewable energy projects, including as energy storage for renewable energy generators and utility grids and for frequency regulation. The energy storage market offers significant growth potential, and we plan to focus our efforts in the near term on the development of our ESS container utilizing our 53.5Ah cell technology. 
+•Continue our focus on shifting operations to Europe and the U.S. Initially, customer demand for battery solutions for electric commercial vehicles was concentrated in the Asia & Pacific regions. As customer demand for our products and services has grown in Europe and the U.S., we have expanded to meet these growth opportunities for our battery technologies. We expect the demand for our products to continue to grow in these markets partly due to regulatory incentives created by the IRA in the U.S. and the E.U. Green Deal, E.U. Fit for 55. In 2021, we completed a 170,000 square foot module and pack manufacturing facility near Berlin, Germany. We are also investing hundreds of millions of dollars across our U.S. operations, encompassing our new battery cell and module manufacturing facility in Tennessee, our research and development (“R&D”) facility in Florida, and a new facility for our ESS operations in Colorado. Additionally, we continue to invest in our existing operations in the Asia & Pacific region and our efforts to grow our business in that region as well. 
+•Improve performance and reduce total cost of ownership of our battery systems. The total cost of ownership is an important criterion for commercial electric vehicle and ESS customers. In order to maintain our market position, we intend to continue to invest in R&D of our battery technology and seek new innovations to further lower costs. For battery system solutions, this means continuing to develop new battery cells and modules and improving the energy densities of our existing batteries. Our R&D team is working to integrate new designs, technologies and materials into our cells to enhance performance and lower cost. One important strategy we have employed historically and will continue to focus on going forward is an emphasis on research related to advanced materials 
+Table of Contents
+
+and their ability to enhance our products. We believe that improving performance of the base components has the added advantage of making all of our battery solutions, ESS solutions and our battery components more attractive generally.
+•Expand our manufacturing capacity to meet growing demand. With the construction and expansion of facilities and resources in the U.S., Europe and China, our manufacturing facilities will be located in close proximity to our customers in each major region. We plan to prudently expand our manufacturing capacity to capture the large and growing market opportunity for electric vehicles and ESS solutions, especially in the U.S. and Europe. Our capacity expansions will be in phases based on our ongoing assessment of medium- and long-term demand for our products. The aggregate manufacturing capacity is approximately 3 GWh per year as of December 31, 2022. After adding 4.0 GWh of new capacity in 2023, we will strategically review some of our existing manufacturing equipment and optimize that to best address anticipated future demand for our products. We plan to achieve a total manufacturing capacity of 7 GWh and 11 GWh per year by December 31, 2023 and 2025, respectively, to support growing demand for our existing products. In addition, we plan to expand our manufacturing capacity in the U.S. for the polyaramid separator in connection with a recent award we received in collaboration with General Motors for a $200 million grant from the DOE. 
+Manufacturing Capacity
+We measure our manufacturing capacity in GWh, which represents the energy capacity of all batteries produced for a single complete discharge, rather than the number of batteries we produce per year.
+As of December 31, 2022, we had an annual manufacturing capacity of approximately 3 GWh cell, module and pack capacity, 600 tons per year of cathode capacity, 3,000 tons of electrolyte capacity and 5 million square meters of separator material capacity on a pilot line. All of this capacity is currently derived from our facility in Huzhou, China.
+In Europe, we have a 170,000 square foot module and pack manufacturing facility near Berlin, Germany which has been in production since 2021. We expect that, in the future, we may need to develop additional cell manufacturing capacity in Europe to meet local demand in light of new European Union ("E.U.") regulations aimed at requiring battery cell production in Europe, together with additional “green” regulations and policies that are likely to further increase demand for battery-operated solutions.
+In 2021, we purchased an existing building in Clarksville, Tennessee and are renovating it to support up to 2 GWh of cell, module and pack capacity, which we expect to be in production by the fourth quarter of 2023. The Tennessee facility, once fully equipped, will be able to support up to 4 GWh of cell, module and pack capacity. Once completed, it is anticipated that this facility will primarily serve our customers in the U.S. In addition, we believe there is sufficient acreage at the existing Tennessee facility to construct another building and further increase capacity by an additional 4 GWh, for a total of 8 GWh of future manufacturing capacity. Further, we expect the battery cells and battery modules produced in our Tennessee facility to be a direct beneficiary under section 45X of the IRA, which offers tax credits of $35 kWh for battery cells and $10 kWh for battery modules for a total of $45 kWh in tax credits.
+Additionally, we are in the process of adding 2 GWh battery cell and module capacity and 10 million square meters of separator capacity to our facility in Huzhou, China, which we expect to be in full production of cells and modules during the first quarter of 2023. We believe the newly built facility in Huzhou will support a total future manufacturing capacity of up to 12 GWh.
+
+By the end of 2023, we expect our total battery manufacturing capacity to be approximately 7 GWh with 4 GWh of that devoted to fully automated lines to produce the high energy 53.5Ah cell. We are planning to increase our total battery manufacturing capacity to approximately 11 GWh per year by 2025.
+Table of Contents
+
+Patents and Other Intellectual Property
+We have built a proprietary intellectual property portfolio for over 15 years. We possess patents, licenses and/or know-how covering the following proprietary material technologies:
+•Separators—We have developed a high-thermal separator made of polyaramid polymer with a melting point above 300°C, which we believe will improve the safety of our batteries.
+•FCG Cathode—In 2017, we licensed the FCG cathode process from Argonne National Labs. The FCG cathode is distinguished by its unique manufacture, where a clear and gradual gradient in the transition metal content can be observed during the analysis of a cathode particle.
+•Electrolytes—We have developed a high/low-temperature electrolyte that is stable at high temperatures (approximately 70°C) and can release approximately 70% of its energy at extremely cold temperatures (approximately -30°C) at a charge rate of 0 to 100% in one hour.
+•LTO powder—Our proprietary LTO powder used for our electrodes compacts densely, leading to higher volumetric density while sustaining the ultra-fast charging properties of our batteries. It also allows our batteries to operate with less resistance by preventing the formation and/or degradation of solid-electrolyte interphase (a barrier formed between the electrolyte solution and electrode when the battery is charged) and limits the formation of dendrites. Dendrites reduce performance and increase the risk of short circuits and fire-related hazards. More importantly, our proprietary powder causes negligible volume expansion when the battery is charged and discharged. This provides our batteries with stability during recharges and extends the life of the battery.
+•Anode—We are experimenting with and have developed various types of anode materials. For example, we have developed porous carbon-based anode materials allowing for a higher charging rate. The porous structure allows for faster transport of lithium-ions, contributing to the fast-charging properties of our batteries.
+Our commercial success depends in part on our ability to obtain and maintain proprietary or intellectual property protection for our designs and technology. Our policy is to protect our proprietary and intellectual property, which are the drivers of our profitability. Understanding the risks of technology infringement in China, we compartmentalize know-how and trade secrets in the U.S., and we have no IT connections between our operations in the U.S. and our operations in China. While we have attempted to protect the unpatented proprietary technology that we develop or acquire, and will continue to protect future proprietary technology. We believe that our success will depend, to a large extent, upon continued innovation and technological expertise. For a more comprehensive discussion of the risks related to our intellectual property, please see “Risk Factors — Risks Related to Our Intellectual Property.”
+We use trademarks on some of our batteries and believe that having distinctive trademarks is an important factor in marketing our batteries. We have registered in China, the U.S. and internationally our Microvast mark (including the Microvast logo) and our other trademarks, including the LpTO, LpCO, MpCO, HpCO and Clean City Transit marks.
+Research and Development 
+Our R&D and engineering efforts are focused on developing new battery solutions and continuously improving the performance of existing battery systems. We design our battery systems by targeting specific performance metrics, including energy density, power density and specific power, charge rate capability, cycle life, through-put energy and various safety and abuse-tolerance metrics.
+Our technology center is responsible for material development, cell development, pack development, FCG manufacture, polyaramid separator manufacture, future technology development, testing simulation and analysis, and intellectual property. 
+Our R&D efforts are focused on the following areas:
+•improving the energy density, power, life and safety through developing key battery materials:
+•high energy cell and IT components;
+•battery cell safety;
+•new cell applications development;
+Table of Contents
+
+•process development and scale-up;
+•improving electrical, mechanical and thermal designs; and
+•improving battery systems-level designs.
+We believe that our ability to deliver higher performance batteries and battery systems depends on the rapid and effective transfer of the technology developed in our R&D laboratories into our high-volume manufacturing facilities. Therefore, we maintain pilot plant facilities and reserve a portion of our manufacturing capacity for structured experiments related to manufacturing process development.
+In December 2006, we established a research center, which covers approximately 75,000 square feet, in our Huzhou, China manufacturing facility. The center is equipped with a full range of scientific equipment for a material science research center, including an X-ray powder diffraction machine, scanning electron microscope, gas chromatograph/mass spectrometer cape, laser particle size analyzers, electrochemical comprehensive test analyzers and other scientific equipment. 
+In September 2016, we also set up a research center in Orlando, Florida to work on longer-term technology development. In October 2021, we expanded our presence in the greater Orlando area with the purchase of a 75,000 square foot facility, which is dedicated to R&D efforts.
+Our R&D expenses totaled $16.6 million, $34.4 million and $43.5 million for the years ended December 31, 2020, 2021 and 2022, respectively.
+Sales and Marketing 
+We market and sell our products primarily through a direct sales force divided into three regional divisions: Europe, Middle East and Africa, North and South America, and the Asia & Pacific region.
+Electric Commercial Vehicles
+We engage electric vehicle and drive train manufacturers directly to educate and inform them about the benefits of our technology and products. Our sales cycles vary by market segment, but typically follow a lengthy development and qualification period prior to commercial manufacturing. We expect the total time from customer introduction to commercial manufacturing will range from 2 to 4 years depending on the specific solution and market segment. For example, total time in the transportation market includes a customer’s preliminary technology review, which generally ranges from 3 to 9 months, followed by test and evaluation, which generally ranges from 12 to 18 months. We also offer standard off-the-shelf packs to our customers which provide them with the potential to dramatically shorten their time to market.
+Utility-Scale ESS 
+Initially, our ESS sales and marketing efforts are focused on the utility scale ESS market for energy shifting in the U.S. This segment of the ESS market is predicted to be the largest by volume and value in the U.S. Our plan is to pursue sales opportunities in other regions once we have developed an established market presence in the U.S. 
+Our marketing is focused on the launch of our ESS container, communicating the attributes of our product and technologies, and creating awareness for the Microvast brand in the energy sector. Our sales cycle usually involves a request for proposal process and can take 6 to 12 months from start to manufacturing. A distinct advantage of the ESS business is this much shorter sales cycle, where project owners and developers do not need to go through the same testing requirements as is required for putting a battery into a vehicle. 
+Table of Contents
+
+Battery Components
+For battery components, our product promotion starts with R&D engineers for passenger car OEMs and consumer electronics manufacturers. We may send certain customers samples of materials and/or prototypes for evaluation to support the sale of the component.
+Materials
+All lithium-ion batteries are composed of an anode, cathode, electrolyte and separator. 
+•Anode — Our anode is selected historically from LTO or graphite in our product cells. In the coming years, we anticipate that we will develop and market a new product that contains silicon or silicon oxide. 
+•Cathode — For NMC, our existing products are made using commercially supplied materials, and our future cell products will utilize FCG when possible. For NMC-based cathodes, the sourcing and availability of cobalt is a key issue for many OEM buyers. As such, we are actively engaged in research to greatly reduce or eliminate the use of cobalt from our material stream. We have made LFP cells for a manufacturer of passenger electric vehicles in China and the raw materials for this cell are sourced from a commercial supplier.
+•Electrolyte — Our present lithium-ion cells use liquid-based electrolyte formulations. For carbonate-based electrolytes we typically elect to buy the base solvents from commercial suppliers due to lower costs from their economies of scale, and then blend solutions in-house to ensure our proprietary mixtures are not shared outside the company.
+•Separator — The separator is another key material in our lithium-ion cells. While we have in the past used the industry norm polyethylene/polypropylene materials, we are now working so that in the future we will integrate as many cells as possible with our proprietary polyaramid technology. In addition, we are actively working to build on our polyaramid knowledge to develop a solid electrolyte battery system that could incorporate the polyaramid material as a component of the solid electrolytes. If the solid electrolyte approach is successful, not only will it eliminate the use of liquid electrolytes, but it will also potentially enable new anode chemistries such as lithium metal, which is needed to reach cells with over 1,000 Wh/l energy densities.
+Suppliers and Supply Arrangements
+We currently purchase certain key raw materials for our electrodes and a variety of other components from third parties, some of which we only source from one supplier or from a limited number of suppliers. By purchasing larger volumes of raw materials, we have been able to establish long-term supply agreements for some of our key raw materials and components and made measurable improvements in pricing and supplier payment terms. We have also increased the sources of supply for some of our key raw materials. Some of our raw material prices are indexed to a benchmark price for that material or its underlying base metal and therefore fluctuations of metal prices may cause our suppliers to adjust their prices accordingly. See “Risk Factors — Risks Related to our Business and Industry — We currently purchase certain key raw materials and components from third parties, some of which we only source from one supplier or from a limited number of suppliers.”
+Customers 
+We have various arrangements in place with major global electric vehicle manufacturers to develop batteries and battery systems, mostly in relation to the commercial vehicle market. Our battery systems are used in plug-in hybrid electric vehicles, battery electric vehicles and hybrid electric vehicles markets. For the electric commercial vehicle market, we typically enter into long-term supply agreements or framework agreements and these usually do not provide for any minimum purchase obligations on the customer. Typically, the customers under these agreements will issue purchase orders for a fixed quantity of battery systems, and that purchase order is its contractual commitment to purchase. 
+We will also enter into contracts where a customer is committed to take a defined volume of battery systems, as is much more characteristic of the ESS market. In 2022, we entered into such an agreement to supply our container solution for a 1,200 MWh battery energy storage project co-located with a solar facility in the U.S. 
+Table of Contents
+
+Due to the sales cycle of our solutions and the relatively small customer base, we experience significant customer concentration. For the year ended December 31, 2022, our top five customers contributed 36.1% of our revenue. See “Risk Factors — Risks Related to our Business and Industry — We have a limited customer base and depend on a small number of customers for a significant portion of our revenues to date and this dependence is likely to continue.”
+As of December 31, 2022, we had an order backlog for our battery systems of approximately $410.5 million, equivalent to approximately 1,599.7 MWh, approximately 90% of which is attributable to the U.S. and Europe. We expect to fulfill most of our backlog within 2023 and 2024.
+Human Capital
+As of December 31, 2022, we had 1,535 full-time employees and 730 independent contractors. All decisions and control, and all of our senior management, are centralized in the U.S. Our key human capital objectives in managing our business include attracting, developing and retaining top talent while integrating diversity, equity and inclusion principles and practices. We have built a team comprised of individuals with diverse backgrounds, skills and perspectives to produce better ideas and provide greater success in meeting the needs of our customers. Our results-oriented culture is committed to developing and delivering differentiated solutions at a faster rate than our competitors. 
+We offer competitive benefits packages for our full-time employees. Additionally, our employees have opportunities to earn annual bonuses and eligible employees have the opportunity to participate in our equity-based compensation program. We believe our compensation programs allow us to attract and retain talented employees willing to grow with us.
+We emphasize the importance of safety to all of our employees who work in our manufacturing and research facilities. Our safety performance and training results are measured and reported weekly. The foundations of our safety programs are based on global health and safety standards. During the COVID-19 pandemic, we followed local authority guidelines in all locations to ensure the safety of both employees and our customers. To date, we have not experienced any work stoppages as a result of labor disputes, and we consider our employee relations to be good.
+Competition 
+Competition in the battery industry is fierce and rapidly evolving. Our markets are subject to changing and evolving technology trends, shifting customer needs and expectations and frequent introduction of new technologies. We believe the primary competitive factors in our markets are:
+•product performance, reliability and safety;
+•integrated solutions;
+•total cost of ownership;
+•regional and industrial regulations;
+•pricing;
+•availability and pricing of raw materials;
+•time to market for new technologies/chemistries; and
+•manufacturing capabilities.
+Our competitors include many large, established, high volume battery manufacturers as well as new companies focused on the development of one or more battery technologies. The established Asian competitors from China, Japan and South Korea still dominate the global market and, due to the scale of their operations, have the ability to engage in tactical pricing initiatives to preserve and grow market share. See “Risk Factors — Risks Related to our Business and Industry — We mainly manufacture and market lithium-based battery systems. If a viable substitute product or chemistry to lithium-based battery systems emerges and gains market acceptance, our business, financial condition and results of operations will be materially and adversely affected. Furthermore, our failure to keep up with rapid technological changes and evolving industry standards within the lithium-based battery market may cause our products to become obsolete and less marketable, resulting in loss of market share to our competitors.”
+Table of Contents
+
+Governmental Regulation and Environmental Compliance
+Environmental Matters — Our Asian facility
+Our manufacturing activities in China are subject to the requirements of Chinese environmental laws and regulations on air emission, wastewater discharge, solid waste and noise and the generation, handling, storage, use, transportation and disposal of hazardous materials. We believe we are in compliance with these environmental laws and regulations in all material aspects. We have built environmental treatment facilities concurrently with the construction of our manufacturing facilities, where the waste air, wastewater and waste solids we generate can be treated in accordance with the relevant requirements. We have outsourced the disposal of hazardous solid waste we generate to a third-party contractor in accordance with the relevant laws. We believe we have maintained pollutant emission levels at each of our facilities in material compliance with levels prescribed by the relevant governmental authorities.
+Environmental Matters — Our European Production Facility
+Operations at our German facility are subject to a variety of environmental, health and safety regulations, including those governing the generation, handling, storage, use, transportation and disposal of hazardous materials. In order to conduct our operations by the fourth quarter of 2023, we obtained the Quality Management Standards IATF 16949:2016 and ISO 9001:2015 followed by ISO 14001:2015 — Environmental Quality Management Standard and ISO 50001:2011 — Energy Management. For safer working conditions we will also implement ISO 45001-2018 by the fourth quarter of 2023 — Occupational Health and Safety and all our machines and production lines are delivered with Conformitè Europëenne, European Quality Standard label according to the Machinery Directive 2006/42/EC.
+In transit, lithium-ion batteries are subject to rules governing the transportation of “dangerous goods.” We only use carriers that meet these requirements. We have policies and programs in place to help assure compliance with our obligations such as machine guarding, laser welding, hazardous material management and transportation. Furthermore, in order to obtain the existing building permits, we are obligated to perform environmental compliance and fire protection concept requirements under German regulations. All these standards and certificates are designed to comply with applicable government regulations and laws, as well as the standards of the automotive industry.
+We train our employees and conduct internal audits of our operations to assess our fulfillment of these policies. As demonstrated in our pilot project for “Sustainable Battery Production” with TÜV SÜD Germany, the environment is very important to us.
+Environmental Matters — Our U.S. Production Facility 
+Federal, state, and local regulations impose significant environmental requirements on the manufacture, storage, transportation, and disposal of various components of advanced ESS. Although we believe that our operations are in material compliance with current applicable environmental regulations, there can be no assurance that changes in such laws and regulations will not impose costly compliance requirements on us or otherwise subject us to future liabilities.
+Moreover, federal, state, and local governments may enact additional regulations relating to the manufacture, storage, transportation, and disposal of components of advanced ESS. Compliance with such additional regulations could require us to devote significant time and resources and could adversely affect demand for our products. 
+General Environmental Matters
+We are not currently subject to any admonitions, penalties, investigations or inquiries imposed by the environmental regulators, nor are we subject to any claims or legal proceedings to which we are named as a defendant for violation of any environmental law or regulation. We do not have any reasonable basis to believe that there is any threatened claim, action or legal proceedings against us relating to any environmental law or regulation that would have a material adverse effect on our business, financial condition or results of operations. See “Risk Factors — Risks Related to our Business and Industry — Compliance with environmental regulations can be expensive, and failure to comply with these regulations may result in monetary damages and fines, adverse publicity and have a material adverse effect on our business..”
+Table of Contents
+
+Workers’ Health and Production Safety Compliance
+We are subject to numerous laws and regulations related to the health of our employees and production safety of our facilities in each jurisdiction in which we operate. 
+These laws and regulations include in some jurisdictions a requirement to engage a qualified institution to make a safety evaluation report on its work safety conditions and to file such a safety evaluation report with the local work safety authority for the use of hazardous chemicals in our manufacturing process.
+We are not currently subject to any admonitions, penalties, investigations or inquiries relating to workers’ health and production safety law or regulations, nor are we subject to any claims or legal proceedings to which we are named as a defendant for violation of any workers’ health and production safety law or regulation. We do not have any reasonable basis to believe that there are any threatened claims, actions or legal proceedings against us relating to any workers’ health and production safety law or regulation that would have a material adverse effect on our business, financial condition or results of operations. See “Risk Factors — Risks Related to our Business and Industry — We may fail to comply with certain health and production safety laws and regulations governing hazardous materials.”
+Seasonality
+We have historically experienced higher sales during our third and fourth fiscal quarters as compared to our first and second fiscal quarters. However, our limited operating history makes it difficult for us to judge the exact nature or extent of the seasonality of our business.
+Corporate Information
+Microvast, Inc. was originally incorporated in Texas in 2006 and later converted to a Delaware corporation in December 2015. On July 23, 2021, Tuscan Holdings Corp. ("Tuscan") a Delaware corporation established in April 2016 for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses) consummated the acquisition of Microvast, Inc. pursuant to an Agreement and Plan of Merger dated February 1, 2021, between Tuscan, Microvast, Inc. and TSCN Merger Sub Inc. (the “Business Combination”). In connection with the consummation of the Business Combination, we changed our name from Tuscan to “Microvast Holdings, Inc.” Our principal executive offices are located at 12603 Southwest Freeway, Suite 300, Stafford, Texas 77477, and our telephone number is (281) 491-9505. Our website is https://microvast.com. The information posted on our website is not incorporated by reference into this Annual Report.
+We make available on or through our website certain reports and amendments to those reports that we file with or furnish to the U.S. Securities and Exchange Commission (“SEC”) in accordance with the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These include our annual reports on Form 10-K, our quarterly reports on Form 10-Q, and our current reports on Form 8-K, amendments to those reports and our Proxy Statement for our annual meeting of stockholders. These filings are available for download free of charge on our investor relations website located at https://ir.microvast.com/financials-filings/sec-filings. The SEC also maintains a website that contains reports, proxy statements, and other information about issuers that file electronically at www.sec.gov.
+
+ | | Page
+PART I. FINANCIAL INFORMATION | 
+Item 1. | Report of Independent Registered Public Accounting Firm | F-2 
+ | Consolidated Balance Sheets as of December 31, 2021 and 2022 | F-3 
+ | Consolidated Statements of Operations for the Years Ended December 31, 2020, 2021 and 2022 | F-5 
+ | Consolidated Statements of Comprehensive Loss for the Years Ended December 31, 2020, 2021 and 2022 | F-6 
+ | Consolidated Statements of Changes in Shareholders’ (Deficit)/Equity for the Years Ended December 31, 2020, 2021 and 2022 | F-7 
+ | Consolidated Statements of Cash Flows for the Years Ended December 31, 2020, 2021 and 2022 | F-10
+ | Notes to Consolidated Financial Statements | F-12
+
+F-1
+
+
+Table of Contents
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Shareholders and Board of Directors of Microvast Holdings, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Microvast Holdings, Inc. and its subsidiaries (the “Company”) as of December 31, 2021 and 2022, the related consolidated statements of operations, comprehensive loss, changes in shareholders’ (deficit)/equity, and cash flows, for each of the three years in the period ended December 31, 2022, and the related notes and the schedule listed in Schedule I (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and 2022, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+/s/ Deloitte Touche Tohmatsu Certified Public Accountants LLP
+Beijing, the People’s Republic of China
+March 16, 2023
+We have served as the Company’s auditor since 2011.
+F-2
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED BALANCE SHEETS
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+
+ | December 31,2021 | | December 31,2022
+Assets | | | 
+Current assets: | | | 
+Cash and cash equivalents | $ | 480,931 | | | $ | 231,420
+Restricted cash, current | 55,178 | | | 70,732 | 
+Short-term investments | — | | | 25,070 | 
+Accounts receivable (net of allowance for doubtful accounts of $5,005 and $4,407 as of December 31, 2021 and 2022, respectively) | 88,717 | | | 119,304 | 
+Notes receivable | 11,144 | | | 2,196 | 
+Inventories, net | 53,424 | | | 84,252 | 
+Prepaid expenses and other current assets | 17,127 | | | 12,093 | 
+Amounts due from related parties | 85 | | | — | 
+Total Current Assets | 706,606 | | | 545,067 | 
+Restricted cash, non-current | — | | | 465 | 
+Property, plant and equipment, net | 253,057 | | | 335,140 | 
+Land use rights, net | 14,008 | | | 12,639 | 
+Acquired intangible assets, net | 1,882 | | | 1,636 | 
+Operating lease right-of-use assets | — | | | 16,368 | 
+Other non-current assets | 19,738 | | | 73,642 | 
+Total Assets | $ | 995,291 | | | $ | 984,957
+Liabilities | | | 
+Current liabilities: | | | 
+Accounts payable | $ | 40,408 | | | $ | 44,985 
+Notes payable | 60,953 | | | 68,441 | 
+Accrued expenses and other current liabilities | 58,740 | | | 66,720 | 
+Advance from customers | 1,526 | | | 54,207 | 
+Short-term bank borrowings | 13,301 | | | 17,398 | 
+Income tax payables | 666 | | | 658 | 
+Total Current Liabilities | 175,594 | | | 252,409 | 
+Long-term bank borrowings | — | | | 28,997 | 
+Long-term bonds payable | 73,147 | | | 43,888 | 
+Warrant liability | 1,105 | | | 126 | 
+Share-based compensation liability | 18,925 | | | 131 | 
+Operating lease liabilities | — | | | 14,347 | 
+Other non-current liabilities | 39,822 | | | 32,082 | 
+Total Liabilities | $ | 308,593 | | | $ | 371,980
+Commitments and contingencies (Note 28) | | | 
+Shareholders’ Equity | | | 
+Common Stock (par value of US$0.0001 per share, 750,000,000 shares authorized as of December 31, 2021 and 2022; 300,530,516 and 309,316,011 shares issued, and 298,843,016 and 307,628,511 shares outstanding as of December 31, 2021 and 2022) | $ | 30 | | | $ | 31 
+
+F-3
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED BALANCE SHEETS - continued
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+
+ | December 31,2021 | | December 31,2022
+Additional paid-in capital | 1,306,034 | | | 1,416,160 | 
+Statutory reserves | 6,032 | | | 6,032 | 
+Accumulated deficit | (632,099) | | | (791,165) | 
+Accumulated other comprehensive income (loss) | 6,701 | | | (18,081) | 
+Total Shareholders’ Equity | 686,698 | | | 612,977 | 
+Total Liabilities and Shareholders’ Equity | $ | 995,291 | | | $ | 984,957
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Revenues | $ | 107,518 | | | $ | 151,976 | | $ | 204,495 
+Cost of revenues | (90,378) | | | (194,719) | | | (195,422) 
+Gross profit/(loss) | 17,140 | | | (42,743) | | | 9,073 
+Operating expenses: | | | | | 
+General and administrative expenses | (18,849) | | | (101,632) | | | (104,572) 
+Research and development expenses | (16,637) | | | (34,385) | | | (43,508) 
+Selling and marketing expenses | (13,761) | | | (21,431) | | | (22,611) 
+Total operating expenses | (49,247) | | | (157,448) | | | (170,691) 
+Subsidy income | 3,000 | | | 6,127 | | | 1,672 
+Loss from operations | (29,107) | | | (194,064) | | | (159,946) 
+Other income and expenses: | | | | | 
+Interest income | 571 | | | 446 | | | 3,179 
+Interest expense | (5,738) | | | (5,411) | | | (3,323) 
+Loss on changes in fair value of Bridge Notes | — | | | (9,861) | | | — 
+Gain on changes in fair value of warrant liability | — | | | 2,469 | | | 979 
+Other income (expense), net | 650 | | | (62) | | | 944 
+Loss before provision for income tax | (33,624) | | | (206,483) | | | (158,167) 
+Income tax expense | (1) | | | — | | | (33) 
+Net loss | $ | (33,625) | | | $ | (206,483) | | $ | (158,200)
+Less: Accretion of Series C1 Preferred | 3,897 | | | 2,257 | | | — 
+Less: Accretion of Series C2 Preferred | 8,866 | | | 5,132 | | | — 
+Less: Accretion of Series D1 Preferred | 18,648 | | | 10,708 | | | — 
+Less: Accretion for noncontrolling interests | 15,927 | | | 9,523 | | | — 
+Net loss attributable to common stock shareholders of Microvast Holdings, Inc. | $ | (80,963) | | | $ | (234,103) | | $ | (158,200)
+Net loss per share attributable to Common Stock shareholders of Microvast Holdings, Inc. | | | | | 
+Basic and diluted | $ | (0.82) | | | $ | (1.26) | | $ | (0.52) 
+Weighted average shares used in calculating net loss per share of common stock: | | | | | 
+Basic and diluted | 99,028,297 | | | 185,896,482 | | | 303,279,188
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-5
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Net loss | $ | (33,625) | | | $ | (206,483) | | $ | (158,200)
+Foreign currency translation adjustment | 16,622 | | | (655) | | | (24,782)
+Comprehensive loss | $ | (17,003) | | | $ | (207,138) | | $ | (182,982)
+Total comprehensive loss attributable to Microvast Holdings, Inc. | $ | (17,003) | | | $ | (207,138) | | $ | (182,982)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ (DEFICIT)/EQUITY
+(In thousands of U.S. dollars, except share and per share data, or otherwise noted)
+
+
+ | Year Ended December 31, 2020
+ | Common Stock | | | | | | | | 
+ | Shares | Amount | | Additionalpaid-incapital | Accumulateddeficit | | Accumulatedothercomprehensive(loss)/income | | Statutoryreserve | | TotalMicrovastHoldings, Inc.shareholders’deficit
+Balance as of December 31, 2019 | 99,028,297 | | $ | 6 | | $ | 3,727 | | | $ | (320,760) | $ | (9,266) | | $ | 6,032 | $ | (320,261)
+Net loss | — | | — | | — | | | (33,625) | | | — | — | | (33,625) | 
+Accretion for Series C1 Preferred | — | | — | | (3,727) | | | (170) | | | — | — | | (3,897) | 
+Accretion for Series C2 Preferred | — | | — | | — | | | (8,866) | | | — | — | | (8,866) | 
+Accretion for Series D1 Preferred | — | | — | | — | | | (18,648) | | | — | — | | (18,648) | 
+Accretion for the exiting noncontrolling interests | — | | — | | — | | | (5,668) | | | — | — | | (5,668) | 
+Foreign currency translation adjustments | — | | — | | — | | | — | | | 16,622 | — | | 16,622 | 
+Accretion of redeemable noncontrolling interests | — | | — | | — | | | (10,259) | | | — | — | | (10,259) | 
+Balance as of December 31, 2020 | 99,028,297 | | $ | 6 | | $ | — | | | $ | (397,996) | $ | 7,356 | | $ | 6,032 | $ | (384,602)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-7
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ (DEFICIT)/EQUITY - (Continued)
+(In thousands of U.S. dollars, except share and per share data, or otherwise noted)
+
+
+ | Year Ended December 31, 2021
+ | Common Stock | | | | | | | | 
+ | Shares | Amount | | Additionalpaid-in capital | Accumulateddeficit | | Accumulated other comprehensive income | | Statutoryreserve | | Total Microvast Holdings, Inc.Shareholders’ (Deficit)/Equity
+Balance as of December 31, 2020 | 99,028,297 | | $ | 6 | | $ | — | | | $ | (397,996) | $ | 7,356 | | $ | 6,032 | $ | (384,602)
+Net loss | — | | — | | — | | | (206,483) | | | — | — | | (206,483) | 
+Accretion for Series C1 Preferred | — | | — | | — | | | (2,257) | | | — | — | | (2,257) | 
+Accretion for Series C2 Preferred | — | | — | | — | | | (5,132) | | | — | — | | (5,132) | 
+Accretion for Series D1 Preferred | — | | — | | — | | | (10,708) | | | — | — | | (10,708) | 
+Accretion for redeemable noncontrolling interests | — | | — | | — | | | (5,841) | | | — | — | | (5,841) | 
+Accretion for the exiting noncontrolling interests | — | | — | | — | | | (3,682) | | | — | — | | (3,682) | 
+Issuance of common stock upon the reverse recapitalization, net of issuance costs (Note 3) | 191,254,950 | | 23 | | 1,241,828 | | | — | | | — | — | | 1,241,851 | 
+Issuance of common stock in connection with vesting of restricted stock units and stock options (including the conversion and vesting of Series B2 preferred) | 8,559,769 | | 1 | | 39,532 | | | — | | | — | — | | 39,533 | 
+Share-based compensation(Note 22) | — | | — | | 24,674 | | | — | | | — | — | | 24,674 | 
+Foreign currency translation adjustments | — | | — | | — | | | — | | | (655) | — | | (655) | 
+Balance as of December 31, 2021 | 298,843,016 | | $ | 30 | | $ | 1,306,034 | | | $ | (632,099) | $ | 6,701 | | $ | 6,032 | $ | 686,698 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-8
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ (DEFICIT)/EQUITY
+(Continued)
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+
+ | Year Ended December 31, 2022
+ | Common Stock | | | | | | | | 
+ | Shares | Amount | | Additionalpaid-incapital | Accumulateddeficit | | Accumulated otherComprehensiveincome (loss) | | Statutoryreserves | | TotalMicrovastHoldings, Inc.Shareholders’Equity
+Balance as of December 31, 2021 | 298,843,016 | | $ | 30 | | $ | 1,306,034 | | | $ | (632,099) | $ | 6,701 | | $ | 6,032 | $ | 686,698
+Net loss | — | | — | | — | | | (158,200) | | | — | — | | (158,200) | 
+Cumulative effect adjustment related to opening retained earnings for adoption of ASU2016-13, Financial instruments- Credit losses (Topic 326) | — | | — | | — | | | (866) | | | — | — | | (866) | 
+Issuance of common stock in connection with vesting of share-based awards | 8,785,495 | | 1 | | (1) | | | — | | | — | — | | — | 
+Share-based compensation(Note 22) | — | | — | | 110,127 | | | — | | | — | — | | 110,127 | 
+Foreign currency translation adjustments | — | | — | | — | | | — | | | (24,782) | — | | (24,782) | 
+Balance as of December 31, 2022 | 307,628,511 | | $ | 31 | | $ | 1,416,160 | | | $ | (791,165) | $ | (18,081) | | $ | 6,032 | $ | 612,977
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-9
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Cash flows from operating activities | | | | | 
+Net loss | $ | (33,625) | | | $ | (206,483) | | $ | (158,200)
+Adjustments to reconcile net loss to net cash generated from/(used in) operating activities: | | | | | 
+Loss /(Gain) on disposal of property, plant and equipment | 207 | | | 13 | | | (14) 
+Depreciation of property, plant and equipment | 16,097 | | | 19,975 | | | 19,811 
+Amortization of land use rights and intangible assets | 695 | | | 738 | | | 554 
+Noncash lease expenses | — | | | — | | | 2,214 
+Share-based compensation | — | | | 82,894 | | | 90,808 
+Changes in fair value of warrant liability | — | | | (2,469) | | | (979) 
+Changes in fair value of Bridge Notes | — | | | 9,861 | | | — 
+(Reversal)/allowance of doubtful accounts | (240) | | | 721 | | | 1,640 
+Provision for obsolete inventories | 1,343 | | | 18,295 | | | 4,789 
+Impairment loss from property, plant and equipment | 567 | | | 2,443 | | | 1,798 
+Product warranty | 3,477 | | | 52,932 | | | 14,097 
+Changes in operating assets and liabilities: | | | | | 
+Notes receivable | 13,940 | | | 10,016 | | | 3,187 
+Accounts receivable | (3,599) | | | (11,844) | | | (38,924) 
+Inventories | 13,611 | | | (25,892) | | | (43,694) 
+Prepaid expenses and other current assets | (1,693) | | | (10,980) | | | 3,628 
+Amounts due from/to related parties | 1,872 | | | (84) | | | 85 
+Operating lease right-of-use assets | — | | | — | | | (19,375) 
+Other non-current assets | (139) | | | (2,135) | | | (282) 
+Notes payable | (1,643) | | | 24,159 | | | 13,490 
+Accounts payable | 3,818 | | | (2,499) | | | 7,146 
+Advance from customers | (1,395) | | | (971) | | | 53,022 
+Accrued expenses and other liabilities | 2,256 | | | (5,947) | | | (24,674) 
+Operating lease liabilities | — | | | — | | | 14,999 
+Other non-current liabilities | — | | | 2,218 | | | 946 
+Income tax payables | 7 | | | — | | | — 
+Net cash generated from/(used in) operating activities | 15,556 | | | (45,039) | | | (53,928) 
+Cash flows from investing activities | | | | | 
+Purchases of property, plant and equipment | (18,645) | | | (87,862) | | | (150,880)
+Proceeds on disposal of property, plant and equipment | 13 | | | — | | | 5 
+Purchase of short-term investments | (4,635) | | | — | | | (25,070) 
+Proceeds from maturity of short-term investments | 5,593 | | | — | | | — 
+Net cash used in investing activities | (17,674) | | | (87,862) | | | (175,945)
+Cash flows from financing activities | | | | | 
+Proceeds from bank borrowings | 17,308 | | | 38,926 | | | 58,708 
+
+F-10
+
+
+MICROVAST HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS - continued
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Repayment of bonds payable | — | | | — | | | (29,259) 
+Repayment of bank borrowings | (17,815) | | | (37,568) | | | (24,482) 
+Loans borrowing from related parties | 18,889 | | | 8,426 | | | — 
+Repayment of related party loans | (18,889) | | | (8,426) | | | — 
+Cash received from the trust account upon Merger, net of transaction costs (Note 3) | — | | | 222,629 | | | — 
+Cash received from Private Investment in Public Equity (“PIPE”) investors upon Merger (Note 3) | — | | | 482,500 | | | — 
+Payment to exited noncontrolling interests (Note 19) | — | | | (139,038) | | | — 
+Issuance of Bridge Notes (Note 14) | — | | | 57,500 | | | — 
+Net cash (used in)/generated from financing activities | (507) | | | 624,949 | | | 4,967 
+Effect of exchange rate changes | 2,037 | | | 2,865 | | | (8,586) 
+(Decrease) Increase in cash, cash equivalents and restricted cash | (588) | | | 494,913 | | | (233,492)
+Cash, cash equivalents and restricted cash at beginning of the year | 41,784 | | | 41,196 | | | 536,109 
+Cash, cash equivalents and restricted cash at end of the year | $ | 41,196 | | | $ | 536,109 | | $ | 302,617
+Reconciliation to amounts on consolidated balance sheets | | | | | 
+Cash and cash equivalents | $ | 21,496 | | | $ | 480,931 | | $ | 231,420
+Restricted cash | 19,700 | | | 55,178 | | | 71,197 
+Total cash, cash equivalents and restricted cash | $ | 41,196 | | | $ | 536,109 | | $ | 302,617
+Supplemental disclosure of cash flow information | | | | | 
+Interest paid | $ | 1,969 | | | $ | 2,686 | | $ | 5,135 
+Income tax paid | $ | — | | | $ | — | | $ | — 
+Non-cash investing and financing activities | | | | | 
+Payable for redemption of noncontrolling interest | $ | 124,316 | | | $ | — | | $ | — 
+Payable for purchase of property, plant and equipment | $ | 15,122 | | | $ | 18,500 | | $ | 29,183 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-11
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+1. DESCRIPTION OF ORGANIZATION AND BUSINESS OPERATIONS
+Microvast, Inc. was incorporated under the laws of the State of Texas in the United States of America (“USA”) on October 12, 2006 and re-domiciled to the State of Delaware on December 31, 2015. Microvast Inc. and its subsidiaries (collectively, the “Group”) are primarily engaged in developing, manufacturing, and selling electronic power products for electric vehicles and energy storage across the globe, with its primary markets and operations in the People’s Republic of China (“PRC”), Europe and the United States.
+On July 23, 2021 (the “Closing Date”), Microvast, Inc. and Tuscan Holdings Corp.(“Tuscan”) consummated the previously announced merger (the “Merger”), pursuant to the Agreement and Plan of Merger (the “Merger Agreement”) dated February 1, 2021, between Tuscan, Microvast, Inc. and TSCN Merger Sub Inc., a Delaware corporation (“Merger Sub”).
+Pursuant to the Merger Agreement, the Merger Sub merged with and into Microvast, Inc., with Microvast, Inc. surviving the Merger. As a result of the Merger, Tuscan was renamed “Microvast Holdings, Inc.” (the “Company”). The Merger was accounted for as a reverse recapitalization as Microvast, Inc. was determined to be the accounting acquirer under Financial Accounting Standards Board’s Accounting Standards Codification Topic 805, Business Combinations (“ASC 805”). Please refer to Note 3 “Reverse Recapitalization” for further details of the Merger.
+Upon the completion of the Merger transaction between Microvast, Inc. and Tuscan, the share, per share value and net loss per share available to Microvast Inc.’s common stockholders in the financial statements for each of the two years ended December 31, 2021 were retroactively recast to reflect the exchange ratio established in the Merger Agreement. Refer to Note 3 for details.
+As of December 31, 2022, details of the Company’s major subsidiaries are as follows:
+
+Subsidiaries | Place of incorporation | Date of incorporation or acquisition | Percentage of ownership
+Microvast, Inc. (“Microvast”) | Delaware, USA | October 2006 | 100 | %
+Microvast Power Solutions, Inc (“MP Solutions”) | Texas, USA | July 2013 | 100 | %
+Microvast Power Systems Co., Ltd. (“MPS”) | Huzhou, PRC | December 2006 | 100 | %
+Microvast GmbH (“MV GmbH”) | Germany | May 2016 | 100 | %
+Huzhou Hongwei New Energy Automobile Co., Ltd. (“Hongwei”) | Huzhou, PRC | December 2016 | 100 | %
+Microvast Energy, Inc. (“MV Energy”) | Colorado, USA | July 2022 | 100 | %
+
+2. SIGNIFICANT ACCOUNTING POLICIES
+Basis of presentation 
+The consolidated financial statements of the Group have been prepared in accordance with the generally accepted accounting principles in the United States of America (“U.S. GAAP”).
+Basis of consolidation
+The consolidated financial statements of the Group include the financial statements of the Company and its subsidiaries. All intercompany transactions and balances have been eliminated upon consolidation.
+F-12
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Noncontrolling interests and redeemable noncontrolling interests
+For the Company’s consolidated subsidiaries, noncontrolling interests are recognized to reflect the portion of their equity that is not attributable, directly or indirectly, to the Company as the controlling shareholder. Noncontrolling interests are classified as a separate line item in the equity section of the Company’s consolidated balance sheets and have been separately disclosed in the Company’s consolidated statements of operations and comprehensive loss to distinguish the interests from that of the Company.
+Noncontrolling interests in subsidiaries that are redeemable at the option of the holder and not solely within the control of the Company for cash or other assets are classified outside of permanent equity at redemption value as redeemable noncontrolling interests. If the redemption event is probable to occur, the Company records the redeemable noncontrolling interests at the redemption value on each balance sheet date with the changes recognized as an adjustment to equity.
+Use of estimates
+The preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, revenue, costs and expenses in the consolidated financial statements and accompanying notes, and disclosure of contingent liabilities at the date of the consolidated financial statements. Actual results could differ from these estimates. Significant accounting estimates reflected in the Group’s financial statements include allowance for doubtful accounts, provision for obsolete inventories, impairment of long-lived assets, valuation allowance for deferred tax assets, product warranties, fair value measurement of Bridge Notes, fair value measurement of warrant liability and share based compensation.
+Emerging Growth Company
+Pursuant to the JOBS Act, an emerging growth company may adopt new or revised accounting standards that may be issued by FASB or the SEC either (i) within the same periods as those otherwise applicable to non-emerging growth companies or (ii) within the same time periods as private companies. The Company intends to take advantage of the exemption for complying with new or revised accounting standards within the same time periods as private companies. Accordingly, the information contained herein may be different than the information provided by other public companies.
+The Company also intends to take advantage of some of the reduced regulatory and reporting requirements of emerging growth companies pursuant to the JOBS Act so long as the Company qualifies as an emerging growth company, including, but not limited to, an exemption from the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act, reduced disclosure obligations regarding executive compensation, and exemptions from the requirements of holding non-binding advisory votes on executive compensation and golden parachute payments.
+Cash and cash equivalents
+Cash and cash equivalents consist of cash on hand and highly liquid investments, which are unrestricted from withdrawal or use, or which have maturities of three months or less.
+Restricted cash
+Restricted cash represents deposits made to banks to secure bank acceptance notes (or Notes Payable), letters of credit issued by the Group, and restricted use bank borrowings (see Note 12). It is common in the PRC that the banks require the Group to pledge notes receivable or make a deposit as collateral. The deposits and the matured bank acceptance notes from its customers are recorded as restricted cash in the consolidated balance sheets.
+F-13
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Accounts receivable
+Accounts receivable represents those receivables derived in the ordinary course of business, net of allowance for doubtful accounts. Beginning on January 1, 2022, the Group evaluates its accounts receivable for expected credit losses on a regular basis. The Group maintains an estimated allowance for credit losses to reduce its accounts receivable to the amount that it believes will be collected. The Group uses the creditworthiness of customers, aging of the receivables, past transaction history with customers and their current condition, changes in customer payment terms, specific facts and circumstances, and the overall economic climate in the industries the Group serves to monitor the Group's receivables within the scope of expected credit losses model and use these as a basis to develop the Group's expected loss estimates.
+Notes receivable and payable
+The Group accepts bank acceptance notes (“notes”) from customers in the PRC in the normal course of business. The Group may present these notes with banks in the PRC for cash payment or endorse these notes to its suppliers to settle its accounts payable. The Group derecongnised the endorsed notes upon transferring them to its suppliers as the Group loses effective control over these notes. Notes receivable and payable are typically non-interest bearing and have maturities of one year or less.
+As of December 31, 2021 and 2022, the balance of notes receivable were $11,144 and $2,196, respectively while certain notes receivable have been pledged to our banks to secure their issuance of bank acceptance notes for the Group.
+Short-term investments
+The Group’s short-term held-to-maturity investments are classified based on their contractual maturity dates which are less than one year and are recorded at their amortized costs. The Company recognized $37, $ nil and $70 interest income from the short-term investments for the years ended December 31, 2020, 2021 and 2022, respectively.
+The Group reviews its held-to-maturity investments for other-than-temporary impairment (“OTTI”) based on the specific identification method. The Group considers available quantitative and qualitative evidence in evaluating the potential impairment of its short-term investments. If the cost of an investment exceeds the investment’s fair value, the Group considers, among other factors, general market conditions, expected future performance of the instruments, the duration and the extent to which the fair value of the investment is less than the cost, and the Group’s intent and ability to hold the investments. OTTI is recognized as a loss in the consolidated statements of operations.
+Inventories, net
+Inventories of the Group consist of raw materials, work in process and finished goods. Inventories are stated at the lower of cost or net realizable value. Inventory costs include expenses that are directly or indirectly incurred in the acquisition and production process, including shipping and handling costs charged by suppliers. The cost of materials and supplies used in production, direct labor costs and allocated overhead costs are all included in the inventory costs. The allocated overhead cost includes depreciation, insurance, employee benefits, and indirect labor. Cost is determined using the weighted average method. Inventories are written down to net realizable value taking into consideration of estimates of future demand, technology developments, market conditions and reasonably predicative costs of completion or disposal.
+Prepaid expenses and other current assets
+Prepaid expenses and other current assets primarily consist of advances to suppliers, prepaid expenses, deposits and value-added tax receivables.
+F-14
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Property, plant and equipment, net
+Property, plant and equipment are carried at cost less accumulated depreciation. Depreciation is calculated on a straight-line basis over the following estimated useful lives:
+
+Buildings | 20 years 
+Machineries and equipment | 10 years 
+Fixtures and electronic equipment | 4 - 5 years 
+Motor vehicles | 5 years 
+Leasehold improvements | Shorter of the lease term or estimated useful lives
+
+Construction in progress represents manufacturing facilities and equipment under construction, and is stated at cost. The capitalization of these costs ceases when construction in progress is transferred to property, plant and equipment and substantially ready for its intended use. No depreciation is recorded for construction in progress. Repair and maintenance costs are charged to expenses as incurred.
+Land use rights, net
+Land use rights are recorded at cost less accumulated amortization. Amortization is provided on a straight-line basis over the estimated useful lives, which are generally 50 years and represent the shorter of the estimated usage periods or the terms of the land use rights agreements.
+Acquired intangible assets, net
+Acquired intangible assets with definite lives are amortized on a straight-line basis over their expected useful economic lives.
+Impairment of long-lived assets
+The Company reviews long-lived assets with finite lives, including identifiable intangible assets with determinable useful lives, for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to the future net undiscounted cash flows expected to be generated by the asset. If such assets are considered to be impaired, the impairment recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of the assets. Fair value is estimated based on various valuation techniques, including the discounted value of estimated future cash flows. The evaluation of asset impairment requires the Group to make assumptions about future cash flows over the life of the asset being evaluated. These assumptions require significant judgment and actual results may differ from assumed and estimated amounts. During the years ended December 31, 2020, 2021 and 2022, the Group recognized impairment losses of $567, $2,443 and $1,798 related to long-lived assets, respectively.
+Fair value of financial instrument
+Financial instruments include cash and cash equivalents, restricted cash, short-term investments, accounts receivable, notes receivable, other receivable, amounts due from/to related parties, accounts payable, short-term bank borrowings, notes payable, bonds payable, Bridge Notes and warrant liability. The Group carries its cash and cash equivalents, restricted cash, Bridge Notes and warrant liability at fair value. The carrying values of other current financial instruments approximate their fair values reported in the consolidated balance sheets due to their short-term maturity.
+F-15
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Fair value
+Fair value is the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, the Group considers the principal or most advantageous market in which it would transact and it considers assumptions that market participants would use when pricing the asset or liability.
+Authoritative literature provides a fair value hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. An asset or liability categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement as follows:
+Level 1
+Level 1 applies to assets or liabilities for which there are quoted prices in active markets for identical assets or liabilities.
+Level 2
+Level 2 applies to assets or liabilities for which there are inputs other than quoted prices included within Level 1 that are observable for the assets or liabilities such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent transactions (less active markets); or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data.
+Level 3
+Level 3 applies to assets or liabilities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the assets or liabilities.
+Revenue recognition
+Nature of Goods and Services
+The Group’s revenue consists primarily of sales of lithium-ion batteries. The obligation of the Group is providing the battery products. Revenue is recognized at the point of time when control of the promised goods or services is transferred to the customer, in an amount that reflects the consideration the Group expects to be entitled to in exchange for the goods or services.
+Contract balances
+Contract balances include accounts receivable and advances from customers. Accounts receivable represent cash not received from customers and are recorded when the rights to consideration is unconditional. The allowance for doubtful accounts reflects the best estimate of probable losses inherent to the accounts receivable balance. Contract liabilities, recorded in advance from customers in the consolidated balance sheet, represent payment received in advance or payment received related to a material right provided to a customer to acquire additional goods or services at a discount in a future period. During the years ended December 31, 2020, 2021 and 2022, the Group recognized $582, $1,455 and $1,151 of revenue previously included in advance from customers as of January 1, 2020, January 1, 2021 and January 1, 2022, respectively, which consist of payments received in advance related to its sales of lithium-ion batteries.
+Value added taxes
+The Group reports revenue net of VAT. Entities in PRC that are VAT general tax payers are allowed to offset qualified VAT paid against their output VAT liabilities.
+F-16
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Cost of revenues
+Cost of revenues primarily consists of the cost of the products ultimately sold to customers, shipping and handling costs charged to the Group in the sales, product warranty expense, provision for obsolete inventories and other related cost that are directly attributable to the production of products.
+Product Warranty
+The Group provides product warranty, which entails repair or replacement of non-conforming items, in conjunction with the sales of products. The warranty liability recorded at each balance sheet date reflects management’s best estimates of its product warranty based on historical information and other currently available evidence.
+The Group’s product warranty generally ranges from one to eight years. The Group establishes a reserve for the estimated cost of the product warranty at the time revenue is recognized. The portion of the warranty that is expected to incur within the next 12 months is recorded in accrued expenses and other current liabilities, while the remaining balance is recorded in other non-current liabilities on the consolidated balance sheets. Product warranty is recorded as a cost of revenues.
+Research and development expenses
+Research and development expenses primarily consist of salaries and benefits for research and development personnel, raw materials, office rental expense, general expenses and depreciation expenses associated with research and development activities.
+Subsidy income
+Government subsidies represent government grants received from local government authorities.
+Government subsidies related to the investment in production facilities is initially recorded as other current or other non-current liabilities and is amortized on a straight-line basis to offset the cost of revenues over the life of the relevant production assets or amortized on an effective interest method over the term of the loan.
+The Group amortized the deferred subsidy at $166, $269 and $538 during the years ended December 31, 2020, 2021 and 2022, respectively. As of December 31, 2021 and 2022, the carrying amount of the current portion of the deferred subsidy income was $324 and $542, and the non-current portion was $2,286 and $3,066, respectively. 
+Income taxes
+Current income taxes are provided for in accordance with the laws of the relevant tax authorities. Deferred income taxes are recognized when temporary differences exist between the tax bases of assets and liabilities and their reported amounts in the consolidated financial statements. Net operating loss carry forwards and credits are applied using enacted statutory tax rates applicable to future years. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more-likely-than-not that a portion of or all of the deferred tax assets will not be realized.
+The Group accounts for uncertain tax positions by reporting a liability for unrecognized tax benefits resulting from uncertain tax positions taken or expected to be taken in a tax return. Tax benefits are recognized from uncertain tax positions when the Group believes that it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. The Group recognizes interest and penalties, if any, related to unrecognized tax benefits in income tax expense.
+F-17
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Share-based compensation
+Share-based payment transactions with employees are measured based on the grant date fair value of the equity instrument and recognized as compensation expense on a straight-line basis over the requisite service period, with a corresponding impact reflected in additional paid-in capital.
+For share-based awards granted with performance condition, the compensation cost is recognized when it is probable that the performance condition will be achieved. The Company reassesses the probability of achieving the performance condition at the end of each reporting date and records a cumulative catch-up adjustment for any changes to its assessment. For performance-based awards with a market condition, such as awards based on total shareholder return (“TSR”), compensation expense is recognized on a straight-line basis over the estimated service period of the award, regardless of whether the market condition is satisfied. Forfeitures are recognized as they occur.
+Liability-classified awards are remeasured at their fair-value-based measurement as of each reporting date until settlement.
+Operating leases
+On January 1, 2022, the Company adopted ASU No. 2016-02, Leases (Topic 842) (“ASC 842”), using the modified retrospective transition method resulting in the recording of operating lease right-of-use (ROU) assets of $18,826 and operating lease liabilities of $18,776 upon adoption. Prior period amounts have not been adjusted and continue to be reported in accordance with the previous accounting guidance. The adoption of the new guidance did not have a material effect on the consolidated statements of operations. As of December 31, 2022, the Company recorded operating lease right-of-use (ROU) assets of $16,368 and operating lease liabilities of $16,281, including current portion in the amount of $1,934, which was recorded under accrued expenses and other current liabilities on the balance sheet.
+The Company determines if an arrangement is a lease or contains a lease at lease inception. Operating leases are required to be recorded in the statement of financial position as right-of-use assets and lease liabilities, initially measured at the present value of the lease payments. The Company has elected the package of practical expedients, which allows the Company not to reassess (1) whether any expired or existing contracts as of the adoption date are or contain a lease, (2) lease classification for any expired or existing leases as of the adoption date and (3) initial direct costs for any expired or existing leases as of the adoption date. The Company also elected the practical expedient not to separate lease and non-lease components of contracts. Lastly, for lease assets other than real estate, such as printing machines and electronic appliances, the Company elected the short-term lease exemption as their lease terms are 12 months or less.
+As the rate implicit in the lease is not readily determinable, the Company estimates its incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. The incremental borrowing rate is estimated in a portfolio approach to approximate the interest rate on a collateralized basis with similar terms and payments in a similar economic environment. Lease expense is recorded on a straight-line basis over the lease term.
+Warrant Liability 
+The Company accounts for warrants in accordance with the guidance contained in ASC 815-40 under which the warrants do not meet the criteria for equity treatment and must be recorded as liabilities. As the Private Warrants (as defined below Note 15) meet the definition of a derivative as contemplated in ASC 815, the Company classifies the Private Warrants as liabilities. This liability is subject to re-measurement at each balance sheet date until exercised, and any change in fair value is recognized in the statements of operations. The Private Warrants are valued using a Monte Carlo simulation model on the basis of the quoted market price of the Company’s publicly-traded warrants.
+Comprehensive loss
+Comprehensive loss includes net loss and foreign currency translation adjustments. Comprehensive loss is reported in the consolidated statements of comprehensive loss.
+F-18
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Net loss per share
+Basic loss per share is computed by dividing net loss attributable to common stock, considering the accretions to redemption value of any preferred shares, by the weighted average number of common stock outstanding during the year using the two-class method. Under the two-class method, any net loss is allocated between Common Stock and other participating securities based on their participating rights. Net loss is not allocated to participating securities when the participating securities do not have a contractual obligation to share losses.
+The Company’s preferred shares that existed before its Merger, were participating securities as they participated in undistributed earnings on an as-if-converted basis. The preferred shares had no contractual obligation to fund or otherwise absorb the Company’s losses. Accordingly, any undistributed net loss was allocated on a pro rata basis to the common stock and preferred shares; whereas any undistributed net loss is allocated to ordinary shares only. All preferred shares that existed prior to the Merger were converted into common stock pursuant to the Merger and as of December 31, 2022, the Company does not have any preferred shares in issue. 
+Diluted loss per share is calculated by dividing net loss attributable to Common Stock, as adjusted for the accretion and allocation of net loss related to preferred shares, if any, by the weighted average number of Common Stock and dilutive Common equivalent stock outstanding during the period. Common equivalent stock consist of shares issuable upon the conversion of any preferred shares and convertible bonds using the if-converted method, and Common Stock issuable upon the vesting of non-vested shares or exercise of outstanding share options (using the treasury stock method). Common equivalent stock are calculated based on the most advantageous conversion rate or exercise price from the standpoint of the security holder. Common equivalent stock are not included in the denominator of the diluted earnings per share calculation when inclusion of such shares would be anti-dilutive.
+Foreign currencies
+The functional currency of the Company and all subsidiaries located in the U.S. is the United States dollar (“U.S. dollar”). For the Company’s subsidiaries located in the PRC, the functional currency is the Chinese Renminbi (“RMB”); the Company’s UK subsidiary, MP UK, the functional currency is the Great British Pound (“Pound”); the Company’s Germany subsidiary, MV GmbH, the functional currency is the Euro, and the Company’s Singapore subsidiary, MV Singapore, the functional currency is the Singapore Dollar (“SGD”).
+In preparing the consolidated financial statements of each individual group subsidiary, transactions in currencies other than the subsidiary’s functional currency (foreign currencies) are converted into the functional currency at the rates of exchange prevailing on the dates of the transactions. At the end of each reporting period, monetary items denominated in foreign currencies are translated at the rates prevailing at that date. Non-monetary items that are measured in terms of historical cost in a foreign currency are not retranslated.
+Exchange differences on the monetary items are recognized in the consolidated statements of operations in the period in which they arise.
+For the purposes of presenting the consolidated financial statements, the assets and liabilities of the Group’s foreign operations are translated into the reporting currency of the Group (i.e. US$) at the prevailing exchange rate at the end of the reporting period, and their income and expenses are translated at the average exchange rates for the year. Translation adjustments are reported as cumulative translation adjustments and are shown as a component of other comprehensive loss.
+Foreign currency risk
+RMB is not a freely convertible currency. The State Administration for Foreign Exchange, under the authority of the People’s Bank of China, controls the conversion of RMB into other currencies. The value of the RMB is subject to changes in central government policies and to international economic and political developments affecting supply and demand in the China Foreign Exchange Trading System market. Cash and cash equivalents and restricted cash of the Group included aggregate amounts of $102,782 and $98,021 as of December 31, 2021 and 2022, respectively, which were denominated in RMB.
+F-19
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Concentration of credit risk
+Financial instruments that potentially expose the Group to concentrations of credit risk consist primarily of cash and cash equivalents, restricted cash, accounts receivable, notes receivable and short-term investments. The Group places its cash and cash equivalents with financial institutions with high credit ratings and quality. The Group conducts credit evaluations of customers and generally does not require collateral or other security from its customers.
+The following table summarizes net revenues from customers that accounted for 10% or more of the Group’s net revenues for 2020, 2021 and 2022:
+
+ | December 31,2020 | December 31,2021 | | December 31,2022
+Percentage of revenue contributed by Customer A | *% | 11 | % | | 12 | %
+
+*Revenue from such customer represented less than 10% of the Group's revenue during the respective periods.
+The following table summarizes accounts receivable from customers that accounted for 10% or more of the Group’s accounts receivable:
+
+ | December 31,2021 | | December 31,2022
+Percentage of accounts receivable from Customer A | *% | | 22 | % 
+Percentage of accounts receivable from Customer B | 18 | % | | *%
+
+*Accounts receivable from such customers represented less than 10% of the Group's accounts receivable during the respective years.
+Supplier Concentration
+The Group relies on third parties for the supply of raw materials. In instances where these parties fail to perform their obligations, the Group may find alternative suppliers in the open market. For the years ended December 31, 2020, 2021 and 2022, 12%, 12% and 18% of our raw materials were purchased through company C, respectively, although numerous alternate sources of supply are readily available on comparable terms for the raw materials supplied by company C.
+Newly adopted accounting pronouncements
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842). The guidance supersedes existing guidance on accounting for leases with the main difference being that operating leases are to be recorded in the statement of financial position as right-of-use assets and lease liabilities, initially measured at the present value of the lease payments. For operating leases with a term of 12 months or less, a lessee is permitted to make an accounting policy election not to recognize lease assets and liabilities. For public companies, the guidance is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. Early application of the guidance is permitted. In July 2018, ASU 2016-02 was updated with ASU 2018-11, Targeted Improvements to ASC 842, which provides entities with relief from the costs of implementing certain aspects of the new leasing standard. Specifically, under the amendments in ASU 2018-11, (1) entities may elect not to recast the comparative periods presented when transitioning to ASC 842 and (2) lessors may elect not to separate lease and non-lease components when certain conditions are met. Before ASU 2018-11 was issued, transition to the new lease standard required application of the new guidance at the beginning of the earliest comparative period presented in the consolidated financial statements.
+F-20
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+2. SIGNIFICANT ACCOUNTING POLICIES - continued
+
+Newly adopted accounting pronouncements - continued
+As an EGC, the Company adopted this standard on January 1, 2022, and elected not to recast the comparative periods presented. The adoption did not have a material impact on the Company's consolidated statements of operations or consolidated statements of cash flows, and the adoption of Topic 842 did not result in a cumulative-effect adjustment to retained earnings. Further information is disclosed in Note 17 – Leases.
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments — Credit Losses (Topic 326), which requires entities to measure all expected credit losses for financial assets held at the reporting date based on historical experience, current conditions, and reasonable and supportable forecasts. This replaces the existing incurred loss model and is applicable to the measurement of credit losses on loans, debt securities, trade receivables, net investments in leases, off balance sheet credit exposures, reinsurance receivables, and any other financial assets not excluded from the scope that have the contractual right to receive cash. This ASU is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. As an EGC, the Company adopted this standard on January 1, 2022, using a modified retrospective transition method and did not restate the comparable periods, which resulted in a cumulative-effect adjustment to decrease the opening balance of retained earnings on January 1, 2022 by $866. The adoption did not have a material impact on the Company’s consolidated financial statements.
+Recent accounting pronouncements not yet adopted
+In August 2020, the FASB issued ASU 2020-06, “Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging-Contracts in Entity’s Own Equity (Subtopic 815-40)-Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity.” The ASU simplifies accounting for convertible instruments by removing major separation models required under current GAAP. Consequently, more convertible debt instruments will be reported as a single liability instrument with no separate accounting for embedded conversion features. The ASU removes certain settlement conditions that are required for equity contracts to qualify for the derivative scope exception, which will permit more equity contracts to qualify for it. The ASU also simplifies the diluted net income per share calculation in certain areas. For SEC filers, excluding smaller reporting companies, ASU 2020-06 is effective for fiscal years beginning after December 15, 2021 including interim periods within those fiscal years. Early adoption is permitted, but no earlier than fiscal years beginning after December 15, 2020. For all other entities, ASU 2020-06 is effective for fiscal years beginning after December 15, 2023, including interim periods within those fiscal years. The Company is currently evaluating the impact that ASU 2020-06 may have on the consolidated financial statements and related disclosures.
+3. REVERSE RECAPITALIZATION
+On July 23, 2021, Tuscan merged with Microvast, Inc., with Microvast, Inc. surviving from the Merger. As a result of the Merger, Tuscan was renamed “Microvast Holdings, Inc.” On the Closing Date, pursuant to the terms of the Merger Agreement, the Framework Agreement1 and Subscription Agreements entered into with the holders of an aggregate of $57,500 outstanding Bridge Notes issued by Microvast, Inc. (the “Bridge Notes”, refer to Note 14) and the investors in the PIPE Financing:
+•The Company issued 209,999,991 shares of Common Stock of the Company (“Common Stock”) to the former owners of Microvast, Inc. pursuant to the Merger Agreement, which number is inclusive of the shares being issued to the certain MPS convertible loan investors (the “CL Investors”, refer to Note 14) and MPS minority investors pursuant to the Framework Agreement;
+•The Company issued 6,736,106 shares of Common Stock to the holders of the Bridge Notes;
+•The Company issued 48,250,000 shares of Common Stock to the PIPE investors for a purchase price of $10.00 per share and an aggregate purchase price of $482,500;
+•The Company issued 150,000 private placement units to Tuscan Holdings Acquisition LLC (the “Sponsor”) upon conversion of Notes payable by the Company in the amount of $1,500; such private placement units consist of (i) 150,000 shares of Common Stock and (ii) warrants to purchase 150,000 shares of Common Stock at an exercise price of $11.50 per share;
+F-21
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+3. REVERSE RECAPITALIZATION - continued
+
+Pursuant to the Merger Agreement, the former owners of Microvast, Inc. (“Microvast Holders”) and the MPS minority investors will have the ability to earn, in the aggregate, an additional 19,999,988 shares of Common Stock (“Earn-Out Shares”) if the daily volume weighted average price of the Common Stock is greater than or equal to $18.00 for any 20 trading days within a 30 trading day period (or a change of control of the Company occurs that results in the holders of Common Stock receiving a per share price equal to or in excess of $18.00), during the period commencing on the Closing Date and ending on the third anniversary of the Closing Date. In accordance with ASC 815-40, the Earn-Out Shares were indexed to the Common Stock and were classified as equity.
+Each of the options to purchase Microvast, Inc.’s common stock that was outstanding before the Merger was converted into options to acquire Common Stock by computing the number of Common Stock and converting the exercise price based on the exchange ratio of 160.3 (the “Common Exchange Ratio”). Refer to Note 22.
+In connection with the Merger Agreement, Tuscan, MPS, the CL Investors (refer to Note 14), certain MPS minority investors, and certain other parties entered into a framework agreement (the “Framework Agreement”), pursuant to which, (1) the CL Investors waived their convertible loans issued on November 2, 2018, by MPS, in exchange for 6,719,845 shares of Common Stock of the Company and (2) the MPS minority investors waived their rights in MPS’s equity in exchange for 17,253,182 shares of Common Stock of the Company (refer to Note 19).
+Each capped non-vested share unit of Microvast, Inc. that was outstanding before the Merger was converted into a non-vested share unit of the Company by computing the number of shares and converting the capped price based on the Common Exchange Ratio. Refer to Note 22.
+As of the Closing Date and following the completion of the Merger, the ownership interests of the Company’s stockholders were as follows:
+
+ | Shares 
+Existing Microvast Equity Holders(a) | 209,999,991
+Existing Microvast Bridge Notes Holders | 6,736,106 
+Tuscan public stockholders | 27,493,140 
+Sponsor Group(b)(c) | 7,608,589 
+EarlyBirdCapital | 428,411 
+PIPE investors immediately after Merger | 48,250,000 
+Common Stock | 300,516,237
+
+
+(a) | Excludes the Earn-Out Shares, but is inclusive of the shares being issued pursuant to the Framework Agreement to the CL Investors and MPS minority investors.
+
+
+(b) | The Sponsor Group includes Common Stock owned by the Sponsor, Stefan M. Selig, Richard O. Rieger and Amy Butte.
+
+
+(c) | Includes 1,687,500 shares that may be subject to cancellation in accordance with the amended escrow agreement.
+
+F-22
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+3. REVERSE RECAPITALIZATION - continued
+
+The Merger is accounted for as a reverse recapitalization under U.S. GAAP. This determination is primarily based on (1) Microvast, Inc.’s stockholders comprising a relative majority of the voting power of the Company and having the ability to nominate the members of the Board, (2) Microvast, Inc.’s operations prior to the acquisition comprising the only ongoing operations of the Company, and (3) Microvast, Inc.’s senior management comprising a majority of the senior management of the Company. Under this method of accounting, Tuscan is treated as the “acquired” company for financial reporting purposes. Accordingly, the financial statements of the Company represent a continuation of the financial statements of Microvast, Inc. with the Merger being treated as the equivalent of Microvast, Inc. issuing stock for the net assets of Tuscan, accompanied by a recapitalization. The net assets of Tuscan are stated at historical costs, with no goodwill or other intangible assets recorded and are consolidated with Microvast Inc.’s financial statements on the Closing Date. Operations prior to the Merger are presented as those of Microvast, Inc. The shares and net loss per share available to holders of the Company’s Common Stock, prior to the Merger, have been retroactively restated as shares reflecting the Common Exchange Ratio established in the Merger Agreement.
+In connection with the Merger, the Company raised net proceeds of approximately $705,129, including $482,500 of cash in connection with the PIPE financing and the contribution of $281,726 of cash held in Tuscan’s trust account from its initial public offering, net of redemptions of Tuscan public stockholders of $922 and $58,175 transaction costs.
+In connection with the Merger, the Sponsor and related parties entered into the amended escrow agreement, pursuant to which 1,687,500 shares owned by the Sponsor Group (“Escrow Shares”) are subject to cancellation on conditions that: (i) 50% of 1,687,500 shares shall be cancelled if the last sale price of the Common Stock does not equal or exceed $12.00 per share for any 20 trading days within any 30-trading day period prior to the fifth anniversary of the Closing, and (ii) 50% of 1,687,500 shares shall be cancelled if the last sale price of the Common Stock does not equal or exceed $15.00 per share for any 20 trading days within any 30-trading day period prior to the fifth anniversary of the Closing. In accordance with ASC 815-40, the Escrow Shares were indexed to the Common Stock and were classified as equity.
+4. ACCOUNTS RECEIVABLE
+Accounts receivable consisted of the following:
+
+ | December 31,2021 | | December 31,2022
+Accounts receivable | $ | 93,722 | | | $ | 123,711
+Allowance for doubtful accounts | (5,005) | | | (4,407) | 
+Accounts receivable, net | $ | 88,717 | | | $ | 119,304
+
+Movement of allowance for doubtful accounts was as follows:
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Balance at beginning of the period | $ | 5,537 | | | $ | 5,047 | | $ | 5,005
+Cumulative-effect adjustment upon adoption of ASU2016-13, Financial instruments- Credit losses (Topic 326) | — | | | — | | | 866 
+(Reserve)/Charge to expenses | (240) | | | 721 | | | 1,640 
+Write off | (493) | | | (849) | | | (2,631)
+Exchange difference | 243 | | | 86 | | | (473) 
+Balance at end of the period | $ | 5,047 | | | $ | 5,005 | | $ | 4,407
+
+F-23
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+5. INVENTORIES, NET
+Inventories consisted of the following:
+
+ | December 31,2021 | | December 31,2022
+Work in process | $ | 20,760 | | | $ | 48,747
+Raw materials | 25,266 | | | 29,331 | 
+Finished goods | 7,398 | | | 6,174 | 
+Total | $ | 53,424 | | | $ | 84,252
+
+Provision for obsolete inventory of $1,343, $18,295 and $4,789 were recognized for the years ended December 31, 2020, 2021 and 2022, respectively, primarily related to inventory becoming obsolete as a result of technology development or product upgrade.
+6. PREPAID EXPENSES AND OTHER CURRENT ASSETS
+
+ | December 31,2021 | | December 31,2022
+Advances to suppliers | $ | 7,102 | | | $ | 5,075 
+Prepaid expenses | 4,687 | | | 3,374 | 
+VAT receivables | 4,106 | | | 2,408 | 
+Deposits | 1,029 | | | 925 | 
+Other receivables | 203 | | | 311 | 
+Total | $ | 17,127 | | | $ | 12,093
+
+The balance of the VAT receivables represented the amount available for future deduction against VAT payable.
+7. PROPERTY, PLANT AND EQUIPMENT, NET
+Property, plant and equipment, net consisted of the following:
+
+ | December 31,2021 | | December 31,2022
+Machineries and equipment | $ | 150,519 | | | $ | 140,160
+Buildings | 41,920 | | | 44,680 | 
+Leasehold improvements | 30,035 | | | 28,625 | 
+Fixtures and electronic equipment | 13,848 | | | 16,193 | 
+Motor vehicles | 8,507 | | | 10,842 | 
+Total | 244,829 | | | 240,500 | 
+Less: accumulated depreciation | (88,745) | | | (100,902) | 
+Construction in progress | 96,973 | | | 195,542 | 
+Property, plant and equipment, net | $ | 253,057 | | | $ | 335,140
+
+The Group recorded depreciation expenses of $16,097, $19,975 and $19,811 for the years ended December 31, 2020, 2021 and 2022, respectively. $567, $2,443 and $1,798 impairment losses were recognized for the years ended December 31, 2020, 2021 and 2022, respectively.
+F-24
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+8. LAND USE RIGHTS, NET
+Land use rights consisted of the following:
+
+ | December 31,2021 | | December 31,2022
+Cost of land use rights | $ | 16,390 | | | $ | 15,143
+Less: accumulated amortization | (2,382) | | | (2,504) | 
+Land use rights, net | $ | 14,008 | | | $ | 12,639
+
+The land use rights were acquired for the use of the Group’s production facilities. Land use rights are amortized on a straight-line basis for 50 years or shorter of the estimated usage periods or the terms of the land use rights agreements. The Group recorded amortization expenses of $303, $325 and $310 for the years ended December 31, 2020, 2021 and 2022, respectively. Future amortization expense is $310 per year for each of the next five years through December 31, 2027 and thereafter.
+9. ACQUIRED INTANGIBLE ASSETS, NET
+
+ | December 31,2021 | | December 31,2022
+Cost of acquired intangible assets | $ | 4,104 | | | $ | 3,493
+Less: accumulated amortization | (2,222) | | | (1,857) | 
+Acquired intangible assets, net | $ | 1,882 | | | $ | 1,636
+
+The Group recorded amortization expense of $392, $413 and $244 for the years ended December 31, 2020, 2021 and 2022, respectively. No impairment losses were recognized for the years ended December 31, 2020, 2021 and 2022.
+The annual amortization expense for each of the five succeeding fiscal years and thereafter are as follows:
+
+2023 | $ | 243 
+2024 | 237 | 
+2025 | 233 | 
+2026 | 231 | 
+2027 | 231 | 
+Thereafter | 461 | 
+Total | $ | 1,636
+
+F-25
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+10. ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+
+ | December 31,2021 | | December 31,2022
+Product warranty | $ | 20,922 | | | $ | 13,044
+Payables for purchase of property, plant and equipment | 18,500 | | | 29,183 | 
+Other current liabilities | 10,636 | | | 8,608 | 
+Accrued payroll and welfare | 3,476 | | | 4,716 | 
+Accrued expenses | 2,444 | | | 2,641 | 
+Interest payable | 1,836 | | | 298 | 
+Operating lease liabilities, current | — | | | 1,934 | 
+Other tax payable | 926 | | | 6,296 | 
+Total | $ | 58,740 | | | $ | 66,720
+
+11. PRODUCT WARRANTY
+Movement of product warranty was as follows:
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Balance at beginning of the year | $ | 18,416 | | | $ | 19,356 | | $ | 58,458 
+Provided during the year | 3,477 | | | 52,932 | | | 14,097 
+Utilized during the year | (2,537) | | | (13,830) | | | (26,916)
+Exchange difference | $ | — | | | $ | — | | $ | (3,579)
+Balance at end of the year | $ | 19,356 | | | $ | 58,458 | | $ | 42,060 
+Product warranty – current | $ | 4,296 | | | $ | 20,922 | | $ | 13,044 
+Product warranty – non-current | 15,060 | | | 37,536 | | | 29,016 
+
+Warranty provisions are based upon historical experience. Changes in provisions related to pre-existing legacy products were made based on actual claims and intensive testing and analysis on the legacy products. In 2021, as a result of the increases in the repairing cost and frequency of claims with respect to a legacy product sold in 2017 and 2018, the Company conducted intensive experiments and a root cause analysis, which was completed in October 2021. The Company concluded that a component purchased from a supplier was not meeting the Company’s performance standards. As a result, the Company determined that the impacted legacy products sold would need to be replaced before the expiration of the warranty term. This reassessment resulted in a change in estimate for additional accrual in 2021 of $46,485 relating to those legacy products. As the component was not incorporated into other products, no additional accrual was made to other existing products sold.
+F-26
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+12. BANK BORROWINGS
+On September 27, 2022, the Group entered into a $111 million (RMB800 million) loan facilities agreement with a group of lenders led by a PRC Bank (the "2022 Facility Agreement"). The 2022 Facility Agreement has an effective drawdown period until June 9, 2023 and the interest rate is prime plus 115 basis points where prime is based on Loan Prime Rate published by the National Inter-bank Funding Center of the PRC. The interest is payable on a quarterly basis. The loan facilities can only be used for the construction project of manufacturing capacity expansion at the Group’s facility located in Huzhou, China. The 2022 Facility Agreement contains certain customary restrictive covenants, including but not limited to disposal of assets and dividend distribution without the consent of the lender, and certain customary events of default.
+As of December 31, 2022, the Group had outstanding borrowings of $43,496 under the 2022 Facility Agreement and the table below is the repayment schedule.
+
+Repayment Date | Repayment Amount 
+June 10, 2023 | $4,349 (RMB30 million) 
+December 10, 2023 | $10,149 (RMB70 million) 
+June 10, 2024 | $14,499 (RMB100 million)
+December 10, 2024 | $14,499 (RMB100 million)
+
+The amount of interest expenses capitalized, which was recorded in the construction in progress and the property, plant and equipment, was $ nil and $492 as of December 31, 2021 and 2022, respectively.
+The Group has also entered into short-term loan agreements and bank facilities with Chinese banks. The original terms of the loans from Chinese banks are within 12 months and the interest rates range from 4.50% to 4.75% per annum.
+Changes in bank borrowings were as follows:
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Beginning balance | $ | 11,922 | | | $ | 12,184 | | $ | 13,301
+Proceeds from bank borrowings | 17,308 | | | 38,926 | | | 58,708 
+Repayments of principal | (17,815) | | | (37,568) | | | (24,482)
+Exchange difference | 769 | | | (241) | | | (1,132) 
+Ending balance | $ | 12,184 | | | $ | 13,301 | | $ | 46,395
+
+
+Balance of bank borrowings includes: | December 31,2021 | | December 31,2022
+Current | $ | 13,301 | | | $ | 17,398
+Non-current | — | | | 28,997 | 
+Total | $ | 13,301 | | | $ | 46,395
+
+F-27
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+12. BANK BORROWINGS - continued
+
+Certain assets of the Group have been pledged to secure the above banking facilities granted to the Group. The aggregate carrying amount of the assets pledged by the Group as of December 31, 2021 and December 31, 2022 were as follows:
+
+ | December 31,2021 | | December 31,2022
+Buildings | $ | 31,361 | | | $ | 27,245
+Machineries and equipment | 7,376 | | | — | 
+Land use rights | 4,470 | | | 12,639 | 
+Total | $ | 43,207 | | | $ | 39,884
+
+13. OTHER NON-CURRENT LIABILITIES
+
+ | December 31,2021 | | December 31,2022
+Product warranty - non-current | $ | 37,536 | | | 29,016 | 
+Deferred subsidy income- non-current | 2,286 | | | 3,066 | 
+Total | $ | 39,822 | | | $ | 32,082
+
+14. BONDS PAYABLE
+
+ | December 31,2021 | | December 31,2022
+Long–term bonds payable | | | 
+Huzhou Saiyuan | $ | 73,147 | | $ | 43,888
+Total | $ | 73,147 | | $ | 43,888
+
+Convertible Bonds issued to Huzhou Saiyuan
+On December 29, 2018, MPS signed an agreement with Huzhou Saiyuan, an entity established by the local government, to issue convertible bonds to Huzhou Saiyuan for a total consideration of $87,776 (RMB600 million). The Company pledged its 12.39% equity holding over MPS to Huzhou Saiyuan to facilitate the issuance of the convertible bonds. As of December 31, 2022, the principal outstanding on the convertible bonds was $43,888 (RMB300 million).
+If the subscribed bonds are not repaid by the maturity date, Huzhou Saiyuan has the right to dispose of the equity interests pledged by the Company in proportion to the amount of matured bonds, or convert the bond to the equity interests of MPS within 60 days after the maturity date. If Huzhou Saiyuan decides to convert the bonds to equity interests of MPS, the equity interests pledged would be released and the convertible bonds should be converted to the equity interest of MPS based on the entity value of MPS at $950,000. 
+On September 28, 2020, MPS signed a supplemental agreement extending the repayment terms of the convertible bonds to Huzhou Saiyuan. In September 2022, MPS entered into supplement agreements with Huzhou Saiyuan to change the repayment schedule as follows: (i) $14,629 (RMB100 million) will be repaid, together with interest accrued, on or before November 10, 2022, (ii) $14,630 (RMB100 million) will be repaid, together with interest accrued, on or before December 31, 2022, and (iii) the remaining $43,888 (RMB300 million) will be repaid, together with interest accrued, on or before January 31, 2027. The applicable interest rate will be increased to 12% if the Group is in default on the repayment of the bonds at the respective due dates. The remaining terms and conditions of the convertible bonds are unchanged.
+F-28
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+14. BONDS PAYABLE - continued
+
+Convertible Bonds issued to third-party investors
+On November 2, 2018, MPS signed a convertible bond agreement with the CL Investors, pursuant to which the CL Investors agreed to provide a non-interest bearing loan in an aggregate amount of $58,516 (RMB400 million) or up to $73,147 (RMB500 million) to MPS, and the CL Investors had the right to convert the bonds into a number of Series D2 preferred shares of the Company (the “Series D2 Preferred”) once approvals from the PRC and US government were obtained. As of December 31, 2020, $29,915 (RMB204.5 million) was subscribed by the CL Investors. On July 23, 2021, upon the completion of the Merger between Microvast, Inc. and Tuscan, the convertible bonds were settled and converted into 6,719,845 shares of Common Stock of the combined company. Refer to Note 3.
+Convertible Notes at Fair Value (the “Bridge Notes”)
+On January 4, 2021, the Company entered into a note purchase agreement to issue $57,500 convertible promissory notes to certain investors, fully due and payable on the third anniversary of the initial closing date. The notes bore no interest, provided, however, if a liquidity event (“Liquidity Event”) had not occurred prior to June 30, 2022, an interest rate of 6% would be applied retrospectively from the date of initial closing. The conversion of the Bridge Notes were contingent upon the occurrence of a PIPE financing, a Liquidity Event or a new financing after June 30, 2022 but before the maturity date (“Next Financing”). 
+The fair value option was elected for measurement of the Bridge Notes. Changes in fair value at a loss of $9,861 was recorded in the consolidated statements of operations for the year ended December 31, 2021.
+On July 23, 2021, upon the completion of the Merger between Microvast, Inc. and Tuscan, the Bridge Notes were converted into 6,736,106 shares of Common Stock of the combined company.
+15. WARRANTS 
+Upon the Merger, the Company assumed 27,600,000 publicly-traded warrants (“Public Warrants”) which were issued in connection with Tuscan’s initial public offering. The Company also assumed 837,000 private placement warrants issued to the Sponsor and EarlyBirdCapital, Inc. (“EarlyBirdCapital”) (“Private Warrants” and together with the Public Warrants, the “Warrants”) upon the Merger, all of which were issued in connection with Tuscan’s initial public offering (other than 150,000 Private Warrants that were issued in connection with the closing of the Merger). The Warrants entitle the holder to purchase one share of the Company’s Common Stock at an exercise price of $11.50 per share. During the year ended December 31, 2022, none of the Public Warrants or the Private Warrants have been exercised.
+The Public Warrants became exercisable 30 days after the completion of the Merger. No Warrants were exercisable for cash until the Company registered Common Stock issuable upon exercise of the Warrants with the SEC. Since the registration of Common Stock was not completed within 90 days following the Merger, warrant holders were able to exercise the Warrants on a net-share settlement basis until the registration statement became effective on June 8, 2022. The Public Warrants will expire five years after the completion of the Merger or earlier upon redemption or liquidation.
+Once the Public Warrants became exercisable, the Company may redeem the Public Warrants:
+•in whole and not in part;
+•at a price of $0.01 per warrant;
+•upon not less than 30 days’ prior written notice of redemption;
+•if, and only if, the reported last sale price of the Company’s Common Stock equals or exceeds $18.00 per share for any 20-trading days within a 30-trading day period ending on the third business day prior to the notice of redemption to the warrant holders; and
+•if, and only if, there is a current registration statement in effect with respect to the shares of Common Stock underlying the warrants.
+F-29
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+15. WARRANTS - continued
+
+If the Company calls the Public Warrants for redemption, management will have the option to require all holders that wish to exercise the Public Warrants to do so on a net-share settlement basis.
+The Public Warrant was determined to be equity classified in accordance with ASC 815, Derivatives and Hedging.
+The Private Warrants are identical to the Public Warrants, except that the Private Warrants will be exercisable for cash or on a net-share settlement basis, at the holder’s option, and be non-redeemable so long as they are held by the initial purchasers or their permitted transferees. If the Private Warrants are held by someone other than the initial purchasers or their permitted transferees, the Private Warrants will be redeemable by the Company and exercisable by such holders on the same basis as the Public Warrants. In addition, so long as the Private Warrants are held by EarlyBirdCapital and its designee, the Private Warrants will expire five years from the effective date of the Merger.
+The exercise price and number of shares of Common Stock issuable upon exercise of the Warrants may be adjusted in certain circumstances including in the event of a stock dividend, or recapitalization, reorganization, merger or consolidation. However, the Warrants will not be adjusted for issuance of Common Stock at a price below its exercise price. Additionally, in no event will the Company be required to net cash settle the Warrants.
+The Private Warrant liability was measured at fair value, resulting in gains of $2,469 and $979 for the years ended December 31, 2021and December 31, 2022, respectively. This was classified within changes in fair value of warrant liability in the consolidated statements of operations.
+The Private Warrants were valued using the following assumptions under the Monte Carlo Model that assumes optimal exercise of the Company’s redemption option at the earliest possible date:
+
+ | December 31,2022
+Market price of public stock | $ | 1.53 
+Exercise price | $ | 11.50
+Expected term (years) | 3.57 
+Volatility | 69.80 | % 
+Risk-free interest rate | 4.06 | % 
+Dividend rate | 0.00 | % 
+
+The market price of public stock is the quoted market price of the Company’s Common Stock as of the valuation date. The exercise price is extracted from the warrant agreements. The expected term is derived from the exercisable years based on the warrant agreements. The expected volatility is a blend of implied volatility from the Company’s own public warrant pricing and the average volatility of peer companies. The risk-free interest rate was estimated based on the market yield of US Government Bond with maturity close to the expected term of the warrants. The dividend yield was estimated by the Company based on its expected dividend policy over the expected term of the warrants.
+16. FAIR VALUE MEASUREMENT
+Measured or disclosed at fair value on a recurring basis
+The Group measured its financial assets and liabilities, including cash and cash equivalents, restricted cash, Bridge Notes and warrant liability at fair value on a recurring basis as of December 31, 2021 and 2022. Cash and cash equivalents and restricted cash are classified within Level 1 of the fair value hierarchy because they are valued based on the quoted market price in an active market. The fair value of the warrant liability and Bridge Notes are based on significant unobservable inputs, which represent Level 3 measurements within the fair value hierarchy. In determining the fair value of the warrant liability, the Company used the Monte Carlo Model that assumes optimal exercise of the Company’s redemption option at the earliest possible date. See Note 15.
+F-30
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+16. FAIR VALUE MEASUREMENT
+
+As of December 31, 2021 and 2022, information about inputs for the fair value measurements of the Group’s assets and liabilities that are measured at fair value on a recurring basis in periods subsequent to their initial recognition is as follow:
+
+ | Fair Value Measurement as of December 31, 2021 
+(In thousands) | Quoted Prices in Active Market for Identical Assets (Level 1) | | Significant Other Observable Inputs (Level 2) | | Significant Unobservable Inputs (Level 3) | Total
+Cash and cash equivalents | $ | 480,931 | | | — | | — | | $ | 480,931
+Restricted cash | 55,178 | | | — | | — | | 55,178 | 
+Total financial asset | $ | 536,109 | | | — | | — | | $ | 536,109
+Warrant liability | $ | — | | | — | | 1,105 | | $ | 1,105 
+Total financial liability | $ | — | | | — | | 1,105 | | $ | 1,105 
+
+
+ | Fair Value Measurement as of December 31, 2022 
+(In thousands) | Quoted Prices in Active Market for Identical Assets (Level 1) | | Significant OtherObservable Inputs(Level 2) | | Significant Unobservable Inputs(Level 3) | Total
+Cash and cash equivalents | $ | 231,420 | | | — | | — | | $ | 231,420
+Restricted cash | 71,197 | | | — | | — | | 71,197 | 
+Total financial asset | $ | 302,617 | | | — | | — | | $ | 302,617
+Warrant liability | $ | — | | | — | | 126 | | $ | 126 
+Total financial liability | $ | — | | | — | | 126 | | $ | 126 
+
+Measured or disclosed at fair value on a recurring basis-continued
+The following is a reconciliation of the beginning and ending balances for Level 3 Bridge Notes during the year ended December 31, 2021:
+
+(In thousands) | Bridge Notes
+Balance as of January 1, 2021 | $ | —
+Issuance of Bridge Notes | 57,500 | 
+Changes in fair value of Bridge Notes | 9,861 | 
+Conversion as of Merger | (67,361) | 
+Balance as of December 31, 2021 | $ | —
+
+F-31
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+16. FAIR VALUE MEASUREMENT - continued
+
+The following is a reconciliation of the beginning and ending balances for Level 3 warrant liability during the year ended December 31, 2021 and 2022:
+
+(In thousands) | Year Ended December 31,
+ | 2021 | | 2022
+Balance at the beginning of the year | $ | — | | | $ | 1,105
+Assumed warrant liability upon Merger | 3,574 | | | — | 
+Changes in fair value | (2,469) | | | (979) | 
+Balance at end of the year | $ | 1,105 | | | $ | 126 
+
+Measured or disclosed at fair value on a nonrecurring basis
+The Group measured the long-lived assets using the income approach—discounted cash flow method, when events or changes in circumstances indicate that the carrying amount of an asset may no longer be recoverable.
+17. LEASES
+The Group has operating leases for office spaces and warehouses. Certain leases include termination options, which are factored into the Group's determination of lease payments when appropriate.
+Operating lease cost for the year ended December 31, 2022 was $3,030, which excluded cost of short-term contracts. Short-term lease cost for the year ended December 31, 2022 was $373.
+As of December 31, 2022, the weighted average remaining lease term was 11.8 years and weighted average discount rate was 4.9% for the Group's operating leases.
+Supplemental cash flow information of the leases were as follows:
+
+ | Year Ended December 31, 2022
+Cash payments for operating leases | $ | 3,063
+Right-of-use assets obtained in exchange for new operating lease liabilities | $ | 548 
+
+The following is a maturity analysis of the annual undiscounted cash flows for lease liabilities as of December 31, 2022:
+
+ | As of December 31, 2022
+2023 | $ | 2,662 
+2024 | 2,050 | 
+2025 | 1,549 | 
+2026 | 1,497 | 
+2027 | 1,497 | 
+Thereafter | 12,098 | 
+Total future lease payments | $ | 21,353 
+Less: Imputed interest | $ | (5,072)
+Present value of operating lease liabilities | $ | 16,281 
+
+F-32
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+17. LEASES - continued
+
+Future minimum payments under non-cancellable operating leases related to offices consisted of the following at December 31, 2021:
+
+ | December 31,2021
+2022 | $ | 3,763 
+2023 | 3,151 | 
+2024 | 2,345 | 
+2025 | 1,879 | 
+2026 | 1,879 | 
+Thereafter | 17,109 | 
+Total Lease Liabilities | $ | 30,126
+
+18. INCOME TAXES
+US
+The Company is incorporated in the U.S. and is subject to the U.S. state and federal income tax. Net operating losses incurred in taxable years beginning after December 31, 2017 are permitted to be carried forward indefinitely but may not be carried back.
+On March 27, 2020, the Coronavirus Aid, Relief and Economic Security Act (the “CARES Act”) was enacted and signed into law in the United States. The CARES Act includes measures to assist companies, including temporary changes to income and non-income-based tax laws. The CARES Act contains several corporate income tax provisions, including making remaining alternative minimum tax (AMT) credits immediately refundable; providing a 5-year carryback of net operating losses (NOLs) generated in tax years 2018, 2019, and 2020 and suspending the 80 percent taxable income limitation through 2020. Any portion of an NOL that arises in a tax year between 2018-2021 that is not previously absorbed is subject to the 80 percent limitation in tax years beginning after 2020. The CARES Act did not have a material impact on the Company’s tax provision for the years ended December 31, 2020, 2021 and 2022.
+PRC
+Under the Enterprise Income Tax Law of the PRC (the “EIT Law”), PRC enterprise income tax is generally calculated at 25% of the Company’s subsidiaries located in the PRC as determined in accordance with the EIT Law, except for certain subsidiaries which enjoy tax rates substantially lower than 25% due to incentive policies.
+MPS was recognized as a “New and High Tech Enterprise” (“NHTE”) by the relevant PRC government authorities in 2018 and 2021. Therefore, MPS, as the NHTE, is entitled to an income tax rate of 15% for 2020, 2021 and 2022.
+Huzhou Hongwei New Energy Automobile Co., Ltd. (“Hongwei”) was recognized as a NHTE by the relevant PRC government authorities in 2020 and it is entitled to an income tax rate of 15% for 2020, 2021 and 2022.
+The withholding tax rate of 10% under the EIT Law is imposed on dividends declared to foreign investors with respect to profit earned by PRC subsidiaries from January 1, 2008 onward. Deferred tax liability was not provided with respect to undistributed profits of relevant PRC subsidiaries for the years ended December 31, 2020, 2021 and 2022, as the Group concluded that profits generated by the relevant PRC subsidiaries are considered to be permanently reinvested, because the Group does not have any present plan to pay any cash dividends on its ordinary shares in the foreseeable future and intends to retain all of its available funds and any future earnings for use in the operation and expansion of its business.
+F-33
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+18. INCOME TAXES - continued
+
+UK
+UK corporation tax is calculated at an average tax rate of 19% for the years ended December 31, 2020, 2021 and 2022, respectively. The estimated assessable profit generated by the Company’s subsidiary located in UK would be subject to corporation tax at such rate, in accordance with the Corporation Tax Acts. The Company did not have taxable profit and no corporation tax expense was recorded for the years ended December 31, 2020, 2021 and 2022.
+Germany
+German enterprise income tax, which is a combination of corporate income tax and trade tax, is calculated at an average tax rate of 31.9%, 29.1% and 27.9% for the years ended December 31, 2020, 2021 and 2022, respectively, for the Company’s subsidiary located in Germany in accordance with relevant tax rules and regulations in Germany.
+A provision for income tax of $1, $ nil, and $33 has been recognized for the years ended December 31, 2020, 2021 and 2022, respectively. 
+Loss before provision for income taxes for the years ended December 31, 2020, 2021 and 2022 was as follows:
+
+ | December 31,2020 | | December 31,2021 | | December 31,2022
+Domestic(USA) | $ | (3,584) | | | $ | (98,821) | | $ | (116,353)
+Foreign | (30,040) | | | (107,662) | | | (41,814)
+Loss before income tax | $ | (33,624) | | | $ | (206,483) | | $ | (158,167)
+
+The current and deferred components of the income tax expense in the consolidated statements of operations were as follows:
+
+ | December 31,2020 | | December 31,2021 | | December 31,2022
+Current tax expense | 1 | | | — | | | 33
+Deferred tax expense | — | | | — | | | — 
+Total provision for income taxes | $ | 1 | | | $ | — | | $ | 33
+
+The components of the Group’s deferred tax assets are as follows:
+
+ | December 31,2021 | | December 31,2022
+Deferred tax assets: | | | 
+Net operating loss carry-forwards | $ | 38,858 | | | $ | 54,459
+Allowance for doubtful accounts and inventory provision | 4,712 | | | 3,311 | 
+Product warranty | 8,769 | | | 6,309 | 
+Impairment of property, plant and equipment | 1,210 | | | 1,367 | 
+Deferred income | 392 | | | 334 | 
+Accrued expense | 239 | | | 235 | 
+Others | 920 | | | 838 | 
+Less: valuation allowance | (55,100) | | | (66,853) | 
+Net deferred tax assets | $ | — | | | $ | — 
+
+F-34
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+18. INCOME TAXES - continued
+
+The movements of valuation allowance for the years end December 31, 2020, 2021 and 2022 are as follows:
+
+ | December 31,2020 | | December 31,2021 | | December 31,2022
+Balance at beginning of the year | $ | 30,857 | | | $ | 37,287 | | $ | 55,100
+Additions | 7,402 | | | 17,912 | | | 11,838
+Reversal | (972) | | | (99) | | | (85) 
+Balance at end of the year | $ | 37,287 | | | $ | 55,100 | | $ | 66,853
+
+Reconciliation between the income tax expense computed by applying the U.S. federal corporate income tax rate of 21% to loss before income tax and actual provision is as follows:
+
+ | December 31,2020 | | December 31,2021 | | December 31,2022
+Loss before income tax | $ | (33,624) | | | $ | (206,483) | | $ | (158,167)
+Tax credit at the U.S. federal corporate income tax rate of 21% | (7,061) | | | (43,361) | | | (33,214)
+Tax effect of permanent differences – share-based compensation | — | | | 17,408 | | | 20,098 
+Tax effect of permanent differences – others | (2,152) | | | (1,411) | | | (4,295) 
+Tax effect of income tax rate difference in other jurisdictions | 2,511 | | | 6,287 | | | 1,657 
+Changes in valuation allowance | 6,702 | | | 21,077 | | | 15,754 
+Others | 1 | | | — | | | 33 
+Income tax expense | $ | 1 | | | $ | — | | $ | 33 
+
+As of December 31, 2022, the Group had $324,850 operating loss carried forward. The operating loss carried forward for the Company’s PRC subsidiaries amounted to $257,498, which will expire on various dates from 2023 to 2032. For the remaining operating loss, $67,352 will be carried forward indefinitely. The Group determined the valuation allowance on an entity by entity basis and assesses the available positive and negative evidence to estimate if sufficient future taxable income will be generated to utilize the existing deferred tax assets. The valuation allowance is primarily related to entities with net operating loss carry-forwards for which the Group does not believe it will ultimately be realized.
+19. NONCONTROLLING INTERESTS
+Noncontrolling interests of MPS
+In March 2017, Microvast, Inc. sold 17.39% equity interest of its wholly-owned subsidiary, MPS, to eight third-party investors (the “Investors”) for a total cash consideration of $400,000, which was received in 2017.
+In February 2018, Microvast, Inc. signed a series of repurchase and redemption agreements with six out of eight of these who requested to redeem in aggregate 14.05% equity interests in MPS (“Exiting Investors”), at a redemption value equal to the initial capital contribution plus 6.00% simple annual interest. To facilitate the repurchase and redemption transaction, MPS and the Exiting Investors entered into certain property mortgage agreements on May 30, 2018. As a result, the Group reclassified the outstanding balance of noncontrolling interest as liability (included in accrued expenses and other current liabilities and other non-current liabilities line items as payable to exiting investors) and measured at amortized cost. 
+F-35
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+19. NONCONTROLLING INTERESTS - continued
+
+Pursuant to an extension agreement signed in September 2020, $30,000 was paid to the Exiting Investors in March 2021, and the remaining repayments were deferred to 2023 and thereafter, depending on the successful completion of a financing by the Company in 2022 or 2023. On August 31, 2021, an early repayment agreement was entered into between MPS and the Exiting Investors, pursuant to which the remaining amount was fully repaid to the Exiting Investors as of December 31, 2021.
+On July 23, 2021, upon the completion of the Merger between Microvast, Inc. and Tuscan, the equity interest held by the investors who remained noncontrolling shareholders of MPS were converted into 17,253,182 shares of Common Stock of the combined company as disclosed in Note 3.
+Noncontrolling interests of Microvast Inc.
+On December 19, 2022, Microvast Inc. and a third party set up a company named Microvast Precision Works Co., Ltd ("MPW"). The Company holds a 70% shareholding in MPW, and the third party holds 30%. The total registered capital of MPW is $7,246 which the shareholders will fund pro-rata to their shareholding. As of December 31, 2022, no investment was paid by any of parties and MPW had no operation.
+20. COMMON STOCK
+The Company has authorized 800,000,000 shares to be issued at $0.0001 par value, with 750,000,000 shares designated as Common Stock and 50,000,000 shares of redeemable convertible preferred stock.
+Immediately following the Merger, there were 300,516,237 shares of Common Stock issued with a par value of $0.0001 as disclosed in Note 3. The holder of each share of Common Stock is entitled to one vote.The Company has retroactively adjusted the shares issued and outstanding prior to July 23, 2021 to give effect to the Common Exchange Ratio of 160.3 established in the Merger Agreement. As of December 31, 2022, there were 309,316,011 shares of Common Stock issued and 307,628,511 shares outstanding.
+21. PREFERRED SHARES
+On July 23, 2021, upon the completion of the Merger between Microvast, Inc. and Tuscan, all preferred shares were converted into Common Stock of the combined company at the Common Exchange Ratio of 160.3 as disclosed in Note 3.
+The changes in the balance of Series C1 Preferred shares (“Series C1 Preferred”), Series C2 Preferred shares (“Series C2 Preferred”), Series D1 Preferred shares ('Series D1 Preferred') and redeemable noncontrolling interests included in the mezzanine equity for the years ended December 31, 2020 and 2021 were as follows:
+
+(In thousands) | Series C1 Preferred | | Series C2 Preferred | | Series D1Preferred | | Redeemable noncontrolling interests
+Ending balance as of January 1, 2020 | $ | 76,684 | | | $ | 73,100 | | $ | 127,935 | $ | 80,561
+Accretion | 3,897 | | | 8,866 | | | 18,648 | | 10,259 
+Ending balance as of December 31, 2020 | $ | 80,581 | | | $ | 81,966 | | $ | 146,583 | $ | 90,820
+Accretion from January 1 to July 23 | 2,257 | | | 5,132 | | | 10,708 | | 5,841 
+Conversion as of Merger | (82,838) | | | (87,098) | | | (157,291) | | (96,661)
+Ending balance as of December 31, 2021 | $ | — | | | $ | — | | $ | — | $ | — 
+
+F-36
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2020, 2021 AND 2022
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+22. SHARE-BASED PAYMENT
+In 2012, Microvast, Inc. adopted a Share Incentive Plan (the “2012 Plan”). The 2012 Plan permits the grant of options to purchase common stock, share appreciation rights, non-vested shares and non-vested share units. The maximum aggregate number of shares of common stock that may be issued pursuant to all awards under the share incentive plan is 17 percent of the total issued and outstanding company shares on a fully-diluted basis. The share options, non-vested shares and non-vested share units granted to the employees or nonemployees shall vest and become non-forfeitable with respect to one-third of the total number of the non-vested share and non-vested share units immediately upon the occurrence of initial public offering, sale or transfer of all or substantially all of the business, operations or assets of Microvast, Inc. or its subsidiaries, taken as a whole, to a third party, or such other sale or transfer of common stock in Microvast, Inc. as determined, in each case, by Microvast, Inc. pursuant to legal documents and other obligations binding upon it (the “Initial Vesting Date”), and on each of the first and second anniversaries of the Initial Vesting Date; provided that through each applicable vesting date, the employee or nonemployee is employed. The Merger in 2021 did not constitute the satisfaction of a performance condition that would trigger the vesting of equity awards as stipulated in the 2012 Plan.
+In connection with the Merger, all outstanding share awards granted under the 2012 Plan, 209,906 options and 143,652 capped non-vested share units, were converted into 33,647,927 options and 23,027,399 capped non-vested share units of the Company, respectively, using the Common Exchange Ratio of 160.3 as described in Note 3. Upon conversion, the Company modified the terms of the equity awards by removing the performance condition of the occurrence of an initial public offering and similar transaction under the 2012 Plan, and adopted a new vesting schedule of one-third of the total number on each of the first, second and third anniversaries of the Closing Date (the “Modification”). The Modification was considered a Type III modification under the Accounting for Share-Based Payments (Topic 718), in which the original awards were canceled, and the modified awards were considered granted on the modification date. Post-modification share-based compensation expense related to these new awards will be recognized over the remaining service period using modification date fair values. Following the Merger, no further awards will be granted under the 2012 Plan. All stock award activity was retroactively restated to reflect the conversion.
+On July 21, 2021, the stockholders of the Company approved the Microvast Holdings, Inc. 2021 Equity Incentive Plan (the “2021 Plan”), effective upon the Closing Date. The 2021 Plan provides for the grant of incentive and non-qualified stock option, restricted stock units, restricted share awards, stock appreciation awards, and cash-based awards to employees, directors, and consultants of the Company. Options awarded under the 2021 Plan expire no more than 10 years from the date of grant. The 2021 Plan reserves 5% of the fully-diluted shares of Common Stock outstanding immediately following the Closing Date (not including the shares underlying awards modified from the 2012 Plan) for issuance in accordance with the 2021 Plan’s terms. As of December 31, 2022, 16,490,228 shares of Common Stock was available for grant under the 2021 Plan.
+On April 14, 2022, the Company's former Chief Financial Officer's ("Former CFO") employment with the Company was terminated. Simultaneously, a transition services agreement was entered into between the Company and the Former CFO for the provision of advisory services to the Company with an initial term of 18 months commencing on the date of the Former CFO's termination of employment. Upon the Former CFO's termination of employment, all 1,122,100 stock options and 2,860,713 capped non-vested share units held by the Former CFO immediately vested in full and a $4,897 cash payment was made to the Former CFO related to the settlement of capped non-vested share units. The Former CFO's stock options remain exercisable until three months following the termination of his transition services agreement with the Company. Because he continues to provide advisory services to the Company, the Former CFO is an eligible person rendering services under the 2012 Plan, and the accelerated vesting and extended exercise period of his stock options were in accordance with the terms and conditions of the Former CFO's employment agreement and stock option award agreement. As such, the changes are not considered a modification under ASC 718. During the year ended December 31, 2022, $16,778 of share-based compensation expense was recognized in connection with the vesting of the Former CFO's awards.
+F-37
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+22. SHARE-BASED PAYMENT - continued
+
+Share options
+On April 14, 2022 and June 7, 2022, the Company granted 1,800,000 and 600,000 stock options to two new executive officers and two employees, subject to service conditions, respectively. The service conditions require the participant’s continued employment with the Company through the applicable vesting dates.
+On July 7, 2022, the Company granted 500,000 stock options to an employee with an exercise price of $2.42. The vesting of these options is subject to a service condition of continued employment with the Company through the applicable vesting dates and performance condition which requires the achievement of certain performance criteria as defined in the award agreement. The criteria is probable to achieve and therefore related expenses were recognized.
+During the year ended December 31, 2022, the Company recorded share-based compensation expense of $60,020 related to the option awards.
+The grant date fair value of the stock options was determined using the Black Scholes model with the following assumptions:
+
+ | Year Ended December 31, 2022
+Exercise price | $2.42-$5.69 
+Expected terms (years) | 6.00 
+Volatility | 56.16%-57.84% 
+Risk-free interest rate | 2.79%-3.02% 
+Expected dividend yields | 0.00 | %
+Weighted average fair value of options granted | $1.33-$3.19 
+
+The exercise prices for each award were extracted from the option agreements. The expected terms for each award were derived using the simplified method, and is estimated to occur at the midpoint of the vesting date and the expiration date. The volatility of the underlying common stock during the lives of the options was estimated based on the historical stock price volatility of comparable listed companies over a period comparable to the expected term of the options. Risk-free interest rate was estimated based on the market yield of US Government Bonds with maturity close to the expected term of the options. The dividend yield was estimated by the Company based on its expected dividend policy over the expected term of the options.
+During the year ended December 31, 2021, the modification date fair value of the stock options was determined using the Binomial-Lattice Model with the following assumptions:
+
+ | After modification
+Exercise price | $4.37-$6.28 
+Expected terms (years) | 4.5-9.4 
+Volatility | 47.6%-53.1% 
+Risk-free interest rate | 1.26%-1.87% 
+Expected dividend yield | 0.00% 
+Weighted average fair value of options modified | $4.70-$5.36 
+
+F-38
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+22. SHARE-BASED PAYMENT - continued
+
+Share options - Continued
+Exercise price was extracted from option agreements. Expected lives was derived from option agreements. The volatility of the underlying common shares during the lives of the options was estimated based on the historical stock price volatility of comparable listed companies over a period comparable to the expected term of the options and the implied volatility of the Company. Risk-free interest rate was estimated based on the market yield of US Government Bond with maturity close to the expected term of the options, plus country risk spread. The dividend yield was estimated by the Company based on its expected dividend policy over the expected term of the options.
+Share options activity for the years ended December 31, 2022 was as follows:
+
+Share options life | Number of Shares | Weighted Average Exercise Price (US$) | | Weighted Average Grant Date Fair Value (US$) | Weighted Average Remaining Contractual
+Outstanding as of January 1, 2022 | 33,503,657 | | 6.19 | | 4.95 | 7.9
+Granted | 2,900,000 | | 4.81 | | 2.69 | 
+Forfeited | (312,586) | | 6.28 | | 4.87 | 
+Outstanding as of December 31, 2022 | 36,091,071 | | 6.08 | | 4.80 | 6.8
+Expected to vest and exercisable as of December 31, 2022 | 36,091,071 | | 6.08 | | 4.80 | 6.8
+Exercisable as of December 31, 2022 | 11,875,830 | | 6.20 | | 5.00 | 7.0
+
+The total unrecognized equity-based compensation costs as of December 31, 2022 related to the stock options was $88,845, which is expected to be recognized over a weighted-average period of 1.6 years. The aggregate intrinsic value of the share options as of December 31, 2022 was $ nil.
+Capped Non-vested share units
+The capped non-vested shares units ("CRSUs") represent rights for the holder to receive cash determined by the number of shares granted multiplied by the lower of the fair market value and the capped price, which will be settled in the form of cash payments. The CRSUs were accounted for as liability classified awards. 
+On June 27, 2022, the Board of Directors and Compensation Committee approved a modification of the settlement terms of 20,023,699 CRSUs under the 2021 Plan from cash settlement to share settlement (the “CRSU Modification ”). Pursuant to the CRSU Modification, on each vesting date, if the stock price is higher than the capped price, the number of shares to be issued will be calculated based on the following formula: 
+Number of shares to be issued = Capped price* Number of shares vested /Vesting date stock price
+If the stock price is equal to or less than the capped price, the Company will grant a fixed number of shares on each vesting date based on the vesting schedule. All other terms of the CRSUs remain unchanged. The CRSU Modification resulted in a change of the CRSUs’ classification from liability to equity, as the predominant feature of the modified CRSUs was the granting of a fixed number of shares on each vesting date instead of a fixed monetary amount. The determination of the predominant feature was based on the estimated probability of how the awards will be settled using the Monte Carlo model.
+At the CRSU Modification date, the Company reclassified the amounts previously recorded as a share-based compensation liability to additional paid-in capital. The modified CRSUs were accounted for as an equity award going forward from the date of the CRSU Modification with compensation expenses recognized for each tranche at the fair value measured on the modification date. 
+F-39
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+22. SHARE-BASED PAYMENT - continued
+
+Capped Non-vested share units - Continued
+At the CRSU Modification date, the Company used the Monte Carlo valuation model in determining the fair value of the CRSUs with assumptions as follows: 
+
+ | Modification Date
+Expected term (years) | 0.07 | ~ | 2.07
+Volatility | 50.93 | % | ~ | 73.89%
+Risk-free interest rate | 1.15 | % | ~ | 3.05% 
+Expected dividend yields | 0.00% 
+
+Expected term was the time left (in years) from the CRSU Modification date to the vesting date based on the terms of the applicable award agreements. The volatility of the underlying common stock was estimated based on the historical stock price volatility of comparable listed companies over a period comparable to the expected term of the awards. Risk-free interest rate was estimated based on the market yield of US Government Bonds with maturity close to the expected term of the awards. The dividend yield was estimated by the Company based on its expected dividend policy over the expected term of the awards.
+During the year ended December 31, 2022, the Company recorded share-based compensation expense of $32,804, related to these CRSUs awards.
+CRSUs' activity for the years ended December 31, 2022 was as follows:
+
+ | Number on Non-Vested Shares | Weighted Average Grant Date Fair Value per Share (US$)
+Outstanding as of January 1, 2022 | 23,027,399 | | 8.74 | 1
+Vested | (9,582,930) | | 4.37 | 
+Outstanding as of December 31, 2022 | 13,444,469 | | 2.38
+
+The total unrecognized equity-based compensation costs as of December 31, 2022 related to the CRSUs was $12,448.
+Restricted Stock Units
+Following the Merger, the Company granted 693,232 restricted stock units (“RSUs”) and 1,274,222 performance-based restricted stock unit (“PSU”) awards subject to service, performance and/or market conditions. The service condition requires the participant’s continued services or employment with the Company through the applicable vesting date, and the performance condition requires the achievement of the performance criteria defined in the award agreement. The market condition is based on the Company’s TSR. For RSU awards with performance conditions, stock-based compensation expense is only recognized if the performance conditions become probable to be satisfied.
+1 The amount represents the Modification date value per share as of July 25, 2021. As of the Modification date, the settled price was the capped price as described above.
+F-40
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+22. SHARE-BASED PAYMENT - continued
+
+Restricted Stock Units - Continued
+The fair value of RSUs is determined by the price of Common Stock at the grant date and is amortized over the vesting period on a straight-line basis. The fair value of PSU awards that include vesting based on market conditions are estimated using the Monte Carlo valuation method. Compensation cost for PSU awards is recognized based on the grant date fair value which is recognized over the vesting period on a straight-line basis. Accordingly, the Company recorded stock-based compensation expense of $1,358 related to these RSU awards and $2,048 related to these PSU awards during the year ended December 31, 2022.
+The following assumptions were used for the respective periods below to calculate the fair value of common shares to be issued under TSR awards on the date of grant using the Monte Carlo pricing model:
+
+ | Year Ended December 31, 2021 | Year Ended December 31, 2022
+Expected term (years) | 2.18-2.35 | 2.68 
+Volatility | 63.06%-64.31% | 59.50 | % 
+Risk-free interest rate | 0.31%-0.55% | 2.72 | % 
+Expected dividend yields | 0.00 | % | 0.00 | %
+
+Expected term was derived based on the remaining time from the grant date through the end of the performance period. The volatility of the underlying common stock during the lives of the awards was estimated based on the historical stock price volatility of comparable listed companies over a period comparable to the expected term of the awards. Risk-free interest rate was estimated based on the market yield of US Government Bond with maturity close to the expected term of the awards. The dividend yield was estimated by the Company based on its expected dividend policy over the expected term of the awards.
+The restricted stock units activity for the years ended December 31, 2022 was as follows:
+
+ | Number of Non-Vested Shares | Weighted Average Grant Date Fair Value Per Share (US$)
+Outstanding as of January 1, 2022 | 671,441 | | 9.08
+Grant | 1,239,854 | | 4.93
+Vested | (110,940) | | 6.26
+Forfeited | (577,518) | | 5.30
+Outstanding as of December 31, 2022 | 1,222,837 | | 6.92
+
+The total unrecognized equity-based compensation costs as of December 31, 2022 related to the non-vested restricted stock units was $5,113.
+F-41
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+22. SHARE-BASED PAYMENT - continued
+
+Series B2 Preferred subscribed by employees
+On October 30, 2015, the Company issued 79,107 Series B2 Preferred to certain employees of the Company. The Series B2 Preferred were issued for cash consideration of $366.0 per share (“Series B2 Award”) and all the Series B2 Preferred were fully paid on the date of issuance. The Series B2 Award shall vest with respect to one-fourth of the total number immediately upon the occurrence of a qualified IPO or Initial Vesting Date, and on each of the first, second and third anniversaries of the Initial Vesting Date; provided that through each applicable vesting date, the holder of the Series B2 Award remains employed with the Company. If a holder of the Series B2 Award terminates employment before the vesting, the Company could repurchase the Series B2 Preferred for a per share price equal to the lower of the original Series B2 Preferred subscription price or 70% of the fair market value of such Series B2 Preferred. The Company’s repurchase right upon employment termination is viewed as forfeiture and the Company accounted for the Series B2 Award as a stock option.
+As of December 31, 2020, 53,319 Series B2 Preferred shares were legally issued and outstanding. Upon the Merger, these Series B2 Preferred were converted into 8,545,490 Common Stock, however, the Series B2 Award was not vested as the performance condition was not reached. In September 2021, the performance and service condition was exempted for the Series B2 holders and the awards were fully vested. The exemption of performance and service condition was considered a Type III modification under Topic 718, in which the original awards were canceled, and the modified awards were considered granted on the modification date. Post-modification stock-based compensation expense related to these new awards of $39,227 was recognized using modification date fair values determined based on the difference between the exercise price and the Common Stock price on the modification date. Accordingly, the deposit liability was reclassified to equity upon the vesting.
+The following summarizes the classification of share-based compensation:
+
+ | Year Ended December 31,
+ | 2020 | | 2021 | | 2022
+Cost of revenues | $ | — | | | $ | 4,309 | | $ | 7,712 
+General and administrative expenses | — | | | 59,492 | | | 67,261
+Research and development expenses | — | | | 13,064 | | | 13,987
+Selling and marketing expenses | — | | | 6,029 | | | 6,745 
+Construction in progress | — | | | 237 | | | 525 
+Total | $ | — | | | $ | 83,131 | | $ | 96,230
+
+23. MAINLAND CHINA CONTRIBUTION PLAN
+Full time employees of the Group in the PRC participate in a government-mandated multiemployer defined contribution plan pursuant to which certain pension benefits, medical care, unemployment insurance, employee housing fund and other welfare benefits are provided to employees. Chinese labor regulations require the Group to accrue for these benefits based on certain percentages of the employees’ salaries. The total provisions for such employee benefits were $2,192, $2,774 and $3,370 for the years ended December 31, 2020, 2021 and 2022, respectively.
+24. STATUTORY RESERVES AND RESTRICTED NET ASSETS 
+Relevant PRC statutory laws and regulations permit payments of dividends by the Group’s PRC subsidiaries only out of their retained earnings, if any, as determined in accordance with PRC accounting standards and regulations. The results of operations reflected in the financial statements prepared in accordance with U.S. GAAP differ from those reflected in the statutory financial statements of the Company’s subsidiaries.
+F-42
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+24. STATUTORY RESERVES AND RESTRICTED NET ASSETS - continued
+
+Because the Group’s entities in the PRC can only be paid out of distributable profits reported in accordance with PRC accounting standards, the Group’s entities in the PRC are restricted from transferring a portion of their net assets to the Company. In accordance with the Regulations on Enterprises with Foreign Investment of China and their articles of association, a foreign invested enterprise established in the PRC is required to provide certain statutory reserves, namely general reserve fund, the enterprise expansion fund and staff welfare and bonus fund which are appropriated from net profit as reported in the enterprise’s PRC statutory accounts, which is included in the retained earnings account in the equity section of the consolidated balance sheets. A wholly-owned foreign invested enterprise is required to allocate at least 10% of its annual after-tax profit to the general reserve until such reserve reaches 50% of its respective registered capital based on the enterprise’s PRC statutory accounts. Appropriations to the enterprise expansion fund and staff welfare and bonus fund are at the discretion of the board of directors for all foreign invested enterprises. The aforementioned reserves can only be used for specific purposes and are not distributable as cash dividends. If any PRC subsidiary incurs debt on its own behalf in the future, the instruments governing the debt may restrict their ability to pay dividends or make other payments to the Group. Any limitation on the ability of the PRC subsidiaries to distribute dividends or other payments to their respective shareholders could materially and adversely limit the ability to grow, make investments or acquisitions that could be beneficial to pay dividends.
+The restricted amounts include the paid-in capital and statutory reserves of the Group’s entities in the PRC. The aggregate amount of paid-in capital and statutory reserves, which is the amount of net assets of the Group’s entities in the PRC (mainland) not available for distribution, were $378,506 and $523,087 as of December 31, 2021 and 2022, respectively.
+25. SEGMENT INFORMATION 
+Operating segments are defined as components of an enterprise engaging in businesses activities for which separate financial information is available that is regularly evaluated by the Group’s chief operating decision makers (“CODM”) in deciding how to allocate resources and assess performance. The Group’s CODM has been identified as the Chief Executive Officer (“CEO”), who reviews consolidated results including revenue, gross profit and operating profit at a consolidated level only and does not distinguish between products for the purpose of making decisions about resources allocation and performance assessment. As such, the Group concluded that it has one operating segment and one reporting segment.
+Long-lived assets, classified by major geographic regions are as follows:
+
+ | December 31, | December 31,
+Geographic regions | 2021 | 2022 
+ | Amount | % | | Amount | % 
+PRC | 211,139 | | 79 | % | 233,202 | 67 | %
+Asia & Pacific | 211,139 | | 79 | % | 233,202 | 67 | %
+Germany | 21,966 | | 8 | % | 19,639 | 6 | %
+United Kingdom | 67 | | 0 | % | 66 | 0 | %
+Europe | 22,033 | | 8 | % | 19,705 | 6 | %
+United States | 33,893 | | 13 | % | 94,872 | 27 | %
+Total | 267,065 | | 100 | % | 347,779 | 100 | %
+
+F-43
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+25. SEGMENT INFORMATION - continued
+
+Disaggregation of revenue
+Revenues, classified by major geographic regions in which the Group’s customers are located are as follows:
+
+ | Year ended December 31, | Year ended December 31, | | Year ended December 31,
+Geographic regions | 2020 | 2021 | | 2022 
+ | Amount | % | | Amount | % | Amount | | %
+PRC | 66,160 | | 62 | % | 93,326 | | 61 | % | 132,469 | 65 | %
+India | 8,570 | | 8 | % | 17,805 | | 12 | % | 47,323 | 23 | %
+Russia | 5,671 | | 5 | % | 12,213 | | 8 | % | 305 | 0 | %
+Other Asia & Pacific countries | 2,254 | | 2 | % | 8,172 | | 5 | % | 4,938 | 2 | %
+Asia & Pacific | 82,655 | | 77 | % | 131,516 | | 86 | % | 185,035 | 90 | %
+United Kingdom | 11,544 | | 11 | % | 11,386 | | 7 | % | 3,976 | 2 | %
+Italy | 5,965 | | 6 | % | 3,140 | | 2 | % | 6,389 | 3 | %
+Other European countries | 6,805 | | 6 | % | 5,016 | | 4 | % | 5,444 | 3 | %
+Europe | 24,314 | | 23 | % | 19,542 | | 13 | % | 15,809 | 8 | %
+United States | 549 | | 0 | % | 918 | | | % | 3,651 | | %
+Total | 107,518 | | 100 | % | 151,976 | | 100 | % | 204,495 | 100 | %
+
+26. RELATED PARTY BALANCES AND TRANSACTIONS
+
+Name | Relationship with the Group
+Ochem Chemical Co., Ltd (“Ochem”) | Controlled by CEO 
+Ochemate Material Technologies Co., Ltd (“Ochemate”) | Controlled by CEO 
+
+(1)Related party transaction
+
+ | Year Ended December 31,
+ | 2020 | | 2021 | 2022
+Raw material sold to Ochem | $ | 167 | | $ | 390 | $ | —
+
+(2)Interest-free loans
+MPS received certain interest-free loans from related parties, Ochemate and Ochem, for the years ended December 31, 2020, 2021 and 2022, with accumulative amounts of $18,889, $8,426 and $ nil, respectively.
+The outstanding balance for the amount due from Ochem was $85 as of December 31, 2021 and $ nil as of December 31, 2022, respectively.
+F-44
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+27. NET LOSS PER SHARE
+The following table sets forth the computation of basic and diluted net loss per share for the years indicated:
+
+ | Year Ended December 31,
+ | 2020 | | 2021 | | 2022
+Numerator: | | | | | 
+Net loss attributable to Common Stock shareholders | $ | (80,963) | | | $ | (234,103) | | $ | (158,200)
+Denominator: | | | | | 
+Weighted average Common Stock outstanding used in computing basic and diluted net loss per share | 99,028,297 | | | 185,896,482 | | | 303,279,188
+Basic and diluted net loss per share | $ | (0.82) | | | $ | (1.26) | | $ | (0.52) 
+
+For the years ended December 31, 2020, 2021 and 2022, the following Common Stock outstanding were excluded from the calculation of diluted net loss per share, as their inclusion would have been anti-dilutive for the years prescribed.
+
+ | Year ended December 31,
+ | 2020 | 2021 | | 2022
+Shares issuable upon exercise of share options | 18,281,198 | | 33,786,356 | | 35,244,877
+Shares issuable upon vesting of non-vested shares | 72,122 | | 167,268 | | 1,399,711 
+Shares issuable upon exercise of capped non-vested shares | — | | — | | 7,314,598 
+Shares issuable upon exercise of warrants | — | | 12,543,444 | | 28,437,000
+Shares issuable upon conversion of Series B2 Preferred | 8,545,490 | | 6,035,544 | | — 
+Shares issuable upon conversion of Series C1 Preferred | 26,757,258 | | 14,881,434 | | — 
+Shares issuable upon conversion of Series C2 Preferred | 20,249,450 | | 11,262,023 | | — 
+Shares issuable upon conversion of Series D1 Preferred | 22,311,516 | | 12,408,870 | | — 
+Shares issuable upon conversion of Series D2 Preferred | 16,432,674 | | 9,139,268 | | — 
+Shares issuable upon conversion of non-controlling interests of a subsidiary | 17,253,182 | | 9,595,605 | | — 
+Shares issuable upon vesting of Earn-out shares | — | | 8,821,913 | | 19,999,988
+Shares issuable that may be subject to cancellation | — | | 744,349 | | 1,687,500 
+
+28. COMMITMENTS AND CONTINGENCIES
+Litigation
+From time to time, the Group may become involved in litigation, claims, and proceedings. The Group evaluates the status of each legal matter and assesses the potential financial exposure. If the potential loss from any legal proceedings or litigation is considered probable and the amount can be reasonably estimated, the Group accrues a liability for the estimated loss. Significant judgment is required to determine the probability of a loss and whether the amount of the loss is reasonably estimated. As of December 31, 2021 and 2022, based on the information currently available, the Group believes that the loss contingencies that may arise as a result of currently pending legal proceedings are not reasonably likely to have a material adverse effect on the Group’s business, results of operations, financial condition, and cash flows. 
+F-45
+
+
+MICROVAST HOLDINGS, INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2019, 2020 AND 2021
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+28. COMMITMENTS AND CONTINGENCIES - continued
+
+Capital commitments
+Capital commitments for construction of property and purchase of property, plant and equipment were $227,353 as of December 31, 2022, which is mainly for the construction of capacity expansion projects in Huzhou, PRC and Clarksville, USA.
+Purchase Commitments
+Purchase commitments for non-cancelable contractual obligations primarily related to purchases of inventory were $30,468 as of December 31, 2022.
+29. SUBSEQUENT EVENTS
+New RSU and PSU Grants
+On January 31, 2023, the Company granted 1,406,150 RSUs and 1,406,150 PSUs to employees, subject to service and market conditions, respectively. The service condition requires the participant’s continued employment with the Company through the applicable vesting date(s), and the market condition is based on the Company's TSR relative to a comparator group during a specified performance period.
+F-46
+
+
+ADDITIONAL INFORMATION FINANCIAL STATEMENT SCHEDULE I
+CONDENSED FINANCIAL INFORMATION OF PARENT COMPANY 
+BALANCE SHEETS
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+ | December 31,2021 | | December 31,2022
+Assets | | | 
+Current assets: | | | 
+Cash and cash equivalents | $ | 357,008 | | | $ | 99,337 
+Short-term investment | — | | | 25,070 | 
+Amount due from subsidiaries | — | | | 2,000 | 
+Total Current Assets | 357,008 | | | 126,407 | 
+Investments in subsidiaries | 690,032 | | | 592,264 | 
+Total Assets | $ | 1,047,040 | | | $ | 718,671
+Liabilities | | | 
+Current liabilities: | | | 
+Amount due to inter-company | 359,202 | | | 105,533 | 
+Accrued expenses and other current liabilities | 35 | | | 35 | 
+Total Current Liabilities | 359,237 | | | 105,568 | 
+Warrant liability | 1,105 | | | 126 | 
+Total Liabilities | $ | 360,342 | | | $ | 105,694
+Shareholders’ Deficit | | | 
+Common Stock (par value of US$0.0001 per share, 750,000,000 shares authorized as of December 31, 2021 and 2022; 300,530,516 and 309,316,011 shares issued, and 298,843,016 and 307,628,511 shares outstanding as of December 31, 2021 and 2022) | $ | 30 | | | $ | 31 
+Additional paid-in capital | 1,306,034 | | 1,416,160 
+Statutory reserves | 6,032 | | 6,032 
+Accumulated deficit | (632,099) | | (791,165) 
+Accumulated other comprehensive income (loss) | 6,701 | | (18,081) | 
+Total Shareholders’ Equity | 686,698 | | 612,977 
+Total Liabilities and Shareholders’ Equity | $ | 1,047,040 | | | $ | 718,671
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-47
+
+
+ADDITIONAL INFORMATION FINANCIAL STATEMENT SCHEDULE I
+CONDENSED FINANCIAL INFORMATION OF PARENT COMPANY 
+STATEMENT OF OPERATIONS
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+ | Year EndedDecember 31,
+ | 2020 | | 2021 | | 2022
+Revenues from subsidiaries | $ | 199 | | | $ | — | | $ | — 
+Gross profit | 199 | | | — | | | — 
+Operating expenses: | | | | | 
+General and administrative expenses | (3,340) | | | (2,424) | | | (2,438) 
+Total operating expenses | (3,340) | | | (2,424) | | | (2,438) 
+Subsidy income | 224 | | | — | | | — 
+Loss from operations | (2,917) | | | (2,424) | | | (2,438) 
+Other income and expenses: | | | | | 
+Interest income | 38 | | | 10 | | | 2,179 
+Loss on changes in fair value of Bridge Notes | — | | | (9,861) | | | — 
+Gain on change in fair value of warrant liability | — | | | 2,469 | | | 979 
+Other expense, net | — | | | 59 | | | — 
+(Loss) income before provision for income taxes | (2,879) | | | (9,747) | | | 720 
+Income tax expense | — | | | — | | | — 
+Loss from investment in subsidiaries | (30,746) | | | (196,736) | | | (158,920)
+Net loss | $ | (33,625) | | | $ | (206,483) | | $ | (158,200)
+Other comprehensive loss, net of tax of nil: | | | | | 
+Foreign currency translation adjustment | 16,622 | | | (655) | | | (24,782) 
+Total comprehensive loss attributable to Microvast Holdings, Inc. | $ | (17,003) | | | $ | (207,138) | | $ | (182,982)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-48
+
+
+ADDITIONAL INFORMATION FINANCIAL STATEMENT SCHEDULE I
+CONDENSED FINANCIAL INFORMATION OF PARENT COMPANY 
+STATEMENT OF CASH FLOWS
+(In thousands of U.S. dollars, except share and per share data, or as otherwise noted)
+
+ | Year Ended December 31,
+ | 2020 | | 2021 | | 2022
+Net cash used in operating activities | (3,398) | | | (2,846) | | | (4,498) 
+Cash flows from investing activities | | | | | 
+Purchases of property, plant and equipment | (380) | | | (18,465) | | | — 
+Investment in subsidiaries | — | | | (354,014) | | | (255,662)
+Purchases of short-term investment | — | | | — | | | (25,070) 
+Net cash used in investing activities | (380) | | | (372,479) | | | (280,732)
+Cash flows from financing activities | | | | | 
+Cash received from the trust account upon Merger, net of transaction costs | — | | | 223,605 | | | — 
+Cash received from PIPE investors upon Merger | — | | | 482,500 | | | — 
+Issuance of Bridge Notes | — | | | 57,500 | | | — 
+Payment to exited noncontrolling interests | — | | | (32,872) | | | — 
+Cash received from shareholders | — | | | — | | | 27,559 
+Net cash generated from financing activities | — | | | 730,733 | | | 27,559 
+(Decrease)/increase in cash, cash equivalents and restricted cash | (3,778) | | | 355,408 | | | (257,671)
+Cash, cash equivalents and restricted cash at beginning of the period | 5,378 | | | 1,600 | | | 357,008 
+Cash, cash equivalents and restricted cash at end of the period | $ | 1,600 | | | $ | 357,008 | | $ | 99,337
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-49
+
+
+ADDITIONAL INFORMATION FINANCIAL STATEMENT SCHEDULE I
+CONDENSED FINANCIAL INFORMATION OF PARENT COMPANY 
+NOTES OF THE CONDENSED FINANCIAL STATEMENTS
+1. BASIS FOR PREPARATION
+The financial information of the Company has been prepared using the same accounting policies as set out in the Group’s consolidated financial statements except that the Company has used the equity method to account for investments in its subsidiaries.
+On July 23, 2021, Tuscan Holdings Corp. consummated the Merger with Microvast, Inc. pursuant to the Merger agreement dated February 1, 2021, with Microvast, Inc. surviving from the Merger. As a result of the Merger, Tuscan Holdings Corp. was renamed “Microvast Holdings, Inc.” The Merger transaction is accounted for as a reverse recapitalization as Microvast, Inc. was determined to be the accounting acquirer. As such, the historical consolidated comparative information as of and for the year ended December 31, 2020 in this Schedule I relates to Microvast, Inc. The shares issued and outstanding prior to the completion of the Merger has been retroactively adjusted to give effect to the exchange ratio established in the Merger Agreement.
+2. INVESTMENTS IN SUBSIDIARIES
+The Company and its subsidiaries were included in the consolidated financial statements where the inter-company transactions and balances were eliminated upon consolidation. For the purpose of the Company’s stand-alone financial statements, its investments in subsidiaries were reported using the equity method of accounting. The Company’s share of income from its subsidiaries were reported as equity in earnings of subsidiaries in the accompanying parent company financial statements.
+F-50
+
+

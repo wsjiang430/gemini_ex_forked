@@ -1,0 +1,288 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+Confluent is on a mission to set data in motion. We have pioneered a new category of data infrastructure designed to connect all the applications, systems, and data layers of a company around a real-time central nervous system. This new data infrastructure software has emerged as one of the most strategic parts of the next-generation technology stack, and using this stack to harness data in motion is critical to the success of modern companies as they strive to compete and win in the digital-first world.
+ 
+Our way of life has shifted to a digital-first paradigm, and the digital realm has become the new competitive battlefield in the global economy. In order to compete and win in today’s world, organizations must continually innovate on software systems that are increasingly critical to how they do business.
+ 
+Being digital-first is not just a matter of adding an application or automating an existing process. It is an end-to-end reimagining of business. It means creating rich, digital front-end customer experiences as a primary way of interacting with customers. It means transitioning to real-time, software-driven back-end operations as a business. In retail, this is the difference between accurate inventory tracking across multiple channels to ensure a consumer can have an up-to-date snapshot of what is actually in-store, versus leaving a consumer disappointed on arrival when the product that they thought was available is out-of-stock. In manufacturing, this is the difference between harnessing a real-time flow of data from IoT sensors to deliver predictive maintenance and reduce downtime, versus episodic, manual inspections of equipment. In financial services, this is the difference between detecting and preventing fraud versus reacting afterwards.
+ 
+This is a matter of life or death for companies. Tech disruptors are delivering rich, digital customer experiences and setting the standard for customer expectations. Businesses in every industry are in full mobilization to rebuild their businesses around the new experiences made possible with software and data. Organizations that get it right can experience stronger growth, lower costs, and improved customer loyalty and gain significant competitive advantage. Conversely, organizations that fail to deliver a real-time customer experience that is intuitive, informed, and reliable can expect frustration, dissatisfaction, and churn.
+ 
+These innovations in front-end customer experiences and back-end business operations reflect a larger technology trend—the fundamental shift in the role of software in the modern organization. Today, software is no longer simply used as a set of applications to increase employee productivity (such as email and expense reporting). Instead, software is directly orchestrating customer experiences and operations that run the business. It is not just that companies are using more software—in a very real sense, they are actually becoming software.
+ 
+Several waves of technology innovation have driven this changing role of software. Cloud has re-imagined infrastructure as code, making it easier than ever for developers to build applications. Mobile has extended enormous amounts of computing power to fit in the palms of our hands, making usage of technology ubiquitous in our lives. Meanwhile, machine learning is extending the scope and role of software to new domains and processes.
+ 
+However, in order to complete this transition, another fundamental wave is required. The operation of the business needs to happen in real-time and cut across infrastructure silos. Organizations can no longer have disconnected applications around the edges of their business with piles of data stored and siloed in separate databases. These sources of data need to integrate in real-time in order to be relevant, and applications need to be able to react continuously to everything happening in the business as it occurs. To accomplish this, businesses need data infrastructure that provides connectivity across the entire organization with real-time flow and processing of data, and the ability to build applications that react and respond to that data flow. As companies increasingly become software, they need a central nervous system that connects all of their disparate software systems, unifying their business and enabling them to react intelligently in real-time.
+ 
+
+Because of this, we believe that it is no longer enough for an organization to innovate based on the current paradigm of capturing data, storing it, and then querying or analyzing it. Organizations need a strategy, and a foundational data platform, to operate their business in real-time based on data as it is being generated in the moment. This idea of “data in motion” is at least as critical to the operations of a company as “data at rest,” and we believe the new generation of winning organizations will be defined by their ability to take action on it.
+ 
+Traditional database technologies were not designed for data in motion, but architected for stored data at rest. Despite significant developments in the scalability and speed of analysis in both traditional and more modern databases (such as NoSQL, time-series, and graph databases), they remain limited to data-at-rest use cases and cannot harness data in motion. The leading open source offering for data in motion, Apache Kafka, was originally created by our founders at LinkedIn in 2011 and brought to the mainstream a new paradigm of data processing. However, this was only the beginning. Confluent was founded to create a product that could make data in motion the central nervous system of every company in the world.
+ 
+Confluent is pioneering this fundamentally new category. Our offering is designed to act as the nexus of real-time data, from every source, allowing it to stream across the organization and enabling applications to harness it to power real-time customer experiences and data-driven business operations. Our offering can be deployed either as a fully-managed, cloud-native SaaS offering available on all major cloud providers or an enterprise-ready, self-managed software offering. Our cloud-native offering works across multi-cloud and hybrid infrastructures, delivering massive scalability, elasticity, security, and global interconnectedness, enabling agile development.
+ 
+Our open source roots are a key driver of our go-to-market success. Apache Kafka has become the industry standard for data in motion. It is one of the most successful open source projects, estimated to have been used by over 75% of the Fortune 500. Modern applications are expected to integrate with Apache Kafka, and the technical skill set for Kafka has become a critical requirement in the industry. Confluent’s products provide the capabilities of Apache Kafka but do so on a platform built for the cloud, complemented by connectivity to the larger enterprise, and with the ability to process and govern at scale. The developer community understands the benefits of a complete platform for data in motion. Consequently, software developers within our prospective customers’ engineering or IT departments are often very familiar with our underlying technology and value proposition and evangelize on our behalf.
+ 
+Confluent has built an operationalized customer journey, which we call our Data in Motion Journey, focused on data in motion that ties together product features, go-to-market efforts, and customer success capabilities, and helps take customers from their initial experiments with the technology to organization-wide adoption as one of their most critical data platforms. This starts by landing use cases in a high volume, low-friction manner while projects are still being conceived and the architecture of the solution is being designed. Awareness and use of our offering begin even before our sales efforts, given the widespread adoption of Apache Kafka by developers and the self-service adoption made possible with our cloud product and community downloads. Our enterprise sales force takes these initial engagements and helps users progress to production use cases and paying customers either on a pay-as-you-go model or with a committed contract. Once customers see the benefits of our product for their initial use cases, they often expand into other use cases and lines of business, divisions, and geographies. Our deep technical expertise, coupled with our product capabilities and laser focus on customer outcomes, enable us to form strategic partnerships with our customers on this journey. This expansion is helped by a natural network effect in which the value of our platform to a customer increases as more use cases are adopted, more applications and systems are connected, and more data is added. Over time, by enabling data in motion across the organization, Confluent can become the central nervous system for their entire organization, allowing data to be captured and processed as it is generated in real-time across hundreds of teams, systems, and applications throughout the company. This expansion effect is reflected by our dollar-based net retention rate as of December 31, 2022 of just under 130%.
+ 
+
+Our Solution
+ 
+Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion for developers and enterprises alike. In order for enterprises to deliver rich customer experiences, it is critical for all of their business functions, departments, teams, applications, and data stores to have complete connectivity, be thoroughly integrated, and be able to analyze data as it is generated. Confluent is designed to be this intelligent connective tissue by having real-time data from multiple sources constantly streamed across an enterprise for real-time analysis.
+ 
+Our offering enables organizations to deploy production-ready applications that run across cloud infrastructures and data centers, and scales elastically, with enhanced features for security and compliance. Our platform provides the capabilities to fill the structural, operational, and engineering gaps that are required for businesses to fully realize the power of data in motion. We enable software developers to easily build their initial applications to harness data in motion, and enable large, complex enterprises to make data in motion core to everything they do. As organizations mature in their adoption cycle, we enable them to build more and more applications that take advantage of data in motion. The results have a dual effect: businesses continuously improve their ability to provide better customer experiences and concurrently drive data-driven business operations. We believe that, over time, Confluent can become the central nervous system for modern digital enterprises, providing ubiquitous real-time connectivity and powering real-time applications across the enterprise.
+ 
+Confluent’s solution can be deployed either as a fully-managed cloud-native SaaS offering available on-demand, Confluent Cloud, or an enterprise-ready, self-managed software offering, Confluent Platform.
+ 
+A high-performance, low-latency infrastructure for harnessing data in motion requires operating wherever a customer’s applications and systems reside. Customers with applications in a particular cloud would use Confluent Cloud in that cloud provider and region. Customers with applications on premises, or on a private cloud, would use Confluent Platform in that data center. Customers with both on premises and cloud, or even multiple clouds, need Confluent in each of these environments. Together, these solutions can act as one unified fabric for data streams that connect all of these customer environments.
+ 
+
+Our solution has three differentiated elements:
+ 
+•Cloud-Native. Confluent offers true cloud functionality for data in motion. We offer a fully-managed, cloud-native service that is massively scalable, elastic, secure, and globally interconnected, enabling agile development. This is a completely different experience than what would result from taking on-premise software and simply offering it on cloud virtual machines, which are virtualized environments that mimic the behavior of an on-premise experience in the cloud. It requires a feature set to enable elasticity and scalability that cuts right to the heart of the design of data systems. We had to completely re-architect the technologies underlying data in motion, including Apache Kafka, for the cloud to make a truly cloud-native offering. We offer a high-velocity, frictionless pay-as-you-go model, allowing developers to easily sign up without having to enter a credit card, experience and see the value of Confluent, and seamlessly transition to only being billed for what is used. The combination of these capabilities and features creates a compelling and simple solution for developers looking to build upon data in motion in the cloud and for enterprises looking for a secured, governed enterprise solution. With Confluent, developers and enterprises alike can focus on their applications and drive value without worrying about the operational overhead of managing data infrastructure.
+ 
+•Complete. We created a complete platform for data in motion, by leveraging capabilities from open source Apache Kafka with our significant proprietary capabilities. Our technology moves and processes data concurrently, with specific tools such as ksqlDB, a native data-in-motion database that allows users to build data-in-motion applications using just a few SQL statements, as well as over 100 connectors. Our robust capabilities dramatically enhance developer productivity, increase ease of operations, and provide enterprise-level security, governance, resilience, and expertise in a complete platform, providing significant benefits over companies trying to build these complex features on their own. Our acquisition of Immerok, an Apache Flink stream processing managed services company, will enable us to make Confluent Cloud even more compelling by adding support for Flink, a powerful technology for building stream processing applications and one of the most popular Apache open source projects.
+ 
+•Everywhere. We have built a truly hybrid and multi-cloud offering. We can support customers in their cloud and multi-cloud environments, on-premises, or a combination of both. From early on, we recognized that the journey to the cloud is not overnight or simple, and in order for our customers to effectively digitally transform, they require a fundamental platform for data in motion that can integrate seamlessly across their entire technology environment. We offer this essential capability and enable organizations to seamlessly leverage data in motion across their public cloud, private cloud, and data center environments, ensuring total connectivity throughout an organization. For enterprises that are increasingly expanding internationally, Confluent’s multi-cloud support also enables organizations to leverage data in motion across multiple data centers and providers, stretched around the world. For enterprises that want to be hybrid cloud, we are able to extract information from the entirety of their infrastructure, allowing us to act as the bridge that unites legacy systems in older environments with modern applications in the cloud. This ability to let customers embrace the new without having to fully replace everything that is old is a critical point of differentiation and a critical element in the cloud adoption strategy of many of our customers.
+ 
+Confluent Is Becoming the Central Nervous System of Organizations
+ 
+As Confluent grows within an organization, the network effects we generate create even more value to the organization as a whole. By fundamentally re-architecting how data flows, we are able to replace complexity with simplicity, delays with real-time, and disparate data with a unified view across the modern enterprise software stack.
+ 
+
+Most organizations start off with a complex mess of point-to-point connections between their applications, databases, and data warehouses. This is unavoidable when data is primarily at rest, held in storage across the organization, and requiring these connections to be built. Adopting a new technology to connect this mess would be prohibitively slow if there were not an underlying force driving this change. Fortunately, our platform has a unique network effect that helps speed its adoption. The first application that utilizes our platform generally does so for the capabilities in harnessing data in motion. In doing so, it brings into the platform the data streams needed for its usage. However, although these data streams are brought for one application, they are usable by all future applications and bring value to the entire ecosystem. As a result, future applications can connect to the platform to access these data streams, bringing with them their own data streams. As a result, there is a clear virtuous cycle: applications bring data streams, which in turn attract more applications.
+ 
+As customers expand with our foundational platform, we set more and more data in motion across the organization and replace the various point-to-point connections with our complete platform. This means data can intelligently be made available in real-time to more and more of the organization as applications connect to a single platform. We are able to hold a highly strategic position to create greater value to existing applications and databases as data in motion across the entire organization begins to flow, be directed, and be processed through Confluent. We believe that this eventually leads to Confluent becoming the central nervous system of an organization, allowing data to be captured and processed as it is generated around the whole organization, enabling organizations to react intelligently in real-time.
+ 
+Key Benefits to Our Customers
+ 
+Our platform delivers the following key business benefits to our customers:
+ 
+•Ability to Deliver Rich Customer Experiences and Data-Driven Business Operations. The world is increasingly demanding applications that are responsive in real time to data in motion. By harnessing the power of data in motion, our customers can deliver differentiated customer experiences, such as suggesting the next show to watch in real time or providing live information on the status of a grocery order. Enterprises can also enable data-driven operations such as real-time, preventive maintenance, IoT analytics, and diagnostics.
+ 
+•Accelerated Time-to-Market. Speed is essential for our customers, as they seek to disrupt established industries or innovate to fend off emerging disruptors. Our fully-managed cloud-native service enables our customers to start developing instantly, without any internal or external operational barriers. With Stream Designer, we offer the industry’s first visual interface for rapidly building, testing, and deploying streaming data pipelines natively on Kafka, increasing the number of developers able to tap into the power of data streaming. And, with the ability to pay-as-you-go, our customers can begin using Confluent without commitment or delay from internal procurement processes. Furthermore, our offering comes with a rich, pre-built ecosystem, making it simple, quick and efficient to integrate Confluent into the enterprise. This enables greater engineering organization efficiency and an accelerated time-to-market.
+ 
+•Reduced Total Cost of Ownership. Confluent significantly reduces the operational barriers and costs associated with shifting to a data-in-motion architecture. Coupled with accelerated time to market, our customers benefit from both reduction in total cost of ownership as well as rapid ROI.
+ 
+•Freedom of Choice. Confluent is hybrid and multi-cloud compatible so customers can deploy on premises or in the cloud. We recognize that enterprises have their data stored in many places and that an effective solution must be able to connect to various data sources.
+ 
+•Mission Critical Security and Reliability. Confluent has enterprise-grade security and governance capabilities to provide confidentiality of critical information. We enable mission-critical reliability and resiliency, allowing data persistence, dynamic backing up of data across replicated partitions, fault-tolerance, and automated client failover.
+ 
+
+•Robust Developer Community. Apache Kafka has an extremely robust developer community. It is one of the most successful open source projects, with more than 65,000 meet-up members across over 200 global meetup groups, estimated to have been used by over 75% of the Fortune 500. Confluent continues to add to open source Apache Kafka and has helped build an ecosystem of contributors. This means that developers outside of Confluent are building connectors, more functionality, and deploying patches to Apache Kafka while Confluent continues to also add features both to Apache Kafka and to Confluent’s proprietary offering. This leads to a positive feedback loop as it strengthens the Apache Kafka offering, attracting more developers, who in turn further strengthen Apache Kafka, which benefits us, as users see the benefit of a data-in-motion platform, and the wider Apache Kafka community. In addition, we make available many features that we have developed at Confluent under our Confluent Community License, which means developers can access, benefit from, and modify the source code for such features, further increasing our reach and mindshare in the developer community.
+ 
+Our Growth Strategy
+ 
+We are pursuing our substantial market opportunity with growth strategies that include:
+ 
+•Easy and Frictionless Land with Cloud Pay-As-You-Go. Due to the cloud-native nature of Confluent Cloud, we are able to acquire new customers through a seamless and frictionless self-service motion. Customers can get started via our free cloud trial and easily convert online to become paying customers. Our cloud-native capabilities allow us to land customers at low entry points, with no commitment, and seamlessly expand via increased usage. We will continue to leverage our cloud-native differentiation to create an easy buying motion and drive our growth.
+ 
+•Continue our Focus on our Customer Growth Go-To-Market Model. Our integrated Customer Growth Go-To-Market model is designed to drive business growth by mapping the customer journey from initial interest, to pilot, to first production project, to an integrated platform across the enterprise. We intend to develop our strategy of garnering customer signups, converting to paid customers, expanding through additional use cases and rapidly delivering customer value. We will continue to offer a range of services and training offerings, partnering with our customers to increase the value they realize from our solution and thereby increase their consumption of our offering.
+ 
+•Enterprise-Wide Expansion via Solutions Selling. After acquiring a new customer, we seek to grow our footprint by solving additional use cases for that customer. Since we are a fundamental data infrastructure platform, the use cases we can address are wide-ranging, and our use case framework includes both horizontal IT workloads such as pipelines to cloud databases and data warehouses, microservices-based application development, and mainframe integration, as well industry-specific use cases such as faster and smarter real-time fraud detection. We enjoy a powerful network effect as we enter organizations; once one application is connected to Confluent, our customers often connect other applications to that first application, which can result in a flywheel where Confluent can permeate the enterprise. We believe Confluent can become the central nervous system of modern enterprises at scale. Our dollar-based net retention rate of just under 130% as of December 31, 2022 reflects our ability to rapidly demonstrate our value and address a vast array of use cases for our customers.
+ 
+•Extend our Product Leadership and Innovation. We pioneered the category of harnessing the power of data in motion and are committed to innovating to extend our product leadership. We will continue to build out our platform, add more capabilities, build more applications, and invest in developing technology that increases developer productivity and promotes rapid customer success. From ksqlDB, which is a native data-in-motion database that allows users to build data-in-motion applications using just a few SQL statements, to Stream Designer, which enables less sophisticated developers to quickly and easily create and deploy streaming data pipelines, we have continued to innovate and make it easier for any organization to harness data in motion.
+ 
+
+•Continue to Invest in the Open Source Community. Our open source roots provide a large pool of targeted developers and enterprises who are interested in or have already adopted open source Apache Kafka. These developers are readily able to use and benefit from our cloud-native service or enterprise-ready software. We will continue to invest in delivering features to open source Apache Kafka in order to continue adding value to the Apache Kafka community, maintain our leadership standing in the new data-in-motion paradigm, and ensure that the open source benefits to our business continue.
+ 
+•Grow and Harness our Partner Ecosystem. We have built a powerful partner ecosystem encompassing the major cloud providers, global and regional systems integrators, and ISVs. Our partners include AWS, Microsoft, GCP, Accenture, Alibaba, Elastic, MongoDB, and Snowflake. We intend to continue to invest in these relationships and build further partnerships to ensure our software is widely sold, distributed, and supported.
+ 
+•Expand Internationally. We believe markets outside of the United States present a significant opportunity for additional growth of our business. During the year ended December 31, 2022, our international revenue represented 38% of our total revenue, coming from customers in over 100 countries. We expect to continue to make significant investments to support our growth in our existing international markets and in penetrating additional international markets.
+ 
+•Expand the Scope of our Platform with Stream Processing and Other Investments. We believe that the rise of real-time stream processing of data in motion is still in the early stages of adoption. With the addition of Flink to our existing investment in ksqlDB, we are positioned to succeed in this emerging area as it gains adoption with customers. This adoption is expected to lead to significant displacement of batch data processing on traditional databases and a corresponding shift in spend to data-in-motion technologies, such as Confluent. We believe our investment in Stream Processing positions us to capture this shift and use it to fuel further growth.
+ 
+•Grow Further Use Cases Up-The-Stack Leveraging our Strategic Position for Data in Motion. Data in motion is a disruptive new platform technology, and as such there are countless use-case focused opportunities up the stack. As we grow into our role as a central nervous system within companies, we believe we have an incredibly strategic position from which to grow into use-case specific adjacencies that apply data in motion. We see the potential for broad, cross-industry customer adoption of use cases around machine learning, IoT, data integration, real-time analytics, real-time logistics, customer data unification, cloud migration, microservices, data sharing, as well as countless others. We believe we are strategically positioned to understand what these use cases are when reimagined around data in motion and to partner and/or build pre-packaged solutions purpose-built for these use cases.
+ 
+Our Product Offering
+ 
+Our software offering provides a complete solution for working with data in motion, including the ability to read, write, store, capture, validate, secure, and process continuous streams of data. It also has features designed to fulfill the requirements of modern cloud infrastructure: it is a modern distributed system built to be secure, fault tolerant, and scalable elastically from a single application to hundreds or thousands of applications within an organization. Our software can be consumed in two ways, Confluent Cloud and Confluent Platform, that our customers can leverage independently or together. Regardless of where our customers have their technology environments, we are able to deliver an integrated platform for data in motion that can become their central nervous system.
+ 
+•Confluent Cloud is our fully-managed cloud-native offering, available on all of the major cloud providers (AWS, GCP, and Microsoft Azure). Confluent Cloud is offered to our customers via a pay-as-you-go model with no commitment, or via an annual, or multi-year, subscription model where customers draw down upon a committed dollar amount. Key attributes of Confluent Cloud include:
+ 
+▪Serverless. Confluent Cloud offers self-serve provisioning with no complex cluster sizing, zero downtime, upgrades and bug fixes, elastic scaling, and the ability for customers to pay only for what they actually use.
+ ▪Complete. Confluent Cloud offers data compatibility with fully-managed Schema Registry, rapid development through fully-managed connectors, real-time processing with fully-managed ksqlDB, virtually infinite data retention, and committer-led support with contractual response times of 60 minutes or less for severe-impact issues.
+ ▪Flexible. Confluent Cloud offers the ability to build a persistent bridge from on-premises to cloud, and the ability to stream across public clouds for multi-cloud data pipelines.
+ ▪Highly Available. Confluent Cloud offers a guaranteed 99.95% uptime SLA, ability to scale to 10s of GBps with dedicated capacity, ability to achieve sub 30ms latency at scale, and multi availability-zone (AZ) replication.
+ ▪Secure. Confluent Cloud offers at-rest and in-transit data encryption, SAML/SSO for user authentication, private networking via VPC peering or AWS Transit Gateway, and monitoring visibility with topic- and cluster-level metrics.
+ 
+•Confluent Platform is our enterprise-grade self-managed software offering, able to be deployed on-premises as well as across public and private cloud environments. Confluent Platform is offered to our customers via an annual or multi-year subscription. Key attributes of Confluent Platform include:
+ ▪Unrestricted Developer Productivity. Confluent Platform offers developers the ability to build across multiple development languages, utilize a rich pre-built ecosystem of over 100 connectors, and benefit from a fully integrated data-in-motion database.
+ ▪Efficient Operations at Scale. Confluent Platform enables our customers to minimize operational complexity while ensuring high performance and scalability.
+ ▪Production-Stage Prerequisites. Confluent Platform offers foundational enterprise-level features needed to implement data in motion in production.
+ ▪Freedom of Choice. Confluent Platform can be deployed on-premises or in public or hybrid cloud environments.
+ 
+Our offering provides a full set of features and functionality to enable adoption of data in motion throughout an organization. Key features include:
+ 
+•Rich Pre-Built Ecosystem
+ ▪Over 100 Pre-Built Connectors. We develop and work with partners who develop enterprise-ready connectors to easily integrate data and build applications. Connectors are supported by either Confluent or our partners.
+ ▪ksqlDB. ksqlDB is a database that unifies the processing of data in motion and data at rest. This enables customers to build applications that compute new stored data sets off continuous data streams or enrich data streams with stored data. It translates the near-universal SQL interface of traditional databases to the world of data in motion, making it accessible for the vast majority of software developers with minimal learning time.
+ ▪Schema Registry. Schema Registry is a central repository with a RESTful interface for developers to define standard schemas and register applications to enable compatibility.
+ 
+
+•Management, Monitoring, and Global Resilience
+ ▪Confluent Control Center (C3). Offers a simple way to manage and monitor data in motion as it scales across the enterprise. Control Center is a web-based graphical user interface to understand the data-in-motion environment, meet SLAs, and control key components of the data-in-motion platform.
+ ▪Multi-Region Clusters. Multi-Region Clusters automate disaster recovery, allowing customers to run a single cluster across multiple data centers and automate disaster recovery with operational simplicity.
+ ▪Cluster and Schema Linking. Cluster and Schema Linking enable customers to consistently geo-replicate data, making it easy to create a seamless and persistent bridge from Confluent Platform in on-premises environments to Confluent Cloud.
+ •Dynamic Performance and Elasticity
+ ▪Self-Balancing Clusters. Self-Balancing Clusters automate partition rebalances to optimize throughput, accelerate broker scaling, and reduce the operational burden of managing a large cluster. Partition rebalances are completed quickly and without any risk of human error.
+ ▪Tiered Storage. Tiered Storage allows deployments to recognize two tiers of storage: local disks and cost-efficient object stores (Amazon S3 or GCP Storage). Brokers can offload older topic data to object storage, enabling virtually infinite retention.
+ ▪Scalability. Confluent offers the ability to scale to trillions of events as well as scale across business units in order to become an enterprise standard.
+ 
+• Enterprise-Grade Security
+ ▪Structured Audit Logs. Structured Audit Logs capture authorization logs in a set of dedicated topics, on a local or a remote cluster.
+ ▪Role-based Access Control (RBAC). RBAC is a centralized implementation for secure access to resources with fine-tuned granularity and platform-wide standardization. Customers can control permissions by users/groups to clusters, topics, consumers groups, and even individual connectors.
+ ▪Stream Governance. Confluent’s Stream Governance capabilities enable customers to maintain enterprise-grade cloud security and compliance, including the ability to increase collaboration with self-service data discovery and understand complex data relationships.
+ •Data Compatibility and DevOps Automation
+ ▪Schema Validation. Schema Validation provides a direct interface between the broker and Schema Registry to validate and enforce schemas programmatically. Schema Validation can be configured at the topic level.
+ ▪Confluent Operator. Confluent Operator simplifies running Confluent Platform as a cloud-native system on Kubernetes, whether on-premises or in the cloud. It delivers an enterprise-ready implementation of the Kubernetes Operator API to automate deployment and key lifecycle operations.
+ 
+Our offering is designed to serve as fundamental data infrastructure for our customers and solve an enormous variety of use cases across both front-end customer experiences and back-end business operations.
+ 
+
+In addition to our core offering, we offer several services offerings:
+ 
+•Professional Services. Professional Services provides expertise and tools that help our customers accelerate platform adoption and achieve successful business outcomes. We offer packaged and residency offerings focused on helping customers plan, implement, manage/monitor, and optimize their platform and applications.
+ 
+•Education. Our offering includes training and certification guidance, technical resources, and access to hands-on training and certification exams. Education offerings are targeted at different types of users and delivery modalities to suit end customer needs. We have instructor-led training, self-paced on-demand courses, and certification.
+ 
+•Certification Program. Technical expertise in data in motion is highly sought after and a highly-paid skill set. Our certification program enables technical personnel to demonstrate and validate in-depth knowledge of data in motion.
+ 
+Our Licensing
+ 
+Our software products are protected by our licensing policies, which include our full proprietary license as well as our community license, which restricts others from offering our technology as a competing SaaS offering.
+ 
+Instead of opting for a traditional “open core” model, our core offering (Confluent Server) is substantially differentiated from Apache Kafka and was fundamentally re-architected to operate at cloud-scale, while being interoperable with existing Apache Kafka systems.
+ 
+Our Confluent Community License makes available many features that we have developed at Confluent. This gives developers the functionality needed to get started with Confluent, but excludes some of the core features of our commercial platform. Developers can access and modify the source code for such features but cannot take these features and use them to provide a competing SaaS offering.
+ 
+We focus on converting Confluent Community License users to paying customers by demonstrating the value of the fully-managed Confluent Cloud offering and the self-managed Confluent Platform offering, where developers get proprietary features such as Confluent control center, Confluent operator, self-balancing clusters, tiered storage, structured audit logs, RBAC, schema validation, and multi-region clusters, as described in “—Our Product Offering” above.
+ 
+Sales and Marketing
+ 
+In order to fully capitalize on our large market opportunity, our sales and marketing teams are tightly integrated to execute upon a cohesive go-to-market motion. The sales and marketing teams prioritize the core value of driving customer success and value in all strategies to acquire new customer accounts and grow our presence within existing customer accounts.
+ 
+Our Customer Growth Go-To-Market model is centered around the Data in Motion Journey, from initial interest, to pilot, to first production project, to an integrated platform across the enterprise. Through mapping to the customer journey, we are able to drive customer value in a highly targeted manner.
+ 
+Our strategy to expand within accounts has two fundamental aspects: first, to convert additional pockets of Apache Kafka interest and deployments within a given customer into a Confluent deployment, and second, to expand into additional use cases within a given customer through solutions selling with horizontal and vertical solutions. We believe there is a strong opportunity for growth as we solve a wide array of use cases.
+ 
+Our focus on customer success is critical to our sales and marketing success. We offer a wide range of training, professional services, education, and support offerings to enable our customers to rapidly onboard, adopt, and ultimately realize value from data in motion.
+ 
+
+Partnerships with the leading cloud providers (AWS, Azure, and GCP), as well as global and regional systems integrators and technology ISVs (MongoDB, Elastic, and Snowflake) are also central to our sales and marketing strategy. We believe through these partnerships we will significantly expand the reach of our technology.
+ 
+We believe in offering the ability for customers to engage with us in the manner best suited to them. We offer a fully self-service motion, where developers can learn and purchase in a completely online manner. We offer direct sales engagement, where customers can interact with experienced and knowledgeable field teams. We also offer the ability to engage and transact through our partner ecosystem, including the major cloud provider marketplaces, system integrators, technology ISVs, and resellers.
+ 
+Our open source roots are a key driver to our go-to-market success. The expansive Apache Kafka technical community is fervently devoted to this technology, and often advocates for our technology even when we are not engaged in an organization. They see the value of Apache Kafka and the opportunity to benefit from a complete platform for data in motion with Confluent. Consequently, our prospective customers are often very familiar with our underlying technology and value proposition, and are capable of evangelizing on our behalf.
+ 
+Executive-level engagements are also a key facet of our growth strategy. As our customer engagements progress from project to platform to enterprise-wide deployments, our customer relationships often include business as well as technology leaders. Through this wide set of customer relationships, we believe we will be more rapidly able to evolve into enterprise-wide customer deployments.
+ 
+Research and Development
+ 
+Our research and development efforts are focused on enhancing our platform features and functionalities and expanding the services we offer to increase market penetration and deepen our relationships with our customers. We believe that the timely development of new, and the enhancement of our existing, platform features and services is essential to maintaining our competitive position. We continually incorporate feedback and new use cases from our community and customers into our platform. Our development teams foster greater agility, which enables us to develop innovative products and make rapid changes to our technologies that increase resiliency and operational efficiency.
+Competition
+ 
+Our market is highly competitive and characterized by rapid changes in technology, customer needs, frequent introductions of new offerings, and improvements to existing service offerings.
+ 
+Our primary competition, especially on premise, is internal IT teams that are attempting to “do it themselves” using open source software. Our offering is substantially differentiated from Apache Kafka, and therefore companies using only open source tools do not benefit from our full product offering. As the move to the cloud increases, we expect that competition from open source alternatives will decrease as companies increasingly adopt fully-managed cloud solutions.
+ 
+Our principal competitors in the cloud are the well-established public cloud providers such as AWS that generally compete in all of our markets. These enterprises are developing and have released fully-managed, data ingestion, and data streaming products, such as Azure Event Hubs (Microsoft Corporation), Amazon Managed Streaming for Apache Kafka, Amazon Kinesis and Amazon DynamoDB Streams (AWS), and Cloud Pub/Sub and Cloud Dataflow (Google).
+ 
+On premise there are a number of vendors with legacy products that have pivoted into this space including TIBCO Streaming, Cloudera Dataflow, Redhat (IBM) AMQ Streams, and Oracle Cloud Infrastructure Streaming.
+ 
+We believe the principal competitive factors for companies in our industry include the following:
+ 
+Focus on data in motion, characterized by:
+ 
+•the ability to provide an end-to-end operationalized customer journey;
+ 
+
+•mindshare and ability to drive innovation in the category of data in motion; and
+ 
+•the ability to support customers at scale with mission critical use cases.
+ 
+Product differentiation, characterized by:
+ 
+•Cloud-native capabilities
+ ▪operate at significant scale;
+ ▪offer elasticity;
+ ▪offer end-to-end security; and
+ ▪offer flexible pricing, including pay-as-you-go delivery.
+ 
+•Completeness of offering
+ ▪a complete platform for data in motion (not just low-level streaming);
+ ▪rich SQL-based stream processing;
+ ▪integrated data governance capabilities; and
+ ▪ease of integration with connectors to a wide variety of existing applications and IT and cloud infrastructure.
+ 
+•Availability of offering
+ ▪as a fully-managed service in the three leading public clouds;
+ ▪as a Kuberenetes-based software offering for the private cloud;
+ ▪in legacy on-premise data centers as a software product; and
+ ▪ability to span all of these customer environments in one unified data-in-motion platform.
+ 
+General competitive factors, including:
+ •size of customer base and level of market adoption;
+ •price and total cost of ownership;
+ •brand awareness and reputation;
+ •quality of professional services and customer support;
+ •strength of sales and marketing efforts; and
+ •adherence to industry standards and certifications.
+ 
+
+On the basis of the factors above, we believe that we compare favorably to our competitors. However, some of our actual and potential competitors have advantages over us, such as substantially greater financial, technical, and other resources, including larger sales forces and marketing budgets, greater brand recognition, broader distribution networks and global presence, longer operating histories, more established relationships with current or potential customers and commercial partners, and more mature intellectual property portfolios. They may be able to leverage these resources to gain market share and prevent potential customers from purchasing our products. Additionally, we expect the industry to attract new entrants, who could compete with our business and introduce new offerings. As we scale and expand our business, we may enter new markets and encounter additional competition.
+ 
+Our Employees and Human Capital Resources
+ 
+Our Community
+ 
+Our employees are the power behind our innovation and the foundation of our business. Investing in our people is a high priority and we strive to enhance and advance our culture and community. As of December 31, 2022, we had 2,761 employees distributed across 22 countries. 62% of our employees at that time were located within the United States. Some individual employees outside of the United States may be members of trade unions or participate in staff representative bodies, including in France where we have assisted employees in forming a Social Economic Committee as required by local law.
+Culture and Values
+ 
+Culture is about how all employees at Confluent work together to get things done. Each part of the company has distinct norms and practices that are specific to what they do. But across Confluent, we share attributes of a common company culture that help us agree on how we will interact as a group, who we hire and help determine what kind of behavior is rewarded. Our six core values are:
+•Earn Our Customers’ Love
+ 
+•To Build a Great Company, Build a Great Team
+ 
+•Be Smart, Humble, and Empathetic
+ 
+•Be Fired Up and Get Stuff Done
+ 
+•Be Tasteful, Not Wasteful
+ 
+•One Team
+ 
+Engagement and Communication
+ 
+Our CEO and executives host regular all-hands meetings to keep our employees apprised of Confluent’s strategy, goals and priorities. We also conduct regular, anonymous engagement surveys to help us understand the employee experience, maintain a real-time pulse on employee engagement, and continuously action areas of opportunity as an organization. It is a quick way for management to see trends in engagement and progress on action plans. By continuing to monitor our engagement, we can impact retention and attraction of top talent to Confluent.
+Learning and Development
+ 
+We strive to provide a culture of curiosity and learning where employees can try new things and continually grow and develop. We offer a variety of resources to support this, including quarterly manager check-ins to facilitate development conversations, an on-demand e-learning platform and ongoing training and learning programs for employees.
+Compensation and Benefits
+ 
+We aim to provide compensation and benefits that are equitable, competitive, and meet the diverse needs of our global workforce. We believe it is an important factor for our employees to have a stake in our success, which is why our total compensation packages include both cash and equity components for most roles.
+ 
+In addition to our robust suite of medical, dental, vision, and retirement benefits, we provide employees access to mental wellbeing resources, family building benefits, and a comprehensive paid leave program.
+
+In addition, we believe that our remote-first model will enable us to attract top talent and provide employees the flexibility they increasingly seek.
+ 
+Diversity and Inclusion
+ 
+We are committed to the principles of fairness and equality. We believe that this commitment makes us a stronger, more vibrant, and more innovative company. We seek to build an environment where every employee, regardless of background, identity, or life experience, has an equal opportunity to grow and thrive.
+Intellectual Property
+ 
+Intellectual property rights are important to the success of our business. We rely on a combination of copyright, trademark, trade secret laws and patents in the United States and other jurisdictions, as well as license agreements, confidentiality procedures, non-disclosure agreements with third parties, and other contractual protections, to protect our intellectual property rights, including rights in our proprietary technology, software, know-how and brand. We use open source software in our offering.
+ 
+As of December 31, 2022, we hold two U.S. patents and have seven patent applications. We do not hold any non-U.S. patents. The patents are scheduled to expire in 2037. As of December 31, 2022, we own four registered trademarks in the United States, one trademark application pending in the United States, 36 registered trademarks in various non-U.S. jurisdictions, and 9 trademark applications pending in various non-U.S. jurisdictions.
+ 
+Although we rely on intellectual property rights, including contractual protections, to establish and protect our intellectual property rights, we believe that factors such as the technological and creative skills of our personnel, creation of new services, features and functionality, and frequent enhancements to our platform are essential to establishing and maintaining our technology leadership position.
+ 
+We control access to and use of our proprietary technology and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, customers, and partners. We require our employees, consultants, independent contractors, and other third parties to enter into confidentiality and proprietary rights agreements and we control and monitor access to our software, documentation, proprietary technology, and confidential information. Our policy is to require all employees, consultants, and independent contractors to sign agreements assigning to us any inventions, trade secrets, works of authorship, developments, processes, and other intellectual property generated by them on our behalf and under which they agree to protect our confidential information. In addition, we generally enter into confidentiality agreements with our customers and partners. See the section titled “Risk Factors” for a more comprehensive description of risks related to our intellectual property.
+ 
+
+Available Information
+ 
+Our website address is www.confluent.io. Information found on, or accessible through, our website is not a part of, and is not incorporated into, this Annual Report on Form 10-K. We file electronically with the SEC our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. We make available on our website at www.confluent.io, free of charge, copies of these reports and other information as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.

@@ -1,0 +1,235 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1 – Business
+
+As used in this Report, unless the context otherwise requires, references to “we,” “us,” “our,” “Company,” and “GoLogiq” refer to Lovarra.
+
+GoLogiq, Inc. (formerly known as Lovarra) (the “Company”) was incorporated on January 29, 2018 under the laws of the State of Nevada. As of December 31, 2021, the Company was a shell company focused on software application development, including an expense and income tracker and a physical wallet with a lock that can be opened via Bluetooth linked by a user application. On January 27, 2022, the Company completed the acquisition of the business segment of CreateApp from Logiq Inc. (a fully reporting public company) (“Logiq”). As a result, the Company’s results of operations for year ended December 31, 2022 include the operations of CreateApp.
+
+On May 9, 2022, the Company changed its name from Lovarra Inc. to GoLogiq, with the Secretary of State of the State of California, and on June 9, 2022, the Company’s common stock began trading on the OTC Markets marketplace under the Company’s new name, GoLogiq, Inc., and the new ticker symbol “GOLQ.”
+
+On July 27, 2022, Logiq completed the spin off of its direct interests in the Company, in connection with which Logiq distributed an aggregate of 26,350,756 shares of the Company’s common stock then directly owned by Logiq to Logiq’s stockholders of record as of December 30, 2021 on a 1-for-1 basis (i.e. for every 1 share of Logiq held on December 30, 2021, the holder thereof received 1 share of the Company). As a result of the completion of the spin off, as of July 27, 2022, the Company is no longer a majority owned subsidiary of Logiq.
+
+As of December 31, 2022, Logiq controlled, through one of its subsidiaries, approximately 11.1 % of the Company’s outstanding shares of common stock and voting power of the Company’s outstanding securities.
+
+As a result of the CreateApp acquisition, the Company ceased to be a shell company (as defined in Rule 12b-2 of the Act), and the Company’s primary business is now that of the CreateApp business. As a result of the CreateApp business acquisition, the Company now offers solutions that help small-to-medium-sized businesses (“SMBs”) to provide access to and reduce transaction friction of e-commerce for their clients globally. The Company’s solutions are provided through its core platform, operated as CreateApp (https://www.createapp.com/), which allows SMBs to establish their point-of-presence on the web.
+
+The Company’s CreateApp platform enables SMBs to create a mobile app for their business without the need of technical knowledge, high investment, or background in IT by utilizing CreateApp, which is a platform that is offered as a Platform as a Service (“PaaS”). The Company provides its PaaS to SMBs in a wide variety of industry sectors.
+
+Management believes the assumptions underlying the condensed financial statements are reasonable. However, the amounts recorded for the Company’s related party transactions with Logiq and its consolidated subsidiaries may not be considered arm’s length with an unrelated third party. Therefore, the condensed financial statements included herein may not necessarily reflect the results of operations, financial position and cash flows had the Company engaged in such transactions with an unrelated third party during all periods presented. Accordingly, the Company’s historical financial information is not necessarily indicative of what the Company’s results of operations, financial position and cash flows will be in the future, if and when the Company contracts at arm’s length with unrelated third parties for products and services the Company receives from and provides to Logiq.
+
+CreateApp Acquisition
+
+On December 15, 2021, the Company entered into a Separation Agreement (the “Separation Agreement”) and Master Distribution Agreement (the “Master Distribution Agreement”), with Logiq, Inc., a Delaware corporation (“Logiq”), pursuant to which, at the closing thereof (the “Closing”), the Company agreed to purchase and acquire from Logiq its platform (operated as CreateApp) (the “CreateApp Acquisition”).
+
+
+
+1
+-
+
+
+
+The Company and Logiq also entered into a Tax Sharing Agreement (the “Tax Sharing Agreement”) and Transition Services Agreement (the “Transition Services Agreement”), on the same date. The Tax Sharing Agreement provides for the allocation between the Company and Logiq of payment of tax liabilities and entitlement to refunds thereof, allocate responsibility for, and cooperation in, the filing of tax returns, and provide for certain other matters relating to taxes. The Transition Services Agreement provides for the transition in connection with the Master Distribution Agreement.
+
+The Separation Agreement, Master Distribution Agreement, Tax Sharing Agreement and Transition Services Agreement (the “CreateApp Transaction Agreements”) and the transactions contemplated thereby, were approved by the board of directors of the Company and Logiq.
+
+Closing of the CreateApp Acquisition occurred on January 27, 2022, at which time the Company acquired the CreateApp platform (and certain other assets) from Logiq in exchange for the issuance 26,350,756 common shares of the Company to Logiq in accordance with the terms of the Master Distribution Agreement (the “Asset Sale”).
+
+Logiq owned 26,350,756 shares of Company common stock issued upon Closing (as discussed above), and Logiq’s wholly owned subsidiary Gologiq LLC (“Gologiq”) owned an additional 4,500,000 shares of Company common stock. Logiq distributed, on a pro rata basis, all 26,350,756 of its Lovarra shares to Logiq’s shareholders (the “Distribution,” or, the “Spin Off”) of record as of December 30, 2021 (the “Record Date”), which Distribution of said shares occurred on July 27, 2022.  (the “Distribution Date”).
+
+A summary of the material terms of the CreateApp Transaction Documents is set forth below.
+
+Master Distribution Agreement and Separation Agreement
+
+The Company and LGIQ entered into a Master Distribution Agreement and Separation Agreement, which set forth the terms of the Separation and the subsequent Distribution. Pursuant to these agreements, Logiq agreed to assign, transfer, convey and deliver (or cause one or more of its subsidiaries to do so) its CreateApp business and all of the CreateApp assets to the Company in exchange for the assumption by the Company of the liabilities of CreateApp and the issuance of shares of the Company to Logiq, which shares were then distributed to the shareholders of Logiq as the Record Date as provided in the Distribution as part of the Spin Off.
+
+The Shares of the Company were distributed on the Distribution Date pursuant to a stock dividend to Logiq shareholders of record as of the Record Date in a dividend ratio of one Company share for each one share of Logiq held by Logiq’s shareholders on the Record Date (the “Dividend Ratio”).
+
+Upon Closing, Logiq retained its DataLogiq business, as well as certain other excluded assets, as specified in the Separation and Master Distribution Agreements. As a result of the Spin Off, following the Distribution Date, the Company became owned by the stockholders of Logiq and ceased to be a subsidiary of Logiq so that Logiq and the Company operate as two separate public companies, with Logiq operating its DataLogiq business and the Company operating the CreateApp business.
+
+The Separation and Master Distribution Agreements do not include representations and warranties regarding any assets or liabilities transferred or assumed, any consents or approvals that may be required in connection with these transfers or assumptions, the value or freedom from any lien or other security interest of any assets transferred, the absence of any defenses relating to any claim of either party or the legal sufficiency of any conveyance documents. Except as expressly set forth in the separation and distribution agreement, all assets will be transferred on an “as is,” “where is” basis.
+
+
+
+2
+-
+
+
+
+The Separation and Master Distribution Agreements govern each of the parties’ rights and obligations regarding the Spin Off. Prior to consummation of the Distribution, the Company would deliver all of its issued and outstanding shares of common stock held by Logiq to a distribution agent. On the Distribution Date, the Company would instruct the distribution agent to electronically deliver such shares of its common stock to Logiq’s shareholders as of the Record Date based on the Dividend Ratio. As noted above, the Distribution was consummated on July 27, 2022.
+
+Pursuant to the Separation Agreement and Master Distribution Agreements, each of the parties agreed to release the other and its affiliates, successors and assigns, and all persons that prior to the Spin Off have been the other’s shareholders, directors, officers, members, agents and employees, and their respective heirs, executors, administrators, successors and assigns, from any claims against any of them that arise out of or relate to events, circumstances or actions occurring or failing to occur or any conditions existing at or prior to the time of the distribution. These releases are subject to exceptions set forth in the respective separation and distribution agreements. In addition, each of the parties agreed to indemnify the other and each of the other’s past and present directors, officers and employees, and each of their successors and assigns, against certain liabilities incurred in connection with the Spin Off and the parties’ respective businesses. The amount of either parties’ indemnification obligations will be reduced by any insurance proceeds the party being indemnified receives.
+
+Tax Sharing Agreement
+
+In addition, the Company and Logiq entered into a Tax Sharing Agreement, which agreement governs each of the parties’ respective rights, responsibilities and obligations with respect to taxes for any tax period ending on or before the Distribution Date, as well as tax periods beginning before and ending after the Distribution Date. Generally, (i) Logiq will be liable for all pre-distribution U.S. federal income taxes, foreign income taxes and non-income taxes attributable to (x) Logiq’s DataLogiq business and (y) at least one asset or activity that is part of Logiq’s DataLogiq business and at least one asset or activity that is part of the CreateApp business; and (ii) the Company will be liable for all pre-distribution U.S. federal income taxes, foreign income taxes and non-income taxes attributable solely to the CreateApp business.
+Transition Services Agreement
+
+Last, the Company and Logiq also entered into a Transition Services Agreement, pursuant to which the Company and Logiq agreed to provide and/or make available various administrative services and assets (each, a “Service,” and collectively, the “Services”) to each other during the transition period commencing on Closing and ending on the earlier of (i) the date that one of the parties terminates the provision of any given Service pursuant to the agreement and (ii) the date agreed upon by the parties with respect to such Service, which is expected to be an approximately 13 month period. Services to be provided by Logiq to the Company include, amongst other things, certain services related to finance, taxation, legal/compliance, SEC compliance, regulatory, risk, human resources, payroll, public relations, marketing and advertising, facilities and information technology. Services to be provided by the Company to Logiq include, amongst other things, certain services related to finance, taxation, legal/compliance, SEC compliance, regulatory, risk and public relations. In consideration for such services, the Company and Logiq will each pay fees to the other for the services provided, and those fees will generally be in amounts intended to allow the party providing services to recover all of its direct and indirect costs incurred in providing those services.
+
+The personnel performing services under the transition services agreement will be employees and/or independent contractors of the party providing the service and will not be under the direction or control of the party to whom the service is being provided. The transition services agreement also contains customary mutual indemnification provisions.
+
+The CreateApp Transaction Agreements govern the contractual rights between the parties in relation to the transactions contemplated thereby and contain customary representations and warranties and pre- and post-closing covenants of each party.
+
+
+
+3
+-
+
+Business Overview
+
+As a result of the CreateApp Acquisition, the Company is no longer a shell company (as defined in Rule 12b-2 of the Act), and the Company’s primary business is now that of CreateApp. The disclosures in Items 1 and 1A of this Report give effect to the CreateApp Acquisition.
+
+We offer solutions that help small-to-medium-sized businesses (“SMBs”) to provide access to and reduce transaction friction of e-commerce for their clients globally. Our solutions are provided through our core platform, operated as CreateApp (https://www.createapp.com/) (“CreateApp”), which allows SMBs to establish their point-of-presence on the web.
+
+Our CreateApp platform enables SMBs to create a mobile app for their business without the need of technical knowledge, high investment, or background in IT by utilizing CreateApp, which is a platform that is offered as a Platform as a Service (“PaaS”).
+
+We provide our PaaS to SMBs in a wide variety of industry sectors. We believe that SMBs can increase their sales, reach more customers, and promote their products and services using our affordable and cost-effective solutions. We recognize revenue on a pay to use subscription basis when our customers use our PaaS platform to create mobile apps for their business.
+
+Products
+
+General
+
+Since 2017, CreateApp has been focused on enabling mobile commerce via its enhanced platform offered on a PaaS basis, along with its e-wallet initiative. As of the date of this Report, we offer the following products (each of which is described below): (i) CreateApp, (ii) Paylogiq; and (iii) Gologiq.
+
+CreateApp
+
+CreateApp, our core product and PaaS, allows SMBs to create mobile apps for their business without the need of technical knowledge, high investment, or background in IT.
+
+CreateApp has evolved since 2017 to capitalize on the immediate opportunity for developing a larger network of valuable users and merchants by developing services that will enable the adoption of mobile commerce across Greater South East Asia and the United States. The platform enhancements have taken our technology from a standalone “do-it-yourself” (“DIY”) app builder to an enhanced platform built to enable mobile commerce by empowering users to create their own e-commerce and mobile-commerce ecosystem.
+
+Beginning in 2019, CreateApp focused on scaling this business model by continuing to develop and expand strategic partnerships that would increase the number of users, and the merchants available to users, of its products on a PaaS basis. These efforts expanded on the success of recent product launches representative of the PaaS platform strategy and product offerings with our strategic partners. We believe that supporting these initiatives through deeper engagement, interaction, and co-marketing/sales substantially benefited the CreateApp business in 2018 and 2019. As a result, CreateApp’s year-over-year revenues increased significantly in 2018 and 2019. For 2022 as compared to prior years, CreateApp worked to improve gross profit margins while reducing older, white-label partnership revenues and although year-over-year revenues decreased, the gross profits margins improved.  
+
+Paylogiq
+
+Launched in late 2017 as an e-wallet initiative, Paylogiq is a ‘consumer facing’ product offering that supports the PaaS strategy developed by the enhancements to the CreateApp platform providing payment capabilities to users of the platform. Moreover, Paylogiq is designed to be a robust and universal payment platform, and its growth is therefore not limited to our CreateApp PaaS customers alone.
+
+4
+-
+
+Gologiq
+
+Gologiq is a PaaS platform that provides mobile payment capabilities for the local food delivery service industry. Logiq launched Gologiq in the fall of 2019 in Jakarta, Indonesia. We plan to fully evaluate all options for the Gologiq platform in order to increase user growth and regional expansion with its unique pedestrian-powered approach to urban food delivery.
+Product Development
+
+We expect that the development of our software will focus on expanding product lines, designing enhancements to our core technologies, and integrating existing and new products into our principal software architecture and platform technologies. We intend to continue to offer regular updates to our products and to continue to look for opportunities to expand our existing suite of products and services.
+
+To date, our products have primarily been developed internally, although we have also licensed or acquired products, or portions of products, from third parties. These arrangements sometimes require us pay royalties to third parties. We intend to continue to license or otherwise acquire technology or products from third parties when it makes business sense to do so.
+
+Our CreateApp mobile commerce PaaS enables SMBs worldwide to easily create and deploy a native mobile app for their business without technical knowledge or background. We empower businesses to reach more customers, increase sales, manage logistics, and promote their products and services in an easy and affordable way. Our CreateApp mobile platform includes the Paylogiq fintech and Gologiq delivery services that have garnered great interest from potential partners due to the deep consumer data both have been acquiring since their inception.
+
+Our Strategy
+
+Our growth strategy is a multi-pronged approach, consisting of the following:
+
+
+● | Development of an end-to-end unified SaaS offering. We expect to unify all of our technology platforms into one framework to provide a streamlined user experience for customers to leverage all of our applications through a SaaS model.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand our customer base and business relationships. Today, we are already installed in major media companies and technology platforms. We intend to increase the usage of our technology and deepen technology relationships to drive increased revenue.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Focus on SMBs. We believe that there is a significant opportunity for an end-to-end advertising and marketing technology solution for SMBs seeking to grow their online sales without dealing with the many challenges of integrating multiple point solutions. We intend to continue to concentrate marketing our platforms to SMBs.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Maintain innovation. We will continue to develop and introduce new features and improved functionality to our platforms. Key initiatives include development of easy-to-use self-serve platforms for SMBs, and continued development of AI-driven marketing technologies.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sales and Marketing
+
+Our sales and marketing efforts are focused on promoting sales, producing expert content and brand awareness. We believe that the resellers agreements signed by CreateApp in 2015, 2016, and 2017 created a large enough addressable market opportunity to generate sales and profits in a scalable manner, grow our business and enhance shareholder value.  Given the nature of DIY mobile apps and the primary target market of SMBs, a typical go-to-market strategy would have a direct sales force or resellers approach SMBs directly to drive our revenue.
+
+We intend to continue CreateApp’s evolution of its PaaS platform with two distinct market paths to drive recurring revenue business model: 
+
+
+(i) | Cooperation agreements in countries/regions where our partners are responsible for targeting SMBs either through an installed base of customers or groups of direct sellers with a sales and marketing team focusing on end customers.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(ii) | Digital wallet or e-wallet solutions. A distinguishing characteristic of Greater South East Asia (“GSEA”) compared to the United States is the substantially lower percentage of the population in GSEA with bank accounts, credit cards, or debit cards. This creates the need for alternative payment methods, specifically e-wallets according to the International Data Corporation (“IDC”). GSEA is poised for its own payments transformation in much the same way that China has shifted to online payments. Online payments in GSEA is divided into four broad payment modes: e-wallets (such as our Paylogiq platform), credit cards, debit cards and online banking. Of these IDC experts, the e-wallet mode is expected to grow the fastest over the next five years. Drivers for GSEA’s e-wallet industry include the mismatch between internet penetration and banking penetration (which creates a structural opportunity for e-wallet), the increasing integration of e-wallets with use cases such as online games and e-commerce, and the opportunity to offer broader digital financial services using e-wallets as a foundation.
+-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+With the above strategy, we believe that we will be able to maintain a lower capital expenditure base due to the ‘level-two’ customer support vs. ‘level-one’ customer support, smaller sales and marketing teams, and the need to provide hosting services.
+
+Our CreateApp platform operates as a PaaS, allowing users to develop their own applications supplying the infrastructure and IT services, which users can access anywhere via a web or desktop browser. We recognize revenue on a pay to use subscription basis when our customers use our platform.
+
+We do not plan to compensate resellers and distributors. Instead, the end user will pay the reseller/distributor directly as well as paying for our services, for which we or our reseller/distributor in licensed territories bill the end user separately.
+
+
+
+5
+-
+
+Markets, Geography, and Seasonality
+
+Our products and services have been predominantly sold in the Southeast Asian markets. Based on historical operating results, it does not appear that our business or operations have experienced any seasonality with respect to sales, as any such seasonality appears to be unpredictable. Although we believe our customers’ historical buying patterns and budgetary cycles may be a factor that impacts our quarterly sales results going forward, we are not able to reliably predict our future sales based on seasonality because outside factors (timing, introduction of new products and services, and other economic factors impacting our industry) may also substantially impact our revenues during the year.   
+Major Customers
+
+We do not significantly depend on any individual major customers for large portions of our net sales.
+
+Research and Development
+
+Our R&D strategy is to offer cutting edge financial and e-commerce technology to our present and future customers. We intend to continue to invest in website, e-commerce platform and mobile app development. In addition, we intend to continue to develop our system support knowledge base and other internal systems.
+
+Our commercial and corporate-strategy functions will collaborate closely with our R&D team on our priorities. The R&D strategy determines what capabilities and technologies we must have in place to bring the desired solutions to market. R&D capabilities are the technical abilities to discover, develop, or scale marketable solutions. Capabilities are unlocked by a combination of technologies and assets, and focus on the outcomes. The choices of operating model and organizational design will ultimately determine how well the R&D strategy is executed. 
+
+Competition
+
+Our business, post-CreateApp Acquisition, is rapidly evolving and highly competitive. Our current and potential competitors include: (i) other DIY mobile app companies; (ii) companies that provide e-commerce and e-wallet services, including website/app development; and (ii) companies that provide infrastructure web and mobile services. We believe that the principal competitive factors in our mobile apps business include ease of use, affordability and broad range of functionality. Many of our current and potential competitors have greater resources, longer histories, more customers, and greater brand recognition. They may adopt more aggressive pricing and devote more resources to technology, functionality and ease of use and marketing. Other companies also may enter into business combinations or alliances that strengthen their competitive positions.  
+E-commerce
+
+We face competition principally from regional players that operate across several markets in the U.S., Europe, and Asia. We also face competition from single-market players in those regions. We compete to attract, engage and retain buyers based on the variety and value of products and services listed on our marketplaces, overall user experience and convenience, online communication tools, integration with mobile and networking applications and tools, quality of mobile applications, and availability of payment settlement and logistics services. We also compete to attract and retain sellers based on the number and engagement of buyers, the effectiveness and value of the marketing services we offer, commission rates and the usefulness of the services we provide including data and analytics for potential buyer targeting, cloud computing services and the availability of support services, including payment settlement and logistics services.
+E-wallet Platforms
+
+Our Paylogiq business competes primarily with credit card and debit card service providers, banks with payment processing offerings, other offline payment options and other electronic payment system operators. Paylogiq competes with these companies primarily on the basis of transaction processing speed, convenience, network size, accessibility, reliability and price. We believe the combination of the numerous physical merchant locations accepting Payloqiq, and the Paylogiq App is a significant competitive advantage because of the strong demand in GSEA for convenient forms of payment processing.
+Intellectual Property
+
+We own all software intellectual property for CreateApp as well as the eWallet platform currently operating under the brand names AtozPay and AtozGo in Indonesia (Paylogiq and Gologiq, respectively), and the global rights to market and operate in other countries worldwide.  
+Facilities
+
+Currently, we do not own any real estate. Our corporate headquarters are in a leased space comprising approximately 300 square feet of office space in New York, New York, at a rate of $820 per month.
+
+We believe that our existing facilities are sufficient to accommodate our current and future operations.
+
+Human Capital Resources
+
+We believe that our future success will depend, in part, on our ability to continue to attract, hire, and retain qualified personnel.
+
+We currently have eleven full-time contracted personnel in Singapore, Myanmar, and the United States. None of our employees are represented by a union or covered by a collective bargaining agreement.
+
+6
+-
+
+Government Approval and Effect of Government Regulations
+
+Because our core business is to provide a PaaS platform that allows SMBs to build their presence on mobile devices, we do not believe that any government agency approval is required for the products and services that we provide to our customers.
+
+However, governmental regulations, including foreign governmental regulations, may affect our business. For more information, see the section titled “Risk Factors” in this Report.
+
+Environmental Matters
+
+No significant pollution or other types of hazardous emission result from our operations, and it is not anticipated that our operations will be materially affected by federal, state or local provisions concerning environmental controls. Our costs of complying with environmental health and safety requirements have not been material.
+
+Furthermore, compliance with federal, state and local requirements regulating the discharge of materials into the environment, or otherwise relating to the protection of the environment, have not had, nor are they expected to have, any material effect on the capital expenditures, earnings or competitive position of the Company. However, we will continue to monitor emerging developments in this area.
+
+Legal Proceedings
+
+We are not currently a party to any material legal proceedings. We may, however, in the ordinary course of business face various claims brought by third parties, and we may, from time to time, make claims or take legal actions to assert our rights, including intellectual property rights as well as claims relating to employment matters and the safety or efficacy of our products. Any of these claims could subject us to costly litigation. If this were to happen, the payment of any such awards could have a material adverse effect on our business, financial condition and results of operations. Additionally, any such claims, whether or not successful, could damage our reputation and business.
+Corporate Information
+
+Our principal executive offices are located at 85 Broad Street, 16-079, New York, NY 10004 and our telephone number is (808) 829-1057. We do not incorporate the information on our website into this Report and you should not consider it part of this Report.
+Company Website
+
+We maintain a corporate Internet website at: www.Gologiq.com (for Gologiq) and https://www.createapp.com/ (for CreateApp).  
+
+The contents of these websites are not incorporated in or otherwise to be regarded as part of this Report.
+
+We file reports with the SEC, which include annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and other related filings. The SEC maintains a website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including the Company. 
+
+7
+-
+

@@ -1,0 +1,733 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | Business.
+--------+----------
+
+Corporate History and Background 
+ We were initially formed on December 19, 2018 as a Delaware corporation for the purpose of effecting a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. From the time of our formation to the time of the consummation of the Business Combination, our name was “LifeSci Acquisition Corp.” 
+ On September 25, 2020, we entered into the Merger Agreement. At the effective time of the Merger, each share of Legacy Vincera Pharma Common Stock, other than any Dissenting Shares (as defined in the Merger Agreement), was canceled and the Legacy Holders received (i) 0.570895 shares of our common stock, for each share of Legacy Vincera Pharma Common Stock held by them immediately prior to the effective time of the Merger and (ii) certain rights to additional shares of our common stock (“Earnout Shares”) after the closing of the Business Combination. 
+ The Legacy Holders are entitled to receive Earnout Shares after the closing of the Business Combination if the daily volume-weighted average price of our common stock equals or exceeds the following prices for any 20 trading days within any 30 trading-day period (the “Trading Period”), following the closing of the Business Combination: (1) during any Trading Period prior to the forty-two (42) month anniversary of the closing of the Business Combination, upon achievement of a daily volume-weighted average price of at least $20.00 per share, such number of shares of our common stock as equals the quotient of $20.0 million divided by the Closing Price Per Share (as defined in the Merger Agreement); (2) during any Trading Period prior to the six year anniversary of the closing, upon achievement of a daily volume-weighted average price of at least $35.00 per share, such number of shares of our common stock as equals the quotient of $20.0 million divided by the Closing Price Per Share; and (3) during any Trading Period prior to the eight year anniversary of the closing, upon achievement of a daily volume-weighted average price of at least $45.00 per share, such number of shares of our common stock as equals the quotient of $20.0 million divided by the Closing Price Per Share. A total of 90.6% (rounded to the nearest whole share) of the Earnout Shares then earned and issuable shall be issued to the Legacy Holders on a pro-rata basis based on the percentage of the number of shares of Legacy Vincera Pharma Common Stock owned by them immediately prior to the closing of the Business Combination, and the remaining Earnout Shares that would otherwise have been issuable shall not be issuable to the Legacy Holders but in lieu thereof the number of authorized shares available for issuance under the Vincerx Pharma, Inc. 2020 Stock Incentive Plan shall be automatically increased by an equivalent number of shares of our common stock. 
+ The aggregate value of the shares of our common stock received by the Legacy Holders pursuant to the Merger Agreement was $55.0 million and the aggregate value of Earnout Shares that the Legacy Holders are eligible to receive, subject to certain conditions, is an aggregate of up to $60.0 million. 
+ Overview 
+ We are a clinical-stage biopharmaceutical company committed to developing differentiated and novel therapies to address the unmet medical needs of patients with cancer. 
+ We have brought together a management team with over 120 years of combined experience in oncology and a proven track record of successful drug development, approvals, and value creation. Our management team comes from companies like Pharmacyclics LLC (“Pharmacyclics”), Acerta Pharma, AstraZeneca plc (“AstraZeneca”), Bayer, Amgen Inc., Genentech Inc., and Janssen Pharmaceuticals (“Janssen”) and have contributed to significant blockbuster exits such as the $7B acquisition of Acerta Pharma’s Calquence® by AstraZeneca and the $975M Imbruvica® partnership between Janssen and Pharmacyclics. 
+ 
+6 
+
+
+ Our current pipeline consists of enitociclib, currently in Phase 1, and a proprietary modular bioconjugation platform, which includes a small molecule drug-conjugate, VIP236, in Phase 1, and preclinical next-generation antibody drug-conjugates, VIP943 and VIP924. Our pipeline is entirely derived from the Bayer License Agreement, pursuant to which we have been granted an exclusive, royalty-bearing, worldwide license under certain Bayer patents and know-how to develop, use, manufacture, commercialize, sublicense, and distribute multiple clinical and preclinical stage compounds. We intend to use these product candidates to treat various cancers in a patient-specific, targeted approach. We believe that these product candidates are differentiated from current programs targeting similar cancer biology and, if approved, may improve clinical outcomes of patients with cancer. Certain of the references in this report to preclinical and clinical studies regarding the Bayer assets refer to preclinical and clinical studies conducted by Bayer or other third parties before we in-licensed these assets. 
+ We believe that our differentiated pipeline, along with our management team, position us to successfully develop paradigm-shifting therapies for patients. 
+ Strategy 
+ Our goal is to develop multiple products through clinical proof-of-concept and potentially through approval in the United States. Our near-term objectives are to: 
+ 
+
+• | Continue the clinical development of enitociclib
+--+-------------------------------------------------
+
+
+• | Begin clinical trials with our SMDC (VIP236) in Q1 2023
+--+--------------------------------------------------------
+
+
+• | Begin clinical trials with our first next-generation ADC (VIP943) in the second half of 2023 and with VIP924 in 2024
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | Selectively enter into strategic partnerships to maximize the potential of our pipeline and bioconjugation platform
+--+--------------------------------------------------------------------------------------------------------------------
+
+ Our ability to achieve these goals will be dependent on a number of factors as described in the section titled “Risk Factors.” 
+ Our Product Candidate Pipeline 
+ 
+
+
+7 
+
+
+ P-TEFb Program 
+ Enitociclib, a highly selective CDK9 inhibitor, is designed to be administered intravenously and is in Phase 1 studies in patients with hematologic malignancies. 
+ Scientific Overview of Oncogenes and Transcriptional Regulation in Cancer 
+ Oncogenes (i.e., genes that drive cancer) are induced by mutations of normal genes that result in the loss of normal cell-growth control and lead to the formation of cancers. Expression of these oncogenes often requires dysregulation of transcription (i.e., the biologic process by which genes are activated or regulated) and has been termed “transcriptional addiction.” Therefore, agents that can target the transcriptional machinery active in cancer cells may have significant utility in treating patients with cancer. Cyclin-dependent kinases such as CDK7 and CDK9 control transcriptional initiation and elongation, respectively, suggesting that inhibition of these regulators of transcriptional activity may be very effective in controlling cancer. 
+ The first-generation CDK inhibitors developed were relatively nonspecific and are often referred to as “pan-CDK” inhibitors (e.g., flavopiridol and seliciclib) and had non-CDK targets. Although these pan-CDK inhibitors showed great promise in preclinical models, they have proven to have a narrow range of doses that produces therapeutic response without causing significant adverse effects (i.e., narrow therapeutic window) in patients in clinical trials. After the generally disappointing results seen in clinical trials with non-selective CDK inhibitors, the importance of selectivity of compounds for specific CDKs, absence of alternative targets, and patient selection is now widely accepted. For example, three different CDK4/6 inhibitors (abemaciclib, palbociclib, and ribociclib) are now approved for the treatment of metastatic breast cancer. To date, no drugs specifically targeting CDK9 have been approved. However, there are several drugs in clinical trials targeting CDK9, such as dinaciclib, AZD5473, CYC065, KB-0742, alvocidib (formerly flavopiridol), and voruciclib. Dinaciclib was evaluated in a Phase 3 trial of patients with relapsed or refractory CLL and demonstrated clinical activity but did not complete registration studies due to program prioritization decisions by Merck & Co, Inc. Alvocidib (a pan-CDK inhibitor) has been evaluated in Phase 2 trials in AML and has shown signs of clinical activity. Enitociclib was designed to be a highly selective CDK9 inhibitor compared with other agents currently in clinical trials. We believe a highly selective CDK9 inhibitor will have a better therapeutic window than less selective inhibitors. 
+ P-TEFb/CDK9: A Potential Target for Oncology 
+ P-TEFb is an intracellular protein composed of two subunits, CDK9 and Cyclin T, and is a key regulator of RNA polymerase II transcription. Transcription is the process by which the information in a strand of DNA is copied into a new molecule of mRNA. mRNA is then translated into proteins, which are the work horses of most cellular processes. 
+ The inhibition of CDK9, and therefore P-TEFb, blocks this transcription process and leads to the reduction of important cancer-driving proteins, such as MCL1 and MYC, which are oncogenes transcribed by RNA polymerase II. MCL1 is a member of the family of proteins that, when elevated, may prevent the cell from undergoing cell death, otherwise known as anti-apoptotic proteins. MYC is a transcription factor regulating cell proliferation and growth that contributes to many cancers and is frequently associated with poor prognosis and unfavorable patient survival. 
+ To date MCL1 and MYC proteins have not been successfully targeted directly. Both oncogenes have been found to be drivers of several malignancies across solid tumors (e.g., triple negative breast cancer and ovarian cancer) and blood cancers (e.g., DH- DLBCL and CLL). Blocking the transcription of MCL1 and MYC is an indirect way of blocking the activity of MCL1 and MYC by essentially shutting down the production of the proteins at inception. 
+ 
+8 
+
+
+ Enitociclib is designed as a highly selective CDK9 inhibitor that retains its potency in both low and high adenosine triphosphate environments that has shown more selectivity than other CDK9 inhibitors in development, such as fadraciclib, KB-0742, and AZD4573. Enitociclib binds to and blocks the phosphorylation activity of CDK9, thereby preventing P-TEFb-mediated activation of RNA polymerase II and leading to the inhibition of transcription of various oncogenes. We believe this will cause cell death, which may lead to a reduction in tumor cell proliferation. 
+ Enitociclib is the Most Selective CDK9 Inhibitor in Clinical Development 
+ 
+
+Target | | Enitociclib | | | Fadraciclib | | Flavopiridol | | KB-0742 | | AZD4573 | 
+ | Kd [nM] | | | Kd [nM] | | Kd [nM] | | Kd [nM] | | Kd [nM] | 
+CDK9 | | | 0.57 | | | 63 | | | 2.9 | | | 19 | 0.73 
+CDK1 | | | >1000-fold | | | >10-fold | | | >50-fold | | | >10-fold | <10-fold
+CDK2 | | | >1000-fold | | | <10-fold | | | >250-fold | | | >10-fold | <10-fold
+CDK3 | | | >1000-fold | | | <10-fold | | | >100-fold | | | >10-fold | <10-fold
+CDK4-cyclinD1 | | | >250-fold | | | <10-fold | | | <10-fold | | | >10-fold | <10-fold
+CDK4-cyclinD3 | | | >100-fold | | | <10-fold | | | <10-fold | | | >10-fold | >10-fold
+CDK5 | | | >1000-fold | | | <10-fold | | | >10-fold | | | >10-fold | >50-fold
+CDK6 | | | >1000-fold | | | >10-fold | | | >250-fold | | | >10-fold | <10-fold
+CDK7 | | | >50-fold | | | <10-fold | | | >10-fold | | | <10-fold | <10-fold
+GSK3A | | | >10-fold | | | >10-fold | | | >100-fold | | | >10-fold | <10-fold
+IRAK1 | | | >100-fold | | | >10-fold | | | >250-fold | | | >10-fold | >10-fold
+Fold difference relative to Kd values determined for CDK9. | | | | | | | | | | 
+
+Enitociclib Retains Potency at Low and High Adenosine Triphosphate (“ATP”) Concentrations 
+ 
+
+Compound | Enitociclib | | Fadraciclib | | Flavopiridol | KB-0742 | AZD4573 | 
+IC50 (nM) at 10 µM ATP | | 4.52 | | 28.20 | | 5.96 | | 29.40 | 3.20
+IC50 (nM) at 2 mM ATP | | 11.80 | | 1.670 | | 32.80 | | 1.130 | 4.22
+
+Preclinical Results 
+ Enitociclib Pharmacodynamics in a Multiple Myeloma Mouse Xenograft Model
+The pharmacodynamic activity of enitociclib was assessed as a single-drug therapy (i.e., monotherapy) in mice implanted with human multiple myeloma tumors. In this study, a single dose of enitociclib was administered intravenously. After administration, a rapid reduction of MCL1 and MYC mRNA levels and a durable reduction of MYC protein levels were observed, which ultimately induced tumor cell death as marked by increases in processed caspase-3 and down-stream target cleaved poly ADP ribose polymerase (i.e., markers of cell death by apoptosis). 
+ Inhibition of CDK9 results in inhibition of RNA Polymerase II phosphorylation at the Ser2 residue (phospho-Ser2). The figure below shows enitociclib inhibits phospho-Ser2 for 24 to 48 hours compared with <24 hours of inhibition for two other CDK9 inhibitors, atuveciclib and KB-0742.
+
+9 
+
+
+ In Vitro Study Evaluating 3 CDK9 Inhibitors (Enitociclib, Atuveciclib and KB-0742)
+in MYC Expressing DLBCL Cell Lines 
+ 
+In these cell lines, enitociclib at 1 µM also delivered sustained MYC and MCL1 protein depletion for 48 hours, which translated into higher cell kill than observed with the same concentrations of atuveciclib or KB-0742.
+The anticancer activity of enitociclib was assessed as a monotherapy in a mouse subcutaneous model of DH- DLBCL. In this study, once weekly doses of enitociclib were administered intravenously. After administration, tumor regression was observed as shown below. In addition, after a period of regrowth, treatment with enitociclib retained its potency. 
+ Weekly Infusions of Enitociclib Cause Tumor Regression in DH- DLBCL (SU-DHL-10) Mouse Model 
+ 
+
+Enitociclib Targets P-TEFb in CLL 
+ CDK9s like dinaciclib and flavopiridol have shown monotherapy efficacy (overall response rate 25%-40%, progression-free survival 7.5-13.7 months) in phase 2/3 trials and, much like venetoclax, enitociclib also targets the anti-apoptotic pathway by down regulation of MCL1. In recent publications done in collaboration with Ohio State University and published in Leukemia, we showed enitociclib activity in in vitro and in vivo models of CLL. In a CLL cell line, enitociclib down-regulated the phosphorylation of the CDK9 target RNA polymerase II, resulting in subsequent decrease in protein expression of MCL1 and MYC. In a CLL mouse model, enitociclib reduced tumor burden and improved overall survival. In samples from patients with high-risk CLL who relapsed or were refractory to a BTK inhibitor and venetoclax, enitociclib was cytotoxic, indicating that these parameters should not hinder enitociclib efficacy in a difficult to treat CLL patient population and thus enitociclib may deliver residual disease eradication in combination with a BTK inhibitor. 
+ 
+10 
+
+
+ 
+Depletion of MCL1 and MYC Protein Through RNA Polymerase II Phosphorylation Reduction in HG-3 Cell Line | Weekly Dosing Decreases Peripheral Disease in a Circulating CLL Mouse Model n=10 per arm, * = p <0.05, ** = p <0.005 
+Cytotoxicity in Cells Derived from CLL Patients Who Are Relapsed and Refractory to Ibrutinib and Venetoclax With TP53 Mutations
+
+Clinical Trials 
+ Study 18117: Enitociclib Dose-Escalation Study in Relapsed and Refractory Leukemia 
+ In a study conducted by Bayer, enitociclib was evaluated in an open-label, multicenter Phase 1 study, which assessed the safety, tolerability, preliminary anti-tumor activity, pharmacokinetics, and maximum tolerated dose of enitociclib in patients with advanced hematologic malignancies. This study was completed early with only 21 patients with relapsed/refractory AML treated (dose levels tested: 5 to 30 mg; 21-day cycles; 30-minute infusions) due to inadequate monotherapy activity in an unselected AML patient population. A similar safety profile was observed across each of the four dose levels explored, with no dose-limiting toxicities reported—the most common adverse events included gastrointestinal side effects and cytopenia. No patients with other hematologic malignancies were included in this study (e.g., CLL or myelodysplastic syndrome). 
+ Study VNC-152-101 (Formerly Bayer Study 17496): Safety, Efficacy, and Expanded Cohorts 
+ Bayer also initiated an open-label Phase 1 dose escalation study (Bayer 17496) designed to evaluate enitociclib as a monotherapy in patients with advanced cancer, including solid tumors and non-Hodgkin lymphoma, after failure of prior standard therapies. The objective of the study was to determine the safety, preliminary antitumor activity, tolerability, pharmacokinetics, and maximum tolerated dose of enitociclib. 
+ The study enrolled 31 patients in the dose escalation portion of the study, then an expansion cohort for DH-DLBCL was opened (n=6). Initial results from this study suggest that single agent enitociclib has a 
+ 
+11 
+
+
+  manageable safety profile, apparent dose-proportional pharmacokinetics, and on-target pharmacodynamic activity. Enitociclib demonstrated a rapid reduction in MCL1 and MYC mRNA in peripheral blood cells. The initial signs of clinical benefit include: 
+ 
+
+• | Stable disease was observed in individual patients with pancreatic cancer and salivary gland cancer (9.5 and 16.8 months of treatment, respectively).
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Of 7 patients with DH- DLBCL treated with enitociclib 30 mg once weekly, 2 patients had complete metabolic remissions (CMR); both achieved CMR after 10 cycles. When treatment ended due to the COVID pandemic (i.e., patients had been in long remission and did not want to risk COVID infection at the hospital), both were still in CMR. One had been receiving treatment for 3.7 years and the other for 2.3 years. Both patients continue in full remission approximately two years after stopping treatment with enitociclib.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In 2021, Vincerx took over the IND and all active trials for enitociclib. The Bayer study 17496 was renamed VNC-152-101 and our team focused on adding new cohorts and enrolling additional patients to the ongoing trial. Due to the promising responses seen in the two patients with DH-DLBCL in the earlier Bayer study, the new cohorts focused on enrolling more patients in this population, specifically patients with MYC-aberrations.
+In total, the VNC-152-101study enrolled 63 patients (Bayer enrolled 37 subjects [31 in dose escalation and 6 in a DH-DLBCL expansion] and Vincerx enrolled 26 subjects [Phase 1b in 9=NHL and 17=solid tumors]) at doses between 5 to 30 mg. Below is an overview of the safety and efficacy data for all patients enrolled with a data cut of December 3, 2022. 
+ Total Enrollment by Cancer Type—VNC-152-101
+
+
+Cancer Type, n(%) | 
+Appendix | 2 | ( 3.2) 
+Breast | 2 | ( 3.2) 
+Burkitt Lymphoma | 1 | ( 1.6) 
+Chordoma | 1 | ( 1.6) 
+Colon and Rectal | 6 | ( 9.5) 
+DH-DLBCL | 11 | ( 17.5)
+DLBCL—(Richter syndrome) | 1 | ( 1.6) 
+Esophageal | 4 | ( 6.3) 
+Gallbladder | 1 | ( 1.6) 
+Gynecologic (non-ovarian) | 2 | ( 4.8) 
+Mantle Cell Lymphoma | 1 | ( 1.6) 
+Melanoma | 2 | ( 3.2) 
+Nasopharageal | 1 | ( 1.6) 
+Ovarian | 10 | ( 14.3)
+Pancreatic | 5 | ( 7.9) 
+Prostate | 1 | ( 1.6) 
+Renal Cell Carcinoma | 1 | ( 1.6) 
+Salivary Gland | 1 | ( 1.6) 
+Supraglottis | 1 | ( 1.6) 
+Triple Negative Breast Cancer | 6 | ( 9.5) 
+Thymoma | 1 | ( 1.6) 
+Transformed Follicular Lymphoma | 1 | ( 1.6) 
+Triple Hit DLBCL | 1 | ( 1.6) 
+
+ 
+12 
+
+
+ The safety profile of enitociclib monotherapy remains consistent and tolerable, with gastrointestinal adverse events being the most common, along with neutropenia, which is an expected on-target toxicity and is well managed with supportive care. The most common adverse events were Grade 1 and Grade 2. The table below provides an overview of the pooled safety analysis for the 63 patients. 
+ Pooled Safety Analysis Study VNC-152-101: (n=63) 
+ 
+
+Adverse Events (>15%) | | Any Gr | | | Gr 1 | | Gr 2 | | Gr 3 | | Gr 4 | | | Gr 5
+ | n (%) | | | n (%) | | n (%) | | n (%) | | n (%) | | | n (%) | 
+Nausea | | | 41(65.1) | | | 24(38.1) | | | 17(27.0) | | | 0 | | | 0 | 0
+Vomiting | | | 32(50.8) | | | 21(33.3) | | | 11(17.5) | | | 0 | | | 0 | 0
+Fatigue | | | 21(33.3) | | | 10(15.9) | | | 10(15.9) | | | 1(1.6) | | | 0 | 0
+Anemia | | | 20(31.7) | | | 6(9.5) | | | 8(12.7) | | | 6(9.5) | | | 0 | 0
+Diarrhea | | | 22(34.9) | | | 17(27.0) | | | 5(7.9) | | | 0 | | | 0 | 0
+Neutropenia | | | 14(22.2) | | | 0 | | | 5(7.9) | | | 5(7.9) | | | 4(6.3) | 0
+Constipation | | | 12(19.0) | | | 9(14.3) | | | 2(3.2) | | | 1(1.6) | | | 0 | 0
+
+ Note: Adverse events selected that were any grade > or equal to 15% incidence 
+ In addition to the two DH-DLBCL patients who achieved a complete metabolic remission, we also observed one patient with transformed follicular and 13 patients with solid tumors who achieved stable disease as a best response: 1 patient with salivary gland cancer (24 cycles), 5 ovarian cancer patients (from 1 to 10 cycles), 2 patients with pancreatic cancer (3 and 14 cycles), 2 patients with esophageal/nasopharyngeal cancer (2 and 3 cycles), 1 patient with appendix cancer (4 cycles), 1 patient with clival chordoma (4 cycles) and 1 patient with breast cancer (3 cycles). 
+ 
+
+
+13 
+
+
+ Additionally, we observed reduction in tumor volume across various indications. 
+ 
+
+Study VNC-152-101: VIP152 Pharmacokinetics and Pharmacodynamics 
+ The pharmacokinetic and pharmacodynamic effects of enitociclib were evaluated in Study VNC-152-101. After a 30-minute IV infusion of enitociclib, maximum concentrations were typically observed near the end of infusion. Enitociclib exposures were approximately dose proportional, though an overlap in concentrations occurred between the 22.5- and 30-mg doses, likely due to patient variability (Panel A below). At 30 mg, which was declared as the maximum tolerated dose, day 1 AUC was 2780 µg·h/L, which is in the lower range of the predicted minimum therapeutic exposure based on MOLM-13 xenograft studies in rats (Panel C). Enitociclib pharmacokinetics was comparable after single dose (C1D1) and multiple doses (C1D15), with no evidence of significant accumulation or alteration in general pharmacokinetic properties (Panel B). 
+ For all doses, down regulation of MYC (Panel D) and MCL-1 mRNA levels compared with baseline were detected in peripheral blood cells. Down regulation was dose- and time-dependent with maximal pathway inhibition achieved at the two highest dose levels (22.5 and 30 mg). 
+ 
+14 
+
+
+ Enitociclib Pharmacokinetic and Pharmacodynamic Activity in Patient Samples 
+ 
+
+Study VNC-152-102: Enitociclib in CLL 
+ The introduction and regulatory approval of therapeutic agents targeting BTK as irreversible inhibitors (ibrutinib, acalabrutinib, and zanubrutinib) and BCL-2 (venetoclax) have transformed the therapeutic approach to treating patients with CLL. While beneficial, each of these therapeutic agents offer limitations that greatly impact patients with CLL, in particular patients with del(17p) or TP53 mutations. 
+ When given as a monotherapy or in combination with anti-CD20 antibodies (rituximab, obinutuzumab), BTK inhibitors are administered until the patient progresses or they become intolerant to the drug. Often, this means that patients will remain on treatment for the rest of their lives, never achieving a complete remission. Additionally, the exposure to continuous therapy frequently leads to short- and long-term toxicities from infections, atrial and ventricular arrythmias, hypertension, secondary cancers, and excessive therapy costs. Because of its favorable safety profile and the evidence of monotherapy activity observed thus far, we believe enitociclib could be a good combination partner. Our goal in combining enitociclib with a BTK inhibitor is to put patients on a time-limited treatment, thus limiting a patient’s exposure to toxicities and preventing resistance to the BTK inhibitor. This is quite relevant for the del(17p) or TP53 mutated CLL where risk of relapse and death to BTK inhibitor monotherapy is higher over time. 
+ As a first step in our CLL strategy, we began an open-label, multicenter Phase 1/1b study to characterize the safety, tolerability, preliminary antitumor activity, pharmacokinetics, and pharmacodynamics of enitociclib 
+ 
+15 
+
+
+  monotherapy or combination therapy in subjects with high-risk CLL or Richter syndrome. At the American Society of Hematology in December 2022, we presented preliminary clinical data in patients with relapsed/refractory CLL and NHL showing that enitociclib 30 mg had meaningful pharmacodynamic activity in NHL patients and that a dose of 15 mg (in CLL patients) did not demonstrate robust target modulation. The 30-mg dose of enitociclib was well-tolerated by patients with CLL, consistent with previous observations of 30 mg in NHL and solid tumor indications. 
+ Summary of P-TEFb Inhibitor Program 
+ 
+
+• | The most selective CDK9 inhibitor currently in clinical development
+--+--------------------------------------------------------------------
+
+
+• | Reproducible down-modulation of MYC and MCL1 mRNA
+--+--------------------------------------------------
+
+
+• | Best-in-class safety profile with mainly grade 1-2 toxicities reported
+--+-----------------------------------------------------------------------
+
+
+• | On-target toxicity of neutropenia is managed by once weekly dosing and supportive care
+--+---------------------------------------------------------------------------------------
+
+
+• | Favorable safety profile makes it a viable combination partner in aggressive B-cell lymphomas, CLL/RS and pediatric indications
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Durable complete responses observed in 2 patients with DH-DLBCL for ~5.5 and ~4.0 years, of which 3.7 and 2.3 years were on treatment
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Potential across multiple indications (lymphoma, myeloma, solid tumors)
+--+------------------------------------------------------------------------
+
+Our Bioconjugation Platform 
+ We obtained from Bayer an exclusive license for a proprietary modular bioconjugation platform that we believe will leverage years of Bayer discovery know-how into innovative treatment modalities. The licensed platform includes a small molecule drug-conjugate, VIP236, currently in Phase 1, and two preclinical next generation ADCs, VIP943 and VIP924, and combines cutting edge payloads and linkers designed to enhance the efficacy and safety of ADCs. 
+ The key features of our bioconjugation platform include: 
+ 
+
+• | Novel linker chemistries for tumor specific payload release by legumain, a protease with a unique cleavage sequence overexpressed in cancers;
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A toolbox of potent payload classes, including KSP inhibitors, with a novel mode of action, to address a broad range of cancer targets;
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Tunable features that allow optimization of a payload’s physicochemical profile, to match target tumor biology; and
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | Proprietary CellTrapper technology that reduces payload cell membrane permeability so the released payload cannot enter healthy cells.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+16 
+
+
+ Our Proprietary Modular Platform: Designing Bespoke Therapies 
+ 
+
+Small Molecule Drug-Conjugate: VIP236 
+ VIP236 is a first-in-class SMDC with a tailored design intended to efficiently treat patients with aggressive and metastatic cancers. VIP236 binds to activated 
+
+αvß3 integrin allowing specific homing to the tumor and is efficiently cleaved by neutrophil elastase. Both proteins are present in the tumor microenvironment, are highly expressed in advanced metastatic tumors, and are associated with poor prognosis in patients with cancer. Anticancer activity occurs after a specific and targeted release of an optimized CPT payload by neutrophil elastase in the tumor microenvironment. The CPT payload of VIP236 is optimized for high permeability with low active efflux potential to overcome transporter-mediated resistance observed with SN38, the active metabolite of irinotecan. Other ADCs use irinotecan derivatives as their payload, such as the HER-2 targeting ENHERTU®1 and TROP-2 targeting TRODELVY®2. Irinotecan is currently FDA approved for metastatic colorectal cancer after failure of fluorouracil-based therapy. 
+ 
+
+1 | ENHERTU® is a mark owned by AstraZeneca plc
+--+--------------------------------------------
+
+
+2 | TRODELVY® is a mark owned by Gilead Sciences, Inc.
+--+---------------------------------------------------
+
+ 
+17 
+
+
+ VIP236 Specifically Binds to Activated α
+vß3 Integrin in the Tumor/Tumor Microenvironment 
+ and is Cleaved by Neutrophil Elastase in the Tumor Microenvironment 
+ 
+
+Preclinical Results 
+ We have observed significant and superior tumor regression across various xenograft models with VIP236 treatment compared to standard of care. Select xenograft models for liver metastasis from colorectal cancer and triple negative breast cancer are shown below. In the triple negative breast cancer MX-1 model below, we show that VIP236 has superior tumor regression compared with the common chemotherapies, irinotecan and doxorubicin. In a model of liver metastasis resulting from colorectal cancer, VIP236 caused statistically significant tumor growth inhbition and delayed re-growth.
+Triple Negative Breast Cancer | Liver Metastasis from Colorectal Cancer
+
+ 
+18 
+
+
+ Most notably, we have observed improved in vivo efficacy of VIP236 over ENHERTU (an ADC approved specifically in HER2+gastric and gastroesophageal junction cancer). Our studies show statistically significant tumor growth inhibition with VIP236 in several gastric cancer mouse models independent of HER2 status. In the models shown below, ENHERTU has very little effect on tumor growth, while VIP236 can slow and even cause tumor regression in models no matter the expression of HER2. 
+ 
+
+NCIN87 HER2high | SNU16 HER2neg
+
+Clinical Trials 
+ VNC-236-101: First-in Human Dose-Escalation Study 
+ VIP236 is being evaluated in an open-label multicenter Phase 1 study for patients with advanced cancer. The primary goal of this study is to determine the maximum tolerated dose, safety, and tolerability of VIP236. We began dosing our first patient cohort in Q1 2023. 
+Summary VIP236: 
+ 
+
+• | First-in-class SMDC designed to selectively bind to tumor cells of metastatic cancers
+--+--------------------------------------------------------------------------------------
+
+ 
+19 
+
+
+ 
+• | Payload and linker technology drives tumor selectivity and payload activation
+--+------------------------------------------------------------------------------
+
+
+• | Optimized camptothecin overcomes SN38 transporter efflux liabilities
+--+---------------------------------------------------------------------
+
+
+• | Extracellular linker cleavage by neutrophil elastase provides selective activation
+--+-----------------------------------------------------------------------------------
+
+
+• | 10 times greater delivery of payload to tumor
+--+----------------------------------------------
+
+
+• | Demonstrates durable tumor regressions and significant reduction of metastases in vivo
+--+---------------------------------------------------------------------------------------
+
+
+• | Proven payload class in the clinic
+--+-----------------------------------
+
+
+• | IND Safe to Proceed received in December 2022
+--+----------------------------------------------
+
+Next-generation Antibody Drug-Conjugates 
+ ADCs are a validated therapeutic approach in oncology used to selectively deliver a highly potent payload directly to tumors, thereby minimizing toxicity to surrounding healthy tissue. Upon binding to the tumor cell antigen, the ADC is internalized by the tumor cell and the payload is released intracellularly, killing the cell in a targeted manner. To date, there are 12 approved ADCs in the market, over half of which were approved between 2019 and 2022. 
+ Despite the promise of ADCs, the challenge of optimizing the balance between efficacy and tolerability (i.e., therapeutic window) has limited their broad potential as treatments for cancer. In general, currently approved ADCs face three major challenges that impact their efficacy or safety: the poor selection of specific and internalizing antibodies for precise targeting of the tumor, linkers that are prone to cleave non-specifically in circulation or prior to reaching the target cells, and payloads that can diffuse out of target cells and into healthy tissue due to the physiochemical profile of the payload. Additionally, the payload classes currently used are confined to microtubule binders (e.g., auristatin, dolastatin, maytansinoid and tubulysine), DNA interacting agents (e.g., calicheamicin, duocarmycin, PBD and IGN), and topoisomerase inhibitors (e.g., SN38, camptothecin derivatives). Many of these payloads have safety issues, particularly with respect to premature release, and therefore result in an insufficient therapeutic window. 
+Solving ADC Problems with Innovative Technology 
+ 
+
+To address these issues, our proprietary modular bioconjugation platform was engineered to specifically address toxicity issues plaguing current ADCs without sacrificing efficacy. First, our linker is exclusively enzymatically cleaved by legumain, which is a lysosomal protease expressed in tumor cells. Specificity of the protease is important to avoid premature release of the payload. So, along with specific cell surface antigen targeting, a second level of tumor targeting occurs due to the selective legumain activity in the tumor cell. Additionally, we believe we are the first company to use a KSP inhibitor as an ADC payload. Kinesin spindle 
+ 
+20 
+
+
+  protein is a motor protein responsible for an essential event in mitosis, spindle formation in the G2/M phase of the cell cycle and is required for productive cell divisions. High expression of kinesin spindle protein in hematologic indications such as AML, DLBCL, and in solid cancers such as breast, bladder, and pancreatic cancer has been linked to poorer prognosis, and thus, kinesin spindle protein presents an attractive target for cancer treatment. 
+ Kinesin spindle protein is active in all proliferating cells and essential for normal mitosis. To date, multiple small molecule KSP inhibitors have been investigated in the clinic but all failed due to subpar safety. These limitations of systemically administered KSP inhibitors are associated with their non-targeted delivery leading to neutropenia, mucositis, and stomatitis in clinical trials. However, targeted delivery of a KSP inhibitor with an ADC approach, combined with our proprietary CellTrapper modification preventing unspecific cellular uptake, has the potential to address the safety problems of systemic KSPi administration. Finally, our proprietary CellTrapper technology enables the payload to accumulate inside the cell versus diffusing into non-target cells. This protects healthy cells and results in less side effects, such as neurotoxicity. 
+ Taken together, we believe these design elements overcome the narrow therapeutic window of systemically administered agents and other ADCs by ensuring targeted delivery and release, as well as ensuring that kinesin spindle protein is only inhibited in cancer cells and not in healthy tissue. 
+ We have two KSPi-ADCs, VIP943 and VIP924, in preclinical development for the treatment of hematologic malignancies: 
+ 
+
+• | VIP943 (CD123-KSPi)
+--+--------------------
+
+
+• | VIP924 (CXCR5-KSPi)
+--+--------------------
+
+ VIP943 (CD123-KSPi) 
+ Targeting CD123 
+ CD123 is the α-subunit of the IL-3 receptor. IL-3 is a protein, mainly produced by activated T cells, and regulates immune cells by binding to the IL-3 receptor. CD123 is expressed at high levels in AML, classical Hodgkin lymphoma, blastic plasmacytoid dendritic cell neoplasms, and myelodysplastic syndromes. Importantly, CD123 overexpression on AML blasts has been associated with an increased number of leukemic blast cells at diagnosis, which correlates with negative prognosis. 
+ CD123 is a viable target for an ADC approach for the treatment of AML and other CD123-positive hematologic malignancies (e.g., myelodysplastic syndrome, chronic myelogenous leukemia, and blastic plasmacytoid dendritic cell neoplasm). Characterization of hematologic malignancies has demonstrated increased CD123 expression in AML blasts as compared with normal cells. Furthermore, these CD123-overexpressing cells have been shown to initiate and maintain the leukemic process in immunodeficient mice and thus act as leukemic stem cells. Consequently, CD123 has been shown to be a useful biomarker for the detection of minimal residual disease, thereby predicting relapse in patients with AML. 
+ Preclinical Trials 
+ VIP943 is well tolerated in preclinical models—Differentiation of KSPi-ADC Platform 
+ The safety of VIP943 was evaluated in cynomolgus monkeys in two range-finding studies with single or repeated dosing. VIP943 was well-tolerated without adverse events, such as thrombocytopenia, neutropenia, or signs of liver toxicity, typically observed with ADCs containing other payload classes. In addition, mucositis, a dose-limiting toxicity for small molecule KSP inhibitors in clinical studies, was not observed. 
+ These preclinical findings demonstrate the differentiation and potential superiority of the KSPi-ADC platform compared with currently approved ADCs for hematologic malignancies, as the observed clinical toxicities in these approved agents are consistent with the toxicities observed preclinically. 
+ 
+21 
+
+
+ KSPi ADC is Designed to Address Known Safety 
+ Challenges of ADCs Approved in Hematologic Malignancies 
+ 
+
+VIP943 has also shown increased survival in AML tumor models. 
+ VIP943: IL3RA-KSPi ADC 
+ Increases Survival in AML Models 
+ 
+
+Significantly Improved Survival in AML Model • Increased survival in disseminated CD123+ AMLCDX model MOLM-13, treated Q7Dx7 • Improved efficacy of targeted vs isotype controlADC | Improved Survival and Reduction in TumorBurden in AML PDX Model • Increased survival in disseminated CD123+AML PDX model AML11655, treated Q7D • Reduction of CD45+ AML tumor burden 
+
+ At the American Society of Hematology (ASH) 2022 annual meeting, we presented promising data for VIP943 showing, for the first time, a significant improvement in safety over Mylotarg™3 (an approved anti-CD33 ADC), demonstrating in monkeys the benefit of our linker, KSPi payload and CellTrapper technology. We also showed in vivo efficacy in AML mouse models. 
+ 
+
+
+3 | Mylotarg™ is a mark owned by Pfizer Inc.
+--+-----------------------------------------
+
+ 
+22 
+
+
+ In the safety study, we compared VIP943 to Mylotarg (gemtuzumab-ozogamycin) and to an anti-CD33 mAb combined with our linker and legumain-KSPi payload (Gem-KSPi-ADC) in monkeys after a single dose. The study showed a critical drop of platelet counts and red blood cell counts with insufficient recovery as well as continuous decrease in white blood cells and lymphocytes in the Mylotarg group. We also observed a critical decrease for hemoglobin and hematocrit in the Mylotarg group, while the KSPi based ADCs showed no effect on cell populations. Additionally, the study showed increased liver enzymes and severely increased total bilirubin for animals treated with Mylotarg, indicating liver toxicity, as well as an extreme increase of urea nitrogen, indicating kidney toxicity. There were no adverse occurrences with ADCs utilizing the legumain-KSPi payload. Ultimately, one monkey treated with Mylotarg had to be euthanized due to adverse event related complications and the other monkey died on day 13 of the study. All four animals treated with our KSPi ADCs were sent safely back to the colony after the end of the study. 
+ 
+The data presented at ASH, also included results of an efficacy study in a MOLM-13 mouse model, which showed that VIP943 had superior efficacy as compared to Mylotarg. In that study, VIP943 achieved tumor regression after 2 cycles with the 2.5-mg/kg and 5.0-mg/kg dose levels, while Mylotarg and Mylotarg with our linker and payload resulted in minor tumor growth inhibition after 3 cycles. 
+ 
+23 
+
+
+ Clinical Trials 
+ We expect to submit the IND for VIP943 in mid-2023, with the goal of initiating clinical studies in the second half of 2023. 
+ VIP924 (CXCR5-KSPi) 
+ VIP924 is a first-in-class CXCR5 targeted therapy. CXCR5 regulates chemotaxis, germinal center formation, and plasma and memory B-cell differentiation. VIP924 has an internalizing antibody that binds to CXCR5, which is linked to a legumain released KSPi that drives cell death during cell division. The payload targets KSP, stopping cell division and causing catastrophic cell death. Additionally, our CellTrapper modified payload is hydrophilic and accumulates in the tumor cell for improved safety and tolerability for long-term treatment of B-cell malignancies. 
+ In preclinical studies, VIP924 induced sustained tumor regression in MCL and DLBCL models, including ibrutinib-refractory MCL cell derived models. 
+ 
+
+VIP924 Is Active in Ibrutinib-Refractory MCL In Vivo Model • Ibrutinib-refractory MCL CDX CXCR5+ REC-1model (inset) • VIP924 achieved complete remission after 2 doses | Single Dose of VIP924 in DLBCL In Vivo ModelAchieved Durable Complete Regressions • Complete regression with single dose of VIP924in CXCR5+ model OCI-LY1 (day 114) • Superior activity versus standard of care 
+
+ 
+24 
+
+
+ Summary of ADC Platform: 
+ Despite recent approvals, currently approved ADCs have a narrower than expected therapeutic window, which limits wider use (e.g., toxicity prevents reaching maximally efficacious dose or severe overlapping toxicities, such as neutropenia, with standard of care). 
+ 
+
+• | Key features of our KSPi-ADC platform were engineered to address the current challenges faced by approved ADCs:
+--+----------------------------------------------------------------------------------------------------------------
+
+
+• | Antibodies against overexpressed tumor antigens (i.e., CD123 for leukemias and CXCR5 for B-cell malignancies);
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | A nonpermeable and potent payload (i.e., hydrophilic KSPi) to accumulate in tumor cells and prevent the killing of healthy cells (i.e., payload accumulates in targeted cancer cells but cannot get into healthy cells);
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A novel linker preferentially cleaved in tumor tissue vs normal cells (i.e., linker only cleaved by legumain, an enzyme over-expressed within tumor cells);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Proprietary CellTrapper technology that reduces payload cell membrane permeability so the released payload cannot enter healthy cells;
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Preclinical results for the KSPi-ADCs show efficacy without associated toxicity observed with ADCs approved to date. Specifically, in a monkey toxicology study, VIP943 showed no neutropenia, thrombocytopenia, or liver toxicity, while Mylotarg resulted in significant toxicity and death;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | IND for VIP943 is expected in mid-2023, with first-in-human studies starting in the second half of 2023; and
+--+-------------------------------------------------------------------------------------------------------------
+
+
+• | IND for VIP924 is expected in 2024.
+--+------------------------------------
+
+Sales and Marketing 
+ Because we are a clinical-stage company, we do not currently have our own marketing, sales, or distribution capabilities. To commercialize enitociclib or any future product candidate, if approved for commercial sale and marketing, we would have to develop a sales and marketing infrastructure. We may opportunistically seek strategic collaborations or partners to maximize the commercial opportunities for our product candidates inside and outside the United States. 
+Manufacturing 
+ We do not currently own or operate manufacturing facilities for the production of clinical or commercial quantities of our drug substances or drug products, and there are a limited number of manufacturers that operate under the cGMP requirements of the FDA that might be capable of manufacturing for us. We currently intend to rely on contract manufacturing organizations, for both drug substance and drug product. In addition, we intend to recruit highly qualified personnel with experience to manage the contract manufacturing organizations producing our product candidates and other product candidates that we may develop in the future. Similarly, we do not own or operate a laboratory with expertise in diagnostic assessment of cancer subpopulations and will contract with specific commercial diagnostic labs on trials performed to assure a companion diagnostic(s) is available to accompany our therapeutic product. We will recruit highly qualified personnel with experience to manage these commercial diagnostic companies for our product candidates or those that we may develop in the future. 
+ Our outsourced approach to manufacturing relies on contract manufacturing organizations to first develop cell lines and manufacturing processes that are compliant with cGMP requirements and then produce material for preclinical studies and clinical trials. Our agreements with contract manufacturing organizations may obligate them to develop a production cell line, establish master and working cell banks, develop and qualify upstream 
+ 
+25 
+
+
+  and downstream processes, develop drug product processes, validate (and in some cases develop) suitable analytical methods for test and release as well as stability testing, produce drug substance for preclinical testing, produce cGMP-compliant drug substance, or produce cGMP-compliant drug product. We will conduct audits of contract manufacturing organizations prior to initiation of activities under these agreements and monitor operations to ensure compliance with these agreements, the mutually agreed process descriptions, and cGMP regulations. A similar approach is applied to commercial diagnostic companies that we would partner with for companion diagnostics. 
+ Competition 
+ The biotechnology industry, especially the oncology subspace, is characterized by fast-paced technological evolution, substantial competition, and a strong emphasis on intellectual property. Competitors may come from multiple sources, including specialty, pharmaceutical and biotechnology companies, public and private research organizations, academic research institutions, and governmental agencies among others. Product candidates that we may develop and potentially get approved will face competitive pressures from incumbent therapies as well as new therapies that may become available in the future. 
+ Many global pharmaceutical companies, as well as medium and small biotechnology companies, are pursuing new cancer treatments whether small molecules, biologics, ADCs, or cell or gene therapies. Any of these treatments could prove to be superior clinically to our products or product candidates and render them obsolete or non-competitive.Enitociclib 
+ Enitociclib works by targeting the CDK9 of the P-TEFb heteroduplex made up of CDK9 and Cyclin-T. To our knowledge, there are at least six other CDK9 programs in development demonstrating clinical efficacy and several are more advanced than our programs. The companies with clinical-stage programs include Merck & Co., Inc., AstraZeneca, Cyclacel Pharmaceuticals Inc., Kronos Bio, Inc., Sumitomo Dainippon Pharma Co., Ltd., and MEI Pharma, Inc. These companies and their current or future partners may develop CDK9 inhibitor programs with attributes to compete in the same indications as enitociclib. 
+ In addition, there are many other companies that are pursuing targets around the P-TEFb heteroduplex complex to affect similar transcriptional or disease processes as CDK9 inhibition may affect. Companies that are pursuing the inhibition of CDK7, CDK2, MYC, BRD4, PRMT, and related transcriptional regulators may compete in the same indications as enitociclib. These companies and their current or future partners may develop competing inhibitor programs with attributes to compete in the same indications enitociclib. 
+ Bioconjugation Platform 
+ We believe our bioconjugation platform components are well differentiated and provide us the flexibility of creating ADCs, SMDCs, or other variants to address specific needs of individual diseases. Although our SMDC and ADC programs are proprietary and, in our view, highly differentiated, many companies continue to invest in innovation in the ADC field, including new payload classes, new conjugation approaches, and new targeting moieties. Any of these initiatives could lead to ADCs that have superior properties to ours. We are aware of multiple companies with ADC technologies that may be competitive to our bioconjugation product candidates and platform, including Astellas Pharma Inc., AstraZeneca, Bristol-Myers Squibb Company, Daiichi Sankyo Company, Limited, ImmunoGen, Inc., Immunomedics, Inc., Mersana Therapeutics Inc., CytomX Therapeutics, Inc., Pyxis (which acquired Pfizer, Inc.’s ADC technology), and Seagen, Inc. These companies or their partners, including Johnson & Johnson Inc, Roche Holding AG, AbbVie Inc., Genentech, Inc., Eli Lilly and Company, Novartis International AG, Sanofi S.A., and Takeda Pharmaceutical Company Limited, may develop ADCs, SMDCs, or related bioconjugation products based on the unique capabilities of each technology to compete in the same indications as our current and future bioconjugation product candidates. 
+ 
+26 
+
+
+ We expect to compete on efficacy, safety, and tolerability, and if our products are not demonstrably superior in these respects compared with other approved therapies, we may not be able to compete effectively, rendering our technologies, or our product candidates, obsolete or non-competitive.
+Many of our potential competitors, either alone or in partnership with other players, have significantly greater financial, technical, and human resource capabilities than us. This in turn might allow them to become more successful than us in achieving treatment approvals and market acceptance, reducing the competitiveness of our product candidates, and accelerating their obsolescence. In addition, merger and acquisition activity in the pharmaceutical and biotechnology space may result in an increased concentration of resources among a smaller number of competitors. Earlier stage companies may also become relevant competitors, especially through collaborations with established companies. The areas of competition also extend to scientific and managerial talent recruitment and retention, clinical trial sites, patient registration for clinical trials, and acquisition or development of technologies that might be complementary or necessary for our drug programs. 
+ The development of a cure or more effective treatment by a competitor for any of the indications being targeted by our product candidates could render our product candidates non-competitive or obsolete, or materially reduce the demand for our product candidates. Our competitors may also obtain FDA or other regulatory approval for their product candidates faster than us, potentially resulting in a stronger market position for their products before we can get to market. 
+ Government Regulation   Regulatory authorities, in the United States as well as in foreign countries, extensively regulate, among other things, the research, development, testing, manufacture, quality control, import, export, safety, effectiveness, labeling, packaging, storage, distribution, record keeping, approval, advertising, promotion, marketing, post-approval monitoring and post-approval reporting of small molecule drugs and biologics such as those we are developing. 
+FDA Drug Approval Process 
+ In the United States, drug products are subject to regulation by the FDA under the FDCA and the regulations promulgated thereunder. Biological products, such as our ADC product candidates, are approved for marketing under provisions of the Public Health Service Act, via a BLA. The application process and requirements for approval of BLAs are very similar to those for NDAs, and biologics are associated with similar approval risks and costs. Failure to comply with applicable U.S. requirements may subject a company to a variety of administrative or judicial sanctions, such as clinical hold, the FDA refusal to approve pending NDAs or BLAs, warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, civil penalties, and criminal prosecution. 
+ The process required by the FDA before drug product candidates may be marketed in the United States generally involves the following: 
+ 
+
+• | completion of preclinical laboratory tests and animal studies performed in accordance with the FDA’s current Good Laboratory Practices requirements;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an IND, which must be reviewed by the FDA before clinical trials may begin;
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | approval by an Institutional Review Board or ethics committee for each clinical protocol before clinical trials may begin;
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+• | performance of adequate and well-controlled human clinical trials in accordance with the FDA requirements, to establish the safety and efficacy of the product candidate for its intended purpose;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+27 
+
+
+ 
+• | preparation of and submission to the FDA of an NDA or BLA after completion of all pivotal clinical trials, and satisfactory completion of an FDA Advisory Committee review, if applicable;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | satisfactory completion of one or more FDA pre-approval inspection(s) of the manufacturing facility or facilities at which the product candidate is produced, tested, and released to assess compliance with cGMP and to assure that the facilities, methods and controls are adequate to preserve the product candidate’s continued safety, purity, and potency, and of selected clinical investigation sites to assess compliance with good clinical practice requirements; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FDA review and approval, or licensure, of the NDA/BLA to permit commercial marketing of the drug product for particular indications for use in the United States.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Preclinical and Clinical Development 
+ Prior to beginning the first clinical trial with an investigational product in the United States, we must submit an IND to the FDA. An IND is a request for authorization from the FDA to administer an investigational product to humans. The central focus of an IND submission is on an evaluation of safety to support the protocol(s) for clinical studies. The IND also includes results of studies assessing the toxicology, pharmacokinetics, pharmacology, and pharmacodynamic characteristics of the product candidate; chemistry, manufacturing, and controls information; and any available human data or literature to support its use. An IND must become effective before human clinical trials may begin. The submission of an IND may or may not result in FDA authorization to begin a clinical trial. At any point, if the FDA has questions or concerns regarding an ongoing clinical trial, they may impose a clinical hold, for example, until such time as adjustments can be made to that trial conduct to resolve such concerns. 
+ Clinical trials involve the administration of the investigational product to human subjects under the supervision of qualified investigators in accordance with good clinical practices, which include the requirement that all research subjects provide their informed consent for their participation in any clinical study. Clinical trials are conducted under protocols detailing, among other things, the objectives of the study and the parameters to be used in monitoring safety and efficacy. A separate submission to an existing IND must be made for each successive clinical trial conducted during product development and for any subsequent protocol amendments. For new indications, a separate, new IND may be required. Furthermore, an independent Institutional Review Board for each site proposing to conduct the clinical trial must review and approve the plan for any clinical trial and its informed consent form before the clinical trial begins at that site and must monitor the study until completed. Regulatory authorities, the Institutional Review Board or the sponsor may suspend a clinical trial at any time on various grounds, including a finding that the subjects are being exposed to an unacceptable health risk or that the clinical trial is unlikely to meet its stated objectives. Some studies also include oversight by an independent group of qualified experts organized by the sponsor, known as a data safety monitoring board, which provides recommendations for whether or not a clinical trial may move forward at designated check points based on access to certain data from that clinical trial and may recommend discontinuation of the clinical trial if it determines that there is an unacceptable safety risk for subjects or other grounds, such as no demonstration of efficacy. There are also requirements governing the reporting of ongoing clinical studies and clinical trial results to public registries. For purposes of NDA/BLA approval, human clinical trials are typically conducted in three sequential phases that may overlap. 
+ 
+
+• | Phase 1—The investigational product is introduced into healthy human subjects or patients with the target disease or condition. These studies test the safety, dosage tolerance, absorption, metabolism, distribution, and elimination of the investigational product, the side effects associated with increasing doses, and, if possible, to gain early evidence on efficacy. For certain investigational products for life-threatening diseases, such as cancer, especially when the product may be too inherently toxic to ethically administer to healthy volunteers, initial human testing is conducted in patients with the target disease or condition.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 2—The investigational product is administered to a limited patient population with a specified disease or condition to evaluate the preliminary efficacy, optimal dosage, and dosing schedule, and to
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+28 
+
+
+ 
+identify possible adverse side effects and safety risks. Multiple Phase 2 clinical trials may be conducted to obtain information prior to beginning larger and more expensive Phase 3 clinical trials.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 3—The investigational product is administered to an expanded patient population to further evaluate dosage, to provide statistically significant evidence of clinical efficacy, and to further test for safety, generally at multiple geographically dispersed clinical trial sites. These clinical trials are intended to establish the overall risk/benefit ratio of the investigational product and to provide an adequate basis for product approval.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Post-approval trials, sometimes referred to as Phase 4 or post-approval commitment studies, may be conducted after initial marketing approval. These trials are used to gain additional experience from the treatment of patients in the intended therapeutic indication. In certain instances, the FDA may mandate the performance of Phase 4 clinical trials as a condition of approval of an NDA/BLA. 
+ The FDA or the sponsor may suspend a clinical trial at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk. Similarly, an Institutional Review Board can suspend or terminate approval of a clinical trial at its institution if that clinical trial is not being conducted in accordance with its requirements or if the drug has been associated with unexpected serious harm to patients. In addition, some clinical trials are overseen by an independent group of qualified experts organized by the sponsor, known as a data safety monitoring board or committee. Depending on its charter, this group may, at designated check points, recommend whether a clinical trial should move forward based on its access to certain data from that clinical trial. 
+ During the development of a product candidate, sponsors are given opportunities to meet with the FDA. These meetings may be prior to submission of an IND, at the end of Phase 1 or Phase 2, and before an NDA/BLA is submitted. Meetings at other times may also be requested. These meetings can provide an opportunity for the sponsor to share information about the data gathered to date, for the FDA to provide advice, and for the sponsor and the FDA to reach agreement on the next phase of development. Sponsors typically use the meetings at the end of the Phase 2 trial to discuss Phase 2 clinical results and present plans for the pivotal Phase 3 clinical trials that they believe will support approval of the new drug. 
+ Additional meetings and correspondence with the FDA can also occur to summarize progress in the clinical trials, to review written IND safety reports, and to develop strategies (for example in accordance with FDA initiatives such as Project Optimus) for dose finding and dose optimization that leverage preclinical and clinical data in dose selection, including randomized evaluations of a range of doses in clinical trials. An emphasis of such strategies is placed on performing these studies as early and as efficiently as possible in the development program. 
+ U.S. Submission, Review and Approval 
+ Assuming successful completion of required testing in accordance with applicable regulatory requirements, the results of product development, and preclinical and clinical studies are submitted to the FDA as part of an NDA/BLA requesting approval to market the product. The NDA/BLA must include all relevant data available from pertinent preclinical and clinical studies, together with detailed information relating to the product candidate’s chemistry, manufacturing, controls, and proposed labeling. The submission of an NDA/BLA requires payment of substantial fees to the FDA, unless a waiver or exemption applies. Additionally, no user fees are assessed on NDA/BLAs for products designated as orphan drugs, unless the product also includes a non-orphan indication. 
+ The FDA reviews an NDA/BLA to determine, among other things, whether a drug product is safe, pure, and potent and the facility in which it is manufactured, tested, processed, packed, or held meets standards designed to assure its continued safety, purity, and potency. The FDA may convene an advisory committee to provide clinical 
+ 
+29 
+
+
+  insight on application review questions. This review typically takes twelve months from the date the NDA is submitted because the FDA has approximately two months to make a “filing” decision after the application is submitted. 
+ Before approving an NDA/BLA, the FDA will typically inspect the facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the drug product within required specifications. If the FDA determines that the application, manufacturing process or manufacturing facilities are not acceptable, it will outline the deficiencies in the submission and often will request additional testing or information. Notwithstanding the submission of any requested additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. 
+ After the FDA evaluates an NDA/BLA and conducts inspections of manufacturing facilities where the product candidate and/or its drug substance will be produced, the FDA may issue an approval letter or a Complete Response letter. An approval letter authorizes commercial marketing of the drug product with specific prescribing information for specific indications. A Complete Response letter will describe all of the deficiencies that the FDA has identified in the NDA/BLA, except that where the FDA determines that the data supporting the application are inadequate to support approval, the FDA may issue the Complete Response letter without first conducting required inspections, testing submitted product lots, and/or reviewing proposed labeling. In issuing the Complete Response letter, the FDA may recommend actions that the applicant might take to place the NDA/BLA in condition for approval, including requests for additional information or clarification. The FDA may delay or refuse approval of an NDA/BLA if applicable regulatory criteria are not satisfied, require additional testing or information, and/or require post-marketing testing and surveillance to monitor safety or efficacy of a drug product. 
+ If regulatory approval of a drug product is granted, such approval will be granted for particular indications and may entail limitations on the indicated uses for which such product may be marketed. For example, the FDA may approve the NDA/BLA with a Risk Evaluation and Mitigation Strategy to ensure the benefits of the drug product outweigh its risks. A Risk Evaluation and Mitigation Strategy is a safety strategy that is developed to manage a known or potential serious risk associated with a product and to enable patients to have continued access to such medicines by managing their safe use, and could include medication guides, physician communication plans, or elements to assure safe use, such as restricted distribution methods, patient registries, and other risk minimization tools. The FDA may also conditionally approve a drug product based on, for example, changes to proposed labeling or the development of adequate controls and specifications. Once approved, the FDA may withdraw the drug product approval if compliance with pre- and post-marketing requirements is not maintained or if problems occur after the drug product reaches the marketplace. The FDA may require one or more Phase 4 post-marketing studies and surveillance to further assess and monitor the product’s safety and efficacy after commercialization, and may limit further marketing based on the results of these post-marketing studies. In addition, new government requirements, including those resulting from new legislation, may be established, or the FDA’s policies may change, which could impact the timeline for regulatory approval or otherwise impact ongoing development programs. 
+ In addition, the Pediatric Research Equity Act, requires a sponsor to conduct pediatric clinical trials for most drugs. Under the Pediatric Research Equity Act, original NDAs/BLAs and supplements must contain a pediatric assessment unless the sponsor has received a deferral or waiver. For molecularly targeted oncology drugs, the Research to Accelerate Cures and Equity (RACE) for Children Act (2017) requires an agreement reached with the FDA on which pediatric indications are to be fully assessed with a pediatric study plan. The required assessment must evaluate the safety and efficacy of the product for the selected indications in all relevant pediatric subpopulations and support dosing and administration for each pediatric subpopulation for which the product is safe and effective. A deferral may be requested and granted for several reasons, including a finding that the drug is ready for approval for use in adults before pediatric clinical trials are complete or that additional 
+ 
+30 
+
+
+  safety or effectiveness data needs to be collected before the pediatric clinical trials begin. The FDA must send a non-compliance letter to any sponsor that fails to submit the required assessment, keep a deferral current, or submit a request for approval of a pediatric formulation. 
+ Expedited Development and Review Programs 
+ 
+
+• | Any product candidate submitted to the FDA for approval may be eligible for programs intended to expedite the FDA review and approval process, such as priority review, fast track designation, breakthrough therapy designation, and accelerated approval. Priority review designation may be granted for a product candidate that treats a serious condition and, if approved, would provide a significant improvement in safety or effectiveness.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | If the FDA determines, based on the request of a sponsor, that a product candidate is intended to treat a serious or life-threatening disease or condition and demonstrates the potential to address an unmet medical need by providing a therapy where none exists or a therapy that may be potentially superior to existing therapy based on efficacy or safety factors, that product candidate may be eligible for fast-track designation.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A breakthrough therapy designation is granted to drugs or biologics that are intended, alone or in combination with one or more other drugs or biologics, to treat a serious or life-threatening disease or condition, and preliminary clinical evidence indicates that a drug or biologic may demonstrate substantial improvement over existing therapies.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | An accelerated approval determination may be granted for product candidates studied for their safety and effectiveness in treating serious or life-threatening diseases or conditions.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Even if a product candidate qualifies for one or more of these programs, the FDA may later decide that it no longer meets the conditions for qualification or decide that the time period for the FDA review and approval will not be shortened. Furthermore, priority review, fast track designation, breakthrough therapy designation and accelerated approval do not change the standards for approval but may expedite the development or approval process. 
+ Orphan Drug Designation 
+ Under the Orphan Drug Act, the FDA may grant orphan designation to a drug or biologic intended to treat a rare disease or condition (a disease or condition that affects fewer than 200,000 individuals in the United States) for which there is no reasonable expectation that the cost of developing and making available such a drug or biologic would be recovered from sales in the United States for that drug or biologic). Orphan drug designation may offer a seven-year period of marketing exclusivity, with exceptions. Orphan drug designation does not convey any advantage in, or automatically shorten the duration of, the regulatory review or approval process. 
+ Post-Approval Requirements 
+ Any drug products manufactured or distributed by us pursuant to FDA approvals are subject to continuing regulation by the FDA, including, among other things, requirements relating to quality control and quality assurance, record-keeping, reporting of adverse experiences, product sampling and distribution, and advertising and promotion of the product. After approval, most changes to the drug product, such as adding new indications or other labeling claims, are subject to FDA review and approval. There are also continuing user fee requirements, under which the FDA assesses an annual program fee for each drug product identified in an approved NDA/BLA. Drug manufacturers and their subcontractors are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with cGMP requirements, which impose certain procedural and documentation requirements upon us and our third-party manufacturers. Changes to the manufacturing process 
+ 
+31 
+
+
+  are strictly regulated, and, depending on the significance of the change, may require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP requirements and impose reporting requirements upon us and any of our third-party manufacturers. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain compliance with cGMP requirements and other aspects of regulatory compliance. 
+ The FDA may withdraw approval if compliance with regulatory requirements and standards are not maintained or if problems occur after the drug product reaches the market. Later discovery of previously unknown problems with a drug product, including adverse events of unanticipated severity or frequency, or manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information, imposition of post-market studies or clinical studies to assess new safety risks, or imposition of distribution restrictions or other restrictions under a Risk Evaluation and Mitigation Strategy program. Other potential consequences include, for example: 
+ 
+
+• | restrictions on the marketing or manufacturing of a drug product, mandated modification of promotional materials or issuance of corrective information, issuance by the FDA or other regulatory authorities of safety alerts, Dear Healthcare Provider letters, press releases, or other communications containing warnings or other safety information, or complete withdrawal or recall of the drug product from the market;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | fines, warning letters, or holds on post-approval clinical studies;
+--+--------------------------------------------------------------------
+
+
+• | refusal of the FDA to approve pending applications or supplements to approved applications, or suspension or revocation of existing approvals;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | product seizure or detention, or refusal of the FDA to permit the import or export of drug products; or
+--+--------------------------------------------------------------------------------------------------------
+
+
+• | injunctions, consent decrees, or the imposition of civil or criminal penalties.
+--+--------------------------------------------------------------------------------
+
+ The FDA closely regulates and actively enforces the marketing, labeling, advertising, and promotion of drug products. A company can make only those claims relating to safety, efficacy, purity, and potency that are approved by the FDA and in accordance with the provisions of the approved label. Failure to comply with these requirements can result in, among other things, adverse publicity, warning letters, corrective advertising, and potential civil and criminal penalties. Physicians may prescribe legally available products for uses that are not described in the product’s labeling and that differ from those tested by us and approved by the FDA. The FDA does not regulate such off-label uses, but it does restrict a manufacturer’s communications on the subject of off-label use of its products. 
+ Marketing Exclusivity 
+ The FDCA provides a five-year period of non-patent marketing exclusivity within the United States to the first applicant to obtain approval of an NDA for a new chemical entity. During the exclusivity period, the FDA may not approve or even accept for review an ANDA or an NDA submitted under Section 505(b)(2), or 505(b)(2) by another company for another drug based on the same active moiety, regardless of whether the drug is intended for the same indication as the original innovative drug or for another indication, where the applicant does not own or have a legal right of reference to all the data required for approval. However, an application may be submitted after four years if it contains a certification of patent invalidity or non-infringement to one of the patents listed with the FDA by the innovator NDA holder. 
+ The FDCA alternatively provides three years of marketing exclusivity for an NDA, or supplement to an existing NDA, if new clinical studies (other than bioavailability studies) that were conducted or sponsored by the applicant are deemed by the FDA to be essential to the approval of the application, for example new indications, dosages, or strengths of an existing drug. This three-year exclusivity covers only the modification for which the drug product received approval on the basis of the new clinical studies and does not prohibit the FDA from 
+ 
+32 
+
+
+  approving ANDAs or 505(b)(2) NDAs for drugs containing the active agent for the original indication or condition of use. Five-year and three-year exclusivity will not delay the submission or approval of a full NDA. However, an applicant submitting a full NDA would be required to conduct or obtain a right of reference to any preclinical studies and adequate and well-controlled clinical trials necessary to demonstrate safety and efficacy. 
+ In the United States, pediatric exclusivity provides for an additional six months of marketing exclusivity attached to another period of exclusivity if a sponsor conducts clinical trials in children in response to a written request from the FDA. The issuance of a written request does not require the sponsor to undertake such clinical trials. 
+ Biosimilars and Reference Product Exclusivity 
+ The U.S. Affordable Care Act (2010) includes a subtitle called the BPCIA, which creates an abbreviated approval pathway for biological products that are biosimilar to or interchangeable with an FDA-approved reference drug product. To date, a number of biosimilars have been licensed under the BPCIA. The FDA has issued several guidance documents outlining its approach to the review and approval of biosimilars. 
+ Under the BPCIA, an application for a biosimilar product may not be submitted to the FDA until four years following the date that the reference drug product was first licensed by the FDA. In addition, the approval of a biosimilar may not be made effective by the FDA until 12 years from the date on which the reference drug product was first licensed. During this 12-year period of exclusivity, another company may still market a competing version of the reference drug product if the FDA approves a full BLA for that competing product containing that applicant’s own preclinical data and data from adequate and well-controlled clinical trials 
+ The BPCIA is complex and continues to be interpreted and implemented by the FDA. In addition, government proposals have sought to reduce the 12-year reference product exclusivity period. Other aspects of the BPCIA, some of which may impact the BPCIA exclusivity provisions, have also been the subject of recent litigation. As a result, the implementation and impact of the BPCIA is subject to significant uncertainty. 
+ Other U.S. Healthcare Laws and Compliance Requirements 
+ In the United States, our current and future operations are subject to regulation by various federal, state, and local authorities in addition to the FDA, including but not limited to, the Centers for Medicare and Medicaid Services and other divisions of the U.S. Department of Health and Human Services (such as the Office of Inspector General). For example, we may have to comply with: 
+
+• | the anti-fraud and abuse provisions of the Social Security Act;
+--+----------------------------------------------------------------
+
+
+• | the false claims laws;
+--+-----------------------
+
+
+• | the privacy and security provisions of HIPAA and similar state laws;
+--+---------------------------------------------------------------------
+
+
+• | state and federal anti-kickback and fraud and abuse laws; or
+--+-------------------------------------------------------------
+
+
+• | price reporting and physician sunshine laws.
+--+---------------------------------------------
+
+ If our operations are found to be in violation of any such laws or any regulations, we may be subject to administrative, civil, and criminal penalties, for example damages, fines, disgorgement, and exclusion from participation in government programs, such as Medicare and Medicaid, any of which could adversely affect our ability to operate our business. 
+ Coverage, Pricing and Reimbursement 
+ In the United States and foreign markets, sales of any drug products for which we receive regulatory approval will depend, in part, on the extent to which third-party payors provide coverage and establish adequate 
+ 
+33 
+
+
+  reimbursement levels for such drug products. In the United States, third-party payors include federal and state healthcare programs, private managed care providers, health insurers, and other organizations. Adequate coverage and reimbursement from governmental healthcare programs, such as Medicare and Medicaid in the United States, and commercial payors are critical to new product acceptance. 
+ We cannot be sure that coverage or reimbursement will be available for any drug product that we commercialize and, if coverage and reimbursement are available, what the level of reimbursement will be. Coverage may also be more limited than the purposes for which the product is approved by the FDA or comparable foreign regulatory authorities. Reimbursement may impact the demand for, or the price of, any drug product. Third-party payors are increasingly challenging the price, examining the medical necessity, and reviewing the cost-effectiveness of drug products, in addition to questioning their safety and efficacy. 
+ Different pricing and reimbursement schemes exist in other countries. In the EU, governments influence the price of drug products through pricing and reimbursement rules and control of national health care systems that fund a large part of the cost of drug products to consumers. Some jurisdictions operate positive and negative list systems under which drug products may only be marketed once a reimbursement price has been agreed. To obtain reimbursement or pricing approval, some of these countries may require the completion of clinical studies that compare the cost effectiveness of a particular product candidate to currently available therapies. Other member states allow companies to establish their own prices for medicines, but monitor and control company profits. 
+ The marketability of any of our approved drug products may suffer if the government and third-party payors fail to provide adequate coverage and reimbursement. In addition, emphasis on managed care, the influence of health maintenance organizations, and additional legislative changes in the United States, including the U.S. Inflation Reduction Act, is increasing the pressure on healthcare pricing. The downward pressure on the rise in healthcare costs in general, particularly prescription medicines, has become very intense. Coverage policies and third-party reimbursement rates may change at any time. Even if favorable coverage and reimbursement status is attained for one or more of our approved products, less favorable coverage policies and reimbursement rates may be implemented in the future. 
+ Healthcare Reform 
+ In the United States and certain foreign jurisdictions, there have been, and we expect there will continue to be, a number of legislative and regulatory changes to the healthcare system, for example, the U.S. Affordable Care Act (2010), which substantially changed the way healthcare is financed by both government and private insurers in the United States. By way of example, certain aspects of the Affordable Care Act seek to lower Medicare and Medicaid spending, potentially including prescription drug spending. We are continuing to monitor any changes to the Affordable Care Act that, in turn, may potentially impact our business in the future. 
+ We are evaluating the impact of the U.S. Inflation Reduction Act (“IRA”) on our business. The IRA was signed into law in December 2022, and among other things, it will regulate out-of-pocket costs for Medicare patients with respect to prescription drugs. The discovery and development of both small molecule and biologic drug compounds may be affected with respect to licensing, production, and marketing of such drugs. The FDA will, in the near-term, propose regulations through its rulemaking process, and while that may take several years, the effect on manufacturer rebates to Medicare, Medicare drug price negotiations, catastrophic drug cost coverage, and other aspects of the commercialization of drug products could be significant. We will continue to monitor the implementation of the IRA. 
+ In addition to the foregoing, individual states in the United States have also become increasingly active in implementing regulations designed to control drug product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access, and marketing cost disclosure and transparency measures and, in some cases, mechanisms to encourage importation from other countries and bulk purchasing. 
+ 
+34 
+
+
+  Furthermore, there has been increased interest by third-party payors and governmental authorities in reference pricing systems and publication of discounts and list prices. 
+ FDA Approval and Regulation of Companion Diagnostics 
+ If safe and effective use of a drug product depends on an in vitro diagnostic, then the FDA generally will require approval or clearance of that diagnostic, known as a companion diagnostic, at the same time that the FDA approves the drug product. According to FDA guidance, if it determines that a companion diagnostic device is essential to the safe and effective use of a novel therapeutic product or indication, it generally will not approve the drug product or new drug product indication if the companion diagnostic device is not approved or cleared for that indication. The review of in vitro companion diagnostics in conjunction with the review of our proposed treatments for cancer will, therefore, likely involve coordination of review by the FDA’s Center for Drug Evaluation and Research and the FDA’s Center for Devices and Radiological Health Office of In Vitro Diagnostics and Radiological Health. 
+ Under the FDCA, in vitro diagnostics, including companion diagnostics, are regulated as medical devices. In the United States, the FDCA and its implementing regulations and other federal and state statutes and regulations govern, among other things, medical device design and development, preclinical and clinical testing, premarket clearance or approval, registration and listing, manufacturing, labeling, storage, advertising and promotion, sales and distribution, export and import, and post-market surveillance. Unless an exemption applies, diagnostic tests require marketing clearance or approval from the FDA prior to commercial distribution. The two primary types of the FDA marketing authorization applicable to a medical device are premarket notification, also called 510(k) clearance, and premarket approval. 
+ The premarket approval process, including the gathering of clinical and preclinical data and the submission to and review by the FDA, can take several years or longer. It involves a rigorous premarket review during which the applicant must prepare and provide the FDA with reasonable assurance of the device’s safety and effectiveness and information about the device and its components regarding, among other things, device design, manufacturing and labeling. 
+ Premarket approval is not guaranteed, and the FDA may ultimately respond to a premarket approval submission with a not approvable determination based on deficiencies in the application and require additional clinical trials or other data that may be expensive and time-consuming to generate, and that can substantially delay approval. A not approvable letter will outline the deficiencies in the application and, where practical, will identify what is necessary to make the premarket approval application approvable. The FDA may also determine that additional clinical trials are necessary, in which case approval of the premarket approval application may be delayed for several months or years while the trials are conducted and then the data submitted in an amendment to the premarket approval application. If the FDA’s evaluation of the premarket approval application is favorable, it typically issues an approvable letter requiring the applicant’s agreement to specific conditions, such as changes in labeling, or specific additional information, such as submission of final labeling, in order to secure final approval of the premarket approval application. If the FDA concludes that the applicable criteria have been met, it will issue a premarket approval for the approved indications, which can be more limited than those originally sought by the applicant. The premarket approval can include post-approval conditions that the FDA believes necessary to ensure the safety and effectiveness of the device, including, among other things, restrictions on labeling, promotion, sale and distribution. Once granted, approval of the premarket approval application may be withdrawn by the FDA if compliance with post-approval requirements, conditions of approval or other regulatory standards are not maintained or problems are identified following initial marketing. 
+ Devices, once placed on the market, remain subject to significant regulatory requirements, including for example, the applicable portions of the Quality System Regulation, which cover the methods and documentation of the design, testing, production, processes, controls, quality assurance, labeling, packaging, and shipping. 
+ 
+35 
+
+
+ The Foreign Corrupt Practices Act 
+ The Foreign Corrupt Practices Act prohibits any U.S. individual or business from paying, offering, or authorizing payment or offering of anything of value, directly or indirectly, to any foreign official, political party, or candidate for the purpose of influencing any act or decision of the foreign entity in order to assist the individual or business in obtaining or retaining business. The Foreign Corrupt Practices Act also obligates companies whose securities are listed in the United States to comply with accounting provisions requiring us to maintain books and records that accurately and fairly reflect all transactions of the corporation, including international subsidiaries, and to devise and maintain an adequate system of internal accounting controls for international operations. 
+Additional Regulation 
+ In addition to the foregoing, state and federal laws regarding environmental protection and hazardous substances, including the Occupational Safety and Health Act, the Resource Conservancy and Recovery Act, and the Toxic Substances Control Act, affect our business. These and other laws govern our use, handling and disposal of various biological, chemical, and radioactive substances used in, and wastes generated by, our operations. If our operations result in contamination of the environment or expose individuals to hazardous substances, we could be liable for damages and governmental fines. We believe that our suppliers are in material compliance with applicable environmental laws and that continued compliance therewith will not have a material adverse effect on our business. We cannot predict, however, how changes in these laws may affect their future operations. 
+Other Regulations 
+ We are also subject to numerous federal, state and local laws relating to such matters as safe working conditions, manufacturing practices, environmental protection, fire hazard control and disposal of hazardous or potentially hazardous substances. We may incur significant costs to comply with such laws and regulations now or in the future. 
+ Intellectual Property   Our commercial success depends in part on our ability to obtain and maintain proprietary protection for our current and future product candidates, novel discoveries, product development technologies, and know-how; to operate without infringing on the proprietary rights of others; and to prevent others from infringing our proprietary rights. Our strategy is to seek to protect our proprietary position by, among other methods, filing or in-licensing U.S. and foreign patents and patent applications related to our proprietary technology, inventions, and improvements that are important to the development and implementation of our business. We also rely on trademarks, trade secrets, know-how, continuing technological innovation, and potential in-licensing opportunities to develop and maintain our proprietary position. 
+ We have a license to patents and other intellectual property relating to enitociclib, VIP217, VIP943, VIP924, VIP236, and our other current product candidates from Bayer on an exclusive, worldwide basis under the Bayer License Agreement. The in-licensed portfolio as of December 31, 2022 includes 28 issued U.S. patents, 13 pending U.S. patent applications, 300 issued patents in various jurisdictions outside of the United States and approximately 108 pending patent applications in various jurisdictions outside of the United States. The Bayer License Agreement is described more fully below. 
+ Our in-licensed patent portfolio covering enitociclib consists of issued patents in the U.S., Europe, China, Japan, India, and Mexico, along with issued patents and pending applications in other markets. The issued U.S. patent covering the composition of matter of enitociclib is expected to expire in November 2033, absent any patent term extensions for regulatory delay. With respect to VIP943 and VIP924, we have pending applications 
+ 
+36 
+
+
+  in the U.S., Europe, China, Japan, India, Argentina, Brazil, and Mexico, along with an issued patent and pending applications in other markets covering the composition of matter of VIP943 and VIP924. Any patent that may issue from our pending patent applications related to VIP943 and VIP924 are expected to expire in December 2037, absent any patent term adjustments or extensions. With respect to VIP236, we have pending applications in the U.S., Europe, China, Japan, India, Argentina, Brazil, Mexico, and other markets covering the composition of matter of VIP236. Any patent that may issue from our pending patent applications related to VIP236 is expected to expire in October 2039, absent any patent term adjustments or extensions. In addition, our patent portfolio covering VIP217 consists of issued patents in the U.S., Europe, China, Japan, India, and Mexico, along with issued patents and pending applications in other markets. The issued U.S. patent covering the composition of matter of VIP217 is expected to expire in April 2035, absent any patent term extensions for regulatory delay. 
+ As of December 31, 2022, we own 18 pending patent applications, including six pending U.S. provisional applications, four Patent Cooperation Treaty (PCT) applications, and 10 applications in various jurisdictions outside of the United States. With respect to our product candidates and processes that we intend to develop and commercialize in the normal course of business, we intend to pursue patent protection covering, when possible, compositions, methods of use, dosing, and formulations. We may also pursue patent protection with respect to manufacturing and drug development processes and technologies. 
+ We also rely upon trade secrets, know-how, and continuing technological innovation to develop and maintain our competitive position. We seek to protect our proprietary information, in part, by using confidentiality and invention assignment agreements with our commercial partners, collaborators, employees, and consultants. These agreements are designed to protect our proprietary information and, in the case of the invention assignment agreements, to grant us ownership of technologies that are developed through a relationship with a third party. These agreements may be breached, and we may not have adequate remedies for any breach. In addition, our trade secrets may otherwise become known or be independently discovered by competitors. To the extent that our commercial partners, collaborators, employees, and consultants use intellectual property owned by others in their work for us, disputes may arise as to the rights in related or resulting know-how and inventions. 
+ Bayer License Agreement 
+ On October 7, 2020, we entered into the Bayer License Agreement, pursuant to which we have been granted an exclusive, worldwide, royalty-bearing, worldwide license under certain Bayer patents and know-how to develop, use, manufacture, commercialize, sublicense, and distribute, for all uses in the cure, mitigation, treatment, or prevention of diseases or disorders in humans or animals, (i) a small molecule drug platform, including enitociclib, a P-TEFb/CDK9 inhibitor compound, and (ii) a modular bioconjugation platform, including VIP943 and VIP924, next-generation ADC compounds, and VIP236, an SMDC compound. These platforms currently comprise our entire product candidate pipeline. The Bayer License Agreement became effective upon the closing of the Business Combination. 
+ Under the Bayer License Agreement, we paid Bayer an upfront license fee of $5.0 million upon the closing of the Business Combination. In addition, we are obligated to make significant future payments to Bayer upon the achievement of certain development and commercial sales milestones involving license products as well as ongoing royalties on net commercial sales. The size and timing of these milestone payments vary greatly depending on factors such as the particular licensed product, whether it involves a P-TEFb licensed product or bioconjugation licensed product (and which bioconjugation program – IL3RA, CXCR5, SMDC or additional programs), the number of distinct disease indications, the number of different countries with respect to which the milestone is achieved and the level of net commercial sales, and it is therefore difficult to estimate the total payments that may become payable to Bayer and when those payments would be due. If we achieve all of the milestones for each of the countries and disease indications, we would be obligated to pay development and commercial sales milestone payments that range from $110.0 million to up to $318.0 million per licensed product, and upon successful commercialization of at least five licensed products, we could be required to pay 
+ 
+37 
+
+
+  aggregate milestone payments in excess of $1.0 billion. If we partner with a third party and receive development milestone payments from such third party that exceed the development milestone payments we are required to pay Bayer for the same milestones, we are required to pay Bayer a small portion of that excess. 
+ Under the Bayer License Agreement, we are also obligated to pay Bayer tiered royalties on worldwide net commercial sales of licensed products at royalty rates ranging from single digit to low double digit percentages based on escalating levels of net commercial sales in a calendar year, subject to standard offsets and reductions. These royalty obligations apply on a product-by-product and country-by-country basis and end upon the latest of (i) the date on which the last valid claim of any licensed patents expire, and (ii) 10 years after the first commercial sale of the licensed product, in each case, with respect to a given licensed product in a given country. 
+ Under the Bayer License Agreement, we have sole control of, and are responsible for, at our expense, the development, manufacture and commercialization of licensed products. We have agreed to use commercially reasonable efforts, consistent with our business judgment and for a similarly situated company, to develop and commercialize at least one P-TEFb licensed product and two ADC licensed products in certain major markets. We have the sole right, but not the obligation, to control the prosecution, defense, and enforcement of the licensed patents, and Bayer has backup rights to prosecution, defense and enforcement with respect to any licensed patents for which we elect not to exercise such rights. 
+ The Bayer License Agreement will expire on a country-by-country and licensed product-by-licensed product basis on the expiration of the last royalty term with respect to a given licensed product in a given country, unless earlier terminated. We may terminate the agreement for convenience upon 90 days’ written notice. Either party may terminate the agreement, either in its entirety or on a licensed technology-by-licensed technology or licensed product-by-licensed product basis depending on the nature of the breach, if the other party materially breaches its material obligations under the agreement and fails to cure such material breach within 180 days of written notice of such material breach, with termination tolled during any period during which a good faith dispute resolution process is being pursued with respect to material breaches other than non-payment. In addition, either party may terminate the agreement immediately upon written notice if the other party files a voluntary bankruptcy petition, is subject to an involuntary bankruptcy petition, or for certain other insolvency events. Bayer may terminate the agreement if we challenge the validity or enforceability of any of the licensed patents. 
+ Human Capital/Employees 
+ We have assembled a management team of biopharmaceutical experts with extensive experience in building and operating organizations that develop and deliver innovative medicines to patients with cancer. Our management team has broad expertise and successful track records in clinical development and approval of cancer therapies. We are led by Drs. Ahmed M. Hamdy and Raquel E. Izumi, two co-founders and biotechnology entrepreneurs who previously leveraged the discovery know-how of an established pharmaceutical company into break-through cancer treatments. Drs. Hamdy and Izumi were instrumental in the clinical development of IMBRUVICA® and CALQUENCE® for the treatment of blood cancers. 
+ Drs. Hamdy and Izumi, and the rest of our management team, are supported by an external team of experienced cancer drug developers, including John C. Byrd, M.D., the Chair of the Department of Internal Medicine at the University of Cincinnati and Chief Medical Officer of BEAT AML, and Brian J. Druker, M.D., Director at Oregon Health & Science University’s Knight Cancer Institute School of Medicine. Dr. Byrd serves as chair of our Scientific Advisory Committee, and Dr. Druker serves on our board of directors. 
+ As our core ethos, we believe that our people are our company’s greatest asset. We believe that by fostering an open, aware, accepting, and diverse work environment, we will by extension create a responsive, innovative, and successful company. This ethos guides the focus of our human capital objectives and the emphasis we place upon employee retention, inclusive team culture, diversity, equity, inclusion, and belonging. As of December 31, 
+ 
+38 
+
+
+  2022, we had 41 full-time employees globally, 63% of whom hold a Masters’ degree or higher and 34% of whom hold an M.D. or Ph.D. Of our 41 employees, 68% were engaged in research and development and 32% were engaged in general and administrative functions. Of our total number of employees, 20% are based outside of the United States in one of three other countries. The median age of our staff was 47, and 73% of our employees are at or over the age of 40. None of our employees are represented by labor unions or covered by collective bargaining agreements. 
+ As an employer, we believe it is our social responsibility to support employees to the best of our ability while at work as well as in their personal lives. We offer market-competitive compensation to our employees based on peer company benchmarks within the biopharmaceutical industry that take into account an employee’s role, level of responsibility, and geographical location. Additionally, we offer a 401(k) plan with an employer match feature to support an employee’s retirement planning as well as stock option grants and an employee stock purchase plan so that employees can tangibly participate in our success. Our benefits package covers 100% of employee and dependent paid premiums for medical, dental, and vision insurance that start on date of hire, as well as four weeks of paid time off, 17 company holidays, and generous policies supporting sick time and leaves of absence. In 2022, we launched a new benefit for our team called Summer Hours, in which we shortened each Friday to half-working days but continued to pay employees their full day’s salary each week from Memorial Day through Labor Day. We offer ongoing learning and development opportunities for our employees, such as sponsoring culture workshops, training, and education resources and programs, as well as other resources to help employees, at all levels feel a sense of belonging and support to achieve their full potential. We believe that our efforts to create a positive work environment allows our employees to thrive and do their best work, which in turn supports our global mission of creating better treatments for patients. 
+ We consider our relationship with our employees to be very good. Our monthly engagement surveys show a strong overall happiness score, with highest rankings for work relationships, team culture, management, and diversity climate. We have a distributed workforce and have embraced remote work since our inception in 2020, and our remote culture remains strong. In 2022, 51% of our employees chose to work full-time remote, rather than from one of our two global offices located in Palo Alto, California, and Monheim, Germany. We believe that our employees and our company benefit from a diverse, inclusive, and safe work environment and that treating our employees well will help reduce headcount turnover and maintain high engagement and morale. 
+ We believe the vast variety of the experiences, backgrounds, and perspectives that our employees bring to their work every day, and our strategy to emphasize diversity and inclusion, make our company stronger. Our employees come from numerous countries, ethnicities, and backgrounds. When surveyed, 39% of our U.S. employees reported they were born outside of the U.S., and 45% of our U.S. employees speak a native language other than English. Women make up 44% of our global workforce and represent 52% of our leadership team (senior director level and higher). Currently none of our employees identify as non-binary, 12% of our U.S. employees identify as LGBTQ+, 9% identify as having a disability, and 3% identify as a U.S. veteran. 
+ Facilities 
+ Our principal executive offices are located in Palo Alto, California, and our lease agreement for such space expires in December 2025. Vincerx Pharma GmbH, our wholly owned German subsidiary, leases space in Monheim am Rhein, Germany. We do not own any real property. We believe that our office space is adequate to meet our current needs and that additional facilities will be available on commercially reasonable terms to meet future needs. 
+Legal Proceedings 
+ We are not currently a party to any legal proceedings, and are not aware of any pending or threatened legal proceedings against us, that we believe could have a material adverse effect on our business, operating results or financial condition. 
+ 
+39 
+
+
+ Available Information 
+ Our principal executive offices are located at 260 Sheridan Avenue, Suite 400, Palo Alto, CA 94306, and our telephone number is (650) 800-6676. Our website address is www.vincerx.com. The information contained on, or that can be accessed through, our website is not part of this Annual Report on Form 10-K.
+We make available free of charge on our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports, as soon as reasonably practicable after we electronically file or furnish such materials to the SEC. You may obtain a free copy of these reports in the Investor Relations section of our website, www.vincerx.com. All reports that we file with the SEC may be read and copied at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, DC 20549. Information about the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. All reports that we file are also available at www.sec.gov. 
+ 
+40 
+
+
+ 
