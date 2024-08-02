@@ -10,12 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build  -t gemini_ex/gha_gemi .
+      run: docker build -t gemini_ex/gha_gemi .
     - name: Docker Run Action
-      run: docker run --rm --name gha_gemi --env API_KEY="${{ secrets.API_KEY }}" -v $GITHUB_WORKSPACE/scripts/:/root/scripts/:rw -v $GITHUB_WORKSPACE/prompts/:/root/prompts/:rw -v $GITHUB_WORKSPACE/config/:/root/config/:rw  -v $GITHUB_WORKSPACE/output:/root/output:rw gemini_ex/gha_gemi R -e 'Sys.setenv("PATH" = paste(Sys.getenv("PATH"),"/usr/local/stata/",sep=":")); source("~/scripts/run.R")'
-    - uses: actions/upload-artifact@v4
+      run: docker run --rm --name gha_gemi --env API_KEY="${{ secrets.API_KEY }}" -v $GITHUB_WORKSPACE/scripts/:/root/scripts/:rw -v $GITHUB_WORKSPACE/prompts/:/root/prompts/:rw -v $GITHUB_WORKSPACE/config/:/root/config/:rw -v $GITHUB_WORKSPACE/output:/root/output:rw gemini_ex/gha_gemi R -e 'Sys.setenv("PATH" = paste(Sys.getenv("PATH"),"/usr/local/stata/",sep=":")); source("~/scripts/run.R")'
+    - name: List output directory
+      run: ls -la $GITHUB_WORKSPACE/output
+    - uses: actions/upload-artifact@v3
       with:
         name: gemini_results
         path: ${{ github.workspace }}/output/
