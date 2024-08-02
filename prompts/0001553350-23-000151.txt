@@ -1,0 +1,644 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Overview
+ 
+Lightwave Logic, Inc. is a development stage company moving toward commercialization of next generation electro-optic photonic devices made on its P2IC™ technology platform which we have detailed as: 1) Polymer Stack™, 2) Polymer Plus™, and 3) Polymer Slot™. Our unique polymer technology platform uses in-house proprietary high-activity and high-stability organic polymers. Electro-optical devices called modulators convert data from electric signals into optical signals for multiple applications.
+ 
+Our differentiation at the modulator device level is in higher speed, lower power consumption, simplicity of manufacturing, small footprint (size), and reliability. We have demonstrated higher speed and lower power consumption in packaged devices, and during 2022, we continued to make advances in techniques to translate material properties to efficient, reliable modulator devices with commercial foundries. We are currently focused on testing and demonstrating the simplicity of manufacturability and reliability of our devices, including in conjunction with the silicon photonics manufacturing ecosystem. In 2022 we discussed the addition of several silicon-based foundry partners to help scale in volume our polymer modulator devices. Silicon-based foundries are large semiconductor fabrication plants developed for the electronics IC business, that are now engaging with silicon photonics to increase their wafer throughput. Partnering with silicon-based foundries not only demonstrates that our polymer technology can be transferred into standard production lines using standard equipment, it also allows us to efficiently utilize our capital. The foundry partnerships will allow us to scale our high-performance polymer optical engines quickly and efficiently.
+ 
+Our extremely strong and broad patent portfolio allows us to optimize our business model in three areas: 1) Traditional focus on product development, 2) Patent licensing and 3) Technology transfer to foundries. We are continually looking to strengthen our patent portfolio both by internal inventions and acquisition of intellectual property.
+ 
+We are initially targeting applications in fiber optic data communications and telecommunications markets and are exploring other applications that include automotive/LIDAR, sensing, displays etc., for our polymer technology platform. Our goal is to have our unique polymer technology platform become ubiquitous.
+ 
+Unless the context otherwise requires, all references to the “Company,” “we,” “our” or “us” and other similar terms means Lightwave Logic, Inc. Also, this Form 10-K Annual Report includes the names of various government agencies and the trade names of other companies. Unless specifically stated otherwise, the use or display by us of such other parties’ names and trade names in this report is not intended to and does not imply a relationship with, or endorsement or sponsorship of us by, any of these other parties.
+ 
+Materials Development
+ 
+Our Company designs and synthesizes organic chromophores for use in its own proprietary electro-optic polymer systems and photonic device designs. A polymer system is not solely a material, but also encompasses various technical enhancements necessary for its implementation. These include host polymers, poling methodologies, and molecular spacer systems that are customized to achieve specific optical properties. Our organic electro-optic polymer systems compounds are mixed into solution form that allows for thin film application. Our proprietary electro-optic polymers are designed at the molecular level for potentially superior performance, stability, and cost-efficiency. We believe our proprietary and unique polymers have the potential to replace more expensive, higher power consuming, slower-performance materials such as semiconductor modulator devices that are used in fiber-optic communication networks today.
+ 
+Our patented and patent pending molecular architectures are based on a well-understood chemical and quantum mechanical occurrence known as aromaticity. Aromaticity provides a high degree of molecular stability that enables our core molecular structures to maintain stability under a broad range of operating conditions.
+ 
+We expect our patented and patent-pending optical materials along with trade secrets and licensed materials, to be the core of and the enabling technology for future generations of optical devices, modules, sub-systems, and systems that we will develop or potentially out-license to electro-optic device manufacturers, contract manufacturers, original equipment manufacturers, etc. Our Company contemplates future applications that may address the needs of semiconductor companies, optical network companies, Web 2.0/3.0 media companies, high performance computing companies, telecommunications companies, aerospace companies, automotive companies, as well as for example, government agencies.
+ 
+
+1
+-
+
+Device Design and Development
+ 
+Electro-optic Modulators
+ 
+Our Company designs its own proprietary electro-optical modulation devices. Electro-optical modulators convert data from electric signals into optical signals that can then be transmitted over high-speed fiber-optic cables. Our modulators are electro-optic, meaning they work because the optical properties of the polymers are affected by electric fields applied by means of electrodes. Modulators are key components that are used in fiber optic telecommunications, data communications, and data centers networks etc., to convey the high data flows that have been driven by applications such as pictures, video streaming, movies etc., that are being transmitted through the Internet. Electro-optical modulators are expected to continue to be an essential element as the appetite and hunger for data increases every year as well as the drive towards lower power consumption, and smaller footprint (size).
+Polymer Photonic Integrated Circuits
+ 
+Our Company also designs its own proprietary Photonic Integrated Circuits (otherwise termed a polymer PIC). A polymer PIC is a photonic device that integrates several photonic functions on a single chip. We believe that our technology can enable the ultra-miniaturization footprint needed to increase the number of photonic functions residing on a semiconductor chip to create a progression like what was seen in the computer integrated circuits, commonly referred to as Moore’s Law. One type of integration is to combine several instances of the same photonic functions such as a plurality of modulators to create a multi-channel polymer PIC. The number of channels can be varied depending on application. For example, the number of photonic components could increase by a factor of 4, 8, or 16. Another type of integration is to combine different types of devices including from different technology bases such as the combination of a semiconductor laser with a polymer modulator. Our P2IC™ platform encompasses both these types of architecture.
+ 
+Current semiconductor photonic technology today is struggling to reach faster device speeds. Our modulator devices, enabled by our electro-optic polymer material systems, work at extremely high frequencies (wide bandwidths) and possess inherent advantages over current crystalline electro-optic material contained in most modulator devices such as bulk lithium niobate (LiNbO3), indium phosphide (InP), silicon (Si), and gallium arsenide GaAs). Our advanced electro-optic polymer platform is creating a new class of modulators such as the Polymer Stack ™, Polymer Plus™, Polymer Slot™, and associated PIC platforms that can address higher data rates in a lower cost, lower power consuming manner, smaller footprint (size) with much simpler data encoding techniques. Our electro-optic polymer material will boost the performance of standard PIC platforms such as silicon photonics and indium phosphide.
+ 
+Our electro-optic polymers can be integrated with other materials platforms because they can be applied as a thin film coating in a fabrication clean room such as may be found in semiconductor foundries using standard clean room tooling. This approach we call Polymer Plus™. Our polymers are unique in that they are stable enough to seamlessly integrate into existing CMOS, Indium Phosphide (InP), Gallium Arsenide (GaAs), and other semiconductor manufacturing lines. Of relevance are the integrated silicon photonics platforms that combine optical and electronic functions. These include a miniaturized modulator for ultra-small footprint applications in which we term the Polymer Slot™. This design is based on a slot modulator fabricated into semiconductor wafers that include both silicon and indium phosphide.
+ 
+Our Company has a fabrication facility in Colorado to apply standard fabrication processes to our electro-optic polymers which create modulator devices. While our internal fabrication facility is capable of manufacturing modulator devices, we have partnered with commercial silicon-based fabrication companies that are called foundries who can scale our technology with volume quickly and efficiently. The process recipe for fabrication plants or foundries is called a ‘process development kit’ or PDK. We are currently working with commercial foundries to implement our electro-optic polymers into accepted PDKs by the foundries. Our work with the foundries is being focused with the Polymer Plus™ and the Polymer Slot™ polymer modulators.
+ 
+
+2
+-
+
+Glossary
+ 
+Glossary of select technology terms to provide you with a better understanding our Company’s technology and devices:
+ 
+Electro-optic devices - Electro-optic devices convert data from electric signals into optical signals for use in communications systems and in optical interconnects for high-speed data transfer.
+ 
+Electro-optic material - Electro-optic material is the core active ingredient in high-speed fiber-optic telecommunication systems. Electro-optic materials are materials that are engineered at the molecular level. Molecular level engineering is commonly referred to as “nanotechnology.”
+ 
+Electro-optic modulators - Electro-optic (E/O) modulators are electro-optic devices that perform electric-to-optic conversions within the infrastructure of the internet. Data centers may also benefit from this technology through devices that could significantly increase bandwidth and speed while decreasing costs. Polymer E/O modulators can be designed and fabricated with multiple structures such as Ridge waveguide (Polymer™ Stack) and slot waveguide (Polymer Slot™). The waveguides allow the light to be efficiently coupled into and out of the modulators, and provide a basis for integrating modulators together.
+ 
+Gbaud - The rate of symbol changes in data transmission in billions of symbol changes per second. Each symbol can support one or more bits, the number of bits depending on the modulation format.
+NRZ – See PAM2.
+ 
+PAM2 – 2 level Pulse Amplitude Modulation, a modulation format in which the optical power in each symbol can assume either of two different levels, low or high, representing, respectively, a 0 or a 1. PAM2 supports 1 bit per symbol so the bit rate is equal to the baud rate or symbol rate. For example, a modulator capable of supporting 100 Gbaud can transmit 100 Gbps with PAM2 modulation. This modulation format is often called NRZ (Non Return to Zero).
+ 
+PAM4 - 4 level Pulse Amplitude Modulation, a modulation format in which the optical power in each symbol can assume any one of 4 different levels. PAM4 supports 2 bits per symbol so the bit rate is equal to two times the baud rate or symbol rate. For example, a modulator capable of supporting 100 Gbaud can transmit 200 Gbps with PAM4 modulation.
+ 
+PAM8 - 8 level Pulse Amplitude Modulation, a modulation format in which the optical power in each symbol can assume any one of 8 different levels. PAM4 supports 3 bits per symbol so the bit rate is equal to three times the baud rate or symbol rate. For example, a modulator capable of supporting 100 Gbaud can transmit 300 Gbps with PAM8 modulation.
+ 
+Photonic Devices - Photonic devices are components for creating, manipulating, or detecting light. This can include modulators, laser diodes, light-emitting diodes, solar and photovoltaic cells, displays and optical amplifiers. Other examples are devices for modulating a beam of light and for combining and separating beams of light of different wavelength.
+Polymers - Polymers, also known as plastics, are large carbon-based molecules that bond many small molecules together to form a long chain. Polymer materials can be engineered and optimized using nanotechnology to create a system in which unique surface, electrical, chemical, and electro-optic characteristics can be controlled. Materials based on polymers are used in a multitude of industrial and consumer products, from automotive parts to home appliances and furniture, as well as scientific and medical equipment.
+Our Business Opportunity
+ 
+Lightwave Logic, Inc. is developing next generation proprietary photonic devices that are based on our advanced electro-optical polymer material systems. Current legacy technology is based on inorganic crystalline materials, which has allowed for the proliferation of data over fiber optic cables. However, there are inherent molecular deficiencies that have prevented this technology from scaling down in price and up in functionality, especially in terms of $/Gbps. This is primarily due to a closed valence structure that does not allow for the molecular improvements. The valence or valency of an element is a measure of its combining power with other atoms when it forms chemical compounds or molecules. Also, the physical properties of a crystal do not allow for its implementation into highly miniaturize slot structures that are in simple terms the pathways that light travels through in the device.
+ 
+Organic polymer materials on the other hand, have free electrons that allow for limitless potential to combine with other molecular structures, which allows for multiple options and combinations to improving performance characteristics. Importantly, because they can be applied to optical structures in thin-film liquid form, it is possible to imbue electro-optic ability to highly miniaturized slot structures. Organic polymer materials are also vastly cheaper to manufacture in comparison to growing exotic crystals that are prone to contamination and further must be sliced into thin wafers. Our Company believes that the combination of less expensive manufacturing cost, ease of application, and better scalability, together with a lower cost of ownership due to lower heat dissipation (requiring less cooling), will create enormous demand for our products.
+ 
+Many companies’ early attempts at developing commercially reliable organic polymers were stymied due to the difficulty of creating organic molecules that could remain electro-optically active after being subjected to the high heat of semiconductor manufacturing temperatures (such as silicon CMOS, InP, GaAs etc.). These early attempts also encountered difficulty synthesizing materials that could withstand photochemical bleaching (loss of sensitivity to specific frequencies) and material degradation due to high operating temperatures.
+ 
+Over the last several years, our Company has made various scientific breakthroughs that have allowed for the synthesis of proprietary organic polymer materials that can withstand extremely high process temperatures that exceed 1750C. Additionally, these materials have demonstrated photochemical stability, even after being subjected to high intensity light for over 5,000 hours and exhibited little electro optic degradation even after being continuously exposed at 1100C. This operating temperature exceeds the maximum commercial operating temperatures of approximately 850C, found in large data centers. After successfully achieving material test results that either met or exceeded commercial requirements (subsequently confirmed by an outside entity), in late 2016, the Company began production of its first photonic prototype device, a ridge waveguide modulator which is called a Polymer Stack™.
+ 
+
+3
+-
+
+Our First Product – The Ridge Waveguide Modulator
+ 
+
+
+A ridge waveguide modulator is a type of modulator where the waveguide is fabricated within a layer of our electro-optic polymer system. Various cladding materials and electrodes are layered over the core polymer. The polymer materials are then part of an integrated photonics platform that can house other photonic devices, such as lasers, waveguides etc.
+ 
+In April 2017 we achieved bandwidth suitable for 25Gbps data rates in an all-organic polymer ridge waveguide intensity modulator prototype, a significant improvement over our initial 10Gbps device modulator prototype that was announced in 2016. This breakthrough was significant because a 25Gbps data rate is important to the optical networking industry because this data rate is a key requirement for achieving 100 Gbps (using 4 channels of 25 Gbps). In July 2017 we advanced our high-speed modulation performance to satisfy 28Gbps data rates for QSFP28 standards which are also utilized for 100Gbps data center applications.
+ 
+In September 2017 we achieved outstanding performance of our ridge waveguide Mach-Zehnder modulators ahead of schedule, with bandwidth performance levels that will enable 50Gbaud modulation in fiber-optic communications. This important achievement will allow users to utilize arrays of 4 x 50Gbaud polymer modulators using PAM-4 encoding to access 400Gbps data rate systems. Pulse-Amplitude Modulation (PAM-4) is an encoding scheme that can double the amount of data that can be transmitted.
+ 
+We are now further optimizing our high-performance modulators for additional specifications that are beginning to be required by the fiber communications industry for applications such as networks running at data rates of 800Gbps. 800Gbps will require combining 4 channels of 200Gbps utilizing PAM4 encoding schemes which will prove challenging for many existing modulator technologies. Furthermore, we are collaborating with industry partners to optimize the packaging our modulators so that potential customers can evaluate our high-performance modulators in their systems. This effort will also aid in addressing one of the most under-evaluated processes of developing high speed devices onto a new and novel technology platform which is robustness and reliability. We have already made extensive progress with our polymer materials on this front, and now we are integrating our robust polymer materials onto an integrated photonics platform to provide customers with a more miniaturized, higher performance solution for their data rich systems.
+ 
+While our initial focus is to address data communications and telecommunications network applications along with cloud computing/data center needs, we believe that in the future we will have additional opportunities to address other applications such as: backplane optical interconnects, photovoltaic cells, medical applications, satellite reconnaissance, navigation systems, radar applications, optical filters, spatial light modulators; and all-optical switches.
+ 
+Electro-Optic Polymer Production – Our Approach vs. the BLA Approach
+ 
+Our Electro-Optic Material Approach
+ 
+Our core material expertise relates to the production of high-performance, high-stability electro-optic polymers for high-speed (wide bandwidth) telecommunication and data communications applications. More specifically, it lies in a less mainstream, yet firmly established, scientific phenomenon called aromaticity. Aromaticity causes a high degree of molecular stability. It is a molecular arrangement wherein atoms combine into multi-membered rings and share their electrons among each other. Aromatic compounds are stable because the electronic charge distributes evenly over a great area preventing hostile moieties, such as oxygen and free radicals, from finding an opening to attack.
+
+4
+-
+
+Previous and Current Competitive Organic Electro-Optic Polymer Efforts
+ 
+For the past several decades, diverse corporate interests, including, to our knowledge, IBM, Lockheed Martin, DuPont, AT&T Bell Labs, Honeywell, Motorola, HP, 3M, and others in addition to numerous universities and U.S. Government Agencies, have attempted to produce high-performance, high-stability electro-optic polymers for high-speed (wide bandwidth) telecommunication applications. These efforts were largely unsuccessful due, in our opinion, to the industry’s singular adherence to an industry pervasive engineering model known as the Bond Length Alternation ("BLA") theory model, which none of our patented molecular designs rely upon. The BLA model, like all other current industry-standard molecular designs, consists of molecular designs containing long strings of atoms called polyene chains. Longer polyene chains provide higher electro-optic performance, but are also more susceptible to environmental threats, which result in unacceptably low-performing, thermally unstable electro-optic polymers.
+ 
+As a result, high frequency modulators engineered with electro-optic polymers designed on the BLA model or any other polyene chain design models are unstable over typical operating temperature ranges, and often exhibit performance degradation within days, hours or even minutes. Similarly, lower frequency modulators exhibit comparable failings, but to a lesser extent. These flaws, in most cases, have prevented commercial quality polymer-based modulators from entering the commercial marketplace. The thermal stability of these devices does not generally meet the minimum Telcordia GR-468 operating temperature range (-40 degrees Celsius to +85 degrees Celsius) much less the harsher MILSPEC 883D (military specification) range of -55 degrees Celsius to 150 degrees Celsius. While many new applications do not require meeting full military or Telcordia GR-468 specifications for polymers, many potential customers prefer to see polymer operate at or near these conditions to convey confidence in the material system. We understand from initial conversations with data center architects and designers that the temperature specifications that our materials achieve are compliant with their equipment design needs.
+ 
+We are aware of other academic and commercial development efforts—some by larger companies with vastly more financial resources than we possess. However, we believe that no one yet has developed organic polymer materials that have demonstrated the combination of thermal stability and photochemical stability that can meet or exceed commercial specifications.
+ 
+Our Electro-Optic Photonic P2IC™ Device Approach
+ 
+Our electro-optic devices are built around our proprietary organic polymer material systems that we believe will enable better performance than the current embedded legacy technology built around inorganic materials. We also believe that the inherent flexibility of being able to apply our organic polymer materials in liquid thin-film form will accelerate the move toward ultra-miniaturization of Polymer Photonic Integrated Circuits (P2ICTM) by increasing the number of photonic circuits on a single chip. Polymer photonics (previously referred in industry as silicon organic hybrid (SOH)) is the application of polymers on to a platform such as silicon where there are both active and passive photonic component designs. In polymer photonics, polymer devices such as modulators, waveguides, and multiplexers can be fabricated on to a silicon platform that acts as a package as well as a base for mounting lasers (which are needed to source the light).
+ 
+Our initial device, a ridge waveguide modulator, though highly miniaturized utilizes conventional design and fabrication techniques in the industry. Our future devices will utilize silicon photonics (SiPh) technology, which can support highly miniaturized slot waveguides structures etched in large format, low cost, and less expensive silicon wafers coated with our organic electro-optic polymers. The low-cost structure compares well to compound semiconductor technologies such as GaAs (Gallium arsenide) and InP (Indium Phosphide), which suffer from small format wafers that do not allow the economies of scale in high volume fabrication plants. The degree of miniaturization possible of the slot modulator using SiPh is not technically feasible to accomplish with inorganic crystalline materials. Although this may not always remain the case, presently there are nearly insurmountable technical difficulties that are inherent to a crystalline molecule.
+ 
+Although we believe that our polymers will be the key differentiating factor in Polymer photonic devices, we do not currently possess the technical skills and instrumentation necessary to fabricate and test PICs at this dramatically reduced scale and intend to seek an external partner to assist with development.
+ 
+
+5
+-
+
+Our Intellectual Property
+ 
+Our research and development efforts over the last 10+ years have yielded our Company an extensive patent portfolio as well as critical trade secrets, unpatented technology and proprietary knowledge related to our optical polymer materials. Our intellectual property portfolio has expanded significantly over the last year as we are developing our P2IC™ into prototypes. We actively filed technical utility patents over the past few years, and are currently in the process of readying a number of other inventions for formal filings in 2023. We expect to continue innovating with our P2IC platform for the next couple of years. We had a number of patents issued over the past few months indicating that our technology is being recognized as being unique.
+ 
+In 2018, we acquired the polymer technology intellectual property assets of BrPhotonics Productos Optoelectrónicos S.A., a Brazilian corporation, which significantly advanced our patent portfolio of electro-optic polymer technology with 15 polymer chemistry materials, devices, packaging and subsystems patents and further strengthened our design capabilities to solidify our market position as we prepare to enter the 400Gbps integrated photonics marketplace with a highly competitive, scalable alternative to installed legacy systems.
+ 
+In 2022, we acquired the polymer technology and intellectual property assets of Chromosol Ltd (UK), which significantly strengthened our Company's design capabilities with foundry PDKs with extremely low temperature atomic layer deposition (ALD) processes that effectively hermetically seal polymer devices that have been prepared for high volume manufacturing. The advanced fabrication processes of ALD with temperatures below 100C will solidify our market position with both the Company's manufacturing foundry partners as well as end-users as we prepare to enter the 800Gbps integrated photonics marketplace. The acquisition also advanced our Company’s patent portfolio of electro-optic polymer technology with an innovative polymer chemistry device patent that has potential to increase the performance of integrated modulators through optical amplification in a photonic integrated circuit (PIC) and enhance the functionality of the PIC by integrating laser light sources made using the polymer-based gain and a laser optical cavity defined on the Silicon photonic platform, with our Company’s high speed, high efficiency modulators. 
+ 
+In total, our patent portfolio currently consists of 66 granted patents that include 52 from the US, 1 from Canada, 6 from the EU, 2 from Japan and 3 from China.
+ 
+Our materials patent portfolio has also strengthened significantly with the filing of additional new patent applications on our core Perkinamine™ molecular compounds as well as recent, innovative inventions that are expected to protect our P2IC polymer PIC platform from potential competition.
+ 
+Included in our patent portfolio are the following nonlinear optic chromophore designs:
+ 
+
+· | Stable Free Radical Chromophores, processes for preparing the same 
+--+--------------------------------------------------------------------------------
+· | Stable Free Radical Chromophores, processes for preparing the same 
+· | Tricyclic Spacer Systems for Nonlinear Optical Devices 
+· | Anti-Aromatic Chromophore Architectures 
+· | Heterocyclical Anti-Aromatic Chromophore Architectures 
+· | Heterocyclical Chromophore Architectures 
+· | Heterocyclical Chromophore Architectures with Novel Electronic Acceptor Systems
+· | Multi-fiber/port hermetic capsule sealed by metallization and method 
+
+ 
+Our patent portfolio includes patents not only on nonlinear optic chromophore designs, but also device designs and inventions, fabrication process inventions, packaging design inventions, as well as novel chemistry to enable high performance, low power, small footprint polymer PIC technology.
+ 
+Our strategic plan is to utilize our core proprietary technology and leverage our proprietary optical materials to be the core of and the enabling technology for future generations of optical devices, modules, sub-systems and systems that we will develop or potentially out-license to electro-optic device manufacturers. Our Company contemplates future applications that may address the needs of semiconductor companies, automotive/LiDAR companies, sensing companies, aerospace companies and government agencies.
+ 
+We rely on a combination of patents, patent applications, trademarks, trade secrets and contractual provisions to protect our technologies. Further, employees are required to surrender any inventions or intellectual property developed as part of their employment agreements. We also have a policy of requiring prospective business partners to enter into non-disclosure agreements (NDAs) before disclosure of any of our confidential or proprietary information. Our Company can make no assurances that we will be able to effectively protect our technologies and know-how or that third parties will not be able to develop similar technologies and know-how independently.
+ 
+The anti-aromatic nature of these structures dramatically improves the "zwitterionic-aromatic push-pull" of the systems, providing for low energy charge transfer. Low energy charge transfer is important for the production of extremely high electro-optic character.
+ 
+Heterocyclical Steric Hindering System This patent describes a nitrogenous heterocyclical structure for the integration of steric hindering groups that are necessary for the nanoscale material integration. Due to the [pi]-orbital configuration of the nitrogen bridge, this structure has been demonstrated not to interfere with the conductive nature of the electronic conductive pathway and thus is non-disruptive to the electro-optic character of the core molecular construction. The quantum mechanical design of the system is designed to establish complete molecular planarity (flatness) for optimal performance.
+ 
+
+6
+-
+
+
+Totally Integrated Material Engineering System. This patent covers material integration structures under a design strategy known as Totally Integrated Material Engineering. These integration structures provide for the "wrapping" of the core molecule in sterically hindering groups that maximally protect the molecule from environmental threats and maximally protect it from microscopic aggregation (which is a major cause of performance degradation and optical loss) within a minimal molecular volume. These structures also provide for the integration of polymerizable groups for integration of materials into a highly stable cross-linked material matrix.
+ 
+Recent Significant Events and Milestones Achieved
+ 
+During February and March 2018, we moved our Newark, Delaware synthetic laboratory and our Longmont, Colorado optical testing laboratory and corporate headquarters to office, laboratory and research and development space located at 369 Inverness Parkway, Suite 350, Englewood, Colorado. The 13,420 square feet Englewood facility includes fully functional 1,000 square feet of class 1,000 cleanroom, 500 square feet of class 10,000 cleanroom, chemistry laboratories, and analytic laboratories. The Englewood facility streamlines all of our Company’s research and development workflow for greater operational efficiencies.
+ 
+During March 2018, our Company, together with our packaging partner, successfully demonstrated packaged polymer modulators designed for 50Gbaud, which we believe will allow us to scale our P2IC™ platform with our Mach-Zehnder ridge waveguide modulator design as well as other photonics devices competitively in the 100Gbps and 400Gbps datacom and telecommunications applications market. We are currently fine-tuning the performance parameters of these prototypes in preparation for customer evaluations.
+ 
+During June 2018, our Company Acquired the Polymer Technology Intellectual Property Assets of BrPhotonics Productos Optoelectrónicos S.A., a Brazilian corporation, which significantly advanced our patent portfolio of electro-optic polymer technology with 15 polymer chemistry materials, devices, packaging and subsystems patent and further strengthened our design capabilities to solidify our market position as we prepare to enter the 400Gbps integrated photonics marketplace with a highly competitive, scalable alternative to installed legacy systems.
+ 
+Also, during June 2018, our Company promoted polymer PICs and Solidified Polymer PICs as Part of the Photonics Roadmap at the World Technology Mapping Forum in Enschede, Netherlands, which includes our Company’s technology of polymers and polymer PICs that have the potential to drive not only 400Gbps aggregate data rate solutions, but also 800Gbps and beyond.
+ 
+In August 2018 we announced the completion (ahead of schedule) of our fully equipped on-site fabrication facility, where we are expanding our high-speed test and design capabilities. We also announced the continuation of the building of our internal expertise with the hiring of world-class technical personnel with 100Gbps experience.
+ 
+In February 2019 we announced a major breakthrough in our development of clean technology polymer materials that target the insatiable demand for fast and efficient data communications in the multi-billion-dollar telecom and data markets supporting Internet, 5G and IoT (Internet of Things) webscale services. The improved thermally stable polymer has more than double the electro-optic response of our previous materials, enabling optical device performance of well over 100 GHz with extremely low power requirements. This addition to the family of PerkinamineTM polymers will hold back run-away consumption of resources and energy needed to support ever-growing data consumption demands. We continue to conduct testing of the material and assessment of associated manufacturing processes and device structures prior to release to full development.
+ 
+In March 2019 we created an Advisory Board comprised of three world-class leaders in the photonics industry: Dr. Craig Ciesla, Dr. Christoph S. Harder, and Mr. Andreas Umbach. In January 2022 Dr. Ciesla was named to our Board of Directors, and our Advisory Board is currently comprised of Dr. Franky So, Dr. Christoph S. Harder, Mr. Andreas Umbach and Dr. Joseph A. Miller, who is a former member of our Board of directors. The Advisory Board is working closely with our Company leadership to enhance our Company’s product positioning and promote our polymer modulator made on our proprietary Faster by Design™ polymer P2IC™ platform. The mission of the Advisory Board is initially to increase our Company’s outreach into the datacenter interconnect market and later to support expansion into other billion-dollar markets. The Advisory Board members have each been chosen for their combination of deep technical expertise, breadth of experience and industry relationships in the fields of fiber optics communications, polymer and semiconductor materials. Each of the Advisory Board members has experience at both innovators like Lightwave Logic and large industry leaders of the type most likely to adopt game-changing polymer-based products. In addition, they possess operational experience with semiconductor and polymer businesses.
+ 
+
+7
+-
+
+
+Also, in March 2019, our Company received the “Best Achievement in PIC Platform” award for our 100 GHz polymer platform from the PIC International Conference. The award recognizes innovative advances in the development and application of key materials systems driving today’s photonic integrated circuits (PICs) and providing a steppingstone to future devices.
+ 
+During the second quarter of 2019, our Company promoted its polymers at CoInnovate in May and the World Technology Mapping Forum in June. CoInnovate is a meeting of semiconductor industry experts. The World Technology Mapping Forum is a group authoring a photonics roadmap out to 2030.
+ 
+In September 2019 at the prestigious European Conference on Communications (ECOC) in Dublin, Ireland, we showed measured material response over frequency and the resulting optical data bits stream on our clean technology polymer materials, the newest addition to our family of PerkinamineTM polymers, that meet and exceed of our near-term target speed of 80 GHz. We also released data demonstrating stability under elevated temperatures in the activated (poled to create data carrying capability) state.
+ 
+In October 2019, we reported that energy-saving polymer technology is highlighted in the recently published Integrated Photonics Systems Roadmap - International (IPSR-I). The roadmap validates the need for low-voltage, high-speed technologies such as ours.
+ 
+In May 2020, we announced that our latest electro-optic polymer material has exceeded target performance metrics at 1310 nanometers (nm), a wavelength commonly used in high-volume datacenter fiber optics. This material demonstrates an attractive combination at 1310 nm of high electro-optic coefficient, low optical loss and good thermal stability at 850 Celsius. The material is expected to enable modulators with 80 GHz bandwidth and low drive power, and has an electro-optic coefficient of 200 pm/V, an industry measure of how responsive a material is to an applied electrical signal. This metric, otherwise known as r33, is very important in lowering power consumption when the material is used in modulator devices. This technology is applicable to shorter reach datacenter operators, for whom decreasing power consumption is imperative to the bottom line of a facility. We considered this a truly historic moment—not only in our Company’s history, but in our industry–as we have demonstrated a polymer material that provides the basis for a world-class solution at the 1310 nm wavelength, something which other companies have spent decades attempting to achieve.
+ 
+In July 2020, we announced the official launch of our new corporate website www.lightwavelogic.com, reflecting ongoing efforts to provide up-to-date information for investors and potential strategic partners. The revamped website offers a clean, modern design integrated with helpful tools and investor relations resources, including a new corporate explainer video, to illustrate the target markets and advantages of Lightwave Logic’s proprietary electro-optic polymers.
+ 
+In August 2020, we announced the addition of Dr. Franky So, a leading authority in the OLED industry, to our Advisory Board. Dr. So is the Walter and Ida Freeman Distinguished Professor in the Department of Materials Science and Engineering at North Carolina State University. Previously, he was the Head of Materials and Device research for OLEDs at OSRAM Opto Semiconductors, as well as Motorola’s corporate research lab in the 1990s. Dr. So was an early researcher in electro-optic (EO) polymer modulators at Hoechst Celanese. As a member of the Company’s advisory board, Dr. So will work closely with management to enhance Lightwave’s product positioning for, as well as the promotion of, its polymer modulators made on its proprietary platform. In addition, he will provide technical support and advisory services to the Lightwave materials and device teams.
+ 
+On October 7, 2020 we announced the receipt of U.S. Patent number 10,754,093 that improves both the performance and reliability of our high-speed, low-power electro-optic polymer modulators intended for datacenter and telecommunications applications. The patent allows multi-layered electro-optic polymer modulators to perform more efficiently through the design of custom interfaces. These interfaces are designed into the cladding layers that allow optical transmission, electrical conductivity, material integrity, as well as a prevention of solvents affecting adjacent polymer materials. The net impact of all of this allows for our Company’s modulators to improve performance across the board, enabling higher reliability in the fiber optic communications environment.
+ 
+
+8
+-
+
+
+On October 15, 2020, we announced that our proprietary polymer technologies are compatible with currently available integrated photonics platforms. Our proprietary electro-optic materials are currently in the prototyping phase and are fabricated onto standard silicon wafers, and this Polymer Plus™ advancement, driven by the feedback our Company received from potential customers to-date, has allowed our materials to be suitable for additive integration to integrated photonics platforms such as silicon photonics, as well as indium phosphide and other standard platforms – therefore enabling simpler integration by customers. We believe this breakthrough allows a polymer modulator to enhance the performance of existing integrated photonics solutions in the marketplace, enabling higher speed and lower power consumption on foundry-fabricated photonics designs. Since our technology is additive to existing platforms such as silicon photonics, our electro-optic polymers are not actually competing with integrated photonic platforms, but rather enabling them to be more competitive in the marketplace, and it further validates our EO polymer platform as ideally suited to enable optical networking more efficiently than ever.
+ 
+On October 21, 2020, we announced that we have optimized a robust, photo-stable organic polymer material for use in our next-generation modulators intended to be trialed with potential customers under NDA. Our materials show high tolerance to high-intensity infrared light, common in a fiber optic communications environment and increasingly important as higher density of devices access the network, directly resulting in higher intensity infrared light levels. Our preliminary results suggest that our recently developed electro-optic polymer material, designed based on potential customer input, displays unrivaled light tolerance (also known as photostability) compared to any organic commercial solution in use today. Our results meet both our current internal criteria and address potential customer feedback.
+ 
+On November 2, 2020, we disclosed results on our polymer material stability testing including further results for electro-optic efficiency for our Company’s materials that operate both at 1550nm as well as 1310nm. We demonstrated test materials results for electro-optic efficiency to 4000hrs, improvement in sensitivity to oxygen as part of a broadband exposure test, and stability for polymers exposed to 1310nm light at 100mW.
+ 
+On November 20, 2020 we announced the receipt of U.S. Patent number 10,591,755 that details an important invention that allows users of electro-optic polymer modulators to not only operate the devices with high speed and low power directly from CMOS IC chips, but gives them the opportunity to avoid the expense, physical footprint and power consumption of high-speed modulator driver ICs. Furthermore, this patent strengthens our freedom of manufacturing, and directly enables our modulators to become more competitive in the marketplace.
+ 
+On December 16, 2020 we announced the development of a new sealant for our future Chip-on-Board (COB) packaged polymer platform. The sealant, which blocks oxygen and other atmospheric gases, is a key step in our Company’s development towards a polymer modulator without a package, an important enabling technology for the industry. We plan to develop the sealant for commercial implementation in our future modulators. Recent results suggest that our electro-optic polymer sealant material displays encouraging barrier properties and is expected to translate to significant improvement in bare chip robustness against atmospheric gases, as compared to existing EO polymer commercial solutions in use today. While the initial measurements are highly promising, our Company plans to continue development work to further optimize the sealant material and barrier performance towards the chip-on-board goal.
+ 
+On January 13, 2021, we announced the receipt of U.S. Patent number 10,886,694 that details an invention that allows electro-optic polymer modulators to be packaged in a hermetic environment using well-known, high-volume and low-cost fabrication processes that are available in a typical semiconductor fabrication foundry – improving suitability for mass production. Further, the design of this capsule package can improve both the reliability and the coupling interface between fiber optic cables and their laser sources for arrayed photonic integrated circuit solutions. The package can also interpose signals from an underlying circuit board to the polymer modulators, lasers, and other components for data transfer. The hermetic capsule is built from a semiconductor base that contains electrical and optical circuits and components. A hermetic capsule chamber is created by the design of a semiconductor lid that is sealed to the semiconductor base platform by a metallization process. Using standardized fabrication techniques we can now create a package that achieves the performance, reliability, cost, and volume requirements that has been a challenge for the photonics industry for years.
+ 
+On May 11, 2021, we announced the receipt of U.S. Patent number 10,989,871 that details an invention that allows for improved protective polymer layers in modulators when designed into advanced integrated photonic platforms, better positioning them for high-volume manufacturing processes. The protective layers will enhance electro-optic polymer devices' performance through higher reliability, better optical performance and enable the use of standardized manufacturing processes best suited for mass-production.
+ 
+
+9
+-
+
+
+On June 7, 2021, we announced that our company’s common stock was added to the Solactive EPIC Core Photonics EUR Index NTR as part of the index's semi-annual additions. The index includes global public companies with a common theme of optoelectronics, photonics, and optical technologies in general that range from components, modules, manufacturers, and optical network system companies. This inclusion broadens our exposure to the capital markets community, as well as credibility with potential partners and customers.
+ 
+On June 16, 2021, we announced test results from new modulators fabricated in 2021, which exceeded bandwidth design targets and achieved triple the data rate as compared to competing devices in use today. The breakthrough new devices demonstrated 3dB electro-optical with electrical bandwidths that exceed 100GHz – with measurements coming close to our Company’s state-of-the-art 110GHz test equipment capability. We expect this advancement to have a profound impact on the traffic flow on the internet.
+ 
+On June 24, 2021, we announced the receipt of U.S. patent number 11,042,051 that details a breakthrough new device design that enables mass-volume manufacturing when designed into advanced integrated photonic platforms. The device design enhances reliability, improves optical mode control and most important, lowers by consumption through the use of direct-drive, low-voltage operation. The patent is entitled, "Direct drive region-less polymer modulator methods of fabricating and materials therefor" and is expected to open the opportunity for low power consumption electro-optic polymers to be developed into large foundry PDKs (process development kits) and be ready for mass volume commercialization. The patent emphasizes our technology platform using fabrication techniques that would naturally fit into foundry PDKs.
+ 
+On August 4, 2021, we announced that we developed improved thermal design properties for electro-optic polymers used in our Polymer Plus™ and Polymer Slot™ modulators, enabling the speed, flexibility and stability needed for high-volume silicon foundry processes. We successfully created a 2x improvement in r33, while allowing higher stability during poling and post-poling. This provides better thermal performance and enables greater design flexibility in high-volume silicon foundry PDK (process development kit) processes.
+ 
+On August 9, 2021, we announced the receipt of U.S. patent number 11,067,748 entitled "Guide Transition Device and Method" that covers a new invention that enables enhanced optical routing architectures for polymer-based integrated photonics that can be scaled with partner foundries. This new invention will enable innovative, highly scalable optical routing architectures for integrated photonic platforms. The patent provides novel optical waveguide transition designs using two planes of optical waveguides that are expected to be critical for optical signal routing and optical switching, opening the opportunity for high speed, energy efficient electro-optic polymers to be implemented into foundry PDKs (process development kits) to improve the performance of integrated photonic circuits. This breakthrough technology opens the door for advanced integrated photonics architectural design. We believe the simplicity of the design is ideal for production in foundries and will best position our Company to enable increased data traffic on the internet while using less power.
+ 
+On September 1, 2021, our Company's common shares began trading on the Nasdaq Capital Market ("Nasdaq"). The Company’s Nasdaq listing will help to expand our potential shareholder base, improve liquidity, elevate our public profile within the industry and should ultimately enhance shareholder value.
+ 
+On September 15, 2021, we announced the receipt of the 2021 Industry Award for Optical Integration from the European Conference on Optical Communications (ECOC), a premier industry exhibition that was held in Bordeaux from September 13-15, 2021. ECOC created the fiber communication industry awards in six categories to put the spotlight on innovation happening within the industry. The awards recognize and highlight key industry achievements in advancing optical components, photonic integration, optical transport and data center innovation. The awards are selected from top industry players, representing significant innovation in photonics integration at our prestigious exhibition.
+ 
+On September 16, 2021, we announced the achievement of world-record performance for a polymer modulator, as demonstrated in an optical transmission experiment by ETH Zurich, using our Company's proprietary, advanced PerkinamineTM chromophores and Polariton Technologies Ltd.'s newest plasmonic EO modulator, a silicon-photonics-based plasmonic racetrack modulator offering energy-efficient, low-loss, and high-speed modulation in a compact footprint. The groundbreaking results were presented as a post-deadline paper at the prestigious European Conference on Optical Communications (ECOC) industry exhibition and conference in Bordeaux on September 16, 2021. Polariton's plasmonic modulator transmitted 220 Gbit/s OOK and 408 Gbit/s 8PAM. Transmission of an optical signal was conducted over 100 m using a low-voltage electrical drive of 0.6Vp, an on-chip loss of 1 dB, and an optical 3 dB bandwidth of beyond 110 GHz.
+ 
+
+10
+--
+
+
+On January 3, 2022, we announced the publication of our patent application 20210405504A1 by the United States Patent and Trademark Office (USPTO) – entitled 'Nonlinear Optical Chromophores Having a Diamondoid Group Attached Thereto, Methods of Preparing the Same, and Uses Thereof' – which significantly improves the overall stability and performance of our electro-optic polymers. The Company's electro-optic chromophores are designed to have one or more diamondiod molecular groups attached to the chromophore. When such chromophores are dispersed in a host polymer matrix, the electro-optic materials result in improved macroscopic electro-optic properties, increased poling efficiency, increased loading as well as increased stability of these materials after poling. The impact of this technology is that it will accelerate the path for very high-speed, low-power electro-optic polymers to be implemented into large foundry process development kits (“PDKs”) to boost performance of integrated photonic circuits.
+ 
+On January 3, 2022, we announced that we enhanced our Company’s Foundry Process Development Kit Offering with the addition of Optical Grating Couplers. This expanded design tool kit will enable silicon foundries to implement PDKs and fabricate modulators and optical gratings in a single fab run, further enhancing modulator efficacy. We are continuing to work on additional design tool kit components to enable an expedited commercialization process through a more simplified manufacturing process for our foundry partners.
+ 
+On January 3, 2022, we announced that we appointed respected industry leader Dr. Craig Ciesla to our Board of Directors and that retired director Dr. Joseph A. Miller transitioned to our Company's Advisory Board. Dr. Ciesla is currently the Vice President, Head of the Advanced Platforms and Devices Group at Illumina, a leading provider of DNA sequencing and array technologies. There he leads a team driving innovation in sequencing platforms, microfluidics, electronics, and nanofabrication. Prior to Illumina, he was Vice President of Engineering at Kaiam, where he was responsible for the development and production of 100G transceivers for the data-center market. He was also the founding CEO of Tactus Technology, an innovator in the user interface industry, where he was the co-inventor of Tactus' polymer morphing screen technology. Before Tactus he had a variety of roles at Intel, JDSU (now Lumentum), Bookham (now Oclaro) and Ignis Optics developing a wide range of products in the fiber-optics market. He started his career at Toshiba Research Europe, where he performed early terahertz images of skin cancer. Dr. Ciesla holds a BSc (Hons.) in Applied Physics and Ph.D. in Physics from Heriot-Watt University in Edinburgh.
+ 
+On February 10, 2022, we announced breakthrough photostability results on our electro-optic polymer modulators that are compatible with high-volume silicon foundry processes. The improved photostability of our polymers are expected to minimize any optical losses and provide a more robust platform for silicon foundries. This breakthrough photostability performance is incredibly important as we optimize our polymers for high-volume silicon foundry processes.
+ 
+On March 7, 2022, we announced the receipt of U.S. patent number 11,262,605 entitled, "Active region-less polymer modulator integrated on a common PIC platform and method." This invention will simplify modulator integration for high-volume foundry manufacturing operations while enhancing polymer reliability to enable a more effective photonic engine. The essence of the invention is a complete optical engine that fits into fiber optic transceivers (either pluggable or co-packaged) that are used in routers, servers and elsewhere in optical networks. The engine is designed for high-volume manufacturing operations using silicon foundry infrastructure. The patent illustrates the use of our polymer modulators as a high speed, low power engine not only for data communication and telecommunication applications, but other new market opportunities as well.
+ 
+On March 22, 2022 we announced the achievement of world-class results for a polymer modulator, as demonstrated in an enhanced stability and high-speed measurement by Polariton Technologies and ETH Zurich. The results were generated using the Company's proprietary, advanced Perkinamine™ chromophores in Polariton's silicon-photonics-based plasmonic racetrack modulator that offers energy-efficient, low-loss, and high-speed modulation in a compact footprint that is ideal for pluggable and/or co-packaging transceiver modules. The plasmonic modulator performance was compared to that of silicon photonic microring modulators. The plasmonic device, using Lightwave Logic's electro-optic polymer material, was shown to be 250-3000x more stable than the silicon devices relative to operating condition changes. In addition, the plasmonic modulator was tested for 70+ minutes at 100 Gbps NRZ at 80C with no decrease in performance. The world-class results were presented as a contributed peer-reviewed paper at the prestigious 2022 Optical Fiber Conference (OFC2022), the optical communication industry's leading international technical conference and trade show, in San Diego on March 10, 2022.
+ 
+
+11
+--
+
+
+On April 19, 2022, we announced the publication of our patent application 2022/0113566 A1 entitled "TFP (thin film polymer) optical transition device and method" that illustrates the design of a simpler to fabricate, lower cost hybrid integrated photonics chip using electro-optic polymers which are more advantageous for high-volume production. The invention will simplify polymer modulator fabrication when integrated with silicon photonics for high-volume foundry manufacturing applications. The simplified fabrication approach enables us to simplify the production of very high speed, low power proprietary polymer modulators that will enable significantly faster data rates in the internet environment. The essence of the invention is a hybrid polymer-silicon photonics engine that fits into fiber optic transceivers (either pluggable or co-packaged) that are used in the routers, servers and network equipment that are proliferating with the growth of data centers, cloud computing and optical communications capacity. The hybrid polymer-silicon photonics engine is designed to use high-volume silicon foundry infrastructure.
+ 
+On May 25, 2022, we announced enhanced photostability results on our Company's proprietary electro-optic polymer modulators – demonstrating the reliability necessary for commercial deployments – all based on a technology which can be ported into high-volume silicon foundries and integrated onto a silicon photonics platform with other optical devices. Photostability is a critical performance metric required both in high volume manufacturing processes (such as photolithography) and in offering the high reliability and network availability required for commercial deployments. In the tests conducted, subjecting the Company's latest polymers to high intensity optical power for over 3000 hours produced no change in device performance. The ability of our proprietary polymers to pass this accelerated photostability aging test provides assurance that they will both tolerate the optical exposures which occur in high-volume manufacturing and support the reliability over the required operating life of optical transceivers and network elements.
+ 
+On June 21, 2022, we announced the publication of our patent application 2022/0187637A1 entitled "Hybrid electro-optic polymer modulator with silicon photonics" that details a novel fabrication process that allows our Company’s proprietary polymers to be fabricated by silicon foundries in a high-volume manufacturing environment. The published patent application also details a more efficient process that allows for high yielding, high stability poling of polymers in a high-volume foundry manufacturing environment. The development of the PDK for this new optical hybrid optical modulator design is now in progress with our Company’s foundry partners.
+ 
+June 23, 2022, we announced the publication of our patent application 2022/0187638A1 entitled " Hybrid electro-optic polymer modulator with atomic layer deposition (ALD) sealant layer" that allows our Company’s proprietary polymers to be sealed to moisture and other atmospheric gases in a very low temperature and quasi-hermetic environment through the use of a chip-scale packaging approach that can be applied in parallel at wafer level (i.e. in volume) and that eliminates the need for a separate hermetic enclosure or "gold box." Chip-scale packaging is a technique that has been gathering momentum in the silicon electronics industry for the past decade to reduce device chip packaging costs and increase device performance – enabling high-volume front and back-end manufacturing as well as extremely small sizes in miniaturization. Specifically, our electro-optic polymer modulators are sealed with a low-temperature conformal atomic layer deposition dielectic layers that are supported on a silicon substrate with passive silicon photonics waveguides.
+ 
+On June 27, 2022 our Company's common stock was added to the Russell 3000® Index. We expect that the awareness of being included in one of the most widely followed benchmarks will not only benefit our existing shareholders but will lead to a broader base of institutional investors. The annual Russell index reconstitution captures the 4,000 largest US stocks as of May 6, ranking them by total market capitalization. Our membership in the US all-cap Russell 3000® Index, which remains in place for one year, means automatic inclusion in the small-cap Russell 2000® Index as well as the appropriate growth and value style indexes.
+ 
+On June 30, 2022, we announced that our CEO, Dr. Michael Lebby, was again invited to co-chair the Photonic Integrated Circuits (PIC) International Conference that took place June 28-29, 2022 in Brussels, Belgium. At the conference, Dr. Lebby led an invited talk entitled, "Enabling lower power consumption optical networking using high speed, low power polymer modulators", focusing on the issue of reducing power consumption in datacenters and optical networks. He also contributed to a panel session, "Hybrid PICs technology challenges and solutions," on the need for hybrid integration addressing the volume production of 3D and 2.5 integrated electronic and photonic integrated circuits (PICs) based on the utilization of large silicon foundries. This included a discussion on the use of silicon photonics with hybrid technologies such as electro-optic polymers, polymer based plasmonics, silicon nitride and III-V laser sources.
+ 
+
+12
+--
+
+
+On September 22, 2022, we announced the achievement of world record performance for low-power consumption ultra-high-speed 'green' slot modulators in collaboration with Karlsruhe Institute of Technology (KIT) and its spin-off SilOriX as part of a peer-reviewed post-deadline paper presented at the prestigious 2022 European Conference on Optical Communications (ECOC) in Basel, Switzerland on September 22, 2022. The team presented the first sub-1mm Mach Zehnder-type modulators with sub-1V drive voltage that rely on Lightwave’s proprietary advanced Perkinamine™ chromophores. The devices rely on the slot-waveguide device concept developed at KIT and commercialized through SilOriX. Further, the material has experimentally proven thermal stability at 85°C and offers extreme energy-efficiency along with high-speed modulation in a compact footprint. Additionally, this shows that our material can perform in a variety of device structures and designs and is positioned to significantly reduce power consumption of optical networking and to become a true 'green photonics' enabler for the industry.
+ 
+On September 22, 2022, we announced the achievement of a world-record demonstration of a 250GHz super high bandwidth electro-optical-electrical (EOE) link through a collaboration with ETH Zurich. The link was demonstrated by ETH Zurich and uses Polariton's high-speed plasmonic modulators containing Lightwave's proprietary Perkinamine™ chromophores and ETH Zurich's high-speed graphene photodetectors. The link contained a plasmonic modulator using electro-optic polymer material as well as a novel metamaterial enhanced graphene photodetector featuring a 200 nm spectral window and a setup-limited1 bandwidth of 500 GHz. The EOE link achieved a world record and unprecedented 250 GHz 3dB bandwidth2. This is an optical link that utilizes devices with extremely high bandwidths, and the plasmonic demonstration shows that hybrid technologies such as our electro-optic polymers and graphene together form an important technology platform for volume scalability using large silicon foundries for mass commercialization. The groundbreaking results were presented by Stephan Koepfli as part of a peer-reviewed post-deadline paper presented at the prestigious 2022 European Conference on Optical Communications (ECOC) in Basel, Switzerland on September 22, 2022.
+ 
+On November 15, 2022, we announced the receipt of U.S. patent number 11,435,603 B2 entitled "TFP (thin film polymer) optical transition device and method," which illustrates the design of a simpler to fabricate, lower cost hybrid integrated photonics chip using electro-optic polymers which are more advantageous for high-volume production. The simplified fabrication approach enables streamlined production of very high speed, low power proprietary polymer modulators that will enable significantly faster data rates in the internet environment. The essence of the invention is a hybrid polymer-silicon photonics engine that fits into fiber optic transceivers (either pluggable or co-packaged) that are used in the routers, servers and network equipment that are proliferating with the growth of data centers, cloud computing and optical communications capacity.
+ 
+On November 17, 2022, we announced the receipt of U.S. patent number 11,435,604 B2 entitled "Hybrid electro-optic polymer modulator with silicon photonics," which allows Lightwave Logic's proprietary polymers to be fabricated by silicon foundries in a high-volume manufacturing environment. The patent also details a more efficient process that allows for high yielding, high stability poling of polymers in a high-volume foundry manufacturing environment. From a commercial standpoint, this patent enables our polymers to be mass-produced using existing silicon foundry equipment, simplifying production for the foundry's we are working with. 
+ 
+On November 29, 2022, we announced our acquisition of the polymer technology and intellectual property assets of Chromosol Ltd (UK). The acquisition significantly strengthened our Company's design capabilities with foundry PDKs with extremely low temperature atomic layer deposition (ALD) processes that effectively hermetically seal polymer devices that have been prepared for high volume manufacturing. The advanced fabrication processes of ALD with temperatures below 100C will solidify our Company's market position with both the Company's manufacturing foundry partners as well as end-users as we prepare to enter the 800Gbps integrated photonics marketplace. The acquisition also advanced our Company’s patent portfolio of electro-optic polymer technology with an innovative polymer chemistry device patent that has potential to increase the performance of integrated modulators through optical amplification in a photonic integrated circuit (PIC) and enhance the functionality of the PIC by integrating laser light sources made using the polymer-based gain and a laser optical cavity defined on the Silicon photonic platform, with our Company’s high speed, high efficiency modulators. Having access to extremely low temperature ALD allows our Company's polymer modulators to be protected from the environment without the need for expensive and large footprint gold box packaging, propelling our Company forward with chip-scale packaging as required by major hyper-scaler end-users. The patent opens a new class of PICs which expands our variety of devices. The Patent is US patent number 9837794, EU patent number 3017489, China registration number 201480048236 & 201910230856, and is entitled, “Optoelectronic devices, methods of fabrication thereof and materials therefor.”
+ ———————
+  Set-up limited' indicates that the measurement was limited by the testing equipment.
+  University of Kiel, Germany supported the digital signal processor (DSP), and ETHZ supported the photodetector.
+  
+13
+--
+
+
+On December 12, 2022, we announced the receipt of U.S. patent number 11,506,918 B2 entitled “Hybrid electro-optic polymer modulator with atomic layer deposition (ALD) sealant layer,” which allows our proprietary polymers to be sealed to moisture and atmospheric gases in a very low temperature and quasi-hermetic environment through the use of a chip-scale packaging approach that can be applied in parallel at wafer level (i.e. in volume) and that eliminates the need for a separate hermetic enclosure or "gold box." Specifically, our electro-optic polymer modulators will be sealed with low-temperature conformal atomic layer deposition dielectric layers that are supported on a silicon substrate with passive silicon photonics waveguides. The sealant process will enable lower cost system implementation in a high-volume foundry environment.
+ 
+On December 13, 2022, we provided a world-class figure-of merit performance for modulators using electro-optical polymers and a plasmonic device design in conjunction with Polariton Technologies. Building from the world record performance and demonstration of a 250 GHz super high bandwidth electro-optical-electrical (EOE) link that was presented at the 2022 European Conference on Optical Communications (ECOC)3 through a collaboration with ETH Zurich, these latest figure of merit results show the potential for extreme power savings for optical network equipment and demonstrated clearly that polymer-based technology platforms are positioned well for general implementation. These results were achieved using Polariton's electro-optic polymer-based plasmonic devices with Lightwave's electro-optic materials, with a bandwidth greater than 250 GHz. While these high-speed results have been reported previously, here Lightwave Logic reported for the first time that the voltage-length product Figure of Merit (FoM) for this modulator is just 60 Vum, which is approximately 10X better than the performance of the optical semiconductor modulators that are incumbent in the optical network and internet today. This figure of merit will allow ultra-low voltage operation and, enabled by Polariton's plasmonic modulator, the ability to carry significantly more data per modulator while consuming much less power. The net positive effect on system level equipment is expected not only to be significant, but perhaps more importantly, also a strong driver of a ''green photonics" platform. These results position our Company extremely well for next generation ultra-high-capacity interconnects for the hyper-scale market. The combination of electro-optic polymers and plasmonics is becoming an ideal sunrise technology platform to address the 'Achilles heel' of the data industry: high power consumption. As the industry contemplates the implementation of PAM4 200G lanes for 2023 and 2024, these optical devices already have shown capability for at least 2X these lane speeds.
+ 
+On January 12, 2023, our Chief Executive Officer, Dr. Michael Lebby, hosted a presentation and participated in an industry panel discussion at the 2023 Photonics Spectra Conference, a prominent virtual conference within the photonics industry. In the panel discussion, Dr. Lebby and a panel of industry experts from the entire photonics integrated chip (PIC) value chain, discussed lessons learned when scaling PIC production for volume applications. In his presentation, Dr. Lebby reviewed the potential solutions that electro-optical polymer modulators offer to integrated and hybrid photonics integrated chips (PICs), discussing their relevance to PIC packaging operations as well as how electro-optic polymers boost PIC speed and power efficiency.
+ 
+On January 30, 2023, our Chief Executive Officer, Dr. Michael Lebby, participated in an industry panel discussion at the 2023 Laser Focus World Executive Forum. The Laser Focus World Executive Forum is one of the industry's premier events for senior-level executives, technology directors, and business managers from technology companies around the world, delivering an in-depth analysis of the global laser and photonics market. In this discussion, Dr. Lebby joined a panel of industry experts to discuss how the success of Silicon Photonics is based on the premise that it is a semiconductor technology, and hence it can be manufactured in volume by semiconductor fabs. The panel addressed the manufacturing plans of photonic integrated circuits (PICs) by semiconductor fabs and how the photonic industry can transfer their processes to the semiconductor industry.
+ 
+As we move forward to diligently meet our goals, we continue to work closely with our packaging and foundry partners for 112Gbaud prototypes, and we are advancing our reliability and characterization efforts to support our prototyping. Depending on electrical encoding schemes such as PAM4, or PAM8, or wavelength optical multiplexing, these Gigabaud rates roughly translate to 200Gbps and 300Gbps per lane, and are the key speed rates for emerging 800Gbps to future possible 1200Gbps applications. Our partnership with silicon-based foundries will allow us to scale commercial volumes of electro-optic polymer modulator devices using large silicon wafers, and we are currently working to have our fabrication processes accepted into foundry PDKs (process development kits). These are the recipes that foundries use to manufacture devices in their fabrication plants.
+ 
+We are actively engaged with test equipment manufacturers of the most advanced test equipment to test our state-of-the-art polymer devices. We continue to engage with multiple industry bodies to promote our roadmap. We continue to fine tune our business model with target markets, customers, and technical specifications. Our business model includes the licensing of our strong IP and Patent portfolio, as well as technology transfer to entities such as foundries. Discussions with prospective customers are validating that our modulators are ideally suited for the datacenter and telecommunications markets that are over 10km in length. Details and feedback of what these prospective customers are seeking from a prototype are delivered to our technical team.
+ ———————
+  The groundbreaking results were presented by Stefan Koepfli (ETH Zurich) as part of a peer-reviewed post-deadline paper presented at the prestigious 2022 European Conference on Optical Communications (ECOC) in Basel, Switzerland on September 22, 2022. The post-deadline paper is titled ">500 GHz Bandwidth Graphene Photodetector Enabling Highest-Capacity Plasmonic-to-Plasmonic Links."
+ 
+
+14
+--
+
+The Global Photonic Device Market
+ 
+General Overview
+ 
+Lightwave Logic has been reviewing the latest market data as well as its own internal data for its business strategy, and below we detail the global market dynamics both in terms of data traffic as well as how co-packaged optical solutions which will require optimized modulators will grow in the fiber communications segment of the market.
+ 
+As we have already seen with products such as smart phones, lap top computers, and personal digital assistants (PDAs), Internet traffic, and especially mobile internet traffic is one of the important metrics that is being used to show activity in fiber communications, and particularly telecommunications as well as data communications (which includes datacenters and high-performance computing). Internet Protocol (IP) traffic has typically been used to gauge the amount of data that is being used on the internet as shown in the graph below (sourced from Cisco VNI in 2022). The metric is Exabytes per month. An Exabyte is 1E18 which is 1000 Petabytes, or 1000,000 Terabytes or a billion Gigabytes of data. As seen from the graph which has a strong growth of 26% CAGR (2017-2022) of global IP traffic, with the majority traffic being driven by internet video. The traffic rates are fast approaching the metric of Zetta which is 1E21 bytes of data. Some estimates are discussing the further metric of Yotta which is 1E24 bytes of data over the next decade, which is also expected to be driven for the most part by internet video.
+ 
+
+
+Within the overall market trends of IP traffic growth and in particular mobile video, the internet will need to be able to support high volumes of data traffic. To do this, the fiber-optic infrastructure that allows data to be communicated between network nodes such as datacenters, within datacenters, and optical network switches etc., needs to be upgraded. Today, fiber-optic networks are a combination of long, medium and short optical interconnects that range from 3 meters (or 1yard) to over 1000km depending on application in the optical network. Optical components, typically known as photonics components are used to build the fiber-optic infrastructure and consist of things such as: laser diodes, photodetectors, multipliers, modulators, transceivers etc. These are known as discrete components, while a mix of these components that are integrated or connected on a single substrate (such as silicon, InP, GaAs etc.) are called PICs (Photonic Integrated Components). All of these components are packaged and put into transceivers.
+ 
+
+15
+--
+
+
+The global device and connection growth market share as forecasted by Yole Developpment in their optical transceivers for datacom and telecom report (2021) is expected to grow from $18B in 2018 to approximately $30B in 2023 as can be seen by the figure below (Source: Yole Developpment). The compound annual growth is expected to reach a healthy 10% for the period 2018 to 2023. This market has machine to machine market vertical at nearly 50% of the market share by 2023, followed by smartphones, TVs and game consoles, non-smartphones, Personal computers, other, and tablets.
+ 
+
+The datacom optics revenue forecast ranging from 2020 through 2026, and onto 2032 is shown in the figure below. This data is also sourced from Yole Developpment, and is reported in their co-packaged optics for data centers report in 2022. The data shows that the datacom optics revenues have grown from nearly $6B in 2020 to a forecast that exceeds $15B in 2026, and over $28B by 2032. The respective compound annual growth rates are a very healthy 19% for 2020-2026, and a healthy 11% for the period 2026-2032. The market is segmented into three major categories that include: Active optical cable and embed optical modules, ethernet, and co-packaged optics/on-board optics. In all of these categories the growth of PIC based engines for optical transceivers being utilized in datacom optics is expected to grow quickly. In all of these segments today, many of the optical engines are either indium phosphide or silicon photonics based. These optical engines are expected to be upgraded with hybrid PIC solutions that improve the overall performance of the PIC.
+
+
+16
+--
+
+
+The optical transceiver revenue forecast ranging from 2020 through 2026 by market segment is shown in the figure below. This data is also sourced from Yole Developpment, and is reported in their optical transceivers for datacom and telecom market report published in 2021. The data shows that the optical transceiver revenues have grown from nearly $10B in 2020 to forecast that approaches $21B in 2026. The respective compound annual growth rates are a healthy 14% for the period 2020-2026. The market is segmented into two major categories that include: Datacom and telecom. In these categories the growth of PIC based engines for optical transceivers being utilized in both datacom and telecom is expected to grow quickly using hybrid solutions that are expected to incorporate electro-optic polymer technologies.
+ 
+
+
+17
+--
+
+
+A large driver of the growth of the optical transceiver market is the corresponding growth of - and the “need for speed” by - the large data center operators lead by Amazon. Data sourced from Lightcounting shows the rapid adoption and growth of each generation of speed. As noted earlier, our unique polymer technology platform has inherent advantages for the requirements of 800Gbps.
+ 
+
+As the Company is developing polymer based photonic devices such as fiber-optic modulators, these devices translate electric signals into optical signals and allow laser-based technology to operate effectively at, 100G, 200G, and beyond. Lasers with modulators are used in fiber communication systems to transfer data over fiber-optic networks today and are expected to be a key driver in photonics components for PIC based technological solutions over the next decade. Optical data transfer using lasers and modulators is significantly faster and more efficient than transfer technologies using only electric signals, permitting more cost-effective use of bandwidth for broadband Internet and voice services.
+ 
+
+18
+--
+
+Our Target Markets
+ 
+Cloud computing and data centers
+ 
+Big data is a general term used to describe the voluminous amount of unstructured and semi-structured data a Company creates – data that would take too much time and cost too much money to load into a relational database for analysis. Companies are looking to cloud computing in their data centers to access all the data. Inherent speed and bandwidth limits of traditional solutions and the potential of organic polymer devices offer an opportunity to increase the bandwidth, reduce costs, improve speed of access, and to reduce power consumption both at the device as well as the system level.
+ 
+Datacenters have grown to enormous sizes with hundreds of thousands and even millions of servers in a single datacenter. The number of so-called “hyperscale” datacenters are expected to continue to increase in number. Due to their size, a single “datacenter” may consist of multiple large warehouse-size buildings on a campus or even several locations distributed around a metropolitan area. Data centers are confronted with the problem of moving vast amounts of data not only around a single data center building, but also between buildings in distributed data center architecture. Links within a single datacenter building may be shorter than 500 meters, though some will require optics capable of 2 km. Between datacenter buildings, there is an increasing need for high performance interconnects over 10km in reach.
+ 
+Our modulators are suitable for single-mode fiber optic links. We believe that our single mode modulator solutions will be competitive at 500m to 10km link distance lengths, with inherent advantages for 800Gbps applications. 
+ 
+Telecommunications/Data Communications
+ 
+The telecommunications industry has evolved from transporting traditional analogue voice data over copper wire into the movement of digital voice and data. Telecommunication companies are faced with the enormous increasing challenges to keep up with the resulting tremendous explosion in demand for bandwidth. The metropolitan network is especially under stress now and into the near future. Telecommunications companies provide services to some data center customers for the inter-data center connections discussed above. 5G mobile upgrade, autonomous driving and IoT are expected to increase the need for data stored and processed close to the end user in edge data centers. This application similarly requires optics capable of very high speeds and greater than 10 km reach.
+ 
+Industry issues of scaling
+ 
+The key issues facing the fiber-optic communications industry are the economic progress and scalability of any PIC based technological platform. Our polymer platform is unique in that it is truly scalable and is expected to become a high performance engine for transceiver modules. Scalable means being able to scale up for high-speed data rates, while simultaneously being able to scale down in cost, and lower power consumption. This allows a competitive cost per data rate or cost per Gbps metric to be achieved.
+ 
+Fiber optic datacenter and high-performance computing customers want to achieve the metric of $1/Gbps @ 800Gbps (this essentially means a single mode fiber optic link that has a total cost of $800 and operates with a data rate of 800Gbps). Equally importantly, the datacenter industry would like to reduce the power consumption of optical ports for 400Gbps, 800Gbps, etc., significantly. As industry tries to match this target, it needs scalable PIC platforms to achieve this goal, of which our polymer platform is uniquely suited.
+
+
+An article by Dr, Michael Lebby that was recently published in broadband communities (BBC) magazine in early February 2023 discusses the virtues of polymer based technologies as part of an industry technology roadmap. The article is entitled “The internet is the brick wall Nostradamus did not see coming.” In this article cost/performance metrics are discussed that show the trend to higher and higher data rates using PIC platforms that include very high speed, low power modulator devices.
+ 
+
+
+19
+--
+
+
+The article also shows that electro-optic polymers play an important role in PICs over the next decade as they can reduce or close the gap between customer expectations and technical performance through effective scaling increase of high performance with low cost for short distance transceiver optical links.
+ 
+Some of the things needed to achieve the scaling performance of polymers in integrated photonics platforms is within sight today:
+ 
+
+1. | Increased r33 (which leads to very low Vpi in modulator devices) and we are currently optimizing our polymers for this. With Vpi levels of 1V or less will enable direct from associated electronics and potentially save network architects the cost of individual driver ICs. 
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Increase temperature stability so that the polymers can operate at broader temperature ranges effective, where we have made significant progress over the past few years.
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Low optical loss in waveguides and active/passive devices for improved optical budget metrics which is currently an ongoing development program at our Company.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4. | Higher levels of hermeticity for lower cost packaging of optical sub-assemblies within a transceiver module, where our advanced designs are being implemented into polymer-based packages that utilize atomic layer deposition (ALD) that is being developed in-house.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Scalability in terms of cost reduction and high volume manufacturing can be enhanced by:
+ 
+
+1. | Leverage of commercial silicon photonics manufacturing capacity through the use of silicon-based foundries. Our Polymer Plus™ platform seeks to be additive to standard silicon photonics circuits.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Reduction of optical packaging costs by integration at the chip level of multiple modulators and also with other optical devices. Our P2IC™ platform seeks to address device integration.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+20
+--
+
+Business Strategy
+ 
+Our business strategy anticipates that our revenue stream will be derived from one or some combination of the following: (i) technology licensing for specific product application; (ii) joint venture relationships with significant industry leaders; and (iii) the production and direct sale of our own electro-optic device components. Our objective is to be a leading provider of proprietary technology and know-how in the electro-optic device market. In order to meet this objective, we intend to continue to:
+
+· | Further the development of proprietary organic electro-optic polymer material systems 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Develop photonic devices based on our P2ICTM technology 
+· | Develop proprietary intellectual property 
+· | Grow our commercial device development capabilities 
+· | Partner with silicon-based foundries who can scale volume quickly 
+· | Grow our product reliability and quality assurance capabilities 
+· | Grow our optoelectronic packaging and testing capabilities 
+· | Grow our commercial material manufacturing capabilities 
+· | Maintain/develop strategic relationships with major telecommunications and data communications companies to further the awareness and commercialization of our technology platform
+· | Add high-level personnel with industrial and manufacturing experience in key areas of our materials and device development programs. 
+
+ 
+Create Organic Polymer-Enabled Electro-Optic Modulators
+ 
+We intend to utilize our proprietary optical polymer technology to create an initial portfolio of commercial electro-optic polymer product devices with applications for various markets, including telecommunications, data communications and data centers. These product devices will be part of our proprietary photonics integrated circuit (PIC) technology platform.
+ 
+We expect our initial modulator products will operate at symbol rates at least 112 Gigabaud which is roughly 200Gbps when utilized with PAM4 encoding schemes. Our devices are highly linear, and can also enable the performance required to take advantage of more advance complex encoding schemes if required.
+ 
+Our Research and Development Process
+ 
+Our research and development process consist of the following steps:
+ 
+
+· | We develop novel polymer materials utilizing our patented and patent pending technology to meet certain performance specifications. We then develop methods to synthesize larger quantities of such material. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | We conduct a full battery of tests at the completion of the synthesis of each new polymer material to evaluate its characteristics. We also create development strategies to optimize materials to meet specifications for specific applications. We model and simulate each new polymer material so that we can further understand how to optimize the material for device operation.
+· | We integrate data from the material characterization and test results to fabricate devices. We analyze device-testing results to refine and improve fabrication processes and methods. In addition, we investigate alternative material and design variations to possibly create more efficient fabrication processes. 
+· | We create an initial device design using simulation software. Following device fabrication, we run a series of optical and electronic tests on the device. 
+· | We are developing PDKs with commercial silicon-based foundries so that our technology can transfer seamlessly to larger silicon wafer fabrication plants, and scale in volume quickly. 
+
+ 
+We have and expect to continue to make significant operating and capital expenditures for research and development. Our research and development expenses were $12,805,374, $12,476,040 and $4,590,545 for the years ended December 31, 2022, 2021 and 2020, respectively.
+ 
+
+21
+--
+
+Our Proprietary Products in Development
+ 
+As part of a tactical marketing strategy, our Company is developing several optical devices using our proprietary electro-optical polymer material, which are in various stages of development. These include:
+Ridge Waveguide Modulator, Polymer Stack ™
+ 
+Our ridge electro-optic waveguide modulator was designed and fabricated in our in-house laboratory. The fabrication of our first in-house device is significant to our entire device program and is an important starting point for modulators that are being developed for target markets. We have multiple generations of new materials that we will soon be optimizing for this specific design. In September 2017 we announced that our initial alpha prototype ridge waveguide modulator, enabled by our P2IC™ polymer system, demonstrated bandwidth performance levels that will enable 112 Gbaud modulation in fiber-optic communications. This device demonstrated true amplitude (intensity) modulation in a Mach-Zehnder modulator structure incorporating our polymer waveguides. This important achievement will allow users to utilize arrays of 4 x 112 Gbaud symbol rate (4x 200 Gbps data rate) polymer modulators using PAM-4 encoding to enable 800 Gbps data rate systems. These ridge waveguide modulators are currently being packaged with our partner into prototype packages.
+ 
+These prototype packages will enable potential customers to evaluate the performance at 112 Gbaud. Once a potential customer generates technical feedback on our prototype, we expect to be asked to optimize the performance to their specifications. Assuming this is successful, we expect to enter a qualification phase where our prototypes will be evaluated more fully.
+ 
+In parallel, we are developing modulators for scalability to higher symbol rates above 112 Gbaud. In September 2018, we showed in conference presentations the potential of our polymer modulator platform to operate at over 100 GHz bandwidth. This preliminary result corresponds to 100 Gbps data rates using a simple NRZ data encoding scheme or 200 Gbps with PAM-4 encoding. With 4 channel arrays in our P2IC™ platform, the Company thus has the potential to address both 400 Gbps and 800 Gbps markets. While customers may start the engagement at 112 Gbaud, we believe potential customers recognize that scalability to higher speeds is an important differentiator of the polymer technology.
+
+
+We believe the ridge waveguide modulator Polymer Stack™ represents our first commercially viable device and targets the fiber optics communications market. We have completed internal market analysis and are initially targeting interconnect reach distances of less than 1km. In these markets, the system network companies are looking to implement modulator-based transceivers that can handle aggregated data rates 800 Gbps and above. The market opportunity for less than 10km is worth over $2B over the next decade.
+ 
+Polymer Plus™
+ 
+Using our novel waveguide design, we are developing a more compact modulator to be implemented directly with existing integrated photonics platforms such as silicon photonics and Indium Phosphide. As our electro-optic polymers are applied in liquid form, they can be deposited as a thin film coating in a fabrication clean room such as may be found in semiconductor foundries. This approach we call Polymer Plus™. The advantage of this approach is that it allows existing semiconductor integrated photonics platforms such as silicon photonics and indium phosphide to be upgraded with higher speed modulation functionality with the use of polymers in a straight-forward and simple approach. Further, our polymers are unique in that they are stable enough to seamlessly integrate into existing CMOS, Indium Phosphide (InP), Gallium Arsenide (GaAs), and other semiconductor manufacturing lines.
+ 
+A large majority of commercial silicon photonics platforms utilize large silicon photonics foundries such as those that manufacture IC products for a number of applications such as communications, computing, consumer, etc. In order to seamlessly integrate our polymer materials to upgrade for example, silicon photonics designs, partnering with a silicon foundry is necessary.
+ 
+Polymer Slot™
+ 
+As part of supporting further improvement and scalability of our platform, we continue to develop more advanced device structures that include the Polymer Slot™. Our high performance, low power, extremely small footprint polymer photonics slot waveguide modulator utilizes a slot design that is part of PIC platform such as silicon photonics with one of our proprietary electro-optic polymer material systems as the enabling material layer. Initial performance results in 2022 from commercial foundries achieved key design specifications for the slot modulator. 
+
+22
+--
+
+
+Preliminary testing and initial data on our polymer photonics slot waveguide modulators fabricated at commercial foundries demonstrated extremely high performance suitable for the hyperscaler and fiber optics markets. The tested polymer photonic slot chip had less than 1-millimeter square footprint, enabling the possibility of sophisticated PIC architecture designs on a single silicon substrate. In addition, the waveguide structure was a fraction of the length of a typical inorganic-based silicon photonics modulator waveguide and is suitable to be used as an engine for state-of-the-art pluggable transceiver modules such as the OSFP and the QSFP-DD.
+ 
+With the combination of our proprietary electro-optic polymer material and the extremely high optical field concentration in the slot waveguide, the test modulators demonstrated very low operating voltage. Initial speeds exceeded 70GHz in the telecom, 1550 nanometer frequency band, and there were devices that exceeded over 100GHz 3dB bandwidth.
+ 
+We are also continuing our collaborative development of our polymer photonic slot waveguide modulators (Polymer Slot™) with a partner that has advanced device design capabilities using Plasmonic technologies. Some of these devices demonstrated performance levels that exceeded 250GHz in 2022.
+ 
+Our Long-Term Device Development Goal - Multichannel Polymer Photonic Integrated Circuit (P2IC™)
+ 
+Our P2IC™ platform is positioned to address markets with aggregated data rates of 100 Gbps, 400 Gbps, 800 Gbps and beyond. Our P2IC™ platform will contain several photonic devices that may include, over and above polymer-based modulators, photonic devices such as lasers, multiplexers, demultiplexers, detectors, fiber couplers.
+ 
+While our polymer-based ridge waveguide and slot modulators are currently under development to be commercially viable products, our long-term device development goal is to produce a platform for the 400 Gbps, 800 Gbps, 1600Gbps and beyond fiber optic transceiver market. This has been stated in our photonics product roadmap that is publicly available on our website. The roadmap shows a progression in speed from 50 Gbaud based modulators to 100 Gbaud based modulators. The roadmap shows a progression in integration in which the modulators are arrayed to create a flexible, multichannel P2IC™ platform that spans 100 Gbps, 400 Gbps, 800 Gbps, 1.6Tbps (or 1600Gbps), and a scaling philosophy that will grow to 3.2Tbps line rates.
+ 
+We showed bandwidths of polymer-based modulator devices at a major international conference (ECOC – European Conference on Optical Communications 2018) with bandwidths that exceeded 100GHz. We noted that to achieve 100Gbaud, the polymer-based modulator only needs to achieve 80GHz bandwidth. During ECOC 2019, we showed environmental stability. We continue to develop our polymer materials and device designs to optimize additional metrics. We are now optimizing the device parameters for very low voltage operation. At the ECOC 2022 conference we demonstrated two different world record performances using polymer slot based modulators.
+ 
+Other Potential Applications for Our Products
+ 
+We believe that there are myriad potential applications for our organic polymer materials and devices outside of our initial focus of data communications, telecommunications and data centers. These potential applications encompass areas as diverse as military, space, optical computing, and life sciences. We believe that as viable organic polymer materials gain acceptance, their increased flexibility, functionality and low cost will create new applications that may not yet be technically feasible. Two such future applications with revolutionary potential are:
+ 
+All-Optical Switches
+ 
+An all-optical switch is one that enables signals in optical fibers or networks to be selectively switched from one fiber or circuit to another. Many device designs have been developed and commercialized in today’s telecom networks to effect optical switching by using mechanical or electrical control elements to accomplish the switching event. Future networks will require all-optical switches that can be more rapidly activated with a low energy and short duration optical (light) control pulse.
+ 
+Multi-Channel Optical Modem
+ 
+The availability of low-cost electro-optic modulators will enable low-cost multichannel optical modems that will use many wavelengths in parallel and employ high efficiency modulation techniques such as QAM (quadrature amplitude modulation). Such modems would enable an order of magnitude increase in the Internet capacity of legacy fiber. Our Company is in the early feasibility stage of such a multichannel optical modem.
+
+23
+--
+
+Our Past Government Program Participation
+ 
+Our Company has been a participant in several vital government sponsored research and development programs with various government agencies that protect the interests of our country. The following is a list of some of the various divisions of government agencies that have provided us with advisory, financial and/or materials support in the pursuit of high-speed electro-optic materials. We are not currently partnered with, strategically related to, or financially supported by any governmental agency at this time, however, we may explore future opportunities as our Company grows and gains the additional resources and personnel necessary to support these efforts. Our previous relationships included:
+
+· | National Reconnaissance Office (NRO) 
+--+---------------------------------------------------------------------------------------------------------
+· | Properties Branch of the Army Research Laboratory on the Aberdeen Proving Grounds in Aberdeen, Maryland.
+· | Defense Advance Research Project Agency (DARPA) 
+· | Naval Air Warfare Center Weapons Division in China Lake, California 
+· | Air Force Research Laboratory at Wright-Patterson Air Force Base in Dayton, Ohio 
+
+Our Competition
+ 
+Competitive Technologies - PIC Based Technologies
+ 
+PIC technologies have historically been driven using III-V compound semiconductors, namely InP, although GaAs remains a strong PIC platform, and is expected to strengthen via the VCSEL based 3D sensing applications. Indium Phosphide has been used since the 1980s as the first PIC platform with laser modulator chips where both the laser and modulator were fabricated monolithically. Since the 1980s, there have been InP based transmitters, receivers, and other functional elements that all support the fiber-communications industry. In fact, over the past 3 decades, the fiber communications industry has driven the increased performance, miniaturization and simplicity in packaging for PIC based technologies. Also, back in the 1980s, ‘optoelectronics’ was the key word to describe having both electronic and photonic functions or devices on a single chip. This was known in early publications as an optoelectronics integrated circuit (OEIC). Today optoelectronics is synonymous with ‘photonics’, and hence the common-place use of ‘photonics integrated circuits’ for PICs.
+ 
+In the below figure that discusses hybrid PICs, it can be seen in red that the incumbent technology for PICs is InP. InP can provide a number of devices and opportunities in both electronics as well as photonics. InP main weakness from a function standpoint is that although it can provide HFETs, JFETs, bipolar electronic devices, it has not been able to successfully penetrate LSI, VLSI, or ULSI etc., with digital IC circuitry. Chips such as ASICs and DSPs are not practically available with the InP platform – mostly due to advancement in electronic transistor design, and also through limited maturity in large format wafer manufacturing. Today the majority of InP fabrication is based on 4” or 100mm wafers, and only in the past two years have folks been seriously looking at 6” or 150mm InP wafer infrastructure. From the photonics standpoint, there are very good reasons why InP is the incumbent technology – it provides world class performance in lasers, modulators, simple electronics such as drivers and TIAs (transimpedance amplifiers), as well as highly performing active and passive devices such as SOAs, waveguides, spot-size converters, and mux/demux blocks such as AWG and Eschelle gratings.
+ 
+
+
+
+
+24
+--
+
+
+Over the past decade, the rise of silicon-based photonics has accelerated quickly (as can be seen in green in the Figure). Silicon has a huge history in electronics, and it’s been said by many that if the existing infrastructure could be utilized effectively, then the cost of producing photonics with similar fabrication, design, testing, and simulation tools, would become competitive with the current incumbent technology: InP. As can be seen by the figure, silicon is capable of handling many photonics devices in addition to all electronic functionality with CMOS and BiCMOS based technologies. The only photonic device that remains impossible (at least for the time being) is the emitter or laser where light is generated. This has spawned a new segment for silicon photonics (SiPh) where engineers and scientists have developed creative ways to implement InP into device, wafer, and epi-designs that are silicon based. These solutions are typically referred to as heterogeneous solutions or Hybrid PICs where both InP and silicon are utilized to create PIC platforms with emitter or laser-based functionality.
+ 
+While the red area of the Figure represents the incumbent technology InP, the green areas, Silicon Photonics, the middle areas that are shaded yellow represent PIC based technologies that can utilize either III-V compound semiconductor platforms such as InP, GaAs, even GaN, as well as silicon platforms such as silicon wafers, and various combinations of silicon-based materials such as SOI (silicon on insulator), SiGe etc. The yellow areas are represented by both polymers and dielectric materials that can be deposited onto either silicon or III-V material wafers. These combinations of technology allow flexibility in PIC designs where both polymers and dielectrics can provide a multitude of active and passive photonic devices such as: waveguides (W/G), spot size converters (SSC), modulators (such as Mach Zehnder and slot types), multipliers and demultipliers (Mux/Demux variants such as AWGs, MMI, and Echelle gratings). The interesting part of the polymer and dielectric technology is that combinations of active and passive devices can be mixed and matched with either III-V compound devices as well as silicon based, heterogeneous based devices to design more effective and efficient PICs. For polymers, very low voltage can be utilized for low cost, low power consumption, very high-speed modulators that can be deposited onto a semiconductor platform. For dielectric photonics, very low temperature sensitivity mux/demux devices (such as athermal designs) can be deposited onto a semiconductor platform. As can be seen from the Figure, polymer and dielectric technology suffers from that the fact that high density ICs and laser-based emitters are not available but could be integrated with the appropriate designs for the PIC with III-V compound semiconductors and/or silicon-based technology that have both DSP/ASIC type circuits and laser emitters.
+ 
+PIC technologies have a number various and broad applications as can be seen by the Figure below and highlighted in green. In this Figure applications range from fiber optic communications (green lines), to other market verticals such as: display/ projection display, automotive/LIDAR for self-driving vehicles, optical sensing/3D, bio-photonic sensing, medical, instrumentation etc. .Market TAMs are forecasted over the next decade with estimations for the opportunities for PICs.
+ 
+
+
+
+PIC technologies are based upon semiconductor wafers (such as III-V compound semiconductors – InP, GaAs etc.) as well as silicon wafers (which can be tailored to become SiGe heterogeneous, SOI, etc.). As these platforms are semiconductor based, the wafers are processed in fabs or fabrication facilities to produce devices. As a general rule, silicon has the largest wafers with 8” (200mm) and 12” (300mm) format discs. GaAs typically is running 3” (75mm), 4” (100mm) and 6” (150mm) wafers in production fabs or fabrication plants around the world. There is an expectation that GaAs will eventually move to 8” (200mm) wafers in the next 5 years. InP is in production today on 2” (50mm), 3” (75mm) and 4” (100mm) wafers with an expectation to move to 6” (150mm) in the next 5 years. Heterogeneous solutions with silicon photonics that utilize materials such as SiGe and InP are typically 8” (200mm) and 12” (300mm) format wafers. Polymer photonics can be deposited on either III-V compound semiconductor wafers as well as silicon wafers which makes it suitable for the next generation of PIC based technological platforms for the fiber communications industry.
+ 
+
+25
+--
+
+
+The supply chain for the PIC industry starts with the wafer development and continues through epitaxial growth, device fabrication, optical sub-assembly, module or transceiver builds, and sub-systems which are implemented into optical networking applications. Within these supply chain segments, several combinations of technology can be utilized. For example, CMOS IC circuits can be fabricated onto silicon wafers together with silicon photonics, heterogeneous solutions, that could have the advantage of polymer active devices, and dielectric passive devices on board. InP may be combined with polymer photonics to house on-board or on-wafer emitters to source light for the optical signaling with modulators. Included in the wafers can be combinations of electrical and optical circuitry. Electrical circuitry is usually set up as both as single as well as multilevel interconnects. Optical circuitry is usually set up as a waveguide or optical layer as part of the device fabrication design. PICs can interconnect electrical devices with photonic devices, and also increase chip functionality through the use of electrical and optical active and passive device solutions. Polymer technologies can provide active device function through for example Mach Zehnder modulators, as well as providing passive device function with waveguides, multipliers, and demultipliers.
+ 
+Competitors
+ 
+The markets we are targeting for our electro-optic polymer technology are intensely competitive. While there are no major multi-national companies that compete directly with us on electro-polymers, there are other companies that do manufacture optical modulators. These companies that have incumbent optical modulators using semiconductors include: Lumentum, Broadcom, Intel, Ciena, Fujitsu, and Coherent. These companies are heavily invested in the production of crystalline-based semiconductor electro-optic modulator technologies, as well as the development of novel manufacturing techniques and modulator designs.
+ 
+Smaller companies that compete with us on optical modulators using new and novel technologies include: Hyperlite (who are developing thin film lithium niobate (TFLN) and Lumiphase (who are developing Barium Titanate or BTO).
+ 
+Our Plan to Compete
+ 
+We believe that as our organic polymer technology gains industry acceptance, we will be poised to obtain a significant portion of the component manufacturing market and have our technology become ubiquitous. Electro-optic polymers demonstrate several advantages over other technologies, such as inorganic-based technologies, due to their reduced manufacturing and processing costs, higher performance, and lower power requirements. Our patented organic polymers and future electro-optic photonic devices have demonstrated significant stability advantages over our known competitor’s materials.
+ 
+We believe the principal competitive factors in our target markets are:
+ 
+
+· | The ability to develop and commercialize highly stable optical polymer-based materials and optical devices in commercial quantities.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+· | The ability to obtain appropriate patent and proprietary rights protection. 
+· | The ability to create commercial silicon-based PDKs for our electro-optic polymers 
+· | Lower cost, high production yield for these products. 
+· | The ability to enable integration and implement advanced technologies. 
+· | Strong sales and marketing, and distribution channels for access to products. 
+
+ 
+We believe that our current business planning will position our Company to compete adequately with respect to these factors. Our future success is difficult to predict because we are an early stage company with all of our potential products still in development.
+ 
+Many of our existing and potential competitors have substantially greater research and product development capabilities and financial, scientific, marketing and human resources than we do. As a result, these competitors may:
+ 
+
+· | Succeed in developing products that are equal to or superior to our potential products or that achieve greater market acceptance than our potential products. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Devote greater resources to developing, marketing or selling their products. 
+· | Respond quickly to new or emerging technologies or scientific advances and changes in customer requirements, which could render our technologies or potential products obsolete.
+· | Introduce products that make the continued development of our potential products uneconomical. 
+· | Obtain patents that block or otherwise inhibit our ability to develop and commercialize our potential products. 
+· | Withstand price competition more successfully than we can. 
+· | Establish cooperative relationships among themselves or with third parties that enhance their ability to address the needs of our prospective customers. 
+· | Take advantage of acquisition or other opportunities more readily than we can. 
+
+
+26
+--
+
+Employees and Human Capital 
+ 
+We currently have 21 full-time employees, and we retain several independent contractors on an as-needed basis. Based on our current development plan we expect to add 9 additional full-time employees in 2023.
+People
+ 
+As a technology and innovation-driven company, we depend on a highly skilled workforce. Attracting, developing, advancing and retaining the best talent is critical for us to execute our strategy and grow our business. Individuals with technical, engineering, chemistry and other science backgrounds, experience, or interests are particularly important for us to succeed. We strive to advance a diverse, equitable and inclusive work environment.
+Technical Team
+ 
+Our team is composed of world-class technologists, including materials scientists, design engineers, device engineers, synthetic organic chemists, test and material engineers and technicians.
+ 
+Diversity, Inclusion and Equity
+ 
+We recognize and view equity as key to our success. We work to create a culture of diversity and inclusion so that all of our employees feel they are respected and treated equally, regardless of gender, race, ethnicity, age, disability, sexual orientation, gender identity, cultural background or religious belief. We strive to provide our employees a diverse, equitable, and inclusive work environment.
+ 
+Compensation and benefits
+ 
+Our total rewards package includes market-competitive pay, stock option grants and bonuses, healthcare benefits, retirement savings plans, life insurance, disability insurance, paid time off and family leave, and flexible work schedules.
+ 
+The principal purposes of our equity incentive plan is to attract and retain employees who will contribute to our Company’s long range success, to provide incentives that align the interests of our employees with those of our shareholders, and to promote the success of our Company’s business.
+ 
+Health and Safety
+ 
+We are committed to providing a healthy environment and safe workplace by operating in accordance with established health and safety protocols within our facility and maintaining a strong health and safety compliance program. We prioritize, manage, and carefully track safety performance at our facility and integrate sound safety practices in every aspect of our operations. We regularly conduct self-assessments to examine our safety culture and processes. In response to the COVID-19 pandemic and related mitigation measures, and in conjunction with federal and statewide mandates, we implemented certain changes in an effort to protect our employees from COVID-related exposures. For example, we implemented social distancing in the workplace, extensive cleaning and sanitation processes for both research and development areas and office spaces, and broad work-from-home initiatives for employees in our administrative functions.
+Available Information
+ 
+We maintain a website at www.lightwavelogic.com. We make available on our website under “Investors” – “Financial & Filings,” free of charge, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports as soon as reasonably practicable after we electronically file or furnish such material with the SEC. References to our website in this report are provided as a convenience, and the information on our website is not, and shall not be deemed to be a part of this Report on Form 10-K or incorporated into any other filings we make with the SEC. The SEC maintains an Internet site (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. In addition, we make available on our website under “Investors” – “Corporate Governance”, free of charge, our Audit Committee Charter, Compensation Committee Charter, Nominating And Corporate Governance Committee Charter, Operations Committee Charter and Code of Ethics and Business Conduct. In addition, the foregoing information is available in print, without charge, to any stockholder who requests these materials from us.
+
+27
+--
+

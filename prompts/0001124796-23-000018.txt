@@ -1,0 +1,795 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+
+nLIGHT, Inc., is a leading provider of high‑power semiconductor and fiber lasers for industrial, microfabrication, and aerospace and defense applications. Headquartered in Camas, Washington, we design, develop and manufacture the critical elements of our lasers, and believe our vertically integrated business model enables us to rapidly introduce innovative products, control our costs and protect our intellectual property. 
+We operate in two segments, Laser Products and Advanced Development, and we address three primary end markets: Industrial, Microfabrication, and Aerospace and Defense.
+Products
+
+Overview
+We design, manufacture, and sell a range of high-power semiconductor lasers and fiber lasers that are typically integrated into laser systems or manufacturing tools built by our customers. We also make fiber amplifiers and beam combination and control systems for use in high-energy laser (HEL) systems in directed energy applications. Our vertical integration enables us to develop products that leverage the same underlying technology, thereby enabling us to offer innovative and reliable products to customers in each of our end markets. 
+Semiconductor Lasers
+We sell high-power semiconductor lasers with a broad range of power levels, wavelengths, and output fiber sizes. Our semiconductor lasers are typically used as an integrated energy source for our OEM customers’ solid-state lasers, which are used primarily in a wide range of microfabrication, and aerospace and defense applications.  The core building block of our products is a compound semiconductor laser chip manufactured from a gallium arsenide wafer. We use our patented multiplexed single-chip architecture to combine and package multiple semiconductor laser chips into what we believe are the most brilliant semiconductor lasers commercially available. 
+Fiber Lasers
+We offer programmable and serviceable high-power fiber lasers primarily for use in industrial and aerospace and defense applications. Our fiber lasers use a proprietary active fiber that is doped with a rare-earth element to amplify the light from multiple of our semiconductor lasers into a brighter, more powerful laser beam. Our single- and multi-mode fiber lasers enable fast, high-quality, and efficient processing of materials. Our fiber lasers offer many features, including all-fiber programmable beam sizes and shapes, programmable waveforms, high-speed waveform modulation capabilities, hardware back-reflection suppression, operability in harsh environments, quick and easy serviceability, and exceptional power stability. The programmability and wide operating range of our fiber lasers make them easy for our customers to use and expands their applicability. For example, in some cases, a single programmable fiber laser with the ability to program the size and shape of its output beam can take the place of several less flexible lasers. We have also designed our fiber lasers to be easily field serviceable, which results in higher machine uptime, lower cost of ownership and improved customer experience.
+Directed Energy Products
+We sell standalone fiber amplifiers and we are developing beam combination and control products for directed energy applications within aerospace and defense. We believe that our proprietary fiber amplifiers and beam combination and control technology will enable the development of scalable, high performance and cost-effective HEL systems. 
+Markets
+We sell our products into three primary end markets: Industrial, Microfabrication, and Aerospace and Defense.
+Semiconductor and fiber lasers are displacing legacy lasers and non-laser energy sources across a wide range of applications in the Industrial, Microfabrication, and Aerospace and Defense markets. In the Industrial market, high-power semiconductor and fiber lasers have enabled the creation of next-generation industrial systems to perform manufacturing processes such as cutting, welding, and drilling, as well as advanced manufacturing techniques such as additive manufacturing. In the Microfabrication market, many of the critical microscale features incorporated into products in the automotive, electronics, medical, semiconductor and other markets are made commercially viable by 
+the precise power delivery of lasers. In the Aerospace and Defense market, high-power semiconductor and fiber lasers are currently used across a wide range of mission critical applications, such as defending aircraft against missiles, and are enabling next-generation defense systems.
+Industrial
+The productivity, efficiency and versatility offered by high-power fiber lasers have been critical in making them a key part of the evolution of the industrial ecosystem. Material processing applications, such as cutting, welding, cladding, heat treating, and additive manufacturing, comprise most of the industrial laser market. High-power fiber lasers are rapidly replacing gas and other legacy lasers for cutting, due to their significantly faster speed, higher quality and lower cost when used across a wide range of metals. High-power fiber lasers also continue to take market share from non-laser cutting techniques and are expanding into other applications such as cutting metal tubes and other three-dimensional parts.
+The factors driving the utilization of high-power fiber lasers in metal welding applications include increased speed, higher quality, and lower cost. Fiber laser welding can be done faster, with deeper penetration, less distortion and lower heat input than traditional methods like arc welding. These advantages have fueled adoption of high-power fiber lasers across the automotive industry where system productivity and versatility are critical. Other metal fabrication industries, such as aerospace, energy, and light manufacturing, are also embracing the unique capabilities offered by high-power fiber lasers for welding applications as they seek improved production efficiencies, including energy efficiency, and higher levels of automation.
+In addition to improving traditional manufacturing processes, fiber lasers are also enabling new applications such as metal additive manufacturing. High-power fiber lasers provide the precise power needed to fuse metal powders into intricate three-dimensional metal structures. Advancements in laser technology are also enabling manufacturers to produce ever-larger parts with more complex geometries at faster speeds and lower costs.
+Microfabrication
+Microfabrication refers to the process of creating three-dimensional microscale structures, typically by ablating, annealing, etching, and drilling. Many of the microscale features incorporated into products in the automotive, electronics, medical, semiconductor and other markets are made commercially viable by the precise power delivery of lasers. Preferences for brighter, more vibrant displays in mobile phones, tablets and televisions, and the desire for thinner products with improved battery life and energy efficiency are placing greater importance on the need for components that are smaller, more robust and less expensive, which we believe will continue to drive demand for lasers.
+Aerospace and Defense
+Lasers are used today in a variety of aerospace and defense applications, such as range finding, imaging and directed energy defense systems. Directed energy defense systems utilize concentrated electrical or optical energy rather than chemical or kinetic force to incapacitate, damage, disable or destroy a wide range of threats. Compared to conventional weapons, directed energy weapons using high-power fiber lasers offer ultra-precise targeting, low cost per use and a nearly unlimited magazine. Over the past decade, directed energy technologies have improved steadily, culminating in a series of successful demonstrations of significantly higher power, multi-kilowatt systems. Systems using high-power fiber lasers have shown the highest degree of operational viability.
+Research and Development
+Our research and development activities include innovation of improvements to existing products that enhance performance at reduced cost, and the design of new products that address select market opportunities. While we seek to improve our products on all operating characteristics, we believe we lead the market in terms of semiconductor laser chip brilliance. We work closely with customers to develop products to meet customer application and performance needs, making our research and development efforts more efficient. We also benefit from our vertically integrated business model, as we can conduct design cycles more rapidly through control of the full production process.
+We intend to continue our commitment to research and development and to introduce new products, solutions, and complementary products to maintain and strengthen our competitive position.
+Intellectual Property
+Our success depends in part upon our ability to continue to innovate and invest in research and development to meet the needs of our customers, and to maintain and protect our proprietary technology. To accomplish this, we 
+rely on a combination of intellectual property rights, including patents, trade secrets and trademarks, as well as customary contractual protections with our customers, suppliers, employees, and consultants that access our material intellectual property.
+We have generated, and continue to generate and maintain, patents and other intellectual property rights covering innovations that are intended to create a competitive advantage, and to support the protection of our investments in research and development. Although we believe that our patents and other intellectual property rights have significant value, we do not believe that maintaining or growing our business is materially dependent on any single patent. Due to the rapid pace of innovation within the markets that we serve, it is possible that our protection through patents may be less important than factors such as our technological expertise, continuing development of new products and technologies, protection of trade secrets, market penetration, customer relationships, and our ability to provide support and service to customers worldwide.
+No assurance can be given that any of our patents will not be challenged, invalidated, or circumvented, or that the rights granted thereunder will provide us with a sustained competitive advantage. In addition, there can be no assurance that we will be able to protect our technology, or that competitors will not be able to independently develop similar or functionally competitive technologies, design around our patents, or attempt to manufacture and sell infringing products in countries that do not strongly enforce intellectual property rights.
+Sales and Marketing
+In the Industrial and Microfabrication markets, we sell our products through our direct sales force located in the United States, China, South Korea and various European countries. To supplement our direct sales team, we also sell through independent sales representatives and distributors in Asia, Europe and South America. We selected these independent representatives and distributors based on their ability to provide effective field sales, marketing communications and technical support for select products and markets in target geographies. Our sales and marketing efforts are conducted through an integrated process that involves our direct sales and marketing teams, engineering teams, customer service representatives and our senior management team.
+We maintain customer support and field service staff in our major markets around the world. In addition, many of our independent representatives and distributors have service teams who have been certified by us to provide regional field service and support. We work closely with customers to service equipment and train customers to use and repair our products and explore additional applications for our technologies. Over time we expect to expand our support and field service footprint, particularly in locations where business volume requires local service capabilities.
+In the Aerospace and Defense market, we sell our products and services directly to end customers, including the U.S. Government, prime defense contractors, and defense subcontractors, through our dedicated sales, marketing and engineering teams located in the United States. Due to the stringent demands of our Aerospace and Defense customers, our sales and marketing organization includes engineering, manufacturing, service and support professionals who engage with our customers throughout their products' lifecycles. 
+Customers
+We sell to and support over 400 customers worldwide. A few customers drive a significant portion of our revenues. In the aggregate, our top ten customers accounted for approximately 63%, 63% and 60% of our revenues in 2022, 2021 and 2020, respectively. Our global customers include the U.S. Government, Raytheon Technologies, Velo3D, Mazak, MKS Instruments, Keyence, and Northrop Grumman.
+Information concerning revenue by end-market, geographic region based upon ship-to location, and segment appears under Item 7: Management's Discussion and Analysis of Financial Condition and Results of Operations, and Notes 3 and 21 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+Backlog
+Backlog represents orders that have been received for products, contract research and development, or other services for which a contractual agreement is in place and delivery or performance is expected to occur. Backlog totaled $80.4 million and $115.9 million as of December 31, 2022 and 2021, respectively. 
+All of the backlog as of December 31, 2022 is expected to be filled within the next 12 months. Our backlog is not necessarily indicative of revenues for any specific future period due to possible order cancellations or deferrals, and shipping or acceptance delays. Delays in delivery schedules or a reduction in backlog during any period could have a material adverse effect on our business and results of operations.
+Seasonality
+Our quarterly revenues can fluctuate with general economic trends, holidays in foreign countries such as Chinese New Year in the first quarter of our fiscal year, the timing of capital expenditures by our customers, and general economic trends. In addition, as is typical in our industry, we tend to recognize a larger percentage of our quarterly revenues in the last month of the quarter, which may impact our working capital trends.
+Competition
+The industries in which we operate have significant price and technological competition. We compete with companies that offer semiconductor lasers, fiber lasers, fiber amplifiers and other laser products such as IPG Photonics Corporation, Coherent, BWT Ltd., II-VI Incorporated, Raycus Fiber Laser Technologies, and Trumpf GmbH + Co. KG. We also compete with prime defense contractors and subcontractors in the Aerospace and Defense market, and with companies in the Industrial market that offer widely used non-laser production methods, such as plasma cutting, water-jet cutting and resistance welding. 
+Some of our competitors are larger and have substantially greater financial, research and development, managerial, sales, service and marketing resources than we do. These companies will likely be able to expand into broader products and end markets, which may result in additional competitive pressures on us. Certain competitors also have higher sales volume than we do, which can enable them to lower the prices of their products. Moreover, certain of our customers have internal laser technologies, which may present additional competitive pressure. 
+We believe that our vertically-integrated business model, technology innovation, engineering capabilities, functionality, quality and customer service enable us to compete successfully in the markets we serve, taken as a whole.
+Manufacturing
+We manufacture, package, and test the critical elements of our high-power semiconductor and fiber lasers, including semiconductor laser chips and optical fiber in-house. Our vertically integrated business model enables us to control and protect our proprietary technologies and process knowledge. We outsource components and materials when we feel that a specific component, by itself, does not provide enough competitive advantage to warrant investment in the capital and human resources necessary for its manufacture. We work with our suppliers in these situations to ensure consistent quality and delivery performance. In many cases, components are custom manufactured for us based on our proprietary specifications.
+We purchase raw materials used to manufacture our products and other components, such as semiconductor wafer substrates, fiber laser chip packages, optics, and other materials, from single or limited-source suppliers. We typically purchase our materials through purchase orders or agreed-upon terms and conditions, and we do not have guaranteed supply arrangements with many of these suppliers. To mitigate raw material supply risks, we take a variety of actions such as second source qualification, accumulation of safety stock and vendor surveillance.
+Our primary manufacturing facilities are located in Vancouver, Washington; Camas, Washington; Hillsboro, Oregon; Lohja, Finland and Shanghai, China. We manufacture certain electrical-optical components in our Vancouver, Washington; Camas, Washington; Shanghai, China and Hillsboro, Oregon facilities. We maintain our fiber operations and manufacture fiber in Finland.
+Regulation
+We are subject to significant regulation by local, state, federal and international laws in all jurisdictions in which we operate. Compliance with these requirements can be costly and time consuming. We believe that our operations, products, services, and actions substantially comply with applicable regulations in all jurisdictions. However, the risk of non-compliance cannot be eliminated and therefore there is no assurance that future costs related to these regulations will not be incurred. There is also the possibility that regulations will be retroactively applied, interpreted, or applied differently to our operations, products, services, and actions which will require significant time and 
+resources. See the section of this report titled “Risk Factors—Risks Related to Litigation, Taxation and Regulatory Compliance” for additional information.
+Human Capital Management
+At nLIGHT, we fulfill our mission by fostering innovation, attracting talented people, and managing aspects of our business in an ethical manner that benefits our stakeholders, including the communities in which we operate. Our product innovation, community involvement and the overall success of our business are driven by continued engagement and motivation of our employees. Over the past twenty years we have developed and refined our core values that underpin our corporate culture. At nLIGHT we both recruit and review people based on three criteria we categorize in terms of Skill, Will, and Fit. We encourage collaboration, critical thinking, and respect and foster a workplace where each employee is contributing to the long-term success of the company. During the on-going COVID-19 pandemic, the safety of our employee base has been our top priority, in addition to the safety of the broader communities in which we operate and our dedication to our customers. While we continue to follow the guidelines from health officials, employee input has been critical to establishing and maintaining a safe and healthy global workplace.
+As of December 31, 2022 we had over 1,100 full-time employees worldwide. Of our total full-time employees, approximately 700 were based in the United States and over 350 were based in China, with the remaining in the rest of the world. In Finland, certain employees belong to labor unions for their specialty. There are no labor unions to which our employees belong in any other location. We have not experienced any employee-led work stoppages at any of our facilities. We consider our relationship with our employees to be good.
+Corporate Information
+We maintain a website at https://www.nlight.net. We make available free of charge through our investor relations website, https://investors.nlight.net, our annual reports, quarterly reports, current reports, proxy statements and all amendments to those reports as soon as reasonably practicable after such material is electronically filed or furnished with the United State Securities and Exchange Commission, or SEC. The reference to our website does not constitute incorporation by reference of the information contained at the site.
+The SEC also maintains an Internet website that contains reports and other information regarding issuers, such as nLIGHT, Inc., that file electronically with the SEC. The SEC's Internet website is located at https://www.sec.gov.
+We were incorporated under the name nLight Corporation in Washington in June 2000. We reincorporated in Delaware under the name nLight Photonics Corporation in August 2000 and changed our name to nLIGHT, Inc. in January 2016. 
+ITEM 1. FINANCIAL STATEMENTS
+nLIGHT, INC.
+Index to Consolidated Financial Statements
+
+ | Page
+Report of Independent Registered Public Accounting Firm | 34 
+Consolidated Balance Sheets | 
+Consolidated Statements of Operations | 
+Consolidated Statements of Comprehensive Loss | 
+Consolidated Statements of Stockholders' Equity | 
+Consolidated Statements of Cash Flows | 
+Notes to Consolidated Financial Statements | 
+
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and Board of Directors
+nLIGHT, Inc.:
+Opinions on the Consolidated Financial Statements and Internal Control Over Financial Reporting
+We have audited the accompanying consolidated balance sheets of nLIGHT, Inc. and subsidiaries (the Company) as of December 31, 2022 and 2021, the related consolidated statements of operations, comprehensive loss, stockholders’ equity, and cash flows for each of the years in the three-year period ended December 31, 2022, and the related notes (collectively, the consolidated financial statements). We also have audited the Company’s internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the years in the three-year period ended December 31, 2022, in conformity with U.S. generally accepted accounting principles. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2022 based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+Basis for Opinions
+The Company’s management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s consolidated financial statements and an opinion on the Company’s internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable 
+assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Excess and obsolete inventory
+As discussed in Note 8 to the consolidated financial statements, the Company’s inventories were $67.6 million as of December 31, 2022. The Company records its inventories at the lower of average cost or net realizable value. The Company records an adjustment to the cost basis of inventory when evidence exists that the net realizable value of inventory is lower than its cost, which occurs when the Company has excess and/or obsolete inventory. The Company’s model to estimate the excess and/or obsolete inventory is based on an analysis of certain existing inventory quantities compared to past consumption and recent purchases to determine what inventory quantities, if any, may not be sellable. Based on this analysis, the Company writes down the affected inventory value for any estimated excess and/or obsolete inventory.
+We identified the assessment of the value of certain excess and obsolete inventory as a critical audit matter. Subjective auditor judgment was required to evaluate the assumptions used to estimate future consumption of certain inventory, including whether past consumption and recent purchases were indicative of future consumption, due to the dynamic business environment the Company competes in, which is characterized by rapid technology and product evolution.
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company’s excess and obsolete inventory process, including controls over the assumptions used to estimate future consumption of inventory. We evaluated the assumptions used to estimate future consumption by: (1) inquiring of relevant Company personnel in order to identify relevant changes to the Company’s business environment as it relates to key customers and product lines, and evaluating whether changes to key customers or product lines were properly assessed by the Company in determining the value of excess and obsolete inventory, (2) selecting a sample of inventory items and, for each sample selection, agreeing the historical consumption and historical purchases to underlying documents and evaluating whether the historical data accurately supported the Company’s assumptions regarding future consumption based on changes to the Company’s business environment, and (3) performing a retrospective review of prior year inventory adjustments and analyzing current year sales for identified excess and obsolete inventories to evaluate the Company’s ability to accurately estimate.
+
+/s/ KPMG LLP
+
+We have served as the Company's auditor since 2003.
+Portland, Oregon
+February 27, 2023
+nLIGHT, Inc.
+Consolidated Balance Sheets
+(In thousands)
+
+ | As of 
+ | December 31, 2022 | | December 31, 2021
+Assets | | | 
+Current assets: | | | 
+Cash and cash equivalents | $ | 57,826 | | | $ | 146,534
+Marketable securities | 50,391 | | | — | 
+Accounts receivable, net of allowances of $290 and $303 | 37,913 | | | 41,574 | 
+Inventory | 67,600 | | | 73,746 | 
+Prepaid expenses and other current assets | 17,026 | | | 15,350 | 
+Total current assets | 230,756 | | | 277,204 | 
+Restricted cash | 252 | | | 250 | 
+Lease right-of-use assets | 13,893 | | | 17,048 | 
+Property, plant and equipment, net | 60,693 | | | 56,101 | 
+Intangible assets, net | 4,041 | | | 6,698 | 
+Goodwill | 12,376 | | | 12,420 | 
+Other assets, net | 7,222 | | | 3,897 | 
+Total assets | $ | 329,233 | | | $ | 373,618
+Liabilities and Stockholders’ Equity | | | 
+Current liabilities: | | | 
+Accounts payable | $ | 17,507 | | | $ | 26,347 
+Accrued liabilities | 12,820 | | | 14,730 | 
+Deferred revenues | 1,407 | | | 1,629 | 
+Current portion of lease liabilities | 2,758 | | | 3,066 | 
+Total current liabilities | 34,492 | | | 45,772 | 
+Non-current income taxes payable | 6,699 | | | 7,149 | 
+Long-term lease liabilities | 12,852 | | | 14,612 | 
+Other long-term liabilities | 4,345 | | | 3,952 | 
+Total liabilities | 58,388 | | | 71,485 | 
+Stockholders' equity: | | | 
+Common stock - $0.0001 par value; 190,000 shares authorized, 45,629 and 44,248 shares issued and outstanding at December 31, 2022 and 2021 respectively | 16 | | | 15 | 
+Additional paid-in capital | 496,211 | | | 470,760 | 
+Accumulated other comprehensive loss | (2,748) | | | (587) | 
+Accumulated deficit | (222,634) | | | (168,055) | 
+Total stockholders’ equity | 270,845 | | | 302,133 | 
+Total liabilities and stockholders’ equity | $ | 329,233 | | | $ | 373,618
+
+See accompanying notes to consolidated financial statements.
+nLIGHT, Inc.
+Consolidated Statements of Operations
+(In thousands, except per share data)
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020 | 
+Revenue: | | | | | | 
+Products | $ | 192,658 | | | $ | 206,195 | | $ | 184,841 
+Development | 49,400 | | | 63,951 | | | 37,948 | 
+Total revenue | 242,058 | | | 270,146 | | | 222,789 | 
+Cost of revenue: | | | | | | 
+Products | 145,272 | | | 132,867 | | | 128,255 | 
+Development | 45,965 | | | 59,972 | | | 35,170 | 
+Total cost of revenue | 191,237 | | | 192,839 | | | 163,425 | 
+Gross profit | 50,821 | | | 77,307 | | | 59,364 | 
+Operating expenses: | | | | | | 
+Research and development | 53,773 | | | 54,814 | | | 41,164 | 
+Sales, general, and administrative | 48,258 | | | 52,710 | | | 39,248 | 
+Restructuring | 3,892 | | | — | | | — | 
+Total operating expenses | 105,923 | | | 107,524 | | | 80,412 | 
+Loss from operations | (55,102) | | | (30,217) | | | (21,048) | 
+Other income (expense): | | | | | | 
+Interest income (expense), net | 529 | | | (163) | | | 78 | 
+Other income, net | 338 | | | 336 | | | 378 | 
+Loss before income taxes | (54,235) | | | (30,044) | | | (20,592) | 
+Income tax expense (benefit) | 344 | | | (375) | | | 340 | 
+Net loss | $ | (54,579) | | | $ | (29,669) | | $ | (20,932)
+Net loss per share, basic and diluted | $ | (1.23) | | | $ | (0.70) | | $ | (0.55) 
+Shares used in per share calculations, basic and diluted | 44,436 | | | 42,142 | | | 38,367 | 
+
+See accompanying notes to consolidated financial statements.
+nLIGHT, Inc.
+Consolidated Statements of Comprehensive Loss
+(In thousands)
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020
+Net loss | $ | (54,579) | | | $ | (29,669) | | $ | (20,932)
+Other comprehensive loss, net of tax: | | | | | 
+Foreign currency translation adjustments | (2,555) | | | (328) | | | 2,426
+Unrealized gains on available-for-sale securities | 394 | | | — | | | — 
+Comprehensive loss | $ | (56,740) | | | $ | (29,997) | | $ | (18,506)
+
+See accompanying notes to consolidated financial statements.
+nLIGHT, Inc.
+Consolidated Statements of Stockholders' Equity 
+(In thousands)
+
+ | Common stock | Additional paid-in capital | Accumulated other comprehensive loss | Accumulated deficit | | Total stockholders' equity
+ | | | Shares | Amount | | | 
+Balance, December 31, 2019 | | | 38,084 | | $ | 15 | | $ | 336,732 | | $ | (2,685) | $ | (117,454) | $ | 216,608
+Net loss | | | — | | — | | — | | | — | | (20,932) | (20,932) | 
+Issuance of common stock pursuant to exercise of stock options | | | 862 | | — | | 1,375 | | | — | | — | 1,375 | 
+Issuance of common stock pursuant to vesting of restricted stock awards and units, net of stock withheld for tax | | | 769 | | — | | (6,420) | | | — | | — | (6,420) | 
+Issuance of common stock under the Employee Stock Purchase Plan | | | 78 | | — | | 1,393 | | | — | | — | 1,393 | 
+Stock-based compensation | | | — | | — | | 25,464 | | | — | | — | 25,464 | 
+Cumulative translation adjustment, net of tax | | | — | | — | | — | | | 2,426 | | — | 2,426 | 
+Balance, December 31, 2020 | | | 39,793 | | 15 | | 358,544 | | | (259) | | (138,386) | 219,914 | 
+Net loss | | | — | | — | | — | | | — | | (29,669) | (29,669) | 
+Proceeds from follow-on offering, net of offering costs | | | 2,537 | | — | | 82,354 | | | — | | — | 82,354 | 
+Issuance of common stock pursuant to exercise of stock options | | | 896 | | — | | 1,145 | | | — | | — | 1,145 | 
+Issuance of common stock pursuant to vesting of restricted stock awards and units, net of stock withheld for tax | | | 952 | | — | | (10,606) | | | — | | — | (10,606) | 
+Issuance of common stock under the Employee Stock Purchase Plan | | | 70 | | — | | 1,603 | | | — | | — | 1,603 | 
+Stock-based compensation | | | — | | — | | 37,720 | | | — | | — | 37,720 | 
+Cumulative translation adjustment, net of tax | | | — | | — | | — | | | (328) | | — | (328) | 
+Balance, December 31, 2021 | | | 44,248 | | 15 | | 470,760 | | | (587) | | (168,055) | 302,133 | 
+Net loss | | | — | | — | | — | | | — | | (54,579) | (54,579) | 
+Issuance of common stock pursuant to exercise of stock options | | | 585 | | 1 | | 1,197 | | | — | | — | 1,198 | 
+Issuance of common stock pursuant to vesting of restricted stock awards and units, net of stock withheld for tax | | | 705 | | — | | (4,861) | | | — | | — | (4,861) | 
+Restricted stock awards forfeited in connection with transition agreement | | | (140) | | — | | — | | | — | | — | — | 
+Restricted stock awards adjusted in connection with performance achievement | | | (10) | | — | | — | | | — | | — | — | 
+Issuance of common stock under the Employee Stock Purchase Plan | | | 241 | | — | | 2,358 | | | — | | — | 2,358 | 
+Stock-based compensation | | | — | | — | | 26,757 | | | — | | — | 26,757 | 
+Unrealized gains on available-for-sale securities | | | — | | — | | — | | | 394 | | — | 394 | 
+Cumulative translation adjustment, net of tax | | | — | | — | | — | | | (2,555) | | — | (2,555) | 
+Balance, December 31, 2022 | | | 45,629 | | $ | 16 | | $ | 496,211 | | $ | (2,748) | $ | (222,634) | $ | 270,845
+
+See accompanying notes to consolidated financial statements.
+nLIGHT, Inc.
+Consolidated Statements of Cash Flows
+(In thousands)
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020 | | 
+Cash flows from operating activities: | | | | | | | 
+Net loss | $ | (54,579) | | | $ | (29,669) | | $ | (20,932)
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities: | | | | | | | 
+Depreciation | 11,085 | | | 9,179 | | | 7,710 | | 
+Amortization | 4,614 | | | 5,880 | | | 5,975 | | 
+Reduction in carrying amount of right-of-use assets | 3,000 | | | 3,253 | | | 2,916 | | 
+Provision for (recoveries of) losses on accounts receivable | 4 | | | (70) | | | 88 | | 
+Stock-based compensation | 26,757 | | | 37,720 | | | 25,464 | | 
+Deferred income taxes | 4 | | | 37 | | | (11) | | 
+Loss on disposal of assets | 51 | | | 16 | | | — | | 
+Non-cash restructuring charges | 2,758 | | | — | | | — | | 
+Changes in operating assets and liabilities: | | | | | | | 
+Accounts receivable, net | 2,757 | | | (9,509) | | | (4,009) | | 
+Inventory | 4,623 | | | (18,994) | | | (6,937) | | 
+Prepaid expenses and other current assets | (1,753) | | | (3,630) | | | (3,442) | | 
+Other assets, net | (5,219) | | | (570) | | | (3,463) | | 
+Accounts payable | (5,904) | | | 3,463 | | | 7,306 | | 
+Accrued and other long-term liabilities | (577) | | | (199) | | | 2,269 | | 
+Deferred revenues | (208) | | | (909) | | | 1,800 | | 
+Lease liabilities | (1,942) | | | (2,934) | | | (2,820) | | 
+Non-current income taxes payable | (13) | | | (507) | | | 1,127 | | 
+Net cash (used in) provided by operating activities | (14,542) | | | (7,443) | | | 13,041 | | 
+Cash flows from investing activities: | | | | | | | 
+Acquisition of business, net of cash acquired | (664) | | | (291) | | | (190) | | 
+Purchases of property, plant and equipment | (21,388) | | | (19,317) | | | (23,416) | | 
+Acquisition of intangible assets and capitalization of patents | (332) | | | (2,245) | | | (933) | | 
+Purchase of marketable securities | (99,985) | | | — | | | — | | 
+Proceeds from maturities and sales of marketable securities | 49,988 | | | — | | | — | | 
+Net cash used in investing activities | (72,381) | | | (21,853) | | | (24,539) | | 
+Cash flows from financing activities: | | | | | | | 
+Proceeds from public offerings, net of offering costs | — | | | 82,354 | | | — | | 
+Proceeds from term loan | — | | | — | | | 15,000 | | 
+Principal payments on term loan, debt and financing leases | — | | | (428) | | | (15,115) | | 
+Payment of contingent consideration related to acquisition | — | | | (326) | | | — | | 
+Proceeds from employee stock plan purchases | 2,358 | | | 1,603 | | | 1,393 | | 
+Proceeds from stock option exercises | 1,197 | | | 1,145 | | | 1,375 | | 
+Tax payments related to stock award issuances | (4,861) | | | (10,606) | | | (6,420) | | 
+Net cash (used in) provided by financing activities | (1,306) | | | 73,742 | | | (3,767) | | 
+Effect of exchange rate changes on cash | (477) | | | (235) | | | 545 | | 
+Net increase (decrease) in cash, cash equivalents, and restricted cash | (88,706) | | | 44,211 | | | (14,720) | | 
+Cash, cash equivalents, and restricted cash, beginning of period | 146,784 | | | 102,573 | | | 117,293 | | 
+Cash, cash equivalents, and restricted cash, end of period | $ | 58,078 | | | $ | 146,784 | | $ | 102,573 
+Supplemental disclosures: | | | | | | | 
+Cash paid for interest, net | $ | — | | | $ | 117 | | $ | (311) 
+Cash paid for income taxes | 442 | | | 526 | | | 647 | | 
+Operating cash outflows from operating leases | 3,925 | | | 3,513 | | | 2,919 | | 
+Right-of-use assets obtained in exchange for lease liabilities | 1,349 | | | 8,012 | | | 15,127 | | 
+Accrued purchases of property, equipment and patents | 207 | | | 2,522 | | | 788 | | 
+
+See accompanying notes to consolidated financial statements.
+nLIGHT, Inc.
+Notes to Consolidated Financial Statements
+
+Note 1 - Basis of Presentation and Significant Accounting Policies 
+Basis of Presentation
+The accompanying consolidated financial statements include the accounts of nLIGHT, Inc. and our wholly owned subsidiaries Arbor Photonics, LLC, nLIGHT Cayman Ltd., nLIGHT Laser Technology (Shanghai) Co. Ltd, nLIGHT Oy (Finland), nLIGHT Korea Inc., nLIGHT GmbH, Nutronics, Inc., and OPI Photonics S.r.l. All intercompany balances have been eliminated.
+Use of Estimates
+The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. On an ongoing basis, we evaluate our estimates, including those related to inventory valuation, allowances for doubtful accounts, warranty, sales return reserves and the recoverability of long-lived assets. Management bases its estimates on historical experience and on various other assumptions. Actual results could differ from those estimates.
+Revenue Recognition
+See Note 3 for a detailed description of our revenue recognition policies.
+Cash and Cash Equivalents
+We consider all highly liquid investments with an original maturity of three months or less when acquired to be cash equivalents. Cash and cash equivalents included $32.3 million and $127.1 million of highly liquid investments at December 31, 2022 and 2021, respectively. Cash equivalents are carried at cost, which approximates fair value.
+Inventory
+See Note 8 for a detailed description of our inventory accounting policies.
+Property, Plant and Equipment
+Property, plant and equipment are stated at cost, net of accumulated depreciation. Improvements and replacements are capitalized. Repair and maintenance costs are expensed as incurred. Depreciation is computed using the straight‑line method over the estimated useful life of each asset, generally 2 to 12 years for property and equipment, and 30 years for buildings. Land is not depreciated.
+Goodwill 
+Goodwill is recorded when the purchase price of an acquisition exceeds the fair value of the net assets acquired. Goodwill is not amortized and is tested for impairment at least annually and more frequently if material changes in events or circumstances arise. We perform an annual impairment review of goodwill in the fourth quarter of each year using either a qualitative assessment or a quantitative goodwill impairment test. If the qualitative assessment is selected and determines that the fair value of each reporting unit more likely than not exceeds its carrying value, no further assessment is necessary. If a quantitative test is determined necessary and an impairment is indicated, the impairment loss is recorded to the extent that the reporting unit’s carrying amount exceeds the reporting unit’s fair value. An impairment loss cannot exceed the total amount of goodwill allocated to the reporting unit. Based on qualitative assessments performed in fiscal years 2022, 2021 and 2020, the fair values of the Laser Products and Advanced Development reporting units exceeded their carrying values, and no impairment charges were recorded. See Note 11 for additional information.
+Intangible Assets
+Definite-lived intangible assets consist of acquisition-related development programs, developed technology, and intellectual property. The intangible assets are being amortized using the straight-line method over periods of 2 to 5 years, which reflect the pattern in which economic benefits of the assets are expected to be realized. See Note 11 for additional information.
+Other Assets
+Other assets, net primarily consist of long-term accounts receivable, demonstration ("demo") assets and deposits.
+Demo assets are equipment that is used for demonstration and other purposes with existing and prospective customers. Demo assets are recorded at cost and amortized over an estimated useful life of approximately two years. 
+Amortization expense related to demo assets was as follows (in thousands):
+
+ | Year Ended December 31,
+ | | 2022 | | 2021 | 2020
+Amortization expense | | $ | 1,544 | | $ | 1,979 | $ | 2,166
+
+Restructuring Charges
+Restructuring charges in 2022 were comprised primarily of employee severance and abandoned in-process capital equipment projects related to production capacity that were never placed into service.
+The determination of when we accrue for employee termination benefits depends on whether the termination benefits are provided under a one-time benefit arrangement or under an on-going benefit arrangement. For restructuring charges recorded as an on-going benefit arrangement, a liability for post-employment benefits is recorded when payment is probable, the amount is reasonably estimable, and the obligation relates to rights that have vested or accumulated. For restructuring charges recorded as a one-time benefit arrangement, we recognize a liability for employee termination benefits when a plan of termination, approved by management and establishing the terms of the benefit arrangement, has been communicated to employees. The timing of the recognition of one-time employee termination benefits is dependent upon the period of time the employees are required to render service after communication. If employees are not required to render service in order to receive the termination benefits or if employees will not be retained to render service beyond the minimum legal notification period, a liability for the termination benefits is recognized at the communication date. In instances where employees will be retained to render service beyond the minimum legal notification period, the liability for employee termination benefits is measured initially at the communication date based on the fair value of the liability as of the termination date and is recognized ratably over the future service period. We continually evaluate the adequacy of the remaining liabilities under our restructuring initiatives.
+We record charges related to long-lived assets to be abandoned when the assets cease to be used, and any inventory charges related to restructuring are classified as a cost of revenue. 
+Although we believe that these estimates accurately reflect the costs of our restructuring plans, actual results may differ, thereby requiring us to record additional provisions or reverse a portion of such provisions.
+See Note 16 for additional information.
+Impairment of Long‑Lived Assets
+Long‑lived assets, such as property, plant and equipment, and intangibles subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to estimated undiscounted future cash flows expected to be generated by the asset. If the carrying amount of an asset exceeds its estimated future cash flows, an impairment charge is recognized for the amount by which the carrying amount of the asset exceeds the fair value of the asset. There was no impairment of long‑lived assets recorded for the years ended December 31, 2022, 2021 and 2020.
+Leases
+See Note 15 for a detailed description of our lease accounting policies.
+Research and Development Costs
+Research and development is defined as activities aimed at developing or significantly improving a product or a process or technique whether the product or process is intended for sale or use. A process also may be used internally as a part of a manufacturing activity. Research and development costs are expensed as incurred.
+Stock-Based Compensation
+We recognize compensation expense for stock-based awards on a straight-line basis based on the grant-date estimated fair values and requisite service period. The fair value of stock options is measured using the Black-Scholes option pricing model, while the fair value of restricted stock units (RSU) and restricted stock awards (RSA) are measured based on the closing market price of our common stock on the date of grant. For RSUs and RSAs with performance conditions, compensation costs are also based on the probable outcome of achieving the specified performance conditions. The fair value of restricted stock awards based on certain market performance criteria is measured using the Monte Carlo simulation pricing model.
+Income Taxes 
+We account for income taxes using the asset and liability approach under which deferred income taxes are provided based upon enacted tax laws and rates applicable to the periods in which taxes become payable.
+We recognize the effect of income tax positions only if those positions are more likely than not of being sustained. Recognized income tax positions are measured at the largest amount that is greater than 50% likely to be realized. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs.
+Translation of Foreign Currencies
+Our international subsidiaries use their local currency as their functional currency. The financial statements of the international subsidiaries are translated to their U.S. dollar equivalents at end‑of‑period currency exchange rates for assets and liabilities and at average currency exchange rates for revenues and expenses. Translation adjustments are recorded as a component of Accumulated other comprehensive loss within stockholders’ equity. Realized and unrealized foreign currency gains or losses, net are recorded in Other income, net within the Consolidated Statements of Operations. Realized and unrealized foreign currency gains and losses were as follows for the periods presented (in thousands):
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020
+Realized foreign currency (gain) loss | $ | (967) | | | $ | (294) | | $ | 98
+Unrealized foreign currency (gain) loss | 1,052 | | | 102 | | | (171)
+
+New Accounting Pronouncements 
+ASU 2016-13, ASU 2018-19, ASU 2019-04, ASU 2019-05 and ASU 2020-03
+The Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2016-13, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, in June 2016. ASU 2016-13 replaces the incurred loss impairment methodology in current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates. For assets measured at amortized cost, the new standard requires that the income statement reflects the measurement of credit losses for newly recognized financial assets, as well as the expected increases or decreases of expected credit losses that have taken place during the period. The measurement of expected credit losses is based on relevant information about past events, including historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amount. ASU 2016-13 was amended in November 2018, April 2019 and March 2020. We adopted ASU 2016-13, as amended, on January 1, 2021 on a prospective basis. The adoption did not have a material impact on our financial position, results of operations or cash flows.
+ASU 2019-12
+The FASB issued ASU 2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes, in December 2019. ASU 2019-12 simplifies the accounting for income taxes by removing certain exceptions to the general principles in Topic 740. The amendments also improve consistent application of and simplify GAAP for other areas of Topic 740 by clarifying and amending existing guidance. We adopted ASU 2019-12 on January 1, 2021 on a prospective basis. The adoption did not have a material impact on our financial position, results of operations or cash flows
+Note 2 - Acquisition
+On July 30, 2020, we acquired the outstanding shares of OPI Photonics S.r.l. (OPI), an Italian limited liability company, for cash consideration of $1.6 million. Approximately $0.2 million was paid at closing, $0.7 million was paid in 2021, and the final payment of $0.7 million was made during the third quarter of 2022. 
+The acquisition price was allocated $0.7 million to current assets, primarily inventory and prepaid and other assets, $1.2 million to intangible assets (developed technology) and $1.0 million to liabilities assumed as of the acquisition date based upon their respective fair values. The developed technology acquired is being amortized over the weighted-average useful life of 5 years. The excess of purchase price over the fair value amounts assigned to the assets acquired and liabilities assumed of $0.8 million represents goodwill resulting from the acquisition.
+The goodwill and operating results of OPI are allocated to our Laser Products segment. Revenue and earnings since the date of acquisition are not material. Transaction costs of $0.1 million were expensed as incurred as a component of Sales, general, and administrative expenses in the year ended December 31, 2020. 
+Pro forma financial information has not been provided for the purchase as it was not material to our overall financial position.
+Note 3 - Revenue 
+We recognize revenue upon transferring control of products and services and the amounts recognized reflect the consideration we expect to be entitled to receive in exchange for these products and services. We consider customer purchase orders, which in some cases are governed by master sales agreements, to be the contracts with a customer. As part of our consideration of the contract, we evaluate certain factors, including the customer's ability to pay (or credit risk). For each contract, we consider the promise to transfer products, each of which is distinct, as the identified performance obligations.
+We allocate the transaction price to each distinct product based on its relative standalone selling price. Master sales agreements or purchase orders from customers could include a single product or multiple products. Regardless, the contracted price with the customer is agreed to at the individual product level outlined in the customer contract or purchase order. We do not bundle prices; however, we do negotiate with customers on pricing for the same products based on a variety of factors (e.g., level of contractual volume). We have concluded that the prices negotiated with each individual customer are representative of the stand-alone selling price of the product.
+We often receive orders with multiple delivery dates that may extend across several reporting periods. We allocate the transaction price of the contract to each delivery based on the product standalone selling price and invoice for each scheduled delivery upon shipment or delivery and recognize revenues for such delivery at the point, when transfer of control has occurred. As scheduled delivery dates are generally within one year, under the optional exemption provided by ASC 606-10-50-14a revenues allocated to future shipments of partially completed contracts are not disclosed as performance obligations for point in time revenue. Further, the Company recognizes over time revenue as per ASC 606-10-55-18 (invoice practical expedient) for its cost plus contracts and, accordingly, elects not to disclose information related to those performance obligations under ASC 606-10-50-14b. 
+Rights of return generally are not included in customer contracts. Accordingly, product revenue is recognized upon transfer of control at shipment or delivery, as applicable. Rights of return are evaluated as they occur.
+Revenues recognized at a point in time consist of sales of semiconductor lasers, fiber lasers and other related products. Revenues recognized over time generally consist of development arrangements that are structured based on our costs incurred. Because control transfers over time, revenue is recognized based on the extent of progress towards completion of the performance obligation. We generally use the cost-to-cost measure of progress for our contracts because it best depicts the transfer of control to the customer. Billing under these arrangements generally occurs within one month after the work is completed.
+The following tables represent a disaggregation of revenue from contracts with customers for the periods presented (in thousands):
+
+Sales by End Market
+
+ | Year Ended December 31,
+ | | 2022 | | 2021 | | 2020
+Industrial | | $ | 91,098 | | | $ | 94,795 | | $ | 84,478 
+Microfabrication | | 62,769 | | | 70,412 | | | 51,649
+Aerospace and Defense | | 88,191 | | | 104,939 | | | 86,662
+ | | $ | 242,058 | | | $ | 270,146 | | $ | 222,789
+
+Sales by Geography
+
+ | Year Ended December 31,
+ | | 2022 | | 2021 | | 2020
+North America | | $ | 137,454 | | | $ | 143,232 | | $ | 107,624
+China | | 21,287 | | | 55,446 | | | 70,882
+Rest of World | | 83,317 | | | 71,468 | | | 44,283
+ | | $ | 242,058 | | | $ | 270,146 | | $ | 222,789
+
+Sales by Timing of Revenue
+
+ | Year Ended December 31,
+ | | 2022 | | 2021 | | 2020
+Point in time | | $ | 183,005 | | | $ | 198,838 | | $ | 185,215
+Over time | | 59,053 | | | 71,308 | | | 37,574
+ | | $ | 242,058 | | | $ | 270,146 | | $ | 222,789
+
+Our contract assets and liabilities are as follows (in thousands):
+
+ | Balance Sheet Classification | | As of December 31,
+ | | 2022 | | 2021 
+Contract assets | Prepaid expenses and other current assets | | $ | 10,377 | | $ | 9,657
+Contract liabilities | Deferred revenues and other long-term liabilities | | 2,455 | | 2,358 | 
+
+Contract assets generally consist of revenue recognized on an over time basis where revenue recognition has been met, but the amounts are subsequently billed and collected in the following period. During the years ended December 31, 2022 and 2021, we recognized revenue of $1.6 million and $2.4 million, respectively, that was included in the deferred revenue balances at the beginning of the period as the performance obligations under the associated agreements were satisfied.
+Note 4 - Concentrations of Credit and Other Risks 
+The following customers accounted for 10% or more of our revenues for the periods presented: 
+
+ | Year Ended December 31,
+ | | 2022 | 2021 | 2020
+Quick Laser Technology Co., Ltd. | | (1) | (1) | 12% 
+Raytheon Technologies | | (1) | (1) | 12% 
+U.S. Government | | 17% | 22% | 15% 
+
+(1)Represents less than 10% of total revenues.
+Financial instruments that potentially expose us to concentrations of credit risk consist principally of receivables 
+from customers. As of December 31, 2022, and 2021, two customers accounted for a total of 29% and 33%, respectively, of net customer receivables. No other customers accounted for 10% or more of net customer receivables at either date.
+Note 5 - Accounts Receivable
+Trade accounts receivable are recorded at the invoiced amount and do not bear interest. The allowance for doubtful accounts is our best estimate of the amount of probable credit losses in our existing accounts receivable. We determine the allowance based on historical write-off experience and knowledge of any applicable circumstances.
+Activity related to the allowance for doubtful accounts was as follows for the periods presented (in thousands):
+
+ | Year Ended December 31,
+ | 2022 | | 2021
+Allowance for doubtful accounts, beginning | $ | 303 | | | $ | 367
+Provision (benefit) for losses on accounts receivable | 27 | | | (4) | 
+Write-offs, net | (40) | | | (60) | 
+Allowance for doubtful accounts, ending | $ | 290 | | | $ | 303
+
+Note 6 - Marketable Securities
+Marketable securities consist primarily of highly liquid investments with original maturities of greater than 90 days when purchased. Our marketable securities are considered available-for-sale as they represent investments that are available to be sold for current operations. As such, they are included as current assets on our Consolidated Balance Sheets at fair value with unrealized gains and losses included in accumulated other comprehensive loss. Any unrealized gains and losses that are considered to be other-than-temporary are recorded in other income, net on our Consolidated Statements of Operations. Realized gains and losses on the sale of marketable securities are determined using the specific-identification method and recorded in other income, net on our Consolidated Statements of Operations.
+Realized gains were $0.2 million for year ended December 31, 2022. Unrealized gains were $0.4 million for the year ended December 31, 2022. These unrealized gains are considered temporary and are reflected in the Statements of Comprehensive Loss.
+See Note 7 for additional information.
+Note 7 - Fair Value of Financial Instruments
+The carrying amounts of certain of our financial instruments, including cash equivalents, accounts receivable, prepaid expenses and other current assets, accounts payable and accrued liabilities are shown at cost which approximates fair value due to the short-term nature of these instruments. The fair value of our term and revolving loans approximates the carrying value due to the variable market rate used to calculate interest payments. 
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. The standard describes a fair value hierarchy based on three levels of inputs, of which the first two are considered observable and the last unobservable, that may be used to measure fair value which are the following:
+•Level 1 Inputs: Observable inputs, such as quoted prices (unadjusted) in active markets for identical assets or liabilities at the measurement date.
+•Level 2 Inputs: Observable inputs, other than Level 1 prices, such as quoted prices in active markets for similar assets and liabilities, quoted prices in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+•Level 3 Inputs: Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+Our financial instruments that are carried at fair value consist of Level 1 assets which include highly liquid investments and bank drafts classified as cash equivalents and marketable securities. Our fair value hierarchy for our financial instruments was as follows (in thousands):
+
+ | December 31, 2022
+ | Level 1 | Level 2 | Level 3 | Total
+Cash Equivalents: | | | | 
+Money market securities | $ | 31,658 | | $ | — | $ | — | $ | 31,658
+Commercial paper | 656 | | — | | — | 656 | 
+ | 32,314 | | — | | — | 32,314 | 
+Marketable Securities: | | | | 
+U.S. treasuries | 50,391 | | — | | — | 50,391 | 
+Total | $ | 82,705 | | $ | — | $ | — | $ | 82,705
+
+
+ | December 31, 2021
+ | Level 1 | Level 2 | Level 3 | Total
+Cash Equivalents: | | | | 
+Money market securities | $ | 126,900 | | $ | — | $ | — | $ | 126,900
+Commercial paper | 236 | | — | | — | 236 | 
+Total | $ | 127,136 | | $ | — | $ | — | $ | 127,136
+
+Cash Equivalents
+The fair value of cash equivalents is determined based on quoted market prices for similar or identical securities.
+Marketable Securities
+We classify our marketable securities as available-for-sale and value them utilizing a market approach that uses observable inputs without applying significant judgment.
+Note 8 - Inventory
+Inventory is stated at the lower of average cost (principally standard cost, which approximates actual cost on a first-in, first-out basis) and net realizable value. Inventory includes raw materials and components that may be specialized in nature and subject to obsolescence. On a quarterly basis, we review inventory quantities on hand in comparison to our past consumption, recent purchases, and other factors to determine what inventory quantities, if any, may not be sellable. Based on this analysis, we write down the affected inventory value for estimated excess and obsolescence charges. At the point of loss recognition, a new, lower-cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis.
+Inventory consisted of the following (in thousands):
+
+ | As of December 31,
+ | 2022 | | 2021
+Raw materials | $ | 32,515 | | | $ | 32,185
+Work in process and semi-finished goods | 19,056 | | | 24,642 | 
+Finished goods | 16,029 | | | 16,919 | 
+ | $ | 67,600 | | | $ | 73,746
+
+Note 9 - Prepaid Expenses and Other Current Assets
+The components of prepaid expenses and other current assets are as follows (in thousands):
+
+ | As of December 31,
+ | 2022 | | 2021
+Contract assets | $ | 10,377 | | | $ | 9,657 
+Prepaid expenses | 4,175 | | | 3,483 | 
+Vendor prepayments | 2,423 | | | 2,107 | 
+Other | 51 | | | 103 | 
+ | $ | 17,026 | | | $ | 15,350
+
+Note 10 - Property, Plant and Equipment
+Property, plant and equipment consist of the following (in thousands): 
+
+ | Useful life | As of December 31,
+ | (years) | 2022 | | 2021
+Automobiles | 3 | $ | 110 | | | $ | 114 
+Computer hardware and software | 3 - 5 | 8,712 | | | 6,594 | 
+Manufacturing and lab equipment | 2 - 7 | 89,230 | | | 81,130 | 
+Office equipment and furniture | 5 - 7 | 2,410 | | | 2,361 | 
+Leasehold and building improvements | 2 - 12 | 30,675 | | | 28,125 | 
+Buildings | 30 | 9,392 | | | 9,392 | 
+Land | N/A | 3,399 | | | 3,399 | 
+ | | 143,928 | | | 131,115 | 
+Accumulated depreciation | | (83,235) | | | (75,014) | 
+ | | $ | 60,693 | | | $ | 56,101
+
+Note 11 - Intangible Assets and Goodwill
+Intangible Assets
+The details of definite lived intangible assets were as follows (in thousands):
+
+ | Estimated useful life(in years) | | As of December 31,
+ | | 2022 | | 2021 
+Patents | 3 - 5 | | $ | 6,322 | | $ | 5,986
+Development programs | 2 - 4 | | 7,200 | | 7,200 | 
+Developed technology | 5 | | 2,930 | | 3,038 | 
+ | | | 16,452 | | 16,224 | 
+Accumulated amortization | | | (12,411) | | (9,526) | 
+ | | | $ | 4,041 | | $ | 6,698
+
+Amortization related to intangible assets was as follows (in thousands):
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | 2020 | 
+Amortization expense | $ | 2,879 | | $ | 3,891 | $ | 3,808
+
+Estimated amortization expense for future years is as follows (in thousands):
+
+2023 | $ | 2,230
+2024 | 922 | 
+2025 | 586 | 
+2026 | 303 | 
+Thereafter | — | 
+ | $ | 4,041
+
+Goodwill 
+The carrying amount of goodwill by segment was as follows (in thousands):
+
+ | Laser Products | | Advanced Development | | Totals
+Balance, December 31, 2021 | $ | 2,172 | | | $ | 10,248 | | $ | 12,420
+Currency exchange rate adjustment | (44) | | | — | | | (44)
+Balance, December 31, 2022 | $ | 2,128 | | | $ | 10,248 | | $ | 12,376
+
+Note 12 - Accrued Liabilities
+Accrued liabilities consist of the following (in thousands): 
+
+ | As of December 31,
+ | 2022 | | 2021
+Accrued payroll and benefits | $ | 8,233 | | | $ | 10,915
+Product warranty, current | 2,601 | | | 2,286 | 
+Other accrued expenses | 1,986 | | | 1,529 | 
+ | $ | 12,820 | | | $ | 14,730
+
+Note 13 - Product Warranties 
+We provide warranties on certain products and record a liability for the estimated future costs associated with warranty claims at the time revenue is recognized. The warranty liability is based on historical experience, any specifically identified failures, and our estimate of future costs. The current portion of our product warranty liability is included in the accrued liabilities and the long-term portion is included in other long-term liabilities in our Consolidated Balance Sheets.
+Product warranty liability activity was as follows for the periods presented (in thousands):
+
+ | Year Ended December 31,
+ | 2022 | | 2021
+Product warranty liability, beginning | $ | 5,371 | | | $ | 4,711
+Warranty charges incurred, net | (1,490) | | | (2,467) | 
+Provision for warranty charges, net of adjustments | 1,560 | | | 3,127 | 
+Product warranty liability, ending | 5,441 | | | 5,371 | 
+Less: current portion of product warranty liability | (2,601) | | | (2,286) | 
+Non-current portion of product warranty liability | $ | 2,840 | | | $ | 3,085
+
+Note 14 - Commitments and Contingencies
+Leases
+See Note 15.
+Credit Facilities
+We have a $40.0 million revolving line of credit (LOC) with Pacific Western Bank which is secured by our assets and expires in September 2024. 
+The LOC agreement contains restrictive and financial covenants and bears an unused credit fee of 0.20% on an annualized basis. The interest rate on the LOC is based on the Prime Rate, minus a margin based on our liquidity levels. No amounts were outstanding under the LOC at December 31, 2022 and 2021 and we were in compliance with all covenants.
+Legal Matters
+On March 25, 2022, Lumentum Operations LLC (Lumentum) filed a complaint against nLIGHT, Inc. and certain of its employees in the U.S. District Court for the Western District of Washington. The complaint alleges that Lumentum is the partial or full owner of certain of our patents and requests corresponding relief from the court. We are vigorously defending against Lumentum's allegations. Loss in this matter is not probable and reasonably estimable, and as such no loss contingency has been recorded.
+From time to time, we may be subject to various other legal proceedings and claims in the ordinary course of business. As of December 31, 2022, we believe these matters will not have a material adverse effect on our consolidated financial statements.
+Note 15 - Leases 
+We lease real estate space under non-cancelable operating lease agreements for commercial and industrial space. Facilities-related operating leases have remaining terms of one month to 12.4 years, and some leases include options to extend up to 15 years. Other leases for automobiles, manufacturing and office and computer equipment have remaining lease terms of 0.1 to 4.5 years. These leases are primarily operating leases; financing leases are not material. We did not include any renewal options in our lease terms for calculating the lease liabilities as we are not reasonably certain we will exercise the options at this time. The weighted-average remaining lease term for the lease obligations was 8 years as of December 31, 2022, and the weighted-average discount rate was 3.6%. The weighted-average remaining lease term for the lease obligations was 9 years as of December 31, 2021, and the weighted-average discount rate was 3.5%.
+The components of lease expense related to operating leases were as follows (in thousands):
+
+ | | Year Ended December 31,
+ | | 2022 | | 2021 | | | | 2020 | 
+Lease expense: | | | | | | | | 
+ | Operating lease expense | $ | 3,865 | | | $ | 3,924 | | | $ | 3,052
+ | Short-term lease expense | 573 | | | 525 | | | | 242 | | 
+ | Variable and other lease expense | 872 | | | 741 | | | | 503 | | 
+ | | $ | 5,310 | | | $ | 5,190 | | | $ | 3,797
+
+Future minimum payments under our non-cancelable lease obligations were as follows as of December 31, 2022 (in thousands): 
+
+2023 | $ | 3,235 
+2024 | 2,848 | 
+2025 | 2,037 | 
+2026 | 1,654 | 
+2027 | 1,655 | 
+Thereafter | 6,806 | 
+Total minimum lease payments | 18,235 | 
+Less: interest | (2,625) | 
+Present value of net minimum lease payments | 15,610 | 
+Less: current portion of lease liabilities | (2,758) | 
+Total long-term lease liabilities | $ | 12,852
+
+Note 16 - Restructuring
+During the fourth quarter of 2022, we implemented a restructuring plan which included headcount reductions in both the U.S. and China, and the write-down of in-process capital equipment projects related to production capacity that was never placed into service. Restructuring activity in 2022 was as follows (in thousands):
+
+ | Employee Termination Costs | | Write-Down of Long-Lived Assets | | Other | | Total
+Restructuring charges | $ | 1,271 | | | $ | 2,566 | | $ | 55 | $ | 3,892
+Cash payments | (1,134) | | | — | | | — | | (1,134)
+Non-cash settlements | — | | | (2,566) | | | — | | (2,566)
+Accrual at December 31, 2022 | $ | 137 | | | $ | — | | $ | 55 | $ | 192 
+
+The restructuring accrual is included as a component of Accrued liabilities on our Consolidated Balance Sheets. Approximately $3.8 million of the charges recorded in 2022 were attributable to the Laser Products segment, with the remaining $0.1 million attributable to the Advanced Development segment.
+Note 17 - Income Taxes 
+Loss before income taxes was as follows (in thousands): 
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020
+Domestic | $ | (50,611) | | | $ | (33,940) | | $ | (28,963)
+Foreign | (3,624) | | | 3,896 | | | 8,371
+Loss before income taxes | $ | (54,235) | | | $ | (30,044) | | $ | (20,592)
+
+The income tax provision (benefit) was as follows (in thousands): 
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020
+Current tax expense (benefit): | | | | | 
+State | $ | 73 | | | $ | 70 | | $ | 21 
+Foreign | 264 | | | (458) | | | 2,209 
+Current tax expense (benefit) | 337 | | | (388) | | | 2,230 
+Deferred tax expense (benefit): | | | | | 
+Federal | — | | | — | | | (1,603)
+State | — | | | — | | | (60) 
+Foreign | 7 | | | 13 | | | (227) 
+Deferred tax expense (benefit) | 7 | | | 13 | | | (1,890)
+Income tax expense (benefit) | $ | 344 | | | $ | (375) | | $ | 340
+
+The income tax provision (benefit) differs from the amount computed by applying the statutory federal income tax rate of 21% to the loss before income taxes as a result of the following differences (in thousands): 
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020
+Tax computed at federal statutory rate | $ | (11,436) | | | $ | (6,309) | | $ | (4,324)
+State tax, net of federal tax benefit | (842) | | | (407) | | | (209) 
+Permanent items | (522) | | | (333) | | | 477 
+Stock compensation | 4,005 | | | (3,307) | | | (2,669)
+Foreign dividends and unremitted earnings | (231) | | | 78 | | | 726 
+Foreign rate differential | (360) | | | 29 | | | 501 
+Rate change due to tax reform | — | | | 918 | | | 1,563 
+Federal credits | (445) | | | (993) | | | (639) 
+Tax contingencies, net of reversals | 256 | | | 838 | | | (677) 
+Return to provision | (523) | | | (1,123) | | | (2,242)
+Other | (324) | | | (305) | | | (112) 
+Valuation allowance | 10,766 | | | 10,539 | | | 7,945 
+Income tax expense (benefit) | $ | 344 | | | $ | (375) | | $ | 340 
+
+The income tax expense (benefit) recorded primarily relates to operations in China and Finland, which have income tax rates of 25% and 20%, respectively. 
+The tax effects of temporary differences that give rise to significant portions of the deferred tax assets and deferred tax liabilities are as follows (in thousands): 
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | | 2020
+Deferred tax assets: | | | | | 
+Net operating loss carryforwards | $ | 39,998 | | | $ | 35,585 | | $ | 28,718
+Research and alternative minimum tax credits | 6,658 | | | 6,535 | | | 5,583 
+Accrued expenses and other | 4,999 | | | 7,020 | | | 5,648 
+Lease liabilities | 3,270 | | | 3,525 | | | 2,547 
+Inventory | 3,305 | | | 5,852 | | | 5,181 
+Property and equipment | 293 | | | — | | | — 
+Intangible assets | 9,184 | | | — | | | — 
+Total gross deferred tax assets | 67,707 | | | 58,517 | | | 47,677 
+Less: valuation allowance | (64,796) | | | (54,239) | | | (43,647)
+Total deferred tax assets | 2,911 | | | 4,278 | | | 4,030 
+Deferred tax liabilities: | | | | | 
+Property and equipment | — | | | (87) | | | (3) 
+Intangible assets | — | | | (767) | | | (1,490) 
+Right-of-use assets | (2,869) | | | (3,378) | | | (2,468) 
+Total deferred tax liabilities | (2,869) | | | (4,232) | | | (3,961) 
+Net deferred tax assets | $ | 42 | | | $ | 46 | | $ | 69 
+
+
+Net deferred tax assets are included in Other assets, net in our Consolidated Balance Sheets. 
+In evaluating our valuation allowance, we consider all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies, and recent financial performance. Due to uncertainty with respect to ultimate realizability of deferred tax assets, we have provided a full valuation allowance against the U.S. and China deferred tax assets. The net change in the total valuation allowance for the years ended December 31, 2022, 2021 and 2020 were increases of $10.6 million, $10.6 million and $8.1 million, respectively.
+
+At December 31, 2022, we had U.S., China and state net operating loss (NOL) carryforwards of $162.2 million, $15.4 million and $38.4 million, respectively. These carryforwards will expire from 2023 to 2042 if not used by us to reduce taxable income in future periods. We have U.S. research and development credit carryforwards of $7.8 million. These carryforwards will expire between 2023 and 2042 if not used by us to reduce income taxes payable in future periods. 
+Utilization of NOL carryforwards, credit carryforwards and certain deductions have been subject to annual limitations due to ownership change limitations provided by the Internal Revenue Code of 1986, as amended. We have had three "change in ownership" events that limit the utilization of NOL carryforwards, which occurred twice in August of 2000 and once in January of 2001, and resulted in NOL carryforward limitations totaling $528 thousand. Additional limitations on the use of these tax attributes could occur in the event of possible disputes arising in examination from various taxing authorities. 
+The following table presents a reconciliation of the changes in the unrecognized tax benefit (in thousands): 
+
+Balance at December 31, 2019 | $ | 8,740
+Additions based on tax positions related to the current year | 132 | 
+Additions for tax positions of prior years | 4 | 
+Reductions for tax positions of prior years | (1,285) | 
+Reductions as a result of a lapse of applicable statute of limitations | (53) | 
+Other | 321 | 
+Balance at December 31, 2020 | 7,859 | 
+Additions based on tax positions related to the current year | 661 | 
+Additions for tax positions of prior years | 53 | 
+Reductions as a result of a lapse of applicable statute of limitations | (250) | 
+Other | 112 | 
+Balance at December 31, 2021 | 8,435 | 
+Additions based on tax positions related to the current year | 822 | 
+Reductions for tax positions of prior years | (53) | 
+Reductions as a result of a lapse of applicable statute of limitations | (183) | 
+Other | (437) | 
+Balance at December 31, 2022 | $ | 8,584
+
+
+At December 31, 2022, we had $8.6 million of unrecognized tax benefits (excluding interest and penalties). Of this amount, $3.1 million is recorded in non-current income taxes payable and $5.5 million is recorded as an offset to non-current deferred tax assets on the accompanying Consolidated Balance Sheets. The $5.5 million of unrecognized tax benefits in non-current deferred tax assets is entirely offset by a valuation allowance in both the U.S. and China. Of our unrecognized tax benefits, $3.1 million, if recognized, would impact the effective tax rate. At December 31, 2021, we had recorded $3.5 million of unrecognized tax benefits in non-current income taxes payable and $4.9 million of unrecognized tax benefits recognized as an offset to non-current deferred tax assets on the accompanying Consolidated Balance Sheets. We do not expect a significant decrease to the total amount of unrecognized tax benefits within the next twelve months. 
+We recognize interest and penalties related to unrecognized tax benefits as a component of income tax expense. We recognized penalties and interest during the years ended December 31, 2022, 2021 and 2020, of $0.3 million, $(0.3) million, and $0.5 million, respectively. At December 31, 2022 and 2021, interest and penalties associated with unrecognized tax benefits were $2.0 million and $1.8 million, respectively. 
+At December 31, 2022, our tax years 2019 through 2022, 2018 through 2022, and 2012 through 2022, remain open for examination in the federal, state and foreign jurisdictions, respectively. However, to the extent allowed by law, the taxing authorities may have the right to examine prior periods where net operating losses and credits were generated and carried forward, and to make adjustments up to the net operating loss and credit carryforward amounts. We are not currently under federal, state, or foreign tax examination.
+Note 18 - Stockholders' Equity and Stock-Based Compensation
+Preferred Stock
+We have authorized 5.0 million shares of preferred stock, par value $0.0001, none of which is issued and outstanding.
+Common Stock
+Each share of common stock has the right to one vote. The holders of common stock are also entitled to receive dividends whenever funds are legally available and when declared by the Board of Directors, subject to the prior rights of holders of all classes of stock outstanding having priority rights as to dividends. No dividends have been declared or paid as of December 31, 2022.
+Public Offering
+In March 2021, we closed a follow-on public offering in which we issued and sold approximately 2.5 million shares of common stock (including approximately 0.3 million shares sold pursuant to the full exercise of the underwriters' option to purchase additional shares) at an offering price of $34.00 per share, resulting in aggregate net proceeds to us of approximately $82.4 million after deducting underwriting discounts, commissions and offering costs. 
+Common Stock Repurchase Plan
+On November 14, 2019, our Board of Directors authorized the repurchase of up to $10.0 million of our outstanding shares of common stock. As of December 31, 2022, no repurchases had been executed under the program.
+Equity Incentive Plan
+As of December 31, 2022, there were approximately 2.1 million shares available for issuance under our equity incentive plan. Common stock issued for awards will come from newly issued shares.
+Restricted Stock Awards and Units
+Restricted stock award (RSA) and restricted stock unit (RSU) activity under our equity incentive plan was as follows (in thousands, except weighted-average grant date fair values):
+
+ | | | Number of Restricted Stock Awards | Weighted-Average Grant Date Fair Value
+RSAs at December 31, 2021 | | 753 | | $ | 25.63
+ | Awards granted | | — | | — 
+ | Awards vested | | (271) | | 22.77
+ | Awards forfeited and adjusted | | (150) | | 25.03
+RSAs at December 31, 2022 | | 332 | | $ | 28.24
+
+
+ | | | Number of Restricted Stock Units | Weighted-Average Grant Date Fair Value
+RSUs at December 31, 2021 | | 2,799 | | $ | 24.41
+ | Awards granted | | 1,409 | | 11.46
+ | Awards vested | | (1,098) | | 24.91
+ | Awards forfeited | | (326) | | 24.81
+RSUs at December 31, 2022 | | 2,784 | | $ | 17.63
+
+The total fair value of RSAs and RSUs vested during the year ended December 31, 2022 was $6.2 million and $27.3 million, respectively. Awards outstanding as of December 31, 2022 include 0.7 million performance-based awards that will vest upon meeting certain performance criteria. 
+The performance-based awards granted in 2022 vest based on a market metric called Total Shareholder Return ("TSR") for the performance period of three years relative to the TSR of companies in the Russel 2000 Index as of July 1, 2022, and had a grant-date fair value of $14.89 per share using a Monte Carlo simulation pricing model.
+Stock Options
+The following table summarizes our stock option activity during the year ended December 31, 2022 (in thousands, except weighted-average exercise prices):
+
+ | Number of Options | Weighted-Average Exercise Price | | Weighted-Average Remaining Contractual Term (Years) | | Aggregate Intrinsic Value
+Outstanding, December 31, 2021 | 2,454 | | $1.61 | | 4.4 | | $54,815
+Options exercised | (585) | | $2.05 | | | | 
+Options canceled | (42) | | $9.27 | | | | 
+Outstanding, December 31, 2022 | 1,827 | | $1.29 | | 3.4 | | $16,156
+Options exercisable at December 31, 2022 | 1,825 | | $1.29 | | 3.4 | | $16,155
+Options vested as of December 31, 2022, and expected to vest after December 31, 2022 | 1,827 | | $1.29 | | 3.4 | | $16,156
+
+Total intrinsic value of options exercised for the years ended December 31, 2022, 2021 and 2020 was $7.7 million, $27.1 million and $17.0 million, respectively. We received proceeds of $1.2 million, $1.1 million and $1.4 million from the exercise of options for each of the years ended December 31, 2022, 2021 and 2020, respectively.
+Employee Stock Purchase Plan
+Information related to activity under our Employee Stock Purchase Plan (ESPP) was as follows (in thousands, except weighted-average per share prices): 
+
+ | Year EndedDecember 31, 2022
+Shares issued | 241 | 
+Weighted-average per share purchase price | $ | 9.78
+Weighted-average per share discount from the fair value of our common stock on date of issuance | $ | 1.72
+
+As of December 31, 2022, there were 2.7 million shares available for grant under the ESPP.
+Stock-Based Compensation
+Total stock-based compensation expense was included in our Consolidated Statements of Operations as follows (in thousands):
+
+ | Year Ended December 31,
+ | | 2022 | | 2021 | | 2020
+Cost of revenues | | $ | 2,677 | | | $ | 2,505 | | $ | 1,621 
+Research and development | | 11,675 | | | 13,433 | | | 9,703 
+Sales, general and administrative | | 12,405 | | | 21,782 | | | 14,140
+ | | $ | 26,757 | | | $ | 37,720 | | $ | 25,464
+
+Unrecognized Compensation Costs
+As of December 31, 2022, total unrecognized stock-based compensation was $42.9 million, which will be recognized over an average expected recognition period of 2.1 years.
+Note 19 - 401(k) Plan
+We have a 401(k) Profit Sharing Plan and Trust (the Plan). Participation in the Plan is voluntary and is available to all employees. We may make discretionary matching or qualified non-elective contributions to the Plan. The match is recorded within the cost of revenues and operating expenses in the Consolidated Statements of Operations and was as follows (in thousands):
+
+ | Year Ended December 31,
+ | 2022 | | 2021 | 2020
+401(k) match | $ | 1,323 | | $ | 1,064 | $ | 715
+
+Note 20 - Segment Information 
+We operate in two reportable segments consisting of the Laser Products segment and the Advanced Development segment. The following table summarizes the operating results by reportable segment (dollars in thousands):
+
+ | Year Ended December 31, 2022
+ | Laser Products | | Advanced Development | | Corporate and Other | | Totals
+Revenue | $ | 192,658 | | | $ | 49,400 | | $ | — | $ | 242,058
+Gross profit | $ | 50,063 | | | $ | 3,435 | | $ | (2,677) | $ | 50,821 
+Gross margin | 26.0 | % | | 7.0 | % | | NM* | 21.0 | % 
+
+
+ | Year Ended December 31, 2021
+ | Laser Products | | Advanced Development | | Corporate and Other | | Totals
+Revenue | $ | 206,195 | | | $ | 63,951 | | $ | — | $ | 270,146
+Gross profit | $ | 75,833 | | | $ | 3,979 | | $ | (2,505) | $ | 77,307 
+Gross margin | 36.8 | % | | 6.2 | % | | NM* | 28.6 | % 
+
+
+ | Year Ended December 31, 2020
+ | Laser Products | | Advanced Development | | Corporate and Other | | Totals
+Revenue | $ | 184,841 | | | $ | 37,948 | | $ | — | $ | 222,789
+Gross profit | $ | 58,207 | | | $ | 2,778 | | $ | (1,621) | $ | 59,364 
+Gross margin | 31.5 | % | | 7.3 | % | | NM* | 26.6 | % 
+
+Corporate and Other is unallocated expenses related to stock-based compensation. 
+The geographic location of our long‑lived assets, net, based on location of the assets, was as follows (in thousands):
+
+ | As of December 31,
+ | 2022 | | 2021
+North America | $ | 82,293 | | | $ | 78,937
+China | 10,177 | | | 10,531 | 
+Rest of World | 6,007 | | | 6,946 | 
+ | $ | 98,477 | | | $ | 96,414
+
+Note 21 - Net Loss per Share 
+Basic and diluted net loss and the number of shares used for basic and diluted net loss calculations were the same for all periods presented because we were in a loss position.
+The following potentially dilutive securities were not included in the calculation of diluted shares as the effect would have been anti‑dilutive (in thousands):
+
+ | Year Ended December 31, | | | 
+ | 2022 | 2021 | | 2020 | 
+Restricted stock units and awards | 970 | | 2,459 | | 2,903
+Employee stock purchase plan | — | | — | | 34 
+Common stock options | 1,788 | | 2,635 | | 3,358
+ | 2,758 | | 5,094 | | 6,295
+

@@ -1,0 +1,380 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Company Overview
+ 
+Headquartered in Rockville, Maryland, CEVA is the leading licensor of wireless connectivity and smart sensing technologies and a provider of chip design services. We offer Digital Signal Processors, AI processors, short and long range connectivity solutions, 5G wireless platforms and complementary software for sensor fusion, image enhancement, computer vision, voice input and artificial intelligence, all of which are key enabling technologies for a smarter, more connected world. Our state-of-the-art technology is included in more than 15 billion chips shipped to date for a diverse range of end markets. In 2022, more than 1.7 billion CEVA-powered devices were shipped, equivalent to more than 50 devices every second.
+ 
+Our hardware IP products and solutions are licensed to customers who embed them into their System on Chip (SoC) designs to create power-efficient, intelligent, secure and connected devices. Our customers include many of the world’s leading semiconductor and original equipment manufacturer (OEM) companies targeting a wide variety of cellular and IoT end markets, including mobile, PC, consumer, automotive, robotics, industrial, aerospace and defense and medical. Our software IP is licensed primarily to OEMs who embed our software in their SoC.
+ 
+Our Intrinsix chip design business unit enables us to offer our customers SoC design services, which we refer to as co-creation, that take advantage of our IP portfolio, Intrinsix’s designed to deliver (D2D) and security IP and Intrinsix’s design capabilities for digital, mix signal and RF. We believe that having chip design expertise as part of our offerings strengthens our relationships with customers, streamlines IP adoption, generates recurrent royalties and more. Furthermore, Intrinsix’s experience and customer base in the growing chip development programs with the U.S. Department of Defense and the Defense Advanced Research Projects Agency (DARPA) together with its IP offerings for processor security and chiplets extends CEVA’s serviceable market and revenue base.
+ 
+CEVA is a sustainability and environmentally conscious company. We have adopted both a Code of Business Conduct and Ethics and a Sustainability Policy, in which we emphasize and focus on environmental preservation, recycling, the welfare of our employees and privacy – which we promote on a corporate level. At CEVA, we are committed to social responsibility, values of preservation and consciousness towards these purposes.
+ 
+Our revenue mix comprises primarily of IP licensing fees and related revenues, non-recurring engineering (NRE) revenues and royalties generated from the shipments of products deploying our IP. Related revenues include revenues from post contract support, training and sale of development systems and chips. NRE revenue is associated with our Intrinsix chip design business.
+ 
+We were initially incorporated in Delaware on November 22, 1999 under the name DSP Cores, Inc. The current company was created through the combination of the DSP IP licensing division of DSP Group, Inc. and Parthus Technologies plc (Parthus) in November 2002.
+ 
+We have 485 employees worldwide, with research and development facilities in Israel, the United States, France, Serbia, Ireland and the United Kingdom, and sales and support offices throughout Asia Pacific (APAC), Sweden, France, Israel and the United States.
+ 
+Industry Background
+ 
+DSP Cores
+ 
+Digital signal processing is a key underlying technology in many of today's fastest growing electronics markets. Digital signal processors (DSPs) are specialized high-speed processors that are optimized for performing repetitive arithmetic calculations on an array of data. DSPs provide the foundation for a vast majority of today's electronic products that are smart and connected, enabling the sensing and wireless communications capabilities (e.g. 5G baseband and RAN processing, computer vision, deep neural network, sound processing and analytics).
+ 
+    5 
+
+  
+
+Edge AI Hybrid Processors
+ 
+Edge AI Hybrid processors are a new breed of processors targeted at cost- and power-sensitive intelligent devices that use interchangeable workloads of traditional DSP and AI inferencing algorithms to enable intelligent vision, conversational AI, sensor fusion and contextual awareness. The DSP is used to process conventional algorithms for imaging, vision, voice, sound, radar, among others, while the AI-related workloads such as classification, pattern matching, prediction and detection are handled by a combination of DSPs and AI accelerators. These Edge AI hybrid processors perform all AI inferencing on the device, with no need for cloud-based processing. These processors aim to mimic the human brain, allowing them to perform cognitive tasks for a wide range of functions, including vision, sound, real-time translation, user behavior and malware detection. Edge AI processors will make their way into billions of devices in the coming years, including mobile, consumer, medical, industrial and automotive applications.
+Short Range Wireless IPs
+ 
+Wi-Fi, Bluetooth and ultra wideband (UWB) are key technologies for any company looking to address the mobile, SmartHome, Enterprise, and IoT end markets. Moreover, many companies wish to integrate these connectivity technologies into SoC designs rather than provide connectivity through an additional chip in the system. Yet, Wi-Fi and Bluetooth standards are constantly evolving, and the many new end applications are looking to benefit from these enhancements, which put further pressure on time to market on SoC vendors. The advent of IoT has resulted in significant demand for connectivity IPs that addresses this burgeoning market, among which are smart True Wireless Stereo earbuds, wearables, health monitoring, smart speakers, smart home appliances, and many other consumer and IoT devices. By licensing rather than developing these technologies in-house, companies can now get access to the latest standards and profiles from CEVA without undertaking the expensive research and development costs required to develop these technologies internally.
+ 
+Cellular IoT IPs
+ 
+Cellular IoT, and specifically Narrowband IoT (NB-IoT), LTE Cat-1 and the upcoming RedCap standards have become key technologies for any company wishing to connect low power IoT devices over long distances, using cellular networks. By its nature, cellular is a very complex technology, with most of the industry knowledge held within a few large companies. By providing low power cellular DSP cores and platforms, we help companies overcome the entry barriers to the cellular IoT market without undertaking the complex and expensive R&D to develop these technologies internally.
+ 
+5G/5G Advanced User Equipment and Infrastructure IPs
+ 
+As 5G networks continue to be deployed globally, new use cases and applications that leverage the standard’s enormous bandwidth and ultra-low latency are emerging, including fixed wireless access, private networks and vehicle-to-everything (V2X) communications, to name but a few. CEVA’s latest generation CEVA-XC20 DSP and PentaG2 platform IP effectively lower the high entry barriers for network equipment manufacturers, IoT companies and newcomers who wish to address these huge market opportunities by providing comprehensive IPs on which to build their 5G/5G Advanced SoC and ASICs, while reducing the time-to-market, risk, effort and associated cost.
+Sensor Fusion
+ 
+Inertial and environmental sensors based on micro-electromechanical systems (MEMS) are used in an increasing number of devices, including smartphones, laptops, robots, TWS earbuds, spatial audio headsets, smart TVs, remote controls, AR and VR headsets, drones and many other consumer and industrial devices. The software required to process the sensor data and fuse the data from multiple sensors is complex and requires unique specialization. By licensing rather than developing this sensor processing software in-house, companies can focus their efforts developing the applications that utilize the processed sensor data to create differentiated, contextually aware devices.
+ 
+    6 
+
+  
+
+Chiplets
+ 
+The development of monolithic SoCs at advanced nodes has become exponentially more expensive, and this, coupled with long design cycles and manufacturing lead times, has led to the emergence of chiplets as a viable, cost-effective alternative. A chiplet is a sub processing unit or modular chip that is combined together with other chiplets in a package connected together by die-to-die interconnects, to form a processor. This new approach to complex chip design is a fast and less expensive way to build a processor, where chiplets can provide essential functionality like 5G connectivity and AI processing within a modular processor design. By providing die-to-die interconnect IP and security and assurance IP for chiplets, along with full design services, CEVA can help companies develop chiplets and address this burgeoning market.
+Design Gap
+ 
+The demand for connected and smart mobile, consumer, automotive, industrial, aerospace & defense and IoT devices continues to grow. These devices require faster and low power connectivity, and a richer user experience that is aware and predictive. Semiconductor manufacturers face ever growing pressures to make smaller, feature-rich integrated circuits that are more reliable, less expensive and have greater performance. These two trends are occurring concurrently in the face of decreasing product lifecycles and constrained battery power. The advent of wireless connectivity technologies like 5G, Wi-Fi 6 and Bluetooth 5 and the diverse sensor related workloads required to make a device smart, such as advanced image enhancement, computer vision, AI inferencing, voice and audio pre- and post- processing, spatial audio and motion sensor fusion have further increased these pressures. While semiconductor manufacturing processes have advanced significantly to allow a substantial increase in the number of circuits placed on a single chip, resources for design capabilities have not kept pace with the advances in manufacturing processes, resulting in a growing “design gap” between the increasing manufacturing potential and the constrained design capabilities.
+ 
+CEVA’s Business
+ 
+CEVA addresses the requirements of the mobile, RAN, consumer, automotive, robotics, industrial, aerospace & defense and IoT markets by designing and licensing a broad range of robust processors, platforms and software which streamline the design of solutions for developing a wide variety of application specific solutions that combine connectivity and smart sensing that involve primarily camera, microphone and IMU.
+ 
+Given the “design gap,” as well as the increasing complexity and the unique skill set required to develop a system-on-chip, many semiconductor design and manufacturing companies increasingly choose to license proven intellectual property, such as processor cores (e.g. DSP, CPU, GPU and AI), connectivity platforms (e.g. Bluetooth, Wi-Fi, Ultra Wideband, 5G) and software algorithms (e.g. sensor fusion, sound, spatial audio) and memory and physical IPs from silicon intellectual property companies like CEVA rather than develop those technologies in-house. In addition, with more complex designs and shorter time to market, it is no longer cost efficient and becoming progressively more difficult for most semiconductor companies to develop the signal processing platform, incorporating the complex DSPs like scalar and vector and AI accelerators and related graph compilers and data connectivity modem and PHY platforms. As a result, companies increasingly seek to license these IPs from CEVA or a third-party community of developers.
+ 
+Our Business Model
+ 
+Our objective is for our CEVA wireless connectivity and smart sensing platforms to become the de facto technologies across the mobile, consumer, automotive, robotics, industrial aerospace & defense and IoT markets. To enable this goal, we license our technologies on a worldwide basis to semiconductor and OEM companies that design and manufacture products that combine CEVA-based solutions with their own differentiating technology. We recently expanded our business model through the acquisition of Intrinsix to offer our customers chip design services to help integrate our IP into their chip designs. We believe this expanded business model will strengthen relationships with key customers, gain us access to new customers and generate recurrent royalties.
+ 
+We believe our business model offers us some key advantages. By not focusing on manufacturing or selling silicon products, we are free to widely license our technology and free to focus most of our resources on research and development. By choosing to license our IP, manufacturers can achieve the advantage of creating their own differentiated solutions and develop their own unique product roadmaps. Through our licensing efforts, we have established a worldwide community developing CEVA-based solutions, and therefore we can leverage their strengths, customer relationships, proprietary technology advantages, and existing sales and marketing infrastructure. In addition, as our intellectual property is widely licensed and deployed, system OEM companies can obtain CEVA-based chipsets from a wide range of suppliers, thus reducing dependence on any one supplier and fostering price competition, both of which help to contain the cost of CEVA-based products.
+ 
+    7 
+
+  
+
+We operate a licensing, non-recurring engineering (NRE) and royalty business model. We typically charge a license fee for access to our hardware technology and a royalty fee for each unit of silicon which incorporates our hardware or software technology. We also provide NRE services to customers who require design expertise for their chip development programs.
+ 
+License fees and NRE services are invoiced in accordance with agreed-upon contractual terms. Royalties are reported and invoiced quarterly and generally based on a fixed unit rate or a percentage of the sale price for the CEVA-based silicon product.
+ 
+Strategy
+ 
+We believe there is a growing demand for high performance and low power signal processing IPs and specialized AI platforms and software incorporating all the necessary hardware and software for target applications. We also recognize chip design skills and expertise are scarce nowadays and more companies are deciding to develop chips in-house, creating an even greater demand for IP and chip design services.
+ 
+Our IP portfolio is strategically aligned to allow us to exploit the most lucrative “design gaps” in the growing demand for smarter, connected devices. CEVA offers expertise developing complete solutions in a number of key growth markets, including, 5G cellular baseband, wireless wearables, robots, automotive and IoT. For these markets, we offer a comprehensive portfolio of connectivity and smart sensing IPs, which include various types of specialized DSPs and platforms for 5G, computer vision, sound, AI, Wi-Fi, Bluetooth, UWB, cellular-IoT solutions, sensor fusion, sound and security and interconnectivity solutions for chiplets. We believe we are well-positioned to take full advantage of this growing demand. To capitalize on this industry shift, we intend to:
+ 
+
+● | develop and enhance our range of DSP cores and Edge AI hybrid processors with additional features, performance and capabilities;
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+● | develop and expand our short range wireless IPs and customer base, providing the newest standards and the most complete offerings to streamline our customers’ deployments;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | continue to develop new generation of high performance DSPs and AI accelerators to pursue opportunities and grow our footprint in the 5G handset, cellular IoT base station RAN, automotive and headset markets;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | go up the “value chain” by adding and charging for software for our wireless, AI, voice, audio and IMU (Inertial Measurement Units) products
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | expand our presence in AI for edge SoC market by capitalizing on our AI accelerators and CDNN graph compiler software technologies;
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | continue to develop and enhance our range of complete and highly integrated platform solutions and to provide chip design services, as co-creation deals, to our licensing partners to deliver a complete and verified system solution, all the way up to full chip design;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | continue to prudently invest in strategic technologies that enable us to strengthen our presence in existing market or enter new addressable markets;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | capitalize on our relationships and leadership within our worldwide community of semiconductor and OEM licensees who are developing CEVA-based solutions;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+    8 
+
+  
+
+
+● | capitalize on our technology leadership in the development of advanced processor technologies, connectivity IPs and sensor fusion software to create and develop new, strategic relationships with OEMs and semiconductor companies to replace their internal DSPs or incumbent DSP suppliers with CEVA-based solutions; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | capitalize on our IP licensing and royalty business model which we believe is the best vehicle for a pervasive adoption of our technology and allows us to focus our resources on research and development of new licensable technologies and applications.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Products
+ 
+We are the leading licensor of wireless connectivity and smart sensing platforms and a provider of chip design services for semiconductor companies and OEMs serving the mobile, consumer, automotive, robotics, industrial, aerospace & defense and IoT markets. Our comprehensive platforms are comprised of specialized DSPs coupled with an AI accelerator and other types of accelerators targeted for low power workloads, including 5G baseband processing, intelligent vision, voice recognition, physical layer processing and sensor fusion. We also offer high performance DSPs targeted for 5G RAN and Open RAN, Wi-Fi enterprise and residential access points, satellite communication and other multi-gigabit communications. Our portfolio also includes a wide range of application software optimized for our processors, including voice front-end processing and speech recognition, imaging and computer vision and sensor fusion. For sensor fusion, our Hillcrest Labs sensor processing technologies provide a broad range of sensor fusion software and IMU solutions for AR/VR, robotics, remote controls and IoT. For wireless IoT, we offer the industry’s most widely adopted IPs for Bluetooth (low energy and dual mode), Wi-Fi 4/5/6/6E (802.11n/ac/ax), UWB and cellular IoT. Our categories of products include the following:
+
+1) | Wireless communications
+---+------------------------
+
+
+● | CEVA-XC vector DSPs for 5G handsets, 5G RAN, and general purpose baseband processing
+--+-------------------------------------------------------------------------------------
+
+
+● | PentaG2 - 5G NR modem platform for UE and for non-handset 5G vertical markets like Fixed Wireless Access, Industry 4.0, robotics and AR/VR devices that requires ultra-low-latency systems
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | AI and computer vision
+---+-----------------------
+
+
+● | SensPro2 sensor hub platforms addressing imaging, vision, powertrain, applications, including DSP processors and a comprehensive software portfolio
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | NeuPro-M platforms for AI applications, in a form of integrated and scalable system including a combination of dedicated AI processor, ultra-low power acceleration engines, memory architecture and smart interfaces to address multiple markets like automotive, surveillance, mobile and more
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | CDNN: deep neural network graph compiler that enables AI developers to automatically compile, optimize and run pre-trained networks onto embedded devices
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3) | Sound
+---+------
+
+
+● | CEVA-Bluebud wireless audio platform, CEVA-BX1, CEVA-BX2 and SensPro2 DSPs, AI accelerators, algorithms and software for sound-enabled application, including WhisPro speech recognition and ClearVox, a complete voice front-end software package for near and far-field voice-enabled devices
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Deep neural network compiler and tools
+--+---------------------------------------
+
+
+4) | Sensor Fusion
+---+--------------
+
+
+● | MotionEngine, sensor processing software, combining high accuracy 6-axis and 9-axis sensor fusion, dynamic sensor calibration, and many application specific features such as cursor control, gesture recognition, activity tracking, context awareness, and AR/VR stabilization
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+    9 
+
+  
+
+
+● | Sensor Hub DSPs, that serve as a hub for AI and DSP processing workloads associated with a wide range of sensors including camera, Radar, LiDAR, Time-of-Flight, microphones and inertial measurement units (IMUs)
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5) | Multipurpose DSP/controller
+---+----------------------------
+
+
+● | CEVA-BX high level programmable, modern processors for a broad range of signal processing and control workloads
+--+----------------------------------------------------------------------------------------------------------------
+
+
+6) | Wireless IoT
+---+-------------
+
+
+● | RivieraWaves’ Bluetooth 5 (up to 5.3) dual mode and low energy platforms
+--+-------------------------------------------------------------------------
+
+
+● | RivieraWaves’ Wi-Fi (4/5/6/6E up to 4x4) platforms
+--+---------------------------------------------------
+
+
+● | UWB platform
+--+-------------
+
+
+● | DragonFly platform for NB-IoT
+--+------------------------------
+
+ 
+We deliver our DSP cores, platforms and AI processors in the form of a hardware description language definition (known as a soft core or a synthesizable core). All CEVA cores can be manufactured on any process using any physical library, and all are accompanied by a complete set of tools and an integrated development environment. An extensive third-party network supports CEVA DSP cores, platforms and AI processors with a wide range of complementing software and platforms. In addition, we provide development platforms, software development kits and software debug tools, which facilitate system design, debug and software development.
+ 
+In order to reduce the cost, complexity, and risk in bringing products to market, CEVA has developed a suite of system platforms and solutions. These platforms and solutions combine the hardware and software elements that are essential for designers deploying CEVA’s state-of-the-art DSP cores, platforms and AI processors. Platforms typically integrate a CEVA DSP core, hardware accelerators and coprocessors, optimized software, libraries and tool chain. Our family of DSP-based platforms are targeted for baseband processing within cellular handsets, cellular IoT devices and base stations RAN, wired communications, advanced imaging, computer vision, radar application and deep neural networks, and audio, voice and sensing and Internet-of-Things related applications. Furthermore, our leading-edge technology portfolio, along with the chip design capabilities of Intrinsix, offers a holistic proposition for incumbents and newcomers in the expanding semiconductor markets. We can offer these customers chip design services around our system platforms and solutions to further reduce their risk in bringing products to market, all the way up to full chip design.
+ 
+Customers
+ 
+We have licensed our signal processing cores, platforms, AI processors and connectivity IPs to leading semiconductor and OEM companies throughout the world. These companies incorporate our IP into application-specific chipsets or custom-designed chipsets that they manufacture, market and sell to consumer electronics companies. We also license our technologies to OEMs directly. Included among our licensees are the following customers: Actions, Ambiq, AIC Semi, Artosyn, ASPEED, ASR Micro, Atmosic, Autotalks, Beken, Bestechnic, Broadcom, Celeno, Ceragon, Cirrus Logic, Espressif, FujiFilm, GCT Semi, Goodix, iCatch, ICOM, InPlay, Intel, iRobot, Itron, Leadcore, LG Electronics, LifeSignals, Mediatek, Microchip, MorningCore, Nations, Nextchip, Nokia, Nordic Semi, Novatek, Nurlink, NXP, ON Semi, Synaptics, Optek, Oticon, Panasonic, Picocom, Renesas, Rockchip, Rohm, Samsung, Sanechips, Sharp, SiFive, SiFlower, SigmaStar, Socionext, Sony, Sonova, STMicroelectronics, Toshiba, Unisoc, Vatics, Winner Micro, Yamaha and ZTE.
+International Sales and Operations
+ 
+Customers based in EME (Europe and Middle East) and APAC (Asia Pacific) accounted for 79% of our total revenues for 2022, 78% of our total revenues for 2021 and 79% for 2020, with customers in China accounting for 56%, 55% and 51% of total revenues for 2022, 2021 and 2020, respectively. Additional information on the geographic breakdown of our revenues and location of our long-lived assets is contained in Note 12 to our consolidated financial statements, which appear elsewhere in this annual report.
+ 
+    10 
+
+  
+
+Sales and Marketing
+ 
+We license our technology through a direct sales force. As of December 31, 2022, we had 36 employees in sales and marketing. We have sales offices and representation in Asia Pacific (APAC) region, Sweden, Israel, France and the United States.
+ 
+Maintaining close relationships with our customers and strengthening these relationships are central to our strategy. From time to time we develop a new signal processors, platforms, software solutions or connectivity products with close alignment with a number of tier-one industry players which signifies to the market that we are focused on viable applications that meet broad industry needs or try to get similar inputs and insight for our new developments from our marketing team. Generally, these industry leaders become licensees for these products allows us to create a roadmap for the future development of existing cores and application platforms and connectivity products and helps us to anticipate the next potential applications for the market. We seek to use our customer relationships to deliver new products in a faster time to market.
+ 
+We use a variety of marketing initiatives to stimulate demand and brand awareness in our target markets. These marketing efforts include contacts with industry analysts, presenting at key industry trade shows and conferences, and a comprehensive digital marketing program aimed at developing and nurturing relationships with potential customers. Our marketing group runs competitive benchmark analyses to help us maintain our competitive position.
+ 
+Technical Support
+ 
+We offer technical support services through our offices in Israel, Asia Pacific (APAC) region, France and the United States. As of December 31, 2022, we had 31 employees in technical support. Our technical support services include:
+
+● | assistance with implementation, responding to customer-specific inquiries, training and, when and if they become available, distributing updates and upgrades of our products;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | application support, consisting of providing general hardware and software design examples, ready-to-use software modules and guidelines to our licensees to assist them in using our technology; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | design services, consisting of creating customer-specific implementations of our signal processing IPs and application platforms.
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We believe that our technical support services are a means to assist our licensees to embed our cores and platforms in their designs and products. Our technology is highly complex, combining sophisticated signal processing IP core architectures, integrated circuit designs and development tools. Effective customer support in helping our customers to implement our solutions enables them to shorten the time to market for their applications. Our support organization is made up of experienced engineers and professional support personnel. We conduct technical training for our licensees and their customers and meet with them from time to time to track the implementation of our technology.
+ 
+Research and Development and Non-recurring Engineering Design Services
+ 
+Our research and development team is focused on improving and enhancing our existing products, as well as developing new products to broaden our offerings and market opportunities and providing NRE design services. These efforts are largely driven by current and anticipated customer and market needs.         
+ 
+Our research and development team consists of 372 engineers as of December 31, 2022, working in eight development centers located in Israel, France, the United States, Ireland, the United Kingdom and Serbia, including 47 engineers at Intrinsix either working on research and development projects or providing NRE services for chip design. Our engineers possess significant experience in developing DSP cores and tools for 5G, computer vision, AI, connectivity products (Wi-Fi, UWB and Bluetooth), NB-IoT, and sensor processing and sensor fusion software. In addition, we engage third party contractors with specialized skills as required to support our research and development efforts.
+ 
+    11 
+
+  
+
+Our NRE services address the most complex and time-critical integrated circuit design projects across the following major design service domains: multi-processor digital SoC and FPGA design, mixed signal, analog and RF chip. Additional services include design verification and physical design and silicon realization. All of these skillsets are scarce, highly sought after in today’s semiconductor landscape and applicable to every vertical, from consumer and IoT through to automotive and aerospace and defense.
+ 
+We encourage our research and development personnel to maintain active roles in various international organizations that develop and maintain standards in the electronics and related industries. This involvement allows us to influence the development of new standards; keeps us informed as to important new developments regarding standards; and allows us to demonstrate our expertise to existing and potential customers who also participate in these standards-setting bodies.
+ 
+Competition
+ 
+The markets in which we operate are intensely competitive. They are subject to rapid change and are significantly affected by new product introductions. We compete with other suppliers of licensed signal processing IPs. We believe that the principal competitive elements in our field are signal processing IP performance, Intrinsix’s IP and NRE capabilities, overall chip cost, power consumption, flexibility, reliability, communication and multimedia software and algorithms availability, design cycle time, tool chain, customer support, financial strength, name recognition and reputation. We believe that we compete effectively in each of these areas but can offer no assurance that we will have the financial resources, technical expertise, and marketing or support capabilities to compete successfully in the future.
+ 
+The markets in which we compete are dominated by large, highly competent semiconductor companies that have significant brand recognition, a large installed base and a large network of support and field application engineers. The following industry players and factors may have a significant impact on our competitiveness:
+ 
+
+● | we compete directly in the signal processing cores space with Verisilicon, Cadence and Synopsys;
+--+-------------------------------------------------------------------------------------------------
+
+
+● | we compete with CPU IP or configurable CPU IP (offering DSP configured CPU and/or DSP acceleration and/or connectivity capabilities to their IP) providers, such as ARM, Synopsys and Cadence and the RISC-V open source;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | we compete with internal engineering teams at companies such as Mediatek, Qualcomm, Samsung and NXP that may design programmable DSP core products and signal processing cores in-house and therefore not license our technologies;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | we compete in the short range wireless markets with Mindtree, Synopsys and internal engineering teams at companies such as Cypress (now part of Infineon), Silicon Labs and NXP;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | we compete in embedded imaging and vision market with Cadence, Synopsys, Videantis, Arm and Verisilicon;
+--+---------------------------------------------------------------------------------------------------------
+
+
+● | we compete in AI processor marketing with AI processor and accelerator providers, including Arm, Cadence, Synopsys, Cambricon, Digital Media Professionals (DMP), Expedera, Imagination Technologies, Nvidia open source NVDLA and Verisilicon;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | we compete in the audio and voice applications market with ARM, Cadence, Synopsys and Verisilicon; and
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | we compete for chip design services in our main markets with WiPro and Cyient, and in the aerospace and defense markets with Marvell, ASIC North and First Pass Engineering.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We also have faced competition from companies that offer Central Processor Unit (CPU) intellectual property. These companies’ products are used for host functions in various applications, such as in mobile and home entertainment products. These applications typically also incorporate a programmable DSP or neural network accelerator that is responsible for communication and video/audio/voice-related tasks, neural network or in some cases connectivity capabilities. CPU companies, such as ARM, Cadence, and Synopsys have added DSP acceleration, CNN acceleration and /or connectivity solutions and make use of it to provide platform solutions in the areas of baseband, video, imaging, vision, AI, audio and connectivity.
+ 
+    12 
+
+  
+
+With respect to certain large potential customers, we also compete with internal engineering teams, which may design programmable signal processing IP core products in-house. Companies such as Mediatek, Samsung, and STMicroelectronics license our designs for some applications and use their own proprietary cores for other applications. These companies also may choose to license their proprietary signal processing IP cores to third parties and, as a result, become direct competitors.
+ 
+In addition, we may face increased competition from smaller, niche semiconductor design companies in the future. Some of our customers also may decide to satisfy their needs through in-house design. Aside from the in-house research and development groups, we do not compete with any individual company across the range of our market offerings.
+ 
+Proprietary Rights
+ 
+Our success and ability to compete are dependent on our ability to develop and maintain the proprietary aspects of our intellectual property and to operate without infringing the proprietary rights of others. We rely on a combination of patent, trademark, trade secret and copyright laws and contractual restrictions to protect the proprietary aspects of our technology. These legal protections afford only limited protection of our technology. We also seek to limit disclosure of our intellectual property and trade secrets by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements with us and by restricting access to our source code and other intellectual property. Due to rapid technological change, we believe that factors such as the technological and creative skills of our personnel, new product developments and enhancements to existing products are more important than specific legal protections of our technology in establishing and maintaining a technology leadership position.
+ 
+We have an active program to protect our proprietary technology through the filing of patents. Our patents relate to our signal processing IP cores and application-specific platform technologies. As of December 31, 2022, we hold 66 patents in the United States, five patents in Canada, 88 patents in the EME (Europe and Middle East) region and 10 patents in Asia Pacific (APAC) region, totaling 169 patents, with expiration dates between 2023 and 2039. In addition, as of December 31, 2022, we have 11 patent applications pending in the United States, two pending patent applications in Canada, nine pending patent applications in the EME region, three pending global (PCT) patent applications and five pending patent applications in the APAC region, totaling 30 pending patent applications.
+ 
+We actively pursue foreign patent protection in countries where we feel it is prudent to do so. Our policy is to apply for patents or for other appropriate statutory protection when we develop valuable new or improved technology. The status of patents involves complex legal and factual questions, and the breadth of claims allowed is uncertain. Accordingly, there are no assurances that any patent application filed by us will result in a patent being issued, or that our issued patents, and any patents that may be issued in the future, will afford us adequate protection against competitors with similar technology; nor can we be assured that patents issued to us will not be infringed or that others will not design around our technology. In addition, the laws of certain countries in which our products are or may be developed, manufactured or sold may not protect our products and intellectual property rights to the same extent as the laws of the United States. We can provide no assurance that our pending patent applications or any future applications will be approved or will not be challenged by third parties, that any issued patents will effectively protect our technology, or that patents held by third parties will not have an adverse effect on our ability to do business.
+ 
+The semiconductor industry is characterized by frequent litigation regarding patent and other intellectual property rights. Questions of infringement in the semiconductor field involve highly technical and subjective analyses. In addition, patent infringement claims are increasingly being asserted by patent holding companies (so-called patent “trolls”), which do not use technology and whose sole business is to enforce patents against companies, such as us, for monetary gain. Because such patent holding companies do not provide services or use technology, the assertion of our own patents by way of counter-claim may be ineffective. Litigation may in the future be necessary to enforce our patents and other intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or invalidity. We cannot assure you that we would be able to prevail in any such litigation or be able to devote the financial resources required to bring such litigation to a successful conclusion.
+ 
+In any potential dispute involving our patents or other intellectual property, our licensees also could become the targets of litigation. We are generally bound to indemnify licensees under the terms of our license agreements. Although our indemnification obligations are generally subject to a maximum amount, these obligations could nevertheless result in substantial expenses. In addition to the time and expense required for us to indemnify our licensees, a licensee’s development, marketing and sale of products embodying our solutions could be severely disrupted or shut down as a result of litigation.
+ 
+    13 
+
+  
+
+We also rely on trademark, copyright and trade secret laws to protect our intellectual property. We have registered trademark in the United States for our name CEVA and the related CEVA logo, and currently market our signal processing cores and other technology offerings under this trademark.
+ 
+Human Capital Resources
+ 
+The table below presents the number of employees of CEVA as of December 31, 2022 by function and geographic location.
+ 
+
+ | Number
+---------------------------------+-------
+Total employees | 485 
+Function | 
+Research and development and NRE | 372 
+Sales and marketing | 36 
+Administration | 46 
+Technical support | 31 
+Location | 
+Israel | 257 
+France | 49 
+Ireland | 12 
+China | 18 
+United States | 96 
+United Kingdom | 9 
+Elsewhere | 44 
+
+ 
+We believe we are a respected employer in the countries where we have operations, and, with the help of our employees, we strive to be a responsible global corporate citizen and a more sustainable company. Our Code of Business Conduct and Ethics sets the standards of conduct of our directors, officers and employees. In addition, in 2020, we adopted a Sustainability Policy that addresses matters related to our employees as well as data privacy and security, resource conservation and recycling, and other environmental matters. In particular, our Sustainability Policy reflects our commitment to diversity and equal opportunity, a harassment-free workplace, training, development and employee engagement, and human rights, health and safety, and other matters relevant to employee well-being and the CEVA culture. The code is reviewed and updated periodically by our Board or Directors, and both the code and our Sustainability Policy are available on our website at www.ceva-dsp.com.
+ 
+Our employees are not represented by any collective bargaining agreements, however, certain provisions of Israeli law and the collective bargaining agreements between the Histadrut (General Federation of Labor in Israel) and the Coordination Bureau of Economic Organizations (the Israeli federation of employers’ organizations) apply to our Israeli employees. We have never experienced a work stoppage. We believe our employee relations are good, as is their general well-being, which is one of management’s top priorities.
+ 
+Available Information
+ 
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to reports pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available, free of charge, on our website at www.ceva-dsp.com, as soon as reasonably practicable after such reports are electronically filed with the Securities and Exchange Commission and are also available on the SEC’s website at www.sec.gov.
+ 
+Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K.
+ 
+    14 
+
+  
+
