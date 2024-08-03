@@ -1,0 +1,214 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Business of Universal Electronics Inc.
+Universal Electronics Inc. ("UEI") was incorporated under the laws of Delaware in 1986 and began operations in 1987. The principal executive offices are located at 15147 N. Scottsdale Road, Suite H300, Scottsdale, Arizona 85254-2494. As used herein, the terms "we", "us" and "our" refer to UEI and its subsidiaries unless the context indicates to the contrary.
+Additional information regarding UEI may be obtained at www.uei.com. Our website address is not intended to function as a hyperlink and the information available at our website address is not incorporated by reference into this Annual Report on Form 10-K. We make our periodic and current reports, together with amendments to these reports, available on our website, free of charge, as soon as reasonably practicable after such material is electronically filed with, or furnished to, the U.S. Securities and Exchange Commission ("SEC"). The SEC maintains a website at www.sec.gov that contains the reports, proxy and other information that we file electronically with the SEC.
+Business Segment
+Overview
+Universal Electronics Inc. develops control and sensor technology solutions and manufactures a broad line of pre-programmed and universal control products, audio-video ("AV") accessories, and intelligent wireless security and smart home products dedicated to redefining the home entertainment, automation and security experience. Our offerings include:
+
+• | easy-to-use, pre-programmed universal infrared ("IR") and radio frequency ("RF") remote controls that are sold primarily to subscription broadcasting providers (cable, satellite and Internet Protocol television ("IPTV")), original equipment manufacturers ("OEMs"), retailers, and private label customers;
+
+
+• | integrated circuits, on which our software and universal device control database is embedded, sold primarily to OEMs, subscription broadcasting providers, and private label customers;
+
+
+• | software, firmware and technology solutions that can enable devices such as TVs, set-top boxes, audio systems, smartphones, tablets, game controllers and other consumer electronic devices to wirelessly connect and interact with home networks and interactive services to control and deliver digital entertainment and information;
+
+
+• | intellectual property which we license primarily to OEMs, software development companies, private label customers, and subscription broadcasting providers;
+
+
+• | proprietary and standards-based RF sensors designed for residential security, safety and automation applications;
+
+
+• | wall-mount and handheld thermostat controllers and connected accessories for intelligent energy management systems, primarily to OEM customers as well as hospitality system integrators; and
+
+
+• | AV accessories sold, directly and indirectly, to consumers.
+
+Our business is comprised of one reportable segment.
+Principal Products and Markets
+Our principal markets are the subscription broadcast, consumer and mobile electronics and residential security markets where our customers include subscription broadcasters, OEMs, international retailers, private label brands, pro-security dealers and companies in the computing industry. 
+We provide subscription broadcasting providers, both domestically and internationally, with our universal remote control devices and integrated circuits, on which our software and device code libraries are embedded. We also sell integrated circuits, on which our software and device control code libraries are embedded, and license our device control database to OEMs that manufacture televisions, digital audio and video players, streamer boxes, cable converters, satellite receivers, set-top boxes, room and central heating, ventilation and air conditioning ("HVAC") equipment, game consoles, and wireless mobile phones and tablets. 
+We continue to place significant emphasis on expanding our sales and marketing efforts to subscription broadcasters and OEMs in Asia, Latin America and Europe. We currently own and operate vertically integrated manufacturing and assembly factories in the People's Republic of China ("PRC"), Mexico and Brazil, which allow us the ability to produce in the regional markets and to scale our production to meet growing customer demand. 
+Leveraging our scale and expertise in low-power RF microcontrollers, we continue to pursue further penetration of the more traditional OEM consumer electronics markets as well as newer product categories in the smart home and Internet of Things ("IoT") markets such as lighting, window coverings, and bathroom controllers. Customers in these markets integrate our solutions 
+3
+
+and technology into their products to enhance their consumer lifestyle ecosystems. Growth in these markets has been driven by the increasing demand for more energy efficient homes and the increasing proliferation of connected smart devices.
+In 2015, we acquired Ecolink Intelligent Technology, Inc. ("Ecolink"), a leading developer of safety and security products. Ecolink provides a wide range of intelligent wireless security and automation components dedicated to redefining the home security experience. Ecolink has over 20 years of wireless engineering expertise in the home security and automation market and currently holds more than 50 related pending and issued patents. UEI’s current subscription broadcasting customers are adding home security and automation to their list of service offerings. Our acquisition of Ecolink, a premise equipment supplier to this market, enables us to broaden our design expertise and product portfolio to add home security and automation sensors to our capabilities.
+On April 6, 2017, we acquired Residential Control Systems, Inc. ("RCS"), a U.S.-based designer and manufacturer of energy management and control products for the residential, small commercial and hospitality markets. The acquisition of RCS allows us to expand our product offering to include smart thermostat, sensing and monitoring products and enables us to broaden our technology and design expertise in these product categories. Smart and connected thermostats are critical components of the smart home that help deliver energy-efficiency and an enhanced consumer lifestyle.
+For the years ended December 31, 2018, 2017, and 2016, our sales to Comcast accounted for 17.6%, 23.0%, and 22.9% of our net sales, respectively. For the years ended December 31, 2017 and 2016 our sales to AT&T (formerly DIRECTV) and its sub-contractors collectively accounted for 11.2%, and 11.5% of our net sales, respectively.
+Our One For All® brand name of remote controls and audio video accessories sold within the international retail markets accounted for 7.4%, 7.1%, and 7.2% of our total net sales for the years ended December 31, 2018, 2017, and 2016, respectively.
+Intellectual Property and Technology
+We hold a number of patents in the United States and abroad related to our products and technology, and have filed domestic and foreign applications for other patents that are pending. At the end of 2018, we had approximately 500 issued and pending United States patents related to remote control, home security, safety and automation as well as hundreds of foreign counterpart patents and applications in various territories around the world.
+Our patents have remaining lives ranging from one to 18 years. We have also obtained copyright registration and claim copyright protection for certain proprietary software and libraries of our device control codes. Additionally, the names of many of our products are registered, or are being registered, as trademarks in the United States Patent and Trademark Office and in most of the other countries in which such products are sold. These registrations are valid for terms ranging up to 20 years and may be renewed as long as the trademarks continue to be used and are deemed by management to be important to our operations. While we follow the practice of obtaining patent, copyright and trademark registrations on new developments whenever advisable, in certain cases we have elected common law trade secret protection in lieu of obtaining such other protection.
+A key factor in creating products and software for control of entertainment devices is the device control code database. Since our beginning in 1986, we have compiled an extensive device control code database that covers over one million individual device functions and approximately 8,600 individual consumer electronic equipment brand names, including virtually all IR controlled set-top boxes, televisions, audio components, digital video players, such as, Blu-Ray/-DVD and streaming media players such as Roku® and AppleTV®. Our technology also includes other remote controlled home entertainment devices and home automation control modules, as well as wired Consumer Electronics Control ("CEC") and wireless Internet Protocol ("IP") control protocols commonly found on many of the latest HDMI and internet connected devices. Our proprietary software automatically detects, identifies and enables the appropriate control commands for any given home entertainment, automation and air conditioning device in the home. Our libraries are continuously updated with device control codes used in newly introduced AV and IoT devices. These control codes are captured directly from original remote control devices or from the manufacturer's written specifications to ensure the accuracy and integrity of the database. Our proprietary software and know-how permit us to offer a device control code database that is more robust and efficient than similarly priced products of our competitors.
+Our goal is to provide universal control solutions that require minimal or no user set-up and deliver consistent and intuitive one-touch control of all connected content sources and devices. QuickSet® is a software application that is currently embedded or enabled, via a Cloud service, in over 500 million devices worldwide. QuickSet may be embedded in an AV device, set-top box, or other host device, or delivered as a Cloud-based service to enable universal remote setup and control. QuickSet enables universal device control set-up using automated and guided on-screen instructions and a wireless two-way communication link between the remote and the QuickSet enabled device. The two-way connection allows device control code data and configuration settings to be sent to the remote control from the device and greatly simplifies the universal control set-up process and can enable other time saving features. QuickSet utilizes data transmitted over HDMI or IP networks to automatically detect various attributes of the connected device and downloads the appropriate control codes and functions into the remote control without the need for the user to enter any additional information. The user does not need to know the brand or model number to set up the device in the remote. 
+4
+
+Any compatible new device that is connected is recognized. Consumers can quickly and easily set up their control interface to control multiple devices. Recently added features in QuickSet address common consumer challenges in universal device control, such as mode confusion and input switching. With QuickSet, consumers switch easily between activities and reliably view their chosen content source with a single touch. QuickSet handles the device-specific control. A QuickSet user experience can be delivered via a tactile remote, touchscreen interface, on-screen graphical user interface ("GUI") or voice-enabled system. Licensees of QuickSet include service providers such as Comcast, AT&T and Echostar Technologies; smart TV manufacturers such as Sony and Samsung; leading game console manufacturer Microsoft on its Xbox One game system; and several Chinese mobile handset platforms.
+QuickSet Cloud is an end-to-end platform for discovery, control, and interaction with devices including rules and automation framework for a truly connected home experience. Leveraging the largest knowledge graph of devices, services are offered through QuickSet Cloud and QuickSet SDK delivery methods with edge intelligence built in and cloud scalability capabilities.
+Smart devices are becoming a more prevalent part of the home entertainment experience, and UEI offers several solutions to enable entertainment device control with a smart phone, tablet or smart TV. In its smart device control solutions, UEI offers all of the elements needed for device control ranging from IR and RF controller chips to device control libraries to graphical and voice user interfaces, as well as artificial intelligence systems that deliver context aware device interactions. Designed for Android, Nevo® Home is UEI's device and service discovery and control application, currently available for download at Google Play.
+In 2018, UEI introduced Nevo.AI, a digital assistant for the connected home with a natural language interface to allow interaction with devices within the home using QuickSet's underlying capabilities. Features are expandable through Enterprise Integration and Ecosystem of Partner Services.
+In 2019, we will introduce Nevo® Butler, a turnkey smart home hub with Nevo.AI & QuickSet pre-integrated. Offered as managed hardware with security built in from manufacturing through the life cycle, it is capable of natively running Nevo Assistant, as well as other digital assistants.
+Methods of Distribution
+Distribution methods for our control solutions vary depending on the sales channel. We distribute remote control devices, sensors, connected thermostats and AV accessories directly to subscription broadcasters and OEMs, both domestically and internationally. We also distribute home security sensors to pro-security installers in the United States through a network of dealers. Additionally, we sell our wireless control devices and AV accessories under the One For All® and private label brand names to retailers through our international subsidiaries and direct to retailers in key markets, such as in the United Kingdom, Germany and the United States. We utilize third-party distributors for the retail channel in countries where we do not have subsidiaries.
+We have developed a broad portfolio of patented technologies and the industry's leading database of device setup and control software. We ship integrated circuits, on which our software and control code database are embedded, directly to manufacturers for inclusion in their products. In addition, we license our software and technology to manufacturers. Licenses are delivered upon the transfer of a product master or on a per unit basis when the software or technology is used in a customer device.
+We provide domestic and international consumer support to our various universal control marketers, including manufacturers, cable and satellite providers, retail distributors, and audio and video OEMs through our live and automated call centers. We also make available a web-based support resource, www.urcsupport.com, designed specifically for subscription broadcasters. This solution offers videos and online tools to help users easily set up their universal remote controls, and as a result reduce call volume at customer support centers. Additionally, the UEI Technical Support Services call center provides customer interaction management services from technical service and support to customer retention. Services include pre-repair calls, post-install surveys, and inbound calls for cable customers to provide greater bottom-line efficiencies. 
+5
+
+Our 24 international subsidiaries are the following:
+
+• | C.G. Development Ltd., established in Hong Kong;
+
+
+• | CG Mexico Remote Controls, S.R.L. de C.V., established in Mexico;
+
+
+• | Enson Assets Ltd., established in the British Virgin Islands;
+
+
+• | Gemstar Polyfirst Ltd., established in Hong Kong;
+
+
+• | Gemstar Technology (Qinzhou) Co. Ltd., established in the PRC;
+
+
+• | Gemstar Technology (Yangzhou) Co. Ltd., established in the PRC;
+
+
+• | Guangzhou Universal Electronics Service Co., Ltd., established in the PRC;
+
+
+• | One For All Argentina S.R.L., established in Argentina;
+
+
+• | One For All France S.A.S., established in France;
+
+
+• | One For All GmbH, established in Germany;
+
+
+• | One for All Iberia S.L., established in Spain;
+
+
+• | One For All UK Ltd., established in the United Kingdom;
+
+
+• | UE Japan Ltd., established in Japan;
+
+
+• | UE Singapore Pte. Ltd., established in Singapore;
+
+
+• | UEI Cayman Inc., established in the Cayman Islands;
+
+
+• | UEI do Brasil Controles Remotos Ltda., established in Brazil;
+
+
+• | UEI Electronics Pte. Ltd., established in India;
+
+
+• | UEI Hong Kong Pte. Ltd., established in Hong Kong;
+
+
+• | UE Korea Ltd., established in South Korea;
+
+
+• | Universal Electronics B.V., established in the Netherlands;
+
+
+• | Universal Electronics Italia S.R.L., established in Italy;
+
+
+• | Universal Electronics Trading Co., Ltd., established in the PRC;
+
+
+• | Universal Electronics Yangzhou Co. Ltd., established in the PRC; and
+
+
+• | Yangzhou Universal Trading Co. Ltd., established in the PRC.
+
+Raw Materials and Dependence on Suppliers
+We utilize our own manufacturing plants and third-party manufacturers and suppliers primarily located within the PRC, Mexico and Brazil to produce our control and sensor products. In 2017 and 2016, Texas Instruments provided 10.0% and 11.7%, respectively, of our total inventory purchases. In 2018, no single supplier provided more than 10% of our total inventory purchases. 
+Even though we operate two factories in the PRC and manufacturing and assembly plants in Brazil and Mexico, we continue to evaluate additional contract manufacturers and sources of supply. During 2018, we utilized multiple contract manufacturers and maintained duplicate tooling for certain of our products. Where possible we utilize standard parts and components, which are available from multiple sources. 
+In 2018, to avoid the U.S. government-imposed tariffs on products made in China and imported into the United States, we began to move production of many of our products destined for the United States to Mexico and a third-party manufacturing partner outside of China. We expect this transition to continue during the first half of 2019.
+We continually seek additional sources to reduce our dependence on our integrated circuit suppliers. To further manage our integrated and system on a chip ("SOC") circuit supplier dependence, we include flash microcontroller technology in most of our products. Flash microcontrollers can have shorter lead times than standard microcontrollers and may be reprogrammed, if necessary. This allows us flexibility during any unforeseen shipping delays and has the added benefit of potentially reducing excess and obsolete inventory exposure. This diversification lessens our dependence on any one supplier and allows us to negotiate more favorable terms.
+Seasonality
+Historically, our business has been influenced by the retail sales cycle, with increased sales in the second half of the year. We expect this pattern to be repeated during 2019.
+6
+
+See "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA — Notes to Consolidated Financial Statements — Note 23" for further details regarding our quarterly results.
+Competition
+Our principal competitors in the subscription broadcasting market are Remote Solutions, Omni Remotes (formerly Philips Home Control Singapore PTE, Ltd.), SMK, and Ruwido. In the international retail and private label markets for wireless controls we compete primarily with Logitech and Sony, as well as various manufacturers of wireless controls in Asia. Our primary competitors in the OEM market are the original equipment manufacturers themselves and various wireless control manufacturers in Asia. In home security, safety and automation, we offer universal sub-gigahertz products that are compatible with the top security panel manufacturers, such as Honeywell, GE, Tyco/DSC and 2GIG. In the connected smart home market we compete with the OEMs themselves as well as wireless manufacturers in North America, such as Nortek, and other original design manufacturers in Asia. We compete in our markets on the basis of product quality, features, price, intellectual property, design and development expertise and customer support. We believe that we will need to continue to introduce new and innovative products and software solutions to remain competitive and to recruit and retain competent personnel to successfully accomplish our future objectives.
+Engineering, Research and Development
+During 2018, our engineering efforts focused on the following:
+
+• | broadening our product portfolio;
+
+
+• | launching new embedded software solutions designed to simplify set-up and control features;
+
+
+• | modifying existing products and technologies to improve features and lower costs;
+
+
+• | formulating measures to protect our proprietary technology and general know-how;
+
+
+• | improving our control solutions software;
+
+
+• | updating our library of device codes to include codes for new features and devices introduced worldwide; and
+
+
+• | creating innovative products that address consumer challenges in home entertainment control and security sensing.
+
+In 2018, UEI was awarded a 2017 Technical & Engineering Emmy® Award from The National Academy of Television Arts & Sciences (NATAS) for its work relating to voice navigation technologies for discovering and interacting with TV content. UEI was selected for its excellence in engineering and creativity that has materially affected the television viewing experience.
+During 2018, our advanced engineering efforts focused on further developing our existing products, services and technologies. We released software updates to our embedded QuickSet application, and continued development initiatives around emerging RF technologies, such as RF4CE, Bluetooth, and Bluetooth Smart. We added new products to our portfolio of low power dual-RF chips that are deployed across a range of our custom and standard products, allowing for broader flexibility and easier implementation of multiple communication protocols. Additionally, we released many new advanced remote control products that incorporate voice search capabilities in our subscription broadcast and OEM channels. 
+During 2018, we also invested resources to develop a new product, Nevo® Butler, an end-to-end voice-enabled smart home hub with a built-in white label digital assistant that promises to unify the entertainment control and home automation experiences, enabling interoperability across fragmented ecosystems. Built-in entertainment control capabilities and smart home hub features powered by QuickSet® Cloud make this device the most versatile assistant for the home, capable of addressing the widest range of current installed base of devices in consumers’ homes, addressing a range of use cases and innovative new services in the smart home.
+Our personnel are involved with various industry organizations and bodies, which are in the process of setting standards for IR, RF, telephone and cable communications and networking in the home. Because of the nature of research and development activities, there can be no assurance that any of our research and development projects will be successfully completed or ultimately achieve commercial success.
+Our expenditures on engineering, research and development were:
+
+
+(In millions): | 2018 | | 2017 | | 2016
+Research and development | $ | 23.8 | | | $ | 21.4 | | $ | 19.9
+Engineering (1) | 14.1 | | | 11.0 | | | 10.5
+Total engineering, research and development | $ | 37.9 | | | $ | 32.4 | | $ | 30.4
+
+
+(1) | Engineering costs are included in selling, general and administrative expenses.
+
+7
+
+Environmental Matters
+Many of our products are subject to various federal, state, local and international laws governing chemical substances in products, including laws regulating the manufacturing and distribution of chemical substances and laws restricting the presence of certain substances in electronics products. We may incur substantial costs, including cleanup costs, fines and civil or criminal sanctions, third-party damages or personal injury claims, if we were to violate or become liable under environmental laws or if our products become non-compliant with environmental laws. We also face increasing complexity in our product design and procurement operations as we adjust to new and future requirements relating to the materials composition of our products.
+We may also face significant costs and liabilities in connection with product take-back legislation. The European Union's Waste Electrical and Electronic Equipment Directive ("WEEE") makes producers of electrical goods financially responsible for specified collection, recycling, treatment and disposal of past and future covered products. Our European subsidiaries are WEEE compliant. Similar legislation has been or may be enacted in other jurisdictions, including in the United States, Canada, Mexico, the PRC and Japan.
+We believe that we have materially complied with all currently existing international and domestic federal, state and local statutes and regulations regarding environmental standards and occupational safety and health matters to which we are subject. During the years ended December 31, 2018, 2017 and 2016, the amounts incurred in complying with federal, state and local statutes and regulations pertaining to environmental standards and occupational safety and health laws and regulations did not materially affect our earnings or financial condition. However, future events, such as changes in existing laws and regulations or enforcement policies, may give rise to additional compliance costs that may have a material adverse effect upon our capital expenditures, earnings or financial condition.
+Employees
+At December 31, 2018, we employed 3,707 employees, of which 629 worked in engineering and research and development, 116 in sales and marketing, 96 in consumer service and support, 2,573 in operations and warehousing and 293 in executive and administrative functions. In addition, our factories in the PRC and our Asian operations engaged an additional 5,942 staff contracted through agency agreements.
+Labor unions represent approximately 33.5% of our 3,707 employees at December 31, 2018. Some unionized workers, employed in Manaus, Brazil, are represented under contract with the Sindicato dos Trabalhadores nas Industrias Metalugicas, Mecanicas e de Materiais Eletricos de Manaus. Other unionized workers, employed in Monterrey, Mexico, are represented under contract with the Sindicato Industrial de Trabajadores de Nuevo León adherido a la Federación Nacional de Sindicatos Independientes. Our business units are subject to various laws and regulations relating to their relationships with their employees. These laws and regulations are specific to the location of each business unit. We believe that our relationships with employees and their representative organizations are good.
+Executive Officers of the Registrant(1)
+The following table sets forth certain information concerning our executive officers on March 14, 2019:
+
+
+Name | Age | Position 
+Paul D. Arling | 56 | Chairman of the Board and Chief Executive Officer 
+David Chong | 57 | Executive Vice President, Asia 
+Richard A. Firehammer, Jr. | 61 | Senior Vice President, General Counsel and Secretary
+Bryan M. Hackworth | 49 | Senior Vice President and Chief Financial Officer 
+Menno V. Koopmans | 43 | Managing Director, EMEA 
+
+
+(1) | Included pursuant to Instruction 3 to Item 401(b) of Regulation S-K.
+
+Paul D. Arling is our Chairman and Chief Executive Officer. He joined us in May 1996 as Chief Financial Officer and was named to our Board of Directors in August 1996. He was appointed President and Chief Operating Officer in September 1998, was promoted to Chief Executive Officer in October 2000 and appointed as Chairman in July 2001. At the 2018 Annual Meeting of Stockholders, Mr. Arling was re-elected as our Chairman to serve until the 2019 Annual Meeting of Stockholders. From 1993 through May 1996, he served in various capacities at LESCO, Inc. (a manufacturer and distributor of professional turf care products). Prior to LESCO, he worked for Imperial Wall coverings (a manufacturer and distributor of wall covering products) as Director of Planning and The Michael Allen Company (a strategic management consulting company) where he was employed as a management consultant.
+8
+
+David Chong is our Executive Vice President, Asia. He is responsible for general management of our Asia region. Mr. Chong joined us in January 2009 as Senior Vice President of Global OEM. Prior to joining us, Mr. Chong served as Senior Vice President at Philips Consumer Electronics Division and as the Chief Marketing Officer of the business group Philips Display (Philips TV and computer monitor business). At Philips Display, he led the re-engineering of the Product Creation, Marketing and Sales Organization to compete successfully in the LCD TV space. Prior to this, he also served as Vice President and General Manager of the Audio Video Business in Asia, Vice President and Global Business Line Manager for Audio and various senior management positions at Philips' CE Division. Mr. Chong started at Philips Research Lab in 1984 as a research scientist working in the area of VLSI design methodologies. He also served as Managing Director for Asia at InVue Security Product before joining us at the present position. Mr. Chong had his senior education in The United Kingdom, holding a B.S. in Electrical and Electronics Engineering with High Honors from University of Nottingham.
+Richard A. Firehammer, Jr., Esq. is our Senior Vice President, General Counsel and Secretary. He joined us in October 1993 as General Counsel. He became our Secretary in February 1994. He was our Vice President from May 1997 until August 1998, and served as counsel to us from September 1998 until February 1999 at which time he was promoted to his current position. From November 1992 to September 1993, he was associated with the Chicago, Illinois law firm, Shefsky & Froelich, Ltd. From 1987 to 1992, he was with the law firm Vedder, Price, Kaufman & Kammholz in Chicago, Illinois.
+Bryan M. Hackworth is our Senior Vice President and Chief Financial Officer. He was promoted to Chief Financial Officer in August 2006. Mr. Hackworth joined us in June 2004 as Corporate Controller and subsequently assumed the role of Chief Accounting Officer in May 2006. Before joining us in 2004, he spent five years at Mars, Inc., a privately held international manufacturer and distributor of consumer products and served in several financial and strategic roles (Controller — Ice Cream Division; Strategic Planning Manager for the WHISKAS ® Brand) and various other financial management positions. Prior to joining Mars, Inc., Mr. Hackworth spent six years at Deloitte & Touche LLP as an auditor, specializing in the manufacturing and retail industries.
+Menno V. Koopmans is our Managing Director, EMEA. From 2014 to the end of 2016, he was our Senior Vice President for subscription broadcasting business in Europe and India where he led the customer transition into smart remote controls. From 2005 until 2013, he was the head of our worldwide consumer business and our One For All® brand. Prior to joining us, Mr. Koopmans worked at Mars, Sony Europe and Royal Philips Electronics in different product, marketing and sales management roles in both fast-moving consumer goods and durable consumer goods categories. Mr. Koopmans received his Masters in Science of Business Administration from Erasmus University in Rotterdam, The Netherlands.

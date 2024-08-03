@@ -1,0 +1,597 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.    Business
+ 
+We are a broadcast company primarily engaged in acquiring, developing and operating broadcast properties. On September 1, 2017 we sold our Joplin, Missouri and Victoria, Texas television stations. The television stations that were sold constituted our entire television segment. The historical results of operations for the television stations are presented as discontinued operations for all periods presented (see Note 4). As a result of the sale of our television stations and those stations being reported as discontinued operations we only have one reportable segment at December 31, 2018 and 2017. Unless indicated otherwise, the information in the Notes to Consolidated Financial Statements relates to our continuing operations. As of February 28, 2019, we owned seventy-nine FM and thirty-four AM radio stations serving twenty-seven markets, including Bellingham, Washington; Columbus, Ohio; Norfolk, Virginia; Milwaukee, Wisconsin; Manchester, New Hampshire; and Des Moines, Iowa.
+ 
+The following table sets forth information about our radio stations and the markets they serve as of February 28, 2019:
+ 
+
+ | | 2018 | | 2018 | | | 
+---------+-----------------------+-------------+-----+------------+-----+----------------+-------------------------
+ | | Market | | Market | | | 
+ | | Ranking | | Ranking | | | 
+ | | By Radio | | By Radio | | | Target 
+Station | Market (a) | Revenue (b) | | Market (b) | | Station Format | Demographics 
+FM: | | | | | | | | 
+WKLH | Milwaukee, WI | | 30 | | 41 | | Classic Rock | Men 40-64 
+WHQG | Milwaukee, WI | | 30 | | 41 | | Rock | Men 18-49 
+WJMR | Milwaukee, WI | | 30 | | 41 | | Urban Adult Contemporary | Women 25-54 
+WNRG | Milwaukee, WI | | 30 | | 41 | | Contemporary Hits | Adults 18-34
+WSNY | Columbus, OH | | 34 | | 36 | | Adult Contemporary | Women 25-54 
+WNND | Columbus, OH | | 34 | | 36 | | Classic Hits | Adults 35-64
+WNNP | Columbus, OH | | 34 | | 36 | | Classic Hits | Adults 35-64
+WLVQ | Columbus, OH | | 34 | | 36 | | Classic Rock | Men 40-64 
+WVMX | Columbus, OH | | 34 | | 36 | | Hot Adult Contemporary | Women 25-44 
+WNOR | Norfolk, VA | | 40 | | 45 | | Rock | Men 18-49 
+WAFX | Norfolk, VA | | 40 | | 45 | | Classic Rock | Men 35-64 
+KSTZ | Des Moines, IA | | 67 | | 70 | | Hot Adult Contemporary | Women 25-44 
+KSTZ-HD2 | Des Moines, IA | | 67 | | 70 | | Country Legends | Adults 45-64
+KIOA | Des Moines, IA | | 67 | | 70 | | Classic Hits | Adults 45-64
+KIOA-HD2 | Des Moines, IA | | 67 | | 70 | | Contemporary Hits | Adults 18-34
+KAZR | Des Moines, IA | | 67 | | 70 | | Rock | Men 25-49 
+KAZR-HD2 | Des Moines, IA | | 67 | | 70 | | Oldies | Adults 45+ 
+KMYR | Des Moines, IA | | 67 | | 70 | | Soft Adult Contemporary | Women 25-54 
+WMGX | Portland, ME | | 72 | | 97 | | Hot Adult Contemporary | Women 25-44 
+WYNZ | Portland, ME | | 72 | | 97 | | Classic Hits | Adults 45-64
+WPOR | Portland, ME | | 72 | | 97 | | Contemporary Country | Adults 25-54
+WCLZ | Portland, ME | | 72 | | 97 | | Adult Album Alternative | Adults 25-54
+WAVF | Charleston, SC | | 86 | | 78 | | Adult Contemporary | Adults 25-54
+WCKN | Charleston, SC | | 86 | | 78 | | Contemporary Country | Adults 25-54
+WMXZ | Charleston, SC | | 86 | | 78 | | Hot Adult Contemporary | Women 25-44 
+WMXZ-HD2 | Charleston, SC | | 86 | | 78 | | Urban Hits | Adults 18-34
+WXST | Charleston, SC | | 86 | | 78 | | Urban Adult Contemporary | Adults 25-54
+WAQY | Springfield, MA | | 97 | | 100 | | Classic Rock | Men 35-54 
+WLZX | Springfield, MA | | 97 | | 100 | | Alternative Rock | Men 18-49 
+WOGK | Ocala-Gainesville, FL | | 118 | | 87 | | Contemporary Country | Adults 25-54
+WYND | Ocala-Gainesville, FL | | 118 | | 87 | | Classic Rock | Men 40-64 
+WNDD | Ocala-Gainesville, FL | | 118 | | 87 | | Classic Rock | Men 40-64 
+WNDN | Ocala-Gainesville, FL | | 118 | | 87 | | Classic Rock | Men 40-64 
+
+ 
+(footnotes follow tables)
+
+
+4
+-
+
+
+ | | 2018 | | 2018 | | | 
+---------+------------------------------------+-------------+-----+------------+-----+----------------+------------------------
+ | | Market | | Market | | | 
+ | | Ranking | | Ranking | | | 
+ | | By Radio | | By Radio | | | Target 
+Station | Market (a) | Revenue (b) | | Market (b) | | Station Format | Demographics 
+WZID | Manchester, NH | | 133 | | 201 | | Adult Contemporary | Women 25-54 
+WMLL | Manchester, NH | | 133 | | 201 | | Classic Hits | Adults 45-64
+WZID-HD2 | Manchester, NH | | 133 | | 201 | | Contemporary Hits | Adults 18-34
+WZID-HD3 | Manchester, NH | | 133 | | 201 | | Classic Country | Adults 45-64
+WOXL | Asheville, NC | | 153 | | 157 | | Adult Contemporary | Women 25-54 
+WTMT | Asheville, NC | | 153 | | 157 | | Classic Rock | Men 40-64 
+WTMT-HD2 | Asheville, NC | | 153 | | 157 | | Classic Hits | Adults 45-64
+WTMT-HD3 | Asheville, NC | | 153 | | 157 | | Country Legends | Adults 45-64
+WOXL-HD2 | Asheville, NC | | 153 | | 157 | | Adult Album Alternative | Adults 25-54
+WOXL-HD3 | Asheville, NC | | 153 | | 157 | | Oldies | Adults 45+ 
+WSIG | Harrisonburg, VA | | 168 | | 253 | | Classic Country | Adults 35-64
+WQPO | Harrisonburg, VA | | 168 | | 253 | | Contemporary Hits | Women 18-34 
+WQPO-HD2 | Harrisonburg, VA | | 168 | | 253 | | Oldies | Adults 45+ 
+WQPD-HD3 | Harrisonburg, VA | | 168 | | 253 | | Classic Rock | Male 40-64 
+WMQR | Harrisonburg, VA | | 168 | | 253 | | Adult Contemporary | Female 25-44
+WWRE | Harrisonburg, VA | | 168 | | 253 | | Classic Hits | Adults 45-64
+WNAX | Yankton, SD | | 182 | | 260 | | Contemporary Country | Adults 25-54
+WNAX-HD2 | Yankton, SD | | 182 | | 260 | | Country Legends | Adults 45-64
+WWWV | Charlottesville, VA | | 191 | | 209 | | Classic Rock | Men 40-64 
+WQMZ | Charlottesville, VA | | 191 | | 209 | | Adult Contemporary | Women 25-54 
+WCNR | Charlottesville, VA | | 191 | | 209 | | Adult Album Alternative | Adults 25-54
+WCVL | Charlottesville, VA | | 191 | | 209 | | Contemporary Country | Adults 25-54
+WLHH | Hilton Head, SC | | 248 | | 224 | | Classic Hits | Adults 45-64
+WOEZ | Hilton Head, SC | | 248 | | 224 | | Adult Contemporary | Women 35-64 
+WVSC | Hilton Head, SC | | 248 | | 224 | | Soft Adult Contemporary | Women 35-64 
+WVSC-HD2 | Hilton Head, SC | | 248 | | 224 | | Oldies/Classic Hits | Adults 45-64
+KISM | Bellingham, WA | | N/A | | N/A | | Classic Rock | Men 40-64 
+KAFE | Bellingham, WA | | N/A | | N/A | | Adult Contemporary | Women 25-54 
+WKVT | Brattleboro, VT | | N/A | | N/A | | Classic Hits | Adults 40-64
+WRSY | Brattleboro, VT | | N/A | | N/A | | Adult Album Alternative | Adults 25-54
+WQEL | Bucyrus, OH | | N/A | | N/A | | Classic Hits | Adults 40-64
+WLRW | Champaign, IL | | N/A | | N/A | | Hot Adult Contemporary | Women 25-44 
+WREE | Champaign, IL | | N/A | | N/A | | Classic Hits | Adults 40-64
+WYXY | Champaign, IL | | N/A | | N/A | | Classic Country | Adults 45-64
+WIXY | Champaign, IL | | N/A | | N/A | | Country | Adults 25-54
+WIXY-HD2 | Champaign, IL | | N/A | | N/A | | Rock | Men 18-49 
+WIXY-HD3 | Champaign, IL | | N/A | | N/A | | Contemporary Hits | Adults 18-34
+WLRW-HD2 | Champaign, IL | | N/A | | N/A | | Oldies/Classic Hits | Adults 45-64
+WCVQ | Clarksville, TN — Hopkinsville, KY | | N/A | | N/A | | Hot Adult Contemporary | Women 25-54 
+WVVR | Clarksville, TN — Hopkinsville, KY | | N/A | | N/A | | Contemporary Country | Adults 25-54
+WZZP | Clarksville, TN — Hopkinsville, KY | | N/A | | N/A | | Rock | Men 18-49 
+WRND | Clarksville, TN — Hopkinsville, KY | | N/A | | N/A | | Classic Hits | Adults 40-64
+WCVQ-HD2 | Clarksville, TN — Hopkinsville, KY | | N/A | | N/A | | Contemporary Christian | Adults 25-54
+WCVQ-HD3 | Clarksville, TN — Hopkinsville, KY | | N/A | | N/A | | Country Legends | Adults 45-64
+WHAI | Greenfield, MA | | N/A | | N/A | | Adult Contemporary | Women 25-54 
+
+ 
+(footnotes follow tables)
+
+
+5
+-
+
+
+ | | 2018 | 2018 | | 
+---------+-----------------+-------------+------------+-------------------------+-------------
+ | | Market | Market | | 
+ | | Ranking | Ranking | | 
+ | | By Radio | By Radio | | Target 
+Station | Market (a) | Revenue (b) | Market (b) | Station Format | Demographics
+WPVQ | Greenfield, MA | N/A | N/A | Contemporary Country | Adults 25-54
+WIII | Ithaca, NY | N/A | N/A | Iconic Rock | Men 40-64 
+WQNY | Ithaca, NY | N/A | N/A | Contemporary Country | Adults 25-54
+WQNY-HD3 | Ithaca, NY | N/A | N/A | Alternative | Men 18-34 
+WYXL | Ithaca, NY | N/A | N/A | Adult Contemporary | Women 25-54 
+WYXL-HD2 | Ithaca, NY | N/A | N/A | Adult Album Alternative | Adults 25-54
+WYXL-HD3 | Ithaca, NY | N/A | N/A | Sports | Men 25-64 
+WFIZ | Ithaca, NY | N/A | N/A | Contemporary Hits | Adults 18-34
+WFIZ-HD2 | Ithaca, NY | N/A | N/A | Oldies/Classic Hits | Adults 40-64
+KEGI | Jonesboro, AR | N/A | N/A | Classic Rock | Men 40-64 
+KDXY | Jonesboro, AR | N/A | N/A | Contemporary Country | Adults 25-54
+KJBX | Jonesboro, AR | N/A | N/A | Adult Contemporary | Women 25-54 
+KJBX-HD2 | Jonesboro, AR | N/A | N/A | Country Legends | Adults 45-64
+KDXY-HD2 | Jonesboro, AR | N/A | N/A | Contemporary Hits | Adults 18-34
+KDXY-HD3 | Jonesboro, AR | N/A | N/A | Sports ESPN | Men 35-64 
+WKNE | Keene, NH | N/A | N/A | Hot Adult Contemporary | Women 25-54 
+WKNE-HD2 | Keene, NH | N/A | N/A | Adult Album Alternative | Adults 25-54
+WKNE-HD3 | Keene, NH | N/A | N/A | Classic Country | Adults 45-64
+WSNI | Keene, NH | N/A | N/A | Adult Contemporary | Women 25-44 
+WSNI-HD2 | Keene, NH | N/A | N/A | Adult Album Alternative | Adults 25-54
+WINQ | Keene, NH | N/A | N/A | Contemporary Country | Adults 25-54
+WINQ-HD2 | Keene, NH | N/A | N/A | Classic Country | Adults 45-64
+KMIT | Mitchell, SD | N/A | N/A | Contemporary Country | Adults 25-54
+KMIT-HD2 | Mitchell, SD | N/A | N/A | Adult Contemporary | Women 25-54 
+KMIT-HD3 | Mitchell, SD | N/A | N/A | Sports | Men 18-64 
+KUQL | Mitchell, SD | N/A | N/A | Classic Hits/Oldies | Adults 45-64
+WRSI | Northampton, MA | N/A | N/A | Adult Album Alternative | Adults 25-54
+WLZX-HD2 | Northampton, MA | N/A | N/A | Contemporary Hits | Adults 18-34
+WLZX-HD3 | Northampton, MA | N/A | N/A | Oldies | Adults 45+ 
+KICD | Spencer, IA | N/A | N/A | Contemporary Country | Adults 25-54
+KMRR | Spencer, IA | N/A | N/A | Adult Contemporary | Women 25-54 
+KMRR-HD2 | Spencer, IA | N/A | N/A | Oldies | Adults 45+ 
+KMRR-HD3 | Spencer, IA | N/A | N/A | Soft Adult Contemporary | Female 35-64
+WYMG | Springfield, IL | N/A | N/A | Classic Rock | Men 25-54 
+WDBR | Springfield, IL | N/A | N/A | Contemporary Hits | Adults 18-34
+WQQL | Springfield, IL | N/A | N/A | Classic Hits/Oldies | Adults 45-64
+WLFZ | Springfield, IL | N/A | N/A | Contemporary Country | Adults 25-54
+WDBR-HD2 | Springfield, IL | N/A | N/A | Country Legends | Adults 45-64
+WDBR-HD3 | Springfield, IL | N/A | N/A | Oldies | Adults 45+ 
+
+ 
+(footnotes follow tables)
+
+
+6
+-
+
+
+ | | 2018 | 2018 | | | | 
+--------+------------------------------------+-------------+------------+-----+----------------+-------------------------+-------------
+ | | Market | Market | | | | 
+ | | Ranking | Ranking | | | | 
+ | | By Radio | By Radio | | | | Target 
+Station | Market (a) | Revenue (b) | Market (b) | | Station Format | | Demographics
+AM: | | | | | | | | 
+WJYI | Milwaukee, WI | 30 | | 41 | | Christian | | Adults 25-54
+WJOI | Norfolk, VA | 40 | | 45 | | Adult Standards | | Adults 45-64
+KRNT | Des Moines, IA | 67 | | 70 | | Sports | | Men 18-64 
+KPSZ | Des Moines, IA | 67 | | 70 | | Christian | | Adults 25-54
+WGAN | Portland, ME | 72 | | 97 | | News/Talk | | Adults 35-64
+WZAN | Portland, ME | 72 | | 97 | | Talk/Sports | | Men 18-64 
+WBAE | Portland, ME | 72 | | 97 | | Soft Adult Contemporary | | Female 35-64
+WGIN | Portland, ME | 72 | | 97 | | News/Talk | | Adults 35-64
+WSPO | Charleston, SC | 86 | | 78 | | Gospel | | Adults 25-54
+WHNP | Springfield, MA | 97 | | 100 | | News/Talk | | Adults 35-64
+WFEA | Manchester, NH | 133 | | 201 | | News/Talk | | Adults 35-64
+WISE | Asheville, NC | 153 | | 157 | | Sports/Talk | | Men 18-64 
+WYSE | Asheville, NC | 153 | | 157 | | Sports/Talk | | Men 18-64 
+WSVA | Harrisonburg, VA | 168 | | 253 | | News/Talk | | Adults 35-64
+WHBG | Harrisonburg, VA | 168 | | 253 | | Sports ESPN | | Men 18-64 
+WNAX | Yankton, SD | 180 | | 260 | | News/Talk | | Adults 35-64
+WINA | Charlottesville, VA | 191 | | 209 | | News/Talk | | Adults 35-64
+WVAX | Charlottesville, VA | 191 | | 209 | | Sports Talk | | Men 18-64 
+KGMI | Bellingham, WA | N/A | | N/A | | News/Talk | | Adults 35-64
+KPUG | Bellingham, WA | N/A | | N/A | | Sports/Talk | | Men 18-64 
+KBAI | Bellingham, WA | N/A | | N/A | | Classic Hits | | Adults 40-64
+WKVT | Brattleboro, VT | N/A | | N/A | | News/Talk | | Adults 35-64
+WBCO | Bucyrus, OH | N/A | | N/A | | Country Legends | | Adults 45-64
+WRND | Clarksville, TN — Hopkinsville, KY | N/A | | N/A | | Classic Hits | | Adults 40-64
+WKFN | Clarksville, TN — Hopkinsville, KY | N/A | | N/A | | Sports/Talk ESPN | | Men 18-64 
+WHMQ | Greenfield, MA | N/A | | N/A | | News/Talk | | Adults 35-64
+WPVQ | Greenfield, MA | N/A | | N/A | | Classic Country | | Adults 45+ 
+WNYY | Ithaca, NY | N/A | | N/A | | Oldies | | Adults 45+ 
+WHCU | Ithaca, NY | N/A | | N/A | | News/Talk | | Adults 35-64
+WKBK | Keene, NH | N/A | | N/A | | News/Talk | | Adults 35-64
+WZBK | Keene, NH | N/A | | N/A | | Sports Talk | | Men 18-64 
+WHMP | Northampton, MA | N/A | | N/A | | News/Talk | | Adults 35-64
+KICD | Spencer, IA | N/A | | N/A | | News/Talk | | Adults 35-64
+WTAX | Springfield, IL | N/A | | N/A | | News/Talk | | Adults 35-64
+
+ 
+(footnotes follow tables)
+
+
+(a) | Actual city of license may differ from metropolitan market actually served.
+----+----------------------------------------------------------------------------
+(b) | Derived from Investing in Radio 2018 Market Report. 
+
+
+7
+-
+
+Strategy
+ 
+Our strategy is to operate top billing radio stations in mid-sized markets, which we define as markets ranked from 20 to 200 out of the markets summarized by Investing in Radio Market Report.
+ 
+Programming and marketing are key components in our strategy to achieve top ratings in our radio operations. In many of our markets, the three or four most highly rated radio stations receive a disproportionately high share of the market’s advertising revenues. As a result, a station’s revenue is dependent upon its ability to maximize its number of listeners/viewers within an advertiser’s given demographic parameters. In certain cases we use attributes other than specific market listener data for sales activities. In those markets where sufficient alternative data is available, we do not subscribe to an independent listener rating service.
+ 
+The radio stations that we own and/or operate employ a variety of programming formats, including Classic Hits, Adult Hits, Top 40, Country, Country Legends, Mainstream/Hot/Soft Adult Contemporary, Pure Oldies, Classic Rock, and News/Talk. We regularly perform extensive market research, including music evaluations, focus groups and strategic vulnerability studies. Our stations also employ audience promotions to further develop and secure a loyal following.
+ 
+The television stations that we owned and/or operated, prior to their sale, during 2017 were comprised of two CBS affiliates, one ABC affiliate, two Fox affiliates, one Univision affiliate, one NBC affiliate, one Telemundo affiliate and one Cozi TV affiliate. In addition to securing network programming, we carefully selected available syndicated programming to maximize viewership. We also developed local programming, including a strong local news franchise in each of our television markets.
+ 
+We concentrate on the development of strong decentralized local management, which is responsible for the day-to-day operations of the stations we own and/or operate. We compensate local management based on the station’s financial performance, as well as other performance factors that are deemed to affect the long-term ability of the stations to achieve financial performance objectives. Corporate management is responsible for long-range planning, establishing policies and procedures, resource allocation and monitoring the activities of the stations.
+ 
+Under the Telecommunications Act of 1996 (the “Telecommunications Act”), we are permitted to own as many as eight radio stations in a single market. See “Federal Regulation of Radio and Television Broadcasting”. We seek to acquire reasonably priced broadcast properties with significant growth potential that are located in markets with well-established and relatively stable economies. We often focus on local economies supported by a strong presence of state or federal government or one or more major universities. Future acquisitions will be subject to the availability of financing, the terms of our credit facility, and compliance with the Communications Act of 1934 (the “Communications Act”) and Federal Communications Commission (“FCC”) rules. 
+ 
+Advertising Sales
+
+Our primary source of revenue is from the sale of advertising for broadcast on our stations. Depending on the format of a particular radio station, there are a predetermined number of advertisements broadcast each hour. The number of advertisements broadcast on our television stations were limited by certain network affiliation and syndication agreements and, with respect to children’s programs, federal regulation. We determine the number of advertisements broadcast hourly that can maximize a station’s available revenue dollars without jeopardizing listening/viewing levels. While there may be shifts from time to time in the number of advertisements broadcast during a particular time of the day, the total number of advertisements broadcast on a particular station generally does not vary significantly from year to year. Any change in our revenue, with the exception of those instances where stations are acquired or sold, is generally the result of pricing adjustments, which are made to ensure that the station efficiently utilizes available inventory.
+ 
+Advertising rates charged by radio and television stations are based primarily on a station’s ability to attract audiences in the demographic groups targeted by advertisers, the number of stations in the market competing for the same demographic group, the supply of and demand for radio and television advertising time, and other qualitative factors including rates charged by competing radio and television stations within a given market. Radio rates are generally highest during morning and afternoon drive-time hours, while television advertising rates are generally higher during prime time evening viewing periods. Most advertising contracts are short-term, generally running for only a few weeks. This allows broadcasters the ability to modify advertising rates as dictated by changes in station ownership within a market, changes in listener/viewer ratings and changes in the business climate within a particular market.
+ 
+
+8
+-
+
+ 
+
+Approximately $116,386,000 or 87% of our gross revenue for the year ended December 31, 2018 (approximately $124,809,000 or 87% in fiscal 2017 and approximately $131,233,000 or 85% in fiscal 2016) was generated from the sale of local advertising for both continuing operations and discontinued operations. Additional revenue is generated from the sale of national advertising, network compensation payments, barter and other miscellaneous transactions. In all of our markets, we attempt to maintain a local sales force that is generally larger than our competitors. The principal goal in our sales efforts is to develop long-standing customer relationships through frequent direct contacts, which we believe represents a competitive advantage. We also typically provide incentives to our sales staff to seek out new opportunities resulting in the establishment of new client relationships, as well as new sources of revenue, not directly associated with the sale of broadcast time.
+ 
+Each of our stations also engages independent national sales representatives to assist us in obtaining national advertising revenues. These representatives obtain advertising through national advertising agencies and receive a commission from us based on our net revenue from the advertising obtained. Total gross revenue resulting from national advertising for both continuing operations and discontinued operations in fiscal 2018 was approximately $18,110,000 or 13% of our gross revenue (approximately $18,151,000 or 13% in fiscal 2017 and approximately $23,545,000 or 15% in fiscal 2016 which includes $5,183,000 in national political sales or 3%).
+  
+Competition
+ 
+Both radio and television broadcasting are highly competitive businesses. Our stations compete for listeners/viewers and advertising revenues directly with other radio and/or television stations, as well as other media, within their markets. Our radio stations (and prior to their sale, our television stations) compete for listeners/viewers primarily on the basis of program content and by employing on-air talent which appeals to a particular demographic group. By building a strong listener/viewer base comprised of a specific demographic group in each of our markets, we are able to attract advertisers seeking to reach these listeners/viewers.
+ 
+Other media, including broadcast television and/or radio (as applicable), cable television, newspapers, magazines, direct mail, the Internet, coupons and billboard advertising, also compete with us for advertising revenues.
+ 
+The radio and television broadcasting industries are also subject to competition from new media technologies, such as the delivery of audio programming by cable and satellite television systems, satellite radio systems, direct reception from satellites, and streaming of audio on the Internet.
+    Seasonality
+
+Our revenue varies throughout the year. Advertising expenditures, our primary source of revenue, is generally lowest in the first quarter.
+ 
+Environmental Compliance
+
+As the owner, lessee or operator of various real properties and facilities, we are subject to various federal, state and local environmental laws and regulations. Historically, compliance with these laws and regulations has not had a material adverse effect on our business. There can be no assurance, however, that compliance with existing or new environmental laws and regulations will not require us to make significant expenditures of funds.
+Employees
+
+As of December 31, 2018, we had approximately 687 full-time employees and 344 part-time employees, none of whom are represented by unions. We believe that our relations with our employees are good.
+ 
+We employ several high-profile personalities with large loyal audiences in their respective markets. We have entered into employment and non-competition agreements with our President and with most of our on-air personalities, as well as non-competition agreements with our commissioned sales representatives.
+ 
+Available Information
+
+You can find more information about us at our Internet website www.sagacommunications.com. Our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K and any amendments to those reports are available free of charge on our Internet website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (the “SEC”).
+
+9
+-
+
+Federal Regulation of Radio Broadcasting 
+
+Introduction. The ownership, operation and sale of radio stations, including those licensed to us, are subject to the jurisdiction of the FCC, which acts under authority granted by the Communications Act. Among other things, the FCC assigns frequency bands for broadcasting; determines the particular frequencies, locations and operating power of stations; issues, renews, revokes and modifies station licenses; determines whether to approve changes in ownership or control of station licenses; regulates equipment used by stations; adopts and implements regulations and policies that directly or indirectly affect the ownership, operation and employment practices of stations; and has the power to impose penalties for violations of its rules or the Communications Act. For additional information on the impact of FCC regulations and the introduction of new technologies on our operations, see “Forward Looking Statements” and “Risk Factors” contained elsewhere herein.
+ 
+The following is a brief summary of certain provisions of the Communications Act and of specific FCC regulations and policies. Reference should be made to the Communications Act, FCC rules and the public notices and rulings of the FCC for further information concerning the nature and extent of federal regulation of broadcast stations.
+ 
+License Renewal. Radio broadcasting licenses are granted for maximum terms of eight years, and are subject to renewal upon application to the FCC. Under its “two-step” renewal process, the FCC must grant a renewal application if it finds that during the preceding term the licensee has served the public interest, convenience and necessity, and there have been no serious violations of the Communications Act or the FCC’s rules which, taken together, would constitute a pattern of abuse. If a renewal applicant fails to meet these standards, the FCC may either deny its application or grant the application on such terms and conditions as are appropriate, including renewal for less than the full 8-year term. In making the determination of whether to renew the license, the FCC may not consider whether the public interest would be served by the grant of a license to a person other than the renewal applicant. If the FCC, after notice and opportunity for a hearing, finds that the licensee has failed to meet the requirements for renewal and no mitigating factors justify the imposition of lesser sanctions, the FCC may issue an order denying the renewal application, and only thereafter may the FCC accept applications for a construction permit specifying the broadcasting facilities of the former licensee. Petitions may be filed to deny the renewal applications of our stations, but any such petitions must raise issues that would cause the FCC to deny a renewal application under the standards adopted in the “two-step” renewal process. All the Company’s licenses have been renewed for their regular terms. In the future, we intend to timely file renewal applications, as required for the Company’s stations. Radio station licenses generally expire along with the licenses of all other radio stations in a given state. The FCC accepts renewal applications for various groups of radio stations every two months, beginning in June 2019, when we must file applications for renewal of license of our radio stations in Virginia. In January 2018, the FCC designated the renewal applications of two AM radio stations for hearing based on the stations’ records of extended periods of silence during and following their respective license renewal terms. Under the Communications Act, if a broadcast station fails to transmit signals for any consecutive 12-month period, the FCC license expires at the end of that period, unless the FCC exercises its discretion to extend or reinstate the license “to promote equity and fairness.” The FCC, to date, has rarely exercised such discretion. 
+
+10
+--
+
+ 
+
+The following table sets forth the market and broadcast power of each of the broadcast stations that we own or operate with an attributable interest and the date on which each such station’s FCC license expires:
+ 
+
+ | | | | Power | | Expiration Date of
+--------+------+------------+----------------------------------+-------------+---------+-------------------
+Station | | Market (1) | | (Watts) (2) | | FCC Authorization 
+ | FM: | | | | | | 
+ | WOXL | | Asheville, NC | | 50,000 | | December 1, 2019
+ | WTMT | | Asheville, NC | | 50,000 | | December 1, 2019
+ | KISM | | Bellingham, WA | | 100,000 | | February 1, 2022
+ | KAFE | | Bellingham, WA | | 100,000 | | February 1, 2022
+ | WRSY | | Brattleboro, VT | | 3,000 | | April 1, 2022 
+ | WKVT | | Brattleboro, VT | | 6,000 | | April 1, 2022 
+ | WQEL | | Bucyrus, OH | | 3,000 | | October 1, 2020 
+ | WLRW | | Champaign, IL | | 50,000 | | December 1, 2020
+ | WIXY | | Champaign, IL | | 25,000 | | December 1, 2020
+ | WREE | | Champaign, IL | | 25,000 | | December 1, 2020
+ | WYXY | | Champaign, IL | | 50,000 | | December 1, 2020
+ | WAVF | | Charleston, SC | | 100,000 | | December 1, 2019
+ | WCKN | | Charleston, SC | | 100,000 | | December 1, 2019
+ | WMXZ | | Charleston, SC | | 50,000 | | December 1, 2019
+ | WXST | | Charleston, SC | | 100,000 | | December 1, 2019
+ | WWWV | | Charlottesville, VA | | 50,000 | | October 1, 2019 
+ | WQMZ | | Charlottesville, VA | | 6,000 | | October 1, 2019 
+ | WCNR | | Charlottesville, VA | | 6,000 | | October 1, 2019 
+ | WCVL | | Charlottesville, VA | | 6,000 | | October 1, 2019 
+ | WCVQ | | Clarksville, TN/Hopkinsville, KY | | 100,000 | | August 1, 2020 
+ | WZZP | | Clarksville, TN/Hopkinsville, KY | | 6,000 | | August 1, 2020 
+ | WVVR | | Clarksville, TN/Hopkinsville, KY | | 100,000 | | August 1, 2020 
+ | WRND | | Clarksville, TN/Hopkinsville, KY | | 6,000 | | August 1, 2020 
+ | WSNY | | Columbus, OH | | 50,000 | | October 1, 2020 
+ | WNNP | | Columbus, OH | | 6,000 | | October 1, 2020 
+ | WNND | | Columbus, OH | | 6,000 | | October 1, 2020 
+ | WVMX | | Columbus, OH | | 6,000 | | October 1, 2020 
+ | WLVQ | | Columbus, OH | | 50,000 | | October 1, 2020 
+ | KSTZ | | Des Moines, IA | | 100,000 | | February 1, 2021
+ | KIOA | | Des Moines, IA | | 100,000 | | February 1, 2021
+ | KAZR | | Des Moines, IA | | 100,000 | | February 1, 2021
+ | KMYR | | Des Moines, IA | | 100,000 | | February 1, 2021
+ | WHAI | | Greenfield, MA | | 3,000 | | April 1, 2022 
+ | WPVQ | | Greenfield, MA | | 3,000 | | April 1, 2022 
+ | WMQR | | Harrisonburg, VA | | 25,000 | | October 1, 2019 
+ | WQPO | | Harrisonburg, VA | | 50,000 | | October 1, 2019 
+ | WSIG | | Harrisonburg, VA | | 25,000 | | October 1, 2019 
+ | WWRE | | Harrisonburg, VA | | 6,000 | | October 1, 2019 
+ | WOEZ | | Hilton Head Island, SC | | 25,000 | | December 1, 2019
+ | WLHH | | Hilton Head Island, SC | | 25,000 | | December 1, 2019
+ | WVSC | | Hilton Head Island, SC | | 25,000 | | December 1, 2019
+ | WYXL | | Ithaca, NY | | 50,000 | | June 1, 2022 
+ | WQNY | | Ithaca, NY | | 50,000 | | June 1, 2022 
+ | WIII | | Ithaca, NY | | 50,000 | | June 1, 2022 
+ | WFIZ | | Ithaca, NY | | 6,000 | | June 1, 2022 
+
+ 
+(footnotes follow tables)
+
+
+11
+--
+
+
+ | | | | Power | | Expiration Date of
+--------+------+------------+----------------------------------+-------------+---------+-------------------
+Station | | Market (1) | | (Watts) (2) | | FCC Authorization 
+ | KEGI | | Jonesboro, AR | | 50,000 | | June 1, 2020 
+ | KDXY | | Jonesboro, AR | | 25,000 | | June 1, 2020 
+ | KJBX | | Jonesboro, AR | | 25,000 | | June 1, 2020 
+ | WKNE | | Keene, NH | | 50,000 | | April 1, 2022 
+ | WSNI | | Keene, NH | | 6,000 | | April 1, 2022 
+ | WINQ | | Keene, NH | | 6,000 | | April 1, 2022 
+ | WZID | | Manchester, NH | | 50,000 | | April 1, 2022 
+ | WMLL | | Manchester, NH | | 6,000 | | April 1, 2022 
+ | WKLH | | Milwaukee, WI | | 50,000 | | December 1, 2020
+ | WHQG | | Milwaukee, WI | | 50,000 | | December 1, 2020
+ | WNRG | | Milwaukee, WI | | 6,000 | | December 1, 2020
+ | WJMR | | Milwaukee, WI | | 6,000 | | December 1, 2020
+ | KMIT | | Mitchell, SD | | 100,000 | | April 1, 2021 
+ | KUQL | | Mitchell, SD | | 100,000 | | April 1, 2021 
+ | WNOR | | Norfolk, VA | | 50,000 | | October 1, 2019 
+ | WAFX | | Norfolk, VA | | 100,000 | | October 1, 2019 
+ | WOGK | | Ocala, FL | | 100,000 | | February 1, 2020
+ | WYND | | Ocala, FL | | 6,000 | | February 1, 2020
+ | WNDD | | Ocala, FL | | 6,000 | | February 1, 2020
+ | WNDN | | Ocala, FL | | 6,000 | | February 1, 2020
+ | WRSI | | Northampton, MA | | 3,000 | | April 1, 2022 
+ | WPOR | | Portland, ME | | 50,000 | | April 1, 2022 
+ | WCLZ | | Portland, ME | | 50,000 | | April 1, 2022 
+ | WMGX | | Portland, ME | | 50,000 | | April 1, 2022 
+ | WYNZ | | Portland, ME | | 25,000 | | April 1, 2022 
+ | KICD | | Spencer, IA | | 100,000 | | February 1, 2021
+ | KMRR | | Spencer, IA | | 25,000 | | February 1, 2021
+ | WLZX | | Springfield, MA | | 6,000 | | April 1, 2022 
+ | WAQY | | Springfield, MA | | 50,000 | | April 1, 2022 
+ | WYMG | | Springfield, IL | | 50,000 | | December 1, 2020
+ | WLFZ | | Springfield, IL | | 50,000 | | December 1, 2020
+ | WDBR | | Springfield, IL | | 50,000 | | December 1, 2020
+ | WQQL | | Springfield, IL | | 25,000 | | December 1, 2020
+ | WNAX | | Yankton, SD | | 100,000 | | April 1, 2021 
+ | AM: | | | | | | 
+ | WISE | | Asheville, NC | | 5,000 | | December 1, 2019
+ | WYSE | | Asheville, NC | | 5,000 | (3) | December 1, 2019
+ | KGMI | | Bellingham, WA | | 5,000 | | February 1, 2022
+ | KPUG | | Bellingham, WA | | 10,000 | | February 1, 2022
+ | KBAI | | Bellingham, WA | | 1,000 | | February 1, 2022
+ | WINQ | | Brattleboro, VT | | 1,000 | | April 1, 2022 
+ | WBCO | | Bucyrus, OH | | 500 | (3) | October 1, 2020 
+ | WSPO | | Charleston, SC | | 5,000 | | December 1, 2019
+ | WINA | | Charlottesville, VA | | 5,000 | | October 1, 2019 
+ | WVAX | | Charlottesville, VA | | 1,000 | | October 1, 2019 
+ | WQEZ | | Clarksville, TN/Hopkinsville, KY | | 1,000 | (3) | August 1, 2020 
+ | WKFN | | Clarksville, TN | | 4,000 | (3) | August 1, 2020 
+ | KRNT | | Des Moines, IA | | 5,000 | | February 1, 2021
+ | KPSZ | | Des Moines, IA | | 10,000 | | February 1, 2021
+ | WHMQ | | Greenfield, MA | | 1,000 | | April 1, 2022 
+ | WPVQ | | Greenfield, MA | | 2,500 | (3) | April 1, 2022 
+ | WSVA | | Harrisonburg, VA | | 5,000 | | October 1, 2019 
+ | WHBG | | Harrisonburg, VA | | 1,000 | (3) | October 1, 2019 
+
+ 
+(footnotes follow tables)
+ 
+
+12
+--
+
+
+ | | | | Power | | Expiration Date of
+--------+------+------------+-----------------+-------------+-------+-------------------
+Station | | Market (1) | | (Watts) (2) | | FCC Authorization 
+ | WHCU | | Ithaca, NY | | 5,000 | | June 1, 2022 
+ | WNYY | | Ithaca, NY | | 5,000 | | June 1, 2022 
+ | WKBK | | Keene, NH | | 5,000 | | April 1, 2022 
+ | WZBK | | Keene, NH | | 1,000 | | April 1, 2022 
+ | WFEA | | Manchester, NH | | 5,000 | | April 1, 2022 
+ | WJYI | | Milwaukee, WI | | 1,000 | | December 1, 2020
+ | WJOI | | Norfolk, VA | | 1,000 | | October 1, 2019 
+ | WHMP | | Northampton, MA | | 1,000 | | April 1, 2022 
+ | WGAN | | Portland, ME | | 5,000 | | April 1, 2022 
+ | WZAN | | Portland, ME | | 5,000 | | April 1, 2022 
+ | WBAE | | Portland, ME | | 1,000 | | April 1, 2022 
+ | WGIN | | Portland, ME | | 1,000 | | April 1, 2022 
+ | KICD | | Spencer, IA | | 1,000 | | February 1, 2021
+ | WLZX | | Springfield, MA | | 2,500 | (3) | April 1, 2022 
+ | WTAX | | Springfield, IL | | 1,000 | | December 1, 2020
+ | WNAX | | Yankton, SD | | 5,000 | | April 1, 2021 
+
+
+(1) | Some stations are licensed to a different community located within the market that they serve.
+----+-----------------------------------------------------------------------------------------------
+
+
+(2) | Some stations are licensed to operate with a combination of effective radiated power (“ERP”) and antenna height, which may be different from, but provide equivalent coverage to, the power shown. WHBG, WYSE, WISE, KPSZ, KPUG, KGMI, KBAI, WZBK, WBCO, WQEZ, WKFN, WPVQ(AM), WNYY, WHCU, WINQ(AM), WSVA and WLZX(AM) operate with lower power at night than the power shown.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Operates daytime only or with greatly reduced power at night.
+----+--------------------------------------------------------------
+
+Ownership Matters. The Communications Act prohibits the assignment of a broadcast license or the transfer of control of a broadcast licensee without the prior approval of the FCC. In determining whether to grant or renew a broadcast license, the FCC considers a number of factors pertaining to the licensee, including compliance with the Communications Act’s limitations on alien ownership; compliance with various rules limiting common ownership of broadcast, cable and newspaper properties; and the “character” and other qualifications of the licensee and those persons holding “attributable or cognizable” interests therein.
+ 
+Under the Communications Act (Section 310(b)), broadcast licenses may not be granted to any corporation having more than one-fifth of its issued and outstanding capital stock owned or voted by aliens (including non-U.S. corporations), foreign governments or their representatives (collectively, “Aliens”). The Communications Act also prohibits a corporation, without FCC waiver, from holding a broadcast license if that corporation is controlled, directly or indirectly, by another corporation in which more than 25% of the issued and outstanding capital stock is owned or voted by Aliens. The FCC has issued interpretations of existing law under which these restrictions in modified form apply to other forms of business organizations, including partnerships. We serve as a holding company for our various radio station subsidiaries (where we could not have more than 25% of our stock owned or voted by Aliens).
+ 
+The FCC has adopted rules to extend to broadcast licensees the same rules and procedures that common carrier wireless licensees use to seek approval for foreign ownership, with broadcast-specific modifications.
+ 
+
+13
+--
+
+ 
+
+The revised rules and procedures allow a broadcast licensee to request in a petition for declaratory ruling under Title 47 U.S.C. Section 310(b)(4):
+ 
+
+(1) | approval of up to and including 100 percent aggregate foreign ownership of its controlling U.S. parent; 
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) | approval for a proposed, controlling foreign investor to increase its equity and/or voting interests in the U.S. parent up to and including 100 percent at some future time without filing a new petition—this applies where the foreign investor would acquire an initial controlling interest of less than 100 percent; and
+(3) | approval for a non-controlling foreign investor named in the petition to increase its equity and/or voting interests in the U.S. parent at some future time, up to and including a non-controlling 49.99 percent equity and/or voting interest. 
+
+ 
+The revised rules would require the Company to seek specific approval only of foreign individuals or entities with a greater than 5 percent ownership interest (or, in certain situations, an interest greater than 10 percent).
+ 
+The revised rules allow broadcast licensees that have foreign ownership rulings to apply those rulings to all radio and television broadcast licenses then held or subsequently proposed to be acquired by the same licensee and its covered subsidiaries and affiliates, regardless of the broadcast service (e.g., AM, FM, or TV) or the geographic area in which the stations are located.
+ 
+The revised methodology provides a framework for a publicly traded licensee or controlling U.S. parent to ascertain its foreign ownership using information that is “known or reasonably should be known” to the company in the ordinary course of business.
+ 
+For publicly traded licensees and U.S. parent companies (like the Company), the revised rules formalize the current equitable practice of recognizing a licensee’s good faith efforts to comply with Section 310(b) where the non-compliance was due solely to circumstances beyond the licensee’s control that were not known or reasonably foreseeable to the licensee.
+ 
+We are permitted to own an unlimited number of radio stations on a nationwide basis (subject to the local ownership restrictions described below). 
+ 
+Under the rules, the number of radio stations one party may own in a local Nielsen Audio-rated radio market is determined by the number of full-power commercial and noncommercial radio stations in the market as determined by Nielsen Audio and BIA/Kelsey. Radio markets that are not Nielsen Audio rated are determined by analysis of the broadcast coverage contours of the radio stations involved. 
+ 
+Under the Communications Act, and the FCC’s “Local Ownership Rule,” we are permitted to own radio stations (without regard to the audience shares of the stations) based upon the number of full-power radio stations in the relevant radio market as follows:
+ 
+
+Number of Stations | 
+-------------------+------------------------------------------------------------------------------------------------------------------------------------------------
+In Radio Market | Number of Stations We Can Own 
+14 or Fewer | Total of 5 stations, not more than 3 in the same service (AM or FM), except the Company cannot own more than 50% of the stations in the market.
+15-29 | Total of 6 stations, not more than 4 in the same service (AM or FM). 
+30-44 | Total of 7 stations, not more than 4 in the same service (AM or FM). 
+45 or More | Total of 8 stations, not more than 5 in the same service (AM or FM). 
+
+
+14
+--
+
+ 
+
+In November 2017, the FCC ended its 2010/2014 Quadrennial Review proceeding wherein (effective February 7,2018) it (1) eliminated the newspaper/broadcast cross-ownership rule (which prohibited the common ownership of a daily print newspaper and a full-power broadcast station (AM, FM or TV) if the station’s service contour encompassed the newspaper’s community of publication); (2) eliminated the radio/television cross-ownership rule (which prohibited an entity from owning two or more television stations and one radio station in the same market, unless the market met certain size criteria); (3) revised the “Local Television Ownership Rule” to eliminate the so called – “Eight-Voices Test” and to modify the “Top-Four Prohibition” to better reflect the competitive conditions in local markets; (4) declined to modify the market definitions relied on in the “Local Radio Ownership Rule” (discussed above), but provided a presumption for certain embedded markets (smaller markets, as defined by Nielsen Audio, that are included in a larger parent market) transactions; (5) eliminated the attribution rule for television joint sales agreements; and (6) retained the disclosure requirement for shared service agreements involving commercial television stations. The FCC also adopted a Notice of Proposed Rule Making (“NPRM”) to seek comment on an “incubator” program to promote ownership diversity. In December 2018, the FCC adopted an NPRM to initiate the 2018 Quadrennial Review of its media ownership rules. The three rules subject to review are the Local Radio Ownership Rule, the Local Television Ownership Rule, and the dual network rule (which permits a television station to affiliate with an entity maintaining two or more broadcast television networks unless the two or more networks consist of two or more of the major networks (i.e., ABC, CBS, NBC and Fox) or one of these four networks and either the UPN or WB television network.) The FCC is seeking comment on whether, given the current state of the media marketplace, the FCC should retain, modify, or eliminate any of these rules. The Company cannot predict what, if any action, the FCC may take as a result of its review.
+ 
+New rules to be promulgated under the Communications Act may permit us to own, operate, control or have a cognizable interest in additional radio broadcast stations if the FCC determines that such ownership, operation, control or cognizable interest will result in an increase in the number of radio stations in operation. No firm date has been established for initiation of this rule-making proceeding. New rules could restrict the Company’s ability to acquire additional radio and television stations in some markets. The Court and FCC proceedings are ongoing and we cannot predict what action, if any, the Court or the FCC may take to further modify its rules. Due to changes in local radio markets, the ownership of some of our radio stations, in the future, could exceed the current ownership limits imposed by the Local Ownership Rule. Their current ownership structure is “grandfathered” by the FCC. Absent a waiver, it might not be possible to sell all of them as currently configured in “clusters” to a single purchaser. The statements herein are based solely on the FCC’s multiple ownership rules in effect as of the date hereof and do not include any forward-looking statements concerning compliance with any future multiple ownership rules.
+ 
+The FCC generally applies its ownership limits to “attributable” interests held by an individual, corporation, partnership or other association. In the case of corporations holding broadcast licenses, the interests of officers, directors and those who, directly or indirectly, have the right to vote 5% or more of the corporation’s stock (or 20% or more of such stock in the case of certain passive investors that are holding stock for investment purposes only) are generally attributable, as are positions of an officer or director of a corporate parent of a broadcast licensee. Currently, one of our directors has an attributable interest or interests in companies applying for or licensed to operate broadcast stations other than us.
+ 
+The FCC’s ownership attribution rules (a) apply to limited liability companies and registered limited liability partnerships the same attribution rules that the FCC applies to limited partnerships; and (b) include an equity/debt plus (“EDP”) rule that attributes the other media interests of an otherwise passive investor if the investor is (1) a “major-market program supplier” that supplies over 15% of a station’s total weekly broadcast programming hours, or (2) a same-market media entity subject to the FCC’s multiple ownership rules (including broadcasters, cable operators and newspapers) so that its interest in a licensee or other media entity in that market will be attributed if that interest, aggregating both debt and equity holdings, exceeds 33% of the total asset value (equity plus debt) of the licensee or media entity. We could be prohibited from acquiring a financial interest in stations in markets where application of the EDP rule would result in us having an attributable interest in the stations. In reconsidering its rules, the FCC also eliminated the “single majority shareholder exemption” which provides that minority voting shares in a corporation where one shareholder controls a majority of the voting stock are not attributable; however, the FCC “suspended” the elimination of this exemption until the FCC resolved issues concerning cable television ownership.
+ 
+
+15
+--
+
+ 
+
+In addition to the FCC’s multiple ownership rules, the Antitrust Division of the United States Department of Justice and the Federal Trade Commission and some state governments have the authority to examine proposed transactions for compliance with antitrust statutes and guidelines. The Antitrust Division has issued “civil investigative demands” and obtained consent decrees requiring the divestiture of stations in a particular market based on antitrust concerns.
+ 
+Programming and Operation. The Communications Act requires broadcasters to serve the “public interest.” Licensees are required to present programming that is responsive to community problems, needs and interests and to maintain certain records demonstrating such responsiveness. Complaints from listeners concerning a station’s programming often will be considered by the FCC when it evaluates renewal applications of a licensee, although such complaints may be filed at any time and generally may be considered by the FCC at any time. Stations also must follow various rules promulgated under the Communications Act that regulate, among other things, political advertising, sponsorship identification, the advertisement of contests and lotteries, obscene and indecent broadcasts, and technical operations, including limits on radio frequency radiation. The FCC now requires the owners of antenna supporting structures (towers) to register them with the FCC. As an owner of such towers, our subsidiaries are subject to the registration requirements. The FCC’s rules require cable operators, direct satellite TV providers, broadcast radio licensees, and satellite radio licensees to post public inspection files to the FCC's online database rather than maintaining them in a local public inspection file. The Company’s radio stations post their public inspection files to the FCC’s website. Posting these files to the FCC’s online database renders the materials more widely accessible to the public. The FCC has warned licensees of possible enforcement action if these files are found not to be in compliance at the time of license renewal.
+ 
+The Company is required to pay (1) FCC filing fees in connection with its applications and an (2) annual regulatory fee determined by the number and character of the radio stations the Company owns as of October 1 of each prior year.
+ 
+Equal Employment Opportunity Rules. Equal employment opportunity (EEO) rules and policies for broadcasters prohibit discrimination by broadcasters and multichannel video programming distributors. They also require broadcasters to provide notice of job vacancies and to undertake additional outreach measures, such as job fairs and scholarship programs. The rules mandate a “three prong” outreach program; i.e., Prong 1: widely disseminate information concerning each full-time (30 hours or more) job vacancy, except for vacancies filled in exigent circumstances; Prong 2: provide notice of each full-time job vacancy to recruitment organizations that have requested such notice; and Prong 3: complete two (for broadcast employment units with five to ten full-time employees or that are located in smaller markets) or four (for employment units with more than ten full-time employees located in larger markets) longer-term recruitment initiatives within a two-year period. These include, for example, job fairs, scholarship and internship programs, and other community events designed to inform the public as to employment opportunities in broadcasting. The rules mandate extensive record keeping and reporting requirements. The EEO rules are enforced through review at renewal time, at mid-term for larger broadcasters (which the FCC has proposed to eliminate), and through random audits and targeted investigations resulting from information received as to possible violations. The FCC has not yet decided on whether and how to apply the EEO rule to part-time positions. Failure to observe these or other rules and policies can result in the imposition of various sanctions, including monetary forfeitures, the grant of “short” (less than the full eight-year) renewal terms or, for particularly egregious violations, the denial of a license renewal application or the revocation of a license.
+Time Brokerage Agreements. As is common in the industry, we have previously entered into what have commonly been referred to as Time Brokerage Agreements (“TBAs”) which are sometimes termed Local Marketing Agreements.” Such arrangements are an extension of the concept of agreements under which a licensee of a station sells blocks of time on its station to an entity or entities which purchase the blocks of time and which sell their own commercial advertising announcements during the time periods in question. While these agreements may take varying forms, under a typical TBA, separately owned and licensed radio or television stations agree to enter into cooperative arrangements of varying sorts, subject to compliance with the requirements of antitrust laws and with the FCC’s rules and policies. Under these types of arrangements, separately-owned stations agree to function cooperatively in terms of programming, advertising sales, and other matters, subject to the licensee of each station maintaining independent control over the financing, programming and station operations of its own station. One typical type of TBA is a programming agreement between two separately-owned radio or television stations serving a common service area, whereby the licensee of one station purchases substantial portions of the broadcast day on the other licensee’s station, subject to ultimate editorial and other controls being exercised by the latter licensee, and sells advertising time during such program segments.
+
+16
+--
+
+ 
+
+The FCC’s rules provide that a station purchasing (brokering) time on another station serving the same market will be considered to have an attributable ownership interest in the brokered station for purposes of the FCC’s multiple ownership rules. As a result, under the rules, a broadcast station will not be permitted to enter into a time brokerage agreement giving it the right to purchase more than 15% of the broadcast time, on a weekly basis, of another local station that it could not own under the local ownership rules of the FCC’s multiple ownership rules. The FCC’s rules also prohibit a broadcast licensee from simulcasting more than 25% of its programming on another station in the same broadcast service (i.e., AM-AM or FM-FM) whether it owns the stations or through a TBA arrangement, where the brokered and brokering stations serve substantially the same geographic area. The Company currently has no TBAs. 
+ 
+Other FCC Requirements.
+ 
+Low Power FM Radio. There exists a “low power radio service” on the FM band (“LPFM”) in which the FCC authorizes the construction and operation of noncommercial educational FM stations with up to 100 watts ERP with antenna height above average terrain (“HAAT”) at up to 30 meters (100 feet). This combination is calculated to produce a service area radius of approximately 3.5 miles. The FCC’s rules will not permit any broadcaster or other media entity subject to the FCC’s ownership rules to control or hold an attributable interest in an LPFM station or enter into related operating agreements with an LPFM licensee. Thus, absent a waiver, we could not own or program an LPFM station. LPFM stations are allocated throughout the FM broadcast band, (i.e., 88.1 to 107.9 MHz), although they must operate with a noncommercial format. The FCC has established allocation rules that require FM stations to be separated by specified distances to other stations on the same frequency, and stations on frequencies on the first, second and third channels adjacent to the center frequency. The FCC has granted construction permits and licenses for LPFM stations. As required by the Local Community Radio Act of 2010, the FCC in 2012 modified its rules to maintain its existing minimum distance separation requirements for full-service FM stations, FM translator stations, and FM booster stations that broadcast radio reading services via an analog subcarrier frequency to avoid potential interference by LPFM stations; and when licensing new FM translator stations, FM booster stations, and LPFM stations, to ensure that: (i) licenses are available to FM translator stations, FM booster stations, and LPFM stations; (ii) such decisions are made based on the needs of the local community; and (iii) FM translator stations, FM booster stations, and LPFM stations remain equal in status and secondary to existing and modified full-service FM stations.
+ 
+On January 5, 2012, the FCC released a Report to Congress on the impact that LPFM stations will have on full-service commercial FM stations. The FCC “found no statistically reliable evidence that low-power FM stations have a substantial or consistent economic impact on full-service commercial FM stations,” and that “low-power FM stations generally do not have, and in the future are unlikely to have, a demonstrable economic impact on full-service commercial FM radio stations.” We cannot predict what, if any, impact the LPFM stations will have on the Company’s full-service stations and FM translators. 
+ 
+Digital Audio Radio Satellite Service and Internet Radio. In adopting its rules for the Digital Audio Radio Satellite Service (“DARS”) in the 2310-2360 MHz frequency band, the FCC stated, “although healthy satellite DARS systems are likely to have some adverse impact on terrestrial radio audience size, revenues and profits, the record does not demonstrate that licensing satellite DARS would have such a strong adverse impact that it threatens the provision of local service.” The FCC granted two nationwide licenses, one to XM Satellite Radio, which began broadcasting in May 2001, and a second to Sirius Satellite Radio, which began broadcasting in February 2002. The satellite radio systems provide multiple channels of audio programming in exchange for the payment of a subscription fee. The FCC approved the application of Sirius Satellite Radio Inc. and XM Satellite Radio Holdings Inc. to transfer control of the licenses and authorizations held by the two companies to one company, which is now known as Sirius XM Radio, Inc. Various companies have introduced devices that permit the reception of audio programming streamed over the Internet on home computers, on portable receivers, such as cell phones, and in automobiles. A number of digital music providers have developed and are offering their product through the Internet. Terrestrial radio operators (including the Company) are also making their product available through the Internet. We cannot predict whether, or the extent to which, such competing reception devices and DARS will have an adverse impact on our business.
+
+17
+--
+
+ 
+
+In-Band On-Channel “Hybrid Digital” Radio. The FCC’s rules permit radio stations to broadcast using in-band, on-channel (IBOC) as the technology that allows AM and FM stations to operate using the IBOC systems developed by iBiquity Digital Corporation. This technology has become commonly known as “hybrid digital” or HD radio. Stations broadcast the same main channel program material in both analog and digital modes. HD radio technology permits “hybrid” operations, the simultaneous transmission of analog and digital signals with a single AM and FM channel. HD radio technology can provide near CD-quality sound on FM channels and FM quality on AM channels. HD radio technology also permits the transmission of up to three additional program streams over the radio stations (which streams do not count as separate radio stations under the multiple ownership rules.) At the present time, we are configured to broadcast in HD radio on 53 stations.
+ 
+Use of FM Translators by AM Stations and Digital Program Streams. FM translator stations are relatively low power radio stations (maximum ERP: 250 Watts) that rebroadcast the programs of full-power AM and FM stations on a secondary basis, meaning they must terminate or modify their operation if they cause interference to a full-power station. The FCC permits AM stations to be rebroadcast on FM translator stations in order to improve reception of programs broadcast by AM stations. The Company intends to continue to use some of its existing FM translators in connection with some of its AM stations. The Company is using some of its existing FM translators to rebroadcast HD radio program streams generated by some of its FM stations, which is permitted by the FCC. In a 2015 Report and Order, Revitalization of the AM Service, the FCC announced an opportunity, restricted to AM licensees and permittees, to apply for and receive authorizations to relocate existing FM translator stations within 250 miles for the sole and limited purpose of enhancing their existing service to the public. To implement this policy, the FCC opened “filing windows,” the last one closing October 31, 2016. Some of the Company’s subsidiaries that are AM licensees, acquired FM translators and during the filing window, and relocated them to their local markets to pair with some of the Company’s AM broadcast stations. The FM translators so acquired must rebroadcast the related AM station for at least four years, not counting any periods of silence. The FCC later opened two windows for the filing of applications for construction permits for new FM translators, the final window closing January 31, 2018. In the filing windows, qualifying AM licensees could apply for one, and only one, new FM translator station, in the non-reserved FM band to be used solely to re-broadcast the licensee’s AM signal to provide fill-in and/or nighttime service on a permanent basis. The Company filed applications in both windows and obtained some construction permits as a result. If the Company should decide that a subsidiary should sell or suspend operations of an AM station with such an FM construction permit or license, the subsidiary would also be required to sell or suspend operations of the FM translator. In May 2018, the FCC adopted an NPRM proposing to streamline the rules relating to interference caused by FM translators and expedite the translator interference complaint resolution process. The proposals, if implemented, could limit or avoid protracted and contentious interference resolution disputes, provide translator licensees both additional flexibility to remediate interference and additional investment certainty, and allow expedited resolution of interference claims by affected stations. The rule changes proposed in the NPRM, among other things, would require more definite information in listener complaints and that listener complaints beyond a certain contour would not be actionable
+ 
+Hart-Scott-Rodino Antitrust Improvements Act of 1976. The Federal Trade Commission and the Department of Justice, the federal agencies responsible for enforcing the federal antitrust laws, may investigate certain acquisitions. Under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, an acquisition meeting certain size threshholds requires the parties to file Notification and Report Forms with the Federal Trade Commission and the Department of Justice and to observe specified waiting period requirements before consummating the acquisition. Any decision by the Federal Trade Commission or the Department of Justice to challenge a proposed acquisition could affect our ability to consummate the acquisition or to consummate it on the proposed terms. We cannot predict whether the FCC will adopt rules that would restrict our ability to acquire additional stations.
+ 
+Changes to Application and Assignment Procedures. The FCC has adopted rules that give Native American tribes a priority to obtain broadcast radio licenses in tribal communities. The rules provide an opportunity for tribes to establish new service specifically designed to offer programming that meets the needs of tribal citizens. In addition, the rules modified the FCC’s radio application and assignment procedures, assisting qualified applicants to more rapidly introduce new radio service to the public. These modifications (1) Prohibit an AM applicant that obtains a construction permit through a dispositive Section 307(b) preference from downgrading the service level that led to the dispositive preference; (2) Require technical proposals for new or major change AM facilities filed with Form 175 ( i.e ., FCC “short-form” Auction) applications to meet certain minimum technical standards to be eligible for further auction processing; and (3) Give FCC operating bureaus authority to cap filing window applications. In 2011, the FCC released its Third Report and Order which limits eligibility for authorizations associated with allotments added to the FM Table of Allotments using the “Tribal Priority” to the tribes whom the Tribal Priority was intended to benefit. In October 2018, the FCC released a “Second Further Notice of Proposed Rulemaking” as part of its ongoing effort to assist AM broadcast stations in providing full-time service to their communities. The FCC is seeking comment on technical proposals to reduce nighttime interference afforded to wide-area “Class A” AM radio stations to enable more local AM stations to increase their nighttime service. The Company has no Class A AM radio stations, but has Class B, Class C and Class D AM radio stations, some of which might benefit if the FCC’s changes its rules as proposed.
+ 
+
+18
+--
+
+ 
+
+The Company pays for the use of music broadcast on its stations by obtaining licenses from organizations called performing rights societies, e.g. Broadcast Music, Inc. (“BMI”), which, in turn pay composers, authors and publishers for their works. Another organization, Global Music Rights, has begun issuing licenses for the composers, authors and publishers that it represents. Federal law grants a performance right for sound recordings in favor of recording companies and performing artists for non-interactive digital transmissions and Internet radio. As a result, users of music, including the Company, are required to pay royalties for these uses through Sound Exchange, a non-profit performance rights organization. Periodically, bills have been introduced in Congress, that if passed, would have required the Company to pay additional fees to an organization called MusicFirst which would distribute the money to other entities. Efforts continue by certain organizations to persuade Congress to enact a law that would require such payments. Periodically, bills have been introduced in Congress that, if adopted, would require the Company to pay additional fees to one or more organizations that would distribute the money to performers or other entities. In late 2018, Congress passed the “Music Modernization Act” which was signed into law by the President. The law (1) improves compensation to songwriters and streamlining how their music is licensed; (2) enables legacy artists (who recorded music before 1972) to be paid royalties when their music is played on digital radio; and (3) provides a consistent legal process for studio professionals, including record producers and engineers to receive royalties for their contributions to music that they help to create. The law creates a blanket license for digital music providers to make permanent downloads, limited downloads, and interactive streams, creates a collective to administer the blanket license, and makes various improvements to royalty rate proceedings. This new law could impose an additional financial burden on the Company, but the extent of the burden would depend on how the fee payment requirement was structured.
+ 
+On January 3, 2013, the FCC released the Sixth Further Notice of Proposed Rulemaking, which sought comment on the requirement that persons with attributable interests in broadcast licensees and other entities filing an FCC Ownership Report provide an “FCC Registration Number” (“FRN”) linked to their social security numbers. Questions had been raised about the security of the FCC’s Registration System where this data would be stored. On January 20, 2016, the FCC released its Report and Order, Second Report and Order and Order on Reconsideration that implemented a Restricted Use FRN (RUFRN) that individuals may use solely for the purpose of broadcast ownership report filings. The FCC stated its belief that the RUFRN would allow for sufficient unique identification of individuals listed on broadcast ownership reports without necessitating the disclosure to the FCC of individuals’ full Social Security Numbers (SSNs). The FCC eliminated the availability of the Special Use FRN (SUFRN) for broadcast station ownership reports, except in very limited circumstances. On January 4, 2017, the FCC’s Media Bureau issued an Order or Reconsideration denying petitions for reconsideration of the requirement. On February 2, 2017, the FCC set aside the Order on Reconsideration and returned the petitions for reconsideration to pending status to be considered by the full FCC. The FCC is also seeking comment on whether to expand the biennial ownership reporting requirement to include interests, entities and individuals that are not attributable because of (a) the single majority shareholder exemption and (b) the exemption for interests held in eligible entities pursuant to the higher EDP threshold. The Company has utilized the single majority shareholder exemption in reporting ownership interests in the Company. The Company cannot predict whether these proposals will be adopted, and if so, whether information provided by those persons with a reportable attributable interest in the Company will be secure. 
+
+Proposed Changes. The FCC has under consideration, and may in the future consider and adopt, new laws, regulations and policies regarding a wide variety of matters that could, directly or indirectly, affect us and the operation and ownership of our broadcast properties. Application processing rules adopted by the FCC might require us to apply for facilities modifications to our standard broadcast stations in future “window” periods for filing applications or result in the stations being “locked in” with their present facilities. The FCC is authorized to use auctions for the allocation of radio broadcast spectrum frequencies for commercial use. The implementation of this law could require us to bid for the use of certain frequencies.
+
+19
+--
+
+Executive Officers
+ 
+Our current executive officers are:
+ 
+
+Name | Age | | Position
+----------------------+-----+----+---------
+Edward K. Christian | | 74 | | President, Chief Executive Officer and Chairman; Director 
+Samuel D. Bush | | 61 | | Senior Vice President, Treasurer and Chief Financial Officer 
+Marcia K. Lobaito | | 70 | | Senior Vice President, Corporate Secretary, and Director of Business Affairs 
+Catherine A. Bobinski | | 59 | | Senior Vice President/Finance, Chief Accounting Officer and Corporate Controller
+Christopher S. Forgy | | 58 | | Senior Vice President of Operations 
+
+ 
+Officers are elected annually by our Board of Directors and serve at the discretion of the Board. Set forth below is information with respect to our executive officers.
+ 
+Mr. Christian has been President, Chief Executive Officer and Chairman since our inception in 1986.
+ 
+Mr. Bush has been Senior Vice President since 2002 and Chief Financial Officer and Treasurer since September 1997. He was Vice President from 1997 to 2002. From 1988 to 1997 he held various positions with the Media Finance Group at AT&T Capital Corporation, including senior vice president.
+Ms. Lobaito has been Senior Vice President since 2005, Director of Business Affairs and Corporate Secretary since our inception in 1986 and Vice President from 1996 to 2005.
+ 
+Ms. Bobinski has been Senior Vice President/Finance since March 2012 and Chief Accounting Officer and Corporate Controller since September 1991. She was Vice President from March 1999 to March 2012. Ms. Bobinski is a certified public accountant.
+Mr. Forgy has been Senior Vice President of Operations since May 2018. He was President/General Manager of our Columbus, Ohio market from 2010 to 2018 and was Director of Sales of our Columbus, Ohio market from 1995 to 2006. He has been with Saga for 20 years.
+
+20
+--
+
