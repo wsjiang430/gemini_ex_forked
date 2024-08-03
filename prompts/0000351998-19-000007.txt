@@ -1,0 +1,195 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.  Business
+ 
+This Annual Report on Form 10-K and the documents incorporated herein by reference contain forward-looking statements based on current expectations, estimates and projections about Data I/O Corporation’s industry, management’s beliefs and certain assumptions made by management.  See “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Forward Looking Statements.”
+ 
+General
+ 
+Data I/O Corporation (“Data I/O”, “We”, “Our”, “Us”) is a global market leader for advanced programming, security provisioning and associated Intellectual Property (“IP”) management solutions used in electronics manufacturing with flash memory, microcontrollers, and flash memory-based intelligent devices as well as secure element devices and secure microcontrollers.  Data I/O® designs, manufactures and sells programming systems and services for electronic device manufacturers, specifically targeting high-growth areas such as high-volume users of flash memory and flash memory based microcontrollers.  Most electronic products today incorporate a number of programmable semiconductor devices that contain data, operating instructions and security credentials essential for the proper operation of the product.
+ 
+Our mission is to bring the world’s electronic devices to life.  Programmable devices are used in products such as automobile electronics, smartphones, HDTV, tablets, gaming systems and a broad category called Internet of Things (“IoT”).  IoT is a broad term that addresses the interconnectivity of devices and other electronic or smart products. Our solutions, some of which include IP management, secure content management and process control capabilities, enable us to address the demanding requirements of the electronic device market, where applications and IP protection are essential to our customer’s success.  Our largest customers are heavy users of programmable semiconductor devices and include original equipment manufacturers (“OEMs”) in automotive electronics, consumer electronics and IoT markets as well as their programming center partners and electronic manufacturing service (“EMS”) contract manufacturers.
+ 
+Data I/O was incorporated in the State of Washington in 1969 and its business was founded in 1972.  Our website address is www.dataio.com. 
+ 
+Industry Background
+ 
+We enable companies to improve productivity, increase supply-chain security and reduce costs by providing device data programming and security provisioning solutions that allow our customers to take IP (large design and data files) and protect and program it into memory, microcontroller and logic devices quickly and cost-effectively.  We also provide services related to hardware support, system installation and repair, and device programming.  Companies that design and manufacture products utilizing programmable electronic devices, ranging from automobiles to cell phones, purchase programming solutions from us.  Trends of increasing device densities, shrinking device packages, increased demands for security, and customers increasing their software content file sizes, combined with the increasing numbers of intelligent devices such as automotive electronics and IoT applications, are driving demand for our solutions.
+ Traditionally, our programming market opportunity focused on the number of semiconductor devices to be programmed, but because of the rapid increase in the density of devices, and increasing demands for supply-chain security, the focus has shifted in many cases from the number and type of devices to the number and type of bits per device to be programmed or securely provisioned.  With expected growth in IoT applications, the business opportunity for this market differentiates on quality, security and automation.
+ 
+Some of our automated programming systems integrate data programming, automated handling functions and/or secure provisioning into a single product solution.  During 2018, we continued to integrate security provisioning into some of our solutions. Quality and security-conscious customers, particularly those in high-volume manufacturing and programming, drive this portion of our business. 
+ 
+Products
+ 
+To accommodate the expanding variety and quantities of programmable devices being manufactured today, we offer multiple solutions for the numerous types of device mix and volume usage by our customers in the various market segments and applications.  We work closely with leading manufacturers of programmable devices to develop our products to meet the requirements of a particular device.  Our newer products are positioned and recognized as some of the most advanced programming and provisioning equipment and associated IP management solutions. 
+
+ 3
+ 
+
+ Our programming solutions include a broad range of products, systems, modules and accessories, grouped into two general categories: automated programming systems and manual programming systems.  We provide two categories of automated programming systems: off-line and in-line.  Our PSV family of automated programming systems delivers a broad range of programming capacity and capability to the marketplace.  Our PSV7000 Automated Programming System continues to be adopted in the marketplace, in particular for automotive electronics customers.  Our PSV5000 automated programming system combines mid-range capacity and flexibility with competitive pricing.  Our PSV3000 Automated Programming System, developed for the Asian automation market, is a lower cost platform for basic programming needs.  Our PSV family of handlers has won multiple industry awards for technical excellence and innovation.  In 2018 our Lumen®X programmer won five industry awards for Universal Flash Storage (“UFS”) support.  Our ConneX® software won the 2017 Circuits Assembly NPI Award, the EM Asia Innovation Award and the SMT China Vision Award.  Our SentriX® security provisioning system won the Global Technology Award at Productronica in November 2017 and the Embedded Award for Innovation at the Embedded World show in February 2018.  Our Job Composer software for LumenX won the Circuits Assembly NPI Award in January 2019.
+ 
+Our automated systems have list selling prices ranging from $50,000 to $550,000 and our manual systems have list selling prices ranging from $4,500 to $30,000.  Our security provisioning system, Sentrix, is currently offered for security provisioning on a pay per use basis.
+ 
+Data I/O programming technology may be integrated with the PSV family to create highly-flexible systems that deliver outstanding performance with low total cost of ownership. The LumenX programming engine is the fastest solution available for eMMC and UFS programming of large NAND FLASH. Increasing memory densities and the need for faster data interfaces are resulting in an expected transition to the use of UFS devices.  LumenX is available on our PSV7000 and PSV5000 and as a standalone manual programmer.  FlashCORE™, and our universal job setup tool, Tasklink™ for Windows®, are available in each family of our automated programming systems and in FlashPAK™, our manual programming system.  The SentriX security system adds security provisioning capability to our data programming system.  SentriX allows customers of any size and demand-profile to securely add keys, certificates, and other security information to specialized regions of authentication integrated circuits ("ICs”), secure elements and secure microcontrollers.  We provide device support and service on all of our products.  Device support is a critical aspect of our business and consists of writing software algorithms for devices and developing socket adapters to hold and connect to the device for programming.  
+ 
+Our products have both an upfront solution sale and recurring revenue elements.  Adapters are a consumable item and software and maintenance are typically recurring under annual subscription contracts.
+ 
+
+Sales Percentage of Total Sales Breakdown by Type 
+---------------------------------------------------
+Sales Type | 2018 | 2017 | Drivers 
+Equipment Sales | 65% | 71% | Capacity, Process improvement, Technology 
+Adapter Sales | 24% | 22% | Capacity utilization, New customer products 
+Software and Maintenance Sales | 11% | 7% | Installed base, Added capabilities 
+Total | 100% | 100% | 
+
+ 
+
+ 4
+ 
+
+ The table below presents our main products and the key features that benefit our customers:
+ 
+
+Products | Key Features | Customer Benefits 
+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PSV Handlers: Off-line (Automated) | · Fast program and verify speeds · Up to 112 programming sites · Up to 2000 devices per hour throughput · UFS Support · Supports LumenX and FlashCORE III programmers · Supports multiple media types · Supports quality options – fiber laser marking, 3D coplanarity · ConneX Factory Integration & other Software | · Managed and secure programming · High throughput for high density Flash programming · High flexibility with respect to I/O options (tray, tape, tube), marking/labeling and vision for coplanarity inspection 
+SentriX Security Provisioning System | · Unique Ability to securely provision keys and certificates one device at a time · Pay per use model reduces capital spending requirements as the market develops. | · Create Secure IoT devices across a global network · Maintain IP control over the lifecycle of their products 
+RoadRunner & RoadRunner3 Series Handlers: In-line, (Automated) | · Just-in-time in-line programming · Direct integration with placement machine supporting SIPLACE, Fuji NXT, Panasonic, Universal/Genesis and Assembleon · Factory Integration Software · Supports FlashCORE III programmers | · Dramatic reduction in inventory carrying and rework costs · “Zero” footprint · Rapid return on investment (“ROI”) typically realized in a matter of months · Integration with factory systems 
+LumenX Programmer | · Extensible architecture for fast program, verify and download speeds · Supports UFS · Large file size support · Secure Job creation · 8 sockets with tool-less changeover with single socket adapters | · Managed and secure programming · Fast setup and job changeover · Highest yield and low total cost of programming · High performance 
+FlashPAK III programmer: (Non-Automated) | · Scalability · Network control via Ethernet · Stand-alone operation or PC compatible · Parallel programming | · Validate designs before moving down the firmware supply chain · Unmatched ease of use in manual production systems 
+Unifamily programmers: Off-line, Low Volume and Engineering (Non-Automated) (Legacy Equipment) | · Breadth of device coverage | · Universal programmer 
+
+ 
+
+ 5
+ 
+
+ Customers/Markets
+ 
+We sell our solutions to customers worldwide, many of whom are world-class manufacturers of electronic devices used in a broad range of industries, as described in the following table:  
+ 
+
+ | OEMs | EMS | Programming Centers 
+------------------------------+----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------
+Automotive Electronics | IoT, Industrial, Consumer Electronics, including Wireless | Contract Manufacturers | 
+Notable end customers | Delphi, Bosch, Alpine, Visteon, Kostal, Harman Becker, Denso, Continental, Panasonic, Magna, Magnetti Marelli | LG,TCL Siemens, Danfoss, Philips, Schneider, Endress+Hauser, Pilz, Insta, Carrier, Microsoft, Sony, Amazon, UTC | Pegatron, Flextronics, Jabil, Wistron, Sanmina SCI, Foxconn, Leesys, Calcomp | Arrow, Avnet, BTV, CPS, EPS, Elmitech, Noa (Toshiba) 
+Business drivers | Safety, navigation and infotainment devices, increased electronic content to support autonomous driving, security | Higher functionality driven by increasing electronic content. Shift from analog to connected intelligent devices, security | Acquisition of OEM factories, production contract wins | Value-added services, logistics, security 
+Programming equipment drivers | Process improvement and simplification, new product rollouts, growing file sizes, quality control and traceability, security | Process improvement and simplification as well as new product rollouts, memory and new technology, security | New contracts from OEMs, programming solutions specified by OEMs | Capacity utilization of their installed base of equipment, small parts handling, security 
+Buying criteria | Quality, reliability, configuration control, traceability, global support, IP protection | Quality, reliability, configuration control, traceability, security, and security provisioning. Throughput, technical capability to support evolving technology, global support, IP protection, robust algorithms, low cost | Lowest equipment procurement cost, global support | Flexibility, lowest life-cycle cost-per programmed-part, low changeover time; use of multiple vendors provides negotiating leverage, device support availability 
+
+ 
+Our solutions address the data programming of devices and security provisioning needs of programmable semiconductor devices.  Semiconductor devices are a large, growing market, both in terms of devices and bits programmed.  We believe that our sales are driven by many of the same forces that propel the semiconductor industry.  We sell to the same firms that buy the semiconductors.  When their business grows, they buy more semiconductors which, in turn, require additional programming equipment to maintain production speeds or program new device technologies.
+ 
+Our device programming solutions currently target two high volume, growing markets: automotive electronics and IoT systems including Industrial and Consumer devices. 
+ 
+Growth drivers for automotive electronics 
+ ·         Consumers desire advanced car features requiring higher levels of sophistication, including infotainment options (audio, radio, dashboard displays, navigation, ADAS and wireless connectivity) as well as increased safety features and optimized engine functionality
+ ·         Increasing numbers and size of microcontrollers per vehicle
+ ·         Proliferation of programmable microcontrollers to support the next-generation electronic car systems
+ ·         Increasing use of high-density flash to provide memory for advanced applications that require programming
+
+ 6
+ 
+
+ ·         Increasing complexity to support autonomous vehicles
+ ·         Increasing need for security solutions for a secure supply chain and lifecycle firmware integrity 
+ 
+Growth drivers for IoT: including industrial, consumer electronics and wireless 
+ ·         Securely controlling groups of connected devices through a secure supply chain and lifecycle firmware integrity management
+ ·         Adding intelligence and processing into devices
+ ·         Connecting previously unconnected devices to networks and the internet (such as intelligent thermostats and lighting)
+ ·         Emergence of new devices and applications (such as wearables)
+ 
+During 2018, we sold products to over 200 customers throughout the world. The following customers represented greater than 10% of sales in the applicable year: 
+ 
+2018       Two customers, Bosch, an Automotive Electronics OEM, and Data Copy Limited, a distributor in China, accounted for approximately 16% and 13% of net sales, respectively.
+ 2017       One customer, Data Copy Limited, a distributor in China, accounted for approximately 15% of net sales.
+ 2016       Four customers, Data Copy Limited, Arrow, Bosch and BTV, accounted for approximately 16%, 13%, 11% and 10% of net sales, respectively. Arrow and BTV are Programming Centers.
+ The following customers represented greater than 10% of our consolidated accounts receivable balance as of December 31 of the applicable year: 
+ 
+2018       Three customers accounted for greater than 10% of our consolidated accounts receivable balance at December 31, 2018: Systemation, Continental and Semitron represented 12%, 12% and 11% of that balance, respectively.
+ 2017       One customer, Data Copy Limited, accounted for 25% of our consolidated accounts receivable balance at December 31, 2017.
+ 2016       Three customers accounted for greater than 10% of our consolidated accounts receivable balance at December 31, 2016: Bosch and Arrow our direct customers, and Data Copy Limited, represented 30%, 16% and 14% of that balance, respectively.
+ 
+Geographic Markets and Distribution
+ 
+We market and sell our products through a combination of direct sales, internal telesales, indirect sales representatives and distributors, as well as services through programming centers.  We continually evaluate our sales channels against our evolving markets and customers and realign them as necessary to ensure that we reach our existing and potential customers in the most effective and efficient manner possible.
+ 
+U.S. Sales
+ 
+We market our products throughout the U.S. using a variety of sales channels, including our own field sales management personnel, independent sales representatives and direct telesales.  Our U.S. independent sales representatives obtain orders on an agency basis, with shipments made directly to the customer by us.  Net sales in the United States for 2018, 2017 and 2016 were (in millions) $3.4, $2.9 and $2.9, respectively.  Some of our customers’ orders delivered internationally are heavily influenced by U.S. sales based efforts.
+ 
+International Sales
+ 
+International sales represented approximately 88%, 92% and 88% of net sales in 2018, 2017, and 2016, respectively.  We make foreign sales through our wholly-owned subsidiaries in Germany and China, as well as through independent distributors and sales representatives operating in 44 other countries.  Our independent foreign distributors purchase our products for resale and we generally recognize the sale at the time of shipment to the distributor.  As with U.S. sales representatives, sales made by international sales representatives are on an agency basis, with sales made directly to the customer by us.  
+ 
+Net international sales for 2018, 2017, and 2016 were (in millions) $25.8, $31.2 and $20.5, respectively.  We determine international sales by the international geographic destination into which the products are sold and delivered, and include not only sales by foreign subsidiaries but also export sales from the U.S. to our foreign distributors and to our representatives’ customers.  International sales do not include transfers between Data I/O and our foreign subsidiaries.  Export sales are subject to U.S. Department of Commerce regulations.  We have not, however, experienced difficulties to date as a result of these requirements.  Certain products (such as Sentrix) may require export licenses due to the technology contained and the country to which they would be shipped.  We have not made sales to Iran or any Iranian governmental entities or any other blacklisted companies or countries.
+
+ 7
+ 
+
+ 
+Fluctuating exchange rates and other factors beyond our control, such as international monetary stability, tariff and trade policies and U.S. and foreign tax and economic policies, may affect the level and profitability of international sales.  We cannot predict the effect of such factors on our business, but we try to consider and respond to changes in these factors, particularly as the majority of our costs are U.S. based while the vast majority of our sales are international.
+ 
+Competition
+ 
+The competition in the programming systems market is highly fragmented with a small number of organizations selling directly competitive solutions and a large number of smaller organizations offering less expensive solutions.  In particular, low cost automated solutions have gained market share in recent years, where the competition is primarily based on price.  Typically, their equipment meets a “good enough” standard, but with reduced quality, traceability, security and other software features such as factory integration software.  Many of these competitors compete on a regional basis, with local language and support. Although competition in the security provisioning market is developing, we expect competition in the market to increase as security provision becomes more important. 
+ 
+In addition, we compete with multiple substitute forms of device programming including “home grown” solutions.  Programming after device placement may be done with In Circuit Test (“ICT”) and In System Programming (“ISP”).  Some automotive products may also be programmed over the air (“OTA”).  IoT devices may also be programmed with ICT, ISP or OTA.  In addition, new security devices may be required to be programmed using device-specific programmers developed by the semiconductor manufacturer.  
+ 
+While we are not aware of any published industry market information covering the programming systems or security provisioning market, according to our internal analysis of competitors’ revenues, we believe we continue to be the largest competitor in the programming systems equipment market and have been gaining market share in recent years, especially with our new products.
+ 
+Manufacturing, Raw Materials and Backlog
+ 
+We strive to manufacture and provide the best solutions for advanced programming.  We primarily assemble and test our products at our principal facilities in Redmond, Washington and Shanghai, China.  Both of these locations are ISO 9001:2015 certified.  We outsource our circuit board manufacturing and fabrication.  We use a combination of standard components and fabricated parts manufactured to our specifications.  Most components used are available from a number of different suppliers and subcontractors but certain items, such as some handler and programmer and security provisioning subassemblies, custom integrated circuits, hybrid circuits and connectors, are purchased from single sources.  We believe that additional sources can be developed for present single-source components without significant difficulties.  We cannot be sure that single-source components will always continue to be readily available.  If we cannot develop alternative sources for these components, or if we experience deterioration in relationships with these suppliers, there may be price increases, minimum order quantities, costs associated with integrating alternatively sourced parts, and delays or reductions in product introductions or shipments, which may materially adversely affect our operating results.
+ 
+In accordance with industry practices, generally all orders are subject to cancellation prior to shipment without penalty, except for contracts calling for custom configuration.  To date, such cancellations have not had a material effect on our sales volume.  To meet customers’ delivery requirements, we manufacture certain products based upon a combination of backlog and anticipated orders.  Most orders are scheduled for delivery within 1 to 90 days after receipt of the order.  Our backlog of pending orders was approximately (in millions) $1.9, $4.0 and $3.2 as of December 31, 2018, 2017, and 2016, respectively.  The size of backlog at any particular date is not necessarily a meaningful indicator of the trend of our business.
+ 
+Research and Development
+ 
+We believe that continued investment in research and development is critical to our future success.  We continue to develop new technologies and products and enhance existing products.  Future growth is, to a large extent, dependent upon the timely development and introduction of new products, as well as the development of technology and algorithms to support the latest programmable devices.  Where possible, we may pursue partnerships and other strategic relationships to add new products, capabilities and services, particularly in security provisioning.  We are currently focusing our research and development efforts on strategic growth markets, including automotive electronics and the IoT. We are continuing to develop technology to securely program new categories of semiconductors, including Secure Elements, Authentication Chips, and Secure Microcontrollers. We plan to deliver new programming technology, automated handling systems and enhancements for managed and secure programming in the manufacturing environment.  We also continue to focus on increasing our capacity and responsiveness for new device support requests from customers and programmable integrated circuit manufacturers by revising and enhancing our internal processes and tools.  Our research and development efforts have resulted in the release of significant new products and product enhancements over the past several years.
+
+ 8
+ 
+
+ 
+During 2018, 2017, and 2016, we made expenditures for research and development of (in millions) $7.4, $6.9, and $5.1, respectively, representing 25.2%, 20.3%, and 21.6% of net sales, respectively.  Research and development costs are generally expensed as incurred.
+ 
+Patents, Copyrights, Trademarks and Licenses
+ 
+We rely on a combination of patents, copyrights, trade secrets and trademarks to protect our IP, as well as product development and marketing skill to establish and protect our market position.  We continue to apply for and add new patents to our patent portfolio as we develop strategic new technologies.
+ 
+We attempt to protect our rights in proprietary software, including Lumen®X software, Flashcore software, TaskLink software, ConneX smart programming software and other software products, by retaining the title to and copyright of the software and documentation, by including appropriate contractual restrictions on use and disclosure in our licenses, and by requiring our employees to execute non-disclosure agreements.  Our software products are not typically sold separately from sales of programming systems.  However, on those occasions where software is sold separately, revenue is recognized when a sales agreement exists, delivery has occurred, the fee is fixed or determinable, and collectability is reasonably assured.
+ 
+Because of the rapidly changing technology in the semiconductor, electronic equipment and software industries, portions of our products might infringe upon existing patents or copyrights, and we may be required to obtain licenses or discontinue the use of the infringing technology.  We believe that any exposure we may have regarding possible infringement claims is a reasonable business risk similar to that assumed by other companies in the electronic equipment and software industries.  However, any claim of infringement, with or without merit, could be costly and a diversion of management’s attention, and an adverse determination could adversely affect our reputation, preclude us from offering certain products, and subject us to substantial liability.  As of December 31, 2018, there were no pending actions regarding infringement claims.
+ 
+Employees
+ 
+As of December 31, 2018, we had a total of 102 employees, of which 48 were located outside the U.S. and 7 of which were part time.  We also utilize independent contractors for specialty work, primarily in research and development, and utilize temporary workers to adjust capacity to fluctuating demand and for special projects.  Many of our employees are highly skilled and trained and our continued success will depend in part upon our ability to attract and retain employees who can be in great demand within the industry.  None of our employees are represented by a collective bargaining unit and we believe relations with our employees are favorable.  In foreign countries we have employment agreements or, in China, the Shanghai Foreign Services Co., Ltd. (“FSCO”) labor agreement.
+Environmental Compliance
+ 
+Our facilities are subject to numerous laws and regulations concerning the discharge of materials or otherwise relating to the environment.  Compliance with environmental laws has not had, nor is it expected to have, a material effect on our capital expenditures, financial position, results of operations or competitive position.
+ 
+Executive Officers of the Registrant
+ 
+Set forth below is certain information concerning the executive officers of Data I/O as of March 23, 2018:
+ 
+
+Name | Age | Position 
+----------------+-----+---------------------------------------------------------------------------------
+Anthony Ambrose | 57 | President and Chief Executive Officer 
+Joel S. Hatlen | 60 | Vice President, Chief Operating and Financial Officer, Secretary and Treasurer 
+Rajeev Gulati | 55 | Chief Technology Officer, Vice President of Engineering 
+
+
+ 9
+ 
+
+ Anthony Ambrose joined Data I/O in October 2012 and is our President and Chief Executive Officer.  He was appointed to the Board of Directors of Data I/O in October 2012.  Prior to Data I/O, Anthony was Owner and Principal of Cedar Mill Partners, LLC, a strategy consulting firm.  Until 2011, he was Vice President and General Manager at RadiSys Corporation, a leading provider of embedded wireless infrastructure solutions, where he led three product divisions and worldwide engineering.  Until 2007, he was general manager and held several other progressively responsible positions at Intel Corporation, where he led development and marketing of standards based telecommunications platforms, and grew the industry standard server business to over $1B in revenues.  He is a member of the EvergreenHealth Foundation Board of Trustees.  Mr. Ambrose has a Bachelor’s of Science in Engineering from Princeton University.
+ 
+Joel S. Hatlen joined Data I/O in September 1991 and in July 2017 became our Chief Operating Officer in addition to serving as our Vice President, Chief Financial Officer, Secretary and Treasurer since January 1998.  He was Chief Accounting Officer since February 1997 and served as Corporate Controller from December 1993 to December 1997.  Previously, he was Tax Manager and Senior Tax Accountant. From September 1981 until joining Data I/O, Joel was employed by Ernst & Young LLP as a Certified Public Accountant, where his most recent position was Senior Manager.  Joel holds a Masters in Taxation from Golden Gate University and a Bachelor’s in Business Administration in Accounting from Pacific Lutheran University.
+ 
+Rajeev Gulati joined Data I/O in July 2013 and is our Chief Technology Officer and Vice President of Engineering.  Prior to Data I/O, Rajeev served as Director of Software Engineering for AMD responsible for tools, compiler strategy and execution from 2006 to 2013.  He has an extensive background in software, systems and applying technology to develop new markets.  Previously, he served as Director of Strategy and Planning at Freescale from 2004 to 2006; as Director of Embedded Products at Metrowerks (acquired by Motorola) from 2000 to 2004 and Director of Compilers, Libraries & Performance Tools from 1997 to 2000; and engineering and programmer positions at Apple Computer, IBM and Pacific-Sierra Research. Rajeev holds a Master of Science in Electrical & Computer Engineering from the University of Texas, Austin and a BE in Electrical Engineering from Delhi College of Engineering, New Delhi.
+ 
+ 

@@ -1,0 +1,189 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.     Description of Business.
+ 
+In addition to the historical information contained herein, the discussion in this Annual Report on Form 10-K contains certain forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties, such as statements concerning:
+ 
+
+● | growth and anticipated operating results;
+--+------------------------------------------
+
+
+● | developments in our markets and strategic focus;
+--+-------------------------------------------------
+
+
+● | new products and product enhancements;
+--+---------------------------------------
+
+
+● | potential acquisitions and the integration of acquired businesses, products and technologies;
+--+----------------------------------------------------------------------------------------------
+
+
+● | strategic relationships and future economic and business conditions.
+--+---------------------------------------------------------------------
+
+ 
+The cautionary statements made in this Form 10-K should be read as being applicable to all related forward-looking statements whenever they appear in this Form 10-K. Our actual results could differ materially from the results discussed in the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed under the section captioned “Risk Factors” in Item 1A of this Form 10-K as well as those cautionary statements and other factors set forth elsewhere herein.
+ 
+General
+ 
+We develop, market and support a family of entity identification, high speed data mining, cybercrime and advanced persistent threat detection products.
+ 
+Our product families include:
+ 
+
+● | TraceCop for entity identification, cybercrime detection and disclosure, and;
+--+------------------------------------------------------------------------------
+
+
+● | Savant for high speed data mining and analytics, and advanced persistent threat detection.
+--+-------------------------------------------------------------------------------------------
+
+ 
+Intrusion’s products help protect critical information assets by quickly detecting, protecting, analyzing and reporting attacks or misuse of classified, private and regulated information for government and enterprise networks.
+ 
+We market and distribute our products through a direct sales force to:
+ 
+
+● | end-users, and 
+--+-----------------------
+● | value-added resellers.
+
+ 
+Our end-user customers include:
+ 
+
+● | U.S. federal government entities,
+--+----------------------------------
+
+
+● | state and local government entities,
+--+-------------------------------------
+
+
+● | large and diverse conglomerates,
+--+---------------------------------
+
+
+● | manufacturing entities, and
+--+----------------------------
+
+
+● | other customers.
+--+-----------------
+
+ 
+We were organized in Texas in September 1983 and reincorporated in Delaware in October 1995. Our principal executive offices are located at 1101 East Arapaho Road, Suite 200, Richardson, Texas 75081, and our telephone number is (972) 234-6400. Our website URL is www.intrusion.com. References to the “Company”, “we”, “us”, “our”, “Intrusion” or “Intrusion Inc.” refer to Intrusion Inc. and its subsidiaries. TraceCop and Savant are trademarks of Intrusion Inc.
+ 
+ 3
+
+
+
+Government Sales
+ 
+Sales to U.S. government customers accounted for 83.9% of our revenues for the year ended December 31, 2018, compared to 81.6% of our revenue in 2017. We expect to continue to derive a substantial portion of our revenues from sales to governmental entities in the future as we continue to market our entity identification products and data mining products to the government. Sales to the government present risks in addition to those involved in sales to commercial customers that could adversely affect our revenues, including potential disruption due to irregularities in or interruptions to appropriation and spending patterns, delays in approving a federal budget and the government’s reservation of the right to cancel contracts and purchase orders for its convenience.
+ 
+Generally, we make our sales under purchase orders and contracts. Our customers, including government customers, may cancel their orders or contracts with little or no prior notice and without penalty. Although we transact business with various government entities, we believe that the cancellation of any particular order in itself could have a material adverse effect on our financial results. Because we derive and expect to continue to derive a substantial portion of our revenue from sales to government entities, a large number of cancelled or renegotiated government orders or contracts could have a material adverse effect on our financial results. Currently, we are not aware of any proposed cancellation or renegotiation of any of our existing arrangements with government entities.
+ 
+Industry Background
+ 
+We develop, market and support a family of entity identification, data mining and advanced persistent threat detection products. Our product families include:
+ 
+
+● | The TraceCop™ product line, which includes a number of our proprietary supporting tools, allows our customers and in-house cyber analysts to accurately discover and help identify ‘bad actors’ associated with cybercrime.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The Savant™ product is a ‘purpose-built’, very high-speed network data mining and analytics software package that is easily installed on commercial off the shelf platforms.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Our customers use our products as an integral part of protecting their critical infrastructure and data information assets. By quickly detecting, protecting, analyzing and reporting attacks, along with the potential misuse of classified information, we have become a key component to the daily challenges of cyber security for both government and large enterprises.
+ 
+Products
+ 
+TraceCop
+ 
+Our TraceCop product family includes a database of worldwide IP addresses, registrant information and their associations, along with a plurality of related IP information, some dating back nearly two decades. When combined with Intrusion’s multitude of cyber security ‘global threat feeds’, along with our TraceCop family of proprietary supporting tools, this vast and ever expanding capability is used in conjunction with our customer’s data to help identify areas of vulnerability and potential cyber security threats. In addition to it’s extensive capability, the TraceCop family includes analytical software with a GUI interface to assist the analysts in locating cybercriminals and other potential ‘bad actors’ or network anomalies. We offer our customers a daily, weekly or monthly enrichment service to assist them in the culling of ‘good’ data traffic from potential threats.
+ 
+Intrusion licenses TraceCop to our customers for a yearly fee and offers scheduled updates. Intrusion will either install and update the database at the Intrusion facility or install TraceCop on a customer server onsite. Updates are delivered via secure Internet feed or removable storage devices.
+ 
+Savant
+ 
+Savant is a high speed network data mining and analysis product which organizes the data into networks of relationships and associations. Its patented design exceeds performance expectations and ensures ‘deep dives’ into data-in-motion in order to quickly and accurately detect advanced persistent threats. Savant can operate on networks with data flows of over 20 gigabits per second, and still maintain a 100% inspection rate of all packets.
+ 
+The Savant solution provides real-time access and insight into a company’s own indisputable and quantifiable network data for more effective, unbiased examination of their flows. Uses of the Savant product include data mining, data loss prevention, advanced persistent threat detection and identification of Internet habits of network users. Savant is a software product which we license to our customers for which we sell data updates. We also offer the option to fully implement a server and re-sell to the customer as a turn-key solution.
+ 
+ 4
+
+
+
+Third-Party Products
+ 
+We currently resell standard commercially available computers and servers from various vendors which we integrate with our different software products for implementation into our customer networks. We do not consider any of these third party relationships to be material to the Company’s business or results of operations.
+ 
+Customer Services
+ 
+Our product sales may include installation and threat data interpretation.
+ 
+Product Development
+ 
+The network security industry is characterized by rapidly changing technology standards and customer demands all shaped by the current state of the economy. We believe that our future success depends in large part upon the timely enhancement of existing products as well as the development of new technologically advanced products that meet cybersecurity industry needs and perform successfully and efficiently. We are currently marketing TraceCop and Savant products to meet emerging market requirements and are continuously engaged in testing to ensure that our products interoperate with other manufacturers’ products, which comply with industry standards.
+ 
+During 2018 and 2017, our research and development expenditures were approximately $1.2 and $2.2 million, respectively. All of our expenditures for research and development have been expensed as incurred. At December 31, 2018, we had 21 employees engaged in research, product development and engineering. At certain times during the year, research and development labor expense has been shifted to direct labor to support ongoing projects.
+ 
+Manufacturing and Supplies
+ 
+Our internal manufacturing operations consist primarily of software, packaging, testing and quality control of finished units.
+ The hardware we sell are standard off-the-shelf products.
+ 
+Intellectual Property and Licenses
+ 
+Our success and our ability to compete are dependent, in part, upon our proprietary technology. We principally rely on a combination of contractual rights, trade secrets and copyright laws to establish and protect our proprietary rights in our products. In addition, we have received two patents. We have also entered into non-disclosure agreements with our suppliers, resellers and certain customers to limit access to and disclosure of proprietary information. There can be no assurance that the steps taken by us to protect our intellectual property will be adequate to prevent misappropriation of our technology or that our competitors will not independently develop technologies that are substantially equivalent or superior to our technology.
+ 
+We have entered into software and product license agreements with various suppliers. These license agreements provide us with additional software and hardware components that add value to our security products. These license agreements do not provide proprietary rights that are unique or exclusive to us and are generally available to other parties on the same or similar terms and conditions, subject to payment of applicable license fees and royalties. We do not consider any of the product license, software or supplier agreements to be material to our business, but rather complementary to our business and product offerings.
+ 
+Sales, Marketing and Customers
+ 
+Field Sales Force. Our direct sales organization focuses on major account sales, channel partners including distributors, value added resellers (VARs) and integrators; promotes our products to current and potential customers; and monitors evolving customer requirements. The field sales and technical support force provides training and technical support to our resellers and end users and assists our customers in designing cyber secure data networking solutions. We currently conduct sales and marketing efforts from our principal office in Richardson (Dallas), Texas. In addition, we have sales personnel, sales engineers or sales representatives located in Virginia and California.
+Resellers. Resellers such as domestic and international system integrators and VARs sell our products as stand-alone solutions to end users and integrate our products with products sold by other vendors into network security systems that are sold to end users. Our field sales force and technical support organization provide support to these resellers. Our agreements with resellers are non-exclusive, and our resellers generally sell other products that may compete with our products. Resellers may place higher priority on products of other suppliers who are larger and have more name recognition, and there can be no assurance that resellers will continue to sell and support our products.
+ 
+ 5
+
+
+
+Foreign Sales. Export sales did not account for any revenue in 2018 and 2017. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in this report for a geographic breakdown of our revenue in 2018 and 2017.
+Marketing. We have implemented several methods to market our products, including participation in trade shows and seminars, distribution of sales literature and product specifications and ongoing communication with our resellers and installed base of end-user customers.
+Customers. Our end-user customers include U.S. federal government, state and local government entities, large and diversified conglomerates and manufacturing entities. Sales to certain customers and groups of customers can be impacted by seasonal capital expenditure approval cycles, and sales to customers within certain geographic regions can be subject to seasonal fluctuations in demand.
+ 
+In 2018, 83.9% of our revenue was derived from a variety of U.S. government entities through direct sales and indirectly through system integrators and resellers. These sales are attributable to ten U.S. Government customers through direct and indirect channels; four exceeded 10% of total revenue individually in 2018. Comparatively, sales to the U.S. Government through direct and indirect channels totaled 81.6% of total revenues for 2017. Those sales were attributable to six U.S. Government customers through direct and indirect channels; three exceeded 10% of total revenue individually in 2017. A reduction in our sales to U.S. government entities could have a material adverse effect on our business and operating results if not replaced.
+ 
+Backlog. We believe that only a small portion of our order backlog is non-cancelable and that the dollar amount associated with the non-cancelable portion is immaterial. We purchase, or contract for the purchase of, our inventory based upon our forecast of customer demand and we maintain inventories in advance of receiving firm orders from customers. Commercial orders are generally fulfilled within two days to two weeks following receipt of an order. Certain orders may be scheduled over several months, generally not exceeding one year.
+Customer Support, Service and Warranty. We service, repair and provide technical support for our products. Our field sales and technical support force works closely with resellers and end-user customers on-site and by telephone to assist with pre- and post-sales support services such as network security design, system installation and technical consulting. By working closely with our customers, our employees increase their understanding of end-user requirements and provide input to the product development process.
+ 
+We warrant all of our products against defects in materials and workmanship for periods ranging from 90 days to 36 months. Before and after expiration of the product warranty period, we offer both on-site and factory-based support, parts replacement and repair services. Extended warranty services are separately invoiced on a time and materials basis or under an annual maintenance contract.
+ 
+Competition
+ 
+The market for network and data protection security solutions is intensely competitive and subject to frequent product introductions with new technologies, improved price and performance characteristics. Industry suppliers compete in areas such as conformity to existing and emerging industry standards, interoperability with networking and other security products, management and security capabilities, performance, price, ease of use, scalability, reliability, flexibility, product features and technical support. The market for identity identification and data mining is more fragmented and thus allows more opportunities for small companies to compete in.
+ 
+There are numerous companies competing in various segments of the data security markets. At this time, we have limited competitors for TraceCop; however, we expect competitors to emerge in the future. These competitors perform only a portion of the functions that we currently perform with TraceCop. Also, we have been collecting the TraceCop data continuously for more than ten years. We believe that none of our current or future competitors have the ability to provide this historical data. In our newest market segment, data mining and advanced persistent threat detection, we compete with several companies including Niksun, NetScout, Fireeye and Palo Alto Networks.
+ 
+Furthermore, some of our competitors have substantially greater financial, technical, sales and marketing resources, better name recognition and a larger customer base than we do. Even if we do introduce advanced products that meet evolving customer requirements in a timely manner, there can be no assurance that our new products will gain market acceptance.
+ 
+ 6
+
+
+
+Certain companies in the network security industry have expanded their product lines or technologies in recent years as a result of acquisitions. Further, more companies have developed products which conform to existing and emerging industry standards and have sought to compete on the basis of price. We anticipate increased competition from large networking equipment vendors, which are expanding their capabilities in the network security market. In addition, we anticipate increased competition from private “start-up” companies that have developed, or are developing, advanced security products. Increased competition in the security industry could result in significant price competition, reduced profit margins or loss of market share, any of which could have a material adverse effect on our business, operating results and financial condition. There can be no assurance that we will be able to compete successfully in the future with current or new competitors.
+ 
+Employees
+ 
+As of December 31, 2018, we employed a total of 31 full time persons, including 6 in sales, marketing and technical support, 21 in research, product development and engineering, and 4 in administration and finance.
+ 
+None of our employees are represented by a labor organization, and we are not a party to any collective bargaining agreement. We have not experienced any work stoppages and consider our relations with our employees to be good.
+ 
+Competition in the recruiting of personnel in the networking and data security industry is intense. We believe that our future success will depend in part on our continued ability to hire, motivate and retain qualified management, sales, marketing, and technical personnel. To date, we have not experienced significant difficulties in attracting or retaining qualified employees.
+ 

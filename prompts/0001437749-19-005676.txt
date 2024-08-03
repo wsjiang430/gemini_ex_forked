@@ -1,0 +1,286 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+Cesca Therapeutics Inc. (“Cesca Therapeutics,” “Cesca,” the “Company,” “we,” “our,” “us”), a Delaware corporation founded in 1986, develops, commercializes and markets a range of automated technologies for cell-based therapies. Since the 1990’s, Cesca has been a pioneer in, and one of the leading developers and suppliers of automation technologies for the isolation, purification and storage of stem cells for the cord blood banking industry. In July 2017, a Cesca subsidiary, ThermoGenesis Corp. (ThermoGenesis), completed the strategic acquisition of the business and substantially all of the assets of SynGen Inc., a research and development company for automated cellular processing, in exchange for a 20% interest in ThermoGenesis. ThermoGenesis used these acquired assets, together with its own proprietary technology, to develop a proprietary CAR-TXpress™ platform that addresses the critical unmet need for better chemistry, manufacturing and controls (CMC) for the emerging cellular immuno-therapy field, in particular, the emerging chimeric antigen receptor T cell (CAR-T) market.
+ 
+Cellular immunotherapy has become the “next pillar” of cancer treatment, in addition to the traditional surgical removal, radiation and chemotherapy. Cellular immunotherapy stimulates the patient’s own cellular immune system to fight cancer cells, and is fairly well-tolerated. Unlike chemotherapy and radiation, cellular immunotherapy is designed to leave healthy cells unscathed. In 2017, two CAR-T cell based therapies were approved by the U.S. Food and Drug Administration (the “FDA”). Kymriah® manufactured by Novartis was approved for the treatment of children with acute lymphoblastic leukemia (ALL) and Yescarta® manufactured by Kite Pharma was approved for adults with advanced lymphomas. Both CAR-T therapies have reported over 80% response rate in the intended-to-treat cancer patient group. In 2018, the FDA issued a second approval for Kymriah for adults with certain types of non-Hodgkin lymphoma. In addition, both therapies were approved by the European Commission in 2018. At the end of 2018, there were over 600 CAR-T cell related immune-oncology clinical trials globally registered on the National Institute of Health’s (“NIH”) website, clinicaltrials.gov. These trials target a wide variety of hematopoietic and solid tumors. However, the current high cost and low capacity to manufacture CAR-T cells are significant barriers affecting future applications and affordability of these new immunotherapies.
+ 
+ 2
+
+
+In November 2017, the Company introduced its CAR-TXpress™ platform, a proprietary low-cost, functionally closed and semi-automated system for CAR-T cell manufacturing. The CAR-TXpress™ platform addresses critical unmet needs for improving CMC for the emerging CAR-T immuno-oncology field. CAR-TXpress™ eliminates the use of ficoll and replaces the use of magnetic beads for T cell isolation speeding up time-consuming steps using traditional methods in the cell manufacturing process. Such improvement may drastically reduce processing time and increase efficiency of the manufacturing process, which is intended to drive down the overall manufacturing cost as well as increase the manufacturing capacity for future CAR-T drug makers.
+ 
+Through our subsidiary ThermoGenesis, the Company is developing the X-Series of devices and reagent kits as part of the CAR-TXpress™ platform. The initial X-Series products are intended for research use and/or non-commercial manufacturing of cell-based products for clinical research. The Company started to launch the X-Series products in May 2018, with initial shipments sent to research laboratories and key opinion leaders in the CAR-T research space. The Company is also developing commercial manufacturing devices and reagent kits for cGMP manufacturing of CAR-T for drug developers. More details of the X-Series products are described in the “Product” section below.
+ 
+In addition to selling the “off-the-shelf” X-Series products, we also plan on entering into the CAR-T third party cellular process development and manufacturing service business by collaborating with, and possibly establishing our own contract development and manufacturing organizations (CDMO) in the U.S. and China, the two leading markets with the highest numbers of active CAR-T clinical trials. For each first two approved CAR-T drug products, analysts estimate that each product could exceed $1 billion. Analysts also estimate that cost of goods (COGS) for these new therapies exceed $100,000 per patient presenting a significant challenge for health care payors and patients. Given the number of ongoing clinical trials registered globally, we believe this represents a significant growth opportunity for our CAR-TXpress™ platform to address the COGS issue for these exciting potential new treatments.
+ 
+In the stem cell and regenerative medicine field, through ThermoGenesis, Cesca continues to provide automation technologies for cord blood banking and autologous stem cell applications. Our AutoXpress® (AXP®) technology platform is a leading automated stem cell isolation device product for the cord blood banking industry. ThermoGenesis’ BioArchive® device is the industry’s only automated; controlled-rate-freezing, liquid nitrogen freezer intended for the cryopreservation and single-cassette based storage of cord blood samples. The BioArchive device was introduced over 20 years ago and currently there are over 300 devices in operation worldwide.
+ 
+On January 1, 2019, the Company entered into a reorganization of the business and equity ownership of ThermoGenesis. Pursuant to the reorganization, the assets acquired by ThermoGenesis from SynGen Inc. in July 2017 (the “Cell Processing Business”), were contributed to a newly formed Delaware subsidiary of ThermoGenesis named CARTXpress Bio, Inc. (“CARTXpress”), and the 20% interest in ThermoGenesis owned by a third party was exchanged for a 20% interest in CARTXpress. As a result of the reorganization, (i) the Company holds, through ThermoGenesis, an 80% equity interest in CARTXpress and its Cell Processing Business and (ii) the Company has become the owner of 100% of ThermoGenesis and its remaining business and assets.
+ 
+Cesca is an affiliate, through common controlling ownership, of the Boyalife Group, founded by the Chairman of our Board, Dr. Xiaochun (Chris) Xu in 2009.
+ 
+ 3
+
+
+Our Business Strategy
+ 
+Our business strategy is to leverage our over 25 years of expertise, our strong intellectual property portfolio and significant know-how in the automated cellular processing field to develop automated cellular processing devices and processes for the quickly evolving cell-based therapy (“CBT”) field, including the emerging field of CAR-T therapies. Our CAR-TXpress platform addresses many of the critical unmet needs for improving CAR-T cell manufacturing and reducing drug cost. The platform can also be used for many other CBT’s. Our intention is to aggressively pursue these new growth opportunities in this emerging field of CBT, while continuing to support the performance and competitiveness of our flagship product lines in the cord blood and stem cell banking arena.
+ 
+We currently are pursuing business opportunities through two separate business divisions which focus on device and clinical applications, respectively.
+ 
+In the Device division:
+ 
+Through our subsidiary, ThermoGenesis
+ 
+
+● | Launch X-Series devices and reagents for research use only, including the X-Mini™ X-Auto™ kits for cellular isolation and purification and non-commercial manufacturing of cell-based products for clinical research.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Develop and launch our X-Series devices and reagents for clinical use, including our X-Clini™ kit for cGMP commercial manufacturing of CAR-T cells for drug developers and manufacturers.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand into contract development and manufacturing services for immune-oncology through internal and external efforts, including but not limited to partnerships, licensing, or co-development transactions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Sustain our market leadership position in automated devices for the separation and concentration of stem cell preparation for the cord blood banking market.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Continue supporting product registration and marketing of automated devices for the separation and concentration of bone marrow-derived stem cell preparation for the point-of-care clinical application market.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In the Clinical Development division:
+ 
+
+● | Partner our clinical development programs, including our Critical Limb Ischemia Rapid Stem Cell Treatment (CLIRST) phase III clinical trial, with third parties to maximize the value of our existing clinical development programs while eliminating our costs for running clinical trials.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Recent Key Events and Accomplishments
+ 
+
+● | Introduced the CAR-TXpress™ platform. In November 2017, we formally introduced the CAR-TXpress™ cellular manufacturing platform technology at the CAR-TCR Summit in Boston. CAR-TXpress™ is a proprietary, ficoll-free, magnetic beads free, functionally closed cellular processing platform that addresses the critical unmet need for improving manufacturing capacity and cost control for the emerging CAR-T cell based immune-oncology market.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Launched the AXP II system for advanced cord blood processing. We completed the commercial launch of the AXP II system for the advanced, isolation, collection and storage of hematopoietic stem cell concentrates from cord blood and peripheral blood. AXP II introduced important enhancements to the AXP device, docking station, and proprietary XpressTRAK® software that together represent a significant advancement in automated cord blood processing.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 4
+
+
+
+● | Expanded into CDMO business through exclusive license agreement in Asia. In March 2018, we entered into an exclusive license agreement with IncoCell, a wholly-owned subsidiary of the Boyalife Group, to implement our CDMO strategy for China and other regional countries in Asia. As of the end of 2017, more than 400 active CAR-T cell clinical trials were registered with clinicaltrials.gov, one third were originated from the U.S. and one third from China. IncoCell currently operates a 160,000 sq. ft. cGMP facility in Tianjin, China.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Released the X-Mini™ cell selection kit for the CAR-T research market. The X-Mini cell selection kit isolates targeted cell subsets from blood and blood products, and is an off-the-shelf kit developed by ThermoGenesis for the research and development of CAR-T and other cell-based therapies. Designed for the isolation of CD3+ T cells from a starting population of peripheral blood mononuclear cells (PMBCs) it provides the flexibility to allow users to select any cell population for which they have a primary antibody. The kit provides tangible advantages to research laboratories through its unique combination of attributes, including ease of use, high cell recovery and reproducibility.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Launched the PXP system for automated processing of bone marrow cells. In July 2018, ThermoGenesis launched the PXP system for point of care use in surgical centers and clinics. The PXP system is an automated, closed system that harvests a precise volume of cell concentrate from a sample of bone marrow aspirate. It can generate a concentration of bone marrow in less than 20 minutes, with consistently high mononuclear cell (MNC) and CD34+ progenitor cell recovery rates and greater than 98% depletion of contaminating RBCs. The system addresses many of the short-coming of other available systems, including red blood cell contamination in the resulting cell concentrate that is thought to diminish the efficacy of cell based treatments, allowing clinicians to rapidly achieve very high stem and progenitor cell recovery rates with negligible RBC contamination.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Filed an Additional Patent Application for Car-T Technology. On March 14, 2019 we filed a patent application for the high throughput CAR-T cell manufacturing, addressing key issues to enhance cellular purification and activation. Two of our previously filed patents have been issued by the US Patent and Trade Office (USPTO). This patent filing will strengthen our intellectual property portfolio in the immune-oncology field. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Raised $7.5 Million in Equity Financing. In three separate equity offerings during 2018, the Company issued 13,741,303 equity units (including both shares of common stock and pre-funded warrants).
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Acquired the remaining ownership stake in ThermoGenesis and formed a new ThermoGenesis subsidiary, CARTXpress Bio, Inc. – On January 1, 2019, pursuant to the terms of a reorganization and share agreement, Cesca acquired from Bay City Capital (Bay City) the remaining 20% of equity in Cesca’s device subsidiary, ThermoGenesis. In exchange, Bay City acquired a 20% ownership stake in a newly-formed subsidiary of ThermoGenesis, CARTXpress Bio, Inc. ThermoGenesis owns the remaining 80% of equity in CARTXpress Bio, Inc. As a result, ThermoGenesis is now a wholly-owned subsidiary of Cesca. As part of the reorganization, the Company’s cord blood banking business, including the AutoXpress Platform and BioArchive device business, remained in ThermoGenesis, while the X-Series Platform, including X-Lab, X-Wash, X-Mini, and X-BACS, was contributed to CARTXpress Bio, Inc. There was no gain or loss on the reorganization and the non-controlling interest will now be in the CARTXpress Bio, Inc. subsidiary.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 5
+
+
+Our X-Series Products
+ 
+Immuno-Oncology Products
+ 
+In November 2017, ThermoGenesis announced the development of a proprietary CAR-TXpress™ platform that addresses the critical unmet need to improve CMC manufacturing for the emerging CAR-T therapies for cancer patients. CAR-TXpress™ eliminates the use of ficoll and magnetic beads for cell isolation procedures, and reduces processing time and increases cell recovery rates. The CAR-TXpress™ platform includes the following X-Series products:
+ 
+X-LAB® for Cell Isolation – a semi-automated, functionally-closed, ficoll-free, system for the rapid isolation of different target cells from various sources including blood and blood products.
+ 
+X-BACS™ for Cell Purification – a semi-automated, “functionally closed” system that employs a single-use sterile, injection molded plastic disposable cartridge in which streptavidin coated lipid microbubbles and biotinylated antibodies bind to, and make buoyant, target cells (such as CD3+ T-cells) so they separate from non-target cells during centrifugation with great efficiency.  Simultaneously, the non-target cells are automatically transferred to a separate cartridge chamber leaving a highly-purified and viable population of target cells for research or clinical use.
+ 
+X-WASH® for Washing and Reformulation – a semi-automated, functionally-closed system that washes and volume-reduces fresh or thawed cells or cell cultures to a user-defined final volume.
+ 
+BioArchive® for Cryogenic Cellular Product Storage – an automated, controlled-rate-freezing, liquid nitrogen freezer intended for the cryopreservation and single-cassette based storage of clinical samples. The BioArchive® provides customers who need to store therapeutic cell populations in cryogenic storage (-196°C) with a solution that combines the individualized controlled rate freezing of each sample, robotic storage and retrieval of each sample and real-time chain of custody management.
+ 
+ThermoGenesis is also developing a series of “off the shelf” dispensable kits that are comprised of different combinations of X-Series products depending on different customer use cases. These X-Mini™ X-Maxi™ and X-Auto™ kits are currently intended for research use and non-commercial manufacturing of cell-based products for clinical research. The Company is also developing the X-Clini™ dispensable reagent kit intended for cGMP commercial manufacturing processes for the of CAR-T drug developers. ThermoGenesis is also in active discussions with potential global distribution partners for the X-Series kits.
+ 
+In addition to selling the X-Series products, we anticipate that we will enter the contract development manufacturing organization space utilizing our proprietary and patented technology. The U.S. and China are currently the two largest markets for active clinical trials for CAR-T and therefore we expect to target these two regions for our manufacturing operations. In March 2018, Cesca entered into an exclusive license agreement with IncoCell, a wholly-owned subsidiary of the Boyalife Group, to implement a CDMO strategy in China and other regions in Asia. Cesca’s CDMO business model is to introduce our CAR-TXpress™ automated manufacturing solutions on both a fee-for-service or co-development basis.
+ 
+ 6
+
+
+Stem Cell Bio-banking and Regenerative Medicine
+ 
+Cesca is also leveraging its proprietary AutoXpress® technology platform for stem cell banking and for the development of autologous (utilizing the patient’s own cells) stem cell-based therapies that address significant unmet needs in the vascular, cardiology and orthopedic markets.
+ 
+AXP® for Stem Cell Banking – a proprietary, automated system for the isolation, collection and storage of hematopoietic stem cell concentrates derived from cord blood and peripheral blood.
+ 
+VXP® for Critical Limb Ischemia (CLI) – Cesca has a proprietary point-of-care, autologous (donor and recipient are the same individual) stem cell-based therapy under development which is intended for the treatment of patients with CLI. The FDA has cleared the Company to proceed with a 362 subject, multi-center pivotal Phase III CLIRST study, which is designed to evaluate the safety and efficacy of Cesca’s autologous stem cell-based therapy in patients with no-option or poor option late stage CLI. Previous clinical studies using Cesca’s proprietary, point-of-care-technologies have demonstrated the regeneration of blood vessels and improved blood circulation in the limbs, using a patient’s own bone marrow derived stem cells.
+ 
+VXP® for Acute Myocardial Infarction – Cesca has a proprietary, point-of-care autologous stem cell-based therapy under development which is intended as an adjunct treatment for patients who have suffered an acute ST-elevated myocardial infarction (STEMI), the most serious type of heart attack.  Such treatments are aimed at minimizing the adverse remodeling of the heart post-STEMI.
+ 
+PXP® for Orthopedics – Osteoarthritis (OA) - Cesca is in early stage development of an autologous stem cell based therapy intended to treat patients with cartilage tissue degeneration that may lead to progressive cartilage loss and painful joint diseases. Localized articular cartilage defects can potentially be repaired by transplantation of autologous cell therapy. Therapies in development using Cesca’s proprietary PXP® system are expected to delay further deterioration and repair the damaged joint cartilage. Treatment is typically via a single procedure in the hospital or clinic.
+ 
+Our Clinical Programs
+ 
+Our therapeutic development initiatives, focused in the fields of cardiovascular diseases and orthopedic cartilage regeneration, are based on our proprietary MXP® platform for the point-of-care harvesting, processing, and delivery of cells from the patient’s own peripheral blood or bone marrow. A key advantage of our point-of-care system is that it is capable of delivering high cell viability and potency through a short intra-operative procedure, including bone marrow collection, target cell selection, characterization of the final cell concentrate, and re-injection into the patient. Based on our point-of-care platform, our CLI clinical program has received FDA clearance to initiate a phase III clinical trial to demonstrate efficacy in “no-option” or “poor-option” CLI patients. In additional to vascular diseases, we are also conducting early phase studies in orthopedic and wound healing areas. We are actively looking for strategic partners to co-develop our clinical programs.
+Sales and Distribution Channels 
+ 
+We market and sell our products through independent distributors, except in North America and India, where we sell direct to end-user customers. 
+ 
+ 7
+
+
+Research and Development
+ 
+Our research and development activities for 2018 were geared towards expanding the automated platform for the immune-oncology applications while maintaining our bio-banking and point-of-care automation solutions. In November 2017, we introduced the CAR-TXpress™ platform, which is the first functionally closed system for CAR-T cellular processing and manufacturing. We also improved our AXP®, BioArchive® and MXP® platforms with a focus on both performance improvements and ease of use. Emphasis was also placed on enhancing the capabilities of our contract manufacturing partners and building on our product quality leadership position.
+ 
+Collectively, research and development expenses for the year ended December 31, 2018, six months ended December 31, 2017 and year ended June 30, 2017 were $3,012,000, $2,246,000 and $2,497,000, respectively. Research and development activities include expenses associated with the engineering, regulatory, scientific and clinical affairs functions.
+ 
+Manufacturing 
+ 
+We expect to continue to use contract manufacturers for high volume, disposable products and in-house manufacturing for low volume, high complexity devices. In addition, we are exploring the potential for the development of in-house capabilities relating specifically to pilot scale disposable manufacturing in support of our clinical programs.
+ 
+In addition, we built a 1,000 square foot manufacturing clean room in our Rancho Cordova facility. The in-house clean room has expanded our manufacturing capacity for X-series cartridges, allowing us to meet our increased demand.
+ 
+Quality System
+ 
+Our quality system is compliant with domestic and international standards and is appropriate for the specific devices we manufacture. Our corporate quality policies govern the methods used in, and the facilities and controls used for, the design, manufacture, packaging, labeling, storage, installation, and servicing of all finished devices intended for human use. Such policies are intended to ensure that the products we market are safe, effective, and otherwise in compliance with the FDA Quality System Regulation (QSR) (21 C.F.R. Part 820) and the applicable rules of other governmental agencies.
+ 
+We and our contract manufacturers are subject to inspections by the FDA and other regulatory agencies to ensure compliance with applicable regulations, codified in the FDA’s Quality System Regulations (QSRs). Compliance requirements relate to manufacturing processes, product testing, documentation control and other quality assurance procedures. Our facilities have undergone International Organization of Standards (ISO) 13485:2012 and EU Medical Device Directive (MDD) (93/42/EEC) inspections and we have obtained approval to CE-Mark our products. We believe we are on schedule for transitioning to the Medical Device Single Audit Program in 2019.
+ 
+Regulatory Scheme and Strategy
+ 
+The development, manufacture and marketing of our cell therapy products, as well as the design and implementation of our clinical trials, are subject to regulation by the FDA as well as the equivalent agencies of other countries including the countries of the European Union and India.
+ 
+ 8
+
+
+The trials we conduct in India are compliant with the applicable rules of the Indian Council for Medical Research, Ministry of Health Order No. V.25011/375/2010-HR and requisite institutional ethics committee (IEC) and institutional committee for stem cell research and therapy (IC-SCRT) approvals. Both the U.S. and E.U. regulatory agencies are experienced in dealing with and accepting Indian clinical trial data. GCP necessitates review and approval by an Institutional Review Board (IRB) before initiation of a study, continuing review of an ongoing study by an IRB, and the documented receipt of a freely given informed consent prior to participation in the study from each subject participant.
+ 
+We have a quality and regulatory compliance management system that meets the requirements of the ISO 13485: 2003 standard, the FDA’s QSRs, the EU MDD, Canadian Medical Device Regulations (SOR 98-282), and all other applicable local, state, national and international regulations.
+ 
+Medical Devices. The FDA regulates medical devices to ensure their safety and efficacy under the Federal Food Drug and Cosmetic (FD&C) Act. Medical devices are defined by language within the FD&C Act which essentially states that a product is considered a medical device if it is intended to provide a diagnosis or basis for treatment. Once a company determines that its product is a medical device, it is required to comply with a number of federal regulations. These include the following:
+
+● | 510(k) clearance or PMA approval from the FDA, prior to commercialization (unless the device is classified as “exempt”);
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+● | Registration of the company and listing of the medical device with the FDA (within 30 days prior to commercialization);
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | Establishment and adherence to the FDA’s labeling requirements; and
+--+--------------------------------------------------------------------
+
+
+● | Establishment and adherence to the FDA’s Quality Systems and Medical Device Reporting regulations.
+--+---------------------------------------------------------------------------------------------------
+
+ 
+The FDA classifies medical devices into three groups: Class I, II or III. These are stratified from lowest to highest safety risk, and regulatory controls increase based on Class.
+ 
+Class I Devices
+ Some of our products are considered to pose little or no risk when used as directed and has been deemed by the FDA to be “exempt” from FDA approval or clearance processes prior to commercialization. While pre-marketing FDA review is not mandatory for Exempt Class I medical devices, the manufacturer’s compliance with QSR is nevertheless a requirement.
+Class II Devices
+ Several of our products, including the BioArchive and the AXP are categorized as U.S. Class II medical devices and require premarket notification, also known as a section 510(k) clearance, prior to commercialization. Data submitted as part of a 510(k) process must demonstrate a device is “substantially equivalent” with a predicate device that is already on the market. Once 510(k) clearance has been secured, the new medical device may be marketed for its intended use and distributed in the U.S.
+Class III Devices
+ If a product is considered a Class III device, as is the case with the Point-of-care CLI System, the FDA approval process is more stringent and time-consuming, and includes the following:
+
+● | Extensive pre-clinical laboratory and animal testing;
+--+------------------------------------------------------
+
+
+● | Submission and approval of an IDE application prior to the conduct of a clinical study;
+--+----------------------------------------------------------------------------------------
+
+
+● | Human clinical studies (or trials) to establish the safety and efficacy of the medical device for the intended use; and
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | Submission and approval of a PMA application to the FDA.
+--+---------------------------------------------------------
+
+ 
+ 9
+
+
+Pre-clinical testing typically involves in vitro laboratory analysis and in vivo animal studies to obtain information related to such things as product safety, feasibility, biological activity and reproducibility. The results of pre-clinical studies are submitted to the FDA as part of an IDE application and are reviewed by the Agency before human clinical trials can begin. We use external third parties, as well as our own facility in Gurgaon, India (GLP Compliant) to conduct pre-clinical studies.
+ 
+Higher risk clinical trials conducted inside the U.S. are subject to FDA IDE regulation (21 C.F.R. Part 812), or an IND application (21 C.F.R. Part 312). Clinical trials conducted outside the U.S., and the data collected therefrom are allowed in accordance with applicable FDA requirements. The FDA or the Sponsor may suspend a clinical trial at any time if either believes that study participants may be exposed to an unacceptable health risk.
+ 
+For certain Class III devices, data generated during product development, pre-clinical studies, and human clinical studies must be submitted to the FDA as a PMA application in order to secure approval for commercialization in the U.S. The FDA may deny the approval of a PMA application if applicable regulatory criteria are not satisfied and in some cases may mandate additional clinical testing. Product approvals, once obtained, can be withdrawn if compliance with regulatory standards is not maintained or if safety concerns arise after the product reaches the market. The FDA might also require post-marketing testing and surveillance programs to monitor the safety and efficacy of a medical device and has the power to forbid or limit future marketing of the product based on the results of such programs.
+ 
+Other U.S. Regulatory Information
+ Medical device manufacturers must register with the FDA and submit their manufacturing facilities to biennial inspections to ensure compliance with applicable regulations. Failure to comply with FDA requirements can result in withdrawal of marketing clearances, fines, injunctions, civil penalties, recall or seizure of products, total or partial suspension of production or loss of distribution rights. In addition, device manufacturing facilities in the state of California must be registered with the California State Food and Drug Branch of the California Department of Public Health and submit to an annual inspection by the State of California to ensure compliance with applicable state regulations. We are also subject to a variety of environmental laws as well as workplace safety, hazardous material, and controlled substances regulations.
+ 
+If we are successful in securing Medicare reimbursement, we will be subject to federal and state laws, such as the Federal False Claims Act, state false claims acts, the illegal remuneration provisions of the Social Security Act, the federal anti-kickback laws, state anti-kickback laws, and the federal “Stark” laws, that govern financial and other arrangements among healthcare providers, their owners, vendors and referral sources, and that are intended to prevent healthcare fraud and abuse. Among other things, these laws prohibit kickbacks, bribes and rebates, as well as other direct and indirect payments or fee splitting arrangements that are designed to induce the referral of patients to a particular provider for medical products or services payable by any federal healthcare program, and prohibit presenting a false or misleading claim for payment under a federal or state program. They also prohibit some physician self-referrals. These laws are liberally interpreted and aggressively enforced by multiple state and federal agencies and law enforcement (including individual “qui tam” plaintiffs) and such enforcement is increasing. For example, the Affordable Care Act increased funding for federal enforcement actions and many states have established their own Medicare/Medicaid Fraud Units and require providers to conspicuously post the applicable Unit’s hotline number. Possible sanctions for violation of any of these restrictions or prohibitions include loss of eligibility to participate in federal and state reimbursement programs and civil and criminal penalties.
+ 
+ 10
+
+
+Also, federal transparency requirements, sometimes referred to as the “Sunshine Act” under the Patient Protection and Affordable Care Act, require manufacturers of drugs, devices, biologics and medical supplies that are reimbursable under Medicare, Medicaid, or the Children’s Health Insurance Program to report to the Department of Health and Human Services information related to physician payments and other transfers of value and physician ownership and investment interests.
+ 
+Changes in these laws at all levels of government are frequent and could increase our cost of doing business. If we fail to comply, even inadvertently, with any of these requirements, we could be required to alter our operations, refund payments to the government, lose our licensure or accreditation, enter into corporate integrity, deferred prosecution or similar agreements with state or federal government agencies, and become subject to significant civil and criminal penalties.
+ 
+International Regulatory Requirements
+ International regulatory requirements differ somewhat from those of the U.S. In the EU, a single regulatory approval process has been created and approval is represented by CE-Marking. To be able to affix the CE-Mark to our medical devices and distribute them in the EU, we must meet minimum standards for safety and quality (known as the essential requirements) and comply with one or more conformity rules. A notified body assesses our quality management system and compliance with the Medical Device Directive. Marketing authorization can be revoked by the applicable governmental agency or notified body in the event of an unsuccessful quality system annual audit.
+ 
+In India, the regulatory body having oversight of medical devices, therapies, and cell banking is the Central Drugs Standard Control Organization (CDSCO), and specifically the Drugs Controller General India office. Our marketing and facilities licenses are subject to revocation by the applicable state Drug Controller in Haryana or DCGI.
+ 
+Patents and Proprietary Rights
+ 
+We believe that patent protection is important for our products and current and proposed business. We currently have over thirty issued patents globally. The patent positions can be uncertain because they involve interpretation of complex factual information and an evolving legal environment. The coverage sought in a patent application can be denied or significantly reduced either before or after the patent is issued. There can be no assurance that any of our pending patent applications will actually result in an issued patent. Furthermore, there can be no assurance that any existing or future patent will provide significant protection or commercial advantage, or that any existing or future patent will not be circumvented by a more basic patent. Generally, patent applications can be maintained in secrecy for at least 18 months after their earliest priority date. In addition, publication of discoveries in the scientific or patent literature often lags behind actual discoveries. Therefore, we cannot be certain that we were the first to invent or the first to file a patent application for the subject matter covered by each of our pending U.S. and foreign patent applications.
+ 
+If a third party files a patent application relating to an invention claimed in our patent application, we may be required to participate in an interference or derivation proceeding conducted by the U.S. Patent and Trademark Office to determine who owns the patent. Such proceeding could involve substantial uncertainties and cost, even if the eventual outcome is favorable to us. There can be no assurance that our patents, if issued, would be upheld as valid in court.
+ 
+ 11
+
+
+Licenses
+ 
+The following are certain material agreements involving our business.
+ 
+Fortis Healthcare Limited (Fortis)
+ On October 12, 2017, we signed an agreement with Fortis which replaced the previous agreement that expired on August 1, 2017. The services agreement covers the areas of cord blood banking, point of care technology sales and support, bone marrow transplant and clinical/patient management of clinical trials for our internally developed therapeutics. We have significantly reduced our activities under this agreement and are in discussions with Fortis as to our future activities.
+ 
+CBR Systems, Inc. (CBR)
+ Effective May 15, 2017 we entered into a Manufacturing and Supply Agreement with CBR which replaced the prior December 31, 2013 Sale and Purchase Agreement in which we agreed to supply CBR with the AXP® cord blood processing system and disposables. The term of the current agreement is for 3 years and will automatically renew in one-year increments unless either party provides written notice of intention not to renew six months prior to the end of the term.
+ 
+In June 2010, we entered into a License and Escrow Agreement in order to alleviate CBR’s concerns about potential long-term supply risk. We are the sole supplier of critical devices and disposables used in the processing of cord blood samples in CBR’s operations. Under the License and Escrow Agreement, we granted CBR a perpetual, non-exclusive, royalty-free license to certain intellectual property necessary for the manufacture of AXP® devices and disposables. The license is for the sole and limited purpose of ensuring continued supply of the AXP® and related disposables for use by CBR. The licensed intellectual property is held in escrow and available to CBR only in the event of a default under the agreement. Effective May 15, 2017 we entered into a Sixth Amended and Restated Technology License and Escrow Agreement with CBR. This amendment, among other things, changes the circumstances that constitute a “Default” thereunder and conditions the circumstances under which CBR may, upon a default by the Company, purchase licensed products from other manufacturers and suppliers. The events or conditions of default include: a cash balance coupled with short-term investments net of debt or borrowed funds that are payable within one year of less than two million dollars at any month end or we fail to provide products pursuant to the Manufacturing and Supply Agreement. We were in compliance with the License and Escrow Agreement at December 31, 2018.
+ 
+Boyalife W.S.N.
+ On August 21, 2017, ThermoGenesis entered into an International Distributor Agreement with Boyalife W.S.N., a Chinese corporation and affiliate. Under the terms of the agreement, Boyalife W.S.N. was granted the exclusive right, subject to existing distributors and customers (if any), to develop, sell to, and service a customer base for ThermoGenesis’ AXP® (AutoXpress®) System and BioArchive System in the People’s Republic of China (excluding Hong Kong and Taiwan), Singapore, Indonesia, and the Philippines (the “Territories”). The agreement replaced our prior distribution agreement with Golden Meditech, which expired in August 2017 and had granted similar exclusive distribution rights in the Territories. Boyalife W.S.N. is an affiliate of Dr. Xiaochun Xu, our Chief Executive Officer and Chairman of our Board of Directors, and Boyalife (Hong Kong) Limited, our largest stockholder. Boyalife W.S.N,’s rights under the agreement include the exclusive right to distribute AXP® Disposable Blood Processing Sets and use rights to the AutoXpress® System, BioArchive® System and other accessories used for the processing of stem cells from cord blood in the Territories. Boyalife W.S.N. is also appointed as the exclusive service provider to provide repairs and preventative maintenance to ThermoGenesis products in the Territories. The term of the agreement is for three years with ThermoGenesis having the right to renew the agreement for successive two-year periods at its option. However, ThermoGenesis has the right to terminate the agreement early if Boyalife W.S.N. fails to meet specified minimum purchase requirements.
+ 
+ 12
+
+
+Employees
+ 
+As of December 31, 2018, we and our subsidiaries had 53 employees, 46 of whom were employed in the U.S. and 7 of whom were employed in India. We also utilize temporary employees throughout the year to address business needs and significant fluctuations in orders and product manufacturing. None of our employees are covered by a collective bargaining agreement, nor have we experienced any work stoppage.
+Foreign Sales and Operations
+ 
+See footnote 11 of our Notes to Consolidated Financial Statements for information on our sales and operations outside of the U.S.
+ 
+Where you can Find More Information
+ 
+We are required to file annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and other information, including our proxy statement, with the Securities and Exchange Commission (SEC). The public can obtain copies of these materials by accessing the SEC’s website at http://www.sec.gov. In addition, as soon as reasonably practicable after these materials are filed with or furnished to the SEC, we will make copies available to the public free of charge through its website, www.cescatherapeutics.com. The information on its website is not incorporated into, and is not part of, this Annual Report on Form 10-K or our other filings with the SEC.

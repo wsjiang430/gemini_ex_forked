@@ -1,0 +1,323 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+We are a creator of mobile device measurement solutions that has developed innovative solutions designed to address shortcomings in multiple verticals, including the e-commerce fashion/apparel, shipping/parcel and do it yourself, or DIY, industries. Utilizing our sophisticated algorithms within our proprietary technology, we can calculate and record measurements in a variety of novel ways, and most importantly, increase revenue for businesses across the globe.
+ 
+Our solutions can be utilized to accurately take measurements of a variety of items via a mobile device. By downloading the application to a smartphone, the user is then able to run the mobile device over the surface of an item the user wishes to measure. The information is then automatically sent to a cloud-based server where the dimensions are calculated through our proprietary algorithms, and the accurate measurements (+ or - 2 centimeters) are then sent back to the user’s mobile device. We believe that the commercial applications for this technology are significant in many areas.
+ 
+Currently, we are focusing on the following market segments:
+ 
+
+● | E-commerce fashion/apparel industry – our main target-market; 
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | Shipping/parcel; and 
+--+--------------------------------------------------------------
+
+
+● | DIY uses. 
+--+---------------------------------------------------
+
+ 
+While we are currently devoting much of our focus on the applications for the e-commerce apparel industry, management believes that all of the above-mentioned applications will be useful to users, retailers and vendors alike.
+ 
+Our Solution
+ 
+Our cloud-based software platform provides accurate sizing and measurement with broad applications including the online fashion/apparel industry, logistics and courier services and home DIY. This proprietary technology is driven by several patented algorithms which are able to calculate and record measurements in a variety of novel ways. Although specific functionality varies by product, our core solutions address the need for highly accurate measurements in a variety of consumer friendly, every day uses.
+ 
+The following are some select key features:
+ 
+
+● | Integration Capability. We design our solutions to be flexible and configurable, allowing our clients to match their use of our algorithms and software with their specific business processes and workflows. Our platform has been organically developed from a common code base, data structure and user interface, providing a consistent user experience with powerful features that are easily adaptable to our clients’ needs; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Intuitive user experience. Our intuitive, easy-to-use interface is based on current technology multiple focus groups and automatically adapts to users’ devices, including mobile platforms, thereby significantly increasing accessibility of our solutions; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Big Data Generation. While we supply to the user the information he/she requires, we gather certain vital information such as body measurement and package volume which can be used anonymously to help the retailer acquire predictive size information on stocking, operations and consumers that may be in between sizes. All this information is being gathered and stored on our servers where it can be used by retailers; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+2
+
+ 
+
+
+● | White Label Solution. Our solutions can be transformed into white label applications at an extra cost to any customer that wants to utilize or embed our technology within their systems; and 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Non-Invasive. Owing to our unique, non-invasive technology, the smartphone camera is not used for measurement; all the measurements are recorded by moving the smartphone over the consumer’s body or package, thus ensuring greater privacy. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Growth Strategy
+ 
+We intend to drive revenue primarily through penetration of the U.S. market in the verticals we are targeting. We intend to pursue the following growth strategies:
+
+● | Sign Commercial Agreement with Major U.S. Retailer. We are in various stages of discussions with major U.S. retailers for the deployment of our measurement technology with a view to entering into a commercial agreement. We believe that if we are successful in entering into a commercial agreement with a major U.S. retailer this will serve as an important third-party validation of our technology and help accelerate commercial adoption of our solutions. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Pursue a Two-Pronged Commercialization Strategy. We are seeking to accelerate adoption of our solutions both through direct partnerships with e-commerce websites as well as through third party platform websites. While we seek to directly enter into partnerships with companies maintaining e-commerce websites in the apparel, courier and DIY markets, we are also seeking to deploy our solutions on third party platforms. In February 2019, MySizeID became available for online retailers utilizing the Shopify platform and BoxSizeID became available on the Honeywell Marketplace. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Ongoing Investment in our Technology Platform. We intend to continue to invest in building new software capabilities and extending our platform to bring the power of accurate measurement to a broader range of applications. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Grow our database. As the usage of our measurement apps increases, our database of information including user behavior and body measurements generates valuable statistics. Such data can be used in the big data market for targeted advertising and for blind consumer data mining. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The Markets
+ 
+The mass adoption of mobile technologies such as tablets and smartphones has led to a surge of consumer activity online. Tasks that were once primarily brick-and-mortar – shopping for clothes, shipping a package, or buying supplies for a DIY home renovation project – have now shifted to digital, as consumers prefer the convenience of shopping anywhere, anytime.
+ 
+E-commerce’s meteoric rise has been a boon to retailers who can offer shoppers a simple customer experience through desktop or mobile devices. According to SaleCycle, in the U.S. e-commerce sales for 2017 were $453.5 billion, an increase of 16% from the year prior. While many sectors have found ways to increase revenue through e-commerce, e-commerce is still plagued by issues that cut into profits and negatively impact the bottom line, such as customer returns, low consumer conversion, and associated restocking and shipping costs.
+ 
+Fashion/Apparel
+ 
+The fashion market is one of the fastest growing sectors of online retail – what was already an approximately $332 billion market in 2016 is projected to increase to over $633 billion in 2021 according to statista. However, conveniences of online shopping, including simple search filters, the ability to purchase apparel without trying it on, and free returns, have led consumers to a more free-wheeling buying style that is costing retailers major dollars.
+ 
+3
+
+ 
+
+One of the biggest causes for returns are sizing issues, due in part to a truly universal sizing system that leaves consumers guessing what size they need or ordering multiple sizes and returning the ones that do not fit, all the retailer’s expense. Research shows that 30% of all online purchases are returned.
+ 
+To address this issue, we have developed an innovative mobile technology for retailers, known as MySizeID. MySizeID enables shoppers to generate highly accurate measurements of their body to find proper fitting clothes and accessories, all through the use of our App on their mobile phone. MySizeID syncs the user’s measurement data to a sizing chart integrated through a retailer’s (or a white labeled) mobile application, and only presents items for purchase that match their measurements to ensure a correct fit. MySizeID is available for license by retailers and download by consumers on both iOS and Android operating systems.
+ 
+Shipping/Parcel
+ 
+According to Pitney Bowes, parcel revenue in 2017 in 13 major countries around the world was $279 billion or 75 billion parcels with the number of parcels projected to grow to 100 billion by 2020. In the shipping/parcel industry, the dimensions of a package are critical. It is not merely the measurement of a package or box – but rather the amount of space that the package or box will take up on a truck, airplane, or ship that will be transporting the package or box. Far too often, retailers use unfit packaging for their items, adding additional costs in materials and shipping fees.
+ 
+To address this issue for shipping companies, we have developed an innovative mobile technology known as BoxSizeID. BoxSizeID enables customers to quickly and easily measure the size and volume of a parcel to accurately calculate shipping fees. It also offers shipping companies a variety of precise logistical data for more efficiently managing their supply chain, providing them with an accurate way to compare the physical package with what is in the shipping manifest. BoxSizeID solution is available for license on both iOS and Android operating systems.
+ 
+DIY
+ 
+Similar to issues in the apparel and fashion market, big box, hardware, furniture, and DIY stores are plagued by returns due to incorrect fit and measurements. In an industry where precise measurement for projects is an absolute necessity, e-commerce has not grown as quickly as in other industries which we believe is due to lack of consumer confidence in measurements at home and buying the correct item online.
+ 
+To address this issue for retailers, we have developed an innovative mobile technology known as SizeUp. SizeUp is a digital tape measure that allows users to measure length, width and height of a surface by moving their smartphone from point to point of an object or space. SizeUp is a value-add for DIY and home improvement retailers whose customers struggle to find the appropriately sized items (like blinds or curtains) for their homes or projects due to inaccurate measurements. SizeUp also is designed to replace rulers, tape measures and other measuring tools used for DIY projects. SizeUp is available for consumer download on both iOS and Android operating systems, with more than 1,000,000 consumer downloads to date.
+ 
+MySizeID
+ 
+We have released the MySizeID app for both iOS and Android which assists consumers to take highly accurate measurement of their own body in order to size clothing in the best way possible without the need to try the clothes on before purchasing. The benefit of our application is that it simplifies the process of purchasing clothes online and significantly reduces the rate of returns of ill-fitting clothing. 
+ 
+The application is the result of a research and development effort that combines:
+ 
+
+● | anthropometric research – analyses of information pertaining to body measurements derived from a survey and the subsequent determination of correlations between body parts; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | body measurement algorithm research – an algorithm created by us to measure body parts; and 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | retailers size chart analyses – adopting a deep understanding of the size charts of retailers and the corresponding “body to garment size.” 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+ 
+
+MySizeID allows consumers to create a secure, online profile of their personal measurements, which can then be utilized, with partnered online retailers, to ensure that no matter the manufacturer or size chart, they will get the right fit. MySizeID operates based on the use of existing sensors in smart phones which enable, through a specific purpose application, the measurement of the body of any consumer by moving the smartphone phone along his or her body. The MySizeID application does not rely on user photographs or any additional hardware; all a user needs to do is scan their body with their smartphone and the application records their measurements. The measurements can then be saved in our database in the cloud, enabling the user to search for clothes in various retailer websites without worrying about size. When a search is made, the retailer will connect to our cloud database, and then provide results based on the user’s measurements and other parameters as he or she may have defined. This data is also saved for use when a customer enters a brick and mortar store to help serve the customer more efficiently and to provide a better shopping experience.
+ 
+
+
+Figure 1: Screenshot of MySizeID on smartphone and e-commerce website
+ 
+
+As part of the integration process, we offer to the retailer three main components:
+ 
+
+● | Mobile App. MySizeID comes in the form of a native app or as white label app. Our native app can be used “as is” integrated into the retailer’s e-commerce website. Alternatively, it can be white labeled according to the retailer’s needs in a manner that showcases the retailer brand (colors, logo etc.). The retailer can also receive the MySizeID standard development kit, or SDK, and integrate it into its own existing application so the retailer’s consumers will not have to have two separate apps when shopping online. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+5
+
+ 
+
+
+● | Widget. When a consumer enters into the retailer’s website and looks for a specific item, he or she can click on the MySizeID widget which will inform the consumer of his or her recommended size, based on his or her actual measurements, as measured using the app and the item he or is looking at. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+
+Figure 2: Screenshot of MySizeID widget on Modelista website
+ 
+
+● | Back-Office The back-office system is the place where the retailer inputs all the information regarding its size charts that correlates to every product in its e-commerce site, and where the retailer can access the information on its users.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+
+Figure 3: Screenshot of Back-Office System
+ 
+6
+
+ 
+
+As we are licensing the technology, we are currently offering MySizeID to retailers on a pay per use basis. In a pay per use business model, every time the consumer obtains a recommended size, we charge the retailer for the usage.
+ 
+In addition, we have developed applications for third party ecommerce platforms so that retailers who use those platforms will find our application on the platform’s app store and will be able to easily install it in their store. In February 2019, MySizeID became available for online retailers utilizing the Shopify platform. Fashion and apparel retailers using Shopify can now deploy the MySizeID turnkey solution through the simple integration of the MySizeID widget on their site. 
+ 
+In November 2016, we introduced a new product called TrueSize. TrueSize is a customizable, white-label, mobile application that empowers retailers to improve the online shopping experience of their customers by matching their true measurements with the retailer’s offerings. Due to the introduction of MySizeID, in June 2019, we plan on ending support for this product.
+ 
+BoxSizeID
+ 
+BoxSizeID is an intuitive parcel measurement application that can provide real-time logistic data on package volumes and transportation, resulting in improved operational efficiency and reduced operating expenses. In addition, BoxSizeID allows customers to easily measure the size of their parcel with their smartphone, calculate shipping costs and arrange for a convenient pick-up time for the package. During 2018, we released BoxSizeID for Android which has a greater market opportunity since, based on our experience, most courier companies are using Android based handheld devices. As a result, BoxSizeID is available both on iOS and Android.
+ 
+
+
+Figure 4: Screenshot of BoxSizeID
+ 
+We are currently developing Two Shots, an algorithm that is intended to make package measurement even faster through two measurements, to measure the height, width and depth, of a package rather than three separate measurements.
+ 
+7
+
+ 
+
+Agreement with Katz Delivery Services, LTD
+ 
+On November 20, 2015, we entered into an agreement, or the Katz Agreement, with Katz Deliveries, LTD, or Katz, one of the largest courier services in Israel. Pursuant to the Katz Agreement, the parties have agreed to mutually work together to develop and integrate MySize technology with the Katz ERP to accurately monitor the volume of all parcels delivered to it for shipment by its clients. The goal is for Katz to use our technology to help with planning its distribution routes, thus reducing operational costs by adjusting the distribution vehicles to the volume of the shipments.
+ 
+KatzID was developed for Katz and is to be used to measure packages, boxes and pallets at Katz’ logistics center. The app allows users to scan the barcode of a package and measure the package dimensions using MySize’s SizeIT technology (described below) and then subsequently upload the information directly to Katz’s back office. The technology is being used to control package volumes and accurately charge Katz’ customers accordingly.
+ 
+In September 2018, we entered into a new agreement with Katz pursuant to which we are licensing to Katz on a software-as-a-service basis KatzID for a monthly fee based on the number of packages measured. We have completed integration of KatzID into the Katz ERP system. To date, there have been no material revenues from this agreement.
+ 
+SizeUp
+ 
+We are working on additional consumer applications. One of these applications is in the category of DIY. This application is a smart tape measure for the business to consumer market which allows users to utilize their smartphone as a tape measure. The application provides measurements with an accuracy of plus or minus 2 centimeters. Through the use of this application users will be able to visualize how an object or a piece of furniture will fit in an existing room in their home or office. As many people have difficulty with spatial recognition, we hope this will help alleviate the problem. During 2018 we expanded availability of SizeUp to more than 45 different iOS and Android smartphone models worldwide. It also added Google Vision for image content analysis, object detection, and title suggestions. As of March 1, 2019, there have been over 1,000,000 downloads of the SizeUp app.
+ 
+Currently the SizeUp app for Android and iOS is available for free for the first 30 days, after which a user will be required to pay a one-time fee of $1.99 to continue using the application. To date, revenues from downloads have been nominal.
+ 
+SizeIT
+ 
+We have developed SizeIT, a smart measuring tape SDK for both Android and iOS platforms. SizeIT provides users with the ability to instantly and accurately measure objects with a quick movement of their mobile device. SizeIT, the core technology behind MySizeID, SizeUp, and BoxSizeID applications, can be embedded into any company’s existing or white label mobile app in a short period of time, offering an efficient solution to the escalating costs associated with product sizing issues and returns. SizeIT enables users to measure objects by moving their mobile device from one side of an object to another side of the object. Our algorithm utilizes a mobile device’s motion sensors to calculate the travelled distance.
+ 
+Research and Development
+ 
+Our research and development team is responsible for the design, development, and testing of all aspects of our measurement platform technology. We invest in these efforts to continuously improve, innovate, and add new features to our solutions.
+ 
+We incurred research and development expenses of $1,105,000 in 2018 and $845,000 in 2017 and $727,000 in 2016, relating to the development of its applications and technologies. We intend to continue to invest in our research and development capabilities to extend our platform and bring our measurement technology to a broader range of applications.
+ 
+8
+
+ 
+
+Sales and Marketing
+ 
+We recently launched a commercialization strategy that directs our sales efforts toward both sales to e-commerce players in specific vertical markets such as fashion/apparel and shipping/delivery as well as to e-commerce third party platform providers. As of March 1, 2019, we have two full-time sales professionals in the United States who lead our efforts to penetrate the U.S. marketplace through driving market awareness, generating customer leads, building out a sales pipeline, and developing customer relationships.
+ 
+We believe an effective method to market our suite of products is for users to actively use and explore its capabilities. We encourage free trials of one or more of our products in order to successfully convert those accounts to paid subscriptions.
+ 
+Proprietary Rights
+ 
+We rely on a combination of patent, copyright, trademark and trade secret laws in the United States and other jurisdictions, as well as contractual protections, to protect our proprietary technology.
+ 
+As of December 31, 2018, we owned four issued patents one in each of Russia and Japan and two in the U.S., which expire between January 20, 2033 and May 11, 2035, and we have eighteen additional patent applications in process. As of such date, we do not have any registered trademarks.
+ 
+We cannot provide any assurance that our proprietary rights with respect to our products will be viable or have value in the future since the validity, enforceability and type of protection of proprietary rights in software-related industries are uncertain and still evolving.
+ 
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as proprietary. Policing unauthorized use of our products is difficult, and while we are unable to determine the extent to which piracy of our software products exists, software piracy can be expected to be a persistent problem. In addition, the laws of some foreign countries do not protect proprietary rights to as great an extent as do the laws of the United States, and effective copyright, trademark, trade secret and patent protection may not be available in those jurisdictions. Our means of protecting our proprietary rights may not be adequate to protect us from the infringement or misappropriation of such rights by others.
+ 
+Further, in recent years, there has been significant litigation in the United States involving patents and other intellectual property rights, particularly in the software and Internet-related industries. We can become subject to intellectual property infringement claims as the number of our competitors grows and our products and services overlap with competitive offerings. These claims, even if not meritorious, could be expensive to defend and could divert management’s attention from operating our business. If we become liable to third parties for infringing their intellectual property rights, we could be required to pay a substantial award of damages and to develop non-infringing technology, obtain a license or cease selling the products that contain the infringing intellectual property. We may be unable to develop non-infringing technology or obtain a license on commercially reasonable terms, if at all.
+ 
+ Government Regulation
+ 
+We are subject to a number foreign and domestic laws and regulations that involve matters central to our business. These laws and regulations may involve privacy, data protection, intellectual property, or other subjects. Many of the laws and regulations to which we are subject are still evolving and being tested in courts and could be interpreted in ways that could harm our business. In addition, the application and interpretation of these laws and regulations often are uncertain, particularly in the new and rapidly evolving industry in which we operate. Because global laws and regulations have continued to develop and evolve rapidly, it is possible that we or our products or our platform may not be, or may not have been, compliant with each such applicable law or regulation.
+ 
+9
+
+ 
+
+In particular, we are subject to a variety of federal, state and international laws and regulations governing the processing of personal data. Many U.S. states have passed laws requiring notification to data subjects when there is a security breach of personally identifiable data. There are also a number of legislative proposals pending before the U.S. Congress, various state legislative bodies and foreign governments concerning data protection. In addition, data protection laws in Europe and other jurisdictions outside the United States can be more restrictive than those within the United States, and the interpretation and application of these laws are still uncertain and in flux.
+ 
+For example, the General Data Protection Regulation, or GDPR, which took effect on May 25, 2018, enhances data protection obligations for entities that process personal data about individuals, including obligations to cooperate with European data protection authorities, implement security measures and keep records of personal data processing activities. Noncompliance with the GDPR can trigger fines equal to the greater of €20 million or 4% of global annual revenue. Given the breadth and depth of changes in data protection obligations, meeting the requirements of GDPR has required significant time and resources, including a review of our technology and systems currently in use against the requirements of GDPR. We have taken various steps to prepare for complying with GDPR however there can be no assurance that these steps are sufficient to assure compliance. Further, additional EU laws and regulations (and member states’ implementations thereof) further govern the protection of individuals and of electronic communications. If our efforts to comply with GDPR or other applicable laws and regulations are not successful, we may be subject to penalties and fines that would adversely impact our business and results of operations, and our ability to use personal data of individuals could be significantly impaired.
+ 
+Competition
+ 
+We operate in a highly competitive industry that is characterized by constant change and innovation. Changes in the applications and the programing languages used to develop applications, devices, operating systems, and technology landscape result in evolving customer requirements. Our competitors include True Fit, Virtusize, EasyMeasure, AR MeasureKit, and Smart Measure.
+ 
+The principal competitive factors in our market include the following:
+ 
+
+● | product and platform features, architecture, reliability, privacy and security, performance, effectiveness, and supported environments;
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | product extensibility and ability to integrate with other technology infrastructures;
+--+--------------------------------------------------------------------------------------
+
+
+● | digital operations expertise;
+--+------------------------------
+
+
+● | ease of use of products and platform capabilities;
+--+---------------------------------------------------
+
+
+● | total cost of ownership;
+--+-------------------------
+
+
+● | adherence to industry standards and certifications;
+--+----------------------------------------------------
+
+
+● | strength of sales and marketing efforts;
+--+-----------------------------------------
+
+
+● | brand awareness and reputation; and
+--+------------------------------------
+
+
+● | focus on customer success.
+--+---------------------------
+
+ 
+We believe we generally compete favorably with our competitors on the basis of these factors. We expect competition to increase as other established and emerging companies enter our markets, as customer requirements evolve, and as new products and technologies are introduced. We expect this to be particularly true as we are a smartphone-based offering that does not need to utilize the smartphone’s camera, and our competitors may also seek to repurpose their existing offerings to provide similar solutions. Many of our competitors have substantially greater financial, technical, and other resources, greater name recognition, larger sales and marketing budgets, broader distribution, and larger and more mature intellectual property portfolios.
+ 
+10
+
+ 
+
+Employees 
+ 
+As of March 1, 2019, we had a total of 29 employees, of which 21 were full-time employees, including 7 in sales and marketing, 17 in technology and development and 5 in administration and finance. None of our employees are represented by a collective bargaining agreement, nor have we experienced any work stoppage. We consider our relationship with our employees to be good. Our future success depends on our continuing ability to attract and retain highly qualified engineers, sales and marketing, account management, and senior management personnel.
+Company Information
+ 
+Our principal executive offices are located at 3 Arava St., P.O. Box 1026, Airport City, Israel 7010000, and our telephone number is +972-3-600-9030. Our website address is www.mysizeid.com. Any information contained on, or that can be accessed through, our website is not incorporated by reference into, nor is it in any way a part of, this Annual Report on Form 10-K.
+ 
+We use our website (www.mysizeid.com) as a channel of distribution of Company information. The information we post through this channel may be deemed material. Accordingly, investors should monitor our website, in addition to following our press releases, SEC filings and public conference calls and webcasts. The contents of our website are not, however, a part of this Annual Report on Form 10-K.
+ 
+Corporate History
+ 
+We were incorporated in the State of Delaware on September 20, 1999 under the name Topspin Medical, Inc. In December 2013, we changed our name to Knowledgetree Ventures Inc. Subsequently, in February 2014, we changed our name to MySize, Inc.
+ 
+From inception through 2012, we were engaged in research and development of a medical magnetic resonance imaging, or MRI, technology for interventional cardiology and in the development of MRI technology for use in the diagnosis and treatment of prostate cancer. In January 2012, we acquired Metamorefix Ltd., or Metamorefix. Metamorefix was incorporated in 2007, and was engaged in the development of innovative solutions for the rehabilitation of tissues, particularly skin tissues. By the end of 2012, we ceased operations and in January 2013, we sold our entire ownership interest in Metamorefix.
+ 
+In September 2013, Ronen Luzon, our Chief Executive Officer, acquired control of the Company from Asher Shmuelevitch according to which Mr. Luzon purchased 1,755,950 shares of common stock from Mr. Shmuelevitch, which shares represented approximately 40% of the issued and outstanding capital stock of the Company at such time, thus becoming a controlling shareholder of the Company. In connection with the acquisition, Mr. Luzon reached a settlement with our then creditors pursuant to which the main creditor, Mr. Shmuelevitch, was paid a total sum of approximately $140,000 in consideration for a full and final waiver of any and all his claims that he may have relating to any monetary indebtedness of the Company to the creditors.
+ 
+In February 2014, My Size Israel 2014 Ltd., our wholly owned subsidiary, entered into a Purchase Agreement, or the Purchase Agreement, with Shoshana Zigdon, or the Seller, who at the time was a beneficial owner of more than 20% of our outstanding shares, with respect to the acquisition by us of certain rights related to the collection of data for measurement purposes including rights in the venture, the method and a patent application that had been filed by the Seller (PCT/IL2013/050056), or the Assets. In consideration for the sale of the Assets, we agreed to pay to Seller, 18% of our operating profit, directly or indirectly connected with the Assets together with value-added tax in accordance with the law for a period of seven years from the end of the development period of the aforementioned venture. In addition to the foregoing, the Purchase Agreement provides that all developments, improvements, knowledge and know-how developed and/or accumulated by us after the execution of the Purchase Agreement will be owned by us. Further, the Seller agreed not to compete, directly or indirectly, with us in any matter relating to the Assets for a period of seven years from the end of the development period of the venture.
+ 
+The Purchase Agreement may be terminated by either party in the event of an uncured material breach. The Purchase Agreement further provides that the Seller is entitled to repurchase the Assets from us upon the occurrence of one or more of the following events: (a) in the case of liquidation or bankruptcy; or (b) if on the seventh anniversary of the execution of the Purchase Agreement, the amount of our income, directly and/or indirectly derived from the Assets is less than NIS 3.6 million (approximately $1 million), each a “Repurchase Event”. If a Repurchase Event occurs, the Seller shall have a 90 day right, subject to delivery of written notice to us of Seller’s intention to exercise such right, to repurchase the Assets from us. The repurchase price will be based upon a market price to be determined by one or more external appraisers. Unless the Seller provides written notice of retraction of Seller’s intention to repurchase the Assets, the Seller shall be obligated to repurchase the Assets within 60 days from the date of receipt of the appraisal. Seller shall have the right to retract its intention to repurchase the Assets, provided Seller gives written notice to us within 30 days of receiving the appraisal and subject to the Seller refunding to us the the expenses borne by us in respect of the appraisal. To date, no material income has been derived from the Assets.
+ 
+In September 2005, we commenced trading on the Tel Aviv Stock Exchange, or TASE. Between 2007 and 2012 we reported as a public company with the SEC. In August 2012, we suspended our reporting obligations. In mid-2015 we resumed reporting as a public company. On July 25, 2016, our common stock began publicly trading on the Nasdaq Capital Market under the symbol “MYSZ”.
+ 
+11
+
+ 
+
