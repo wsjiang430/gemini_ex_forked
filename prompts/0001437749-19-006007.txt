@@ -1,0 +1,214 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1.  Description of Business
+
+Overview
+ 
+Oculus VisionTech Inc. is a Canadian-based development-stage technology company that designs and markets digital marking technology to business customers.
+ 
+We have also developed a Cloud-based Document Protection System (Cloud-DPS) technology that allows us to offer a Cloud-based Internet service for document tamper-proof protection and authentication that allow us to leverage our digital watermarking technology.
+ 
+Historically, we have used our digital watermarking technology for streaming video content distribution based on embedded digital watermarking, as well as video-on-demand (VOD) systems, services and source-to-destination digital media delivery solutions that allow live or recorded digitized and compressed video to be transmitted through Internet, intranet, satellite or wireless connectivity. We developed a number of specific products and services based on these technologies. These include MediaSentinel™ and SmartMarks™, a process that watermarks digital video content; StreamHQ™, a collection of source-to-destination media delivery services marketed to businesses; EncodeHQ™, a service that digitizes and compresses analog-source video; hardware server and encoder system applications under the brand name Hurricane Mediacaster™; ZMail™, a service that delivers web and rich media content to targeted audiences, and mediaClix™, a service that delivers content similar to Zmail™ but originating from an existing web presence.
+ 
+We were incorporated on April 18, 1986, as "First Commercial Financial Group Inc." in the Province of Alberta, Canada. In 1989, our name was changed to "Micron Metals Canada Corp.", which purchased 100% of the outstanding shares of USA Video Inc., a Texas corporation, in order to focus on the digital media business. In 1995, we changed our name to "USA Video Interactive Corp." and continued out of the Province of Alberta into the State of Wyoming. At a shareholders meeting held on December 30, 2011, a resolution was passed to change our name to "Oculus VisionTech Inc." and to alter our share capital by way of a reverse stock split (share consolidation) on the basis of fifteen old common shares for one new common share. On January 25, 2012, we changed our name to "Oculus VisionTech Inc." and completed the reverse stock split. We have one wholly-owned subsidiary, USVO Inc., a corporation organized under the laws of the State of Connecticut.
+ 
+Our executive and corporate offices are located at Suite 507, 837 West Hastings Street, Vancouver, British Columbia, Canada, V6C 3N6. Our telephone number is 1-800-321-8564 and our facsimile number is 604-685-5777. Our email address is contact@ovtz.com and our website is www.ovtz.com. Our common shares are listed for trading on the TSX Venture Exchange (TSX.V – OVT, OTCQB – OVTZ, FSE – USF1).
+ 
+Business Environment and Market Opportunity
+ 
+We have recognized that Internet-based, digital document security/protection products are a business opportunity for the Company that allow us to apply our proprietary real-time digital video watermarking technology, which was developed for studios and networks in the entertainment industry, to the digital document security/protection sector. Our Cloud- DPS technology introduces the Company to the online, digital document security/protection industry and possible vertical markets that exist in the sector, including the ability to confirm the authenticity of online documents and photographs distributed through traditional wireline networks or over wireless smart devices. 
+ 
+Our Cloud-DPS secures and protects digital documents (including text documents, photos, blueprints, etc.) from any modification, and/or attempted forgery. It works by imperceptibly watermarking documents, using real-time image processing and watermarking algorithms, embedded into a secured/protected copy of a document. This protected copy is designed to resist any attempts to alter or forge the document by forensically tracking and deterring any attempts to tamper with the document. The watermarking algorithms are able to ascertain whether a document is protected by our DPS technology and if any attempts to modify or tamper with the document occurred. Any such modifications will be flagged, time stamped, and can be spatially highlighted in the document where any tampering occurred. This authentication and verification process ensures the integrity of the original document.
+ 
+ 4
+
+
+Strategic Plan 
+ 
+Our strategic plan is to use our proprietary digital watermarking technology to offer a Cloud-based Internet service for document tamper-proof protection and authentication. We expect to continue our focus on developing our Cloud-DPS technology and, overtime to switch our focus away from video-on-demand (VOD) systems and the associated products and services.
+ 
+We believe that our Cloud-DPS technology is superior to the products offered by our competitors, which do not rely on a file invariant watermarking system (as opposed to a system that supports different file formats, such as Microsoft Office, Open Office, etc., by employing handlers for each document file format.). In order for a non-file invariant system to be used successfully for a variety of documents, it must be capable of handling and working with all present and future file formats, whereas our DPS solution relies on the PDF (portable document format) document format to create a format invariant watermarking system. PDF document readers are freely available and widely popular. All the incoming documents can be converted into PDF images and protected with an image understanding algorithm, while the PDF document layout is preserved.
+ 
+Going forward, we plan to licence our Cloud-based Document Protection Services (Cloud-DPS) to select document distributors and allow these distributors to expand their Cloud-based service offerings for end-customers. We expect to differentiate the Cloud-DPS from our competitors on the basis of its core tamper-proof technology and by providing a superior process workflow and mobile user experience for document protection, processing and management for business to business (B2B) and business to consumer (B2C) customers. We also plan to develop our Cloud services and workflows to enable the mass market mobile users access these technologies while processing, storing and sharing their sensitive documents.
+ 
+Proprietary Technologies
+ 
+Our previous video-on-demand (VOD) systems, source-to-destination digital media delivery solution were based on our proprietary rich media delivery infrastructure and software and our Store and Forward Video-on-Demand patent. This patent expired in February of 2010. Subsequently, we have elected not a patent our Cloud-DPS technology.
+ 
+Our proprietary document protection technologies include digital watermarking based document tamper-proofing for all types of documents. The objective is providing document originators and users the confidence that a subject document is authentic and has not been forged.
+ 
+Our main technology differentiator is content-based document protection, which involves searches for robust, invariant document/image segments. This proprietary document "recognition" technology is a file format invariant watermarking system, and is subsequently fundamentally different from today's document data encrypted schemes, stored in different file formats-containers. The key feature of our DPS technology are:
+ 
+
+● | Our DPS technology "personalizes" protected documents, based on their content, thereby creating a format invariant watermarking system. A document, converted into a PDF document is encrypted before delivery, such that it cannot be opened without providing proper credentials. The result is that a document watermarking system can be offered as a cloud-based software service that can:
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Protect - Accept any incoming document through a web portal, watermark it and return the watermarked document as a PDF document. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+o | Authenticate - The "document authenticator" is also a cloud-based software service that can accept the watermarked document and validate the authenticity of the documents.
+
+
+● | Our DPS technology combines the access control security for electronic documents, forensic grade anti-tampering technology based on the document's content "understanding", and data storage (optional) into a single, unique solution. Because of its cloud-based scalable system architecture, the DPS has a potential to expand and grow into a complete document management, security and storage eco-system, offered in a flexible and cost-effective web service model.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 5
+
+
+Products and Services 
+ 
+Currently, our principal product is our proprietary digital watermarking document protection technology.
+ 
+Our Cloud-based web service system architecture enhances already existing storage and collaboration solutions such as Google Drive, DropBox, Box.com and others by adding document tamper-proof protection and workflows such as document sign-offs, authentication, secure distribution and collaboration. We believe that this will allow our DPS technology to be deployed and scaled in wide range of vertical markets such as:
+
+● | Corporate contracts and agreements management 
+-----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------
+● | Corporate core development documents 
+o IP protection | 
+o real estate contracts management 
+o government-related document management and security (health care, law enforcement) 
+● | Specification document protection for industrial users in the automotive, aerospace, engineering companies.
+
+ 
+Another product under development is a stand-alone, cost-effective document/photo security solution for the personal document management field (B2C segment).
+ 
+We have been developing a number of specific products and services based on our DPS technology. These include:
+ 
+
+● | Legal DPS - A text-based DPS web-service to protect legal/contract documents for business partners 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Cyber DPS - A stand-alone, generic DPS product, fully accessible by a Desktop/Web/Mobile App (smart devices), and intended for retail/small-office customers and individual users. 
+● | Photo DPS - An online photo protection system intended for social media industry, and for hybrid documents – mixed text, still images (including medical images), graphs, blue prints etc. 
+● | Hybrid DPS - A protection/security system for documents with textual, graphical and photo (still images) inputs - segments, making a document page. 
+● | MS Cyber DPS - A next-generation stand-alone DPS, offering a user friendly end-to-end Cloud-based DPS with a competitive document management system (DMS) for small businesses and individuals, on top of document protection/security service. 
+● | P2 Biometrics - A photo protection system for social media industry that is intended to include fast online image understanding, features selection and extraction for facial/pattern recognition/detection, capabilities. This product may require a co-development effort with global network providers.
+
+ 
+We also plan to launch our own Cloud with the following features:
+ 
+
+● | Secure server cluster 
+--+------------------------------------------------
+● | Digital vault for storing protected documents 
+● | Online document availability and delivery 
+● | Off-site backup using a secure archival service
+● | Redundancy maintained by the fail-over servers.
+
+Customers and Markets
+ 
+We currently have no customers for our products and services. We are taking steps to monetize our Cloud-DPS technology. These steps include actively seeking licensing initiatives. Our DPS architecture is designed as a web service, which allows for an easy customization to individual customer needs. The main customization effort is reduced by our creation of well synchronized interfaces to a potential customer's infrastructure. This feature will allow us to offer "white label" licensing of our DPS technology.
+ 
+ 6
+
+
+The principal market for our products services are businesses requiring digital documents protection, authentication and storage. For example, digital watermarking technology may be required by copyright-owning content providers who have concerns about the authenticity and forgery protection of their documents. Potential business users and areas of our products include:
+ 
+
+● | Legal Contracts – We plan to offer a secured contract protection services to online legal content distributors, and directly to legal firms from our data center. This will require us to launch our Legal DPS differently, disruptively and globally for the mass market rather than joining the list of local vendors in this segment. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Real Estate Contracts – A special case of the above service, real estate is a large and unique market where we can provide streamlined efficient contract signing and sharing service among buyers, sellers, agents and lawyers related to a deal. We believe that many of the cumbersome, manually signed contracts today could become paperless and be signed off from mobile. Real estate title registration in the United Stated by First American Title, Fidelity National Financial and alike are potential customers, because the tamper-proofing protection of their title documents is crucial and including millions of documents a year.
+● | Healthcare Records Management System – This vertical market requires secure sharing of patient data among healthcare service providers, the patients, and the healthcare insurers. We expect to develop B2B projects with selected healthcare providers that require secure and standard complying health records management. 
+● | Government Documents Management – We expect this vertical to be similar to the Healthcare vertical applications in serving citizens, businesses, and vendors. 
+● | Engineering Specs Protection – Manufacturing and engineering companies are required to store, manage and share their secured files with vendors and developers. We intend to offer secured cloud storage for tamper-proof documents. 
+● | Financial Institutions have a great deal of account related files, agreements and transaction records that may require tamper-proof protection. We intend to pursue large opportunities in this vertical market and be open to licensing servers in these institutions' data centers. 
+● | High Security Organizations – Similarly to Financial Institutions, these organizations would require our DPS installed in their data centers. This complicates the update and maintenance of these servers and hence makes this difficult market even less attractive for us. We will monitor opportunities in this vertical market. 
+
+Materials and Supplies
+ 
+We are in the process of migrating from a server-based environment into a Cloud web-based environment. Eventually, we expect to host a digital cloud in our own data center. We plan to assemble our cloud server hardware from components manufactured by others. We will specify, procure, assemble, test and deploy the various system components (servers, routers, solid-state memory blocks) according a set of procedures that we will develop for this. We have started preliminary consultations with companies that supply the major components and materials needed to build and expand our Cloud systems. Cloud components can be programmed and configured to meet a wide variety of different vertical markets requirements. We will procure the materials and hardware to assemble our Cloud from various companies, as needed, and in sufficient quantities to preclude any danger of significant sourcing problems in the immediate future. There are no seasonal limitations on our operations.
+ 
+We plan to launch the OVT Cloud with main set of features, as follows:
+ 
+
+● | Secure server cluster 
+--+------------------------------------------------
+● | Digital vault for storing protected documents 
+● | Online document availability and delivery 
+● | Off-site backup using a secure archival service
+● | Redundancy maintained by the fail-over servers 
+
+ 
+ 7
+
+
+Competition
+ 
+To successfully launch our products and services and derive revenues from our technology, we face competition from a number of competitors with more established products and services in our sector. Potential competitors include:
+ 
+1. Digi-Sign, which markets Cloud-based application programming to document creating companies, offering them digital signatures. Their business model is similar to ours. While a potential competitor, we are contemplating offering a product that complements Digi-Sign's technology, otherwise we will have to provide our own document signing and protecting workflows and solutions. The principal differences between the Digi-Sign solution and our solution are that we offer (i) document tamper-proof protection for high-value documents; (ii) simple and fast mobile user experience; (iii) B2C consumer collaborative repository of contracts, signed and sealed, in the Cloud.
+ 
+2. Altavion/NexStamp, a California based developer of document and human authentication technologies. The company developed Digital Stamping Technology for document authentication filling a void in the standard Digital Signature Technology area. This technology alleviates the burden of proof of forgeries made to documents. The company grows through franchises in various countries.
+ 
+3. MarkAny from South Korea released in 2001 e-Page SAFER™, the world's first solution designed to prevent document forgery. The solution has improved public administration services and helped move the age of e-government forward in Korea. MarkAny also developed Content SAFER, a digital rights management platform that has contributed to the development of Korea's content industry by creating a secure environment for the distribution of content through the protection of multimedia content copyrights. MarkAny develops a technology for 3D parts protection from copying.
+ 
+4. ContractWorks.com is the newest member of the SecureDocs, Inc. from California. ContractWorks provides contract management software services from the Cloud that focuses on usability and a simple user interface. They provide secure storage and visible watermarking feature to protect documents. Their pricing is $400 a month for unlimited secure storage of contracts.
+ 
+Most of our current and potential competitors have longer operating histories in the document protection industry, larger customer bases, greater name recognition and significantly greater financial, marketing and other resources than us. In addition, larger, well-established and well-financed entities may acquire, invest in or form joint ventures with on-line competitors as the use of the Internet-centric, Cloud-based cyber document security services increases. In addition, cyber document security and cloud document management technologies and the expansion of existing B2B and B2C document protection technologies are expected to result in additional competition.
+ 
+Research and Development 
+ 
+Our current research and development is focused on the evolution of our digital watermark technology. We redirected our Wavelet development and other image processing methods toward the creation of an adaptive, content-dependent document protection technology that is grounded in similar science as Wavelet compression. Products currently in development include:
+
+● | Photo DPS - An online photo protection system intended for social media industry, and for hybrid documents – mixed text, still images (including medical images), graphs, blue prints etc. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Hybrid DPS - A protection/security system for documents with textual, graphical and photo (still images) inputs - segments, making a document page. 
+● | DM Cyber DPS - A next-generation stand-alone DPS, offering a user friendly end-to-end Cloud-based DPS with a competitive document management system (DMS) for small businesses and individuals, on top of document protection/security service.
+
+ 
+ 8
+
+
+Our short-to-mid-term R&D plans include:
+ 
+
+● | Android App 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | In order to use DPS as a stand-alone product, it needs to have a front end interface. For wider acceptance, the front-end application needs to be implemented on smartphone devices. In this release, an app will be created for Android platform, which will be available in the Google Play store.
+
+
+● | Photo Protection 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | This release will enhance DPS in a major way by implementing new watermarking algorithm, capable of protecting photos. With this functionality, DPS can start to address wider market such as Healthcare, Social Media etc.
+
+
+● | Document Dispatch Agent 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | With the document dispatch framework more document dispatch agents can be created that are capable of routing the protected documents to various destinations, such as:
+
+
+o | Dropbox 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+o | Google Drive 
+● | Oculus ProtectedPrint 
+ | We plan to create a stand-alone product that allows user to protect the documents from their own favourite apps by simply printing the document to Oculus Virtual Printer. This product will only be available on Microsoft Windows Desktop platforms.
+
+
+● | iOS (iPhone App) 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | We plan to address DPS front end capability as well by supporting the iOS platform and by creating iPhone App. DPS will then be capable of running the front-end apps on Windows Desktop, Android and iOS platform, allowing us to cover all of the major platforms available.
+
+ 
+During fiscal 2018 and 2017, our research and development expenditures were $4,763 and $81,076, respectively.
+ 
+Intellectual Property 
+ 
+Our success is dependent, in part, upon our proprietary technology. We generally rely upon patents, trademarks, and trade secret laws to establish and maintain our proprietary rights in our technology products and services.
+ 
+On June 19, 2001, United States Patent Application No. 09/884,787, "Method and Apparatus for Digitally Fingerprinting Videos", was officially filed with the U.S. Patent and Trademark Office. This patent is for "MediaSentinel™". This patent expired in February of 2010. At this time, we have elected not to patent our Cloud-DPS technology.
+ 
+Laws and Regulations
+ 
+Our operations are or may be subject to various federal, provincial, state and local laws, regulations and recommendations relating to the marketing of products and relationships with data protection, intellectual property protection, the export of technology products to certain countries and privacy protection. Although we believe that we are compliance with all federal, provincial, state and local regulations, the risk of claims and actions against us for breach of the aforesaid laws cannot be eliminated completely. In the event of a breach of these laws, we could be held liable for any damages that result. The amount of such damages could have a materially adverse effect on our results of operations and financial condition.
+Employees 
+ 
+We currently have no employees. We engage independent contractors to provide services as necessary. Compensation for current and future work will be conducted on a contract basis. 
+ 
+The loss of the services of any key management could have a materially adverse effect on the Company. We do not maintain key man life insurance on the life of its officers. In addition, our future success will depend in part upon its continuing ability to hire, train, motivate and retain key senior management and skilled technical and marketing personnel. Competition for technical personnel in the industry we compete in is intense. Our future success will depend in part on our continued ability to contract, assimilate and retain qualified personnel. To date, we have had limited success in recruiting qualified contractors, but there is no assurance that we will continue to do so in the future. Attracting qualified expertise is contingent on raising sufficient working capital and project advancement.
+ 
+ 9
+
+
+Oculus' Website
+ 
+Our website address is www.oculusvisiontech.com. Information found on our website is not incorporated by reference into this annual report. We make available free of charge through our website our Securities and Exchange Commission ("SEC"), filings filed pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after it electronically files such material with, or furnish it to, the SEC. We will also make available all financial reports filed in accordance with United States generally accepted accounting principles ("US GAAP") on SEDAR through its website www.sedar.com. We invite investors and interested parties to sign up for "Email Alerts" on our website to receive information such as press releases as they become available.

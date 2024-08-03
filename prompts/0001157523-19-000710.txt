@@ -1,0 +1,149 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview of Company
+ 
+Siebert Financial Corp., a New York corporation, incorporated in 1934, is a holding company that conducts the following lines of business through its wholly-owned subsidiaries:
+ 
+ 
+• | Retail discount brokerage business through Muriel Siebert & Co., Inc. (“MSCO”), a registered broker-dealer;
+--+------------------------------------------------------------------------------------------------------------
+
+
+• | Investment advisory business through Siebert AdvisorNXT, Inc. (“AdvisorNXT”), a Registered Investment Advisor;
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | Insurance services through Park Wilshire Companies Inc. (“PWC”), a licensed insurance agency; and
+--+--------------------------------------------------------------------------------------------------
+
+
+• | Robo-advisory technology development through KCA Technologies, LLC. (“KCAT”).
+--+------------------------------------------------------------------------------
+
+
+
+For purposes of this Annual Report on Form 10-K, the terms “Siebert,” “Company,” “we,” “us” and “our” refer to Siebert Financial Corp., and its subsidiaries collectively, unless the context otherwise requires.
+ 
+Our principal offices are located at 120 Wall Street, New York, New York, 10005, and our phone number is (212) 644-2400. Our Internet address is www.siebertnet.com. Our Securities and Exchange Commission (“SEC”) filings are available through our website at www.siebertnet.com, where investors are able to obtain copies of our public filings free of charge. Our common stock, par value $.01 per share (the “Common Stock”) trades on the Nasdaq Capital Market under the symbol “SIEB.”
+ 
+Business
+ 
+Muriel Siebert & Co., Inc.
+ 
+Discount Brokerage and Related Services. MSCO became a discount broker on May 1, 1975 and is a member of The New York Stock Exchange, Inc. (“NYSE”). In 1998, MSCO began to offer its customers access to their accounts through www.siebertnet.com, its website. MSCO’s focus of its discount brokerage business is to serve retail clients seeking a wide selection of quality investment services, including traditional trading through a broker on the telephone or via the Internet, at commissions that are substantially lower than those of full-commission firms. MSCO clears part of its securities transactions on a fully disclosed basis through its affiliate StockCross Financial Services, Inc. (“StockCross”). MSCO operates on a month-to-month clearing agreement contract with StockCross. MSCO also clears a part of its securities transactions on a fully disclosed basis through National Financial Services Corp. (“NFS”), a wholly-owned subsidiary of Fidelity Investments. MSCO had a clearing agreement contract with NFS set to expire in July 2017 that was extended on a month-to-month basis.
+ 
+MSCO serves customers who generally make their own equity investment decisions and seeks to assist its customers in their investment decisions by offering a number of value added services, including easy access to account information. MSCO’s representatives are available to assist customers Monday through Friday and customers also have 24-hour access to MSCO’s services through wireless devices and over the Internet at www.siebertnet.com.
+ 
+Independent Retail Execution Services. MSCO, and its clearing firms, StockCross and NFS, monitor order flow in an effort to ensure that customers are getting the best possible trade executions. MSCO does not make markets in securities, nor does it take positions against customer orders.
+ 
+MSCO’s equity orders are routed by StockCross and NFS in a manner intended to afford MSCO’s customers the opportunity for price improvement on all orders. MSCO also offers customers execution services through various market centers for an additional fee, providing customers access to numerous market centers before and after regular market hours.
+ 
+Customers may also indicate online interest in buying or selling fixed income securities, including municipal bonds, corporate bonds, mortgage-backed securities, government sponsored enterprises, unit investment trusts or certificates of deposit. These transactions are serviced by MSCO’s registered representatives.
+ 
+Retail Customer Service. MSCO believes that its superior customer service enhances its ability to compete with larger discount brokerage firms and provides retail customers with personal service via toll-free access to dedicated customer service personnel for all of its products and services. Customer service personnel are located in each of MSCO’s offices. MSCO has 12 retail offices and uses a variety of customer relationship management systems that enables representatives, no matter where located, to view a customer’s requests. MSCO’s telephone system permits the automatic routing of calls to the next available qualified agent having the appropriate skill set.
+ 
+ Siebert 2018 Form 10-K 1
+ 
+
+Retirement Accounts. MSCO offers customers a variety of self-directed retirement accounts. Custodial services are provided through StockCross and an affiliate of NFS, the firm’s clearing agents, who also serve as trustees for such accounts. Each IRA, SEP IRA, ROTH IRA, 401(k) and KEOGH account can be invested in mutual funds, stocks, bonds and other investments in a consolidated account.
+ 
+Customer Financing. Customer margin accounts are carried through StockCross and NFS who lend customers a portion of the market value of certain securities held in the customer’s account. Margin loans are collateralized by these securities. Customers also may sell securities short in a margin account, subject to minimum equity and applicable margin requirements, and the availability of such securities to be borrowed. In permitting customers to engage in margin financing, short sale or any other transaction, MSCO assumes the risk of its customers’ failure to meet their obligations in the event of adverse changes in the market value of the securities positions. MSCO, StockCross, and NFS reserve the right to set margin requirements higher than those established by the Federal Reserve System.
+ 
+MSCO has established policies with respect to maximum purchase commitments for new customers or customers with inadequate collateral to support a requested purchase. Managers have some flexibility in the allowance of certain transactions. When transactions occur outside normal guidelines, MSCO monitors accounts closely until their payment obligations are completed; if the customer does not meet the commitment, MSCO takes steps to close out the position and minimize any loss. In the last five years, MSCO has not had any significant losses as a result of customers failing to meet commitments.
+ 
+Information and Communications Systems. MSCO relies heavily on the data technology platform provided by its clearing agents, StockCross and NFS. These platforms offer interfaces to StockCross’ and NFS’ service provider’s mainframe computing system where all customer account records are kept and are accessible through MSCO’s data technology platform. MSCO’s systems also utilize browser-based access and other types of data communications. MSCO’s representatives use NFS systems, by way of MSCO’s data technology platform, to perform daily operational functions which include trade entry, trade reporting, clearing-related activities, risk management and account maintenance.
+ 
+MSCO’s data technology platform offers services used in direct relation to customer activities as well as support for corporate use. Some of these services include email and messaging, market data systems and third party trading systems, business productivity tools and customer relationship management systems. MSCO’s data network is designed with redundancies in case a significant business disruption occurs.
+ 
+MSCO’s voice network offers a call center feature that can route and queue calls for certain departments within the organization. Additionally, the system’s call manager offers reporting and tracking features which enable staff to determine how calls are being managed, such as time on hold, call duration and total calls by agent.
+ 
+To ensure reliability and to conform to regulatory requirements related to business continuity, MSCO maintains backup systems and backup data, leverages cloud-based technology, and has a full-time offsite disaster recovery site to ensure business continuity during a potential wide-spread disruption. However, despite the preventive and protective measures in place, in the event of a wide-spread disruption, MSCO’s ability to satisfy the obligations to customers and other securities firms may be significantly hampered or completely disrupted. For more information regarding our Business Continuity Plan, please review the Business Continuity Statement on our website.
+ 
+Siebert AdvisorNXT, Inc.
+ 
+During the first quarter of 2018, AdvisorNXT started the preliminary rollout of its Robo-Advisor, its proprietary robo-advisory technology which utilizes trading algorithms initially developed by KCAT. The Robo-Advisor will provide clients with cost-efficient, competitively priced, automated wealth management solutions intended to maximize portfolio returns based on their specific risk tolerance. The platform utilizes Nobel Prize-winning Modern Portfolio Theory (“MPT”) to create optimal portfolios for each client. AdvisorNXT will provide web- and smartphone-based tools to enable clients to monitor and interact with the Robo-Advisor’s automated portfolio manager application. In addition, clients who opt for the “Premier” line of service will also have access to traditional wealth managers to supplement the Robo-Advisor where appropriate.
+ 
+MPT was developed by the economist Harry Markowitz and optimizes expected portfolio returns for specific levels of risk. The technique is referred to as Mean Variance Optimization and requires a series of calculations in which all possible combinations of potential asset classes are evaluated to determine the optimal blend of allocations for each individual client. Due to the complexity of the analysis, services like this have historically only been available to clients with large account balances who were willing to pay high fees. By combining state-of-the-art technology with rigorous quantitative research, AdvisorNXT intends to provide the same quality of service to clients with smaller account sizes at a lower cost.
+ 
+ Siebert 2018 Form 10-K 2
+ 
+
+The Robo-Advisor selects low-cost, well-managed, exchange-traded funds (“ETFs”) and exchange-traded notes (“ETNs”) that represent the asset classes that will provide clients the necessary risk-adjusted exposure given current market conditions. In order to determine a client’s risk tolerance, a prospective client answers a series of objective questions posed in the form of an interactive digital interview. Once a client’s risk tolerance is determined, the Robo-Advisor’s algorithm utilizes MPT to create a theoretically optimal allocation across a diverse selection of asset classes, thus tailoring a portfolio to a client’s specific investment objectives and risk tolerance. The Robo-Advisor will continuously monitor and periodically rebalance portfolios to address changes in market and economic conditions. The Robo-Advisor is currently in beta testing with an anticipated full launch by mid-2019.
+Client Service and Support
+ 
+We provide retail customers with personal service via toll-free access to dedicated customer service personnel for all of our products and services. Customer service personnel are located in all of our 12 retail offices across the country.
+ 
+We use a variety of customer relationship management systems and utilize telephone routing systems to direct customers to the first available customer service representative regardless of office location to reduce wait times. We serve our customers through our phone and in-person outlets, and customers can access their account information and retrieve various forms on our website.
+ 
+Cybersecurity
+ 
+Cybersecurity presents significant challenges to the business community in general, as well as to the financial services industry. Increasingly, bad actors, both domestically and internationally, attempt to steal personal data and/or interrupt the normal functioning of businesses through accessing individuals’ and companies’ files and equipment connected to the Internet. Recently, intruders have become increasingly sophisticated and use deceptive methods to steal funds and personally identifiable information which they either take for their own purposes, release to the Internet, or hold for ransom. Regulators are increasingly requiring companies to provide more advanced levels of cybersecurity measures. We continue to maintain systems and ongoing planning measures to prevent any such attack from disrupting our services to clients as well as to prevent any loss of data concerning our clients, their financial affairs, and company-privileged information. We contract cybersecurity consultants as well as other vendors to oversee detection and defense from such attacks. Please see Item 1A. Risk Factors - “We may be exposed to damage to our business or our reputation by cybersecurity breaches” for additional detail.
+Acquisitions
+ 
+KCAT. In August 2018, we acquired all of the issued and outstanding membership interests of KCAT from Kennedy Cabot Acquisition, LLC (“KCA”). KCAT is a technology company initially tasked with developing a sophisticated Robo-Advisor for AdvisorNXT. With the acquisition of KCAT, we expanded our products and services by offering a Robo-Advisor that provides clients with an automated wealth management solution intended to maximize portfolio returns based on a client’s specific risk tolerance. The Robo-Advisor is currently in beta testing with an anticipated full launch by mid-2019.
+ 
+PWC. In March 2018, we acquired all of the issued and outstanding shares of PWC from three related parties. Our acquisition of PWC has expanded our product offering to include various insurance products such as fixed annuities and property and casualty insurance.
+ 
+StockCross Retail Assets. In December 2017, we acquired approximately $4 billion in assets and an experienced nationwide sales force from StockCross (“StockCross Retail Assets”), all of which became part of MSCO. The financial impact from the transaction increased our revenue and net income, and from an operations perspective, we integrated StockCross’ sales force as well as technology and back office functions into MSCO.
+ 
+Key Events
+ 
+Joining Russell 3000. In June 2018, Siebert joined the broad-market Russell 3000® Index. The Russell 3000® Index captures the 4,000 largest U.S. stocks and ranks them by total market capitalization. Russell U.S. indices are widely used by investment managers and institutional investors as the basis for index funds and as benchmarks for active investment strategies. Approximately $9 trillion in assets are benchmarked against Russell U.S. Indices.
+Siebert 2018 Form 10-K 3
+ 
+
+Recent Developments
+ 
+As reported in our Annual Report on Form-10K for the year ended December 31, 2017, we initiated an advertising agreement with Overstock.com, Inc. and its affiliates in February 2018. In January 2019, Siebert’s relationship with Overstock.com, Inc. and its affiliates was terminated.
+Competition
+ 
+We encounter significant competition from full-commission, online and discount brokerage firms, as well as from financial institutions, mutual fund sponsors and other organizations. Although there has been consolidation in the industry in both the online and traditional brokerage business during recent years, we believe that additional competitors such as banks, insurance companies, providers of online financial and information services, and others will continue to be attracted to the brokerage industry. We compete with a wide variety of vendors of financial services for the same customers; however, we believe that our main competitive advantages are high quality customer service, responsiveness, cost and products offered, and excellent executions.
+Regulation
+ 
+The securities industry in the United States (“U.S.”) is subject to extensive regulation under both federal and state laws. The SEC is the federal agency charged with administration of the federal securities laws. MSCO is registered as a broker-dealer with the SEC, and is a member of the NYSE and the Financial Industry Regulatory Authority (“FINRA”). Much of the regulation of broker-dealers has been delegated to self-regulatory organizations (“SROs”), principally FINRA and national securities exchanges such as the NYSE, which is MSCO’s primary regulator with respect to financial and operational compliance. These SROs adopt rules (subject to approval by the SEC) governing the industry and conduct periodic examinations of broker-dealers. Securities firms are also subject to regulation by state securities authorities in the states in which they do business. MSCO is registered as a broker-dealer in 50 states, the District of Columbia, and Puerto Rico. These regulations affect our business operations and impose capital, client protection, and market conduct requirements.
+ 
+As a result of the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010 (“Dodd-Frank”), the adoption of implementing regulations by the federal regulatory agencies as well as other recent regulatory reforms, we have experienced significant changes in the laws and regulations that apply to us, how we are regulated, and regulatory expectations in the areas of compliance, risk management, corporate governance, operations, capital and liquidity.
+ 
+The principal purpose of regulation and discipline of broker-dealers is the protection of customers and the securities markets. The regulations to which broker-dealers are subject cover all aspects of the securities business, including training of personnel, sales methods, trading practices among broker-dealers, uses and safekeeping of customers’ funds and securities, capital structure of securities firms, record keeping, fee arrangements, disclosure to clients, and the conduct of directors, officers and employees. Additional legislation, changes in rules promulgated by the SEC and by SROs or changes in the interpretation or enforcement of existing laws and rules may directly affect the method of operation and profitability of broker-dealers. The SEC, SROs and state securities authorities may conduct administrative proceedings which can result in censure, fine, cease and desist orders or suspension or expulsion of a broker-dealer, its officers or its employees.
+ 
+As a registered broker-dealer and FINRA member organization, MSCO is required by federal law to belong to the Securities Investor Protection Corporation (“SIPC”) which provides, in the event of the liquidation of a broker-dealer, protection for securities held in customer accounts held by the firm of up to $500,000 per customer, subject to a limitation of $250,000 on claims for cash balances. SIPC is principally funded through assessments on registered broker-dealers. In addition, one of MSCO’s clearing firms, NFS, has purchased from private insurers additional account protection in the amount of $1 billion in the event of liquidation up to the net asset value, as defined, of each account. MSCO’s affiliated clearing firm, StockCross, maintains $50 million additional account protection above SIPC coverage. Equities, bonds, mutual funds and money market funds are included at net asset value for purposes of SIPC protection and the additional protection. Neither SIPC protection nor the additional protection insures against fluctuations in the market value of securities.
+ 
+MSCO is also authorized by the Municipal Securities Rulemaking Board (“MSRB”) to affect transactions in municipal securities on behalf of its customers and has obtained certain additional registrations with the SEC and state regulatory agencies necessary to permit it to engage in certain other activities incidental to its brokerage business.
+ 
+Margin lending activities are subject to limitations imposed by regulations of the Federal Reserve System and FINRA. In general, these regulations provide that, in the event of a significant decline in the value of securities collateralizing a margin account, we are required to obtain additional collateral from the borrower or liquidate securities positions. Margin lending arranged by MSCO through third parties is subject to the margin rules of the Board of Governors of the Federal Reserve System and the NYSE. Under such rules, broker-dealers are limited in the amount they may lend in connection with certain purchases and short sales of securities and are also required to impose certain maintenance requirements on the amount of securities and cash held in margin accounts. In addition, those rules and rules of the Chicago Board Options Exchange govern the amount of margin customers must provide and maintain in writing uncovered options.
+ 
+ Siebert 2018 Form 10-K 4
+ 
+
+AdvisorNXT is registered with the SEC as an investment advisor pursuant to the Investment Advisers Act of 1940, as amended (“Advisers Act”). The Advisers Act, together with the SEC’s regulations and interpretations thereunder, is a highly prescriptive regulatory statute. The SEC is authorized to institute proceedings and impose sanctions for violations of the Advisers Act, ranging from fines and censures to termination of an advisor’s registration and, in the case of willful violations, can refer a matter to the Unites States Department of Justice for criminal prosecution.
+ 
+Under the Advisers Act, an investment advisor (whether or not registered under the Advisers Act) owes fiduciary duties to its clients. These duties impose standards, requirements and limitations on, among other things, trading for proprietary, personal and client accounts; allocations of investment opportunities among clients; use of “soft dollar arrangements,” a practice that involves using client brokerage commissions to purchase research or other services that help managers make investment decisions; execution of transactions; and recommendations to clients.
+ 
+As a registered investment advisor (“RIA”), AdvisorNXT is subject to additional requirements that cover, among other things, disclosure of information about its business to clients; maintenance of written policies and procedures; maintenance of extensive books and records; restrictions on the types of fees AdvisorNXT may charge; custody of client assets; client privacy; advertising; and solicitation of clients. The SEC has legal authority to inspect any investment advisor and typically inspects an RIA periodically to determine whether the advisor is conducting its activities in compliance with (i) applicable laws and regulations, (ii) disclosures made to clients and (iii) adequate systems, policies and procedures reasonably designed to prevent and detect violations.
+ 
+Section 28(e) of the Exchange Act provides a “safe harbor” to investment managers who use commission dollars generated by their advised accounts to obtain investment research and brokerage services that provide lawful and appropriate assistance to the manager in the performance of investment decision-making responsibilities. AdvisorNXT, as a matter of policy, does not use “soft dollars” and as such, it has no incentive to select or recommend a broker or dealer based on any interest in receiving research or related services. Rather, as a fiduciary, AdvisorNXT selects brokers based on its clients’ interests in receiving best execution.
+ 
+AdvisorNXT conducts financial services activities that are subject to the Bank Secrecy Act of 1970 (“BSA”), as amended by the USA PATRIOT Act of 2001 (“PATRIOT Act”), which require financial institutions to develop and implement programs reasonably designed to achieve compliance with these regulations. The BSA and PATRIOT Act include a variety of monitoring, recordkeeping and reporting requirements (such as currency transaction reporting and suspicious activity reporting) as well as identity verification and client due diligence requirements, which are intended to detect, report and/or prevent money laundering, and the financing of terrorism. In addition, AdvisorNXT is subject to U.S. sanctions programs administered by the Office of Foreign Assets Control.
+ 
+Net Capital and Best Execution
+ 
+As a registered broker-dealer, MSCO is subject to the requirements of the Exchange Act relating to broker-dealers, including, among other things, minimum net capital requirements under the SEC Uniform Net Capital Rule (Rule 15c3-1), “best execution” requirements for client trades under SEC guidelines and FINRA rules and segregation of fully paid client funds and securities under the SEC Customer Protection Rule (Rule 15c3-3), administered by the SEC and FINRA.
+ 
+Net capital rules are designed to protect clients, counterparties and creditors by requiring a broker-dealer to have sufficient liquid resources available to satisfy its financial obligations. Net capital is a measure of a broker-dealer’s readily available liquid assets, reduced by its total liabilities other than approved subordinated debt. Under the SEC Uniform Net Capital Rule, a broker-dealer may not repay any subordinated borrowings, pay cash dividends or make any unsecured advances or loans to its parent company or employees if such payment would result in a net capital amount below required levels. Failure to maintain the required regulatory net capital may subject a firm to suspension or expulsion by the NYSE or FINRA, as well as certain punitive actions by the SEC and other regulatory bodies, which ultimately could require a firm’s liquidation.
+ 
+Under applicable regulations, MSCO is required to maintain regulatory net capital of at least $250,000. As of December 31, 2018 and December 31, 2017, MSCO had net capital of approximately $8.9 million and $4.4 million, respectively.
+ 
+As explained in SEC guidelines and FINRA rules, brokers are required to seek the “best execution” reasonably available for their clients’ orders. In part, this requires brokers to use reasonable diligence so that the price to the client is as favorable as possible under prevailing market conditions. MSCO sends client orders to a number of market centers, including market makers and exchanges, which encourages competition and ensures redundancy. For non-directed client orders, it is our policy to route orders to market centers based on a number of factors that are more fully discussed in the Supplemental Materials of FINRA Rule 5310, including, where applicable, but not necessarily limited to, speed of execution, price improvement opportunities, differences in price disimprovement, likelihood of executions, the marketability of the order, size guarantees, service levels and support, the reliability of order handling systems, client needs and expectations, transaction costs, and whether the firm will receive remuneration for routing order flow to such market centers. Price improvement is available under certain market conditions and for certain order types and MSCO regularly monitors executions to test for such improvement if available.
+ 
+ Siebert 2018 Form 10-K 5
+ 
+
+Employees
+ As of March 26, 2019, we had 76 employees, one of whom was a corporate officer. None of our employees are represented by a union, and we believe that relations with our employees are good.
+Historical Development
+ 
+Change in Control. In December 2016, pursuant to the terms of an acquisition agreement, dated September 1, 2016 (the “Acquisition Agreement”), by and among the Company, KCA, a Nevada limited liability company and the Estate of Muriel F. Siebert (the “Majority Shareholder”), KCA acquired 677,283 shares of Common Stock in a cash tender offer (the “Tender Offer Shares”) and 19,310,000 shares of Common Stock owned by the Majority Shareholder (the “Majority Shares”). As a result of the acquisition of the Tender Offer Shares and Majority Shares, effective December 16, 2016, KCA became the owner of 19,987,283 shares of Common Stock representing approximately 90% of the Company’s outstanding Common Stock. Please see Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters for updated share amounts as of March 26, 2019.
+Siebert 2018 Form 10-K 6
+ 
+
