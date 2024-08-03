@@ -1,0 +1,149 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. 
+Business. 
+ Ceridian HCM Holding Inc. was incorporated in Delaware on July 3, 2013. On April 30, 2018, we completed our initial public offering (“IPO”), in which we issued and sold 24,150,000 shares of common stock at a public offering price of $22.00 per share. Concurrently with our IPO, we issued an additional 4,545,455 shares of our common stock in a private placement at $22.00 per share. Contemporaneously with our IPO, we distributed our controlling financial interest in LifeWorks Corporation Ltd (“LifeWorks”) to our stockholders of record prior to the IPO on a pro rata basis in accordance with their pro rata interests in us.
+ Following our IPO, we remain a controlled company by our financial sponsors: affiliates and co-investors of Thomas H. Lee Partners, L.P. (“THL”) and Cannae Holdings, Inc. (“Cannae”).  Collectively, THL and Cannae are referred to as our “Sponsors.”  
+ Overview 
+ Ceridian is a global human capital management (“HCM”) software company. Dayforce, our flagship cloud HCM platform, provides human resources (“HR”), payroll, benefits, workforce management, and talent management functionality. In addition to Dayforce, we sell Powerpay, a cloud HR and payroll solution for the Canadian small business market, through both direct sales and established partner channels. We also continue to support customers using our Bureau solutions, which we generally stopped actively selling to new customers in 2012, following the acquisition of Dayforce. We invest in maintenance and necessary updates to support our Bureau customers and continue to migrate them to Dayforce. 
+Products and Services
+ Dayforce
+ Dayforce, our principle cloud HCM platform, is a single application that provides continuous real-time calculations across all modules to enable, for example, payroll administrators access to data through the entire pay period, and managers access to real-time data to optimize work schedules.  Dayforce offers a comprehensive range of functionality, including global HR, payroll, benefits, workforce management, and talent management on web and native iOS and Android platforms.  Our Dayforce mobile app enables employees not only to request and to trade schedules, but also to see the real-time impact of schedule changes on their pay.  Our Dayforce platform is used by organizations, regardless of industry or size, to optimize management of the entire employee lifecycle, including attracting, engaging, paying, deploying, and developing their people. Key functionality of our Dayforce platform includes HR, payroll and tax, benefits, workforce management, and talent management. 
+Human Resources
+ Dayforce Human Resources functionality provides customers with a single, complete record for all employees. Our HR functionality is centered on a comprehensive, flexible workflow engine that streamlines and automates administrative tasks.
+Payroll and Tax
+ Our payroll capabilities provide customers with the tools needed to accurately and compliantly manage their payroll processes. Through our Dayforce platform, users in the United States, Canada, and the United Kingdom are able to make updates to time and pay in real-time. In countries where we do not currently offer localized payroll, Dayforce ConnectedPay provides payroll aggregation features that allow an organization to have a centralized view of their global payroll. ConnectedPay automates the data exchange with in-country payroll providers and provides a consistent self-service experience for employees to view earnings statements and associated payroll documentation.  Dayforce calculates, withholds, and files payroll related taxes in the United States and Canada as part of our localized payroll offering.
+ 2
+ 
+
+Benefits
+ Dayforce Benefits assists users from benefits enrollment to ongoing benefits administration, including eligibility, open enrollment and Affordable Care Act (“ACA”) management.
+ Workforce Management
+ Dayforce Workforce Management provides functionality to help organizations manage their workforces, improve operational efficiency, and enhance compliance by configuring the system to meet complex labor and employment rules and policies.  Through Dayforce, users are offered absence management, time and attendance, schedule, and labor planning.  
+Talent Management
+ Dayforce Talent Management enables organizations to attract, to engage, to develop, and to motivate their workforce.  Users can leverage tools for recruiting, onboarding, performance, succession planning, compensation management, and employee learning.  
+Powerpay 
+ We offer Powerpay for Canadian organizations with fewer than 100 employees. Powerpay is a cloud platform that provides scalable and straightforward payroll and HR solutions. Specifically designed for small businesses, Powerpay enables clients to pay their employees accurately and on-time. As of December 31, 2018, Powerpay had over 38,000 customer accounts. 
+Bureau 
+ Our Bureau solutions offer payroll and payroll-related services using legacy technology. We invest in maintenance and necessary updates to support our Bureau customers. We generally stopped selling our Bureau solutions to new customers in the United States in 2012 and in Canada in 2015, and continue to convert Bureau customers to our Dayforce platform. 
+ Revenue by Product and Service 
+ For a quantitative discussion of our revenue by solution, please refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-K.  
+ Customers 
+ Dayforce is designed to serve organizations with 100 to over 100,000 employees. The Dayforce customer base has increased from 482 as of December 31, 2012 to 3,718 customers live on the platform as of December 31, 2018. In addition, we had over 450 net new Dayforce customers contracted, but not yet live on Dayforce as of December 31, 2018. We expect the majority of these Dayforce customers to be taken live in 2019. For 2018, our 3,718 live Dayforce customers represented over 3.1 million active users. We define a customer as a single organization, such as a company, a non-profit association, an educational institution, or government entity. We also have over 38,000 Powerpay customer accounts. No single customer accounted for more than 1% of our revenues during the year ended December 31, 2018.
+Sales and Marketing 
+ We sell our Cloud solutions through a direct sales force and a variety of third party channels, organized by customer size and geography. We market Dayforce to organizations with more than 100 employees. We market Powerpay to organizations with fewer than 100 employees in Canada. The majority of our revenue growth comes from new customers, but we also have a small, dedicated account management team focused on serving the needs of our Bureau customers and helping them to migrate to our Dayforce platform. 
+ 3
+ 
+
+Implementation and Professional Services
+ Our internal implementation team leverages proprietary onboarding technology for new customer activation and professional services work.  Our internal team is supplemented by a small number of third party services partners.  Our implementation services include solution configuration and activation for new customers.  Professional services include add-on implementation services for existing customer, ongoing product configuration changes when the customer does not have the resources to do it themselves, product usage consulting and a variety of additional services, such as report writing, usage audits, and process improvement.  
+Customer Support 
+ Our global customer support organization provides 24/7 application support from offices across North America and in the United Kingdom, Mauritius, and Australia.  Our support function is organized into specialized pods of approximately 18 representatives with deep domain expertise across our platform.  These pods are grouped by customer and product type to provide a combination of deep product knowledge, consistent relationships, and high availability.  
+ Technology, Hosting, and Research and Development (“R&D”)
+Technology and innovation are at the core of Ceridian. Our innovation and development process is customer-driven. We work directly with customers to understand their needs and to deliver solutions that address their challenges through the lens of the entire user experience, without being constrained by individual modules or applications. 
+ Our R&D team is responsible for the design, development, and testing of our applications. We believe that our modern cloud technology stack, agile design and development methodology, and efficient software deployment process enable us to innovate quickly in resp
+onse to industry trends. We host Dayforce and Powerpay applications and serve all of our customers from data centers operated by third party providers, primarily NaviSite, in Boston, Massachusetts; Redhill, England; Santa Clara, California; Toronto, Canada; Vancouver, Canada; and Woking, England. We also host Dayforce Australia in Microsoft Azure in Melbourne, Australia and Sydney, Australia. While we control and have access to our servers and all of the components of our network that are located in our external data centers, we do not control the operation of these facilities. Additionally, we host our internal systems through data centers that we operate and lease or own in Atlanta, Georgia; Fountain Valley, California; Louisville, Kentucky; St. Petersburg, Florida; and Winnipeg, Canada. 
+ Competition 
+ The market for HCM technology solutions is rapidly changing, with legacy service bureau and on-premise software providers facing increased competition from emerging cloud players. We currently compete with firms that provide both integrated and point solutions for HCM. Legacy payroll service providers, such as Automatic Data Processing (“ADP”), provide HCM solutions primarily through service bureau models. These vendors often have more in-house resources, greater name recognition, and longer operating histories than Dayforce and may seek to expand their cloud offerings through acquisition or organic product development. We also compete with cloud-enabled client-server HCM providers, such as The Ultimate Software Group, Inc. (“Ultimate Software”). These companies, whose products were developed over 20 years ago as on-premise solutions, have modified and redeployed their platforms as hybrid software as a service (“SaaS”) offerings. This has allowed them to transition their business model to offer hosted and cloud solutions, resulting in significantly larger customer bases. More recently, we face competition from modern HCM providers, such as Workday, Inc. (“Workday”), whose solutions have been specifically built as single application platforms in the cloud. In addition, we also face competition from large, long-established enterprise application software vendors, such as Oracle Corporation (“Oracle”) and SAP SE (“SAP”). These companies are seeking to expand their cloud offerings through both acquisition and internal development efforts. We also compete with point solutions, such as Kronos Incorporated (“Kronos”) for workforce management and Cornerstone OnDemand Inc. (“Cornerstone OnDemand”) for talent management. 
+ 4
+ 
+
+We believe the principal competitive factors in our market include the following: 
+  
+(i) | Breadth and depth of product functionality;
+----+--------------------------------------------
+
+
+(ii) | Scalability and reliability of applications;
+-----+---------------------------------------------
+
+
+(iii) | Robust workforce management;
+------+-----------------------------
+
+
+(iv) | Comprehensive tax services;
+-----+----------------------------
+
+
+(v) | Modern and intuitive technology and user experience;
+----+-----------------------------------------------------
+
+
+(vi) | Multi-country and jurisdiction domain expertise in payroll and HCM;
+-----+--------------------------------------------------------------------
+
+
+(vii) | Quality of implementation and customer service;
+------+------------------------------------------------
+
+
+(viii) | Integration with a wide variety of third party applications and systems;
+-------+-------------------------------------------------------------------------
+
+
+(ix) | Total cost of ownership and ROI;
+-----+---------------------------------
+
+
+(x) | Brand awareness and reputation;
+----+--------------------------------
+
+
+(xi) | Pricing; and
+-----+-------------
+
+
+(xii) | Distribution.
+------+--------------
+
+Employees and Culture 
+ As of December 31, 2018, we had 4,444 active employees, including 3,759 in North America, Europe, and Australia, and 685 in Mauritius. We also engage temporary employees and consultants when needed to enhance our workforce. None of our employees are represented by a labor union, and we have never experienced any work stoppages. 
+ Ceridian believes in diversity and equality for all people and fosters a culture that engages and celebrates our employees. In 2018, we were recognized with over 20 awards related to our company culture and workplace experiences, including Glassdoor Employees’ Choice Awards for 2018 Best Places to Work (Canada and United States), Best Workplaces certification (Canada and United States), Brandon Hall’s Excellence in Talent Management Award for Best Advance in High Potential Development, and 2018 Working Mother 100 Best Companies. 
+ Intellectual Property 
+ Our success depends, in part, on our ability to protect our proprietary technology and intellectual property. We rely on a combination of copyrights, trade secrets, and trademarks, as well as confidentiality and nondisclosure agreements and other contractual protections, to establish and to safeguard our intellectual property rights. 
+Backlog and Seasonality
+ For a discussion of backlog and seasonality, please refer to Part II, Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-K.  
+Available Information 
+ Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements, and amendments to reports and any registration statements filed or furnished pursuant to Sections 13(a), 14 and 15(d) of the Exchange Act are electronically filed with the Securities and Exchange Commission (“SEC”).  The SEC maintains a website that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. These materials may be obtained electronically by accessing the SEC’s website at http://www.sec.gov.  
+ 5
+ 
+
+We make available, free of charge on our website at http://investors.ceridian.com, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements, Section 16 reports, amendments to those reports, and other documents filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.   In addition, the following governance materials are available on our website at https://investors.ceridian.com/corporate-governance/governance-documents: (i) our current charter and bylaws; (ii) charters of our Audit, Corporate Governance and Nominating Committees of our Board of Directors (our “Board”); (iii) our Corporate Governance Guidelines; and (iv) our Code of Conduct, as well as any waivers from and amendments to our Code of Conduct.  Our corporate website address is http://www.ceridian.com. Our website and the information contained on, or that can be accessed through, the website is not deemed to be incorporated by reference into, and should not be considered part of, this Form 10-K.
+ Executive Officers
+ The following table sets forth the names and ages, as of February 15, 2019, and titles of the individuals who serve as our executive officers.  Certain biographical information with respect to those executive officers follows the table. 
+
+Name | Age | Position 
+---------------------+-----+------------------------------------------------------------------
+David D. Ossip | 52 | Chairman and Chief Executive Officer 
+Leagh E. Turner | 47 | President 
+Paul D. Elliott | 53 | Chief Operating Officer 
+Arthur Gitajn | 66 | Executive Vice President and Chief Financial Officer 
+Ozzie J. Goldschmied | 41 | Executive Vice President and Chief Technology Officer 
+Scott A. Kitching | 49 | Executive Vice President, General Counsel and Assistant Secretary
+Lisa M. Sterling | 46 | Executive Vice President and Chief People and Culture Officer 
+Erik J. Zimmer | 44 | Executive Vice President and Chief Strategy Officer 
+
+David D. Ossip 
+ Mr. Ossip is our Chairman and Chief Executive Officer, positions he has held since August 2015 and July 2013, respectively. Mr. Ossip joined the Company following the Company’s acquisition of Dayforce Corporation in 2012, where he held the position of chief executive officer. Mr. Ossip is currently a director for Ossip Consulting Inc. and OSDAC Corp. 
+Leagh E. Turner
+ Ms. Turner has served as our President since August 2018. Prior to joining the Company, Ms. Turner held the position of global chief operating officer, strategic customer program of SAP from October 2016 to August 2018. In addition, Ms. Turner held the positions of acting chief operating officer of SAP Europe, Middle East, and Africa region from March 2017 to August 2017, acting president of SAP Canada Inc. from August 2015 to January 2016, chief operating officer of SAP Canada Inc. from February 2014 to October 2016, and vice president, sales central region of SAP Canada Inc. from July 2010 to February 2014.
+Paul D. Elliott 
+ Mr. Elliott is our Chief Operating Officer, a position he has held since April 2016. Additionally, Mr. Elliott served as our President from April 2016 until August 2018. Prior to that, Mr. Elliott held the position of chief operating officer at two of our affiliate companies, first at Ceridian Canada where Mr. Elliott held the position from August 2009 to February 2013, and then at Ceridian HCM, Inc., where Mr. Elliott held the position from March 2013 to March 2016. 
+Arthur Gitajn 
+ Mr. Gitajn is our Executive Vice President and Chief Financial Officer, positions he has held since October 2016. Prior to joining us, Mr. Gitajn held the position of chief financial officer for SAP Canada Inc. from July 2007 to January 2012 and from January 2015 to September 2016, and the position of chief financial officer of SAP’s Europe, Middle East, and Africa region from February 2012 to December 2014. 
+ 6
+ 
+
+Ozzie J. Goldschmied 
+ Mr. Goldschmied is our Executive Vice President and Chief Technology Officer, positions he has held since October 2014. Mr. Goldschmied previously served as our senior vice president of research and development from February 2012 to September 2014. Mr. Goldschmied joined the Company following the Company’s acquisition of Dayforce Corporation in 2012, where he held the position of senior vice president of engineering. 
+Scott A. Kitching 
+ Mr. Kitching is our Executive Vice President, a position he has held since February 2016, and General Counsel and Assistant Secretary, positions he has held since December 2013. Prior to that time, Mr. Kitching held the position of executive vice president and general counsel at our affiliate subsidiary Ceridian Canada from May 2003 to December 2013. 
+Lisa M. Sterling 
+ Ms. Sterling is our Executive Vice President and Chief People and Culture Officer, positions she has held since March 2016. Ms. Sterling previously served as our vice president of product strategy from June 2015 to March 2016. Prior to joining us, Ms. Sterling was a partner and talent technology solutions leader at Mercer LLC from March 2013 to May 2015. Prior to that, Ms. Sterling served as the head of people engagement for Ultimate Software from February 2010 to March 2013. 
+Erik J. Zimmer
+ Mr. Zimmer is our Executive Vice President and Chief Strategy Officer, positions he has held since August 2018. Mr. Zimmer previously served as a managing director of Thomas H. Lee Partners, L.P. from February 2011 to August 2018.
+
+7
+ 
+
