@@ -1,0 +1,218 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ ITEM 1.  BUSINESS
+  
+  OVERVIEW
+  
+ Crexendo, Inc. is a next-generation CLEC and an award-winning leader and provider of unified communications cloud telecom services, broadband Internet services, and other cloud business services that are designed to provide enterprise-class cloud services to any size business at affordable monthly rates. The Company has two operating segments, which consist of Cloud Telecommunications and Web Services.
+  
+ Cloud Telecommunications - Our cloud telecommunications services transmit calls using IP or cloud technology, which converts voice signals into digital data packets for transmission over the Internet or cloud. Each of our calling plans provides a number of basic features typically offered by traditional telephone service providers, plus a wide range of enhanced features that we believe offer an attractive value proposition to our customers. This platform enables a user, via a single “identity” or telephone number, to access and utilize services and features regardless of how the user is connected to the Internet or cloud, whether it’s from a desktop device or a mobile device.
+  
+ We generate recurring revenue from our cloud telecommunications and broadband Internet services. Our cloud telecommunications contracts typically have a thirty-six to sixty month term. We generate product revenue and equipment financing revenue from the sale and lease of our cloud telecommunications equipment. Revenues from the sale of equipment, including those from sales-type leases, are recognized at the time of sale or at the inception of the lease, as appropriate.
+  
+ Web Services - We generate recurring revenue from website hosting and other professional services.
+  
+ 
+  OUR SERVICES AND PRODUCTS
+  
+ Our goal is to provide a broad range of cloud-based products and services that nearly eliminate the cost of a businesses’ technology infrastructure and enable businesses of any size to more efficiently run their business. By providing a variety of comprehensive and scalable solutions, we are able to cater to businesses of all sizes on a monthly subscription basis without the need for expensive capital investments, regardless of where their business is in its lifecycle. Our products and services can be categorized in the following offerings:
+  
+ Cloud Telecommunications Services - Our cloud telecommunications service offering includes hardware, software, and unified communication solutions for businesses using IP or cloud technology over any high-speed internet connection. These services are rendered through a variety of devices and user interfaces such as a Crexendo branded desktop phones and/or mobile and desktop applications. Some examples of mobile devices are Android cell phones, iPhones, iPads or Android tablets. These services enable our customers to seamlessly communicate with others through phone calls that originate/terminate on our network or PSTN networks. Our cloud telecommunications services are powered by our proprietary implementation of standards based Web and VoIP cloud technologies. Our services use our highly scalable complex infrastructure that we build and manage based on industry standard best practices to achieve greater efficiencies, better quality of service (QoS) and customer satisfaction. Our infrastructure comprises of compute, storage, network technologies, 3rd party products and vendor relationships. We also develop end user portals for account management, license management, billing and customer support and adopt other cloud technologies through our partnerships.
+  
+   
+1
+
+
+  
+ 
+ Crexendo’s cloud telecommunication service offers a wide variety of essential and advanced features for businesses of all sizes. Many of these features included in the service offering are:
+  
+   ●
+ Business Productivity Features such as dial-by extension and name, transfer, conference, call recording, Unlimited calling to anywhere in the US and Canada, International calling, Toll free (Inbound and Outbound)
+
+
+   ●
+ Individual Productivity Features such as Caller ID, Call Waiting, Last Call Return, Call Recording, Music/Message-On-Hold, Voicemail, Unified Messaging, Hot-Desking
+
+
+   ●
+ Group Productivity Features such as Call Park, Call Pickup, Interactive Voice Response (IVR), Individual and Universal Paging, Corporate Directory, Multi-Party Conferencing, Group Mailboxes, Web and mobile devices based collaboration applications
+
+
+   ●
+ Call Center Features such as Automated Call Distribution (ACD), Call Monitor, Whisper and Barge, Automatic Call Recording, One way call recording, Analytics
+
+
+   ●
+ Advanced Unified Communication Features such as Find-Me-Follow-Me, Sequential Ring and Simultaneous Ring, Voicemail transcription
+
+
+   ●
+ Mobile Features such as extension dialing, transfer and conference and seamless hand-off from WiFi to/from 3G and 4G, LTE, as well as other data services. These features are also available on CrexMo, an intelligent mobile application for iPhones and Android smartphones, as well as iPads and Android tablets
+
+
+   ●
+ Traditional PBX Features such as Busy Lamp Fields, System Hold. 16-48 Port density Analog Devices
+
+
+   ●
+ Expanded Desktop Device Selection such as Entry Level Phone, Executive Desktop, DECT Phone for roaming users
+
+
+   ●
+ Advanced Faxing solution such as Cloud Fax (cFax) allowing customers to send and receive Faxes from their Email Clients, Mobile Phones and Desktops without having to use a Fax Machine simply by attaching a file
+
+
+   ●
+ Web based online portal to administer, manage and provision the system.
+
+
+   ●
+ Asynchronous communication tools like SMS/MMS, chat and document sharing to keep in pace with emerging communication trends.
+
+ 
+ Many of these services are included in our basic offering to our customers for a monthly recurring fee and do not require a capital expense. Some of the advanced features such as Automatic Call Recording and Call Center Features require additional monthly fees. Crexendo continues to invest and develop its technology and CPaaS offerings to make them more competitive and profitable.
+  
+ Website Services - Our website services segment allows businesses to host their websites in our data center for a recurring monthly fee.
+  
+  SEGMENT INFORMATION
+ 
+ The Company has two operating segments, which consist of Cloud Telecommunications and Web Services. Segment revenue and income (loss) before income tax provision was as follows (in thousands):
+
+ | Year Ended December 31,
+-------------------------+------------------------
+ | | 2017 
+ | 2018 | As Adjusted
+Revenue: | | 
+Cloud Telecommunications | $11,083 | $9,141 
+Web Services | 825 | 1,046 
+Consolidated revenue | $11,908 | $10,187 
+
+
+   
+   
+2
+
+
+  
+
+ 
+ | Year Ended December 31,
+-------------------------------------------+------------------------
+ | | 2017 
+ | 2018 | As Adjusted
+Income/(loss) before income tax provision: | | 
+Cloud Telecommunications | $(608) | $(1,422) 
+Web Services | 400 | 500 
+Loss before income tax | $(208) | $(922) 
+
+ TECHNOLOGY
+  
+ We believe our proprietary implementation of standard Web, IP, Cloud, Mobile and Internet technologies represent a key component of our business model. We believe these technologies and how we deliver them to our customers distinguish our services and products from the services and products offered by our competitors. Our technology infrastructure and virtual network operation center, all of which is built and managed on industry standard computers, storage, network, data and platforms offers us greater efficiencies while maintaining scalability and redundancy. The synergies between Web and Telecommunication protocols such as TCP/IP, HTTP, XML, SIP and innovations in computing, load balancing, redundancy and high availability of Web and Telecommunications technologies offers us a unique advantage in delivering these services to our customers seamlessly from our data center.
+  
+ Our Cloud Telecommunications technology is continuously being enhanced with additional features and software functionality. Our current functionality includes:
+  
+   ●
+ High-end desktop telephony devices such as Gigabit, PoE, 6 Line Color Phone with 10 programmable buttons and lower end Monochrome 2 Line wall mountable device;
+
+   ●
+ Basic Business Telephony Features such as those offered in a traditional private branch exchange (“PBX”) systems like extension dialing, Direct Inward Dialing (DID), Hold/Resume, Music-On-Hold, Call Transfer (Attended and Unattended), Conferencing, Local, Long Distance, Toll-Free and International Dialing, Voicemail, Auto-Attendant and traditional faxing;
+
+   ●
+ Advanced telephony features such as Call Park, Call Pickup, Paging (through the phones), Overhead paging, Call Recording;
+
+   ●
+ Call Center Functionality such as Agent Log In/Log Out, Whisper, Barge and Call center reporting;
+
+   ●
+ Unified Communications features like Simultaneous Ring, Sequential Ring, Status based Routing (Find-Me-Follow-Me), 10-party instant conference, and Mobile application (CrexMo);
+
+   ●
+ Crexendo Mobile Application (CrexMo), which allows users to place and receive extension calls using Crexendo’s network, transfer and conference other users right from their mobile device as if they were in the office. It also provided users instant access to visual voicemail and call logs;
+
+   ●
+ End User Portal and Unified Messaging with Voicemail, Call Recording and eFax inbox.
+
+   ●
+ Collaboration products like group chat, SMS/MMS, document sharing, video and web conferencing
+
+ 
+ Our website software platform is continuously being enhanced and is an innovative website-building environment. We continue to invest and develop on our Web platform to make it more easy-to-use, enable larger mobile and 3rd party integration features thus enabling our web customers to drive more traffic to their web-sites.
+ RESEARCH AND DEVELOPMENT
+ 
+ We invested $801,000 and $750,000 for the years ended December 31, 2018 and 2017, respectively, in the research and development of our technologies and data center. The majority of these expenditures were for enhancements to our cloud telecommunications products and services and website development software.
+  
+   
+3
+
+
+  
+
+  COMPETITION
+  
+ The market for cloud business communications services is large and increasingly competitive. We expect competition to continue to increase in the future. Some of these competitors include:
+ 
+   ●
+ traditional on-premise, hardware business communications providers such as Alcatel-Lucent Enterprise, Avaya Inc., Cisco Systems, Inc., Mitel, and Siemens Enterprise Networks, LLC, any of which may now or in the future also host their solutions through the cloud;
+
+   ●
+ software providers such as Microsoft Corporation (Microsoft Teams (formerly Skype for Business)) and BroadSoft, Inc. (acquired by Cisco Systems, Inc.) that generally license their software and may now or in the future also host their solutions through the cloud, and their resellers including major carriers and cable companies;
+
+   ●
+ established communications providers that resell on-premise hardware, software, and hosted solutions, such as AT&T, Verizon Communications Inc., and Comcast Corporation in the United States, TELUS and others in Canada, and BT, Vodafone, and others in the U.K., all of whom have significantly greater resources than us and do now or may in the future also develop and/or host their own or other solutions through the cloud;
+
+   ●
+ other cloud companies such as 8x8, Inc., RingCentral, Inc., Amazon.com, Inc., DialPad, Inc., Fusion, Fuze (formerly Thinking Phone Networks), StarBlue (merger of Star2Star and BlueFace), Intermedia.net, Inc., J2 Global, Inc., Jive Communications, Inc. (acquired by LogMeIn, Inc.), Microsoft Corporation (Microsoft Teams (formerly Skype for Business)), Mitel, Nextiva, Inc., Slack Technologies, Inc., Vonage Holdings Corp., and West Corporation;
+
+   ●
+ other large internet companies such as Alphabet Inc., Facebook, Inc., Oracle Corporation, and Salesforce.com, Inc., any of which might launch its own cloud-based business communication services or acquire other cloud-based business communications companies in the future; and
+
+   ●
+ established contact center providers such as Amazon.com, Inc., Aspect Software, Inc., Avaya Inc., Five9, Inc., Genesys Telecommunications Laboratories, Inc., and NewVoiceMedia.
+
+ 
+ Additionally, should we determine to pursue acquisition opportunities, we may compete with other companies with similar growth strategies. Some of these competitors may be larger and have greater financial resources than we do. Competition for these acquisition targets could also result in increased prices of acquisition targets and a diminished pool of companies available for acquisition.
+  
+ There are relatively low barriers to entry into our business. Our proprietary technology does not preclude or inhibit competitors from entering our markets. In particular, we anticipate new entrants will attempt to develop competing products and services or new forums for conducting e-commerce and telecommunications services which could be deemed competition. Additionally, if telecommunications service providers with more resources and name recognition were to enter our markets, they may redefine our industry and make it difficult for us to compete.
+ 
+ Expected technology advances associated with the Cloud, increasing use of the Cloud, and new software products are welcome advancements that we believe will broaden the Cloud’s viability. We anticipate that we can compete successfully by relying on our infrastructure, marketing strategies and techniques, systems and procedures, and by adding additional products and services in the future. We believe we can continue the operation of our business by periodic review and revision to our product offerings and marketing approach.
+  
+  INTELLECTUAL PROPERTY
+  
+ Our success depends in part on using and protecting our proprietary technology and other intellectual property. Furthermore, we must conduct our operations without infringing on the proprietary rights of third parties. We also rely upon trade secrets and the know-how and expertise of our key employees. To protect our proprietary technology and other intellectual property, we rely on a combination of the protections provided by applicable copyright, trademark and trade secret laws, as well as confidentiality procedures and licensing arrangements. Although we believe we have taken appropriate steps to protect our intellectual property rights, including requiring employees and third parties who are granted access to our intellectual property to enter into confidentiality agreements, these measures may not be sufficient to protect our rights against third parties. Others may independently develop or otherwise acquire unpatented technologies or products similar or superior to ours.
+  
+ We license from third parties certain software and Internet tools which we include in our services and products. If any of these licenses were terminated, we could be required to seek licenses for similar software and Internet tools from other third parties or develop these tools internally. We may not be able to obtain such licenses or develop such tools in a timely fashion, on acceptable terms, or at all.
+  
+   
+4
+
+
+  
+ 
+ Companies participating in the software, Internet technology, and telecommunication industries are frequently involved in disputes relating to intellectual property. We may be required to defend our intellectual property rights against infringement, duplication, discovery and misappropriation by third parties or to defend against third-party claims of infringement. Likewise, disputes may arise in the future with respect to ownership of technology developed by employees who were previously employed by other companies. Any such litigation or disputes could be costly and divert our attention from our business. An adverse determination could subject us to significant liabilities to third parties, require us to seek licenses from, or pay royalties to, third parties, or require us to develop appropriate alternative technology. Some or all of these licenses may not be available to us on acceptable terms, or at all. In addition, we may be unable to develop alternate technology at an acceptable price, or at all. Any of these events could have a material adverse effect on our business prospects, financial position, or results of operations.
+  
+  EMPLOYEES
+  
+ As of December 31, 2018, we had 56 employees; 54 full-time and 2 part-time, including 3 executives, 16 sales representatives and sales management, 9 engineers and IT support, 20 in operations and customer support, 8 in accounting, finance, and legal.
+CORPORATE INFORMATION
+ 
+ Crexendo, Inc. was incorporated as a Nevada corporation under the name “Netgateway, Inc.” on April 13, 1995. In November 1999, we were reincorporated under the laws of Delaware. In July 2002, we changed our corporate name to “iMergent, Inc.” In May 2011, our stockholders approved an amendment to our Certificate of Incorporation to change our name from "iMergent, Inc." to "Crexendo, Inc." The name change was effective May 18, 2011. Our ticker symbol "IIG" on the New York Stock Exchange was changed to “EXE” on May 18, 2011. We changed the name to better reflect the scope and direction of our business activities of assisting and providing web-based technology solutions to any size business who are seeking to take advantage of the benefits of conducting business on the cloud. On January 13, 2015, the Company moved to the OTCQX Marketplace and our ticker symbol was changed to “CXDO”. In November 2016, we were reincorporated as a Nevada corporation.
+  
+ We are headquartered at 1615 South 52nd Street, Tempe, AZ, 85281, and our telephone number is (602) 714-8500. Our website is www.crexendo.com. Our website and the information contained therein or connected thereto shall not be deemed to be incorporated into this Annual Report.
+  
+ We make available free of charge on or through our Internet website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities Exchange and Commission (“SEC”).
+  
+ You may read and copy this Annual Report at the SEC’s public reference room at 450 Fifth Street, NW, Washington D.C. 20549. Information on the operation of the public reference room can be obtained by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding our filings at www.sec.gov.
+  
+  GOVERNMENTAL REGULATION
+  
+ As a provider of Internet communications services, we are subject to regulation in the U.S. by the FCC. Some of these regulatory obligations include contributing to the Federal Universal Service Fund, Telecommunications Relay Service Fund and federal programs related to number administration; providing access to E-911 services; protecting customer information; and porting phone numbers upon a valid customer request. We are also required to pay state and local 911 fees and contribute to state universal service funds in those states that assess Internet voice communications services. We are a competitive local exchange carrier (CLEC) in forty-seven states. We are subject to the same FCC regulations applicable to telecommunications companies, as well as regulation by the public utility commission in these states. Specific regulations vary on a state-by-state basis, but generally include the requirement to register or seek certification to provide its services, to file and update tariffs setting forth the terms, conditions and prices for our intrastate services and to comply with various reporting, record-keeping, surcharge collection, and consumer protection requirements.
+  
+ We are subject to regulations generally applicable to all businesses. We are also subject to an increasing number of laws and regulations directly applicable to telecommunication, internet access and commerce. The adoption of any such additional laws or regulations may decrease the rate of growth of the Internet, which could in turn decrease the demand for our products and services. Such laws may also increase our costs of doing business or otherwise have an adverse effect on our business prospects, financial position or results of operations. Moreover, the applicability to the Internet of existing laws governing issues such as property ownership, libel, and personal privacy is uncertain. Future federal or state legislation or regulation could have a material adverse effect on our business prospects, financial condition and results of operations.
+  
+   
+5
+
+
+  
+

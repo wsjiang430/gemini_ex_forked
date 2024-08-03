@@ -1,0 +1,287 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+We founded Eventbrite to bring the world together through live experiences. We believe live experiences are fundamental to fulfilling a human desire to connect. Our company serves event creators—the people who bring others together to share their passions, artistry and causes through live experiences—and we empower their success.
+We built a powerful, broad technology platform to enable creators to solve the challenges associated with creating live experiences. Our platform integrates components needed to seamlessly plan, promote and produce live events, thereby allowing creators to reduce friction and costs, increase reach and drive ticket sales. By reducing risk and complexity, we allow creators to focus their energy on producing compelling and successful events.
+We succeed when creators succeed. Our business model is simple: we charge creators on a per-ticket basis when an attendee purchases a paid ticket for an event. We grow with the creators as they plan, promote and produce more events and grow attendance. In 2018, we helped more than 790,000 creators issue approximately 265 million tickets across approximately 3.8 million events in over 170 countries.
+Creators face numerous challenges in planning, promoting and producing events. These challenges stem from complex and interdependent workflows required before, during and after events. Creators have historically relied on a fragmented set of online and offline tools that inhibit, rather than enhance, these workflows. While some of the largest professional event creators have access to costly technology systems for event management, many creators lack the budget and staff necessary to benefit from these legacy technologies. Our comprehensive platform is designed to be easy to use and intuitive while providing sophisticated capabilities to the widest range of event creators.
+We designed our platform for all creators, regardless of category, country, size or type of event. We enable events ranging from fundraisers, seminars, wellness activities and music festivals to classes and cultural celebrations all over the world. Anyone can create or discover events on Eventbrite. This allows more creators to produce original and compelling experiences, attracting more attendees to these experiences. As a consequence, we believe we are expanding the global market for live experiences.
+Our platform meets the complex needs of creators through a modular and extensible design. It can be accessed from Eventbrite.com, our mobile apps and through other websites. This modularity facilitates rapid product development and allows third-party developers to integrate features and functionality from Eventbrite into their environment. Our platform also allows developers to seamlessly integrate services from third-party partners such as Salesforce, Facebook and HubSpot. Importantly, we have designed our platform to produce consistent and reliable performance, handling both surges in traffic and transaction volume associated with high-demand on-sales and the load associated with supporting millions of events each year. This approach gives creators a platform that can scale to their needs, offering everything from basic registration and ticketing to a fully-featured event management platform.
+This platform approach has allowed us to pioneer a powerful business model that drives our go-to-market strategy and allows us to efficiently serve a large number and variety of creators. We believe our business model will enable us to achieve and grow profitability as we increase our scale. We attract creators to our platform through multiple means, including prior experience as attendees, word of mouth from other creators, our prominence in search engine results, the ability to try our platform for free events and our library of content. More than 98% of creators who used our platform in 2018 signed themselves up for Eventbrite, and in 2018, we derived 56% of our net revenue from these creators. We augment this model with a highly-targeted sales team that focuses on acquiring creators with events in specific categories or countries. Substantially all of our creators create and manage events without the need for service or support.
+4
+
+Trends in Our Favor
+We believe live experiences are fundamental to fulfilling a human desire to connect. This interest in human connection drives the creation of more diverse events today than ever before, ranging from consumer-focused experiences such as music concerts and beer festivals, to cause-related events like marches, fundraisers and political rallies. According to an Eventbrite survey conducted by Crowd DNA, four out of five adults surveyed in our top four geographic markets in April 2017 attended a live event in the past year, indicating broad interest in events.
+A combination of trends in consumer behavior and technology is increasing the role and importance of live experiences and provides a tailwind for our market opportunity. We call this the “experience economy.”
+
+• | Consumer Preferences Shifting to Experiences. We are in the middle of a societal transition to a world that prioritizes experiences over goods. According to the U.S. Bureau of Economic Analysis, growth in consumer spending on experiences in the United States has consistently outpaced overall growth in consumer spending from 2001 to 2016, even during periods of economic recession. In a proprietary report that we commissioned, over 70% of adults surveyed in our top four geographies in April 2017 reported they would rather spend money on experiences as compared to material goods.
+
+
+• | Rising Importance of Experiential Marketing. Live experiences have become increasingly critical in connecting companies, products and brands to their target audiences. According to a 2017 eMarketer survey, events were rated as one of the most effective marketing channels used by business-to-business marketers to engage with potential customers and nearly 70% of marketing decision makers in the United States planned to increase spending on events in the coming year.
+
+
+• | Content Owners Extending Monetization. Thanks to the rise of digital distribution of content, today, traditional media companies and content owners enjoy a closer relationship with some of their end users. As a result, these media companies and content owners increasingly leverage data with direct marketing capabilities to target these end users with live experiences. Live music sales have grown steadily over the past 15 years, and are the primary source of revenue for artists in the U.S. music industry.
+
+
+• | Technology Acting as an Enabler. Recent advances in mobile, social media, cloud software and other digital technologies act as a catalyst for live experiences. Internet ubiquity and smartphone adoption propel the use of online and mobile ticketing, reducing the discovery and transactional friction associated with acquiring tickets. Social media enables attendees to become evangelists of events and serves as a low-cost promotion tool and distribution channel, improving the efficiency of attendee acquisition for event organizers. The shift to cloud has led to the emergence of a low-cost infrastructure upon which we can build powerful, self-service software.
+
+Our Value Proposition
+ Our platform supports a wide range of creators through a simple interface with capabilities that are powerful and reliable and scale with their needs, delivering the following benefits:
+
+• | Streamlined Creator Experience. Our platform is designed to be powerful, yet easy to use, and to seamlessly support the entire lifecycle of an event. Creators are able to use our platform without training, support or professional services. As a result, our platform reduces the time and effort necessary to produce live experiences. Creators can launch an event on the platform in a matter of minutes. Our platform scales with creators. Many creators begin to use our platform for free gatherings and evolve to paid events of various sizes. 
+
+
+• | Reduced Cost to Manage Events. Our platform is available for anyone to use for free, and we offer a range of attractively-priced packages to serve a variety of creator needs. Not only is our product affordable, but creators often find they can do more on their own, reducing the need for staff and other third-party vendors. 
+
+
+• | Real-Time Insights. Platform analytics bring insight to creators about multiple dimensions of an event, allowing them to make real-time decisions that directly impact attendance, revenue, profitability and the attendee experience. 
+
+5
+
+
+• | Trusted Attendee Experience. Event registration and payments are the first touch points of the attendee with the creator brand and are critical to create an overall positive experience. Attendees are able to register, purchase and access their tickets in a few taps of a smartphone or clicks on their computer. The speed of the registration process maximizes conversion during the purchase flow and, therefore, enhances the creators’ return on marketing efforts. Furthermore, our digital tickets remove friction associated with traditional box offices and enable streamlined entry through a variety of technological improvements in access control and queuing. 
+
+
+• | Extended Creator Reach. We have a number of capabilities to help connect attendees’ individual interests with creators’ events. Search and browse functionality allows attendees who are in the market for a particular event to easily find it on Eventbrite or through our search engine prominence. Additionally, our platform supports social sharing and has deep integrations with distribution partners where we extend the reach of creators’ events to new and relevant audiences. Finally, we offer creators access to a number of paid marketing channels to drive additional sales.
+
+Our Strengths
+
+• | Our Comprehensive Platform Serves Any Creator. Our platform combines deep functionality designed to serve sophisticated creators yet is intuitive and easy to use for creators of all types. This platform is modular and extensible, allowing us to build new capabilities quickly and to integrate with best-in-class third-party services. In 2018, our platform supported 3.8 million events in more than 170 countries on a cloud-based infrastructure.
+
+
+• | Our Business Model Has Cost Advantages in Creator Acquisition and Operations. Creators become aware of Eventbrite through word of mouth, exposure from purchasing tickets as attendees and our search engine prominence, a free offering that drives paid adoption and our relevant professional content. More than 98% of creators who used our platform in 2018 signed themselves up for Eventbrite. Our single global system combined with self-service functionality allows us to reduce cost of operations and optimize service delivery. These drivers have allowed us to grow our gross profit per employee at a compound annual growth rate of 18% between 2014 and 2018.
+
+
+• | Our Commitment to Creators Shapes Our Culture. Our creator-centric culture drives innovation, high performance and global sensibility. Creators inspire product evolution and help us to attract a mission driven talent base with similar passion and commitment. This unique environment and focus on people and culture feeds the productivity and engagement of our team, driving long-term success for creators and our business.
+
+Our Growth Strategy
+
+• | Attract New Creators to Our Platform. We will continue to broaden the reach of our platform by efficiently attracting new creators. We will continue to leverage a number of creator acquisition triggers, such as prior experience as attendees, word of mouth from other creators, our prominence in search engine results, the ability to try the product for free events and our library of content. By serving these new creators, we aim to benefit from the variety of high quality events they bring to our platform and enhance our reputation, driving further creator acquisition through word of mouth and referrals.
+
+
+• | Add Capabilities to Better Serve Specific Categories. The breadth of our platform has enabled us to build a strong historical track record of expanding our business by developing capabilities to better address specific event categories. For example, in 2016, we decided to focus on independent music venues by building out category-specific capabilities on our platform. We will continue to strategically add category-specific capabilities, expanding the breadth and depth of our platform.
+
+
+• | Add Capabilities to Better Serve Specific Countries. Eventbrite is globally available. In 2018, our platform supported events in more than 170 countries. However, every country is unique and requires a thoughtful process to support creators. As we serve more creators in specific countries, we intend to localize our platform by adding new capabilities, often around local payment methods or supporting local tax systems, in order to further scale in these markets.
+
+6
+
+
+• | Develop New Revenue Streams Based on Complementary Offerings. As we grow and evolve with creators, we plan to develop new capabilities and solutions to enhance our core offering. These capabilities and services allow us to better serve creators, unlocking additional revenue streams and developing opportunities with attendees directly. For example, we currently offer web and mobile development on our proprietary platform to help creators express their brands through their event listing page, profile page, email and other event-related digital assets. We intend to continue to invest in these types of solutions by monitoring changing creator and attendee needs and developing offerings where we see the greatest opportunity for growth.
+
+
+• | Selectively Acquire Businesses Focused on Serving Creators. We have been successful leveraging our platform to make selective acquisitions that have contributed to creator and revenue growth. We accelerated our momentum through the acquisitions of ticketscript, Ticketfly, Ticketea and Picatic. By finding like-minded teams who share a common ethos around serving creators, we can continue to expand and offer new capabilities to existing creators. The modularity and extensibility of our platform enables us to integrate and migrate creators to the Eventbrite platform, allowing us to quickly deprecate the acquired technology and associated costs.
+
+Our Technology Platform
+To enable creators to more easily plan, promote and produce successful events independent of size, category or geographic location, we have designed a powerful and comprehensive platform. Our platform’s cloud-based architecture supports a modular and extensible design that facilitates rapid product development and innovation by our internal development teams, our external partners and a broad developer ecosystem.
+The five core tenets guiding our platform design are:
+
+• | Accessibility. We build intuitive mobile and Web applications that connect to a single platform. Creators can choose how they interface with our platform. Their access is not limited by the channels they prefer.
+
+
+• | Modularity. Our core capabilities are built as independent components and solutions so that they can be efficiently modified without redeploying the entire codebase. Similarly, new capabilities can be easily added without disturbing the functionality of the existing platform. This approach fuels rapid product development.
+
+
+• | Extensibility. We can extend our platform to integrate third parties, enabling creators seamless access to best-in-class partners. We also extend their reach by building Eventbrite into social and media properties with large audiences.
+
+
+• | Flexibility. Our proprietary and third-party components exist on our common platform, allowing creators to seamlessly customize their experience by choosing different functionalities for each event.
+
+
+• | Reliability. We can centrally manage the performance of our platform, providing oversight and monitoring of that performance to support high-demand on-sales while continually monitoring for fraudulent or malicious activity.
+
+7
+
+Our platform is visually depicted below.
+Currently, our platform is hosted in the cloud by Amazon Web Services (AWS). AWS supports our platform’s multiple layers, variances in load and global demand by allowing us to reserve server capacity in varying amounts and sizes distributed across multiple regions of the world. In February 2012, we entered into an agreement with Amazon Web Services, Inc. for the use of cloud services from AWS. Such agreement will continue indefinitely until terminated by either party. In a December 2017 addendum to such agreement, we committed to spend an aggregate of at least $12.5 million between January 2018 and December 2020 on AWS services ($5.0 million in 2018, $3.5 million in 2019 and $4.0 million in 2020). If we fail to meet the minimum purchase commitment during any year, we may be required to pay the difference. We pay AWS monthly, and we may pay more than the minimum purchase commitment to AWS based on usage.
+8
+
+Our Access Layer
+
+• | Eventbrite.com. Creators, attendees and consumers who use our platform to search for events access Eventbrite’s broad functionality through our responsively designed website.
+
+
+• | Organizer App. Creators access Eventbrite through our proprietary creator app available on both Android and iOS. This app is customized specifically to help creators quickly create, manage and handle onsite needs. 
+
+
+• | Eventbrite App. Consumers access Eventbrite through our proprietary consumer app available on both Android and iOS. This app is customized specifically to help consumers quickly discover, purchase and gain access to events.
+
+
+• | Third-Party Social and Media. Our integrations with distribution partners provide consumers access to our transactional capabilities. All events are automatically distributed to these partners and most partners have invested in integrations that allow sales to happen natively on the partner site. We have more than 50 partners today, including Google, Facebook, Spotify, Instagram and Bandsintown.
+
+
+• | Creator Websites. Eventbrite powers many creator sites, allowing both creators and their audiences to directly interact with the Eventbrite platform through a variety of integrations. This includes our embedded checkout widget to power native transactions directly within the creator’s website, increasing conversion and maintaining engagement in the creator’s brand post-transaction.
+
+Our Performance Layer
+We strive to maintain consistent performance in spite of significant variations in the load placed upon our platform at different points in time. Our platform regularly supports events which sell tens of thousands of tickets in just minutes, often with significantly more page views or inventory requests than the total capacity of the event. The timing of high demand episodes is unpredictable, and we accommodate them while managing our typical volumes.
+There are three critical mechanisms to ensure this high level of steady-state performance:
+
+• | Fault Tolerance. Although Eventbrite is entirely in the cloud, all of our solutions are designed to handle failures either in critical support infrastructure like site operations or payments. For these kinds of solutions, we either run in multiple “zones” to avoid issues with a failure in any one zone or run multiple partners with the ability to fail-over to different partners depending on availability.
+
+
+• | Specialized Caching. We have developed specialized caching schemes that render common portions of our components in a highly efficient manner. Instead of requiring the whole page to render with every request straight from our data stores, we can cache elements to ensure consumers have quick load times and so the overall performance of the site is not degraded.
+
+9
+
+
+• | Transactional Queuing. We have a proprietary transaction queueing system that tracks the order of arrival of potential ticket buyers across all Eventbrite channels, ensuring that all consumers have fair access to inventory, every time, no matter what channel they use.
+
+Success in delivering a high level of steady-state performance depends on handling episodes of high demand amid a consistently large volume of events. Our efforts here have allowed us to maintain 99.99% system uptime on the Eventbrite platform over the last six years.
+Our Core Component Layer
+Components are modular elements purpose-built to be shared across points of access. Eventbrite components can be extended to third-party platforms. Additionally, we can integrate third-party components into our platform, giving third parties access to these components while using our platform.
+Some of the most important components include:
+
+• | Event Creation and Management. Creators can set up professional ticketing and registration pages within minutes, on any device. They can customize this flow to include multiple ticket types and specifications, design checkout forms, integrate fundraising, implement waitlists and more. Once an event is published, it is immediately available to be managed both online and in our creator apps.
+
+
+• | Event Discovery. We take into account consumers’ interests and purchase behavior to drive discovery of relevant events and deliver incremental audience and ticket sales to creators. Consumers can search for live experiences by location, date or type of event, save those they are interested in and follow creators to receive a more personalized experience.
+
+
+• | Checkout. Our platform supports transactions across multiple modes of access. No matter how a consumer comes to Eventbrite, they encounter the same high-performance purchase flow. While ensuring a high-conversion experience, this component also ensures that we track inventory and test for fraud or other malicious activity. Our apps also allow attendees to store and access tickets conveniently on their mobile devices.
+
+
+• | Reporting. Creators can also track performance through various charts and reports, review data from past events, install tracking pixels and promote their events on social media.
+
+
+• | Onsite Tools. On the day of the event, we help creators with ticket scanning, streamlined entry and maintaining accurate counts and we also provide point-of-sale solutions.
+
+Importantly, we are not limited to components that we have created. With Eventbrite Spectrum, we have a platform of more than 100 extensions and API integrations that bring essential software tools and adjacent workflows directly into Eventbrite. Example of areas where we use extensions to enhance creator functionality include:
+
+• | Email Marketing. More than ten email marketing software (EMS) providers plug into the Eventbrite APIs to deliver a unified experience of event management and email marketing. Creators are able to leverage integrations with MailChimp, AWeber, Emma and many other leading EMS providers.
+
+
+• | Advertising & Promotion. Through partner extensions, we give creators access to a range of promotional and advertising solutions that allow them to reach a wider audience and sell more tickets. These include solutions that enable the automation of social media advertising, software for running word of mouth marketing campaigns and deep integrations with media properties that offer incremental reach and awareness.
+
+
+• | CRM & Analytics. Creators are able to connect Eventbrite to a range of industry-leading customer relationship management and analytics tools through partner-built integrations. These include tools such as Salesforce, HubSpot and Zoho.
+
+
+• | Mobile Apps and Event Operations. Creators can take advantage of a number of best-in-class event technology providers, ranging from event mobile apps, badge and ticket printing, session scheduling and live streaming.
+
+10
+
+Our Service Layer
+The base layer of our platform is a set of services accessible through programmer interfaces that allow all developers access to the platform’s data and capabilities in a powerful, secure and intuitive way.
+Key services include:
+
+• | Orders. Our order service enables transactions on Eventbrite.com, our organizer and consumer apps, API-driven transactions from our distribution partners and embedded checkout from within creators’ websites.
+
+
+• | Events. Our event service captures all data around an event in the creation flow regardless of how the service is accessed and renders this data in the appropriate format depending on how the event is accessed.
+
+
+• | Payments. We deliver an integrated payment solution for creators as a Level 1 PCI-DSS Compliant Merchant and Service Provider. Despite having multiple vendors, our integrated approach allows us to offer a simple onboarding process, a seamless checkout experience, quick refunds for attendees, simple payout schedules and a unified chargeback process. In September 2017, we announced a partnership with Square where Square would become our primary online payment processing partner for EPP in the United States, Canada, Australia, the United Kingdom as well as any new territories Square enters into over time. Square will also become our exclusive payment processing partner for all of our point-of-sale solutions in those same territories. We estimate that the first online transaction will be processed through EPP using Square in 2019, but we are moving forward with the point-of-sale partnership as expediently as possible.
+
+
+• | Risk Decisions. We have built a risk and fraud system that uses machine-learning models and business rules to evaluate every transaction processed for fraud and malicious use in milliseconds. This system uses hundreds of features and data points to inform fast and accurate decisions with low false positive rates. The systems and operations that we have created to fight fraud have become a key strategic advantage.
+
+
+• | Permissions. Our comprehensive permissions handling service controls access to all of our platform capabilities. This system enables creators with more complex needs to handle multi-user access, multiple roles and collaboration on events and accounts.
+
+
+• | Assortments. We offer creators multiple packages at different price points to allow them to select the perfect package for their needs. Our creators have access to specific features, APIs and services based on their selected package.
+
+Our Go-To-Market Strategy
+Our go-to-market strategy allows us to efficiently serve a large number and variety of creators. We attract creators to our platform through multiple means. Our category leadership and diversity of event types brings creators to us through word of mouth or their experiences as attendees at events produced by other Eventbrite creators. In addition, we are a leading publisher and distributor of content, which elevates our brand and drives prominence in search engine results. Finally, we make our platform available for free events, which allows us to attract many creators who then use our solution for paid events. More than 98% of creators who used our platform in 2018 signed themselves up for Eventbrite and in 2018, we derived 56% of our net revenue from these creators. We augment these efforts with a highly-targeted sales team that focuses on acquiring creators with events in specific categories or countries.
+Key components of our go-to-market strategy are described below:
+
+• | Awareness. A significant number of creators become aware of us through either word of mouth or interacting with our platform as attendees. In a 2016 internal survey of more than 3,000 global creators, 36% of creators reported first learning about Eventbrite through word of mouth and 34% of creators reported first learning of Eventbrite by attending events produced by other Eventbrite creators. Both of these factors have helped us grow organically with low creator acquisition costs.
+
+
+• | Professional Content. By creating valuable content focused on creator needs, we make creators aware of us as a place for high quality, professional articles housed in a constantly evolving knowledge hub, leading creators to discover our platform as an event management solution. We published approximately 1,400 pieces of content in 2018, translating this content into five languages and localized for eleven countries. Based on Internet traffic, we believe we are the largest online publisher of professional content targeted at creators.
+
+11
+
+
+• | Search Engine Prominence. We enjoy an advantage in search engine prominence, driving material organic traffic to our website at no cost. Eventbrite.com is among the top 100 most linked-to sites on the Internet, granting it one of the highest domain authority scores. We enhance this advantage through search engine prominence, resulting in a steady stream of professional creators who come to Eventbrite directly as part of their search for an event management solution.
+
+
+• | Free-to-Paid Conversion. Our “free for free events” approach attracted more than 400,000 free creators to our platform in 2017. Since 2015, approximately 17% of creators who have produced a free event have gone on to host a paid event within twelve months of their first free event. In addition, our comprehensive platform supports a global go-to-market strategy and allows us to enter new markets or new categories with minimal additional cost.
+
+Packages
+We enhanced our go-to-market approach by adding pricing packages to our services in September 2017, in order to be able to meet the varying needs of creators who come to our platform. To help drive the growth of our business, we periodically adjust the pricing of our packages.
+We offer three different pricing packages with corresponding levels of features to provide flexibility for each creator: Essentials, Professional and Premium.
+
+• | Essentials. The Essentials package offers the capabilities required for a simple event at an attractive price. Creators can build a mobile-optimized event page, accept secure payments, use our free promotional solutions, track sales and benefit from time-saving integrations and give attendees a simple, secure checkout experience.
+
+
+• | Professional. With the Professional package, creators get everything in Essentials plus unlimited ticket types, ticket sales on their own sites, detailed sales analytics, customizable registration forms, payouts before events, reserved seating and comprehensive support.
+
+
+• | Premium. The Premium package takes everything in the Professional offering and adds account management and access to a number of complementary solutions that enable these creators to scale. Premium features include branded community pages, installment payments, product training, team access and permissions, onsite staffing and support, access control technology, 24/7 phone support and more.
+
+Our packages allow us to address specific types of creators with a targeted offering that balances price and functionality, covering a greater spectrum of creator willingness-to-pay. We believe this approach will allow us to optimize revenue in new creator cohorts in the future.
+Our People, Culture and Values
+Our mission is to bring the world together through live experiences, and we like to think about working at Eventbrite as the ultimate live experience, which we refer to as the “Briteling Experience.” This experience is built on the foundation of our five core values:
+
+• | Be a creator. Since day one, making it happen has been part of our DNA. It is essential to our success and integral to our culture. We are innovators and doers. We are creators.
+
+
+• | Go all in. Great ideas come to life when pursued with conviction. With the confidence to take smart risks and learn from failures, we dream big and go all in. It’s how success is made.
+
+
+• | Simplify it. Creating events is a complex and ambitious effort, so we strive to tackle that complexity at every turn and make it easy for creators to succeed.
+
+
+• | Let ’em in. Authenticity invites the conversations and connections that can inspire incredible growth. We encourage being yourself and welcoming diverse perspectives.
+
+
+• | Choose brilliance. We never opt for anything less than our best. We choose brilliance because our mission requires it—and it’s what our creators deserve.
+
+12
+
+We support a global workforce, with 14 offices in 11 countries, serving creators across the world. We maintain operations in the United States, Argentina, Australia, Belgium, Brazil, Canada, Germany, Ireland, the Netherlands, Spain and the United Kingdom.
+As of December 31, 2018, we had a total of 1,094 employees, of which 1,075 were full-time employees and 37% of our total employees were located at our headquarters in San Francisco, California.
+Competition
+The market for event management solutions is highly fragmented and is impacted by shifting creator and attendee needs and changing technology and consumer trends. We also compete with internally-developed systems. This competitive landscape provides creators and attendees with many channels to promote or engage with live experiences.
+We believe that competition varies by market, category, country and creator type, and that the most critical dimensions of competition are the following:
+
+• | breadth and depth of functionality;
+
+• quality and reliability of the technology;
+• ability to assist creators in getting access to more potential attendees;
+• ability to address the needs of specific categories;
+• ability to adapt to specific geographies;
+• pricing level and pricing model;
+• reputation and brand as a seamless, transparent and secure platform for creating and attending live experiences;
+• flexibility and integration of technology with complementary products and services;
+• capabilities that create a comprehensive set of event management functionality that help power creator success;
+• ability to provide mobile event management and ticketing; and
+• willingness to offer creators access to capital ahead of the event.
+We believe that our focus on providing a seamless experience for creators and attendees and a powerful but easy-to-use platform differentiate us from our competitors and that we compete favorably with respect to the factors above.
+We do not typically compete with event management providers who sell sports, music and concert tickets in the world’s largest stadiums, arenas and amphitheaters. This market is characterized by multi-year financial commitments including operating leases and outright ownership of venues with commensurately higher fee structures to support the higher real estate-based cost. We also believe these systems are impractical for the majority of event creators, as they often require significant costs, substantial amounts of on-premises equipment and software customization. Finally, this segment of the market is challenged by distinct factors such as widespread and unauthorized and often highly-regulated secondary ticketing. Further, we also do not compete for every type of ticket. For instance, we do not currently participate in the movie or airline markets. Therefore, we do not consider all “ticketing” companies to be competitors. 
+In assessing our competitive landscape, although we believe that no single competitor focuses on all of the same markets, geographies, categories and creator types as we do at the same scale, we believe that our competitors fall into two broad groups:
+
+• | Event management software vendors. These providers are dedicated to a particular category of events, and typically in a limited number of countries. They often focus on providing solutions for larger scale, professional affairs, relying on a sales-driven go-to-market strategy that can be high cost and often involves the use of capital in the form of signing fees and advances to secure contracts. Lastly, their offerings tend to be proprietary on-premises software. This group also includes many internal systems, which typically lag in adoption of more modern architectures.
+
+
+• | Smaller long-tail providers. These providers are typically smaller in scale and have limited technology and feature functionality. While they typically use modern development methods and use a cloud infrastructure, they may lack the scale to take advantage of the efficiencies of a platform approach.
+
+13
+
+Our Product Development Approach
+We invest substantial resources in product development to enhance our platform and develop new products and features.
+Our product development organization consists of world-class engineering, product and design teams. As of December 31, 2018, we had 364 professionals across these teams, representing approximately 33% of our total employees. Our engineering, product and design teams work together to drive continual innovation.
+In 2018, 2017 and 2016, product development expenses were 15.8%, 15.2% and 17.0% of net revenue, respectively.
+Intellectual Property
+We protect our intellectual property through a combination of trademarks, domain names, copyrights, trade secrets and patents, as well as contractual provisions and restrictions governing access to our proprietary technology.
+We registered “Eventbrite” as a trademark in the United States, Australia, Argentina, Brazil, Canada, China, European Union, Germany, Ireland, the Netherlands, Mexico, Spain, the United Kingdom and certain other jurisdictions. We also have filed other trademark applications in the United States, Argentina, Australia, Brazil, Canada, Germany, Ireland, the Netherlands, Spain, the United Kingdom and certain other jurisdictions, and will pursue additional trademark registrations to the extent we believe it would be beneficial and cost effective. 
+As of December 31, 2018, we had 13 issued patents, which expire between 2031 and 2032, and two patent applications pending in the United States. These patents and patent applications seek to protect proprietary inventions relevant to our business. We intend to pursue additional patent protection to the extent we believe it would be beneficial and cost effective.
+We are the registered holder of a variety of domain names that include “Eventbrite” and similar variations.
+In addition to the protection provided by our registered intellectual property rights, we also enter into confidentiality agreements with our employees, consultants, contractors and business partners. Our employees, consultants and contractors are also subject to invention assignment agreements, pursuant to which we obtain rights to technology that they develop for us. We further protect our rights in our proprietary technology and intellectual property through restrictive license and service use provisions in both the general and product-specific terms of use on our website and in other business contracts.
+Regulatory
+We are subject to a number of U.S. federal and state and foreign laws and regulations that involve matters central to our business. These laws and regulations may involve privacy, data protection, intellectual property, competition, consumer protection, export taxation or other subjects. Many of the laws and regulations to which we are subject are still evolving and being tested in courts and could be interpreted in ways that could harm our business. In addition, the application and interpretation of these laws and regulations often are uncertain, particularly in the new and rapidly evolving industry in which we operate. Because global laws and regulations have continued to develop and evolve rapidly, it is possible that we may not be, or may not have been, compliant with each such applicable law or regulation.
+The Telephone Consumer Protection Act of 1991 (TCPA) restricts telemarketing and the use of automatic text messages without proper consent. The scope and interpretation of the laws that are or may be applicable to the delivery of text messages are continuously evolving and developing. If we do not comply with these laws or regulations or if we become liable under these laws or regulations due to the failure of our customers to comply with these laws by obtaining proper consent, we could face direct liability.
+Information about Geographic Revenue
+Information about geographic revenue is set forth in Note 15 of our Notes to our Consolidated Financial Statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K.
+Corporate Information
+Eventbrite Inc. was incorporated in Delaware in March 2008. Our corporate headquarters are located at 155 Fifth Street, Seventh Floor, San Francisco, California 94105. Our website address is www.eventbrite.com. Information contained on, or that can be accessed through, our website does not constitute part of this Annual Report on Form 10-K.
+14
+
+Additional Information
+The following filings are available through our investor relations website after we file them with the Securities and Exchange Commission (SEC): Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and our Proxy Statement for our annual meeting of stockholders. These filings are also available for download free of charge on our investor relations website. Our investor relations website is located at http://investor.eventbrite.com/. The SEC also maintains a website that contains reports, proxy statements and other information about issuers, like us, that file electronically with the SEC. The address of that website is www.sec.gov.
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs as part of our investor relations website. Further corporate governance information, including our corporate governance guidelines, code of conduct and committee charters is also available on our investor relations website under the heading "Corporate Governance." 
+The contents of the websites referenced in this Annual Report are not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to these websites are intended to be inactive textual references only.
+15
+

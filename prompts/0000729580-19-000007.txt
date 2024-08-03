@@ -1,0 +1,122 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.  Business
+ 
+Bel Fuse Inc. designs, manufactures and markets a broad array of products that power, protect and connect electronic circuits.  These products are primarily used in the networking, telecommunications, computing, military, aerospace, transportation and broadcasting industries.  Bel's portfolio of products also finds application in the automotive, medical and consumer electronics markets.
+ 
+With 70 years in operation, Bel has reliably demonstrated the ability to succeed in a variety of product areas across a global platform.  The Company has a strong track record of technical innovation working with the engineering teams of market leaders.  Bel has consistently proven itself a valuable supplier to world-class companies by developing new products with cost effective solutions.
+ 
+The Company, which is organized under New Jersey law, operates in one industry with three reportable operating segments, North America, Asia and Europe (representing 50%, 34% and 16% of the Company's 2018 sales, respectively). Bel's principal executive offices are located at 206 Van Vorst Street, Jersey City, New Jersey 07302, and Bel's telephone number is (201) 432-0463. The Company operates facilities in North America, Europe and Asia and trades on the NASDAQ Global Select Market (ticker symbols BELFA and BELFB).  For information regarding Bel's three geographic operating segments, see Note 12, "Segments", of the notes to our consolidated financial statements.  Hereinafter, all references to "Note" will refer to the notes to our consolidated financial statements included in Part II, Item 8. "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K.
+ 
+Acquisitions have played a critical role in the growth of Bel and the expansion of both our product portfolio and our customer base and continue to be a key element in our growth strategy. We may, from time to time, purchase equity positions in companies that are potential merger candidates.  We frequently evaluate possible merger candidates that would provide such potential benefits as an expanded product and technology base that would allow us to expand the breadth of our product offerings to our strategic customers and/or provide an opportunity to reduce overall operating expense as a percentage of revenue.  We also consider factors such as whether such possible merger candidates are positioned to take advantage of our lower cost offshore manufacturing facilities, and whether a cultural fit would allow the acquired company to be integrated smoothly and efficiently.
+ 
+On June 19, 2014, we completed the acquisition of 100% of the issued and outstanding capital stock of the Power-One Power Solutions business ("Power Solutions") of ABB Ltd ("ABB").  On July 25, 2014, we completed the acquisition of 100% of the issued and outstanding capital stock of the U.S. and U.K. Connectivity Solutions businesses from Emerson Electric Co. ("Emerson").  On August 29, 2014, we completed the acquisition of the Connectivity Solutions business in China from Emerson (collectively with the U.S. and U.K. portion of the transaction, "Connectivity Solutions").  The acquisitions of Power Solutions and Connectivity Solutions may hereafter be referred to collectively as either the "2014 Acquisitions" or the "2014 Acquired Companies".
+ 
+
+Products
+ 
+Bel's three reportable operating segments, North America, Asia and Europe, manufacture and sell, or participate in the manufacturing and sale of, the following products:
+ 
+Magnetic Solutions
+ 
+Bel's Magnetics offers industry leading products.  The Company's ICM products integrate RJ45 connectors with discrete magnetic components to provide a more robust part that allows customers to substantially reduce board space and inventory requirements.  Power Transformers include standard and custom designs for use in industrial instrumentation, alarm and security systems, motion control, elevators, and medical products.
+ 
+2
+ 
+Return to Index
+
+
+
+ | Product Line | Function | Applications | Brands Sold Under 
+----------------------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------
+Magnetic Solutions | Integrated Connector Modules (ICMs) | Condition, filter, and isolate the electronic signal to ensure accurate data/voice/video transmission and provide RJ45 and USB connectivity. | Network switches, routers, hubs, and PCs used in multi-speed Gigabit Ethernet, Power over Ethernet (PoE), PoE Plus and home networking applications. | Bel, TRP Connector®, MagJack®
+Power Transformers | Safety isolation and distribution. | Power supplies, alarm, fire detection, and security systems, HVAC, lighting and medical equipment. Class 2, three phase, chassis mount, and PC mount designs available. | Signal 
+SMD Power Inductors & SMPS Transformers | A passive component that stores energy in a magnetic field. Widely used in analog electronic circuitry. | Switchmode power supplies, DC-DC converters, LED lighting, automotive and consumer electronics. | Signal 
+Discrete Components-Telecom | Condition, filter, and isolate the electronic signal to ensure accurate data/voice/video transmission. | Network switches, routers, hubs, and PCs used in multi-speed Gigabit Ethernet and Power over Ethernet (PoE). | Bel 
+
+Power Solutions & Protection
+ 
+Bel's power conversion products include AC-DC power supplies, DC-DC converters and battery charging solutions. The primary AC-DC product lines consist of front ends and shelves, industrial, railway and eMobility products.  The DC-DC product offering consists of standard and custom isolated and non-isolated DC-DC converters designed specifically to power low voltage silicon devices or provide regulated mid-bus voltages. The DC-DC converters are used in data networking equipment, distributed power architecture, and telecommunication devices, as well as data storage systems, computers and peripherals. Opportunities for the DC-DC products also extend into industrial applications.
+ 
+Bel circuit protection products include board level fuses (miniature, micro and surface mount), and Polymeric PTC (Positive Temperature Coefficient) devices, designed for the global electronic and telecommunication markets.
+ 
+
+ | Product Line | Function | Applications | Brands Sold Under 
+-----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+--------------------
+Power Solutions & Protection | Front-End Power Supplies | Provides the primary point of isolation between AC main line (input) and the low-voltage DC output that is used to power all electronics downstream | Servers, telecommunication, network and data storage equipment | Bel Power Solutions
+Board-Mount Power Products | These are designed to be mounted on a circuit board. These converters take input voltage and provide localized on-board power to low-voltage electronics. | Telecommunication, networking and a broad range of industrial applications | Bel Power Solutions, MelcherTM 
+Industrial Power Products | Converts between AC main line inputs and a wide variety of DC output voltages. | Rail, transportation, automation, test and measurement, medical, military and aerospace applications. | Bel Power Solutions, MelcherTM 
+Module Products | Condition, filter, and isolate the electronic signal to ensure accurate data/voice/video transmission within a highly integrated, reduced footprint. | Broadband equipment, home networking, set top boxes, and telecom equipment supporting ISDN, T1/E1 and DSL technologies. Industrial applications include Smart Meters, Smart Grid communication platforms, vehicle communications and traffic management. | Bel 
+Circuit Protection | Protects devices by preventing current in an electrical circuit from exceeding acceptable levels. | Power supplies, cell phone chargers, consumer electronics, and battery protection. | Bel 
+
+ 
+
+
+3
+ 
+Return to Index
+
+Connectivity Solutions
+ 
+Bel offers a comprehensive line of high speed and harsh environment copper and optical fiber connectors and integrated assemblies, which provide connectivity for a wide range of applications across multiple industries including commercial aerospace, military communications, network infrastructure, structured building cabling and several industrial applications.
+
+ | Product Line | Function | Applications | Brands Sold Under 
+----------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+-------------------
+Connectivity Solutions | Expanded Beam Fiber Optic Connectors, Cable Assemblies and Active Optical Devices (transceivers and media converters) | Harsh-environment, high-reliability, flight-grade optical connectivity for high-speed communications. | Military/aerospace, oil and gas well monitoring and exploration, broadcast, communications, RADAR | Stratos®, Fibreco®
+Copper-based Connectors / Cable Assemblies-FQIS | Harsh-environment, high-reliability connectivity and fuel quantity monitoring (FQIS). | Avionics, smart munitions, communications, radar and various industrial equipment | Cinch® 
+RF Connectors, Cable Assemblies, Microwave Devices and Low Loss Cable | Connectors and cable assemblies designed to provide connectivity within radio frequency (RF) applications. | Military/aerospace, test and measurement, high-frequency and wireless communications | Johnson, Trompeter, Midwest MicrowaveTM, Semflex® 
+RJ Connectors and Cable Assemblies | RJ45 and RJ11 connectivity for data/voice/video transmission. | Largely Ethernet applications including network routers, hubs, switches, and patch panels; and emerging internet-of-things (IoT) applications | Stewart Connector 
+
+Sales and Marketing
+ 
+We sell our products to customers throughout North America, Europe and Asia. Sales are made through one of three channels: direct strategic account managers, regional sales managers working with independent sales representative organizations or authorized distributors. Bel's strategic account managers are assigned to handle major accounts requiring global coordination.
+ 
+Independent sales representatives and authorized distributors are overseen by the Company's sales management personnel located throughout the world. As of December 31, 2018, we had a sales and support staff of 199 persons that supported a network of sales representative organizations and non-exclusive distributors. We have written agreements with all of our sales representative organizations and most of our major distributors. These written agreements, terminable on short notice by either party, are standard in the industry.
+ 
+Sales support functions have also been established and located in our international facilities to provide timely, efficient support for customers. This supplemental level of service, in addition to first-line sales support, enables us to be more responsive to customers' needs on a global level. Our marketing capabilities include product management which drives new product development, application engineering for technical support and marketing communications.
+ 
+For information regarding customer concentrations, see Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations – Critical Accounting Policies and Other Matters – Revenue Recognition."
+ 
+Research and Development ("R&D")
+ 
+Our engineering groups are strategically located around the world to facilitate communication with and access to customers' engineering personnel. This collaborative approach enables partnerships with customers for technical development efforts. On occasion, we execute non-disclosure agreements with customers to help develop proprietary, next generation products destined for rapid deployment.
+ 
+We also sponsor membership in technical organizations that allow our engineers to participate in developing standards for emerging technologies. It is management's opinion that this participation is critical in establishing credibility and a reputable level of expertise in the marketplace, as well as positioning the Company as an industry leader in new product development.
+ 
+R&D costs are expensed as incurred and are included in cost of sales on the consolidated statements of operations. Generally, R&D is performed internally for the benefit of the Company. R&D costs include salaries, building maintenance and utilities, rents, materials, administrative costs and miscellaneous other items. 
+ 
+
+4
+ 
+Return to Index
+
+Competition   We operate in a variety of markets, all of which are highly competitive. There are numerous independent companies and divisions of major companies that manufacture products that are competitive with one or more of our products.
+ 
+Our ability to compete is dependent upon several factors including product performance, quality, reliability, depth of product line, customer service, technological innovation, design, delivery time and price. Overall financial stability and global presence also give us a favorable position in relation to many of our competitors.  Management intends to maintain a strong competitive posture in the markets we serve by continued expansion of our product lines and ongoing investment in research, development and manufacturing resources.
+ 
+Associates
+ 
+As of December 31, 2018, we employed 8,098 full-time associates, an increase of 607 full-time associates from December 31, 2017. At December 31, 2018, we employed 1,591 people at our North American facilities, 5,609 people at our Asian facilities and 898 people at our European facilities, excluding 907 workers supplied by independent contractors. Our manufacturing facility in New York is represented by a labor union and all factory workers in the People's Republic of China ("PRC"), Worksop, England and Reynosa, Mexico are represented by unions. While the majority of our manufacturing associates are members of workers unions, approximately 500 associates worldwide are covered by collective bargaining agreements expiring within one year.  We believe that our relations with our associates are satisfactory.
+Raw Materials and Sourcing
+ 
+We have multiple suppliers for most of the raw materials that we purchase.  Where possible, we have contractual agreements with suppliers to assure a continuing supply of critical components.
+ 
+With respect to those items which are purchased from single sources, we believe that comparable items would be available in the event that there was a termination of our existing business relationships with any such supplier.  While such a termination could produce a disruption in production, we believe that the termination of business with any one of our suppliers would not have a material adverse effect on our long-term operations. Actual experience could differ materially from this belief as a result of a number of factors, including the time required to locate an alternative supplier, and the nature of the demand for our products.  In the past, we have experienced shortages in certain raw materials, such as capacitors, ferrites and integrated circuits ("IC's"), when these materials were in great demand.  Even though we may have more than one supplier for certain materials, it is possible that these materials may not be available to us in sufficient quantities or at the times desired by us.  In the event that the current economic conditions have a negative impact on the financial condition of our suppliers, this may impact the availability and cost of our raw materials.
+ 
+Backlog
+ 
+We typically manufacture products against firm orders and projected usage by customers. Cancellation and return arrangements are either negotiated by us on a transactional basis or contractually determined.  We estimate the value of the backlog of orders as of February 28, 2019 to be approximately $174.4 million as compared with a backlog of $168.6 million as of February 28, 2018.  Management expects that approximately 89% of the Company's backlog as of February 28, 2019 will be shipped by December 31, 2019. Factors that could cause the Company to fail to ship all such orders by year-end include unanticipated supply difficulties, changes in customer demand and new customer designs.  Due to these factors, backlog may not be a reliable indicator of the timing of future sales.  See Item 1A of this Annual Report - "Risk Factors - Our backlog figures may not be reliable indicators."
+Intellectual Property
+ 
+We have acquired or been granted a number of patents in the U.S., Europe and Asia and have additional patent applications pending relating to our products. While we believe that the issued patents are defendable and that the pending patent applications relate to patentable inventions, there can be no assurance that a patent will be obtained from the applications or that our existing patents can be successfully defended.  It is management's opinion that the successful continuation and operation of our business does not depend upon the ownership of patents or the granting of pending patent applications, but upon the innovative skills, technical competence and marketing and managerial abilities of our personnel.  Our U.S. design patents have a life of 14 years and our U.S. utility patents have a life of 17 years from the date of issue or 20 years from filing of patent applications.  Our existing patents expire on various dates from April 2019 to February 2036.
+ 
+We utilize registered trademarks in the U.S., Europe and Asia to identify various products that we manufacture.  The trademarks survive as long as they are in use and the registrations of these trademarks are renewed.
+ 
+
+5
+ 
+Return to Index
+
+Available Information
+ 
+We maintain a website at www.belfuse.com where we make available the proxy statements, press releases, registration statements and reports on Forms 3, 4, 8-K, 10-K and 10-Q that we (and in the case of Section 16 reports, our insiders) file with the SEC. These forms are made available as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC. Press releases are also issued via electronic transmission to provide access to our financial and product news, and we provide notification of and access to voice and internet broadcasts of our quarterly and annual results.  Our website also includes investor presentations and corporate governance materials.

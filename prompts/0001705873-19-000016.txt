@@ -1,0 +1,46 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Part I | 
+Item 1 and 2. Business and Properties | 1 
+Our Company | 1 
+The Berry Advantage | 2 
+Our Reserves and Assets | 3 
+Our Competitive Strengths | 4 
+Our Business Strategy | 6 
+Our Capital Budget | 7 
+Our Areas of Operation | 7 
+Methods of Recovery | 10
+Our Reserves and Production Information | 12
+Title to Properties | 22
+Competition | 23
+Seasonality | 23
+Regulation of Health, Safety and Environment Matters | 23
+Employees | 32
+Emergence from Chapter 11 Bankruptcy | 32
+Corporate Information | 33
+Item 1A. Risk Factors | 33
+Item 1B. Unresolved Staff Comments | 49
+Item 3. Legal Proceedings | 49
+Item 4. Mine Safety Disclosure | 49
+Part II | 
+Item 5. Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities | 50
+Item 6. Selected Financial Data | 53
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations | 55
+Executive Overview | 55
+How We Plan and Evaluate Operations | 55
+Emergence from Chapter 11 Bankruptcy | 56
+Factors Affecting the Comparability of our Financial Condition and Results of Operations | 56
+Business Environment and Market Conditions | 60
+Certain Operating and Financial Information | 62
+Summary by Area | 65
+Results of Operations | 65
+Liquidity and Capital Resources | 75
+Balance Sheet Analysis | 81
+Non-GAAP Financial Measures | 82
+Off Balance-Sheet Arrangements | 85
+Critical Accounting Policies and Estimates | 86
+Inflation | 90
+
+i
+
