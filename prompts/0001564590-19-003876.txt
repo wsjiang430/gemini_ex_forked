@@ -1,0 +1,218 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1: | BUSINESS
+--------+---------
+
+ The following discussion of Digimarc’s business contains forward-looking statements relating to future events or the future financial performance of Digimarc. Our actual results could differ materially from those anticipated in these forward-looking statements. Please see the discussion regarding forward-looking statements included in this Annual Report on Form 10-K in Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, under the caption “Forward-Looking Statements.”
+ The following discussion of our business should be read in conjunction with our consolidated financial statements and the related notes and other financial information appearing elsewhere in this Annual Report on Form 10-K.
+ Overview
+ Digimarc Corporation, an Oregon corporation incorporated in 2008, enables governments, banks, retailers, consumer brands and other businesses around the world to automatically and reliably identify and interact with virtually any form of media. We have pioneered the Digimarc Intuitive Computing Platform (ICP), a comprehensive set of technologies for identifying, discovering and interacting with digitally-enhanced media. The platform includes Digimarc Barcode, a proprietary method for imperceptibly enhancing packaging, print, images, thermal labels, audio and other objects with data that are detected by enabled devices, such as smart phones, computers, barcode scanners and machine-vision equipment. Digimarc Discover software enables an ecosystem of connected devices to easily identify content or materials and deliver information. Quality management tools, specifications, education and training resources support ICP and enable the growing ecosystem of alliances and developers to build a variety of applications including solutions that:
+
+• | Improve the speed of retail checkout;
+--+--------------------------------------
+
+
+• | Provide simple and intuitive mobile customer engagement experiences in stores and at home;
+--+-------------------------------------------------------------------------------------------
+
+
+• | Improve inspection rates on manufacturing lines for quality control processes;
+--+-------------------------------------------------------------------------------
+
+
+• | Provide efficient and reliable identification of consumer packaged goods by retail associates in stores for inventory management and restocking;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Quickly and reliably identify and effectively manage music, movies, television programming, digital images, e-publications, documents and other printed materials, especially in light of non-linear distribution over the Internet;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Deter counterfeiting of money, media and goods, and piracy of e-publications, movies and music;
+--+------------------------------------------------------------------------------------------------
+
+
+• | Support new digital media distribution models and methods to monetize media content;
+--+-------------------------------------------------------------------------------------
+
+
+• | Provide consumers with more choice and access to media content when, where and how they want it;
+--+-------------------------------------------------------------------------------------------------
+
+
+• | Enhance imagery and video by associating metadata or authenticating media content for government and commercial uses; and
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+• | Better secure identity documents to enhance national security and combat identity theft and fraud.
+--+---------------------------------------------------------------------------------------------------
+
+ Our inventions allow our business partners and customers to provide persistent digital identities for virtually any media content that is digitally processed at some point during its lifecycle. Our technology can be applied to images, video, and audio to supply a wide range of consumer engagement, media management and security 
+ 1
+
+
+solutions across multiple consumer and government industry sectors. Over the years our enabling software and business processes, and associated intellectual property portfolio, have grown to encompass many related technologies.
+ We provide our solutions directly and through our business partners. Our inventions provide a powerful element of document security, giving rise to a long-term relationship with a consortium of central banks (the “Central Banks”), and many leading companies in the information technology industry. We and our business partners have successfully propagated the use of our technology in music, movies, television broadcasts, digital images, e-publications and printed materials. Digimarc Barcodes have been used in these applications to improve media rights and asset management, reduce piracy and counterfeiting losses, improve marketing programs, permit more efficient and effective distribution of valuable media content and enhance consumer entertainment and commercial experiences.
+ Digimarc Barcodes can be used to enhance all forms of media and are generally imperceptible to human senses, but quickly detected by computers, networks or other digital devices like smartphones and tablets. Unlike traditional barcodes and tags, our solution does not require content owners to give up valuable visual space on their media content; nor does it impact the overall layout or aesthetics of their media content. Digimarc Barcodes are generally imperceptible in normal use and do all that visible barcodes do, but perform better. Our Digimarc Discover platform delivers a range of rich media experiences to its readers on their smartphones or tablets across multiple media formats, including print, audio, video and packaging. Unique to the Digimarc Discover platform is its seamless multi-modal use of various content identification technologies as needed, including Digimarc Barcode when present.
+ Banknote counterfeit deterrence was the first commercially successful large scale use of our technologies. Innovations based on our existing digital watermarking technology and experience have been leveraged to create new products to deter counterfeiting and tampering of driver licenses and other government-issued secure credentials. In parallel, our business partners, under patent or technology licenses from us, are delivering digital watermarking solutions to track and monitor the distribution of music, images, television and movies to consumers. 
+ In November of 2007, we announced a relationship with The Nielsen Company (US) LLC (“Nielsen”) to license our patents in support of Nielsen’s industry leading television audience measurement solutions. 
+ In October 2010, we entered into a patent licensing arrangement with IV Digital Multimedia Inventions, LLC, a Delaware limited liability company affiliated with Intellectual Ventures (“IV”), pursuant to which we granted an exclusive license to sublicense, subject to pre-existing encumbrances and a grant-back license, an aggregate of approximately 900 of the 1,200 patents and applications held by us at the time the agreement was entered into, as noted below in the section titled “Technology and Intellectual Property.” The number of patents and applications licensed to IV is now approximately 480. Through ongoing development, our portfolio that was not licensed to IV has grown to over 665 patents and applications.
+ In December 2012, we entered into a renewal and extension through 2024 of the Counterfeit Deterrence System Development and License Agreement with the Central Banks, with a 5-year extension option.
+ In January 2014, we introduced Digimarc Barcodes for use in consumer product packaging. These Digimarc Barcodes can contain the same or even more information found in traditional universal product codes (“UPC”). The UPC information is nearly imperceptible and repeated multiple times over the entire package surface making checkout faster and easier for both customers and cashiers. We partnered with Datalogic, a global leader in automatic data capture and industrial automation markets and producer of barcode readers, in introducing the Digimarc Barcode to the consumer product packaging market. Since then, additional scanner vendors and other alliance partners have announced support for Digimarc Barcode. Digimarc Barcodes can also connect mobile-enabled consumers directly from packaging to engaging mobile experiences such as additional product information, special offers, recommendations, reviews, social networks and more.
+ In January 2016, Digimarc and GS1 US, the U.S. operation of the organization that maintains the global standards for barcodes, announced a broad collaboration to help the industries served by GS1 to make effective use of Digimarc Barcode. GS1 US educates, trains and provides access to services to their 300,000 member businesses. Among other things, Digimarc and GS1 US are working to improve product identification for retailers and consumers with brand-certified, accurate product information via Digimarc Barcodes. In September 2016, Digimarc announced a similar collaboration with GS1 Germany.
+ 2
+
+
+In January 2018, we introduced Digimarc Barcode for use in thermal labels for fresh food products. These Digimarc Barcodes contain GS1 Application Identifiers for fresh foods, allowing retailers to dynamically adjust pricing on soon-to-be-expired fresh foods or sell items at a discount, instead of discarding them. Retail thermal labels with Digimarc Barcode scan even when ripped, creased, smudged or damaged, making checkout faster and easier for both customers and cashiers. We have partnered with multiple industry leading retail scale label manufacturers to introduce thermal labels enabled with Digimarc Barcode to the retail industry. Thermal labels enabled with Digimarc Barcode can also provide consumers an engaging mobile experience similar to Digimarc Barcode for consumer product packaging.
+ In April 2018, Digimarc announced a new 15-year partnership with Microsoft. The partnership includes the integration of Digimarc scanning software into Windows, as part of the Windows 10 update. The two companies have a history of working together to improve retailer operational efficiency and increase consumer engagement with products.  
+ In May 2018, Digimarc announced its support of SmartLabel® and the availability of Digimarc Barcode scanning capabilities within the SmartLabel app. The SmartLabel program was developed by the Grocery Manufacturers Association (GMA) and the Food Marketing Institute (FMI) to give consumers a way to digitally access more detailed product information than could fit on a package. Most recently, Digimarc Barcode has been adopted by the U.S. Department of Agriculture as an approved digital disclosure method for products and packaging containing bioengineered food, commonly referred to as “GMOs.” The National Bioengineered Food Disclosure Standard was published in December 2018 after a review and comment period lasting more than two years. The regulations include provisions for label disclosure of food products containing genetically modified organisms, which went into effect on February 19, 2019. Consumer goods manufacturers and private label retailers can use Digimarc Barcode as a one-source solution to satisfy both their voluntary SmartLabel® program participation and mandatory bioengineering disclosures.
+ In October 2018, Digimarc previewed Signal Rich™ Art at Adobe Max. The Signal Rich art tools under development employ breakthrough advances in imaging science, machine vision and artificial intelligence to create artwork where machine-readable codes become native, inherent in, and inseparable from the design.
+Customers and Business Partners
+ Our revenue is generated through commercial and government applications of our technology. We derive our revenue primarily from development services, subscriptions for products and services, and licensing of our technology and patents. During 2018, we generated the majority of our revenue from development services under a long-term contract with the Central Banks and from subscriptions for our products and related services.
+ In 2018, revenue from government contracts accounted for 66% of our total revenue. The Central Banks accounted for substantially all revenue generated under our government contracts. Our government contracts typically span one or more base years and multiple option periods. Government customers generally have the right to not exercise option periods. As part of our work with government customers, we must comply with and are affected by laws and regulations relating to the award, administration and performance of government contracts. Government contract laws and regulations affect how we do business with our government customers and, in some instances, impose added costs on our business.
+ Information about customers that accounted for 10% or more of revenue in the last two years is included in Note 3 of our Notes to Consolidated Financial Statements.
+ Products and Services
+ We provide media identification and management solutions to government and commercial customers and license our technology and patented inventions to solution providers. Our largest government customer is the Central Banks, with whom we have been developing, deploying, supporting and enhancing a system to deter digital counterfeiting of currency using personal computers and digital reprographics for the last 20 years. We sell our products and services to commercial customers for use in a wide range of applications providing for improved auto-identification of media. For instance, we provide solutions to the retail and consumer package goods industry that drive efficiency and reliability in product identification, and in the publishing industry we provide solutions that reduce piracy of books, images and other materials. We also license our technology and inventions to solution 
+ 3
+
+
+providers who provide identification solutions to the media and entertainment industry. Many movie studios, record labels, broadcasters, creative professionals and other customers rely on our technology as a cost-effective means to:
+  
+• | deter piracy and illegal use of movies, music, and other media;
+--+----------------------------------------------------------------
+
+
+• | protect entertainment content from copyright infringement;
+--+-----------------------------------------------------------
+
+
+• | track and monitor entertainment content for rights usage and licensing compliance;
+--+-----------------------------------------------------------------------------------
+
+
+• | monitor advertisements to verify ad placement and measure return on investment;
+--+--------------------------------------------------------------------------------
+
+
+• | enhance information access, search and provide marketing capabilities related to media content; and
+--+----------------------------------------------------------------------------------------------------
+
+
+• | enable authorized use of content by consumers.
+--+-----------------------------------------------
+
+ The market for patent licensing has become more challenging in recent years. As a result, we have shifted our focus from direct monetization through enforcement and licensing to facilitating progress toward the realization of our vision to enrich everyday living via pervasive, intuitive computing by:
+  
+• | encouraging large scale adoption of our technologies by industry leaders;
+--+--------------------------------------------------------------------------
+
+
+• | increasing the scale and rate of growth of our products and services business; and
+--+-----------------------------------------------------------------------------------
+
+
+• | laying a foundation for continuing innovation.
+--+-----------------------------------------------
+
+ Our current patent licensees include, among others, AlpVision SA, IV, Kantar SAS, NexGuard Labs B.V., Nielsen, OverDrive, Inc., Signum Technologies, Teletrax B.V., Verance Corporation and Verimatrix, Inc.
+ Technology and Intellectual Property
+ We seek patent protection for our inventions to differentiate our products and technologies, mitigate infringement risks, and develop opportunities for licensing. Our broad patent portfolio covers a wide range of methods, applications, system architectures and processes.
+ Many of our patents relate to various methods for enhancing and reading digital information in packaging, images, video, and audio, whether the content is rendered in analog or digital formats. The digital information is generally embedded by making subtle modifications to the fundamental elements of the content itself, generally at a signal processing level. The changes necessary to apply this information are so subtle that they are generally not noticeable by people during normal use. Because the message is carried by the content itself, it is file-format independent. The embedded digital information generally survives most normal content transformations, including compression, edits, rotation, scaling, re-sampling, file-format transformations, copying, scanning and printing.
+ 
+Our intellectual property contains many innovations in digital watermarking, content recognition (sometimes referred to as “fingerprinting”), digital rights management and related fields. To protect our inventions, we have implemented an extensive intellectual property protection program that relies on a combination of patent, copyright, trademark and trade secret laws, and nondisclosure agreements and other contracts. As a result, we believe we have one of the world’s most extensive patent portfolios in digital watermarking and related fields, with over 1,100 U.S. and foreign patents granted and applications pending as of December 31, 2018. We continue to develop and broaden our portfolio in the fields of media identification and management technology and related applications and systems. We devote significant resources to developing and protecting our inventions and continuously seek to identify and evaluate potential licensees for our patents. The patents in our portfolio each have a life of approximately 20 years from the effective filing date of the patent, and up to 17 years after the patent has been granted.
+ For a discussion of activities and costs related to our research and development in the last two years, please read “Research, development and engineering” under Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+ Markets
+ Our patented inventions are used in various media identification and management products and solutions supporting a variety of media objects, from movies and music to banknotes, secure credentials and consumer packaged goods. Each media object enabled by our inventions creates the potential for several applications, such as:
+
+• | retail point of sale transaction processing;
+--+---------------------------------------------
+
+ 4
+
+
+ 
+• | track and trace of products within the supply chain;
+--+-----------------------------------------------------
+
+
+• | quality control in manufacturing processes;
+--+--------------------------------------------
+
+
+• | counterfeiting and piracy deterrence;
+--+--------------------------------------
+
+
+• | online e-publication piracy protection;
+--+----------------------------------------
+
+
+• | content identification and media management;
+--+---------------------------------------------
+
+
+• | authentication and monitoring;
+--+-------------------------------
+
+
+• | linking to networks and providing access to information; and
+--+-------------------------------------------------------------
+
+
+• | enhanced services in support of mobile commerce.
+--+-------------------------------------------------
+
+ We believe the market for most of these applications is in the early stages of development and that existing solutions represent only a small portion of the potential market for our products, services and technology.
+ Competition
+ No single competitor or small number of competitors dominate our market. Our competitors vary depending on the application of our products and services. We generally compete with non-digital watermarking technologies for the security or marketing budgets of the producers and distributors of media objects, documents, products and advertising. These alternatives include, among other things, encryption-based security systems and technologies and solutions based on fingerprinting, pattern recognition, and traditional barcodes. Our competitive position in digital watermarking applications is strong because of our large, high-quality, sophisticated patent portfolio and our substantial and growing amount of intellectual property in related media security and management innovations that span basic technologies, applications, system designs and business processes. Our intellectual property portfolio allows us to use proprietary technologies that are well-regarded by our customers and partners, and not available to our competitors without a license. We compete based on the variety of features we offer and a traditional cost/benefit analysis against alternative technologies and solutions. We anticipate that our competitive position within some markets may be affected by factors such as reluctance to adopt new technologies and by changes in government regulations.
+Backlog
+ Based on projected commitments we have for the periods under contract with our respective customers, we anticipate our current contracts as of December 31, 2018 will generate a minimum of $30 million in revenue, compared to $28 million as of December 31, 2017. We expect approximately $16 million of the $30 million to be recognized as revenue during 2019.
+ Some factors that lead to increased backlog include:
+  
+• | contracts with new customers;
+--+------------------------------
+
+
+• | renewals with current customers;
+--+---------------------------------
+
+
+• | add-on orders with customers; and
+--+----------------------------------
+
+
+• | contracts with longer contractual periods replacing contracts with shorter contractual periods.
+--+------------------------------------------------------------------------------------------------
+
+ Some factors that lead to decreased backlog include:
+  
+• | recognition of revenue associated with existing backlog;
+--+---------------------------------------------------------
+
+
+• | contracts with shorter contractual periods replacing contracts with longer contractual periods;
+--+------------------------------------------------------------------------------------------------
+
+
+• | modifications to existing contracts;
+--+-------------------------------------
+
+
+• | contract minimum payments ending; and
+--+--------------------------------------
+
+
+• | expiration of contracts with existing customers.
+--+-------------------------------------------------
+
+ The mix of these factors, among others, dictates whether our backlog increases or decreases for any given period. Our backlog may not result in actual revenue in any particular period, because the orders, awards and 
+ 5
+
+
+contracts included in our backlog may be subject to modification, cancellation or suspension. We may not realize revenue on certain contracts, orders or awards included in our backlog, or the timing of any realization may change.
+ Employees
+ At December 31, 2018, we had 213 full-time employees, including 81 in sales, marketing, operations and customer support; 100 in research, development and engineering, including intellectual property; and 32 in finance, administration, information technology and legal.
+ Our employees are not covered by any collective bargaining agreement, and we have never experienced a work stoppage. We believe that our relations with our employees are good.
+ Available Information
+ We make available free of charge through our website at www.digimarc.com our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to these and other reports filed or furnished by us pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after we file these materials with the Securities and Exchange Commission (the “SEC”).

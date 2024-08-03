@@ -1,0 +1,237 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1.  Business.
+ General Development of Business
+ During October 2013, the Board of Directors of Liberty Interactive Corporation and its subsidiaries (“Liberty”) (subsequently renamed Qurate Retail, Inc. (“Qurate Retail”)) authorized a plan to distribute to the stockholders of Liberty’s Liberty Ventures common stock shares of a newly-formed company, Liberty TripAdvisor Holdings, Inc. (“TripCo” or the “Company”) (the “TripCo Spin-Off”). TripCo was formed in 2013 as a Delaware corporation. TripCo holds its subsidiary TripAdvisor, Inc. (“TripAdvisor”) and held its former subsidiary, BuySeasons, Inc. (“BuySeasons”) until BuySeasons was sold on June 30, 2017. The TripCo Spin-Off was completed on August 27, 2014 and effected as a pro-rata dividend of shares of TripCo to the stockholders of Series A and Series B Liberty Ventures common stock of Liberty. As of December 31, 2018, TripCo held an approximate 22% equity interest and 58% voting interest in TripAdvisor.
+ Following the TripCo Spin-Off, Qurate Retail and TripCo operate as separate, publicly traded companies, and neither has any stock ownership, beneficial or otherwise, in the other. In connection with the TripCo Spin-Off, TripCo entered into certain agreements, including the reorganization agreement, the services agreement, the facilities sharing agreement and the tax sharing agreement, with Qurate Retail and/or Liberty Media Corporation (“Liberty Media”) (or certain of their subsidiaries) in order to govern certain of the ongoing relationships between the companies after the TripCo Spin-Off and to provide for an orderly transition.
+ The reorganization agreement provides for, among other things, the principal corporate transactions (including the internal restructuring) required to effect the TripCo Spin-Off, certain conditions to the TripCo Spin-Off and provisions governing the relationship between TripCo and Qurate Retail with respect to and resulting from the TripCo Spin-Off.
+ Pursuant to the services agreement, Liberty Media provides TripCo with general and administrative services including legal, tax, accounting, treasury and investor relations support. TripCo reimburses Liberty Media for direct, out-of-pocket expenses incurred by Liberty Media in providing these services and TripCo pays a services fee to Liberty Media under the services agreement that is subject to adjustment semi-annually, as necessary. 
+ Under the facilities sharing agreement, TripCo shares office space with Liberty Media and related amenities at Liberty Media’s corporate headquarters in Englewood, Colorado. 
+ The tax sharing agreement provides for the allocation and indemnification of tax liabilities and benefits between Qurate Retail and TripCo and other agreements related to tax matters. Pursuant to the tax sharing agreement, TripCo has agreed to indemnify Qurate Retail, subject to certain limited exceptions, for losses and taxes resulting from the TripCo Spin-Off to the extent such losses or taxes result primarily from, individually or in the aggregate, the breach of certain restrictive covenants made by TripCo (applicable to actions or failures to act by TripCo and its subsidiaries following the completion of the TripCo Spin-Off).
+ BuySeasons’ results of operations were included in the consolidated financial statements of TripCo until June 30, 2017. BuySeasons is not presented as a discontinued operation as the sale did not represent a strategic shift that had a major effect on TripCo’s operations and financial results.
+
+ 
+  I-1
+
+ 
+
+     * * * * *
+ Certain statements in this Annual Report on Form 10-K constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding our business, product and marketing strategies; new product and service offerings; the recoverability of our goodwill and other long-lived assets; indebtedness; our projected sources and uses of cash; and the anticipated impact of certain contingent liabilities related to legal and tax proceedings and other matters arising in the ordinary course of business.  In particular, statements under Item 1. "Business," Item 1A. "Risk Factors," Item 2. "Properties," Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations" and Item 7A. "Quantitative and Qualitative Disclosures About Market Risk" contain forward-looking statements.  Forward-looking statements inherently involve many risks and uncertainties that could cause actual results to differ materially from those projected in these statements. Where, in any forward-looking statement, we express an expectation or belief as to future results or events, such expectation or belief is expressed in good faith and believed to have a reasonable basis, but such statements necessarily involve risks and uncertainties and there can be no assurance that the expectation or belief will result or be achieved or accomplished. The following include some but not all of the factors that could cause actual results or events to differ materially from those anticipated:
+
+· | customer demand for products and services and the ability of our subsidiary to adapt to changes in demand;
+--+-----------------------------------------------------------------------------------------------------------
+
+
+· | competitor responses to products and services;
+--+-----------------------------------------------
+
+
+· | the levels and quality of online traffic to TripAdvisor’s businesses’ websites and the ability to convert visitors into contributors or consumers;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the expansion of social integration and member acquisition efforts with social media;
+--+--------------------------------------------------------------------------------------
+
+
+· | the impact of changes in search engine algorithms and dynamics or search engine disintermediation;
+--+---------------------------------------------------------------------------------------------------
+
+
+· | uncertainties inherent in the development and integration of new business lines and business strategies;
+--+---------------------------------------------------------------------------------------------------------
+
+
+· | our future financial performance, including availability, terms and deployment of capital;
+--+-------------------------------------------------------------------------------------------
+
+
+· | our ability to successfully integrate and recognize anticipated efficiencies and benefits from the businesses we acquire;
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+· | impairment of goodwill or other intangible assets such as trademarks or other intellectual property arising from acquisitions;
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the ability of suppliers and vendors to deliver equipment, software and services;
+--+----------------------------------------------------------------------------------
+
+
+· | availability of qualified personnel;
+--+-------------------------------------
+
+
+· | changes in, or failure or inability to comply with, government regulations, including, without limitation, regulations of the Federal Communications Commission and adverse outcomes from regulatory proceedings;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | changes in business models;
+--+----------------------------
+
+
+· | changes in the nature of key strategic relationships with partners and vendors;
+--+--------------------------------------------------------------------------------
+
+
+· | domestic and international economic and business conditions and industry trends, including the impact of “Brexit” and those conditions and trends which result in declines or disruptions in the travel industry;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | consumer spending levels, including the availability and amount of individual consumer debt;
+--+---------------------------------------------------------------------------------------------
+
+
+· | costs related to the maintenance and enhancement of brand awareness;
+--+---------------------------------------------------------------------
+
+
+· | advertising spending levels;
+--+-----------------------------
+
+
+· | rapid technological changes;
+--+-----------------------------
+
+ 
+ 
+  I-2
+
+ 
+
+
+· | failure to protect the security of personal information about customers and users, subjecting us to potentially costly government enforcement actions or private litigation and reputational damage;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the regulatory and competitive environment of the industries in which we operate;
+--+----------------------------------------------------------------------------------
+
+
+· | fluctuations in foreign currency exchange rates; and
+--+-----------------------------------------------------
+
+
+· | threatened terrorist attacks, political unrest in international markets and ongoing military action around the world.
+--+----------------------------------------------------------------------------------------------------------------------
+
+  These forward-looking statements and such risks, uncertainties and other factors speak only as of the date of this Annual Report, and we expressly disclaim any obligation or undertaking to disseminate any updates or revisions to any forward-looking statement contained herein, to reflect any change in our expectations with regard thereto, or any other change in events, conditions or circumstances on which any such statement is based.  When considering such forward-looking statements, you should keep in mind the factors described in Item 1A, "Risk Factors" and other cautionary statements contained in this Annual Report.  Such risk factors and statements describe circumstances which could cause actual results to differ materially from those contained in any forward-looking statement.
+ This Annual Report includes information concerning TripAdvisor, a public company in which we have a controlling interest that files reports and other information with the Securities and Exchange Commission (the “SEC”) in accordance with the Securities Exchange Act of 1934, as amended (the “Exchange Act”).  Information in this Annual Report concerning TripAdvisor has been derived from the reports and other information filed by TripAdvisor with the SEC.  If you would like further information about TripAdvisor, the reports and other information it files with the SEC can be accessed on the Internet website maintained by the SEC at www.sec.gov.  Those reports and other information are not incorporated by reference in this Annual Report.
+  Narrative Description of Business
+ TripAdvisor
+ TripAdvisor is an online travel company and its mission is to help people around the world to plan, book and experience the perfect trip. TripAdvisor seeks to achieve its mission by providing consumers and travel partners a global platform with rich consumer-generated content, price comparison tools and online reservation and related services for destinations, accommodations, travel activities and experiences, and restaurants.
+ TripAdvisor, Inc., by and through its subsidiaries, owns and operates a portfolio of leading online travel brands. Its flagship brand, TripAdvisor, is the world’s largest travel site based on average monthly unique visitors, which reached 490 million average monthly unique visitors during its seasonal peak during the year ended December 31, 2018, according to TripAdvisor’s internal log files. 
+ TripAdvisor-branded websites include www.tripadvisor.com in the United States and localized versions of the TripAdvisor website in 48 markets and 28 languages worldwide. TripAdvisor’s systems infrastructure and web and database servers for TripAdvisor-branded websites are housed at two geographically separate facilities and have multiple communication links as well as continuous monitoring and engineering support. Each facility is fully self-sufficient and operational with its own hardware, networking, software and content, and is structured in an active/passive, fully redundant configuration. Substantially all of its software components, data, and content are replicated in multiple datacenters and development centers, as well as being backed up at offsite locations. TripAdvisor’s systems are monitored and protected though multiple layers of security. Several of its individual subsidiaries and businesses, including Viator, have their own data infrastructure and technology teams.
+ TripAdvisor’s Industry and Market Opportunity
+ TripAdvisor operates in the global travel industry, focusing exclusively on online travel and travel-related activity, and the online advertising market.
+
+ 
+  I-3
+
+ 
+
+ Phocuswright, an independent travel, tourism and hospitality research firm, estimates the annual global travel market at $1.7 trillion. Phocuswright also estimates online penetration of global travel bookings to be less than 50%. However, travel bookings have been moving online as consumers gain access to the Internet and global tourism activity continues to increase, driven by middle class and economic growth. TripAdvisor, as an internet-enabled travel-focused business, allows consumers to research travel activity and share their experiences and opinions with a global audience. As consumer online travel media consumption and online travel commerce activity increases, TripAdvisor believes travel and travel-related businesses will continue to allocate greater percentages of their marketing budgets to online channels in order to grow their businesses. TripAdvisor believes this creates a significant long-term growth opportunity of its business.
+ Business Model
+ TripAdvisor’s businesses help to match demand, or consumers that seek to discover, research, price compare and book the best travel experiences online with supply from TripAdvisor’s travel partners around the world that provide travel accommodations and experiences.  Consumer Offerings
+ TripAdvisor enables consumers to plan, book and experience the perfect trip by providing content, supply, price, and convenience. Content and supply have enabled TripAdvisor to become a well-known global brand, one that has attracted the world’s largest travel audience, based on average monthly unique visitors, and influences a significant amount of travel commerce. TripAdvisor is focused on creating the best online experience in travel planning and booking, making it easier for consumers to research destinations and experiences, read and contribute user-generated content, compare destinations and businesses based on quality, price and availability, and complete bookings powered by its travel partners.  Travel Partners
+ TripAdvisor’s portfolio of travel-related websites, enables its travel partners to be discovered, to advertise and to sell their services to a global travel audience. Travel partners may include hotel chains, independent hoteliers, online travel agencies (“OTAs”), destination marketing organizations, and other travel-related and non-travel related product and service providers – who seek to market and sell their products and services to a global audience. TripAdvisor enables media advertising opportunities – and in some case, facilitates transactions between consumers and travel partners in a number of ways, including by sending referrals to its travel partners’ websites, facilitating bookings on behalf of its travel partners, by serving as the merchant of record – particularly in its Experiences and Rentals businesses – and by offering advertising placements on TripAdvisor websites and mobile applications (“app”). Businesses and Products
+ Hotel
+ The Hotel businesses accounted for 72%, 77% and 80% of its consolidated revenue in the years ended December 31, 2018, 2017 and 2016, respectively, and includes revenue generated from the following sources:
+
+· | TripAdvisor-branded Click-based and Transaction Revenue. TripAdvisor’s largest source of Hotel revenue is generated from click-based advertising on TripAdvisor-branded websites, which is primarily comprised of contextually-relevant links to its travel partners’ sites. TripAdvisor’s click-based travel partners are predominantly OTAs, and direct suppliers in the hotel category. Click-based advertising is generally priced on a cost-per-click (“CPC”) basis, with payments from travel partners determined by the number of travelers who click on a link multiplied by the CPC rate for specific click. CPC rates that TripAdvisor’s travel partners pay are determined in a dynamic, competitive auction process, also known as its metasearch auction. Transaction revenue is generated from its hotel instant booking feature, which enables hotel shoppers to book directly on TripAdvisor through a travel partner, with the latter serving as the merchant of record. TripAdvisor earns a pre-determined commission rate from its travel partners for each consumer that completes a hotel reservation on its website or app. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  I-4
+
+ 
+
+
+· | TripAdvisor-branded Display-based Advertising and Subscription Revenue. Travel partners can promote their brands in a contextually-relevant manner through a variety of display-based advertising placements on TripAdvisor’s websites. TripAdvisor’s display-based advertising clients are predominantly direct suppliers of hotels, air travel and cruises, as well as destination marketing organizations. Other display clients include OTAs and other travel-related businesses as well as advertisers from non-travel categories. Display-based advertising is sold predominantly on a cost per thousand impressions (“CPM”), basis. TripAdvisor also offers subscription-based advertising to hoteliers, owners of B&Bs and other specialty lodging properties, enabling subscribers to advertise their businesses on TripAdvisor’s website, as well as manage and promote their website URL, email address, phone number, special offers and other information related to their business. Subscription advertising services are predominantly sold for a flat fee for a contracted period of one year or less. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Other Hotel Revenue. TripAdvisor’s other Hotel revenue primarily includes revenue from non-TripAdvisor branded websites, such as www.bookingbuddy.com, www.cruisecritic.com, www.onetime.com and www.smartertravel.com, which primarily includes click-based advertising and display-based advertising revenue sources, as described above. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Non-Hotel
+ Non-Hotel businesses – Experiences, Restaurants and Rentals – have comprised an increasing percentage of consumer demand and consolidated revenue. TripAdvisor’s Non-Hotel businesses accounted for 28%, 23% and 20% of TripAdvisor’s consolidated revenue in the years ended December 31, 2018, 2017 and 2016, respectively, and includes revenue generated from the following sources:
+
+· | Experiences. TripAdvisor provides information and services for consumers to research, book and travel activities and experiences in popular travel destinations both through Viator, TripAdvisor’s dedicated Experiences business, and on TripAdvisor’s website and app. TripAdvisor also powers travel activities and experience booking capabilities to consumers on affiliate partner websites, including some of the world’s top airlines, hotel chains and online and offline travel agencies. TripAdvisor works with local tour or travel activities/experiences operators to provide consumers with access to tours, activities and experiences in popular destinations worldwide. TripAdvisor generates commissions for each booking transaction it facilitates through its online reservation system. To a lesser extent, TripAdvisor earns commissions from third-party merchant partners, which display and promote TripAdvisor’s supplier activities on their websites to generate bookings. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Restaurants. TripAdvisor provides information and services for consumers to research and book restaurants in popular travel destinations through its dedicated restaurant reservations business, TheFork, and on TripAdvisor websites and mobile apps. TheFork is an online restaurant booking platform operating on a number of websites (including www.lafourchette.com, www.eltenedor.com and www.iens.nl), with a network of restaurant partners located primarily across Europe and Australia. TripAdvisor’s bookable restaurants are available on www.thefork.com and on TripAdvisor-branded website and mobile apps. TripAdvisor primarily generates transaction fees (or per seated diner fees) that are paid by restaurants for diners seated primarily from bookings through TheFork’s online reservation system. To a lesser extent, TripAdvisor also generates subscription fees for subscription-based advertising to restaurants, access to certain online reservation management services and marketing analytic tools provided by TheFork and by TripAdvisor. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Rentals. TripAdvisor provides information and services for consumers to research and book vacation and short-term rental properties, including full home rentals, condominiums, villas, beach rentals, cabins and cottages. TripAdvisor’s Rentals businesses generates revenue primarily by offering individual property owners and managers, the ability to list their properties on TripAdvisor’s websites and mobile apps thereby connecting homeowners with travelers through a free-to-list, commission-based option, or, to a lesser extent, by an annual subscription-based fee structure. These properties are listed on www.flipkey.com, www.holidaylettings.co.uk, www.housetrip.com, www.niumba.com, www.vacationhomerentals.com, and on TripAdvisor-branded websites and mobile apps. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  I-5
+
+ 
+
+ Commercial Relationships
+ TripAdvisor has a number of commercial relationships that are important to the success of its business.  Although these relationships are memorialized in agreements, many of these agreements are for limited terms or are terminable at will or on short notice. As a result, TripAdvisor seeks to ensure the mutual success of these relationships. 
+ TripAdvisor has commercial relationships with the majority of the world’s leading OTAs, as well as a variety of other travel partners pursuant to which these companies primarily purchase traveler leads from TripAdvisor, generally on a click-based advertising basis. For the years ended December 31, 2018, 2017 and 2016, TripAdvisor’s two most significant travel partners were Expedia Inc. (and its subsidiaries) (“Expedia”) and Booking Holdings Inc. (and its subsidiaries) (“Booking Holdings”), each of which accounted for more than 10% of TripAdvisor’s consolidated revenue and together accounted for approximately 37%, 43% and 46%, respectively, of its consolidated revenue, with nearly all of this revenue concentrated in TripAdvisor’s Hotel businesses. 
+ Intellectual Property
+ TripAdvisor’s intellectual property, including patents, trademarks, copyrights, domain names, trade dress, proprietary technology and trade secrets, is an important component of its business. TripAdvisor relies on its intellectual property rights in its content, proprietary technology, software code, ratings indexes, databases of reviews and forum content. TripAdvisor has acquired some of its intellectual property rights through licenses and content agreements with third parties and these agreements may place restrictions on its use of the intellectual property.
+ TripAdvisor protects its intellectual property by relying on its terms of use, confidentiality agreements and contractual provisions, as well as on international, national, federal, state and common law rights. TripAdvisor protects its brands by pursuing the trademark registration of its core brands, as appropriate, maintaining its trademark portfolio, securing contractual trademark rights protection when appropriate, and relying on common law trademark rights when appropriate. TripAdvisor also registers copyrights and domain names as deemed appropriate. Additionally, TripAdvisor protects its trademarks, domain names and copyrights with the use of intellectual property licenses and an enforcement program.
+ TripAdvisor has considered, and will continue to consider, the appropriateness of filing for patents to protect future inventions, as circumstances may warrant.  However, many patents protect only specific inventions and there can be no assurance that others may not create new products or methods that achieve similar results without infringing upon patents owned by TripAdvisor.
+ In connection with TripAdvisor’s copyrightable content, it posts and institutes procedures under the U.S. Digital Millennium Copyright Act and similar “host privilege” statutes worldwide to gain immunity from copyright liability for photographs, text and other content loaded on its sites by users.  However, differences between statutes, limitations on immunity, and moderation efforts in the many jurisdictions in which TripAdvisor operates may affect its ability to claim immunity. 
+ From time to time, TripAdvisor may be subject to legal proceedings and claims in the ordinary course of its business, including claims of alleged infringement by TripAdvisor of the trademarks, copyrights, patents, and other intellectual property rights of third parties.  In addition, litigation may be necessary in the future to enforce TripAdvisor’s intellectual property rights, protect its trade secrets or determine the validity and scope of proprietary rights claimed by others.  Any such litigation, regardless of outcome or merit, could result in substantial costs and diversion of management and technical resources, any of which could materially harm TripAdvisor’s business.  
+ Seasonality
+ Traveler expenditures in the global travel market tend to follow a seasonal pattern. As such, advertising investments made by travel partners to market to potential travelers, and therefore TripAdvisor’s revenue and profits, tend to be seasonal as well. TripAdvisor’s financial performance tends to be seasonally highest in the second and third quarters of a year, as it is a key period for leisure travel research and trip-taking, which includes the seasonal peak in traveler hotel 
+
+ 
+  I-6
+
+ 
+and rental stays, and travel activities and experiences taken, compared to the first and fourth quarters which represent seasonal low points. Further significant shifts in TripAdvisor’s business mix or adverse economic conditions could result in future seasonal patterns that are different from historical trends.
+ Terms of Investment in TripAdvisor
+ We own an approximate 22% equity interest and 58% voting interest in TripAdvisor as of December 31, 2018. TripAdvisor’s amended and restated certificate of incorporation provides that the holders of TripAdvisor common stock, acting as a single class, are entitled to elect a number of directors equal to 25% of the total number of directors, rounded up to the next whole number, which is currently three directors. We consolidate TripAdvisor as we control a majority of the voting interest in TripAdvisor. We are subject to a Governance Agreement with TripAdvisor which provides us with certain director nomination, registration and other rights and imposes certain restrictions on our shares of Class B common stock. 
+ Regulatory Matters 
+ TripAdvisor is subject to a number of laws and regulations that affect companies conducting business on the Internet and relating to the travel industry, the vacation rental industry and the provision of travel services.  As TripAdvisor continues to expand the reach of its brands into additional international markets, it is increasingly subject to additional laws and regulations.  These include laws and regulations regarding, among other matters, consumer privacy, data protection, libel, rights of publicity, content, intellectual property, distribution, electronic contracts and other communications, consumer protection, taxation, online payment services, competition and protection of minors. These laws and regulations are constantly evolving and can be subject to significant change. Many of these laws and regulations are being tested in courts, and could be interpreted by regulators and courts in ways that could harm TripAdvisor’s business. In addition, the application and interpretation of these laws and regulations is often uncertain, particularly in the new and rapidly-evolving industry in which TripAdvisor operates. 
+ In addition, TripAdvisor provides advertising data and information and conducts marketing activities that are subject to consumer protection laws and regulations that regulate unfair and deceptive practices, domestically and internationally, including, in some countries, pricing display requirements, licensing and registration requirements and industry specific value-added tax regimes. The United States and European Union have adopted laws and regulations that regulate certain aspects of the Internet, among other matters, including online editorial and user-generated content, data privacy, behavioral targeting and online advertising, taxation, and liability for third-party activities. 
+ It is impossible to accurately predict how existing laws, and legislation that may be adopted in the U.S. and European Union in the future, will be interpreted and applied or whether new taxes or regulations will be imposed on TripAdvisor’s services, and whether or how TripAdvisor might be affected. Increased regulation of the Internet could increase the cost of doing business or otherwise materially adversely affect TripAdvisor’s business, financial condition or operational results. 
+ TripAdvisor is subject to laws that require protection of user privacy and user data. As business has evolved, TripAdvisor has begun to receive and store a greater volume of personally identifiable data. These data are increasingly subject to laws and regulations in numerous jurisdictions around the world. For example, the European Union adopted the General Data Protection Regulation (“GDPR”), effective in May 2018, which requires companies, including TripAdvisor, to meet enhanced requirements regarding the handling of personal data. The enactment, interpretation and application of this law is still in a state of flux, and the interpretation and application of GDPR may vary from country to country. In addition, similar laws are currently under discussion in other jurisdictions. 
+ On June 23, 2016, the United Kingdom passed a referendum to exit the European Union, known as Brexit. Since the terms of the United Kingdom’s exit from the European Union are uncertain, TripAdvisor is unable to predict the effect Brexit will have on its business and results of operations. However, TripAdvisor will likely face new regulatory costs and challenges if the U.K. regulations diverge from those of the European Union.
+
+ 
+  I-7
+
+ 
+
+ Marketing and Competition
+ TripAdvisor competes in a large, dynamic and competitive global travel industry. TripAdvisor faces competition for content, consumers and advertisers from other online travel and price comparison services (known in the industry as “metasearch”), as well as OTAs. In order to favorably attract consumers to its websites and mobile apps, TripAdvisor invests to amplify its global brand and raise consumer awareness of, and engagement with, its end-to-end product offerings. TripAdvisor invests through various marketing channels, including domain direct and various online and offline marketing channels, including online search engines (primarily Google), social media, emails and in more recent years, through television brand advertising. The relative success of TripAdvisor’s marketing strategy can be influenced by changes that TripAdvisor, its partners, or its competitors make to its respective products and marketing strategies. During 2018, TripAdvisor’s advertising expense was primarily driven by investments in online search engines, and to a lesser extent, investments in offline marketing channels, which was primarily television advertising. TripAdvisor intends to promote brand awareness through both online and offline advertising efforts.
+     TripAdvisor competes with different types of companies in the various markets and geographies in which it operates, including large and small companies in the travel space as well as broader service providers. More specifically:
+
+· | TripAdvisor’s Hotel businesses face competition, and in some case partner with, the following businesses: OTAs (including Expedia and Booking Holdings and many of their respective subsidiaries and operating companies); hotel metasearch providers (including trivago, a subsidiary of Expedia, Kayak and HotelsCombined, subsidiaries of Booking Holdings, and Ctrip.com International, Ltd.); large online search, social media, and marketplace platforms and companies (including Google, Facebook, Microsoft’s Bing, Yahoo, Baidu, Alibaba and Amazon); and traditional offline travel agencies; and global hotel chains seeking to promote direct bookings. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | TripAdvisor’s Non-Hotel business, Experiences, competes with online travel agencies, such as Airbnb, Booking Holdings, Inc. and GetYourGuide; traditional travel agencies; online travel service providers; and wholesalers, among others. TripAdvisor’s Restaurants businesses compete with other online restaurant reservation services, such as SeatMe (owned by Yelp) and OpenTable (a subsidiary of Booking Holdings), and local or regional providers. TripAdvisor’s Rentals businesses compete with companies focused on alternative lodging and shared accommodations and online accommodation searches, including Airbnb, HomeAway (a subsidiary of Expedia) and Booking.com (a subsidiary of Booking Holdings).
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  As the industry continues to shift towards online travel services and the technology supporting it continues to evolve, TripAdvisor anticipates that the existing competitive landscape will continue to change, new competitors may emerge, and industry consolidation may continue. 
+ Employees
+ TripCo currently does not have any corporate employees. Liberty Media provides TripCo with certain management services pursuant to a services agreement and certain of Liberty Media’s corporate employees and executive officers will provide services to TripCo for a determined fee. As of December 31, 2018, TripAdvisor had approximately 3,366 employees. Of those employees, approximately half of these employees were based in the United States. TripAdvisor believes it has good relationships with its employees, including relationships with employees represented by international works councils or other similar organizations.  Available Information
+ All of our filings with the SEC, including our Form 10-Ks, Form 10-Qs and Form 8-Ks, as well as amendments to such filings are available on our Internet website free of charge generally within 24 hours after we file such material with the SEC.  Our website address is www.libertytripadvisorholdings.com.
+
+ 
+  I-8
+
+ 
+
+ Our corporate governance guidelines, code of business conduct and ethics, compensation committee charter, nominating and corporate governance committee charter, and audit committee charter are available on our website.  In addition, we will provide a copy of any of these documents, free of charge, to any shareholder who calls or submits a request in writing to Investor Relations, Liberty TripAdvisor Holdings, Inc., 12300 Liberty Boulevard, Englewood, Colorado 80112, Tel. No. (877) 772-1518.
+ The information contained on our website is not incorporated by reference herein.
+
+ 
+  I-9
+
+ 
+
