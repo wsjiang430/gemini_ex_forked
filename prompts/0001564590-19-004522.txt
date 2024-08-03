@@ -1,0 +1,236 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+ The following description of our business should be read in conjunction with the information included elsewhere in this Report. This description contains forward-looking statements that involve risks and uncertainties. Actual results could differ significantly from the projections and results discussed in the forward-looking statements due to the factors described under the caption “Risk Factors” and elsewhere in this Report. References in this Report to “we,” “our,” “us,” “PMT,” or the “Company” refer to PennyMac Mortgage Investment Trust and its consolidated subsidiaries, unless otherwise indicated.
+ Our Company
+ We are a specialty finance company that invests primarily in residential mortgage loans and mortgage-related assets. We were organized in Maryland and began operations in 2009. We conduct substantially all of our operations, and make substantially all of our investments, through PennyMac Operating Partnership, L.P. (our “Operating Partnership”) and its subsidiaries. A wholly-owned subsidiary of ours is the sole general partner, and we are the sole limited partner, of our Operating Partnership. Certain of the activities conducted or investments made by us that are described below are conducted or made through a wholly-owned subsidiary that is a taxable REIT subsidiary (“TRS”) of our Operating Partnership.
+ The management of our business and execution of our operations is performed on our behalf by subsidiaries of PennyMac Financial Services, Inc. (“PFSI” or “PennyMac”). PFSI is a specialty financial services firm focused on the production and servicing of U.S. mortgage loans and the management of investments related to the U.S. mortgage market. Specifically:
+  
+• | We are managed by PNMAC Capital Management, LLC (“PCM” or our “Manager”), a wholly-owned subsidiary of PennyMac and an investment adviser registered with the United States Securities and Exchange Commission (“SEC”) that specializes in, and focuses on, U.S. mortgage assets.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our mortgage loan production and servicing activities (as described below) are performed on our behalf by another wholly-owned PennyMac subsidiary, PennyMac Loan Services, LLC (“PLS” or our “Servicer”).
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Our investment focus is on residential mortgage-backed securities (“MBS”) and mortgage-related assets that we create through our correspondent production activities, including mortgage servicing rights (“MSRs”) and credit risk transfer (“CRT”) investments, including CRT Agreements and CRT securities. We have acquired these investments largely by purchasing, pooling and selling newly originated prime credit quality residential mortgage loans (“correspondent production”), retaining the MSRs relating to such mortgage loans and investing in CRT arrangements associated with certain of such mortgage loans. 
+ Our business includes four segments: correspondent production, credit sensitive strategies, interest rate sensitive strategies and corporate activities.
+  
+• | The correspondent production segment represents the Company’s operations aimed at serving as an intermediary between mortgage lenders and the capital markets by purchasing, pooling and reselling newly originated prime credit quality mortgage loans either directly or in the form of MBS. Assets resulting from these activities serve as the source for our investments in MSRs and CRT arrangements.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The credit sensitive strategies segment represents the Company’s investments in CRT Agreements, firm commitment to purchase CRT securities, distressed mortgage loans, real estate acquired in settlement of mortgage loans (“REO”) and non-Agency subordinated bonds and small balance commercial real estate mortgage loans.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The interest rate sensitive strategies segment represents the Company’s investments in MSRs, excess servicing spread (“ESS”), Agency and senior non-Agency MBS and interest rate hedging activities related to indebtedness.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The corporate segment includes certain interest income and management fee and other corporate expenses.
+--+--------------------------------------------------------------------------------------------------------
+
+ 6
+
+Following is a summary of our segment results for the periods presented:
+ 
+ 
+ | For the year ended December 31, | 
+-----------------------------------+---------------------------------+----------
+ | 2018 | | | 2017 | | | 2016 | | 2015 | | 2014 | 
+ | (in thousands) | 
+Net investment income: | | | | | | | | | | | | | | | | 
+Correspondent production | $ | 105,606 | | | $ | 131,981 | | $ | 168,530 | | $ | 100,400 | | $ | 62,897 | 
+Credit sensitive strategies | | 110,271 | | | | 133,400 | | | 66,256 | | | 108,315 | | | 254,922 | 
+Interest rate sensitive strategies | | 133,613 | | | | 51,777 | | | 36,651 | | | 39,447 | | | 38,269 | 
+Corporate | | 1,577 | | | | 782 | | | 651 | | | 603 | | | 653 | 
+ | $ | 351,067 | | | $ | 317,940 | | $ | 272,088 | | $ | 248,765 | | $ | 356,741 | 
+Pre-tax income: | | | | | | | | | | | | | | | | 
+Correspondent production | $ | 16,472 | | | $ | 42,938 | | $ | 73,842 | | $ | 36,390 | | $ | 10,960 | 
+Credit sensitive strategies | | 87,251 | | | | 102,214 | | | 17,288 | | | 66,038 | | | 206,738 | 
+Interest rate sensitive strategies | | 98,432 | | | | 22,683 | | | 14,041 | | | 20,516 | | | 23,371 | 
+Corporate | | (44,167 | ) | | | (43,289 | ) | | (43,408 | ) | | (49,640 | ) | | (61,605 | )
+ | $ | 157,988 | | | $ | 124,546 | | $ | 61,763 | | $ | 73,304 | | $ | 179,464 | 
+Total assets at year end: | | | | | | | | | | | | | | | | 
+Correspondent production | $ | 1,698,656 | | | $ | 1,302,245 | | $ | 1,734,290 | | $ | 1,298,968 | | $ | 665,489 | 
+Credit sensitive strategies | | 1,602,776 | | | | 1,791,447 | | | 2,288,886 | | | 2,787,064 | | | 2,655,500 | 
+Interest rate sensitive strategies | | 4,373,488 | | | | 2,414,423 | | | 2,177,024 | | | 1,640,062 | | | 1,359,409 | 
+Corporate | | 138,441 | | | | 96,818 | | | 157,302 | | | 100,830 | | | 216,860 | 
+ | $ | 7,813,361 | | | $ | 5,604,933 | | $ | 6,357,502 | | $ | 5,826,924 | | $ | 4,897,258 | 
+
+ In our correspondent production activities, we purchase Agency-eligible mortgage loans and jumbo mortgage loans. A jumbo mortgage loan is a loan in an amount that exceeds the maximum loan amount for eligible loans under Agency guidelines. We then sell Agency-eligible mortgage loans meeting the guidelines of Fannie Mae and Freddie Mac on a servicing-retained basis whereby we retain the related MSRs; government mortgage loans (insured by the FHA or guaranteed by the VA), which we sell on a servicing-released basis to PLS, a Ginnie Mae approved issuer and servicer; and jumbo mortgage loans, which we generally sell on a servicing-retained basis.
+ Our correspondent production business involves purchases of mortgage loans from approved mortgage originators that meet specific criteria related to management experience, financial strength, risk management controls and mortgage loan quality. As of December 31, 2018, we have 710 approved sellers, primarily independent mortgage originators and small banks located across the United States. During 2018, we were the second largest correspondent aggregator in the United States as ranked by Inside Mortgage Finance.
+
+7
+
+Following is a summary of our correspondent production activities:
+ 
+ 
+ | Year ended December 31, | 
+----------------------------------------------------------+-------------------------+-----------
+ | 2018 | | 2017 | | | 2016 | | 2015 | 2014 | 
+ | (in thousands) | 
+Correspondent mortgage loan purchases at fair value: | | | | | | | | | | | | 
+Government-insured or guaranteed | $ | 37,764,019 | | $ | 42,087,007 | | $ | 42,171,914 | $ | 31,945,396 | $ | 16,523,216
+Agency-eligible | | 30,176,215 | | | 23,742,999 | | | 23,930,186 | | 14,360,888 | | 11,474,345
+Jumbo | | 67,501 | | | — | | | 10,227 | | 117,714 | | 383,854 
+Commercial | | 7,263 | | | 69,167 | | | 18,112 | | 14,811 | — | 
+ | $ | 68,014,998 | | $ | 65,899,173 | | $ | 66,130,439 | $ | 46,438,809 | $ | 28,381,415
+Interest rate lock commitments issued | $ | 66,723,338 | | $ | 65,926,958 | | $ | 67,139,108 | $ | 48,138,062 | $ | 27,815,464
+Fair value of mortgage loans at year end pending sale to: | | | | | | | | | | | | 
+Nonaffiliates | $ | 1,557,649 | | $ | 989,944 | | $ | 868,496 | $ | 614,507 | $ | 428,397 
+PLS | | 86,308 | | | 279,571 | | | 804,616 | | 669,288 | | 209,325 
+ | $ | 1,643,957 | | $ | 1,269,515 | | $ | 1,673,112 | $ | 1,283,795 | $ | 637,722 
+Number of approved sellers at year-end | | 710 | | | 613 | | | 522 | | 432 | | 344 
+
+ The sale of mortgage loans to nonaffiliates from our correspondent production activities serves as the source of our investments in MSRs and CRT arrangements, which are summarized below:
+ 
+ 
+ | Year ended December 31, | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+-----------
+ | 2018 | | | 2017 | | | 2016 | | 2015 | 2014 | 
+ | (in thousands) | 
+Sales of mortgage loans acquired for sale: | | | | | | | | | | | | | 
+To nonaffiliates | $ | 29,369,656 | | | $ | 24,314,165 | | $ | 23,525,952 | $ | 14,206,816 | $ | 11,703,015
+To PennyMac Financial Services, Inc. | | 37,967,724 | | | | 42,624,288 | | | 42,051,505 | | 31,490,920 | | 16,431,338
+ | $ | 67,337,380 | | | $ | 66,938,453 | | $ | 65,577,457 | $ | 45,697,736 | $ | 28,134,353
+Net gain on mortgage loans acquired for sale | $ | 59,185 | | | $ | 74,516 | | $ | 106,442 | $ | 51,016 | $ | 35,647 
+Investment activities driven by correspondent production: | | | | | | | | | | | | | 
+Receipt of MSRs as proceeds from sales of mortgage loans | $ | 356,755 | | | $ | 290,309 | | $ | 275,092 | $ | 154,474 | $ | 121,333 
+Investments in CRT Agreements | | | | | | | | | | | | | 
+Deposits of cash securing CRT Agreements | $ | 596,626 | | | $ | 152,641 | | $ | 306,507 | $ | 147,446 | $ | — 
+Change in commitments to fund Deposits securing CRT Agreements resulting from sale of mortgage loans under CRT Agreements and settlement of outstanding commitments | | (482,471 | ) | | | 390,362 | | | 92,109 | | — | | — 
+Total investments in CRT Agreements | $ | 114,155 | | | $ | 543,003 | | $ | 398,616 | $ | 147,446 | $ | — 
+Increase in face amount of firm commitment to purchase CRT securities | $ | 605,052 | | | $ | — | | $ | — | $ | — | $ | — 
+
+ We also invest in MBS, ESS on MSRs acquired by PLS and real estate held for investment. We historically invested in distressed mortgage assets (mortgage loans and REO), which are no longer our primary focus for new investments. 
+ Following is a summary of our acquisitions of other mortgage-related investments:
+ 
+ 
+ | Year ended December 31, | 
+--------------------------+-------------------------+----------
+ | 2018 | | 2017 | | | 2016 | | 2015 | 2014 | 
+ | (in thousands) | 
+MBS | $ | 1,810,877 | | $ | 251,872 | | $ | 765,467 | $ | 84,828 | $ | 185,972
+ESS | | 2,688 | | | 5,244 | | | 6,603 | | 278,282 | | 103,235
+Distressed mortgage loans | | — | | | — | | | — | | 241,981 | | 554,604
+ | $ | 1,813,565 | | $ | 257,116 | | $ | 772,070 | $ | 605,091 | $ | 843,811
+
+ 
+8
+
+Our portfolio of mortgage investments was comprised of the following:
+ 
+ 
+ | December 31, | 
+-----------------------------------------------------------------------------------------+----------------+----------
+ | 2018 | | 2017 | | | 2016 | | 2015 | 2014 | 
+ | (in thousands) | 
+Credit Sensitive Assets | | | | | | | | | | | | 
+CRT Agreements (1) | $ | 1,270,488 | | $ | 687,507 | | $ | 465,669 | $ | 147,593 | $ | — 
+Firm commitment to purchase CRT securities | | 37,994 | | | — | | | — | | — | | — 
+Distressed mortgage loans at fair value | | | | | | | | | | | | 
+Performing | | 28,806 | | | 414,785 | | | 611,584 | | 877,438 | | 664,266 
+Nonperforming | | 88,926 | | | 353,648 | | | 742,988 | | 1,222,956 | | 1,535,317
+ | | 117,732 | | | 768,433 | | | 1,354,572 | | 2,100,394 | | 2,199,583
+REO and real estate held for investment | | 128,791 | | | 207,089 | | | 303,393 | | 350,642 | | 303,228 
+Subordinated interest in mortgage loans held in VIE | | 9,365 | | | 9,661 | | | 8,925 | | 35,484 | | 35,663 
+Small balance commercial mortgage loans | | 8,559 | | | 9,898 | | | 8,961 | | 14,590 | — | 
+ | | 1,534,935 | | | 1,682,588 | | | 2,141,520 | | 2,648,703 | | 2,538,474
+Interest Rate Sensitive Assets | | | | | | | | | | | | 
+Agency MBS | | 2,610,422 | | | 989,461 | | | 865,061 | | 225,150 | | 195,518 
+Non-Agency senior MBS | | — | | | — | | | — | | 97,323 | | 111,845 
+MSRs | | 1,162,369 | | | 844,781 | | | 656,567 | | 459,741 | | 357,780 
+ESS | | 216,110 | | | 236,534 | | | 288,669 | | 412,425 | | 191,166 
+Interest rate hedges (2) | | 25,276 | | | 9,303 | | | 4,749 | | 2,282 | | 3,016 
+Mortgage loans held in a VIE, net of asset-backed financing and subordinated interest | | 4,709 | | | 3,960 | | | 4,346 | | 172,220 | | 325,786 
+ | | 4,018,886 | | | 2,084,039 | | | 1,819,392 | | 1,369,141 | | 1,185,111
+ | $ | 5,553,821 | | $ | 3,766,627 | | $ | 3,960,912 | $ | 4,017,844 | $ | 3,723,585
+
+
+(1) | Investments in CRT Agreements include deposits securing CRT Agreements and CRT derivatives.
+----+--------------------------------------------------------------------------------------------
+
+
+(2) | Derivative assets, net of derivative liabilities, excluding interest rate lock commitment (“IRLC”), CRT derivatives and repurchase agreements derivatives.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Over time, our targeted asset classes may change as a result of changes in the opportunities that are available in the market, among other factors. We may not invest in certain of the investments described above if we believe those types of investments will not provide us with suitable returns or if we believe other types of our targeted assets provide us with better returns.
+ Investment Policies
+ Our board of trustees has adopted the policies set forth below for our investments and borrowings. PCM reviews its compliance with our investment policies regularly and reports periodically to our board of trustees regarding such compliance.
+
+• | No investment shall be made that would cause us to fail to qualify as a REIT for U.S. federal income tax purposes;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+• | No investment shall be made that would cause us to be regulated as an investment company under the Investment Company Act; and
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+• | With the exception of real estate and housing, no single industry shall represent greater than 20% of the investments or total risk exposure in our portfolio.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 9
+
+These investment policies may be changed by a majority of our board of trustees without the approval of, or prior notice to, our shareholders.
+ We have not adopted a policy that expressly prohibits our trustees, officers, shareholders or affiliates from having a direct or indirect financial interest in any investment to be acquired or disposed of by us or in any transaction to which we are a party or have an interest. We do not have a policy that expressly prohibits any such persons from engaging for their own account in business activities of the types conducted by us. However, our code of business conduct and ethics contains a conflicts of interest policy that prohibits our trustees and officers, as well as employees of PennyMac and its subsidiaries who provide services to us, from engaging in any transaction that involves an actual or apparent conflict of interest with us without the appropriate approval. We also have written policies and procedures for the review and approval of related party transactions, including oversight by designated committees of our board of trustees and PFSI’s board of directors.
+ Our Financing Activities
+ We have pursued growth of our investment portfolio by using a combination of equity and borrowings, primarily in the form of borrowings under agreements to repurchase. We use borrowings to finance our investments and not to speculate on changes in interest rates.
+ Equity financing
+ During 2014, we issued 3.8 million common shares under an ATM Equity Offering Sales Agreementsm and received net proceeds totaling $89.5 million. We used the proceeds of the 2014 offerings to fund a portion of the purchase price of our mortgage-related investments, to fund the continued growth of our correspondent production business and for general business purposes.
+ During 2015, our board of trustees authorized a common share repurchase program under which, as amended, we may repurchase up to $300 million of our outstanding common shares. Repurchased common shares are canceled upon settlement of the repurchase transactions and returned to the authorized but unissued share pool. Repurchases under this program are summarized below:
+ 
+ 
+ | Year ended December 31, | | Cumulative | 
+----------------------------------+------------------------------------------+--------+------------+--
+ | 2018 | | 2017 | | | 2016 | | 2015 | total | 
+ | (in thousands, except per-share amounts) | 
+Common shares repurchased | | 671 | | | 5,647 | | | 7,368 | | 1,045 | | 14,731 
+Cost of common shares repurchased | $ | 10,719 | | $ | 91,198 | | $ | 98,370 | $ | 16,338 | $ | 216,625
+Average cost per share | $ | 15.96 | | $ | 16.15 | | $ | 13.35 | $ | 15.65 | $ | 14.71 
+
+ During 2017, we issued 4.6 million of our 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest, $0.01 par value per share (“Series A Preferred Shares”) and 7.8 million of our 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest, $0.01 par value per share (the “Series B Preferred Shares” and, together with the Series A Preferred Shares, the “Preferred Shares”). We received proceeds of $299.7 million net of issuance costs from these issuances. From, and including, the date of original issuance to, but not including, March 15, 2024 and June 15, 2024, respectively, the Company pays cumulative dividends on the Series A Preferred Shares at a fixed rate of 8.125% and on the Series B Preferred Shares at a fixed rate of 8.00% per annum based on the $25.00 per share liquidation preference. Thereafter, dividends are paid at rates indexed to the U.S. Dollar LIBOR rate.
+ Debt financing
+ During 2013, our wholly-owned subsidiary, PennyMac Corp. (“PMC”), issued in a private offering $250 million principal amount of 5.375% Exchangeable Senior Notes due 2020 (the “Exchangeable Notes”). The net proceeds were used to fund our business and investment activities, including the acquisition of distressed mortgage loans or other investments; the funding of the continued growth of our correspondent production business, including the purchase of jumbo loans; the repayment of other indebtedness; and general business purposes.
+ We maintain multiple master repurchase agreements and mortgage loan participation and sale agreements with money center banks to fund newly originated prime mortgage loans purchased from correspondent sellers. The total unpaid principal balance (“UPB”) outstanding under the facilities in existence as of December 31, 2018 was $1.5 billion.
+ 10
+
+During 2016, our wholly-owned subsidiary, PennyMac Holdings, LLC (“PMH”) entered into a master repurchase agreement with PLS, pursuant to which PMH sells to PLS participation certificates representing a beneficial interest in Ginnie Mae ESS under an agreement to repurchase. The purchase price is based upon a percentage of the market value of the ESS. Pursuant to the master repurchase agreement, PMH grants to PLS a security interest in all of its right, title and interest in, to and under the ESS and PLS, in turn, re-pledges such ESS along with its interest in all of its Ginnie Mae MSRs under a repurchase agreement to a special purpose entity, which issues variable funding notes and term notes that are secured by such Ginnie Mae assets. The notes are repaid through the cash flows received by the special purpose entity as the lender under its repurchase agreement with PLS, which, in turn, receives cash flows from us under our repurchase agreement secured by the Ginnie Mae ESS. The total UPB outstanding under this facility as of December 31, 2018 was $131.0 million.
+ During 2017, through PMC and PMH, we entered into a master repurchase agreement with a wholly-owned special purpose entity, PMT ISSUER TRUST-FMSR (“FMSR Issuer Trust”), which issues variable funding notes and term notes that are secured by participation certificates representing a beneficial interest in Fannie Mae MSRs and the related ESS. The notes are repaid through the cash flows received by FMSR Issuer Trust as the lender under the repurchase agreement, pursuant to which PMC grants to the special purpose entity a security interest in all of its right, title and interest in, to and under the MSRs and ESS. 
+ During 2018, the Company, through FMSR Issuer Trust, issued an aggregate principal amount of $450 million in secured term notes (the “2018-FT1 Notes”) to qualified institutional buyers under Rule 144A of the Securities Act of 1933, as amended. The 2018-FT1 Notes bear interest at a rate equal to one-month LIBOR plus 2.35% per annum, payable each month beginning in May 2018, on the 25th day of such month or, if such 25th day is not a business day, the next business day. The 2018-FT1 Notes mature on April 25, 2023 or, if extended pursuant to the terms of the related term note indenture supplement, April 25, 2025 (unless earlier redeemed in accordance with their terms). 
+ The 2018-FT1 Notes rank pari passu with the Series 2017-VF1 Note dated December 20, 2017 (the “FMSR VFN”) pledged to Credit Suisse under an agreement to repurchase. The total UPB outstanding under such agreement to repurchase as of December 31, 2018 was $5.0 million. The 2018-FT1 Notes and the FMSR VFN are secured by certain participation certificates relating to Fannie Mae MSRs and ESS relating to such MSRs.
+ During 2018, the Company, through PMC and PMH, entered into a Loan and Security Agreement with Credit Suisse First Boston Mortgage Capital LLC (“Credit Suisse”), pursuant to which PMC and PMH may finance certain mortgage servicing rights (inclusive of any related excess servicing spread arising therefrom and that may be transferred from PMC to PMH from time to time) relating to mortgage loans pooled into Freddie Mac securities (collectively, the “Freddie MSRs”), in an aggregate loan amount not to exceed $175 million, all of which is committed. The note matures on February 1, 2020.
+ Our borrowings are made under agreements that include various covenants, including the maintenance of profitability and specified levels of cash, adjusted tangible net worth and overall leverage limits. Our ability to borrow under these facilities is limited by the amount of qualifying assets that we hold and that are eligible to be pledged to secure such borrowings and our ability to fund any applicable margin requirements. We are not otherwise required to maintain any specific debt-to-equity ratio, and we believe the appropriate leverage for the particular assets we finance depends on, among other things, the credit quality and risk of such assets. Our declaration of trust and bylaws do not limit the amount of indebtedness we can incur, and our board of trustees has discretion to deviate from or change our financing strategy at any time.
+ Subject to maintaining our qualification as a REIT and exclusion from registration under the Investment Company Act, we may hedge the interest rate risk associated with the financing of our portfolio.
+ Our Manager and Our Servicer
+ We are externally managed and advised by PCM pursuant to a management agreement. PCM specializes in and focuses on investments in U.S. mortgage assets. PCM has also served as the investment manager to two private investment funds, which were liquidated during 2018.
+ PCM is responsible for administering our business activities and day-to-day operations, including developing our investment strategies, sourcing and acquiring mortgage loans and mortgage-related assets for our investment portfolio, and developing the appropriate approach to be taken by PLS for each loan as it performs its specialty servicing. Pursuant to the terms of the management agreement, PCM provides us with our senior management team, including our officers and support personnel. PCM is subject to the supervision and oversight of our board of trustees and has the functions and authority specified in the management agreement.
+ 11
+
+We also have a loan servicing agreement with PLS, pursuant to which PLS provides primary and special servicing for our portfolio of residential mortgage loans and MSRs. PLS’ mortgage loan servicing activities include collecting principal, interest and escrow account payments, accounting for and remitting collections to investors in the mortgage loans, responding to customer inquiries, and default management activities, including managing loss mitigation, which may include, among other things, collection activities, loan workouts, modifications and refinancings, foreclosures, short sales and sales of REO. Servicing fee rates are based on the delinquency status, activities performed, and other characteristics of the mortgage loans serviced and total servicing compensation is established at levels that our Manager believes are competitive with those charged by other primary servicers and specialty servicers. PLS also provided special servicing to the private investment funds and the entities in which those funds invested. PLS acted as the servicer for mortgage loans with UPB totaling approximately $299.3 billion, of which $94.7 billion was subserviced for us as of December 31, 2018.
+ Operating and Regulatory Structure
+ Taxation – REIT Qualification
+ We have elected to be treated as a REIT under Sections 856 through 860 of the Internal Revenue Code of 1986 (the “Internal Revenue Code”) beginning with our taxable year ended December 31, 2009. Our qualification as a REIT depends upon our ability to meet on a continuing basis, through actual investment and operating results, various complex requirements under the Internal Revenue Code relating to, among other things, the sources of our gross income, the composition and values of our assets, our distribution levels and the diversity of ownership of our common shares. We believe that we are organized in conformity with the requirements for qualification and taxation as a REIT under the Internal Revenue Code, and that our manner of operation enables us to meet the requirements for qualification and taxation as a REIT.
+ As a REIT, we generally are not subject to U.S. federal income tax on our REIT taxable income we distribute to our shareholders. If we fail to qualify as a REIT in any taxable year and do not qualify for certain statutory relief provisions, we will be subject to U.S. federal income tax at regular corporate rates and may be precluded from qualifying as a REIT for the subsequent four taxable years following the year during which we lost our REIT qualification. Accordingly, our failure to qualify as a REIT could have a material adverse impact on our results of operations and amounts available for distribution to our shareholders.
+ Even though we have elected to be taxed as a REIT, we are subject to some U.S. federal, state and local taxes on our income or property. A portion of our business is conducted through, and a portion of our income is earned in, our TRS that is subject to corporate income taxation. In general, a TRS of ours may hold assets and engage in activities that we cannot hold or engage in directly and may engage in any real estate or non-real estate related business. A TRS is subject to U.S. federal, state and local corporate income taxes. To maintain our REIT election, at the end of each quarter no more than 20% of the value of a REIT’s assets may consist of stock or securities of one or more TRSs.
+ If our TRS generates net income, our TRS can declare dividends to us, which will be included in our taxable income and necessitate a distribution to our shareholders. Conversely, if we retain earnings at the TRS level, no distribution is required and we can increase shareholders’ equity of the consolidated entity. As discussed in Section 1A of this Report entitled Risk Factors, the combination of the requirement to maintain no more than 20% of our assets in the TRS coupled with the effect of TRS dividends on our income tests creates compliance complexities for us in the maintenance of our qualified REIT status.
+ The dividends paid deduction of a REIT for qualifying dividends to its shareholders is computed using our taxable income as opposed to net income reported on our financial statements. Taxable income generally differs from net income reported on our financial statements because the determination of taxable income is based on tax laws and regulations and not financial accounting principles.
+ Licensing
+ We and PLS are required to be licensed to conduct business in certain jurisdictions. PLS is, or is taking steps to become, licensed in those jurisdictions and for those activities where it believes it is cost effective and appropriate to become licensed. Through our wholly owned subsidiaries, we are also licensed, or are taking steps to become licensed, in those jurisdictions and for those activities where we believe it is cost effective and appropriate to become licensed. In jurisdictions in which neither we nor PLS is licensed, we do not conduct activity for which a license is required. Our failure or the failure by PLS to obtain any necessary licenses promptly, comply with applicable licensing laws or satisfy the various requirements or to maintain them over time could materially and adversely impact our business.
+ 12
+
+Competition
+ In our correspondent production activities, we compete with large financial institutions and with other independent residential mortgage loan producers and servicers. We compete on the basis of product offerings, technical knowledge, loan quality, speed of execution, rate and fees.
+ In acquiring mortgage assets, we compete with specialty finance companies, private funds, other mortgage REITs, thrifts, banks, mortgage bankers, insurance companies, mutual funds, institutional investors, investment banking firms, governmental bodies and other entities, which may also be focused on acquiring mortgage-related assets, and therefore may increase competition for the available supply of mortgage assets suitable for purchase.
+ Many of our competitors are significantly larger than we are and have stronger financial positions and greater access to capital and other resources than we have and may have other advantages over us. Such advantages include the ability to obtain lower-cost financing, such as deposits, and operational efficiencies arising from their larger size.
+ Some of our competitors may have higher risk tolerances or different risk assessments and may not be subject to the operating restraints associated with REIT tax compliance or maintenance of an exclusion from the Investment Company Act, any of which could allow them to consider a wider variety of investments and funding strategies and to establish more relationships with sellers of mortgage assets than we can.
+ Because the availability of pools of mortgage assets may fluctuate, the competition for assets and sources of financing may increase. Increased competition for assets may result in our accepting lower returns for acquisitions of residential mortgage loans and other assets or adversely influence our ability to bid for such assets at levels that allow us to acquire the assets. An increase in the competition for sources of funding could adversely affect the availability and terms of financing, and thereby adversely affect the market price of our common shares.
+ To address this competition, we have access to PCM’s professionals and their industry expertise, which we believe provides us with a competitive advantage and helps us assess investment risks and determine appropriate pricing for certain potential investments. We expect this relationship to enable us to compete more effectively for attractive investment opportunities. Furthermore, we believe that our access to PLS’s servicing expertise provides us with a competitive advantage over other companies with a similar focus. However, we can provide no assurance that we will be able to achieve our business goals or expectations due to the competitive and other risks that we face.
+ Staffing
+ We have three employees. All of our officers are employees of PennyMac or its affiliates. We do not pay our officers any cash compensation under the terms of our management agreement.
+Available Information
+ Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and amendments to those reports filed with or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge at www.pennymacmortgageinvestmenttrust.com through the investor relations section of our website as soon as reasonably practicable after electronically filing such material with the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding our filings at  www.sec.gov. The above references to our website and the SEC’s website do not constitute incorporation by reference of the information contained on those websites and should not be considered part of this document.

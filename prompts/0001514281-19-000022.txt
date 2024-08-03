@@ -1,0 +1,253 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+
+Our company
+
+AG Mortgage Investment Trust, Inc. ("we," "us," "the Company" or "our") was incorporated in Maryland on March 1, 2011 and commenced operations in July 2011 after the successful completion of our initial public offering. We are a hybrid mortgage REIT that opportunistically invests in a diversified risk-adjusted portfolio of Agency RMBS, Credit Investments and Single-Family Rental Properties. Our Credit Investments include our Residential Investments, Commercial Investments, and ABS Investments. We conduct our business through the following segments: (i) Securities and Loans and (ii) Single-Family Rental Properties.
+We conduct our operations to qualify and be taxed as a real estate investment trust, or REIT, for U.S. federal income tax purposes. Accordingly, we generally will not be subject to U.S. federal income taxes on our taxable income that we distribute currently to our stockholders as long as we maintain our intended qualification as a REIT. We also operate our business in a manner that permits us to maintain our exemption from registration under the Investment Company Act of 1940, as amended, or the Investment Company Act. Our common stock is traded on the New York Stock Exchange, or the NYSE, under the ticker symbol MITT. Our 8.25% Series A Cumulative Redeemable Preferred Stock and our 8.00% Series B Cumulative Redeemable Preferred Stock trade on the NYSE under the ticker symbols MITT-PA and MITT-PB, respectively.  
+We are externally managed and advised by AG REIT Management, LLC (our "Manager"), a subsidiary of Angelo, Gordon & Co., L.P. ("Angelo Gordon"). Pursuant to the terms of our management agreement with AG REIT Management, LLC, our Manager provides us with our management team, including our officers, along with appropriate support personnel. All of our officers are employees of Angelo Gordon or its affiliates. We do not have any employees. Our Manager is at all times subject to the supervision and oversight of our Board of Directors and has only such functions and authority as our Board of Directors delegates to it. Our Manager, pursuant to a delegation agreement dated as of June 29, 2011, has delegated to Angelo Gordon the overall responsibility with respect to our Manager’s day-to-day duties and obligations arising under our management agreement.
+Our investment portfolio
+
+Our investment portfolio is comprised of (i) our Securities and Loans Segment, comprised of Agency RMBS, Residential Investments, Commercial Investments, and ABS, and (ii) our Single-family Rental Properties Segment, each of which is described in more detail below. See Note 15 to the Notes to Consolidated Financial Statements for additional financial information regarding our segments.
+Securities and Loans Segment
+Agency RMBS
+
+Our investment portfolio is comprised primarily of residential mortgage-backed securities, or RMBS. Certain of the assets in our RMBS portfolio have a guarantee of principal and interest by a U.S. government agency such as the Government National Mortgage Association, or Ginnie Mae, or by a government-sponsored entity such as the Federal National Mortgage Association, or Fannie Mae, or the Federal Home Loan Mortgage Corporation, or Freddie Mac (each, a "GSE"). We refer to these securities as Agency RMBS. Our Agency RMBS portfolio includes:
+
+• | Fixed rate securities (held as mortgage pass-through securities);
+
+
+• | Sequential pay fixed rate collateralized mortgage obligations ("CMOs");
+
+
+◦ | CMOs are structured debt instruments representing interests in specified pools of mortgage loans subdivided into multiple classes, or tranches, of securities, with each tranche having different maturities or risk profiles.
+
+
+• | Inverse Interest Only securities (CMOs where the holder is entitled only to the interest payments made on the mortgages underlying certain mortgage backed securities ("MBS") whose coupon has an inverse relationship to its benchmark rate, such as LIBOR);
+
+
+• | Interest Only securities (CMOs where the holder is entitled only to the interest payments made on the mortgages underlying certain MBS "interest-only strips");
+
+
+• | Certain Agency RMBS for which the underlying collateral is not identified until shortly (generally two days) before the purchase or sale settlement date ("TBAs"); and
+
+5
+
+
+• | Excess mortgage servicing rights ("Excess MSRs") whose underlying collateral is securitized in a trust held by a U.S. government agency or GSE.
+
+
+◦ | Excess MSRs are interests in an MSR, representing a portion of the interest payment collected from a pool of mortgage loans, net of a basic servicing fee paid to the mortgage servicer. An MSR provides a mortgage servicer with the right to service a mortgage loan or a pool of mortgages in exchange for a portion of the interest payments made on the mortgage or the underlying mortgages. An MSR is made up of two components: a basic servicing fee and an Excess MSR. The basic servicing fee is the compensation received by the mortgage servicer for the performance of its servicing duties.
+
+Residential Investments
+Our investment portfolio also includes a significant portion of Residential Investments. The Residential Investments that we own include RMBS that are not issued or guaranteed by Ginnie Mae or a GSE, which we refer to as our Non-Agency RMBS. The mortgage loan collateral for residential Non-Agency RMBS consists of residential mortgage loans that do not generally conform to underwriting guidelines issued by U.S. government agencies or U.S. government-sponsored entities. Our Non-Agency RMBS include investment grade and non-investment grade fixed and floating-rate securities. We categorize certain of our Residential Investments by weighted average credit score at origination:
+
+• | Prime (weighted average credit score above 700)
+
+
+• | Alt-A/Subprime
+
+
+◦ | Alt-A (weighted average credit score between 700 and 620); and
+
+
+◦ | Subprime (weighted average credit score below 620)
+
+The Residential Investments that we do not categorize by weighted average credit score at origination include our:
+
+• | CRTs (defined below)
+
+
+• | RPL/NPL Securities (described below)
+
+
+• | Interest Only securities (Non-Agency RMBS backed by interest-only strips)
+
+
+• | Excess MSRs whose underlying collateral is securitized in a trust not held by a U.S. government agency or GSE;
+
+
+◦ | Excess MSRs are grouped within "Interest Only and Excess MSR" throughout Part II, Item 7 of this Annual Report on Form 10-K and are grouped within Excess mortgage servicing rights or Excess MSRs in the Notes to the Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K;
+
+
+• | Re/Non-Performing Loans (described below); and
+
+
+• | New Origination Loans (described below).
+
+Credit Risk Transfer securities ("CRTs") include:
+
+
+• | Unguaranteed and unsecured mezzanine, junior mezzanine and first loss securities issued either by GSEs or issued by other third-party institutions to transfer their exposure to mortgage default risk to private investors. These securities reference a specific pool of newly originated single family mortgages from a specified time period (typically around the time of origination). The risk of loss on the reference pool of mortgages is transferred to investors who may experience losses when adverse credit events such as defaults, liquidations or delinquencies occur in the underlying mortgages. Owners of these securities generally receive an uncapped floating interest rate equal to a predetermined spread over one-month LIBOR.
+
+RPL/NPL Securities include:
+
+• | Mortgage-backed securities collateralized by re-performing mortgage loans ("RPL") and/or non-performing mortgage loans ("NPL"). The RPL/NPL Securities that we own represent the senior and mezzanine tranches of such securitizations. These RPL/NPL securitizations are structured with significant credit enhancement (typically, approximately 50% to the senior tranche and 40% to the mezzanine tranche), which mitigates our exposure to credit risk on these securities. "Credit enhancement" refers to the value of the subordinated tranches available to absorb all credit losses prior to those losses
+
+6
+
+being allocated to more senior tranches. Subordinate tranches typically receive no cash flow (interest or principal) until the senior and mezzanine tranches have been paid off. In addition, the RPL/NPL Securities that we own contain an "interest rate step-up" feature, whereby the interest rate or "coupon" on the senior tranche increases by typically 300 basis points or typically 400 basis points in the case of mezzanine tranches (a "step up") if the security that we hold has not been redeemed or repurchased by the issuer within 36 months of issuance. We expect that the combination of the priority cash flow of the senior and mezzanine tranches and the 36-month step-up feature will result in these RPL/NPL Securities exhibiting short average lives and, accordingly, reduced interest rate sensitivity.
+Re/Non-Performing Loans include:
+
+• | RPLs or NPLs in securitized form that we purchase from an affiliate (or affiliates) of the Manager that we hold alongside other private funds under the management of Angelo Gordon. The securitizations typically take the form of various classes of notes and a trust certificate. These investments are included in the "RMBS" and "Investments in debt and equity of affiliates" line items on our consolidated balance sheets.
+
+
+• | RPLs or NPLs that we hold through interests in certain consolidated trusts. These investments are secured by residential real propertey, including prime, Alt-A, and subprime mortgage loans, and are included in the "Residential mortgage loans, at fair value" line item on our consolidated balance sheets.
+
+New Origination Loans include:
+
+• | "Non-QMs," which are residential mortgage loans that are not deemed "qualified mortgage," or "QM," loans under the rules of the Consumer Financial Protection Bureau (the "CFPB") that we hold alongside other private funds under the management of Angelo Gordon. Non-QMs are not eligible for delivery to Fannie Mae, Freddie Mac, or Ginnie Mae. These investments are held in one of our unconsolidated subsidiaries, Mortgage Acquisition Trust I LLC (refer to Part II, Item 7 of this Annual Report on Form 10-K below for more detail), and are included in the "Investments in debt and equity of affiliates" line item on our consolidated balance sheets.
+
+Commercial Investments
+
+We also invest in Commercial Investments. Our Commercial Investments include:
+
+• | Commercial mortgage-backed securities ("CMBS");
+
+
+• | Interest-Only securities (CMBS backed by interest-only strips);
+
+
+• | Commercial real estate loans secured by commercial real property, including first mortgages, mezzanine loans, preferred equity, first or second lien loans, subordinate interests in first mortgages, bridge loans to be used in the acquisition, construction or redevelopment of a property and mezzanine financing secured by interests in commercial real estate; and
+
+
+• | Freddie Mac K-Series (described below).
+
+CMBS include:
+
+• | Fixed and floating-rate CMBS, including investment grade and non-investment grade classes. CMBS are secured by, or evidence ownership interest in, a single commercial mortgage loan or a pool of commercial mortgage loans. 
+
+Freddie Mac K-Series ("K-Series") include:
+
+• | CMBS, Interest-Only securities and CMBS principal-only securities which are regularly-issued by Freddie Mac as structured pass-through securities backed by multifamily mortgage loans. These K-Series feature a wide range of investor options which include guaranteed senior and interest-only bonds as well as unguaranteed senior, mezzanine, subordinate and interest-only bonds. Our K-Series portfolio includes unguaranteed senior, mezzanine, subordinate and interest-only bonds. Throughout Item 7 of this Annual Report on Form 10-K, we categorize our Freddie Mac K-Series interest-only bonds as part of our Interest-Only securities.
+
+ABS
+
+We also invest in asset backed securities, or ABS. Our ABS portfolio may include investment grade and non-investment grade debt and equity tranches of securitizations collateralized by various asset classes, including, but not limited to, small balance commercial mortgages, aircraft, automobiles, credit cards, equipment, manufactured housing, franchises, recreational vehicles and student loans.
+7
+
+Single-Family Rental Properties Segment
+Our investment portfolio also includes a stabilized portfolio of single-family rental properties (our "SFR portfolio" or "SFR"). We acquired our SFR Portfolio in September 2018 from funds affiliated with Connorex-Lucinda LLC ("Conrex"). The portfolio includes 1,225 properties located predominately in the Southeast United States. At closing, we entered into a property management services agreement with Conrex whereby Conrex will continue to provide property management services with respect to the properties. 
+Investment classification
+
+Throughout this report, (1) we use the terms "credit portfolio" and "credit investments" to refer to our Residential Investments, Commercial Investments, and ABS, inclusive of investments held within affiliated entities but exclusive of AG Arc (discussed below); (2) we refer to our Re/Non-Performing Loans (exclusive of our RPLs or NPLs in securitized form that we purchase from an affiliate (or affiliates) of the Manager), new origination loans and commercial real estate loans, collectively, as our "loans"; (3) we use the term "credit securities" to refer to our credit portfolio, excluding Excess MSRs and loans; and (4) we use the term "real estate securities" or "securities" to refer to our Agency RMBS portfolio, exclusive of Excess MSRs, and our credit securities. Our "investment portfolio" refers to our combined Agency RMBS portfolio, credit portfolio, and SFR portfolio and encompasses all of the investments described above.
+
+We also use the term "GAAP investment portfolio" which consists of (i) our Agency RMBS, exclusive of (x) TBAs and (y) any investments classified as "Other assets" on our consolidated balance sheets (our "GAAP Agency RMBS portfolio"), (ii) our credit portfolio, exclusive of (x) all investments held within affiliated entities and (y) any investments classified as "Other assets" on our consolidated balance sheets (our "GAAP credit portfolio"), and (iii) our SFR portfolio. See Note 2 to the Notes to Consolidated Financial Statements for a discussion of our investments held within affiliated entities.
+Our Securities and Loans Segment refers to our Agency RMBS portfolio and our credit portfolio. Our "GAAP Securities and Loans Segment" refers to our Securities and Loans Segment, exclusive of (i) all investments held within affiliated entities, (ii) TBAs, and (iii) any investments classified as "Other assets" on our consolidated balance sheets. Our Single-Family Rental Properties Segment refers to our single-family rental properties. 
+
+This presentation of our investment portfolio is consistent with how our management evaluates our business, and we believe this presentation, when considered with the GAAP presentation, provides supplemental information useful for investors in evaluating our investment portfolio and financial condition.
+
+Arc Home LLC
+
+We, alongside private funds under the management of Angelo Gordon, through AG Arc LLC, one of our indirect subsidiaries ("AG Arc"), formed Arc Home LLC ("Arc Home"). Arc Home, through its wholly-owned subsidiary, originates conforming, Government, Jumbo and other non-conforming residential mortgage loans, retains the mortgage servicing rights associated with the loans that it originates, and purchases additional mortgage servicing rights from third-party sellers. We consider Arc Home as part of our Securities and Loans Segment.
+Our strategies
+
+Our investment strategy
+
+We invest in a diversified pool of residential and commercial mortgage assets, financial assets, and real estate to generate attractive risk-adjusted returns for our investors over the long-term through a combination of dividends and capital appreciation. We rely on the experience of our Manager’s personnel to direct the Company’s investments. Our Manager’s investment philosophy is based on a rigorous and disciplined approach to credit analysis and is focused on fundamental in-depth research, taking a conservative valuation approach. Our Manager makes investment decisions based on a variety of factors, including expected risk-adjusted returns, yield, relative value, credit fundamentals, vintage of collateral, prepayment speeds, supply and demand trends, general economic and market sector trends, the shape of the yield curve, liquidity, availability of adequate financing, borrowing costs, macroeconomic conditions, and maintaining our REIT qualification and our exemption from registration under the Investment Company Act. We continue to optimize our capital allocation across our target assets, using leverage to increase potential returns for our stockholders.
+
+8
+
+Our financing and hedging strategy
+
+We generate income principally from the yields earned on our investment portfolio and, to the extent that leverage is deployed, on the difference between (i) the yields earned on our investments and (ii) the sum of our borrowing and hedging costs. We use leverage to increase potential returns to our stockholders and to fund the acquisition of our assets.
+
+As of December 31, 2018, our GAAP and our non-GAAP "at-risk" debt-to-equity leverage ratios were 4.3 to 1 and 4.6 to 1, respectively. As of December 31, 2017, our GAAP and our non-GAAP "at-risk" debt-to-equity leverage ratios were 4.2 to 1 and 4.4 to 1, respectively. To calculate our leverage ratios, we divide our GAAP leverage and our non-GAAP "at-risk" leverage by our GAAP stockholders’ equity. We define non-GAAP "at-risk" leverage as the sum of: (i) our GAAP financing arrangements, (ii) financing arrangements held through affiliated entities but exclusive of any financing utilized through AG Arc, (iii) the amount payable on purchases that have not yet settled less the financing remaining on sales that have not yet settled, (iv) the consolidated tranche issued by the Consolidated VIE (refer to Part II, Item 7 of this Annual Report on Form 10-K for a definition of "Consolidated VIE"), (v) the Participation Interest (refer to Part II, Item 7 of this Annual Report on Form 10-K for a definition of "Participation Interest"), and (vi) our net TBA position (at cost). Our calculations of each type of leverage exclude financing arrangements and net receivables/payables on unsettled trades pertaining to U.S. Treasury securities due to the highly liquid and temporary nature of these investments. For a tabular representation of our leverage, refer to the "Financing activities" section of Part II, Item 7 of this Annual Report on Form 10-K.
+
+Subject to maintaining our qualification as a REIT for U.S. federal income tax purposes and our Investment Company Act exemption, to the extent leverage is deployed, we may use a number of sources to finance our investments. We currently finance the acquisition of certain assets within our portfolio with repurchase agreements and financing facilities. Prior to March 31, 2016, we also financed our Agency RMBS portfolio with advances from the Federal Home Loan Bank of Cincinnati (the "FHLBC"). As of December 31, 2018, we, either directly or through our equity method investments in affiliates, had master repurchase agreements, ("MRAs") or loan agreements with 44 counterparties, under which we had borrowed an aggregate $2.8 billion on a GAAP basis and $3.0 billion on a non-GAAP basis from 31 counterparties. As of December 31, 2018, the borrowings under our repurchase agreements had maturities between January 2, 2019 and October 10, 2023.
+
+We also effectively finance the acquisition of Agency RMBS by entering into TBA dollar roll transactions in which we would sell a TBA contract for current month settlement and simultaneously purchase a similar TBA contract for a forward settlement date. Prior to the forward settlement date, we may choose to roll the position to a later date by entering into an offsetting TBA position, net settling the paired off positions for cash, and simultaneously entering into a similar TBA contract for a later settlement date. The TBA contract purchased for the forward settlement date is priced at a discount to the TBA contract sold for settlement/pair off in the current month. The difference (or discount) is referred to as the "price drop" and is the economic equivalent of net interest carry income on the underlying Agency RMBS over the roll period (interest income less implied financing cost), which is commonly referred to as "dollar roll income." We recognize TBA contracts as derivative instruments on our consolidated financial statements at their net carrying value (fair value less the purchase price to be paid or received under the TBA contract). Consequently, dollar roll transactions represent a form of off-balance sheet financing. In evaluating our overall leverage at risk, we consider both our on-balance sheet and off-balance sheet financing. Refer to Part II, Item 7 of this Annual Report on Form 10-K for a summary of our off balance sheet financings.
+In July 2015, our captive insurance subsidiary, MITT Insurance Company LLC ("MITT Insurance"), was granted membership in the FHLBC and commenced obtaining advances from the FHLBC. However, in January 2016, the Federal Housing Finance Agency, the FHFA, issued RIN 2590-AA39, Members of Federal Home Loan Banks (the "Final Rule"), which expressly excluded captive insurance companies, such as MITT Insurance ("Excluded Captives"), from being eligible for membership in the FHLBC and prevented Excluded Captives from taking new advances or renewing existing advances following the effective date of the Final Rule. As of December 31, 2018, we had no outstanding advances with the FHLBC.
+
+Subject to maintaining our qualification as a REIT and our Investment Company Act exemption, to the extent leverage is deployed, we utilize derivative instruments, including interest rate swaps, Eurodollar futures and U.S. Treasury futures (collectively, "Futures"), and other financial instruments such as short positions in U.S. Treasury securities (collectively, our "Hedges") in an effort to hedge the interest rate risk associated with the financing of our portfolio. Specifically, we may seek to hedge our exposure to potential interest rate mismatches between the interest we earn on our investments and our borrowing costs caused by fluctuations in short-term interest rates. In utilizing leverage and interest rate hedges, our objectives are to improve risk-adjusted returns and, where possible, to lock in, on a long-term basis, a spread between the yield on our assets and the costs of our financing and hedging. As of December 31, 2018, we had entered into $2.0 billion notional amount of interest rate swaps that have variable maturities between January 31, 2020 and September 20, 2028, $260.0 million notional amount of swaption agreements that have variable maturities between March 20, 2019 and November 15, 2019, $11.3 million notional amount of short positions in U.S. Treasury 
+9
+
+securities that have a maturity of November 15, 2021, $30.0 million notional amount of long positions in U.S. Treasury Futures that have a maturity of March 20, 2019, and $500.0 million notional amount of short positions in Eurodollar Futures that have a maturity of December 14, 2020.
+
+Risk management strategy
+
+Our overall portfolio strategy is designed to generate attractive returns through various phases of the economic cycle. We believe that our broad approach within the real estate market, which considers all major categories of real estate assets, allows us to invest in a variety of attractive investment opportunities and helps insulate our portfolio from some of the risks that arise from investing in a single collateral type.
+
+The components of our risk management strategy are:
+
+• | Disciplined adherence to risk-adjusted return. Our Manager deploys capital when it believes that risk-adjusted returns are attractive. In this analysis, our Manager considers the initial net interest spread of the investment, the cost of hedging and our ability to optimize returns over time through rebalancing activities. Our Manager’s management team has extensive experience implementing this approach.
+
+
+• | Focus on multiple sectors. Our Manager looks for attractive investment opportunities in all major sectors of the U.S. mortgage and real estate markets. Our management team evaluates investment opportunities in residential and commercial mortgage loans and securities and real estate. We believe this approach enables our Manager to identify attractive investments when it believes certain portions of the market are attractively priced or when investment opportunities in one or more sectors are scarce. By pursuing a broad investment strategy within the mortgage and real estate markets, we believe our investment portfolio is less exposed to dislocations in specific sectors of the market. We believe a diversified investment portfolio outperforms the traditional single strategy portfolios in the REIT market, with returns that are more resistant to changes in the interest rate and in the consumer credit environment.
+
+
+• | Concurrent evaluation of interest rate and credit risk. Our Manager seeks to balance our portfolio with both credit risk-intensive assets and interest rate risk-intensive assets. Both of these primary risk types are evaluated against a common risk-adjusted return framework.
+
+
+• | Active hedging and rebalancing of portfolio. Our Manager periodically evaluates our portfolio against pre-established risk tolerances and will take corrective action through asset sales, asset acquisitions, and dynamic hedging activities to bring the portfolio back within these risk tolerances. We believe this approach generates more attractive long-term returns than an approach that either attempts to hedge away a majority of the interest rate or credit risk in the portfolio at the time of acquisition, on the one end of the risk spectrum, or a highly speculative approach that does not attempt to hedge any of the interest rate or credit risk in the portfolio, on the other end of the risk spectrum.
+
+
+• | Opportunistic approach to increased risk. Our Manager’s investment strategy is to preserve our ability to extend our risk-taking capacity during periods of changing market fundamentals.
+
+Investment policies
+
+We comply with investment policies and procedures and investment guidelines (our "Investment Policies") that are approved by our Board of Directors and implemented by our Manager. Our Manager reports on our investment portfolio at each regularly scheduled meeting of our Board of Directors. Our independent directors do not review or approve individual investment, leverage or hedging decisions made by our Manager made in accordance with our Investment Policies.
+
+Our Investment Policies include the following guidelines, among others:
+
+• | No investment shall be made that would cause us to fail to qualify as a REIT for federal income tax purposes;
+
+
+• | No investment shall be made that would cause us to be regulated as an investment company under the Investment Company Act; and
+
+
+• | Our investments will be in our target assets.
+
+Our Investment Policies may be changed by our Board of Directors without the approval of our stockholders.
+
+Our target assets
+
+Our target asset classes and the principal investments in which we invest include a diversified portfolio of residential and commercial mortgage assets, financial assets and real estate. Our Board of Directors has adopted a set of investment guidelines that outline our target assets and other criteria which are used by our Manager to evaluate specific investment opportunities as well as our overall portfolio composition. Our Manager makes day-to-day determinations as to the timing and percentage of our assets that 
+10
+
+will be invested in each of the approved asset classes. These decisions depend upon prevailing market conditions and may change over time in response to opportunities available in different interest rate, economic and credit environments. As a result, we cannot predict the percentage of our assets that will be invested in any one of our approved asset classes at any given time. We may change our strategy and policies without a vote of our stockholders. We believe that the diversification of our portfolio of assets and the flexibility of our strategy combined with our Manager’s and its affiliates’ experience will enable us to achieve attractive risk-adjusted returns under a variety of market conditions and economic cycles. 
+Operating and regulatory structure
+
+REIT qualification
+
+We have elected to be treated as a REIT under Sections 856 through 859 of the Internal Revenue Code of 1986, as amended, or the Code. Our qualification as a REIT depends upon our ability to meet on a continuing basis, through actual investment and operating results, various complex requirements under the Code relating to, among other things, the sources of our gross income, the composition and values of our assets, our distribution levels and the diversity of ownership of our shares. We believe that we are organized in conformity with the requirements for qualification and taxation as a REIT under the Code, and that our manner of operation enables us to meet the requirements for qualification and taxation as a REIT.
+
+To qualify as a REIT, we generally need to distribute at least 90% of our ordinary taxable income each year (subject to certain adjustments) to our stockholders in order to qualify as a REIT under the Code. Our ability to make distributions to our stockholders depends, in part, upon the performance of our investment portfolio. For the year ended December 31, 2018, we elected to satisfy the REIT distribution requirements in part with a dividend paid in 2019. In conjunction with this, we accrued an excise tax of $1.7 million in 2018, which is included in the "Other liabilities" line item on the consolidated balance sheets in Part II, Item 8 of this Annual Report on Form 10-K.
+
+As a REIT, we generally are not subject to U.S. federal income tax on our REIT taxable income that we distribute currently to our stockholders. If we fail to qualify as a REIT in any taxable year and do not qualify for certain statutory relief provisions, we will be subject to U.S. federal income tax at regular corporate rates and may be precluded from qualifying as a REIT for the subsequent four taxable years following the year during which we lost our REIT qualification. Accordingly, our failure to qualify as a REIT could have a material adverse impact on our results of operations and our ability to pay distributions, if any, to our stockholders. Even if we qualify for taxation as a REIT, we may be subject to some U.S. federal, state and local taxes on our income or property. In addition, any income earned by a domestic taxable REIT subsidiary, or TRS, will be subject to corporate income taxation.
+
+Investment Company Act exemption
+
+We conduct our operations so that we are not considered an investment company under Section 3(a)(1)(C) of the Investment Company Act. Under Section 3(a)(1)(C) of the Investment Company Act, a company is deemed to be an investment company if it is engaged, or proposes to engage, in the business of investing, reinvesting, owning, holding or trading in securities and owns or proposes to acquire "investment securities" having a value exceeding 40% of the value of its total assets (exclusive of U.S. government securities and cash items) on an unconsolidated basis, (the "40% test"). "Investment securities" do not include, among other things, U.S. government securities and securities issued by majority-owned subsidiaries that (i) are not investment companies and (ii) are not relying on the exceptions from the definition of investment company provided by Section 3(c)(1) or 3(c)(7) of the Investment Company Act.
+
+The operations of many of our wholly-owned or majority-owned subsidiaries’ are generally conducted so that they are exempted from investment company status in reliance upon Section 3(c)(5)(C) of the Investment Company Act. Because entities relying on Section 3(c)(5)(C) are not investment companies, our interests in those subsidiaries do not constitute "investment securities" for purposes of Section 3(a)(1)(C). To the extent that our direct subsidiaries qualify only for either Section 3(c)(1) or 3(c)(7) exemptions from the Investment Company Act, we limit our holdings in those kinds of entities so that, together with other investment securities, we satisfy the 40% test. Although we continuously monitor our and our subsidiaries’ portfolios on an ongoing basis to ensure compliance with that test, there can be no assurance that we will be able to maintain the exemptions from registration for us and each of our subsidiaries.
+
+The method we use to classify our subsidiaries’ assets for purposes of Section 3(c)(5)(C) of the Investment Company Act is based in large measure upon no-action positions taken by the SEC staff. These no-action positions were issued in accordance with factual situations that may be substantially different from the factual situations we may face, and a number of these no-action positions were issued decades ago. No assurance can be given that the SEC or its staff will concur with our classification of our or our subsidiaries’ assets or that the SEC or its staff will not, in the future, issue further guidance that may require us to reclassify those assets for purposes of qualifying for an exclusion from registration under the Investment Company Act. There can be no assurance 
+11
+
+that the laws and regulations governing the Investment Company Act status of companies primarily owning real estate related assets, including the SEC or its staff providing more specific or different guidance regarding these exemptions, will not change in a manner that adversely affects our operations. To the extent that the SEC or its staff provides more specific guidance regarding Section 3(c)(5)(C) or any of the other matters bearing upon the definition of investment company and the exceptions to that definition, we may be required to adjust our investment strategy accordingly. Additional guidance from the SEC or its staff could provide additional flexibility to us, or it could further inhibit our ability to pursue the investment strategy we have chosen.
+Conducting our operations so as not to be considered an investment company under the Investment Company Act limits our ability to make certain investments. For example, these restrictions limit our and our subsidiaries’ ability to invest directly in mortgage-related securities that represent less than the entire ownership in a pool of mortgage loans, debt and equity tranches of securitizations, certain real estate companies and assets not related to real estate.
+
+Restrictions on ownership and transfer of shares
+
+Our charter, subject to certain exceptions, prohibits any person from directly or indirectly owning (i) more than 9.8% in value or in number of shares, whichever is more restrictive, of our outstanding common stock, or (ii) more than 9.8% in value or in number of shares, whichever is more restrictive, of our outstanding capital stock. We refer to those limitations in this report collectively as the "share ownership limits." Our charter also prohibits any person from directly or indirectly owning shares of any class of our stock if such ownership would result in our being "closely held" under Section 856(h) of the Code or otherwise cause us to fail to qualify as a REIT.
+
+Our charter generally provides that any capital stock owned or transferred in violation of the foregoing restrictions will be deemed to be transferred to a charitable trust for the benefit of a charitable beneficiary, and the purported owner or transferee will acquire no rights in such shares. If the foregoing is ineffective for any reason to prevent a violation of these restrictions, then the transfer of such shares will be void ab initio.
+
+Competition
+
+Our net income depends, in large part, on our ability to acquire assets at favorable spreads over our borrowing and hedging costs. In acquiring our investments, we compete with other REITs, specialty finance companies, mortgage bankers, insurance companies, mutual funds, institutional investors, investment banking firms, financial institutions, governmental bodies, hedge funds, and other entities. In addition, there are numerous REITs and specialty finance companies with similar asset acquisition objectives. These other REITs and specialty finance companies increase competition for the available supply of our target assets suitable for purchase. Many of our competitors are significantly larger than we are, have access to greater capital and other resources and may have other advantages over us. In addition, some of our competitors may have higher risk tolerances or different risk assessments, which could allow them to consider a wider variety of investments and establish more relationships than we can. Market conditions may attract more competitors, which may increase the competition for sources of financing. An increase in the competition for sources of financing could adversely affect the availability and cost of financing.
+
+We have access to our Manager’s professionals and their industry expertise, which we believe provides us with a competitive advantage. These professionals help us assess investment risks and determine appropriate pricing for certain potential investments. These relationships enable us to compete more effectively for attractive investment opportunities. Despite certain competitive advantages, we may not be able to achieve our business goals or expectations due to the competitive risks that we face.
+
+Staffing
+
+We are managed by our Manager pursuant to a management agreement. Our Manager, pursuant to a delegation agreement dated as of June 29, 2011, has delegated to Angelo Gordon the overall responsibility with respect to our Manager’s day-to-day duties and obligations arising under our management agreement. In addition, all of our officers are employees of Angelo Gordon or its affiliates. We have no employees. Angelo Gordon has over 490 employees.
+
+Available information
+
+Our principal executive offices are located at 245 Park Avenue, 26th Floor, New York, New York 10167. Our telephone number is (212) 692-2000. Our website can be found at www.agmit.com. We make available free of charge, through the SEC filings section of our website, access to our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as are filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as well as our proxy statements with respect to our annual meetings of stockholders, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Our Exchange Act reports filed with, or furnished to, the SEC are also available at the 
+12
+
+SEC’s website at www.sec.gov and can also be found on our website at www.agmit.com. The content of any website referred to in this Form 10-K is not incorporated by reference into this Form 10-K unless expressly noted. 

@@ -1,0 +1,420 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Business Overview
+ 
+We are a clinical stage biopharmaceutical company focused on the discovery, development and commercialization of drugs for the treatment of cancer. Our core objective is to leverage our proprietary phospholipid drug conjugate™ (PDCs™) delivery platform to develop PDCs that specifically target cancer cells to deliver improved efficacy and better safety as a result of fewer off-target effects. Our PDC platform possesses the potential for the discovery and development of the next generation of cancer-targeting treatments and we plan to develop PDCs independently and through research and development collaborations.
+ 
+Our lead PDC candidate, CLR 131, provides targeted delivery of the cytotoxic (cell-killing) radioisotope iodine 131. CLR 131 is in a Phase 2 clinical study in relapsed or refractory (R/R) multiple myeloma (MM) and a range of other B-cell malignancies and Phase 1 clinical study for R/R MM and we plan to initiate a Phase 1 study in 2019 for pediatric solid tumors and lymphoma.
+ 
+In order to preserve resources and extend our cash runway we have focused our early stage research efforts on projects that we believe can provide the greatest near-term value. Our pipeline includes a PDC chemotherapeutic program in drug discovery, CLR 1900. CLR 1900 is being targeted for solid tumors with a payload that inhibits mitosis (cell division) which is a validated pathway for treating cancers.
+
+
+We have leveraged our PDC platform to establish four collaborations featuring five unique payloads and mechanisms of action. Through research and development collaborations, our strategy is to generate near-term capital, supplement internal resources, gain access to novel molecules or payloads, accelerate product candidate development and broaden our proprietary and partnered product pipelines.
+ 
+Our PDC platform provides selective delivery of a diverse range of oncologic payloads to cancerous cells, whether a hematologic cancer or solid tumor, the primary tumor, or a metastatic tumor and cancer stem cells. The PDC platform’s mechanism of entry does not rely upon specific cell surface epitopes or antigens as are required by other targeted delivery platforms. Our PDC platform takes advantage of a metabolic pathway utilized by all tumor cell types in all stages of the tumor “cycle.” Tumor cells modify regions on the cell surface due to the utilization of this metabolic pathway and our PDCs bind to these regions and directly enter the intracellular compartment. This allows the PDC molecules to accumulate over time, which enhances drug efficacy, and to avoid the specialized highly acidic cellular compartment known as lysosomes, which allows the PDC to deliver molecules that previously could not be delivered. Additionally, molecules targeting specific cell surface epitopes face challenges in completely eliminating a tumor because the targeted antigens are expressed in limited in the total numbers on the cell surface, have longer cycling time from internalization to being present on the cell surface again upon binding and are not present on all tumor cells of a particular cancer type. This means a subpopulation of tumor cells will always exist that be non-targetable by therapies targeting specific surface epitopes. In addition to the benefits provided by the mechanism of entry, PDCs offer the potential advantage of having the ability to be conjugated to molecules in numerous ways, thereby increasing the types of molecules selectively delivered via the PDC.
+
+
+The PDC platform features include the capacity to link with almost any molecule, provide a significant increase in targeted oncologic payload delivery and the ability to target all tumor cells. As a result, we believe that we can generate PDCs to treat a broad range of cancers with the potential to improve the therapeutic index of oncologic drug payloads, enhance or maintain efficacy while reducing adverse events by minimizing drug delivery to healthy cells, and increasing delivery to cancerous cells and cancer stem cells.
+ 
+We employ a drug discovery and development approach that allows us to efficiently design, research and advance drug candidates. Our iterative process allows us to rapidly and systematically produce multiple generations of incrementally improved targeted drug candidates.
+ 
+
+4
+-
+
+On August 7, 2018, we were informed by CPDC, our sole supplier of CLR 131, that CPDC is subject to an Import Alert 66-40 (the “Import Alert”) by the U.S. Food and Drug Administration (the “FDA”). While the basis for the Import Alert was not related to CLR 131, or CPDC’s production facility associated with CLR 131, CPDC informed us on August 8, 2018 that CPDC would not be able to supply CLR 131 to us until the Import Alert is lifted or alternative agreements are reached with the FDA. On November 8, 2018, the FDA notified us that CLR 131 would be exempted from the Import Alert placed on CPDC in relation to our ongoing clinical studies. As a result, we have resumed patient enrollment in our CLR 131 hematology clinical studies.
+ 
+We await either the lifting of the Import Alert or the granting of an exemption from the FDA for any future shipments into the U.S. in connection with our Phase 1 study of pediatric patients with neuroblastoma, sarcomas, lymphomas (including Hodgkin’s lymphoma) and malignant brain tumors. As a result of the supply disruption, we are experiencing delays in initiation of this clinical study. At this time, we are seeking clinical sites outside the U.S. which would allow us to begin enrollment of this clinical study.
+
+
+A description of our PDC product candidates follows:
+ 
+Clinical Pipeline
+ 
+CLR 131 is a small-molecule, cancer-targeting radiotherapeutic PDC designed to deliver cytotoxic radiation directly and selectively to cancer cells and cancer stem cells. CLR 131 is our lead therapeutic PDC product candidate and is currently being evaluated in both Phase 2 and Phase 1 clinical studies. The Investigational New Drug (“IND”) application was accepted by the FDA in March 2014. Initiated in March 2017, the primary goal of the Phase 2 study is to assess the compound’s efficacy in a broad range of hematologic cancers. The Phase 1 study is designed to assess the compound’s safety and tolerability in patients with R/R MM and was initiated in April 2015. This clinical study is a standard three-by-three dose escalation safety study. Multiple myeloma is an incurable cancer of the plasma cells and is the second most common form of hematologic cancers. This cancer type was selected for clinical, regulatory and commercial rationales, including multiple myeloma’s highly radiosensitive nature and continued unmet medical need in the relapse/refractory setting, and has been determined to be a rare disease by the FDA based upon the current definition within the Orphan Drug Act. Secondary objectives include the evaluation of therapeutic activity by assessing surrogate efficacy markers, which include M protein, free light chain (“FLC”), progression free survival (“PFS”) and overall survival (“OS”).
+ 
+In December 2014, the FDA granted orphan drug designation for CLR 131 for the treatment of multiple myeloma. In 2018, the FDA granted orphan drug and rare pediatric disease designations for CLR 131 for the treatment of neuroblastoma, rhabdomyosarcoma, Ewing’s sarcoma and osteosarcoma. The FDA previously accepted our IND application for a Phase 1 open-label, dose-escalating study to evaluate the safety and tolerability of a single intravenous administration of CLR 131 in up to 30 children and adolescents with cancers including neuroblastoma, sarcomas, lymphomas (including Hodgkin’s lymphoma) and malignant brain tumors. We plan to initiate this Phase 1 study in 2019.
+ 
+Phase 2 Study in Patients with R/R select B-Cell Malignancies
+ 
+In July 2016, we were awarded a $2,000,000 National Cancer Institute (NCI) Fast-Track Small Business Innovation Research grant to further advance the clinical development of CLR 131. The funds are supporting the Phase 2 study initiated in March 2017 to define the clinical benefits of CLR 131 in R/R MM and other niche hematologic malignancies with unmet clinical need. These niche hematologic malignancies include Chronic Lymphocytic Leukemia, Small Lymphocytic Lymphoma, Marginal Zone Lymphoma, Lymphoplasmacytic Lymphoma and Diffuse Large B-Cell Lymphoma (“DLBCL”). The study is being conducted in approximately 10 U.S. cancer centers in patients with orphan-designated relapse or refractory hematologic cancers. The study’s primary endpoint is clinical benefit response (CBR), with additional endpoints of Overall Response Rate (ORR), PFS, median OS and other markers of efficacy following a single 25.0 mCi/m2 dose of CLR 131, with the option for a second 25.0 mCi/m2 dose approximately 75-180 days later. Based on the performance results from Cohort 5 of our Phase 1 study in patients with R/R MM, reviewed below, we have modified the dosing regimen of this study to a fractionated dose of 15.625 mCi/m2 administered on day 1 and day 8. 
+ 
+
+5
+-
+
+ 
+
+In February 2019, we announced that a single, 25mCi/m2, 30-minute intravenous infusion of CLR 131 in the first 10 patients with R/R MM were assessed. These interim data show a 30% response rate in a patient population which have received an average of five prior lines of systemic therapy (including daratumumab), at least one stem cell transplantation with the average age being 70. The observed responses to date show overall reductions in surrogate markers of disease (M protein or free light chains, depending upon which is being used to monitor the patient’s disease) between 70% and over 90%. In addition to these patients, 100% of patients achieved stable disease with 2 patients experiencing a minimal response or a minimum reduction of a 25% in the surrogate marker being used to monitor the patient’s disease. Historically, patients receiving 4th line chemotherapy treatment show a 15% response rate, and patients receiving 5th line chemotherapy show an 8% response rate, whether dosed as mono-therapy or in combination. The Multiple Myeloma average treatment response rate (RR) provided by line of therapy was obtained through Decision Resource Group, a global information and technology vendor specializing in healthcare data analysis utilizing over 12.5 billion U.S. insurance claims and 90 million electronic medical records. As a result of these outcomes, we have expanded this cohort to include up to 30 additional patients.
+ 
+In July 2018, we announced that after a single 25mCi/m2 IV administration of CLR 131, patients with relapsed/refractory aggressive DLBCL were assessed for response. These interim data show a 33% ORR and a 50% CBR. In addition, the observed responses to date show overall tumor reduction ranged from 60% to greater than 90%. As a result of these favorable outcomes, we have expanded this cohort to include up to 30 additional patients. We also announced that a patient in the lymphoplasmacytic lymphoma (LPL) arm with advanced Waldenstrom macroglobulinema showed a 94% reduction in tumor burden and complete resolution in four of five targeted masses after two doses of CLR 131 separated by 123 days.
+ 
+Phase 1 Study in Patients with R/R Multiple Myeloma
+ 
+CLR 131 in combination with dexamethasone is currently under investigation in a Phase 1 study in adult patients with R/R MM following treatment with at least one proteasome inhibitor and an immunomodulatory agent. All patients have been heavily pretreated with an average of 5 prior lines of therapy. CLR 131 was deemed by an independent Data Monitoring Committee to be safe and tolerable up to its planned maximum single dose of 31.25 mCi/m2. The four single dose cohorts examined were: 12.5 mCi/m2, 18.75 mCi/m2, 25 mCi/m2, and 31.25 mCi/m2, all in combination with 40 mg dexamethasone weekly. Of the five patients in the first cohort, four achieved stable disease and one patient progressed at Day 15 after administration and was taken off the study. Of the five patients that have been admitted to the second cohort, four achieved stable disease and one patient progressed at Day 41 after administration and was taken off the study. Four patients were enrolled to the third cohort and all achieved stable disease. In September 2017, we announced results for Cohort 4, showing that a single 30-minute infusion of 31.25mCi/m2 of CLR 131 was safe and tolerated by the three patients in the cohort. Additionally, all three patients experienced clinical benefit with one patient achieving a PR. We are monitoring response rates via surrogate markers of efficacy including M protein and FLC. The International Myeloma Working Group defines a PR as a greater than or equal to 50% decrease in FLC levels (for patients in whom M protein is unmeasurable) or 50% decrease in M protein. The patient experiencing a PR had an 82% reduction in FLC. This patient did not produce M protein, received seven prior lines of treatment including radiation, stem cell transplantation and multiple triple combination treatments including one with daratumumab that was not tolerated. One patient experiencing stable disease attained a 44% reduction in M protein. For all of the patients receiving the single dose, CLR 131 was the third line of treatment or later. We have recently converted the Phase 1a clinical data (single CLR 131 dose) to pooled data for presentation of the total performance of the results to date. On January 7, 2019, we announced that the pooled median Overall Survival (“mOS”) data from the first four cohorts was 22.0 months.
+
+
+Based on the safety observed to date as well as various efficacy signals, including reductions in M protein and FLC and a pooled mOS, the study protocol was modified for cohort 5 to introduce a fractionated dose of 15.625 mCi/m2 administered on day 1 and day 8 to further determine the optimal dose-range for CLR 131. Results from Cohort 5 indicate enhanced tolerability and safety in comparison to Cohort 4 despite an 18% increase in total average dose from 55.29 mCi to 65.15 mCi of CLR 131. Patients in Cohort 5 required less supportive care such as transfusions of platelets or packed red blood cells than seen in previous cohorts. Furthermore, a review of surrogate efficacy markers demonstrated that patients in Cohort 5 monitored by M-protein showed a nearly 50% further reduction in M-Protein than seen in Cohort 4. Based on these results and an independent Data Monitoring Committee recommendation, on December 4, 2018, we initiated a sixth cohort and the second fractionated cohort using a two dose regimen of 18.75 mCi/m2 administered approximately one week apart.
+ 
+
+6
+-
+
+ 
+
+Phase 1 Study in R/R Pediatric Patients with select Solid tumors, Lymphomas and Malignant Brain Tumors.
+ 
+On December 14, 2017, we filed an IND application with the Division of Oncology at the FDA for a proposed Phase 1 study of CLR 131 in children and adolescents with select rare and orphan designated cancers. The Phase 1 clinical study of CLR 131 will be an open-label, sequential-group, dose-escalation study to evaluate the safety and tolerability of a single intravenous administration of CLR 131 in up to 30 children and adolescents with cancers including neuroblastoma, sarcomas, lymphomas (including Hodgkin’s lymphoma) and malignant brain tumors. Secondary objectives of the study are to identify the recommended Phase 2 dose of CLR 131 and to determine preliminary antitumor activity (treatment response) of CLR 131 in children and adolescents. In 2018, the FDA granted orphan drug and a Rare Pediatric Disease Designation (RPDD) for CLR 131 for the treatment of neuroblastoma, rhabdomyosarcoma, Ewing’s sarcoma and osteosarcoma. Should any of these indications reach approval, the RPDD would enable us to receive a priority review voucher. Priority review vouchers can be used by the sponsor to receive Priority Review for a future New Drug Application (“NDA”) or Biologic License Application (“BLA”) submission, which would reduce the FDA review time from 12 months to six months. Currently, these vouchers can also be transferred or sold to another entity. We plan to initiate this Phase 1 study in 2019 at 3-5 pediatric cancer centers, within and possibly outside the US.
+
+
+We believe our PDC platform has potential to provide targeted delivery of a diverse range of oncologic payloads, as exemplified by the product candidates listed above, that may result in improvements upon current standard of care (SOC) for the treatment of a broad range of human cancers.
+ 
+Preclinical Pipeline
+ 
+
+· | CLR 1800 Series is a collaborative PDC program with Pierre Fabre that was entered into in December 2015 and extended in October 2017 and again in 2018. Pierre Fabre is the third largest French pharmaceutical company with an extensive oncology research and development infrastructure. The objective of the collaboration is to leverage our expertise in conjugation, linker chemistry and phospholipid ether chemistry to codesign a library of PDCs employing Pierre Fabre’s chemotherapeutics. The newly developed PDCs may provide enhanced therapeutic indices to otherwise highly potent, nontargeted payloads through the targeted delivery to cancer cells provided by our proprietary phospholipid ether delivery platform. Research progress has been achieved, including the demonstration of improved tolerability in animal models. Our agreement with Pierre Fabre expired in January 2019, however, the program is evaluating a number of PDC molecules for possible candidate selection and progression to IND enabling studies.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | CLR 1900 Series is an internally developed proprietary PDC program leveraging a novel small molecule cytotoxic compound as the payload. The payload inhibits mitosis (cell division) and targets a key pathway required to inhibit rapidly dividing cells that results in apoptosis. We believe that this program could produce a product candidate targeted to select solid tumors. Currently, the program is in early preclinical development.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | CLR 2000 Series is a collaborative PDC program with Avicenna Oncology, or Avicenna, that we entered into in July 2017. Avicenna is a leading developer of antibody drug conjugates (“ADCs”). The objective of the research collaboration is to design and develop a series of PDCs utilizing Avicenna’s proprietary cytotoxic payload. Although Avicenna is a leading developer of ADCs, this collaboration was sought as a means to overcome many of the challenges associated with ADCs, including those associated with the targeting of specific cell surface epitopes.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | CLR 2100 and 2200 Series are collaborative PDC programs with Onconova Therapeutics, Inc., or Onconova, that we entered into in September 2017. Onconova is a biotechnology company specializing in the discovery and development of novel small molecule cancer therapies. The collaboration is structured such that we will design and develop a series of PDCs utilizing different small molecules that Onconova was developing as payloads with the intent to show improved targeting and specificity to the tumor. At least one of the molecules was taken into Phase 1 clinical studies previously by Onconova. We would own all new intellectual property associated with the design of the new PDCs, and both companies will have the option to advance compounds.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | CLR 12120 Series is a collaborative PDC program with Orano Med for the development of novel PDCs utilizing Orano Med’s unique alpha emitter, lead 212 conjugated to our phosolipid ether (PLE); the companies intend to evaluate the new PDCs in up to three oncology indications.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+7
+-
+
+Technology Overview
+ 
+Our product candidates are based on a cancer-targeting delivery platform of optimized Phospholipid Ether (PLE) analogs (phospholipid ether proprietary delivery vehicle) that interact with lipid rafts. Lipid rafts are specialized regions of a cell’s membrane phospholipid bilayer that contain high concentrations of cholesterol and sphingolipids and serve to organize cell surface and intracellular signaling molecules. As a result of enrichment and stabilization of lipid rafts in cancer cells, including cancer stem cells, our product candidates provide selective targeting preferentially to cancer cells over normal healthy cells. The cancer-targeting PLE delivery vehicle was deliberately designed to be combined with therapeutic, diagnostic and imaging molecules. For example, iodine can be attached via a very stable covalent bond resulting in distinct products differing only with respect to the isotope of iodine they contain; CLR 131 contains cytotoxic radioactive I-131. Non-radioactive molecules, including many classes of small molecule chemotherapeutic compounds can also be attached to the delivery vehicle.
+ 
+We are focused on exploring the creation of additional PDCs ranging from newly discovered to well-characterized chemotherapeutic payloads. The objective is to develop PDC chemotherapeutics through conjugation of our delivery vehicle and non-targeted anti-cancer agents to improve therapeutic indices and expand potential indications through the targeted delivery of chemotherapeutic payloads. Initial PDC product candidates include our CLR 1800, 1900, 2000, 2100, 2200, and 12120 series of conjugated compounds currently being researched independently and through partnerships. Other than CLR 12120, all are small-molecule, cancer-targeting chemotherapeutics in pre-clinical research. To date, multiple cancer-targeting product profiles have been generated from a single chemical core structure that is the foundation of our technology platform. We also believe that additional cytotoxic PDCs may be developed possessing enhanced therapeutic indices versus the original, non-targeted cytotoxic payload as a monotherapy.
+ 
+Malignant tumor targeting, including targeting of cancer stem cells, has been demonstrated in vivo in animal models as well as in clinical studies. Mice without intact immune systems and inoculated with Panc-1 (pancreatic carcinoma) cells, were injected with CLR 1502, 24 or 96 hours prior to imaging. In vivo optical imaging showed pronounced accumulation of CLR 1502 in tumors versus non-target organs and tissues. Similarly, positron emission tomography (PET) imaging of tumor-bearing animals (colon, glioma, triple negative breast and pancreatic tumor xenograft models) administered the imaging agent CLR 124 clearly shows selective uptake and retention by both primary tumors and metastases, including cancer stem cells. PET/CT analysis following co-injection of CLR 131 (for therapy) and CLR 124 (for imaging) revealed time-dependent tumor responses and disappearance over nine days in a cancer xenograft model. We believe that the capability of our technology to target and be selectively retained by cancer stem cells in vivo, was demonstrated by treating glioma stem cell-derived orthotopic tumor-bearing mice with another fluorescent-labeled PDC (CLR 1501), and then removing the tumor and isolating cancer stem cells, which continued to display CLR 1501 labeling even after three weeks in cell culture.
+
+
+The basis for selective tumor targeting of our compounds lies in differences between the plasma membranes of cancer cells as compared to those of most normal cells. Data suggests that lipid rafts serve as portals of entry for PDCs such as CLR 131 and our multiple series of drug conjugates. The marked selectivity of our compounds for cancer cells versus non-cancer cells likely results from cancer cells maintenance of an overabundance of lipid rafts and the stabilization of these microdomains within the plasma membrane as compared to normal cells. Following cell entry via lipid rafts, CLR 131 is transported into the cytoplasm, where it traffics along the Golgi apparatus and is distributed to various peri-nuclear organelles (including mitochondria and the endoplasmic reticulum). The pivotal role played by lipid rafts is underscored by the fact that disruption of lipid raft architecture significantly eliminates uptake of our PDC delivery vehicle into cancer cells.
+
+
+Products in Development
+ 
+CLR 131
+ 
+CLR 131 is a small-molecule, cancer-targeting molecular radiotherapeutic PDC that we believe has the potential to be the first radiotherapeutic agent to use PLEs to target cancer cells. CLR 131 is comprised of our proprietary PLE, 18-(p-[I-131]iodophenyl) octadacyl phosphocholine, acting as a cancer-targeting delivery and retention vehicle, covalently labeled with iodine-131, a cytotoxic (cell-killing) radioisotope with a half-life of eight days that is already in common use to treat thyroid, pediatric tumors and other cancer types including non-Hodgkin’s lymphoma. It is this “intracellular radiation” mechanism of cancer cell killing, coupled with delivery to a wide range of malignant tumor types that we believe provides CLR 131 with anti-cancer activity. Selective uptake and retention have been demonstrated in cancer stem cells compared with normal cells, offering the prospect of longer lasting anti-cancer activity.
+
+8
+-
+
+ 
+
+Pre-clinical experiments in tumor models have demonstrated selective killing of cancer cells along with a safe and tolerable product profile. CLR 131’s anti-tumor/survival-prolonging activities have been demonstrated in more than a dozen models including breast, prostate, lung, brain, pancreatic, ovarian, uterine, renal, and colorectal cancers as well as, melanoma and multiple myeloma. In all but two models, a single administration of a well-tolerated dose of CLR 131 was sufficient to demonstrate efficacy. Moreover, efficacy was also seen in a model employing human uterine sarcoma cells that have known resistance to many standard chemotherapeutic drugs. CLR 131 was also tested in combination with a standard efficacious dose of gemcitabine in a pancreatic cancer model. Single doses of CLR 131 or gemcitabine given alone were equally efficacious, while the combination therapy was significantly more efficacious than either treatment alone (additive). While single doses of CLR 131 have been effective and tolerated in multiple preclinical animal models, CLR 131 has been shown to provide a statistically significant improvement in efficacy and survival when provided in a multi-dose format and remains tolerated. In each study, the dose of CLR 131 was ~100 µCi, which is approximately 50-fold less than the maximum tolerated dose (MTD) of CLR 131 determined in a six-month rat radiotoxicity study.
+
+
+Extensive IND-enabling, Good Laboratory Practices (GLP) in vivo and in vitro pre-clinical pharmacokinetic/ distribution, toxicology and drug safety studies were successfully completed in 2007 through 2009 using non-pharmacological concentrations/doses of PLE consistent with its role as a delivery/retention vehicle in CLR 131. Tissue distribution studies supported prediction of acceptable human organ exposures and body clearance for CLR 131. Importantly, and in sharp distinction from biological products labeled with I-131, the small-molecule CLR 131 showed very minimal variation in excretion kinetics and tissue distribution among individuals within species or across a 500-fold variation in dose. Single and repeat-dose animal toxicology studies indicated very high margins of safety with our PLE delivery and retention vehicle even when administered at 80-200x over the amount required to deliver the anticipated maximum human therapy dose of CLR 131.
+ 
+In 2009, we filed an IND with the FDA to study CLR 131 in humans. In February 2010, we completed a Phase 1 dosimetry study with a single intravenous dose of 10 mCi/m2 CLR 131 in eight patients with relapsed or refractory advanced solid tumors. Single doses of CLR 131 were tolerated and the reported adverse events were all considered minimal, manageable and either not dose limiting or not related to CLR 131. There were no serious adverse events reported. Analysis of total body imaging and blood and urine samples collected over 42 days following injection indicated that doses of CLR 131 expected to be therapeutically effective could be administered without harming vital organs. Two subjects (one with colorectal cancer metastasized to lung and another with prostate cancer) had tumors that were imaged with 3D nuclear scanning (SPECT/CT) on day 6 after administration of CLR 131. Uptake of CLR 131 into tumor tissue (but not adjacent normal tissue or bone marrow) was clearly demonstrated in both subjects. Confirming animal studies, pharmacokinetic analyses demonstrated a prolonged half-life of radioactivity in the plasma after CLR 131 administration (approximately 200 hours) and that there was no significant variation in excretion or radiation dosimetry among subjects. The study established an initial dose of 12.5 mCi/m2, for the Phase 1b escalating dose study that commenced in January 2012. 
+ 
+The primary objective of the multicenter Phase 1b dose-escalation study in patients with a range of advanced solid tumors was to define the MTD of CLR 131. In addition to determining the MTD, the Phase 1b study was intended to evaluate overall tumor response (using standard RESIST 1.1 criteria) and safety. In September 2012, we announced that we had successfully completed the second cohort in this Phase 1b dose-escalation study. Dose escalation in four cohorts subsequently occurred with refractory cancer patients receiving single doses of 25 mCi/m2, 31.25 mCi/m2 or 37.5 mCi/m2.
+
+
+Tumor treatment with radioactive isotopes has been used as a fundamental cancer therapeutic for decades. The goals of targeted cancer therapy — selective delivery of effective doses of isotopes that destroy tumor tissue, sparing of surrounding normal tissue, and non-accumulation in vital organs such as the liver and kidneys — remain goals of new therapies as well. We believe our isotope delivery technology has the potential to achieve these goals. To date, CLR 131 has been shown in animal models to reliably and near-universally accumulate in cancer cells, including cancer stem cells, and because the therapeutic properties of iodine-131 are well known, we believe the risk of non-efficacy in human clinical studies is less than that of other cancer therapies at this stage of development, although no assurance can be given.
+
+
+
+9
+-
+
+ 
+
+In view of CLR 131’s selective uptake and retention in a wide range of solid tumors and in cancer stem cells, its single-agent efficacy in animal models and its non-specific mechanism of cancer-killing (radiation), we are initially developing CLR 131 as a monotherapy for cancer indications with significant unmet medical need. While a number of indications were evaluated as the initial target treatment, multiple myeloma was selected principally because it is an incurable hematologic disease that is highly radiosensitive, with significant unmet medical need in the relapse or refractory clinical setting and is designated as an orphan disease. As a result, this may provide an accelerated regulatory pathway due to CLR 131’s unique benefits such as a novel mechanism of action, ease of administration, and positive benefit/risk profile potential in various high unmet cancer populations. The IND application for multiple myeloma was accepted by the FDA in September 2014. In December 2014, the FDA granted orphan drug designation for CLR 131 for the treatment of multiple myeloma. We initiated our Phase 1 Study of CLR 131 for the treatment of relapsed or refractory multiple myeloma in April 2015 and have provided periodic clinical updates. CLR 131 is being evaluated as a monotherapy and will subsequently be explored as a combination therapy with chemotherapeutic agents, immunomodulatory agents and in combination with external beam radiotherapy.
+ 
+In September 2017, we announced results for Cohort 4 showing that a single 30-minute infusion of 31.25mCi/m2 of CLR 131 was safe and tolerated by the three patients in the cohort. Additionally, all three patients experienced clinical benefit with one patient achieving a partial response (“PR”). We are monitoring response rates via surrogate markers of efficacy including M protein and FLC. The IMWG defines a PR as a greater than or equal to 50% decrease in FLC levels (for patients in whom M protein is unmeasurable) or 50% decrease in M protein. The patient experiencing a PR had an 82% reduction in FLC. This patient did not produce M protein, received seven prior lines of treatment including radiation, stem cell transplantation and multiple triple combination treatments including one with daratumumab that was not tolerated. One patient experiencing stable disease attained a 44% reduction in M protein. For all of the patients receiving the single dose, CLR 131 was the third line of treatment or later. We have recently converted the Phase 1a clinical data (single CLR 131 dose) to pooled data for presentation of the total performance of the results to date. On January 7, 2019, we announced that the pooled mOS data from the first four cohorts was 22.0 months. Based on the safety observed to date as well as various efficacy signals, including reductions in M protein and FLC and a pooled median OS that has not yet been reached, the study protocol was modified for cohort 5 to introduce a fractionated dose of 15.625 mCi/m2 administered on day 1 and day 8 to further determine the optimal dose-range for CLR 131. Results from Cohort 5 indicate enhanced tolerability and safety in comparison to Cohort 4 despite an 18% increase in total average dose from 55.29 mCi to 65.15 mCi of CLR 131. Patients in Cohort 5 required less supportive care such as transfusions of platelets or packed red blood cells than seen in previous cohorts. Furthermore, a review of surrogate efficacy markers demonstrated that patients in Cohort 5 monitored by M-protein showed a nearly 50% further reduction in M-Protein than seen in Cohort 4. Based on the results and an independent Data Monitoring Committee recommendation, on December 4, 2018 we initiated a sixth cohort using a fractionated two dose regimen of 18.75 mCi/m2 administered one week apart.
+ 
+CLR 131 is also being evaluated in a Phase 2 clinical study examining relapse refractory multiple myeloma patients as well as selected other B-cell hematological malignancies. Patients will receive a 25 mCi/m2 dose infused over approximately 30 minutes with the option of a second 25 mCi/m2 dose 75-180 days later based on physician assessment. Based on the performance results from Cohort 5 of our Phase 1 study in patients with R/R MM, reviewed below, we modified the dosing regimen of this study to a fractionated dose of 15.625 mCi/m2 administered on day 1 and day 8. This study is partially funded through a $2,000,000 Fast Track NCI SBIR award which was granted in July 2016. 
+ 
+In February 2019, we announced that a single, 25mCi/m2, 30-minute intravenous infusion of CLR 131 in the first 10 patients with R/R MM were assessed. These interim data show a 30% response rate in a patient population which received an average of five prior lines of systemic therapy (including daratumumab), at least one stem cell transplantation with the average age being 70. The observed responses to date show overall reductions in surrogate markers of disease (M protein or free light chains, depending upon which is being used to monitor the patient’s disease) between 70% and over 90%. In addition to these patients, 100% of patients achieved stable disease with 2 patients experiencing a minimal response or a minimum reduction of a 25% in the surrogate marker being used to monitor the patient’s disease. Historically, patients receiving 4th line chemotherapy treatment show a 15% response rate, and patients receiving 5th line chemotherapy show an 8% response rate, whether dosed as mono-therapy or in combination. The Multiple Myeloma average treatment response rate (RR) provided by line of therapy was obtained through a global information and technology vendor specializing in healthcare data analysis utilizing over 12.5 billion U.S. insurance claims and 90 million electronic medical records. As a result of these outcomes, we have expanded this cohort to include up to 30 additional patients.
+
+
+
+10
+--
+
+ 
+
+In July 2018, we announced that after a single 25mCi/m2 IV administration of CLR 131, patients with relapsed/refractory aggressive DLBCL were assessed for response. These interim data show a 33% ORR and a 50% CBR. In addition, the observed responses to date show overall tumor reduction ranged from 60% to greater than 90%. As a result of these favorable outcomes, we have expanded this cohort to include up to 30 additional patients. We also announced that a patient in the lymphoplasmacytic lymphoma (LPL) arm with advanced Waldenstrom macroglobulinema showed a 94% reduction in tumor burden and complete resolution in four of five targeted masses after two doses of CLR 131 separated by 123 days.
+ 
+On December 14, 2017, we filed an IND application with the Division of Oncology at the FDA for a proposed Phase 1 study of CLR 131 in children and adolescents with select rare and orphan designated cancers. The Phase 1 clinical study of CLR 131 is an open-label, sequential-group, dose-escalation study to evaluate the safety and tolerability of a single intravenous administration of CLR 131 in up to 30 children and adolescents with cancers including neuroblastoma, sarcomas, lymphomas (including Hodgkin’s lymphoma) and malignant brain tumors. Secondary objectives of the study are to identify the recommended Phase 2 dose of CLR 131 and to determine preliminary antitumor activity (treatment response) of CLR 131 in children and adolescents. In 2018, the FDA a granted orphan drug and a Rare Pediatric Disease Designation (RPDD) for CLR 131 for the treatment of neuroblastoma, rhabdomyosarcoma, Ewing’s sarcoma and osteosarcoma. Should any of these indications reach approval, the RPDD may enable us to receive a priority review voucher. Priority review vouchers can be used by the sponsor to receive Priority Review for a future NDA or BLA submission, which would reduce the FDA review time from 12 months to six months. Currently, these vouchers can also be transferred or sold to another entity. We plan to initiate this Phase 1 study in 2019, at 3-5 pediatric cancer centers within and possibly outside the US.
+
+
+CLR 1800 Series
+ 
+CLR 1800 Series is a collaborative PDC program with Pierre Fabre that was entered into in December 2015 and extended in October 2017 and again in 2018. Pierre Fabre is the third largest French pharmaceutical company with an extensive oncology research and development infrastructure. The objective of the collaboration is to leverage our expertise in conjugation, linker chemistry and phospholipid ether chemistry to codesign a library of PDCs employing Pierre Fabre’s chemotherapeutics. The newly developed PDCs may provide enhanced therapeutic indices to otherwise highly potent, nontargeted payloads through the targeted delivery to cancer cells provided by our proprietary phospholipid ether delivery platform. Research progress has been achieved, including the demonstration of improved tolerability in animal models. Our agreement with Pierre Fabre expired in January 2019, however, the program is evaluating a number of PDC molecules for possible candidate selection and progression to IND enabling studies. 
+
+
+CLR 1900 Series
+ 
+CLR 1900 Series is an internally developed proprietary PDC program leveraging a novel small molecule cytotoxic compound as the payload. The payload inhibits mitosis (cell division) and targets a key pathway required to inhibit rapidly dividing cells that results in apoptosis. We believe that this program could produce a product candidate targeted to select solid tumors. Currently, the program is in early preclinical development.
+ 
+CLR 2000 Series
+ 
+CLR 2000 Series is a collaborative PDC program with Avicenna Oncology, or Avicenna, that we entered into in July 2017. Avicenna is a leading developer of antibody drug conjugates (“ADCs”). The objective of the research collaboration is to design and develop a series of PDCs utilizing Avicenna’s proprietary cytotoxic payload. Although Avicenna is a leading developer of ADCs, this collaboration was sought as a means to overcome many of the challenges associated with ADCs, including those associated with the targeting of specific cell surface epitopes.
+ 
+
+11
+--
+
+ 
+
+CLR 2100 and 2200 Series
+ 
+CLR 2100 and 2200 Series are collaborative PDC programs with Onconova Therapeutics, Inc., or Onconova, that we entered into in September 2017. Onconova is a biotechnology company specializing in the discovery and development of novel small molecule cancer therapies. The collaboration is structured such that we will design and develop a series of PDCs utilizing different small molecules that Onconova was developing as payloads with the intent to show improved targeting and specificity to the tumor. At least one of the molecules was taken into Phase 1 clinical studies previously by Onconova. We would own all new intellectual property associated with the design of the new PDCs, and both companies will have the option to advance compounds.
+ 
+CLR 12120 Series
+ 
+CLR 12120 Series is a collaborative PDC program with Orano Med for the development of novel PDCs utilizing Orano Med’s unique alpha emitter, lead 212 conjugated to our phosolipid ether (PLE); the companies intend to evaluate the new PDCs in up to three oncology indications.
+ 
+Market Overview
+ 
+Our target market is broad and represents the market for the treatment of cancer. The American Cancer Society estimated that approximately 1.76 million new cancer cases were expected to be diagnosed in the U.S. in 2019 and approximately 606,880 cancer deaths in the U.S. The global market for cancer drugs reached $107 billion in annual sales (June 2015), and could reach $150 billion by 2020, according to a report dated June 2016 by the IMS Institute for Healthcare Informatics, a unit of drug data provider IQVIA. This growth will be driven by emerging targeted therapies, which are expected to change the cancer treatment landscape (Cowen Report), and an increased use of cancer drug combination regimens.
+Multiple Myeloma 
+ 
+According to the National Cancer Institute SEER database, multiple myeloma is the second most common hematologic cancer with a U.S. incidence rate and a relapse or refractory patient population of 10,000 to 15,000. The Decision Resources Group in 2016 estimated the Multiple Myeloma dollar market size to be over $17B in 2018 and is forecasted to increase to nearly $27B in 2023. The increase in drug sales over this period will be mainly driven by the increasing incidence of MM in each of the seven key markets with the U.S. market remaining the largest potential market. It is believed the largest growth will occur in patients receiving at least three lines of treatment due to the expanding elderly population, increases in treatment population and increasing rates of survival from earlier lines of treatment. According to data obtained from Decision Resource Group, over 40% of patients in later lines of therapy while eligible, refuse treatment due to higher treatment failure, severity of adverse events and difficulty of treatment dosing regimen. The average response rates for patients receiving their fourth- and fifth-line treatment are 15% and 8% response rates respectively. Additionally, the mOS for these patients also decreases by line of therapy and is less than 9 months post third-line treatment.
+ 
+Based on the CLR 131 Phase 1 and Phase 2 product profile demonstrated in fifth-line patients to date with a single dose, we believe CLR 131 may meet the unmet medical need in the heavily pre-treated patient population described above.
+ 
+B-Cell Lymphoma
+ 
+B-cell lymphoma represents cancers of the lymphatic system. The lymphoma may be indolent or aggressive and circulates in the blood or form tumors in lymph nodes. According to the National Cancer Institute SEER data base the estimated 2018 incidence of B-Cell Lymphoma was 163,000 cases. Types of B-Cell Lymphomas include Chronic Lymphocytic Leukemia, Small Lymphocytic Leukemia, Mantel Cell Lymphoma, Marginal Zone Lymphoma, and the most common lymphoma, DLBCL.
+ 
+We believe there is a significant unmet medical need in B-Cell Lymphoma due to continued high mortality and poor response rates remain in second- and third- line treatments compounded by the limited durability of responses.
+ 
+Based on the CLR 131 Phase 2 product profile demonstrated in DLBCL patients to date with a single dose, we believe CLR 131 may meet the unmet medical need in the patient population described above as well.
+ 
+
+12
+--
+
+Neuroblastoma
+ 
+Neuroblastoma, a neoplasm of the sympathetic nervous system, is the most common extracranial solid tumor of childhood, accounting for approximately 7.8% of childhood cancers in the U.S. The National Cancer Institute states the incidence is about 10.54 cases per 1 million per year in children younger than 15 years and 90% are younger than 5 years at diagnosis. Over 650 new cases are diagnosed each year in North America. Approximately 50% of patients present with metastatic disease requiring systemic treatment. Clinical consequences include abdominal distension, proptosis, bone pain, pancytopenia, fever and paralysis. Although the prognosis is favorable in children under one year of age with an 86 to 95% 5-year survival, in children aged one to 14 years the 5-year survival ranges from 34 to 68%.
+Sarcomas
+ 
+Sarcomas represent a heterogeneous disease group. Sarcomas grow in connective tissue, or cells that connect or support other kinds of tissue in the body. These tumors are most common in the bones, muscles, tendons, cartilage, nerves and blood vessels. Sarcomas represent 15% of all pediatric tumors and 21% of pediatric solid tumors. The National Cancer Institute SEER data base estimates that there were 2,060 incidences in 2019. The median age at diagnosis was 3, the median age of death was 5. 
+
+
+We are focused on 3 subsets of Sarcomas:
+ 
+
+· | Osteosarcoma: The tumor develops in growing bone tissues, accounts for 28% of all bone sarcomas and is the most common pediatric sarcoma (56%).
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Ewing’s Sarcoma: The tumor develops in immature tissues in bone marrow
+--+-----------------------------------------------------------------------
+
+
+· | Rhabdomyosarcoma: Tumors develop in the muscles predominately skeletal muscle.
+--+-------------------------------------------------------------------------------
+
+ 
+Based on information from Market Insights, Epidemiology, and Market Forecast, the global market value of the Pediatric Sarcoma Market is expected to nearly double from $324 million in 2018 to $635 million in 2025. This growth is expected to be driven by the high rate of recurrence in pediatrics, increased incidence in select markets and new high priced therapies coming to the market.
+ 
+Manufacturing
+ 
+CLR 131 drug product is made via a five-step synthetic scheme. The release specifications for the drug product have been established and validated. Through process improvements, we have been able to achieve a longer expiry dating for the compound extending finished product shelf-life to further facilitate ex-U.S. distribution from North America.
+ 
+The drug substance base molecule is a dry powder produced via a six-step synthetic scheme.  The release specifications for the drug substance have been established and validated.  We have successfully executed large scale production of the drug substance via a contract manufacturing organization that has been inspected and approved by the FDA and the European Medicines Agency.  We have also demonstrated 60-month stability for the drug substance in desiccated and refrigerated forms at small scale and are replicating this at large scale. 
+ 
+In January 2018, we initiated the planned shutdown of our radiopharmaceutical manufacturing facility in Madison, Wisconsin. This facility was designed to provide pilot and small scale production of our lead clinical program CLR 131. In December 2017, we transferred the manufacturing of CLR 131 to CPDC, a validated Current Good Manufacturing Practices (“cGMPs”) manufacturing organization specializing in radiopharmaceuticals, as our exclusive source to supply drug product for our ongoing research and clinical studies, including our Phase 1 and Phase 2 studies of CLR 131. We believe that CPDC and our other third party manufactures have the ability to supply large scale clinical and commercial scale material.
+
+
+On August 7, 2018, we were informed by CPDC, our sole supplier of CLR 131, that CPDC is subject to an Import Alert 66-40 (the “Import Alert”) by the U.S.FDA. While the basis for the Import Alert was not related to CLR 131, or CPDC’s production facility associated with CLR 131, CPDC informed us on August 8, 2018 that CPDC would not be able to supply CLR 131 to us until the Import Alert is lifted or alternative agreements are reached with the FDA. 
+
+13
+--
+
+ 
+
+On November 8, 2018, the FDA notified us that CLR 131 would be exempted from the Import Alert placed on CPDC in relation to our ongoing clinical studies. As a result, we have resumed patient enrollment in our CLR 131 hematology clinical studies.
+ 
+We await either the lifting of the Import Alert or the granting of an exemption from the FDA for any future shipments into the U.S. in connection with our Phase 1 study of pediatric patients with neuroblastoma, sarcomas, lymphomas (including Hodgkin’s lymphoma) and malignant brain tumors. As a result of the supply disruption, we are experiencing delays in initiation of this clinical study. At this time, we are sourcing clinical sites outside the U.S. which would allow us to begin enrollment of this clinical study.
+
+
+Sales and Marketing
+ 
+We plan to pursue and evaluate all available options to develop, launch and commercialize our compounds. These options presently include but are not limited to: entering into an agreement for a contract sales organization (CSO) or partnering arrangement with one or more biotechnology or pharmaceutical company with strong product development and commercialization expertise and distribution infrastructure in the U.S., Europe and/or Japan. While we currently do not plan to build our own commercial organization for the launch and commercialization of our compounds, we may reconsider that in the future.
+
+
+Competition for Our Clinical-Stage Compounds
+ 
+Currently, several classes of approved products with various mechanisms of action exist, including: immune-modulating agents, proteasome inhibitors, histone deacetylase inhibitors, monoclonal antibodies, corticosteroids, and traditional chemotherapeutics for the treatment of liquid and solid tumors. While a number of indications were evaluated as the initial target treatment for CLR 131, multiple myeloma and hematologic cancers were selected for initial clinical development principally because of its highly radio-sensitive nature, single or multi-dose treatment, and novel mechanism of action relative to all existing classes of approved drugs. As a result, we believe CLR 131 is a therapeutic option in the relapse or refractory setting either as a monotherapy or in combination with currently approved agents, some of which are radio-sensitizing and maintain a differential adverse event profile from that of CLR 131.
+ 
+Intellectual Property
+ 
+Our core technology platform is based on research conducted at the University of Michigan in 1994, where phospholipid ether analogs were initially designed, synthesized, radiolabeled, and evaluated. This research was transferred to the University of Wisconsin - Madison between 1998 and the subsequent founding of Cellectar in 2002 to further develop and commercialize the technology. We obtained exclusive rights to the related technology patents owned by University of Michigan in 2003 and continued development of the PDC platform while obtaining ownership of numerous additional patents and patent applications (with various expiry until 2034 without extensions). We have established a broad U.S. and international intellectual property rights portfolio around our proprietary cancer-targeting PLE technology platform including CLR 131 and our PDC Programs.
+ 
+PDC chemotherapeutic Programs
+ 
+In November 2015, we converted our previously filed provisional patent application for Phospholipid-Ether Analogs as Cancer Targeting Drug Vehicles to non-provisional US and International (PCT) patent applications and were published by the U.S. Patent & Trade Office (USPTO) in May of 2016. These patent applications further protect composition of matter and method of use for PDCs developed with our proprietary phospholipid-ether delivery vehicle conjugated with any existing or future cytotoxic agents, including chemotherapeutics for targeted delivery to cancer cells and cancer stem cells. Additional cytotoxic PDC compounds are covered by pending patent applications directed to the composition of matter and method of use for cancer therapy provide intellectual property protection in the U.S. and up to 148 additional countries. These applications, if granted, offer protection extending through at least 2035 in the U.S. and key international markets.
+ 
+
+14
+--
+
+CLR 131
+ 
+We have taken a broad approach to creating market exclusivity for CLR 131 both within the U.S., and globally, including all major markets. This approach includes numerous patents, patent applications and regulatory filings to provide maximum market exclusivity. Our patent portfolio for CLR 131 includes all of the typical filings as well as unique methods of use, methods of manufacturing, use in combinations, use to treat cancer stem cells, novel formulations, etc. In addition, to our patents, we were granted orphan designation for CLR 131 for the treatment of multiple myeloma by the FDA in December 2014 and expect to file additional orphan designations for other rare diseases. We continue to evaluate CLR 131 in additional hematologic and solid tumor orphan designated indications. Our patents have a variety expected expiry with some potentially being extended on a country-by-country basis. In 2018, the FDA a granted orphan drug and a Rare Pediatric Disease Designation (RPDD) for CLR 131 for the treatment of neuroblastoma, rhabdomyosarcoma, Ewing’s sarcoma and osteosarcoma. We expect to initiate a Phase 1 study during 2019.
+ 
+We expect to continue to file patent applications and acquire licenses to other patents covering methods of use, composition of matter, formulation, method of manufacture and other patentable claims related to CLR 131 and new PDCs. These patent applications will be filed in key commercial markets worldwide. The issued patents will generally expire between 2025 and 2035, unless extended, most likely under clinical development extensions.
+ 
+In addition to the above noted patents/applications directed to CLR 131 and our PDC pipeline portfolio, we own other patents/applications directed to different forms of phospholipid ethers, methods of use and methods of manufacturing of phospholipid ethers.
+ 
+Separate from any patent protection and following product approval by regulatory authorities, data exclusivity may be available for various compounds for up to 10 years on a country-by-country basis (e.g., up to five years in the U.S. and up to ten years in Europe).
+ 
+Licenses / Collaborations 
+ 
+On August 1, 2018, we entered into a collaboration with Orano Med for the development of novel PDCs utilizing Orano Med’s alpha emitter lead-212 conjugated to our phospholipid ether; the companies intend to evaluate the new PDCs in up to three oncology indications.
+ 
+On September 18, 2017, we entered into an arrangement with Onconova Therapeutics, Inc. (Onconova). Under this arrangement, Onconova will provide us a selection of its proprietary compounds. We will use our proprietary technology to perform research studies on such compounds with the goal of developing new conjugates. We agree to perform the studies within 24 months. We granted Onconova an exclusive option to acquire a royalty-bearing license with respect to each conjugate developed. In the event an executed license agreement for a particular conjugate is not obtained, then Onconova’s exclusive option shall terminate with respect to such conjugate.
+ 
+On July 9, 2017, we entered into an arrangement with Avicenna Oncology GMBH (Avicenna). Under this arrangement, Avicenna will provide us a selection of its proprietary toxins. We will use our proprietary conjugation capabilities to proceed with the conjugation in order to obtain PDCs. We will process various in vitro and in cellulo screening against such PDCs to develop new conjugates. We granted Avicenna an exclusive option to acquire an exclusive license to our intellectual property with respect to each conjugate developed. In the event the parties cannot reach agreement on the terms of a definitive agreement despite good faith negotiations, Avicenna’s exclusive option terminates as to such conjugate. Avicenna also granted to us an exclusive option to acquire an exclusive license to its intellectual property with respect to the material provided. In the event the parties do not reach agreement on the terms of a definitive agreement, our exclusive option terminates as to the material of Avicenna. 
+ 
+On December 14, 2015, we entered into an arrangement with Institut de Recherche Pierre Fabre (IRPF). Pierre Fabre is the third largest French pharmaceutical company with an extensive oncology research and development infrastructure. The objective of the collaboration is to leverage our expertise in conjugation, linker chemistry and phospholipid ether chemistry to codesign a library of PDCs employing Pierre Fabre’s chemotherapeutics. The newly developed PDCs may provide enhanced therapeutic indices to otherwise highly potent, nontargeted payloads through the targeted delivery to cancer cells provided by our proprietary phospholipid ether delivery platform. Research progress has been achieved, including the demonstration of improved tolerability in animal models. Our agreement with Pierre Fabre expired in January 2019, however, the program is evaluating a number of PDC molecules for possible candidate selection and progression to IND enabling studies.
+
+
+
+15
+--
+
+Research and Development
+ 
+Our primary activity to date has been research and development. The research had been historically been conducted at our facility in Madison, Wisconsin and through third party laboratories and academic universities. Starting in 2018, we no longer used the facility in Madison, Wisconsin for these activities. The clinical development has been completed primarily through contract research organizations at hospitals and academic centers. We have established a collaboration outsourcing model to leverage third party expertise, accelerate project timelines, improve productivity and limit spend and fixed costs. Our research and development expenses were approximately $6,835,000 and $9,466,000 for 2018 and 2017, respectively.
+Regulation
+ 
+The production, distribution, and marketing of products employing our technology, and our development activities, are subject to extensive governmental regulation in the U.S. and in other countries.  In the U.S., we are subject to the Federal Food, Drug, and Cosmetic Act, as amended, and the regulations of the FDA, as well as to other federal, state, and local statutes and regulations, including the federal, state and local laws and regulations governing the storage, use and disposal of hazardous materials, including radioactive isotopes.  These laws, and similar laws outside the U.S., govern the clinical and pre-clinical testing, manufacture, safety, effectiveness, approval, labeling, distribution, sale, import, export, storage, record-keeping, reporting, advertising, and promotion of drugs.  Product development and approval within this regulatory framework, if successful, will take many years and involve the expenditure of substantial resources.  Violations of regulatory requirements at any stage may result in various adverse consequences, including the delay in approving or refusal to approve a product by the FDA or other health authorities.  Violations of regulatory requirements also may result in enforcement actions, which include civil money penalties, injunctions, seizure of regulated product, and civil and criminal charges. The following paragraphs provide further information on certain legal and regulatory issues with a particular potential to affect our operations or future marketing of products employing our technology.
+Research, Development, and Product Approval Process
+ 
+The research, development, and approval process in the U.S. and elsewhere is intensive and rigorous and generally takes many years to complete.  The typical process required by the FDA before a therapeutic drug may be marketed in the U.S. includes:
+
+• | pre-clinical laboratory and animal tests performed under the FDA’s Good Laboratory Practices regulations, referred to herein as GLP;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an IND application, which must become effective before human clinical studies may commence;
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | human clinical studies performed under the FDA’s Good Clinical Practices regulations, to evaluate the drug’s safety and effectiveness for its intended uses;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FDA review of whether the facility in which the drug is manufactured, processed, packed, or held meets standards designed to assure the product’s continued quality; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission of a marketing application to the FDA, and approval of the application by the FDA.
+--+----------------------------------------------------------------------------------------------
+
+
+16
+--
+
+ 
+
+Pre-Clinical Testing
+ 
+During pre-clinical testing, studies are performed with respect to the chemical and physical properties of candidate formulations. These studies are subject to GLP requirements. Biological testing is typically done in animal models to demonstrate the activity of the compound against the targeted disease or condition and to assess the apparent effects of the new product candidate on various organ systems, as well as its relative therapeutic effectiveness and safety.
+ 
+Submission of IND
+ 
+An IND must be submitted to the FDA and become effective before studies in humans may commence. The IND must include a sufficient amount of data and other information concerning the safety and effectiveness of the compound from laboratory, animal, and human clinical testing, as well as data and information on manufacturing, product quality and stability, and proposed product labeling.
+ 
+Clinical Studies
+ 
+Clinical study programs in humans generally follow a three-phase process. Typically, Phase 1 studies are conducted in small numbers of healthy volunteers or, on occasion, in patients afflicted with the target disease. Phase 1 studies are conducted to determine the metabolic and pharmacological action of the product candidate in humans and the side effects associated with increasing doses, and, if possible, to gain early evidence of effectiveness. In Phase 2, studies are generally conducted in larger groups of patients having the target disease or condition in order to validate clinical endpoints, and to obtain preliminary data on the effectiveness of the product candidate and optimal dosing. This phase also helps determine further the safety profile of the product candidate. In Phase 3, large-scale clinical studies are generally conducted in patients having the target disease or condition to provide sufficient data for the statistical proof of effectiveness and safety of the product candidate as required by U.S. regulatory agencies.
+
+
+In the case of products for certain serious or life-threatening diseases, the initial human testing may be done in patients with the disease rather than in healthy volunteers. Because these patients are already afflicted with the target disease or condition, it is possible that such studies will also provide results traditionally obtained in Phase 2 studies. These studies are often referred to as “Phase 1/2” studies. However, even if patients participate in initial human testing and a Phase 1/2 study is carried out, the sponsor is still responsible for obtaining all the data usually obtained in both Phase 1 and Phase 2 studies.
+ 
+U.S. law requires that studies conducted to support approval for product marketing be “adequate and well controlled.” In general, this means that either a placebo or a product already approved for the treatment of the disease or condition under study must be used as a reference control. Studies must also be conducted in compliance with good clinical practice requirements, and informed consent must be obtained from all study subjects. The clinical study process for a new compound can take ten years or more to complete. The FDA may prevent clinical studies from beginning or may place clinical studies on hold at any point in this process if, among other reasons, it concludes that study subjects are being exposed to an unacceptable health risk. Studies may also be prevented from beginning or may be terminated by institutional review boards, which must review and approve all research involving human subjects. Side effects or adverse events that are reported during clinical studies can delay, impede, or prevent marketing authorization. Similarly, adverse events that are reported after marketing authorization can result in additional limitations being placed on a product’s use and, potentially, withdrawal of the product from the market.
+
+
+Submission of NDA
+ 
+Following the completion of clinical studies, the data is analyzed to determine whether the studies successfully demonstrated safety and effectiveness and whether a product approval application may be submitted. In the U.S., if the product is regulated as a drug, an NDA must be submitted and approved before commercial marketing may begin. The NDA must include a substantial amount of data and other information concerning the safety and effectiveness of the compound from laboratory, animal, and human clinical testing, as well as data and information on manufacturing, product quality and stability, and proposed product labeling. 
+
+
+
+17
+--
+
+ 
+
+Each domestic and foreign manufacturing establishment, including any contract manufacturers we may decide to use, must be listed in the NDA and must be registered with the FDA.  The application generally will not be approved until the FDA conducts a manufacturing inspection, approves the applicable manufacturing process and determines that the facility is in compliance with cGMP requirements.
+ 
+Under the Prescription Drug User Fee Act, as amended, the FDA receives fees for reviewing an NDA and supplements thereto, as well as annual fees for commercial manufacturing establishments and for approved products. These fees can be significant. For fiscal year 2019, the NDA review fee alone is $2,588,478, although certain limited deferral, waivers, and reductions may be available.
+ 
+Each NDA submitted for FDA approval is usually reviewed for administrative completeness and reviewability within 45 to 60 days following submission of the application. If deemed complete, the FDA will “file” the NDA, thereby triggering substantive review of the application. The FDA can refuse to file any NDA that it deems incomplete or not properly reviewable. The FDA has established performance goals for the review of NDAs— six months for priority applications and ten months for standard applications. However, the FDA is not legally required to complete its review within these periods, and these performance goals may change over time.
+ 
+Moreover, the outcome of the review, even if generally favorable, typically is not an actual approval but an “action letter” that describes additional work that must be done before the application can be approved. The FDA’s review of an application may involve review and recommendations by an independent FDA advisory committee. Even if the FDA approves a product, it may limit the approved therapeutic uses for the product as described in the product labeling, require that warning statements be included in the product labeling, require that additional studies be conducted following approval as a condition of the approval, impose restrictions and conditions on product distribution, prescribing, or dispensing in the form of a risk management plan, or otherwise limit the scope of any approval.
+ 
+Post NDA Regulation
+ 
+Significant legal and regulatory requirements also apply after FDA approval to market under an NDA. These include, among other things, requirements related to adverse event and other reporting, product advertising and promotion, and ongoing adherence to cGMP requirements, as well as the need to submit appropriate new or supplemental applications and obtain FDA approval for certain changes to the approved product labeling, or manufacturing process. The FDA also enforces the requirements of the Prescription Drug Marketing Act which, among other things, imposes various requirements in connection with the distribution of product samples to physicians.
+ 
+The regulatory framework applicable to the production, distribution, marketing and/or sale of our product pipeline may change significantly from the current descriptions provided herein in the time that it may take for any of our products to reach a point at which an NDA is approved.
+ 
+Overall research, development, and approval times depend on a number of factors, including the period of review at FDA, the number of questions posed by the FDA during review, how long it takes to respond to the FDA’s questions, the severity or life-threatening nature of the disease in question, the availability of alternative treatments, the availability of clinical investigators and eligible patients, the rate of enrollment of patients in clinical studies, and the risks and benefits demonstrated in the clinical studies.
+
+
+Other U.S. Regulatory Requirements
+ 
+In the U.S., the research, manufacturing, distribution, sale, and promotion of drug and biological products are potentially subject to regulation by various federal, state, and local authorities in addition to the FDA, including the Centers for Medicare and Medicaid Services, other divisions of the U.S. Department of Health and Human Services (e.g., the Office of Inspector General), the U.S. Department of Justice and individual U.S. Attorney offices within the Department of Justice, and state and local governments. For example, sales, marketing, and scientific/educational grant programs must comply with the anti-fraud and abuse provisions of the Social Security Act, the False Claims Act, the privacy provision of the Health Insurance Portability and Accountability Act, and similar state laws, each as amended. Pricing and rebate programs must comply with the Medicaid rebate requirements of the Omnibus Budget Reconciliation Act of 1990 and the Veterans Health Care Act of 1992, each as amended. If products are made available to authorized users of the Federal Supply Schedule of the General Services Administration, additional laws and requirements apply. All of these activities are also potentially subject to federal and state consumer protection, unfair competition, and other laws. 
+
+18
+--
+
+ 
+
+Our research and development, manufacturing, and administration of our drugs involve the controlled use of hazardous materials, including chemicals and radioactive materials, such as radioactive isotopes. Therefore, we are subject to federal, state and local laws and regulations governing the storage, use and disposal of these materials and some waste products and are required to maintain both a manufacturer’s license and a radioactive materials license with State of Wisconsin agencies.
+ 
+Moreover, we are now, and may become subject to, additional federal, state, and local laws, regulations, and policies relating to safe working conditions, laboratory practices, the experimental use of animals, and/or the use, storage, handling, transportation, and disposal of human tissue, waste, and hazardous substances, including radioactive and toxic materials and infectious disease agents used in conjunction with our research work.
+ 
+Foreign Regulatory Requirements
+ 
+We, and any future collaborative partners, may be subject to widely varying foreign regulations that may be quite different from those of the FDA governing clinical studies, manufacture, product registration and approval, and pharmaceutical sales. Whether or not FDA approval has been obtained, we or any future collaboration partners must obtain a separate approval for a product by the comparable regulatory authorities of foreign countries prior to the commencement of product marketing in these countries. In certain countries, regulatory authorities also establish pricing and reimbursement criteria. The approval process varies from country to country, and the time may be longer or shorter than that required for FDA approval. In addition, under current U.S. law, there are restrictions on the export of products not approved by the FDA, depending on the country involved and the status of the product in that country.
+Reimbursement and Pricing Controls
+
+In many of the markets where we, or any future collaborative partners, would commercialize a product following regulatory approval, the prices of pharmaceutical products are subject to direct price controls by law and to drug reimbursement programs with varying price control mechanisms. Public and private health care payors control costs and influence drug pricing through a variety of mechanisms, including through negotiating discounts with the manufacturers and through the use of tiered formularies and other mechanisms that provide preferential access to certain drugs over others within a therapeutic class. Payors also set other criteria to govern the uses of a drug that will be deemed medically appropriate and therefore reimbursed or otherwise covered. In particular, many public and private health care payors limit reimbursement and coverage to the uses of a drug that are either approved by the FDA or that are supported by other appropriate evidence (for example, published medical literature) and appear in a recognized drug compendium. Drug compendia are publications that summarize the available medical evidence for particular drug products and identify which uses of a drug are supported or not supported by the available evidence, whether or not such uses have been approved by the FDA. For example, in the case of Medicare coverage for physician-administered oncology drugs, the Omnibus Budget Reconciliation Act of 1993, with certain exceptions, prohibits Medicare carriers from refusing to cover unapproved uses of an FDA-approved drug if the unapproved use is supported by one or more citations in the American Hospital Formulary Service Drug Information, the American Medical Association Drug Evaluations, or the U.S. Pharmacopoeia Drug Information. Another commonly cited compendium, for example under Medicaid, is the DRUGDEX Information System.
+Employees
+ 
+As of December 31, 2018, we had seven employees, all of whom are full-time employees.
+ 
+Legal Proceedings
+ 
+We are a party to proceedings in the ordinary course of business, however we do not anticipate that the outcome of such matters and disputes will materially affect our financial statements.
+
+19
+--
+
+Corporate Information
+ 
+Cellectar Biosciences, Inc., formerly known as Novelos Therapeutics, Inc., was incorporated in Delaware in June 1996. On April 8, 2011, we entered into a business combination with Cellectar, Inc., a privately held Wisconsin corporation that designed and developed products to detect, treat and monitor a wide variety of human cancers. On February 11, 2014, we changed our name to Cellectar Biosciences, Inc. Our common stock is listed on the Nasdaq Capital Market under the symbol “CLRB.”
+ 
+Our principal executive offices are located at 100 Campus Drive, Florham Park, New Jersey 07932 and our telephone number is (608) 441-8120. Our corporate website address is www.cellectar.com. Information contained on or accessible through our website is not a part of this annual report.
+ 
