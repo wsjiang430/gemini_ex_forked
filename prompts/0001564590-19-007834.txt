@@ -1,0 +1,293 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ SCYNEXIS, Inc. is a biotechnology company committed to positively impacting the lives of patients suffering from difficult-to-treat and often life-threatening infections by delivering innovative therapies. We are developing our lead product candidate, ibrexafungerp (formerly SCY-078), as the first representative of a novel oral and intravenous (IV) triterpenoid antifungal family in clinical development for the treatment of several serious fungal infections, including vulvovaginal candidiasis (VVC), invasive aspergillosis (IA), invasive candidiasis (IC), and refractory invasive fungal infections (rIFI).  
+ VVC, commonly known as “vaginal yeast infection,” is the second most common cause of vaginitis and is usually caused by Candida species.  IA is a serious fungal infection caused by Aspergillus species and is reported to be the leading cause of infection-caused death in immunocompromised patients.  IC is a serious fungal infection caused by various Candida species and occurs in immunocompromised patients.
+  Ibrexafungerp is a structurally distinct glucan synthase inhibitor that has been shown to be effective in vitro and in vivo against a broad range of human fungi pathogens such as Candida and Aspergillus species, including multidrug-resistant strains, as well as Pneumocystis species. Candida and Aspergillus species are the fungi responsible for approximately 85% of all invasive fungal infections in the United States (U.S.) and Europe. To date, we have characterized the antifungal activity, pharmacokinetics, and safety profile of oral and IV formulations of ibrexafungerp in multiple studies.  We are currently progressing clinical trials in VVC (Phase 3), IA (Phase 2), and rIFI, including C. auris infections (open-label Phase 3). The U.S. Food and Drug Administration (FDA) has granted Qualified Infectious Disease Product (QIDP) and Fast Track designations for the formulations of ibrexafungerp for the indications of VVC, IA, and IC (including candidemia), and has granted Orphan Drug designations for the IA and IC indications.  These designations may provide us with additional market exclusivity and expedited regulatory paths.
+ Recognizing that it belongs to a new class of antifungals, the World Health Organization’s International Non-Proprietary Name group selected the name “ibrexafungerp” for SCY-078 in July 2018, and the United States Adopted Names Council (USAN Council) adopted “ibrexafungerp” as a USAN in February 2019.
+ Our Platform of Indications 
+ We continue to accelerate and expand our clinical programs, leveraging the versatility of the ibrexafungerp platform, including the potential for ibrexafungerp to be a suitable treatment for indications with significant unmet medical needs and considerable commercial opportunity. The following illustration summarizes the indications for oral ibrexafungerp we are currently seeking, including VVC and hospital-based invasive fungal infections, as well as anticipated New Drug Application (NDA) submission timing and estimated peak sales potential in the United States: 
+ 3
+
+
+VVC — Our most advanced stage of clinical development, targeting both acute and recurrent infections. 
+ In October 2018, we announced the successful completion of an End-of-Phase 2 Meeting with the FDA for our lead product candidate, ibrexafungerp, for patients with VVC. The FDA has agreed with our proposed overall design of the Phase 3 registration program to support approval of oral ibrexafungerp for the treatment of VVC and prevention of recurrent VVC.  The Phase 3 registration program builds on the positive top-line data from the Phase 2b DOVE study (DOVE study) announced in July 2018, which showed that the one-day oral ibrexafungerp dose of 600mg (two doses of 300mg 12 hours apart) selected for the Phase 3 program was well-tolerated, with strong overall clinical and mycological activity and improved sustained effect compared to fluconazole (FLU), the current standard-of-care (SoC) for VVC.
+
+The Phase 3 VVC registration program comprises three global, multi-center, randomized, double-blind, placebo-controlled trials designed to demonstrate superiority of oral ibrexafungerp vs. placebo, as detailed below:
+  
+• | Treatment of VVC
+
+ Two Phase 3 clinical trials for the treatment of VVC (VANISH Phase 3 program) will evaluate the safety and efficacy of the one-day, oral 600mg dose of ibrexafungerp (two doses of 300mg 12 hours apart), compared to placebo, in approximately 700 patients total (approximately 350 patients per trial). Patients with a diagnosis of VVC will be randomized to ibrexafungerp or placebo in a 2:1 ratio. Similar to the design of the Phase 2b DOVE study, the primary endpoint of each trial will be clinical cure rate, defined as the complete resolution of all signs and symptoms (S&S), at the Test-of-Cure (TOC) visit (Day 10). Secondary endpoints will include mycological eradication and change in S&S scores compared to baseline at both Day 10 and at the follow-up (FU) visit (Day 25).  
+ 
+The VANISH Phase 3 program is currently enrolling patients, and we expect to report top-line data in the first half of 2020. Pending successful completion of these two trials, we plan to submit an initial NDA for oral ibrexafungerp for the treatment of VVC in the second half of 2020.  
+  
+• | Prevention of Recurrent VVC
+
+ One Phase 3 clinical trial for the prevention of recurrent VVC will evaluate the safety and efficacy of the oral 600mg dose of ibrexafungerp (two doses of 300mg 12 hours apart) given once-a-month for six months, compared to placebo, in approximately 350 patients. Patients with a diagnosis of VVC and a history of at least three episodes of VVC in the past 12 months (including the current episode) will first receive SoC treatment for their active infection. Patients whose active infection has been successfully treated will be randomized to ibrexafungerp or placebo in a 1:1 ratio for the prevention phase of the trial. The primary endpoint of the trial will be the percentage of patients without recurrence of VVC through the TOC visit (Week 24). Secondary endpoints will 
+ 4
+
+
+include time to first recurrence, mycological eradication and percentage of patients without recurrence of VVC through the treatment and subsequent FU period (Week 36).
+We plan to initiate the Phase 3 clinical trial in recurrent VVC in the first half of 2019 and expect to submit a supplemental NDA for the prevention of recurrent VVC, an indication with no product currently approved, in 2021.
+ Invasive Pulmonary Aspergillosis—Ibrexafungerp in combination with standard of care may represent a significant opportunity to improve outcomes for this high-mortality infection. 
+ Based on promising pre-clinical data from combination use of ibrexafungerp with SoC vs. Aspergillus spp., we have initiated a Phase 2 study (SCYNERGIA study) of oral ibrexafungerp in combination with voriconazole (SoC) in patients with IA.  This initial study is a randomized, double-blind trial with the objective of assessing the safety and efficacy of oral ibrexafungerp in combination with voriconazole, compared to voriconazole alone. We believe that ibrexafungerp’s broad activity against Aspergillus spp., including azole-resistant strains, along with its minimal drug-drug interactions, high tissue penetration into the lungs and oral formulation allowing for long-term administration, may make it an ideal candidate for use as combination therapy to provide improved outcomes vs. SoC. 
+ Refractory Invasive Fungal Infections—Potential for streamlined development pathway. 
+ We are currently enrolling patients in the FURI study from 32 locations in the U.S. and Europe.  The FURI study is a global, open-label study in which oral ibrexafungerp is being administered as a salvage treatment in patients with difficult-to-treat mucocutaneous and invasive fungal infections that are refractory to or intolerant of currently available standards of care. 
+ In January 2019, we announced the interim results of the first twenty patients of the FURI study following analysis by a Data Review Committee (DRC), an independent expert panel.  Oral ibrexafungerp showed clinical benefits in 17 out of 20 patients, with 11 patients achieving a complete or partial response and six patients experiencing a stable disease response. Only two patients did not respond to ibrexafungerp treatment, and the outcome for one patient was considered indeterminate.  The 20 patients evaluated in this interim analysis suffered from a variety of severe conditions, including esophageal candidiasis, intra-abdominal abscesses, spondylodiscitis (infection of vertebrae and intervertebral discs) and oropharyngeal candidiasis, with the most common fungal species being Candida glabrata and Candida krusei, two highly resistant organisms. Ibrexafungerp treatment ranged from seven to 90 days, with a mean duration of 36.4 days.  Oral ibrexafungerp was well-tolerated, with the most common treatment-related adverse events being gastrointestinal. There were no deaths due to progressive fungal disease and no safety signals warranting changes in the study. 
+ We also are currently enrolling patients in the CARES study, a global, open-label study of oral ibrexafungerp for the treatment of Candida auris infections. Candida auris has been classified by the Centers for Disease Control and Prevention (CDC) as a serious public health threat, as it can be multidrug-resistant, has resulted in high mortality rates (up to 60%) and can be spread from patients (and surfaces) to patients, resulting in hospital outbreaks. The CARES study is intended to provide rapid access to oral ibrexafungerp for patients suffering from this life-threatening infection. 
+ The open-label designs of the FURI and CARES studies allow for evaluation of the data on an interim basis to further inform subsequent regulatory steps of the development program, as was evidenced with the recent FURI study interim analysis. We believe that compelling data from the FURI and/or CARES studies could allow ibrexafungerp to become eligible for the regulatory Limited Population Pathway for Antibacterial and Antifungal Drugs (LPAD), potentially resulting in an NDA submission based on streamlined development.  The LPAD was established under the 21st Century Cures Act of 2016, and FDA draft guidance issued in June 2018 suggests smaller, shorter or fewer clinical trials may be sufficient to support approval to treat a serious or life-threatening infection in a limited population with unmet needs.  We plan to continue to advance enrollment in the FURI and CARES studies, both in the U.S. and globally.  
+ IV Development Program 
+ While oral ibrexafungerp is progressing as a potential valuable option to treat hospital-based invasive fungal infections, as recently shown by the preliminary results from the FURI study, we continue the development of the intravenous liposomal formulation of ibrexafungerp and will provide further updates on this program in the future.
+Key Milestones
+ We are focused on pursuing the following milestones for 2019: 
+ 
+ 
+• | to progress the timely completion of our Phase 3 VVC registration program to allow for a potential initial NDA submission for the treatment of VVC in the second half of 2020 and supplemental NDA submission for the prevention of recurrent VVC in 2021;
+
+
+• | to maintain sufficient capital to ensure the funding of our operating requirements past an anticipated NDA submission for acute VVC in the second half of 2020;
+
+5
+
+
+ 
+• | to continue to advance enrollment in our SCYNERGIA study;
+
+
+• | to continue to advance enrollment in both the FURI and CARES studies, both in the U.S. and globally, with a potential new preliminary data review when adequate enrollment levels have been reached; and
+• | to maintain ongoing dialogue with potential commercial partners in the U.S. and outside of the U.S. 
+
+Our Strategy 
+ Key elements of our strategy include: 
+ 
+ 
+• | to further develop ibrexafungerp and obtain regulatory approval in major commercial markets for our key initial indications: VVC (acute and recurrent), IA, salvage therapy for certain invasive or severe fungal infections, and IC;
+
+
+• | to commercialize ibrexafungerp for selected indications in the U.S. through a dedicated commercial team, including field force, and/or potential partnerships;
+
+
+• | to contract with commercial partners to develop and commercialize ibrexafungerp outside of the U.S.;
+
+
+• | to assess external opportunities to expand our clinical pipeline; and
+
+
+• | to leverage our strong scientific team to pursue the development of other internal proprietary compounds.
+
+Market Opportunity
+ Acute and Recurrent VVC
+ VVC affects approximately 70%-75% of women at least once in their lifetime, with 40-50% of these women experiencing more than one episode.  We estimate approximately 6-8% of women experience recurrent VVC (three to four or more episodes in one year).  VVC episodes include the following:
+
+• | Uncomplicated cases. These are sporadic mild-to-moderate infections typically caused by C. albicans spp. in a normal host. They represent the majority of the VVC episodes; and
+
+
+• | Complicated cases. These represent the remaining episodes and include: severe infections, recurrent cases, infections caused by non-albicans Candida spp., fluconazole-resistant infections, fluconazole intolerant and non-responder cases, infections in women of child-bearing age concerned about fluconazole’s reported embryo/fetal toxicities, and/or observed in an abnormal host.
+
+ VVC can be associated with substantial morbidity, including significant genital discomfort, reduced sexual pleasure, psychological distress and loss of productivity. Diagnosis and treatment of VVC, together with lost productivity, is estimated to cost $1.0 billion per year in the U.S. 
+ Current treatments for acute VVC include over-the-counter (OTC) topical azole antifungals (clotrimazole, miconazole, and others) and the use of the prescription oral azole antifungal, fluconazole.  Fluconazole is the only orally-administered antifungal currently approved for acute VVC in the U.S., with a therapeutic cure rate of 55% as reported in its label.  Uncomplicated acute VVC cases are often effectively treated with topical agents and/or with one to three doses of oral fluconazole.  However, many cases of VVC are not fully addressed by oral fluconazole and patients are left with limited options. In addition, there are no oral alternatives for VVC patients who do not respond to or tolerate fluconazole or patients of child-bearing age concerned about fluconazole’s reported embryo/fetal toxicities, and there are no FDA-approved products for the treatment of recurrent VVC.  
+ We believe that the regulatory path toward approval in VVC is straightforward and has a high chance of technical success. With the strong clinical evidence observed in our Phase 2b DOVE study, we believe that ibrexafungerp, if approved, would provide an oral option for millions of women not currently well-served by existing VVC therapies.
+ Invasive Aspergillosis
+ Current treatment guidelines for IA in the U.S. and in Europe recommend the use of azoles (itraconazole, voriconazole or isavuconazole) as the initial first-line therapy. However, patients face unsatisfactory clinical outcomes with mortality rates ranging from 30% to 80% (depending on the stage of infection and the host underlying disease) and long treatment durations.  Additionally, current therapies often exhibit drug-drug interactions, and the recent emergence of A. fumigatus azole resistance is increasingly becoming of clinical concern worldwide.  
+ Due to the significant rate of resistance in some countries, combination antifungal therapy as first-line treatment for patients suspected of IA is recommended. The combination of voriconazole or isavuconazole with an IV echinocandin is 
+ 6
+
+
+recommended at least until results of resistance testing are obtained. A previous study, by Marr et al., in IA patients demonstrated that the combination of an IV echinocandin and an IV/oral azole for two weeks followed by an oral azole alone for four additional weeks improved outcomes in certain patient subgroups. In this study, the combination regimen was given for only two weeks because of the limitations of using an IV echinocandin long-term in the outpatient setting. We believe that oral ibrexafungerp, if approved in combination with standard of care for the treatment of IA, would allow patients to receive the required combination treatment of two agents with different mechanisms of action for the full six to twelve weeks of therapy, possibly leading to better outcomes.
+ Ibrexafungerp Target Product Profile
+ Ibrexafungerp, a triterpenoid analogue, represents a new chemical class which acts through the inhibition of the glucan synthase, an established target in antifungal therapeutics. Ibrexafungerp is being developed as oral and IV formulations and has demonstrated potent activity against a large collection of medically relevant strains of Candida and Aspergillus species, including multidrug-resistant strains, as well as Pneumocystis species.  Additionally, ibrexafungerp has shown in vitro and in vivo activity against multidrug-resistant organisms such as Candida auris and synergistic/additive activity in combination with isavuconazole against Aspergillus strains.  Ibrexafungerp has unique attributes that define its potential to address significant unmet medical needs and provide considerable commercial opportunities, including:
+  
+• | broad activity against Candida, Aspergillus, and Pneumocystis strains;
+--+-----------------------------------------------------------------------
+
+
+• | distinct chemical structure from other glucan synthase inhibitors, providing a unique spectrum of activity and pharmacokinetic profile;
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | oral bioavailability, unlike other glucan synthase inhibitors, allowing for convenient long-term outpatient use;
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+• | activity against azole-resistant and most echinocandin-resistant Candida strains, including Candida auris and multidrug-resistant strains;
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | activity against azole-resistant Aspergillus strains;
+--+------------------------------------------------------
+
+
+• | fungicidal (i.e., killing the fungi) capabilities against Candida species compared to azoles, which are fungistatic (i.e., inhibiting the growth of fungi);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | high tissue penetration, allowing high concentrations in the organs commonly affected by fungal infections;
+--+------------------------------------------------------------------------------------------------------------
+
+
+• | enhanced activity at acidic pH (normal vaginal pH is 3.8 to 4.5).
+--+------------------------------------------------------------------
+
+
+• | well tolerated with over 500 subjects exposed;
+--+-----------------------------------------------
+
+
+• | 20-hour half-life with a low risk of drug-drug interactions; and
+--+-----------------------------------------------------------------
+
+
+• | lack of teratogenicity in animal studies.
+--+------------------------------------------
+
+ We believe that ibrexafungerp, if approved, has the potential to address significant gaps with commercially available therapies in the following indications:
+  
+• | acute (moderate-to-severe) and recurrent vulvovaginal candidiasis;
+--+-------------------------------------------------------------------
+
+
+• | invasive aspergillosis (including resistant infections);
+--+---------------------------------------------------------
+
+
+• | refractory invasive fungal infections; and
+--+-------------------------------------------
+
+
+• | invasive candidiasis (including resistant infections).
+--+-------------------------------------------------------
+
+ In the future, we may also consider other indications for ibrexafungerp for which longer oral antifungal regimens are typically needed and would benefit from the broad spectrum of activity, favorable safety profile and low potential for drug-drug interactions, including for the treatment of chronic fungal infections and for prophylaxis use.
+ Given our stage of development, we have not yet established a commercial organization or distribution capabilities.
+ For the treatment of VVC, we anticipate that prescribing physicians will mostly be obstetricians and gynecologists and likely a number of primary care physicians and, we believe, it may require a specific sales and marketing force with a women's health focus.  We will assess our global commercial strategy for VVC in the future.
+ For the treatment of invasive fungal infections, we expect that prescribing physicians will be located at major medical centers, where physicians specializing in critical care, infectious disease specialists, and physicians treating immune compromised or immuno-suppressed patients, such as oncologists and those performing solid organ transplants and stem cell transplants, are likely to be found.  For these indications, we intend to form our own focused hospital-based field force to target physicians in the U.S. Outside of the U.S., subject to obtaining necessary marketing approvals, we will likely seek to commercialize ibrexafungerp through distribution or other collaboration arrangements. 
+ 7
+
+
+Competition for Ibrexafungerp
+ Our competitors include large pharmaceutical and biotechnology companies, and specialty pharmaceutical and generic drug companies. The leading antifungal drugs representing each main class are as follows:
+ Azoles. Noxafil® (posaconazole) marketed by Merck and Cresemba® (isavuconazole), recently approved in the U.S. and other global markets and marketed by Astellas in the U.S.;
+ Echinocandins.  Cancidas® (caspofungin), a product that became generic in March 2017.  Pfizer also markets the echinocandin Eraxis® (anidulafungin) and Astellas markets the echinocandin Mycamine® (micafungin); and
+ Polyenes.  AmBisome® (liposomal amphotericin B), a product sold by Gilead in Europe, by Astellas in the U.S. and by Dainippon-Sumitomo in Japan.
+ Pfizer, Merck, Astellas, and Gilead are all large pharmaceutical companies with significant experience and financial resources in the marketing and sale of specialty pharmaceuticals. Various other producers market and sell generic oral voriconazole, fluconazole and itraconazole.
+ Further, we expect that product candidates currently in clinical development may represent significant competition, if approved. These include the triazole VT-1161 being developed by Mycovia Pharmaceuticals, Inc., formerly Viamet Pharmaceuticals, Inc. (assets acquired by NovaQuest Capital Management, LLC), the long-acting IV echinocandin CD101 being developed by Cidara Therapeutics, Inc., APX-001 developed by Amplyx Pharmaceuticals Inc., the polyene amphotericin B oral formulation MAT2203 developed by Matinas BioPharma Holdings Inc., F901318 developed by F2G Limited and VL2397 developed by Vical Incorporated.  These companies may have greater resources than ours.
+ We believe that ibrexafungerp has the ability to perform well in the future fungal infection market given the sparse competitive marketplace, the unmet medical need, and the high mortality rate of these infections.  The key competitive factors affecting the success of ibrexafungerp, if approved, are likely to be its efficacy, safety, convenience, price, use in outpatient settings, the level of generic competition and the availability of reimbursement from government and other third-party payors. If approved, we believe that ibrexafungerp’s unique features, including being a novel antifungal class, broad-spectrum of activity including resistant strains, IV and oral formulations, fungicidal activity versus Candida, high tissue penetration, and favorable safety profile, will differentiate it from competing products and allow premium pricing to generics and other competing products.
+ Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize products that are safer, more effective, have fewer or less severe side effects, are more convenient or are less expensive than products that we may develop. Our competitors also may obtain FDA, or other regulatory, approval for their products more rapidly than we may obtain approval for ours. In addition, our ability to compete may be affected because in many cases insurers or other third-party payors seek to encourage the use of generic products. In the azole class, fluconazole, itraconazole, and oral voriconazole are generic. Caspofungin, the largest selling echinocandin, is now available on a generic basis.  If approved, we believe ibrexafungerp will be capable of delivering value supportive of premium pricing over competitive generic products.
+ Manufacturing and Supply of Ibrexafungerp
+ We have agreements with external vendors that are capable of supplying kilogram quantities of drug substance and of producing drug product to support ongoing and planned clinical trials. However, we do not own or operate and do not intend to own or operate facilities for manufacturing, storage and distribution, or testing of drug substance or drug product. We have relied on third-party contract manufacturers for synthesis of our clinical compounds and manufacture of drug product. We expect to continue to rely on either existing or alternative third-party manufacturers to supply ibrexafungerp for ongoing and planned clinical trials and for commercial production.
+ Ibrexafungerp is a semi-synthetic compound. Thus, the manufacturing process for ibrexafungerp involves fermentation and synthetic chemical steps. The synthetic process does not require any specialized equipment and uses readily sourced intermediates. At commercial launch, we expect cost of goods for ibrexafungerp to be similar to that of other small molecule drugs. We have negotiated agreements with suppliers to produce both drug product and drug substance for our current needs. In the future, we plan to validate the process with selected vendors and secondary suppliers to establish a secure supply chain that could enable commercialization.
+ We estimate our supplies on hand for the oral formulation of ibrexafungerp are sufficient to supply our ongoing and planned clinical trials. Manufacture of additional supplies of ibrexafungerp drug substance is planned to support any further optimization of either the oral or IV formulations, if needed. Additional batches of both oral and IV ibrexafungerp drug product will be manufactured as needed to support the subsequent stages of our clinical development plan.
+ A drug manufacturing program subject to extensive governmental regulations requires robust quality assurance systems and experienced personnel with the relevant technical and regulatory expertise as well as strong project management skills. We believe we have a team that is capable of managing these activities. The third-party vendors that currently manufacture clinical 
+ 8
+
+
+supplies to support our ongoing clinical studies have the necessary capabilities and are in compliance with cGMP appropriate for the current stage of development.
+ The third-party vendors we will select to support our manufacturing and supply program both for future late-stage development and commercial readiness activities will have the required capabilities with respect to facilities, equipment and technical expertise, quality systems that meet global regulatory and compliance requirements, satisfactory regulatory inspection history from relevant health authorities and proven track records in supplying drug substance and drug product for late-stage clinical and commercial use.
+ Collaborations and Licensing Agreements Associated with Our Core Drug Development Operations
+ We currently have a number of licensing and collaboration agreements associated with our core drug development operations, including the following:
+ Merck
+ We initially discovered and developed ibrexafungerp through a research collaboration with Merck Sharp & Dohme Corp., or "Merck", a subsidiary of Merck & Co., Inc. In May 2013, Merck transferred to us all development and commercialization rights for ibrexafungerp (also known as MK-3118). This decision was made following a review and prioritization of Merck’s infectious disease portfolio. Under the terms of the agreement, we received all human health rights to ibrexafungerp, including all related technical documents, preclinical data, data from the seven Phase 1 trials conducted by Merck, and drug product and drug substance.  The agreement continues until expiration of all royalty obligations. The agreement may be terminated if either party is in material breach and fails to remedy the breach after receiving written notice. In January 2014, Merck assigned the patents to us related to ibrexafungerp that it had exclusively licensed to us. Under the terms of the patent assignment, Merck no longer has responsibility to maintain the patents. Merck is eligible to receive milestones upon initiation of a Phase 3 clinical study, NDA submission and marketing approvals in each of the U.S., major European markets and Japan that could total up to $19 million. In addition, Merck will receive tiered royalties based on worldwide sales of ibrexafungerp. The aggregate royalties are in the single digit percentages of net sales, and we expect to pay royalties on net sales of ibrexafungerp to Merck for no more than ten years from first commercial launch, on a country-by-country basis.
+ In December 2014, we entered into an amendment to the license agreement with Merck that defers the remittance of a milestone payment due to Merck, such that no amount will be due upon initiation of the first phase 2 clinical trial of a product containing the ibrexafungerp compound (the "Deferred Milestone"). The amendment also increased, in an amount equal to the Deferred Milestone, the milestone payment that will be due upon initiation of the first Phase 3 clinical trial of a product containing the ibrexafungerp compound.  In December 2016 and January 2018, we entered into second and third amendments to the license agreement with Merck which clarified what would constitute the initiation of a Phase 3 clinical trial for the purpose of a milestone payment. Except as described above, all other terms and provisions of the license agreement remain in full force and effect.  In January 2019, a milestone payment became due to Merck as a result of the initiation of the VANISH Phase 3 VVC program and it was paid in March 2019.
+ R-Pharm
+ In August 2013, we entered into an agreement with R-Pharm, CJSC, or "R-Pharm", a leading supplier of hospital drugs in Russia, granting them exclusive rights to develop and commercialize ibrexafungerp in the field of human health in Russia, Turkey, and certain Balkan, Central Asian, Middle Eastern and North African countries. We retained the right to commercialize ibrexafungerp in the Americas, Europe, and Asia.  In November 2014, we entered into a supplemental arrangement with R-Pharm, whereby R-Pharm was informed of the modified IV formulation development plan and R-Pharm agreed to reimburse us for specifically identified IV formulation development and manufacturing costs incurred by us.  We received a non-refundable upfront payment of $1.5 million from R-Pharm in August 2013 which is being recognized over a period of 70 months. We recognized revenue from this upfront payment of $0.3 million for the years ended December 31, 2018 and 2017.
+ Government Regulation
+ Government regulation
+ Government authorities in the United States, at the federal, state and local level, and in other countries extensively regulate, among other things, the research, development, testing, manufacture, including any manufacturing changes, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing, import and export of pharmaceutical products such as those we are developing. The processes for obtaining regulatory approvals in the United States and in foreign countries, along with subsequent compliance with applicable statutes and regulations, require the expenditure of substantial time and financial resources.
+ U.S. drug approval process
+ In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act, or FDCA, and implementing regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate 
+ 9
+
+
+federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval, may subject an applicant to a variety of administrative or judicial sanctions, such as the FDA’s refusal to approve pending NDAs, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters, product recall requests, product seizures, total or partial suspension of production or distribution, injunctions, refusals of government contracts, restitution, disgorgement or civil or criminal penalties.
+ The process required by the FDA before a drug may be marketed in the United States generally involves the following:
+  
+• | completion of preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA’s good laboratory practice, or GLP, regulations;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an investigational new drug application, or IND, which must become effective before human clinical trials may begin;
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | approval by an independent institutional review board, or IRB, at each clinical site before each trial may be initiated;
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+• | performance of adequate and well-controlled human clinical trials in accordance with good clinical practice, or GCP, to establish the safety and efficacy of the proposed drug for each indication, subject to on-going IRB review;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an NDA;
+--+---------------------------------
+
+
+• | satisfactory completion of an FDA advisory committee review, if applicable;
+--+----------------------------------------------------------------------------
+
+
+• | satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product is produced to assess compliance with current Good manufacturing practice, or cGMP, regulations and guidance, and to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FDA review and approval of the NDA.
+--+------------------------------------
+
+ Preclinical studies
+ Preclinical studies include laboratory evaluation of product chemistry, toxicity and formulation, as well as animal studies to assess potential safety and efficacy. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data and any available clinical data or literature, among other things, to the FDA as part of an IND. Some preclinical testing may continue even after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to one or more proposed clinical trials and places the clinical trial on a clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to commence.
+ Clinical trials
+ Clinical trials involve the administration of the investigational new drug to human subjects under the supervision of qualified investigators in accordance with GCP requirements, which include the requirement that all research subjects provide their informed consent in writing for their participation in any clinical trial. Clinical trials are conducted under protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. In addition, an IRB at each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution. Information about certain clinical trials must be submitted within specific timeframes to the National Institutes of Health, or NIH, for public dissemination on their ClinicalTrials.gov website.
+ Human clinical trials are typically conducted in three sequential phases, which in some cases may overlap or be combined:
+ Phase 1: The drug is initially introduced into healthy human subjects or patients with the target disease or condition and tested for safety, dosage tolerance, absorption, metabolism, distribution, excretion and, if possible, to gain an early indication of its effectiveness.
+ Phase 2: The drug is administered to a limited patient population with the target disease to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage.
+ Phase 3: The drug is administered to an expanded patient population with the target disease, generally at geographically dispersed clinical trial sites, in well-controlled clinical trials to generate enough data to statistically evaluate the efficacy and 
+ 10
+
+
+safety of the product for approval, to establish the overall risk-benefit profile of the product, and to provide adequate information for the labeling of the product.
+ Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently if serious adverse events occur.  Phase 1, Phase 2 and Phase 3 clinical trials sometimes cannot be completed successfully within any specified period, or at all. Furthermore, the FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients.
+ In some cases, the FDA may condition approval of an NDA for a product candidate on the sponsor’s agreement to conduct additional clinical trials to further assess the drug’s safety and effectiveness after NDA approval. Such post-approval trials are typically referred to as Phase 4 studies.
+ In some circumstances, the FDA may also order a sponsor to conduct post-approval clinical trials if new safety information arises raising questions about the drug’s risk-benefit profile. Those clinical trials are typically referred to as Post-Marketing Requirements, or PMRs.
+ GAIN Act
+ The FDA has various expedited development programs, including break-through therapy, fast track designation and priority review, that are intended to expedite or simplify the process for the development and FDA review of drugs that meet certain qualifications. The purpose of these programs is to provide important new drugs to patients earlier than under standard FDA review procedures.
+ The GAIN Act is intended to encourage development of new antibacterial and antifungal drugs for the treatment of serious or life-threatening infections by providing certain benefits to sponsors, including extended exclusivity periods, fast track and priority review. To be eligible for these benefits a product in development must seek and be awarded designation as a Qualifying Infectious Disease Product, or QIDP.
+ To qualify as a QIDP according to the criteria established in the GAIN Act, a product must be an antibacterial or antifungal drug for human use intended to treat serious or life-threatening infections, including, those:
+  
+(1) | caused by an antifungal resistant pathogen, including novel or emerging infectious pathogens; or
+----+-------------------------------------------------------------------------------------------------
+
+
+(2) | qualifying pathogens listed by the FDA in accordance with the GAIN Act.
+----+------------------------------------------------------------------------
+
+Fast Track Designation
+ The FDA is required to facilitate the development, and expedite the review, of drugs that are intended for the treatment of a serious or life-threatening disease or condition for which there is no effective treatment and which demonstrate the potential to address unmet medical needs for the condition. Under the Fast Track program, the sponsor of a new drug candidate may request that the FDA designate the drug candidate for a specific indication as a Fast Track drug concurrent with, or after, the filing of the IND for the drug candidate. The FDA must determine if the drug candidate qualifies for Fast Track designation within 60 days of receipt of the sponsor's request.
+ If a drug candidate is granted Fast Track designation, the sponsor may engage in more frequent interactions with the FDA, and the FDA may review sections of the NDA before the application is complete. This rolling review is available if the applicant provides, and the FDA approves, a schedule for the submission of the remaining information and the applicant pays applicable user fees. However, the FDA's time period goal for reviewing an application does not begin until the last section of the NDA is submitted. Additionally, Fast Track designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process.
+ Pediatric exclusivity
+ Pediatric exclusivity is another type of non-patent marketing exclusivity in the United States and, if granted, provides for the attachment of an additional six months of regulatory protection to the term of any existing exclusivity, including the non-patent exclusivity periods described above, and to the regulatory term of any patent that has been submitted to FDA for the approved drug product. This six-month exclusivity may be granted based on the voluntary completion of a pediatric study or studies in accordance with an FDA-issued “Written Request” for such a study or studies.
+ Qualified Infectious Disease Product exclusivity
+ If the NDA for a QIDP is approved by the FDA, the FDA will extend by an additional five years any non-patent marketing exclusivity period awarded, such as a five-year exclusivity period awarded for a new chemical entity. This extension is in addition to any pediatric exclusivity extension awarded. Eligibility for the extension will be denied if the product is approved for uses that would not meet the definition of a QIDP.
+ 11
+
+
+Other U.S. Healthcare Laws and Compliance Requirements
+ In the United States our activities are potentially subject to regulation by various federal, state and local authorities in addition to the FDA, including but not limited to, the Centers for Medicare & Medicaid Services, or CMS, other divisions of the U.S. Department of Health and Human Services, or HHS, such as the Office of Inspector General, the U.S. Department of Justice, or DOJ, and individual U.S. Attorney offices within the DOJ, and state and local governments. For example, sales, marketing and scientific/educational grant programs must comply with the federal and state anti-fraud and abuse laws, false claims laws, the privacy provisions of the Health Insurance Portability and Accountability Act, or HIPAA, and payment transparency laws. If our operations are found to be in violation of any of the federal and state healthcare laws described above or any other governmental regulations that apply to us, we may be subject to significant penalties.
+ Foreign regulation
+ To market any product outside of the United States, we would need to comply with numerous and varying regulatory requirements of other countries regarding safety and efficacy and governing, among other things, clinical trials, marketing authorization, commercial sales and distribution of our products. Whether or not we obtain FDA approval for a product, we would need to obtain the necessary approvals by the comparable regulatory authorities of foreign countries before we can commence clinical trials or marketing of the product in those countries. The approval process varies from country to country and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries might differ from and be longer than that required to obtain FDA approval. Regulatory approval in one country does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country may negatively impact the regulatory process in others.
+ Pharmaceutical coverage, pricing and reimbursement
+ Our ability to commercialize our product candidates successfully will depend in part on the extent to which the United States and foreign governmental authorities, private health insurers and other third-party payors establish appropriate coverage and reimbursement levels for our product candidates and related treatments. In many of the markets where we would commercialize a product following regulatory approval, the prices of pharmaceutical products are subject to direct price controls (by law) and to drug reimbursement programs with varying price control mechanisms.  In the United States, no uniform policy of coverage and reimbursement for drug products exists among third-party payors. Public and private health care payors control costs and influence drug pricing through a variety of mechanisms, including through negotiating discounts with the manufacturers and through the use of tiered formularies and other mechanisms that provide preferential access to certain drugs over others within a therapeutic class. Payors also set other criteria to govern the uses of a drug that will be deemed medically appropriate and therefore reimbursed or otherwise covered. In particular, many public and private health care payors limit reimbursement and coverage to the uses of a drug that are either approved by the FDA or that are supported by other appropriate evidence (for example, published medical literature) and appear in a recognized drug compendium. Drug compendia are publications that summarize the available medical evidence for particular drug products and identify which uses of a drug are supported or not supported by the available evidence, whether or not such uses have been approved by the FDA.
+ Intellectual Property
+ We strive to protect the proprietary technology that we believe is important to our business, including seeking and maintaining patents intended to cover our product candidates and compositions, and their methods of use and other inventions that are commercially important to the development of our business. We also rely on trade secrets to protect aspects of our business that are not amenable to, or that we do not consider appropriate for, patent protection.
+ As of March 1, 2019, we are the owner of eight issued U.S. patents and 120 issued non-U.S. patents with claims to novel compounds, compositions containing them, processes for their preparation, and their uses as pharmaceutical agents, with terms expiring between 2027 and 2036. Of these patents, one U.S. patent relates to ibrexafungerp. We are actively pursuing three U.S. patent applications and 19 non-U.S. patent applications in at least 19 jurisdictions.
+ Ibrexafungerp is protected by an issued composition of matter patent (U.S. Patent No. 8,188,085) in the United States, which expires in 2030, and we will have ten to twelve years of regulatory exclusivity in the U.S.  Based on our current development plan, we believe that an additional term of up to five years for the ibrexafungerp U.S. patent may result from the patent term extension provision of the Drug Price Competition and Patent Term Restoration Act of 1984 (the Hatch-Waxman Act). The composition of matter patent has been granted in 63 countries and is pending in 16 other countries.  Additional patent applications related to ibrexafungerp salts and polymorphs, and its use as an antifungal agent, have been filed and are currently pending. If granted, the new patent families will extend the patent protection of ibrexafungerp salts, including the citrate salt currently under development, up to 2036.  For this and more comprehensive risks related to our proprietary technology and processes, please see the section on “Risk Factors-Risks Relating to Our Intellectual Property.”
+ 12
+
+
+Employees
+ As of March 1, 2019, we had 24 employees, all of whom were employed on a full-time basis. Our employees are engaged in administration, accounting and finance, research, clinical development, manufacturing, and business development functions. We believe our relations with our employees are good.
+Corporate Information
+ We were incorporated in the State of Delaware on November 4, 1999. Our corporate headquarters are located at 1 Evertrust Plaza, 13th Floor, Jersey City, New Jersey 07302.
+ Our corporate website address is www.scynexis.com. Our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of charge on our website. The information contained on, or that can be accessed through, our website is not part of this Annual Report, and the inclusion of our website address in this Annual Report is an inactive textual reference only.
