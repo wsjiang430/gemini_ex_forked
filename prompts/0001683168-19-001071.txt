@@ -1,0 +1,287 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Historical Background
+ 
+We were incorporated in the State of New Jersey on October 1, 2003 under the name of Creative Beauty Supply of New Jersey Corporation and subsequently changed our name to Gotham Capital Holdings, Inc. on May 18, 2015. We commenced operations in the beauty supply industry as of January 1, 2004. On November 30, 2007, our Board of Directors approved a plan to dispose of our wholesale and retail beauty supply business. From January 1, 2009 until July 28, 2017, we had no operations and were a shell company.
+ 
+On March 16, 2017, our Board of Directors adopted resolutions, which were approved by shareholders holding a majority of our outstanding shares, to change our name to “IIOT-OXYS, Inc.”, to authorize a change of domicile from New Jersey to Nevada, to authorize a 2017 Stock Awards Plan, and to approve the Securities Exchange Agreement (the “OXYS SEA”) between the Company and OXYS Corporation (“OXYS”), a Nevada corporation incorporated on August 4, 2016.
+ 
+Under the terms of the OXYS SEA we acquired 100% of our issued voting shares of OXYS in exchange for 34,687,244 shares of our Common Stock. We also cancelled 1,500,000 outstanding shares of our Common Stock and changed our management to Mr. DiBiase who also served in management of OXYS. Also, one of our principal shareholders entered into a consulting agreement with OXYS to provide consulting services during the transition. The OXYS SEA was effective on July 28, 2017, and our name was changed to “IIOT-OXYS, Inc.” at that time. Effective October 26, 2017, our domicile was changed from New Jersey to Nevada.
+ 
+On December 14, 2017, we entered into a Share Exchange Agreement (the “HereLab SEA”) with HereLab, Inc., a Delaware corporation (“HereLab”), and HereLab’s two shareholders pursuant to which we would acquire all the issued and outstanding shares of HereLab in exchange for the issuance of 1,650,000 shares of our Common Stock, on a pro rata basis, to HereLab’s two shareholders. The closing of the transaction occurred on January 11, 2018 and HereLab became our wholly-owned subsidiary.
+ 
+At the present time, we have two, wholly-owned subsidiaries which are OXYS Corporation and HereLab, Inc., through which our operations are conducted.
+ 
+General Overview
+ 
+IIOT-OXYS, Inc., a Nevada corporation (the “Company”), and OXYS, were originally established for the purposes of designing, building, testing, and selling Edge Computing systems for the Industrial Internet. Both companies were, and presently are, early stage technology startups that are largely pre-revenue in their development phase. HereLab is also an early-stage technology development company. The Company received its first revenues in the last quarter of 2017, continued to realize revenues during 2018, and expects to realize revenue growth in 2019 due to its business development pipeline.
+ 
+We develop hardware, software and algorithms that monitor, measure and predict conditions for energy, structural, agricultural and medical applications. We use domain-specific Artificial Intelligence to solve industrial and environmental challenges. Our engineered solutions focus on common sense approaches to machine learning, algorithm development and hardware and software products.
+ 
+Our customers have issues and they need improvements.  We design a system of hardware and software, assemble, install, monitor data and apply our algorithms to help provide the customer insights.
+ 
+We use off the shelf components, with reconfigurable hardware architecture that adapts to a wide range of customer needs and applications.  We use open source software tools, while still creating proprietary content for customers, thereby reducing software development time and cost.  The software works with the hardware to collect data from the equipment or structure that is being monitored.
+ 
+
+
+
+
+1
+-
+
+ 
+
+We focus on developing insights.  We develop algorithms that help our customers create insights from vast data streams.  The data collected is analyzed and reports are created for the customer.  From these insights, the customer can act to improve their process, product or structure.
+ 
+OUR SOLUTIONS ACHIEVE TWO OBJECTIVES
+ 
+ADD VALUE
+ 
+
+· | We show clear path to improved asset reliability, machine uptime, machine utilization, energy consumption, and quality.
+--+------------------------------------------------------------------------------------------------------------------------
+· | We provide advanced algorithms and insights as a service. 
+
+RISK MINIMIZATION
+ 
+
+· | We use simple measurements requiring almost zero integration – minimally invasive.
+--+-----------------------------------------------------------------------------------
+· | We do not interfere with command and control of critical equipment. 
+· | We do not physically touch machine control networks – total isolation of networks.
+
+HOW WE DO IT
+ 
+Our location in Cambridge, Massachusetts is ideal since market-leading Biotech, Medtech, and Pharma multinational firms have offices or R&D centers in Cambridge or the Greater Boston area, which gives us easier access to potential sales which, in turn, lowers out cost of sales. Additionally, we continue to add value to structural health monitoring and smart manufacturing customers as well. We, therefore, have a range of opportunities as we continue to expand our customer base.
+ 
+Our goal is to help Biotech, Pharma, and Medical Device companies realize the next wave of performance, productivity, and quality gains for their organizations, and become Industry 4.0 compliant.
+ 
+We have a unique value proposition in a fast-growing worldwide multi-billion USD market, and have positioned with strategic partners for accelerated growth. We are therefore well-poised for rapid growth in 2019 and beyond, as we execute our plans and quickly acquire additional customers.
+ 
+WHAT MARKETS WE SERVE 
+ 
+SMART MANUFACTURING
+ 
+We help our customers maintain machine uptime and maximize operational efficiency. We also enable then to do energy monitoring, predictive maintenance that anticipates problems before they happen, and improve part and process quality.
+BIOTECH, PHARMACEUTICAL, AND MEDICAL DEVICES
+ 
+We are on the operations side, not the patient-facing side. In this market vertical, our customers must provide high-quality products that must also pass rigorous review by governing bodies such as the FDA. Here again, we focus on machine uptime, operational efficiency, and predictive maintenance to avoid unplanned downtime.
+SMART INFRASTRUCTURE
+ 
+For bridges and other civil infrastructure, local, state and federal agencies have limited resources. We help our clients prioritize how to spend limited funds by addressing those fixes which need to be made first.
+
+2
+-
+
+OUR UNIQUE VALUE PROPOSITION
+ 
+EDGE COMPUTING AS A COMPLIMENT TO CLOUD COMPUTING
+ 
+Within the Internet of Things (“IoT”) and Industrial Internet of Things (“IIoT”), most companies right now are adopting an approach which sends all sensor data to the cloud for processing. We specialize in edge computing, where the data processing is done locally right where the data is collected. We also have advanced cloud-based algorithms that implement various machine learning and artificial intelligence algorithms.
+ADVANCED ALGORITHMS
+ 
+We have sought to differentiate from our competitors by developing advanced algorithms on our own and in collaboration with world-leading research institutions. These algorithms are an essential part of the edge computing strategy that convert raw data into actionable knowledge right where the data is collected without having to send the data to the cloud first.
+RECONFIGURABLE HARDWARE AND SOFTWARE
+ 
+Instead of focusing on creating tools, we use open source tools to create proprietary content.
+ 
+SIGNIFICANT ACCOMPLISHMENTS IN 2018
+ 
+A new management team was put into place in 2018. After the new team took over, the following significant accomplishments were achieved:
+ 
+
+· | June 2018 --- Clifford Emmons appointed as CEO and interim CFO bringing decades of operational expertise in med device and a proven track record of revenue generation;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | July 2018 --- machine learning engineer and other technical personnel added to our team;
+--+-----------------------------------------------------------------------------------------
+
+
+· | August 2018 --- delivery of system to automotive customer;
+--+-----------------------------------------------------------
+
+
+· | September 2018 --- S-1 Registration Statement declared effective;
+--+------------------------------------------------------------------
+
+
+· | September 2018 --- appointment of Karen McNemar as our COO bringing significant operational experience from the medical device industry
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | October 2018 --- application of our technology to 3D printing of metal components;
+--+-----------------------------------------------------------------------------------
+
+
+· | October 2018 --- Master Service Agreement signed with key pharmaceutical customer;
+--+-----------------------------------------------------------------------------------
+
+
+· | October 2018 --- installation of equipment for automotive customer complete;
+--+-----------------------------------------------------------------------------
+
+
+· | November 2018 --- additional work scope awarded on structural health monitoring system to enable remote operations off grid;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+· | November 2018 --- additional work at automotive supplier leads to request for proposal to expand services into data analytics;
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+· | November 2018 --- successful delivery of first phase of work for large pharmaceutical client and work successfully executed onsite in Asia;
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | November 2018 --- joined the Industrial Internet Consortium, the premier International Industry Organization that is shaping the future course of the Industrial Internet;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | November 2018 --- attended IIC Quarterly Meeting in Beijing, China and initiated discussions with strategic partner in Asia;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+· | December 2018 --- asked to submit a second phase of proposed work under the Master Service Agreement with large pharmaceutical customer; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | December 2018 --- entered into discussions with three potential Biotech and Pharma customers with initial discussions on proposed activities underway.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+As can be seen, we are making rapid progress towards our stated goal of becoming a leading supplier of Edge Computing, Machine Learning, and Algorithmic Insights.
+ 
+
+
+
+
+3
+-
+
+SHARPENING THE 2019 FOCUS
+ 
+In addition to the work we continue to do for structural health monitoring and industrial applications, we are committed to expanding our offerings and customer base in Biotech, Medtech, and Pharma. Our goal is to help Biotech, Pharma, and Medical Device companies' operations leaders realize the next wave of productivity & quality assurance gains for their organizations and become Industry 4.0 compliant[1]. Our edge computing open-source hardware and proprietary ML algorithms employ our Minimally-Invasive Load Monitoring (MILM) technology[2] to simply gather data and gain insights to monitor, scope, move from preventive to predictive maintenance, and even optimize development and manufacturing processes. We have a unique value proposition in a fast-growing worldwide multi-billion USD market, and have positioned ourselves with strategic partners for accelerated growth. We have already proven our ability to add value by signing agreements with major firms in this space, with the next three expected soon, and targeting our first ten by the end of 2019. Therefore, we have begun our next great phase of growth as a company to serve these needs at the intersection of Artificial Intelligence, Machine Learning, and Healthcare Operations and Production.
+GAINING MOMENTUM ON THE FINANCIAL FRONT
+ 
+We expect the first half of 2019 to be better in terms of revenue growth than the last half of 2018, and significant new contracts are expected in 2019 within our target market segments of Biotech, Pharma, and Medtech. We continue to expand our efforts in Industrial and structural health monitoring applications as well, thereby providing a diverse and well-balanced customer base but with significant focus areas as well. Overall, we expect 2019 year on year revenue to increase by a greater factor than 2018 year on year revenue, and we are committed to continuing this geometric progression of revenue growth into the future as we rapidly expand.
+ 
+We are also pleased to announce that we have secured an interim funding in the amount of $55,000 from the CEO and two other founders, through Cambridge MedSpace LLC, a medical industry focused incubator located in Cambridge with deep connections to the Biotech, Pharma, and Medtech markets and investor networks. We will continue fundraising activities in 2019 that will enable the addition of increased technical and sales staff for expanded revenue growth and to increase our customer base.
+ 
+TOWARDS A SUCCESSFUL 2019 AND BEYOND
+ 
+We are poised for strong growth and performance in 2019. We are setting our sights on adding our next three customers, on our way to our first ten Biotech, Pharma & MedTech customers by year end, accelerating our business development efforts, starting and sustaining operations in Asia, and of course additional future fund raising activities to fuel and propel this significant growth. We are taking an aggressive approach of nurturing strong organic growth, identifying opportunities for growth through acquisition, and other joint ventures or mergers that could make sense for our business and add value for our shareholders. Some of the specific 2019 markets and opportunities we are pursuing include, but are not limited to:
+
+· | A large aerospace client;
+--+--------------------------
+
+
+· | Up to ten additional customers in the Biotech, Medtech, and Pharma space;
+--+--------------------------------------------------------------------------
+
+
+· | Expanding our deployments in the monitoring of civil infrastructure; and
+--+-------------------------------------------------------------------------
+
+
+· | Expanding our deployments in the smart manufacturing arena for automotive.
+--+---------------------------------------------------------------------------
+
+ 
+1 Industry 4.0 is a name given to the current trend of automation and data exchange in manufacturing technologies. It includes cyber-physical systems, the Internet of things, cloud computing and cognitive computing. Industry 4.0 is commonly referred to as the fourth industrial revolution.
+ 
+2 Minimally Invasive Load Monitoring (MILM) refers to the method and technique of using purely electrical signals to make inferences on the state of a machine tool, process, and some other physical system.  The underlying premise is that electro-mechanical systems, or cyber-physical systems, or electro-chemical systems, or any system that uses electrical power as its primary motive power, will have a linkage between physical states of the machine or the process and electrical transient or "signatures" which will be measurable on the electrical power lines which provide energy to aforementioned systems.  Therefore, by measuring, analyzing, understanding, and classifying these electrical transient, it is possible to make inferences on the state of the associated machine or process which is powered by those electrical line.  This allows for a very simple, minimally-invasive monitoring system that can be very useful in an industrial or production setting, or for many other applications that could benefit from such monitoring.
+
+
+
+4
+-
+
+Marketing
+ 
+Our marketing and sales efforts are divided into several distinct categories:
+ 
+
+1) | Working with technical partners who have larger sales forces;
+---+--------------------------------------------------------------
+
+
+2) | Direct business development and discussions with end use customers by company management;
+---+------------------------------------------------------------------------------------------
+
+
+3) | Working with distribution channel partners who can leverage their existing sales channels for increased visibility; and
+---+------------------------------------------------------------------------------------------------------------------------
+
+
+4) | Trade shows and international technical, sales and marketing meetings.
+---+-----------------------------------------------------------------------
+
+ 
+Although the present expenditures on marketing and sales have been modest (less than 10% of expenditures) they are expected to increase in 2019 and we expect to hire a business development manager after the next funding to coordinate and focus our marketing and sales efforts.
+ 
+Competition
+ 
+We have two principal sources of competition. The first comes from large companies such as IBM, GE, Amazon, Google, etc., who all have their efforts in IIoT. However, these large companies are cloud – computing centric and they are trying to move towards edge devices from their present position of being solely cloud computing based. We will be starting in edge computing from day one as opposed to force-fitting a cloud-based solution into the limited computational capability and storage space of an edge device. We believe our systems will be more computationally efficient as compared to a cloud-based solution which requires more computational resources. We also believe our systems will embody unique algorithms such as those we previously licensed and seek to license from such research institutions as the National Labs.
+ 
+Most of the IIoT implementations involve data going from sensor to cloud. This involves sending vast amounts of data to the cloud and then processing the data there. This requires a large computational footprint (many processors) and a large memory requirement to store the data. From our actual experience and according to many technical experts in the field (see for example the discussion on edge data in “Structural Health Monitoring” A Machine Learning Perspective,” by C.R. Farrar and K. Worden, John Wiley and Sons, New York, 2013), a better approach is to use Edge Computing. Edge Computing takes the raw data, which could be MB or GB per second, and extracts features. Features are attributes of the signal that preserve the essential physics of the signal but reduce the data density by a very large amount (up to a factor of one million). After the feature extraction step, the data has a data rate of approximately 10KB or 100KB per second. Next comes the classification step, which further reduces data by classifying data into at least two bins: nominal behavior or off-nominal or abnormal behavior. For example, in monitoring a machine tool in a factory, if the machine tool is behaving normally, there is nothing to report and therefore no data needs to be sent or transferred anywhere. Only the abnormal condition data needs to be sent along with a description of the problem. This is what Edge Computing accomplishes and it accomplishes this right where the data is being collected using relatively small computational and memory resources (For example our systems have a 1GHz processor and one few GB of RAM plus up to 32 GB of storage – which is less computational power than the average smart phone.). so considering all of these technical aspects, we are able to assert that our Edge Computing process is more efficient in terms of computational power and memory as compared to a cloud-based solution, that it only sends along the information (not just data) that is really needed, and it can still interact with cloud based services to provide data sharing across different platforms.
+ 
+The second source of competition is from startups who are in the edge computing space. The most prominent example is FogHorn Systems Inc. There will be additional startups that will specifically target the edge computing space as the investor awareness and the technical focus shifts from cloud computing to edge computing. Whereas other startups focus on development of proprietary tools for edge computing, our solutions will use open source tools but will still create proprietary algorithms and software content for clients and customers. We feel this methodology of creating proprietary solutions using open source tools will allow us to rapidly address current and future customer needs.
+ 
+
+
+
+
+5
+-
+
+Government Regulation
+ 
+At present, we do not require any governmental approvals of any of our products or services.
+ 
+Environmental Laws
+ 
+At present, we are not regulated by any environmental laws.
+ 
+Research and Development
+ 
+Other than expenses for legal, accounting, audit, tax preparation, intellectual property (IP), and other overhead expenses such rent, most of our funds are spent on technology development, product development, and research and development. We are an emerging growth, early-stage, technology company and, as such, most of our expenditures are aimed at innovation and product development.
+ 
+We have a technology maturation model so that we avoid doing work on technologies that are too early and too new and belong in a pure search environment. We rely heavily on our research partners such as universities and National Labs for such early stage work. When the technology is ready to leave the lab, we take over the further development. Along the way we expect to file additional IP and otherwise protect technology by using trademarks, for example.
+ 
+The efforts in research and development have already resulted in significant customer interest in various market verticals including industrial, automotive, aerospace, agricultural, infrastructure, and power generation.
+ 
+All the present projects that we are working on internally as research and development projects will go forward, so we do not have any projects in the category of projects that have incurred significant expense but that will not result in present or future product.
+ 
+Intellectual Property
+ 
+On February 5, 2018, we entered into a Non-Exclusive Patent License Agreement with MIT. The agreement, which was effective February 1, 2018, granted to us a royalty-bearing non-exclusive license under U.S. Patent Nos. 8344724 (“Non-Intrusive Monitoring of Power and Other Parameters” issued January 1, 2013), 14/263407 (“Non-Intrusive Monitoring” filed April 28, 2014), and Patent Cooperation Treaty Serial No. PCT/US2016/057165 (“Noncontact Power Sensing” filed October 14, 2016) during the term of the agreement. The term of the agreement was from the effective date until the expiration or abandonment of all issued patents and filed patent applications licensed pursuant to the agreement, unless terminated earlier in accordance with the agreement.
+ 
+Under the agreement, we were required to make a first commercial sale of a “LICENSED PRODUCT” and/or a first commercial performance of a “LICENSED PROCESS,” as defined in the agreement, on or before September 30, 2018. We had negotiated revenue targets with MIT which would determine annual royalty payments. The 2018 minimum revenue target for the sale of products and services incorporating the MIT technology was $100,000. This minimum revenue amount would increase in subsequent years.
+ 
+Within 30 days of invoicing, a non-refundable license issue fee of $10,000 was paid by us to MIT. Pursuant to the agreement, we were required to pay to MIT additional patent maintenance fees in years beyond 2018.
+ 
+Pursuant to the agreement, we were required to pay to MIT a running royalty of 2% of “NET SALES,” as defined in the agreement made in the calendar years 2018, 2019, and 2020. For “NET SALES” made in the calendar year 2021 and every calendar year thereafter through the term of the agreement, we were required to pay to MIT a running royalty of 4%.
+ 
+On October 31, 2018, we sent written notice of our intent to terminate the agreement with an effective date of termination of April 30, 2019. Since none of the technology licensed to us by MIT had been used by us in any of our products and we had been investing in the development of our own intellectual property, we determined the technology that was licensed from MIT wasn’t necessary in the near term. Due to this, the written notice sent by us expressed a desire by our management to renegotiate the terms of the agreement with MIT.
+ 
+
+
+
+
+6
+-
+
+ 
+
+MIT declined to renegotiate the terms of the agreement and, on December 6, 2018, we received a notice of termination from MIT due to non-payment of fees. As of December 6, 2018, the agreement was terminated, fees are no longer accruing, and the fees owed to MIT as of December 6, 2018 are still owing as of the date of this Annual Report on Form 10-K. Despite the termination of the Agreement, we remain active with MIT as a member of the MIT Startup Exchange (STEX). The purpose of STEX is to promote collaboration and partnerships between MIT-connected startups and members of MIT’s Industrial Liaison Program. We remain open to future mutually acceptable agreements with MIT.
+ 
+We continue to develop our proprietary algorithms and plan to protect them through a combination of trade secret, copyright, and patents.
+ 
+Customers
+ 
+Due to our status of a start-up, at the moment, we depend on a few major customers. This should change as we implement plans for future growth.
+Employees
+ 
+We have no full or part-time employees; however, we do have contractor employees (1099 basis) who are working daily on the core business activities of the business and have been doing so since the beginning of the business formation. During the second quarter of 2019, we plan on transitioning contractors such as Clifford Emmons and Karen McNemar to a W-2 basis. Clifford Emmons, our CEO, President, interim CFO, and director, currently devotes approximately 35 hours a week to our business and Karen McNemar, our COO, currently devotes approximately 40 hours a week to our business. At the present time, except for the funding received from Cambridge MedSpace LLC in the form of a secured note, there are no conflicts of interest between the Company and any of our officers and directors. This was determined as follows: i) none of their outside activities are soliciting business from our customers or business contacts; ii) they are not soliciting our investors to invest in other ventures; and iii) they are not soliciting our contract employees to leave us and join other efforts. In 2019 we anticipate hiring 3-5 full time employees. At present, all our business services are provided by outside contractors.

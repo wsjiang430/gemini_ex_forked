@@ -1,0 +1,381 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Company Overview 
+ EverQuote makes insurance shopping easy, efficient and personal, saving consumers and insurance providers time and money. 
+ We operate a leading online marketplace for insurance shopping in the United States, connecting consumers with insurance providers. Our goal is to reshape insurance shopping for consumers and improve the way insurance providers attract and connect with customers shopping for insurance. With over 11 million consumer visits per month, our results-driven marketplace, powered by our proprietary data and technology platform, matches and connects consumers seeking to purchase insurance with relevant options from our network of insurance providers, saving consumers and providers time and money. 
+ Consumers may view insurance as a simple commodity with standard pricing. However, finding the right insurance product is often challenging for consumers, who face limited online options, complex, variable and opaque pricing, and myriad coverage configurations. We present consumers with a single starting point for a comprehensive and cost-effective insurance shopping experience. Our marketplace reduces the time consumers spend searching across multiple sites by delivering broader and more relevant results than consumers may find on their own. Our service is free for consumers, and we derive our revenue from sales of consumer referrals to insurance providers. In consumer surveys we have conducted, consumers purchasing auto insurance policies from referrals made through our marketplace reported average annual premium savings of $556, and we estimate providers have sourced nearly 5.3 million auto insurance policies through EverQuote as of January 31, 2019. Based on this data, we believe we have saved consumers purchasing auto insurance more than $2.9 billion as of January 31, 2019. 
+ Insurance providers operate in a highly competitive and regulated industry and typically specialize on pre-determined subsets of consumers. As a result, not every consumer is a good match for every provider, and some providers can struggle to reach the segments that are most desirable for their business models. Traditional offline and online advertising channels reach broad audiences but lack the fine-grained consumer acquisition capabilities needed for optimally matching consumers to specific insurance products. We connect providers to a large volume of high-intent, pre-validated consumer referrals that match the insurers specific requirements. The transparency of our marketplace, as well as the campaign management tools we offer, make it easy for insurance providers to evaluate the performance of their marketing spend on our platform and manage their own return on investment. Based on insurance provider feedback, we believe we are a large and efficient consumer acquisition and retention channel for our insurance provider customers. 
+ The EverQuote platform is powered by data science. Our rich data assets and proprietary algorithms efficiently attract consumers, match them with relevant insurance providers and drive our overall business model. These assets include more than 1 billion consumer-submitted data points, derived from over 47 million quote requests and 150 billion ad impressions acquired through $500 million in advertising spend through January 31, 2019. We utilize our data assets throughout our business, from advertising and consumer acquisition to the innovation of new consumer and provider experiences, as well as to guide our strategic direction. As our data assets grow, our algorithms become more powerful. We believe our data science capabilities give us a significant competitive advantage. 
+ 
+5 
+
+
+ Our marketplace benefits from significant network effects. As we attract more consumers to our platform, we collect more data to improve user experiences, which in turn improves conversion rates and consumer satisfaction. The combination of these factors increases consumer traffic while reducing acquisition costs, leading to more quote requests for our insurance provider customers. Increased quote requests, combined with quote and bind feedback, improve providers advertising and marketing efficiency in our marketplace, resulting in more providers and provider spend. More providers and provider spend enable us to attract more consumers, generating more data. 
+ We rapidly scaled our business in a capital-efficient manner, having grown our company, prior to our initial public offering, or IPO, to revenue of over $125 million in 2017 with less than $10 million of equity raised to finance our business. Our revenue grew from $45.6 million in 2013 to $163.3 million in 2018, representing a compound annual growth rate of 29%. In 2017 and 2018, our total revenue was $126.2 million and $163.3 million, respectively, representing year-over-year growth of 29%. We had a net loss of $5.1 million in 2017 and a net loss of $13.8 million in 2018, and had $(1.5) million and $(5.5) million in adjusted EBITDA in 2017 and 2018, respectively. See the section titled Managements Discussion and Analysis of Financial Condition and Results of OperationsNon-GAAP Financial Measures for information regarding our use of adjusted EBITDA and its reconciliation to net income (loss) determined in accordance with generally accepted accounting principles in the United States, or GAAP. 
+ Industry Overview 
+ Insurance is one of the largest segments of the United States economy, with non-health insurance premiums over $1.2 trillion in 2017. Based on data from S&P Global Market Intelligence; SNL Insurance Data, we estimate that automotive, home, life, commercial and renters insurance policies accounted for $1 trillion of premiums in 2017. 
+ The insurance industry is highly competitive and diverse. There are over 1,500 carriers operating in non-health insurance markets in the United States, but the largest carrier accounted for less than 6% of total premiums in 2017, according to data from S&P Global Market Intelligence; SNL Insurance Data. In addition, we estimate there are approximately 100,000 agencies in the United States who sell insurance products across the auto, home, life, commercial and renters insurance markets. 
+ Insurance marketing spend is large and evolving 
+ To capture new policies and retain existing customers, insurance providers advertise across a broad range of online and offline marketing channels, devoting significant resources to sales and distribution. Separately, the internet has become increasingly influential in consumer insurance shopping, with more than 70% of insurance consumers shopping online according to a comScore survey in 2015, the last year the survey was conducted. While insurance providers have been reallocating marketing spend from traditional media sources to online media channels, we believe the shift of marketing budgets online continues to lag the shift in consumer behavior. 
+ Based on carrier online advertising and agent marketing spend, we estimate that we have an immediate opportunity in excess of $2.9 billion per year, with a total addressable market over the long term of $123 billion annually. Given the continued shift toward online channels over traditional media and the ongoing growth in agency commissions, we expect our immediate opportunity to expand in the future: 
+ 
+
+ | U.S. non-health insurance carriers spent $123 billion in marketing and distribution in 2017, consisting of $115 billion in commissions to agents and $8.2 billion in direct advertising, according to data from S&P Global Market Intelligence; SNL Insurance Data. Online insurance advertising spend of North American insurance carriers was $1.3 billion in 2016, up 16% from 2015, according to eMarketer and Kantar Media. We believe that carriers will continue to shift advertising dollars online in order to capitalize on the superior marketing characteristics of digital channels.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+6 
+
+
+ 
+ | According to the Independent Insurance Agents & Brokers of America, or the IIABA, U.S. insurance agencies spent, on average, $16,400 on marketing in 2018, up from $10,600 in 2014. Based on 2018 average spend and our estimate of approximately 100,000 active insurance agencies, we believe that insurance agencies alone spent over $1.6 billion in 2018 on marketing. In addition, the IIABA data show that online activities were the highest ranked priorities for agencies marketing budgets.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Insurance products are complex and highly regulated 
+ While insurance may be perceived by consumers as a commodity, it is complex and must be configured to match each consumers particular circumstances. In the United States, regulatory requirements vary state by state, with each state having different actuarial standards, statutory requirements and regulations, and there are numerous types and levels of coverage, bundling and discounts available from each provider. These complexities make it challenging for consumers to compare and choose from among the hundreds of available insurance providers and coverage combinations. 
+ The modification of insurance rates and policy forms is an onerous and cumbersome state-by-state process that, in many states, can take months and require document submissions consisting of thousands of pages, and limits the consumer attributes that may be considered in setting rates. As a result, insurance providers have limited ability to quickly adjust their pricing in response to losses or changes in market conditions and lack the ability to price policies dynamically to match expected customer value, attributes and behavior. 
+ Insurance products are not priced in a uniform manner. Pricing strategies vary across providers and assessment of individual consumer risk is based on pre-set consumer attributes, such as vehicle type and location. Each consumer-to-product pairing yields a specific rate based on static rate tables filed semi-annually or annually with state regulators, with pricing that may vary widely across insurance providers and consumer profiles. Consumers seeking insurance are often unaware of any given insurance providers product strategies, strengths or offerings, which may lead to suboptimal shopping and significant inefficiencies for consumers and providers. 
+ Insurance shopping is being enabled by new digital tools 
+ We expect that the ongoing shift to online insurance shopping by consumers and the increasing digitization of insurance risk assessment and workflows will enable more personal, end-to-end shopping experiences, products and services. Moreover, emerging online agencies and digital carriers launched to take advantage of these trends are typically directed towards niche audiences and have limited marketing budgets, making capturing the right consumers challenging for them. We believe that the confluence of these factors favors business models that efficiently match supply and demand, allowing insurance providers to capture consumers purchase intent online while taking advantage of the benefits of targeted digital advertising. 
+ Insurance agents are an essential and growing part of the industry landscape 
+ Despite the trend toward online shopping, insurance agents play an essential role in the insurance buying process. According to a 2015 comScore survey, while more than 70% of insurance consumers shop online, 80% of policies purchased are closed offline, and consumers frequently cited the desire to speak to an agent as the top reason for not buying online. 
+ We estimate there are approximately 100,000 agencies in the United States who sell insurance products across the auto, home, life, commercial and renters insurance markets. Non-health insurance agents earned over $115 billion in commissions from carriers in 2017, growing from $94 billion in 2010, according to data from S&P Global Market Intelligence; SNL Insurance Data. 
+ 
+7 
+
+
+ Market Opportunity 
+ The challenges faced in the $123 billion non-health insurance sales, marketing and distribution market create a significant opportunity for companies that can efficiently align consumers and providers. These challenges include: 
+ Misalignment of providers and consumers creates an inefficient match between supply and demand 
+ As a result of pricing and regulatory complexity, many insurance providers specialize on pre-determined sub-sets of consumers across products, sales, claims processing and support functions to optimize their business models for profitability and expected loss ratios. At the same time, consumers may struggle to make informed buying decisions due to the large number of providers, breadth of insurance products and services available, and opaque pricing and coverage options. The inability of insurance providers to attract only those consumers who match their optimal risk profiles, combined with the lack of comprehensive information for consumers, creates a supply and demand misalignment. 
+ Complex, fragmented and opaque market for consumers 
+ Selecting the right insurance provider is challenging for consumers as there are more than 1,500 insurance carriers in the United States, each with different risk-assessment requirements, product offerings and pricing. Consumers have distinct attributes and insurance needs and historically have lacked access to comprehensive tools for identifying and connecting with the right providers. Moreover, pricing for the same coverage can vary widely from one provider to another, and even across different sales channels within the same provider. While consumers seek competitive pricing, they are often unaware of pricing differences, the level of coverage needed for their particular circumstances, and any given insurance providers product strategies, strengths or offerings. These market conditions may lead to suboptimal shopping, significant inefficiencies for consumers and the need for expert advice and support to make informed decisions. 
+ Inefficient advertising channels for insurance providers 
+ Advertising for insurance providers is challenging and its effectiveness is limited by several factors: 
+ 
+
+ | Insurance providers require extensive information about demographic and behavioral attributes in order to determine pricing and the policy value of a given consumer. This information is either unavailable or unreliable for targeting through traditional online and offline channels. In addition, traditional channels lack the ability to identify and segment providers existing customers, limiting the utility of these channels for retention.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Due to regulatory constraints, providers require long lead times to reprice their products. As a result, carriers may find their products mispriced to risk of loss across large consumer segments for extended periods of time. Traditional channels, and in particular television, lack the fine-grained controls to quickly and selectively adjust consumer acquisition strategies and align advertising spend with loss tolerance.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Providers are constrained in their immediate ability to tailor premiums to individuals due to the regulatory environment and, as a result, cannot price competitively for every consumer. With traditional online and offline advertising, providers often pay to attract consumers who are unlikely to buy a policy due to pricing mismatches.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Due to these factors, traditional advertising channels are inefficient for insurance providers. 
+ Our Solution 
+ Our goal is to reshape insurance shopping for consumers and improve the way insurance providers attract and connect with customers shopping for insurance. Our results-driven marketplace, powered by our 
+ 
+8 
+
+
+  proprietary data and technology platform, matches and connects consumers seeking to purchase insurance with relevant options from our network of insurance providers, saving consumers and providers time and money. 
+ Proprietary, data-driven technology platform 
+ Our platform efficiently attracts consumers shopping for insurance to our websites, call center, and mobile applications and matches them with relevant providers for streamlined quoting. This enables us to maintain high levels of quality control and refer real-time quote requests to our insurance provider customers at the moment of the consumers purchase intent. 
+ Bid 
+ We advertise to consumers, primarily under the EverQuote brand, across hundreds of online channels including internet search, email, social media and display advertising. Our algorithms efficiently manage over 200 million advertising impressions per day, utilizing insights from our proprietary data assets and A/B testing to optimize bids, advertising creatives and placements across channels. In order to attract high-quality consumers to our websites and mobile applications at optimal cost, we continuously analyze and test the effectiveness of our advertising and use automated dynamic adjustments to our traffic acquisition efforts. We store all of our advertising placement data in our central data warehouse and provide our analysts, data scientists and engineers with broad access to optimize our consumer acquisition activities. 
+ Quote request 
+ At the time of an online quote request, consumers submit approximately 20 to 50 items of data, depending on the type of insurance, representing the majority of data required by providers for matching, quoting and binding and, we provide returning consumers with the ability to submit subsequent quote requests without the need to re-enter all of their data. This information is securely exchanged with insurance providers at the moment of referral, enabling providers to produce quotes quickly, with minimal additional steps and information needs. In January 2019, we matched and referred nearly 1.4 million online quote requests to insurance providers quoting and binding workflows. 
+ In 2019 we expect to expand our definition of quote requests to include consumer quote requests we receive through offline channels such as telephone calls, quote requests via our EverDrive app, and quote requests submitted directly to third-party partners. Quote requests from telephone calls result from consumers dialing into one of our call center partners to request a quote. Once we receive a call from a consumer, that consumer is transferred to an insurance provider. These quote requests are different from our online quote requests because these consumers may never visit one of our websites or submit an online request for an insurance quote before being referred to an insurance provider. We do not receive or provide as much information about consumers whose quote requests originate from inbound telephone calls as opposed to online. EverDrive users in select states are also now able to request insurance quotes directly through the app by agreeing to share their information with an insurance carrier offering insurance discounts based on driving habits. Lastly, beginning in the first quarter of 2019, we also started acquiring quote requests submitted to third-party partners as part of our verified partner network. Through our verified partner network, we acquire consumer quote requests that are submitted by consumers directly to select third parties. Quote requests acquired by us from third parties in our verified partner network contain substantially all the same information we obtain in our own online quote requests. At this time, neither calls, EverDrive nor our verified partner network contributes meaningfully to our number of quote requests. 
+ Bind 
+ We combine consumer-submitted information and our internal data with proprietary machine learning algorithms to optimize matching and bind rates for consumers and insurance providers. Based on insurance provider feedback, we believe we are a large and efficient consumer acquisition and retention channel for our insurance provider customers. 
+ 
+9 
+
+
+ Retention 
+ Our platform enables insurance providers to identify and run campaigns for their existing customers and provide retention-oriented offers alongside the other options being presented. 
+ How we engage with consumers 
+ We engage with consumers through user-friendly and easy-to-navigate websites that make shopping for insurance easy, cost-effective and more personal. For our online consumers, we guide them through the process of submitting a quote request with simple instructions and helpful information about how their profile and choices may affect their results. Upon completing their quote requests, consumers are connected with relevant options from our comprehensive provider network, allowing them to quickly and easily compare coverage options. We aim to make the end-to-end shopping experience seamless by enabling consumers to securely share their data with matched providers, accelerating quoting and reducing repetition in the shopping process. 
+ We also engage consumers through EverDrive, our social safe-driving mobile app, which monitors driving behavior and provides useful information, coaching and encouragement to help users become safer drivers. Our driver score feature gives users a simple rating system and allows them to compete with friends, family and their local community. In September 2018, we announced that drivers who use our EverDrive app and enroll with participating carriers can anonymously share their driving data and qualify for discounts on their auto insurance. As of January 31, 2019, one insurance carrier offered usage-based discounts to EverDrive users in a limited number of states. We believe that we will be able to expand the number of carriers offering discounts to safe drivers using EverDrive over time. 
+ In addition, we provide consumers with rich content through our Safe Driving and Insurance blog. We cover complex topics, such as deductibles, coverage levels and distracted driving in simple, approachable ways to help consumers better understand and navigate the complexities of insurance coverage. 
+ We also recently began to engage consumers offline through non-company branded television campaigns and consumer calls placed directly to a call center partner. When a consumer dials into one of our call center partners, the consumer is matched to an insurance provider based on attributes provided by the consumer. In addition, through our verified partner network, we acquire consumer quote requests that are submitted by consumers directly to select third-parties. Quote requests acquired by us from third parties in our verified partner network contain substantially all the same information we obtain in our own online quote requests. 
+ How we engage with insurance providers 
+ Insurance carriers and agents connect with our marketplace through EverQuote Pro, our web-based provider portal. EverQuote Pro matches insurance carriers and agents with consumers who complete quote requests on our websites, through phone calls or through our verified partner network. Our portal provides transparent, secure access to marketplace data regarding consumer type, volume and referral pricing, along with sophisticated campaign management tools for targeting consumers based on a wide array of attributes. 
+ Providers in our marketplace bid for consumer referrals based on either pre-defined segments or dynamic profiles. Bids may be static or dynamically adjusted based on specified criteria, such as consumer attributes, time of day and geographic location. Regardless of bidding mechanism, insurance providers in our marketplace participate in a unified, real-time auction that matches consumers with the most relevant providers on our platform based on bid, preferred consumer profile, predicted bind rate and other factors. Through this auction process, we align provider economics with consumer demand. 
+ Our tools are designed to integrate with insurance providers internal workflows to minimize administrative burden and can incorporate quote, bind and lifetime value feedback, enabling providers to 
+ 
+10 
+
+
+  evaluate and optimize their acquisition and retention campaigns through a single interface. We support the industry-standard web-based marketing, customer relationship management and referral management systems commonly used by insurance providers, allowing easy adoption of our platform. 
+ Key benefits for consumers 
+ We offer consumers a streamlined and personalized insurance buying experience, providing the following key benefits. 
+ Saving time and money 
+ We provide consumers with multiple relevant insurance product options based upon the information submitted by them at quote request, enabling them to save both time and money. In consumer surveys we have conducted, consumers purchasing auto insurance policies from referrals made through our marketplace reported average annual premium savings of $556, and we estimate providers have sourced nearly 5.3 million auto insurance policies through EverQuote as of January 31, 2019. Based on this data, we believe we have saved consumers purchasing auto insurance more than $2.9 billion as of January 31, 2019. 
+ Single starting point for a comprehensive insurance shopping experience 
+ Our marketplace provides a single starting point to access a range of relevant insurance options beyond what consumers might otherwise find on their own. With an extensive network of national and regional carriers, technology enabled insurance startups, as well as more than 7,000 insurance agencies, we believe the depth and breadth of our insurance provider network allows us to present a comprehensive set of options to consumers. 
+ Results-driven insurance shopping destination efficiently matching consumers with relevant options 
+ Our platform empowers consumers to make better and more informed insurance decisions. Our algorithms factor in consumer input data, insurance provider bid preferences and economics and, when available, quote, bind and lifetime value feedback. These algorithms are designed to optimize for various factors including the likelihood of a policy sale, consumer satisfaction and insurance provider return on investment. We match and connect consumers, based on consumer attributes and a number of other factors, with relevant options from the broad range of insurance providers on our platform. 
+ Seamless online or offline handoff to quote or bind a policy 
+ Our seamless consumer handoff integrations minimize additional information required to provide a quote or bind a policy either online or offline. This reduces consumer shopping time, improves the consumer experience and increases the likelihood of completing a purchase. 
+ Key benefits for insurance providers 
+ Based on insurance provider feedback, we believe we are a large and efficient consumer acquisition and retention channel for our insurance provider customers. We offer insurance providers the following key benefits: 
+ Access to a high volume of in-market online consumers 
+ We attract consumers seeking insurance from hundreds of online sources and a limited number of offline sources. For consumers visiting us online, we further validate purchase intent by requiring consumers to submit approximately 20 to 50 items of data in order to submit a quote request, and also provide returning consumers with the ability to submit subsequent quote requests without the need to re-enter all of their data. From 2014 to 2018, our annual quote requests grew from 2 million to 12.8 million. As a result, we are able to refer a high volume of insurance shoppers to our customers. 
+ 
+11 
+
+
+ Efficient acquisition of consumers that match providers specific criteria 
+ We offer insurance providers fine-grained controls to select specific consumer profiles relevant to their underwriting practices and preferences, enabling them to efficiently target rational cost-per-sale relative to long-term value for each referral. In addition, the transparency of our marketplace, as well as the campaign management tools we offer, make it easy for insurance providers to evaluate the performance of their marketing spend on our platform and manage their own return on investment. 
+ High bind rates for referrals through broad data integration with providers 
+ Our seamless consumer handoff technology integrates with insurance providers to reduce the number of steps required from referral to bind, increasing transparency and consumer satisfaction. We securely provide quote request data, allowing insurance providers to adjust their quoting workflows in ways that are compatible with their existing infrastructure and business requirements. This data handoff provides carriers and agents with the core information needed to bind a policy with minimal steps after quote request. 
+ Flexible advertising channel 
+ Our marketplace allows providers to rapidly align cost-per-acquisition and distribution of advertising dollars with preferred consumer profiles. With granular budgeting and bidding tools, providers have extensive, near real-time control over the distribution and utilization of their advertising spend on our platform. 
+ Our Strengths 
+ We believe that our competitive advantages are based on the following key strengths: 
+ Results-driven marketplace for consumers 
+ We efficiently match and connect consumers with relevant insurance providers for their specific circumstances and needs, decreasing the time needed to compare providers and increasing the chance of purchasing insurance. Consumers receive inclusive options, enabling them to select the right insurance policy for their needs from our network of insurance providers. Our network includes an extensive array of insurance carriers, including many of the largest property and casualty carriers by premium volume as well as more than 7,000 insurance agencies. We believe that offering a personalized, comprehensive and provider-inclusive consumer experience has helped us to become a leading marketplace for online insurance shopping. 
+ Disruptive data-driven approach 
+ Our marketplace is powered by a proprietary data and technology platform that efficiently attracts insurance shoppers from a diverse and large array of sources, increases the bind rate for consumers, and we believe will drive down the cost of acquisition for providers over time. As of January 31, 2019, we employed over 130 analysts, data scientists and engineers who continually leverage our growing data assets to improve our capabilities. As of January 31, 2019, our data assets included more than 1 billion consumer-submitted data points, derived from over 47 million quote requests and 150 billion ad impressions acquired through $500 million in advertising spend. We leverage our data assets to further improve the conversion rate of our referrals and our matching efficiency, and to innovate new products for consumers and providers through rapid, test-driven development. 
+ Powerful network effects 
+ Our insurance marketplace benefits from significant network effects. As we attract more consumers to our platform, we collect more data to improve user experience, which in turn improves conversion rates and 
+ 
+12 
+
+
+  consumer satisfaction. The combination of these factors has increased consumer traffic , leading to more quote requests for our insurance provider customers. Increased quote requests, combined with quote and bind feedback, improve providers advertising and marketing efficiency in our marketplace, resulting in more providers and provider spend. More providers and provider spend enable us to attract more consumers, generating more data. Through these characteristics of our platform, we increased the volume of quote requests referred to our insurance provider customers from 2 million in 2014 to 12.8 million in 2018. 
+ Ability to expand with significant operating leverage 
+ We have leveraged our data assets, technology platform and engineering and data science capabilities, along with our growing audience of consumers and network of insurance providers, to expand our platform from the auto insurance market into the home and life insurance markets. We have entered these new verticals with only a modest increase in headcount, and we have already achieved attractive economics and high growth. 
+ Our cost structure provides us with the flexibility to react to changes in the business cycle. Our largest expense, advertising, is variable and can be quickly adjusted to market conditions. During economic downturns, advertising expenses can be rapidly reduced. Conversely, during periods of economic expansion we can increase advertising spend to attract consumers to our platform and further enhance the strength of our marketplace. We are also able to quickly adjust our advertising expense if we believe the revenue associated with it does not result in incremental profit to the business. 
+ Founder-led management team with culture of innovation and track record of capital efficiency 
+ Our co-founders are Seth Birnbaum, Chief Executive Officer, and Tomas Revesz, Chief Technology Officer. Seth, a co-founder and chief executive officer of Digital Guardian, Inc. (formerly Verdasys, Inc.), brings to EverQuote a broad range of management and start-up experience, complemented with engineering skills and information technology expertise. Tomas, a co-founder and an executive vice president of Digital Guardian, Inc. (formerly Verdasys, Inc.), brings to EverQuote extensive knowledge in IT systems development and management. Since our inception, we have built a team focused on data-driven innovation, which remains at the heart of our culture. 
+ In addition, our management team has a track record of being good stewards of capital. We rapidly scaled our business in a capital-efficient manner and, prior to our IPO in July 2018, grew our company to revenue of over $125 million in 2017 with less than $10 million of equity raised to finance our business. 
+ Our Growth Strategies 
+ Our core mission is to make finding insurance easy and more personal, saving consumers and insurance providers time and money. We leverage technology and data to empower consumers with better information and options, enabling them to identify and reduce risky behaviors, lower their insurance costs and lead safer lives. Ultimately, we seek to improve the way consumers understand and manage their personal risks. 
+ Data-driven innovation remains at the heart of our strategy, culture and operating focus. With our diverse team of analysts, engineers and business development employees, as well as our partnerships with leading insurance providers, we are working to build the largest and most trusted online insurance marketplace in the world. To achieve this goal, we intend to continue to grow our business by pursuing the following strategies: 
+ Attract more consumers to our marketplace 
+ We plan to expand the number of consumers reaching our marketplace through existing channels by leveraging the superior features and growing data assets of our platform. In addition, we plan to launch new marketing channels, such as online video and offline channels such as radio. In 2018, we had, on average, over 
+ 
+13 
+
+
+  239,000 daily consumer visits to our online quote request workflow, resulting in more than 34,000 daily quote requests. We believe that there is an opportunity to attract substantially more traffic to our current marketplace and that there are further expansion opportunities in adjacent verticals. 
+ Add more insurance providers and increase revenue per provider 
+ We plan to grow the number of insurance providers on our platform by demonstrating the value proposition of our marketplace as an efficient, scalable customer acquisition channel and adding new provider-facing features. While not a factor in our historical increases in revenue per quote request, we believe we have an opportunity to also increase the number of referrals per quote request while maintaining or increasing the bind rate per quote request, which would allow us to increase our revenue at limited marginal cost. We also plan to expand revenue per provider by increasing consumer traffic and quote request volume, adding verticals and innovating advertiser products and services. 
+ Despite the high costs, saturation and lower overall conversion rates associated with traditional advertising channels, such as television, radio and billboards, insurance carriers still allocate a significant portion of their advertising budgets towards these channels. We have achieved over $163 million in annual revenue while capturing only a small fraction of insurance marketing spend in aggregate and at an individual provider level. 
+ Expand and deepen consumer engagement 
+ We continuously leverage our data assets and growing consumer volume to conduct test-driven product development. We plan to innovate with new consumer offerings and enhanced user experience to deepen consumer engagement. Our goal is to provide broader and more meaningful consumer experiences, leading to increased return visits, higher frequency of interaction and greater revenue per user. For example, in 2016, we launched EverDrive, a free social safe-driving mobile app that enables users to improve their driving behavior along various dimensions. In September 2018, we announced that drivers who use our EverDrive app and enroll with participating carriers can anonymously share their driving data and qualify for discounts on their auto insurance. As of January 31, 2019, one insurance carrier offering usage-based discounts to EverDrive users in a limited number of states. While we are not actively spending to advertise EverDrive at this time, we believe that we will be able to expand the number of carriers offering discounts to safe drivers using EverDrive, and plan to invest in marketing the app over time. 
+ Invest in our technology platform and people 
+ Historically, we have increased the size of our analyst, data science and engineering teams every year, enabling us to increase our consumer traffic and conduct more A/B testing, improve conversion rates in our marketplace and improve advertising efficiency over the long term. We plan to continue to invest in our data and technology platform by growing our analyst, data science and engineering teams, enabling us to improve the breadth and efficiency of our marketplace for consumers and providers. In the future, we may also expand our capabilities and team through selective acquisitions. 
+ Launch new verticals on our platform 
+ We plan to introduce new offerings in order to become a leading end-to-end provider for consumers seeking personal risk management solutions. We have demonstrated the ability to efficiently expand into new markets by leveraging our data, technology, partner relationships, consumer audience and talent. In 2016, we entered into the home and life insurance market, and from 2016 to 2018, we saw a nearly seven-fold increase in the number of quote requests for home insurance and five-fold increase in the number of quote requests for life insurance, with only a modest increase in headcount. As the shift towards digital continues to accelerate in the personal risk marketplace, we believe we are well positioned to expand into new verticals such as renters and commercial insurance. 
+ 
+14 
+
+
+ Enhance our brand awareness 
+ We believe we have significant opportunities to increase our brand awareness. Historically, our marketing efforts have been focused on algorithmic consumer acquisition rather than brand marketing. We plan to further expand our marketing channels to drive greater brand recognition and attract a broader consumer audience. We believe a stronger brand may drive even greater efficiencies in our marketplace. 
+ Grow internationally 
+ While today we operate solely in the United States, we believe there are significant opportunities for us to expand into other countries. We plan to selectively launch our offerings in international markets over time. We expect to focus our efforts in international markets with dynamics similar to the United States. We believe we can expand into new geographies with limited additional development costs due to the operating leverage embedded in our business. 
+ Proprietary Data Assets and Algorithms 
+ Our data assets 
+ We leverage our data assets throughout our business to enhance our competitive position. As of January 31, 2019, our data assets included more than 1 billion consumer-submitted data points, derived from over 47 million quote requests and 150 billion ad impressions acquired through $500 million in advertising spend. 
+ Our data assets are comprised of: 
+ 
+
+ | granular bid and impression-level performance data across a diverse landscape of advertising channels and platforms;
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+ | consumer-provided geographic, demographic, preference and behavioral data obtained through our websites and mobile applications;
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+ | consumer insights derived from third-party tools, including phone number and address validations and IP address geolocation; and
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+ | insurance carrier and agent bids, and when available, quote, bind and lifetime value feedback.
+--+-----------------------------------------------------------------------------------------------
+
+ We use our data assets to: 
+ 
+
+ | inform decision-making throughout our business;
+--+------------------------------------------------
+
+
+ | optimize and scale our algorithmic advertising and consumer acquisition efforts;
+--+---------------------------------------------------------------------------------
+
+
+ | conduct continuous A/B testing to develop our consumer experiences and insurance provider tools and services; and
+--+------------------------------------------------------------------------------------------------------------------
+
+
+ | make decisions regarding our companys strategic direction, including entry into new markets and verticals.
+--+------------------------------------------------------------------------------------------------------------
+
+ We invest in making these assets accessible to our analysts, data scientists and engineers through a centralized warehouse, custom reporting and business intelligence tools and application programming interfaces. 
+ Our algorithms 
+ Our business model leverages proprietary algorithms across our marketplace, including in our advertising campaigns and consumer acquisition efforts, and for optimizing consumer-provider alignment. As our data assets grow, our algorithms become more powerful. 
+ 
+15 
+
+
+ Multi-channel bid automation algorithms 
+ Our data assets power our purpose-built, multi-channel bid automation and machine learning models. These tools enable granular decision-making by our consumer acquisition teams across complex, large-scale advertising campaigns. 
+ Consumer alignment algorithms 
+ Our consumer alignment algorithms implement a multi-step process for matching consumers with the insurance providers that we believe are most likely to provide the right coverage at a competitive price. These algorithms factor in consumer input data, insurance provider bid preferences and economics and, when available, quote, bind and lifetime value feedback. These algorithms are designed to optimize for various factors including the likelihood of a policy sale, consumer satisfaction and insurance provider return on investment. We believe that the accuracy of the matches provided by our consumer alignment algorithms will improve over time as we accumulate additional data across the insurance landscape and expand provider coverage in our marketplace. 
+ Products and Services 
+ Consumer products 
+ EverQuote.com 
+ We evolve our mobile and desktop consumer websites through continuous, iterative testing and optimization. Every change is tested and evaluated against our goal to make insurance shopping easier while saving consumers time and money. Through this rigorous process, we introduce new features to enhance ease-of-use and improve messaging, clarity and user experience. 
+ Capabilities such as pre-fill and partial quote retrieval help reduce consumer burden and ultimately enable higher conversion rates and data quality for our insurance provider customers. By integrating our platform with providers online workflows, we extend this ease of use throughout the shopping experience; providers receive all or nearly all the data required to quote a consumer, allowing them to shorten or eliminate steps in their workflows. As the level of integration increases, we believe consumer satisfaction in our marketplace will continue to improve. Immediately upon submitting an online quote request, we match the consumer with insurance providers and present personalized listings determined by our consumer alignment algorithms. These listings provide access to quotes through a variety of referral formats, both online and offline. This approach helps unify the fragmented insurance landscape for the consumer and provides a single entry point to request and compare quotes. As of January 31, 2019, our marketplace has generated over 47 million auto, home and life insurance quote requests and, we estimate, nearly 5.3 million policies. 
+ Inbound Calls and Verified Partner Network 
+ Starting in 2019, we began to connect and match consumers to insurance providers through inbound calls from consumers to our call center partners. When a consumer dials into one of our call center partners, the consumer is offered a selection of insurance providers based on the consumers zip code. In addition, beginning in the first quarter of 2019, we also started acquiring quote requests submitted to third-party partners as part of our verified partner network. Through our verified partner network, we acquire consumer quote requests that are submitted by consumers directly to select third parties. Quote requests acquired by us from third parties in our verified partner network contain substantially all the same information we obtain in our own online quote requests. 
+ Products and services for insurance providers 
+ We provide insurance carriers and agents with industry-leading products and services to grow their businesses. Our ability to deliver a large volume of high-intent consumer referrals that are aligned with 
+ 
+16 
+
+
+  providers desired consumer attributes makes us an effective channel for providers to grow efficiently. Based on insurance provider feedback, we believe we are a large and efficient consumer acquisition and retention channel for our insurance provider customers. Our products and services include: 
+ EverQuote Pro for carriers 
+ Carriers access our marketplace through EverQuote Pro for carriers, a web interface that enables them to manage campaigns efficiently at scale. EverQuote Pro allows for granular targeting of consumers based on insurance-related attributes including geography, demographics, behavioral characteristics and coverage needs. These tools enable carriers to acquire their ideal customers efficiently and at scale, delivering better return on investment than traditional channels. 
+ EverQuote Pro for agents 
+ Agents access our marketplace through EverQuote Pro for agents, a web interface that enables them to specify their desired consumer profiles, geographic areas, hours of operation, budgets and product types across auto, home and life insurance through a single interface. This self-service platform allows agents to access our marketplace with minimal effort to purchase referrals. Carriers may also provide subsidies for the benefit of agents, that are paid to us to reduce the amount agents pay for referrals. 
+ SmartCampaigns 
+ Our SmartCampaigns offering provides automated bidding strategies for participating insurance providers. SmartCampaigns optimizes spend to maximize quote and bind volume while meeting providers return-on-investment targets. Participating providers integrate with SmartCampaigns by providing real-time performance feedback, including quote, bind and policy-value information for every referral, allowing our proprietary algorithms to continuously align and adjust providers bids and budgets across consumer segments. SmartCampaigns enables providers to acquire a higher volume of policies at better return on investment than they might be able to achieve operating independently in our marketplace. We believe insurance providers use of SmartCampaigns will expand over time. 
+ Seamless consumer handoff 
+ Carriers require a rich set of consumer attributes in order to render an accurate quote. Providing this information multiple times in order to compare quotes is a cumbersome process for consumers, and can lead to lower conversion rates and lost sales for providers. As a result of our scale and history as a trusted partner, we integrate directly into many providers online workflows, customer relationship management systems and internal quoting platforms. These integrations minimize the steps between a quote request in our marketplace and the delivery of accurate, bindable quotes across online and offline channels. 
+ We have observed that increasing the depth of integration results in higher conversion rates, enhancing the value of our consumer referrals. Basic integrations, called prefill, allow carriers to populate their workflows with data from our platform, such that consumers are required only to confirm the data they have already provided. Full click-to-quote integration removes all intermediate steps, allowing the consumer to receive a quote immediately upon arrival on the provider website. In tests with carriers, conversion rates for our referrals increased by 11% to as much as 41% depending on the depth of integration and carrier work flows. While we currently have a limited number of full integrations, we believe we will be able to increase this number over time. 
+ Insurance agent education 
+ Our insurance agent education program delivers free content and services to further our vision of being the industry-leading resource for agencies to grow their businesses. This includes a wide range of educational materials, including e-books, webinars, training sessions and live events. 
+ 
+17 
+
+
+ EverDrive 
+ EverDrive, our free social safe-driving mobile app, provides users with comprehensive information about their driving behavior along various dimensions, such as harsh braking, speeding and distracted phone use. Through self-measurement and competition with friends, family and community leaderboards, EverDrive users may ultimately decrease risky driving behaviors and reduce provider losses. 
+ In addition, EverDrive addresses key challenges currently limiting the pace of adoption of telematics-based insurance products. For consumers, EverDrive provides control over when and with whom their driving data is shared, unlike carrier telematics programs. For carriers, it provides access to an audience of pre-qualified drivers and driving data, removing the administrative burden created by the multi-week onboarding and assessment periods required for direct offerings. 
+ In September 2018, we announced that drivers who use our EverDrive app and enroll with participating carriers can anonymously share their driving data and qualify for significant discounts on their auto insurance. As of January 31, 2019, one insurance carrier offered usage-based discounts to EverDrive users in a limited number of states. EverDrive users in these states are now able to request insurance quotes directly through the app by agreeing to share their information with the insurance carrier offering insurance discounts based on driving habits. While we are not actively advertising EverDrive at this time, we believe that we will be able to expand the number of carriers offering discounts to safe drivers using EverDrive, and plan to invest in marketing the app over time. 
+ Technology and Infrastructure 
+ Our technology platform combines internally developed, third-party and open source software. This combination allows for rapid development and release of high-performance technology solutions in a cost-effective and scalable manner. 
+ Our websites, mobile applications and supporting services, as well as our development and test environments, are hosted across industry-standard cloud providers such as Amazon Web Services and Google Cloud Platform. Additional internal data and analysis tools are hosted at a third-party data center in Boston, Massachusetts. We use content delivery network solutions for fast, local access to our products. We use network, website, service and hardware-level monitoring, coupled with remote-content monitoring, to maintain a high level of uptime and availability for our systems with high-performance delivery. 
+ Marketing 
+ Our marketing efforts are designed to increase engagement by both consumers and insurance providers and enhance their awareness of our company. Our marketing spend across channels is fundamentally algorithmic and performance-based. Over time, we believe we will increase our brand equity and recognition as we serve more ad impressions. 
+ Consumer marketing 
+ Our marketplace relies on consumer acquisition from our online and, more recently, offline marketing efforts. Our consumer marketing strategies are algorithmic and performance-based, leveraging our team of analysts, data scientists and engineers, along with our data assets and technology. 
+ We have built technology to automate our algorithmic traffic acquisition across multiple online advertising platforms. As of January 31, 2019, our technology serves, on average, over 200 million advertising impressions per day across hundreds of acquisition sources in a diversified strategy including search, display, social, email and video, with no single acquisition partner accounting for more than 24% of quote requests. 
+ 
+18 
+
+
+ We believe the combination of our talent, data and technology provides us with competitive advantages in acquiring more consumers as we continue to scale our business. 
+ Agent marketing 
+ Our agent marketing initiatives are designed to reach, educate and acquire insurance agents not yet participating in our marketplace. Our agent marketing focuses on: 
+ 
+
+ | Digital marketplace trends: We educate agents on how consumer buying behavior is changing and increasingly moving online and how they can better acquire and serve consumers in the digital world.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Educating agents on how to leverage the EverQuote platform: We educate agents on marketplace participation, providing best practices, case studies and strategies for account growth and optimization.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We reach new agents online through email, search, social media, and content marketing; according to Google Analytics, our agency resource pages received an average of 28,000 visits per month in 2018. In addition, we reach agents in person at tradeshows and conferences. For our current agent customers, we communicate the value of our platform and educate them on its use through our onboarding process, ongoing outreach and account performance reports. 
+ Carrier marketing 
+ Our carrier marketing initiatives are designed to reach and educate insurance carrier marketing professionals and executives. We deliver high-value content on how carriers can increase efficiency in their customer acquisition efforts by capitalizing on the increasing targetability and personalization enabled by our marketplace. We focus on building deep relationships and establishing thought leadership among carriers through our presence at industry tradeshows, targeted delivery of whitepapers and other materials, and personal outreach to key decision makers and marketing teams. 
+ Sales 
+ We have built an efficient, consultative 70-person sales and customer success organization, which sells our marketplace referrals and services to insurance providers. Our sales organization consists of two major components: our carrier team, which focuses on carriers operating in non-health insurance markets in the United States, and our agency team, which focuses on enrolling insurance agencies who operate in the auto, home and life insurance markets. 
+
+ | Carrier sales and campaign management: Our carrier team is responsible for bringing carriers into our marketplace. This team takes a data-driven approach to helping insurance carriers bind more policies with their target consumers at lower cost per sale than other channels. Our campaign management team develops a deep understanding of our carrier customers objectives to optimize their campaign performance and grow their budgets in our marketplace.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Agency sales and customer success: Our agency team is responsible for bringing new agents into our marketplace, growing existing agent accounts and driving agent satisfaction and retention. Our agency sales team focuses on onboarding new agents. Our customer success team analyzes account performance and consults with agents to optimize their participation in our marketplace, help them achieve growth and return-on-investment objectives, expand volume and add products.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+19 
+
+
+ Our Customers 
+ Our insurance provider customers include: 
+ 
+
+ | Carriers: Insurance carriers write auto, home and/or life insurance policies for consumers either directly and/or through agents. Our marketplace consists of an extensive network of national and regional carriers as well as technology enabled start-ups. Our two largest customers, Progressive Casualty Insurance Company and Government Employees Insurance Company, together accounted for 29% and 28% of our revenue for the years ended December 31, 2018 and December 31, 2017, respectively. We plan to continue to grow both the number of carriers participating in our marketplace and the level of participation from each carrier.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Agents: Insurance agents deliver auto, home and/or life insurance to consumers on behalf of one or more carriers. As of January 31, 2019, we had over 7,000 enrolled insurance agencies on the EverQuote Pro platform. We are focused on further penetrating the large base of approximately 100,000 insurance agencies in the United States.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Financial advisors: With the launch of our life insurance vertical, we have expanded our customers base to include financial advisors, of which there were more than 300,000 operating in the United States in 2017 according to Cerulli Associates. While our primary focus is on insurance agents, we expect this channel to serve as an important avenue of growth if we decide to expand into other financial products.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Indirect distributors and aggregators: Indirect distributors, such as aggregators and media buyers, purchase consumer referrals and resell them to insurance providers. Indirect distributors typically provide lower revenue and less data feedback per referral.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ A key element of our marketplace strategy has been to build a direct network of insurance provider customers. We increased the percentage of our total revenue derived from direct distribution from 8% to 90% for the years ended December 31, 2012 and 2018, respectively. The benefits of this shift include higher pricing per referral, improved pricing stability, greater revenue predictability, richer data feedback, better performance and stronger relationships with providers and consumers. 
+ Competition 
+ We face competition to attract consumers to our websites and mobile applications, as well as for insurance provider advertising and marketing spend. 
+ Competition for consumers 
+ The competition for consumer traffic and advertising space online is broad and diverse. Our competitors offer various marketplaces, products and services that compete with us. Some of these competitors include: 
+
+ | internet search engines and social media platforms;
+--+----------------------------------------------------
+
+
+ | brand advertisers and brand agencies across a spectrum of industries;
+--+----------------------------------------------------------------------
+
+
+ | sites operated by individual insurance providers;
+--+--------------------------------------------------
+
+
+ | finance and credit savings sites, such as LendingTree;
+--+-------------------------------------------------------
+
+
+ | insurance lead-generation, affiliate and aggregator networks; and
+--+------------------------------------------------------------------
+
+
+ | marketing services providers for insurers and general marketing services providers.
+--+------------------------------------------------------------------------------------
+
+ 
+20 
+
+
+ We believe we compete favorably in attracting insurance shoppers due to our superior data assets, consumer acquisition technology, team and data sciences management infrastructure. We believe we also compete favorably in converting consumer traffic into referrals and, ultimately, purchased policies due to the depth of our provider network, our consumer matching algorithms and our intuitive and streamlined consumer interface. Furthermore, we believe the breadth of the insurance provider options in our marketplace gives us an inherent advantage over single-brand insurance providers with respect to conversion and bind rates for consumers. 
+ Competition for insurance provider advertising and marketing spend 
+ We compete for insurance providers advertising and marketing spend with other internet sites, performance marketers and online marketing service providers. We also compete with offline media, such as television, radio and direct mail. We believe we compete favorably on the basis of the scale and quality of our consumer referrals, our seamless handoff capability, our ability to align consumers with our providers preferences and business strategies and the targeting capabilities of our platform. 
+ Culture and Employees 
+ Our company culture is data-driven, entrepreneurial, diverse, innovative and capital efficient. We are focused on delivering superb results for our consumers, insurance providers and partners. As of January 31, 2019, we had more than 250 employees, the majority of which are based in Cambridge, Massachusetts, with more than 130 analysts, data scientists and engineers, along with more than 60 employees in sales, sales operations and customer support. 
+ Data is at the core of our culture. Our analysts, data scientists and engineers have access to operational data and metrics about our business through our proprietary internal business data management system, known as Goat. Decisions we make as a company, from marketing and sales to product and engineering, are expected to be A/B tested and data-driven. We emphasize original thought and testing over opinion and reward the commitment, excellence and achievement of our collective team. We believe this has yielded an innovative approach that delivers results, efficiency and benefits for consumers and providers in our marketplace. 
+ Regulation 
+ Our business operates in a heavily regulated industry. Various aspects of our business are, may become, or may be viewed by regulators from time to time as subject, directly or indirectly, to U.S. federal, state and foreign laws and regulations. We are affected by laws and regulations that apply to businesses in general and the insurance industry, as well as to businesses operating on the internet and through mobile applications. This includes a continually expanding and evolving range of laws, regulations and standards that address financial services, information security, data protection, privacy and data collection, among other things. We are also subject to laws governing marketing and advertising activities conducted by telephone, email, mobile devices and the Internet, including the Telephone Consumer Protection Act, the Telemarketing Sales Rule, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 and similar state laws. In addition, we are a licensed insurance producer in most U.S. states. Insurance is highly regulated by the states in which we do business, and we are required to comply with and maintain various licenses and approvals. 
+ Because the laws and regulations governing insurance, financial services, privacy, data security and marketing are constantly evolving and striving to keep pace with innovations in technology and media, it is possible that we may need to materially alter the way we conduct some parts of our business activities or be prohibited from conducting such activities altogether at some point in the future. 
+ 
+21 
+
+
+ Intellectual Property 
+ We seek to protect our intellectual property through a combination of patent protection, copyrights, trademarks, service marks, domain names, trade secret laws, confidentiality procedures and contractual restrictions. 
+ As of January 31, 2019, we had two pending U.S. patent applications. We intend to pursue additional patent protection to the extent we believe it would be beneficial to our competitive position. 
+ We have a number of registered and unregistered trademarks. We own federal registrations for trademarks including EVERQUOTE and EVERDRIVE, as well as multiple pending applications. We will pursue additional trademark registrations to the extent we believe doing so would be beneficial to our competitive position. 
+ We are the registered holder of a variety of domestic and international domain names that include EverQuote and similar variations. 
+ In addition to relying on the protection provided by these intellectual property rights, we enter into confidentiality and proprietary rights agreements with our employees, consultants, contractors and business partners. Our employees and contractors are also subject to invention assignment agreements. We further control the use of our proprietary technology and intellectual property through provisions in both our general and specific terms of use on our website. 
+ Our Corporate Information 
+ We were incorporated in Delaware on August 1, 2008, under the name AdHarmonics, Inc., and changed our name to EverQuote, Inc. on November 17, 2014. Our principal executive offices are located at 210 Broadway, Cambridge, Massachusetts 02139, and our telephone number at that address is (855) 522-3444. Our website address is www.everquote.com. Our website and the information contained on, or that can be accessed through, the website will not be deemed to be incorporated by reference in, and are not considered part of, this Annual Report on Form 10-K.Available Information 
+ Our Internet address is www.everquote.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, including exhibits, proxy and information statements and amendments to those reports filed or furnished pursuant to Sections 13(a), 14, and 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, are available through the Investors portion of our website free of charge as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Information on our website is not part of this Annual Report on Form 10-K or any of our other securities filings unless specifically incorporated herein by reference. In addition, our filings with the SEC may be accessed through the SECs Interactive Data Electronic Applications system at http://www.sec.gov. All statements made in any of our securities filings, including all forward-looking statements or information, are made as of the date of the document in which the statement is included, and we do not assume or undertake any obligation to update any of those statements or documents unless we are required to do so by law. 
+ 
+22 
+
+
+ 

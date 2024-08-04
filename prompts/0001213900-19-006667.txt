@@ -1,0 +1,390 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+ 
+Forward-Looking Statements
+ 
+Certain statements, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives, and expected operating results, and the assumptions upon which those statements are based, are “forward-looking statements.” These forward-looking statements generally are identified by the words “believes,” “project,” “expects,” “anticipates,” “estimates,” “intends,” “strategy,” “plan,” “may,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking statements. Our ability to predict results or the actual effect of future plans or strategies is inherently uncertain. Factors which could have a material adverse effect on our operations and future prospects include, but are not limited to: changes in economic conditions, legislative/regulatory changes, availability of capital, interest rates, competition, and generally accepted accounting principles. These risks and uncertainties should also be considered in evaluating forward-looking statements and undue reliance should not be placed on such statements.
+ 
+Our Company
+ 
+In April 2018, we completed an acquisition of substantially all of the assets of Excel Corporation (“Excel”) and its subsidiaries Payprotec Oregon, LLC, Excel Business Solutions, Inc. and eVance Processing, Inc. (such assets are the foundation of our eVance business). In connection with such acquisition, in May 2018, we entered into share exchange agreements with Crowdpay and Omnisoft, affiliate companies owned by Mr. Yakov and Mr. John Herzog, a significant stock holderof our company, pursuant to which each of Crowdpay and Omnisoft became solely owned subsidiaries of our company. Our Company’s headquarters is located at 200 Park Avenue, Suite 1700, New York, NY 10166. Our telephone number is (212) 278-0900.
+ 
+We are FinTech company and payment facilitator (“PayFac”) that focuses on a suite of products in the merchant services and payment facilitator verticals and is focused on providing integrated business solutions to merchants throughout the United States. We seek to accomplish this by providing merchants with a wide range of products and services through our various online platforms, including financial and transaction processing services and support for crowdfunding and other capital raising initiatives. We supplement our online platforms with certain hardware solutions that are integrated with our online platforms. Our business functions primarily through three wholly-owned subsidiaries, eVance, Inc., a Delaware corporation (“eVance”), Omnisoft.io, Inc., a Delaware corporation (“Omnisoft”), and CrowdPay.Us, Inc., a New York corporation (“Crowdpay”).
+ 
+
+eVance is an independent sales organization that signs up new merchants on behalf of acquiring banks and processors (an “ISO”) that provides financial and transaction processing solutions to merchants throughout the United States. eVance differentiates itself from other ISOs by focusing on both obtaining and maintaining new merchant contracts for its own account (including, but not limited to, merchants that utilize the Omnisoft platform) and also obtaining and maintaining merchant contracts obtained by third-party ISOs (for which we negotiate a shared fee arrangement) and utilizing our own software and technology to provide merchants and other ISO’s differentiating products and software. In particular, we (i) own our own payments gateway, (ii) have proprietary omni-commerce software platform, (iii) have in-house underwriting and customer service, (iv) have in-house sub-ISO management system which offers sub-ISO’s and agents tools for online boarding, account management, residual reports among other tools, (v) utilize a PayFac model and (vi) offer a suite of products in the financial markets (through CrowdPay). Leveraging our relationship with three of the top five merchant processors in the United States (representing approximately 80-90% of the merchant processing market), eVance provides competitive payment processing solutions to merchants which enable merchants to process credit and debit card-based internet payments for sales of their products at competitive prices (whether such sales occur online or at a “brick and mortar” location). Our payment gateway (which we call “SecurePay”) also enables merchants to reduce the cost of transacting with their customers by removing the need for a third-party payment gateway solution. eVance operates as both a wholesale ISO and a retail ISO depending on the risk profile of the merchant and the applicable merchant processor and acquiring bank. As a wholesale ISO, eVance underwrites the processing transactions for merchants, establishing a direct relationship with the merchant and generating individual merchant processing contracts in exchange for future residual payments. As a retail ISO, eVance primarily gathers the documents and information that our partners (acquiring banks and acquiring processors) need to underwrite merchants’ transactions and as a result receives only residual income as commission for merchants it places with our partners. For more information regarding the electronic payment industry, see “Business–Description of our eVance Business–Our Industry.” 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+1
+
+ 
+
+
+Omnisoft operates a cloud-based business management platform that provides turnkey solutions for merchants to enable them to build and manage their retail businesses, whether online or at a “brick and mortar” location. The Omnisoft platform, which can be accessed by merchants through any mobile and computing device, allows merchants to, among other features, manage and track inventory, track sales and process customer transactions and can provide interactive data analysis concerning sales of products and need for additional inventory. Merchants generally utilize the platform by uploading to the platform information about their inventory (description of units, number of units, price per unit, and related information). Once such information has been uploaded, merchants, either with their own device or with hardware that we sell directly to them, are able to utilize the platform to monitor inventory and process and track sales of their products (including coordinating shipping of their products with third party logistics companies). We manage and maintain the Omnisoft platform through a variety of domain names or a merchant can integrate our platform with their own domain name. Using the Omnisoft platform, merchants can “check-out” their customers at their “brick and mortar” stores or can sell products to customers online, in both cases accepting payment via a simple credit card or debit card transaction (either swiping the credit card or entering the credit card number), a cash payment, or by use of a QR code or loyalty and reward points, and then print or email receipts to the customer. For more information regarding our Omnisoft platform, see “Business–Description of our Omnisoft Business.” 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CrowdPay operates a white label capital raising platform that targets small and midsized businesses seeking to raise capital and by registered broker-dealers seeking to host capital raising campaigns for such businesses by integrating the platform onto their website. Our CrowdPay platform is tailored for companies seeking to raise money through a crowdfunding offering of between $1 million and $50 million pursuant to Regulation CF under Title III of the Jumpstart Our Business Startups (the “JOBS Act”), offerings pursuant to Rule 506(b) and Rule 506(c) under Regulation D of the Securities Act of 1933, as amended (the “Securities Act”), and offerings pursuant to Regulation A+ of the Securities Act. Our platform, which can be used for multiple offerings at once, provides companies and broker-dealers with an easy-to-use, turnkey solution to support company offerings, allowing companies and broker-dealers to easily present online to potential investors relevant marketing and offering materials and by aiding in the accreditation and background check processes to ensure investors meets the applicable requirements under the rules and regulations of the Securities Exchange Commission (the “SEC”). CrowdPay charges a fee to each company and broker-dealer for the use of its platform under a fee structure that is agreed to between CrowdPay and the company and/or broker-dealer prior to the initiation of the offering. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We are currently and will remain for at least the next 12 months substantially dependent on our eVance business for revenue (see our financial statements and related notes included in this annual report for more information). We expect to build out our Omnisoft software business and to rely more on our PayFac model to transition away from our reliance on our eVance business but there is no guarantee that we will be able to do so. See the section entitled “Risk Factors” in this report.
+ 
+Implications of Being an Emerging Growth Company
+ 
+We qualify as an “emerging growth company” as defined under the Securities Act. As a result, we are permitted to, and intend to, rely on exemptions from certain disclosure requirements that are otherwise applicable to public companies. These provisions include, but are not limited to:
+
+● | being permitted to present only two years of audited financial statements and only two years of related “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this report; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, as amended (or the Sarbanes-Oxley Act); 
+● | reduced disclosure obligations regarding executive compensation in our periodic reports, proxy statements and registration statements; and 
+● | exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved. 
+
+ 
+2
+
+ 
+
+In addition, an emerging growth company can take advantage of an extended transition period for complying with new or revised accounting standards. This provision allows an emerging growth company to delay the adoption of some accounting standards until those standards would otherwise apply to private companies. We have elected to avail ourselves of this extended transition period. We will remain an emerging growth company until the earliest to occur of: (i) our reporting $1.07 billion or more in annual gross revenues; (ii) the end of fiscal year 2023; (iii) our issuance, in a three year period, of more than $1 billion in non-convertible debt; and (iv) the end of the fiscal year in which the market value of our common stock held by non-affiliates exceeded $700 million on the last business day of our second fiscal quarter.
+ 
+The Company will remain an emerging growth company until the earliest to occur of: (i) the Company’s reporting $1.07 billion or more in annual gross revenues; (ii) the end of fiscal year 2024; (iii) the Company’s issuance, in a three year period, of more than $1 billion in non-convertible debt; and (iv) the end of the fiscal year in which the market value of the Company’s common stock held by non-affiliates exceeded $700 million on the last business day of our second fiscal quarter.
+ 
+BUSINESS
+ 
+Overview
+ 
+We are FinTech company and payment facilitator that focuses on a suite of products in the merchant services and payment facilitator verticals that is focused on providing integrated business solutions to merchants throughout the United States. We seek to accomplish this by providing merchants with a wide range of products and services through our various online platforms, including financial and transaction processing services and support for crowdfunding and other capital raising initiatives. We supplement our online platforms with certain hardware solutions that are integrated with our online platforms. Our business functions primarily through three wholly-owned subsidiaries, eVance, Omnisoft, and CrowdPay.
+ 
+We were incorporated in the State of Delaware on November 18, 2004 for the purpose of merging with OLB.com. The merger was done for the purpose of changing our state of incorporation from New York to Delaware. In April 2018, we completed an acquisition of substantially all of the net assets of Excel and its subsidiaries Payprotec Oregon, LLC, Excel Business Solutions, Inc. and eVance Processing, Inc. (such assets are the foundation of our eVance business). In May 2018, we entered into share exchange agreements with Crowdpay and Omnisoft, affiliate companies of our company’s majority stockholder, pursuant to which each of Crowdpay and Omnisoft became solely owned subsidiaries of our Company. Our Company’s headquarters is located at 200 Park Avenue, Suite 1700, New York, NY 10166. Our telephone number is (212) 278-0900.
+ 
+Payment Facilitator
+ 
+
+
+A payment facilitator (or “PayFac”) is a company that is sponsored by a bank or other financial institution and creates a sub-merchant account in order to provide payment processing services to merchant clients. As a payment facilitator, we are able to offer merchant services on a sub-merchant platform which allows us to on-board sub-merchants under our unique merchant ID account (an “MID”). Said differently, PayFacs operate in the same way as an ISO in terms of payment process but the on-boarding and accounting for merchants are different. With an ISO, merchants are identified with individual MID and the settlement to the merchant is handled by the settlement/acquiring bank. A PayFac has its own MID with a settlement bank and each of the merchants on-boarded by the PayFac are given sub-MID’s under the PayFac’s MID. This allows the PayFac to board a merchant very quickly and also enables the PayFac to accept responsible for settling the payment of funds to the merchant which increases the PayFac’s fees. We operate under a TSYS/ProPay (the processor in the echosystem) and the sponsoring bank that approved us was Wells Fargo.
+ 
+3
+
+ 
+
+Description of our eVance Business
+ 
+General
+ 
+eVance is an independent sales organization that signs up new merchants on behalf of acquiring banks and processors (an “ISO”) that provides financial and transaction processing solutions to merchants throughout the United States. eVance differentiates itself from other ISOs by focusing on both obtaining and maintaining new merchant contracts for its own account and also obtaining and maintaining merchant contracts obtained by third-party ISOs (for which we negotiate a shared fee arrangement) and utilizing our own software and technology to provide merchants and other ISO’s differentiating products and software. Leveraging our relationship with three of the top five merchant processors in the United States (representing approximately 80-90% of the merchant processing market) and with use of our proprietary software, eVance provides competitive payment processing solutions to merchants which enable merchants to process credit and debit card-based internet payments for sales of their products at competitive prices (whether such sales occur online or at a “brick and mortar” location). Our payment gateway (which we call “SecurePay”) also enables merchants to reduce the cost of transacting with their customers by removing the need for a third-party payment gateway solution.
+Our ISO Operations
+ 
+As described in more detail in the section entitled “Our Industry” below, an ISO is an organization that signs up new merchants on behalf of acquiring banks and processors. As an ISO, we identify merchants that are interested in our financial and transaction processing solutions and generate individual merchant processing contracts for such merchants. We operate as both a wholesale ISO and a retail ISO depending on the risk profile of the merchant and the applicable merchant processor and acquiring bank. As a wholesale ISO, we underwrite the processing transactions for merchants, establishing a direct relationship with the merchant and generating individual merchant processing contracts in exchange for future residual payments. As a retail ISO, we primarily gather the documents and information that our partners (acquiring banks and acquiring processors) need to underwrite merchants’ transactions and as a result receive only residual income as commission for merchants we place with our partners. When we onboard a new merchant, such merchant is identified with an individual merchant ID account (an “MID”) and the settlement to the merchant is handled by the acquiring bank.
+Our Industry
+ 
+The payment processing industry allows merchants to process credit, debit and gift and loyalty card payments along with providing other payment processing and related information services. According to The Nilson Report, personal consumption expenditures in the United States using credit cards reached $5.1 trillion in 2016, and are projected to reach $10.0 trillion in 2026, representing a compound annual growth rate of 6.8%. The electronic payments industry continues to benefit from the migration from cash and checks to credit and debit cards and other electronic payments, as well as intrinsic, aggregate growth in the Gross Domestic Product (“GDP”) in the markets we serve. This migration is being driven by consumer convenience and engagement, the increased use by consumers of online shopping, card issuer rewards, e-commerce, regulations and innovative payment and commerce solutions being introduced in these markets. In addition, broader merchant acceptance in industries that did not historically accept electronic payments helps to drive this migration. Merchants are taking advantage of new hardware options, such as mobile phone dongles and tablet solutions, to integrate payment processing solutions into general business applications, which reduce the cost and complexities of doing business and serving consumers. The Nilson Report expects purchase volumes on cards in the United States Canada to grow 6.8% and 6.6%, respectively, per year from 2016 to 2026. In Latin America, The Nilson Report expects purchase volumes on cards to grow 10.1% per year from 2016 to 2026. eVance currently provides services in the U.S. market, and may expand its business to other geographic locations. The payment processing industry is served by a variety of providers including:
+
+● | Card issuers – Financial institutions that issue payment account products, such as credit and debit cards, to consumers backed by a credit line or a demand deposit account, such as a checking account and pay merchants on behalf of cardholders. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Acquiring banks – Financial institutions that accept payments from the card issuer on behalf of a merchant (any organization that accepts card-based payments in exchange for the goods and services they provide) such that the merchant does not need to have an account with the card issuer in order to accept a payment from a customer. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Credit card associations – Credit card brand companies (for example, Visa and MasterCard) that issue cards to consumers and set rules and route transactions among participants in their networks (card issuers and acquiring banks, for example). 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Merchant acquirers – Providers that enable merchants to accept, process and settle electronic payments. There are various types of merchant acquirers as described below. We operate as a type of merchant acquirer. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Third-party providers – Other service, software and hardware companies that provide products and services designed to improve the payments experience for issuers, merchants, merchant acquirers and consumers, including mobile payment enablers, terminal manufacturers, payment gateway providers, independent software vendors, integrated point of sale systems, dealers and risk management service providers. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+ 
+
+A typical card transaction requires close coordination among the various industry participants described above that provide the services and infrastructure required to enable such transactions. As a merchant acquirer, our role in this ecosystem is to act as a conduit between acquiring banks and credit card associations, on the one hand, and merchants, on the other hand, to enable merchants to accept, process and settle payments from customers. There are various types of merchant acquirers:
+ 
+
+● | Non-bank merchant acquirers – These independent providers offer merchant acquiring solutions using their own proprietary and third-party platforms, and are capable of facilitating all elements of the payment transaction cycle, including the acceptance (i.e., authorization or rejection), processing and settling of merchant transactions. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Banks – Historically, banks have been the merchant acquirers, as they marketed merchant acquiring services in combination with other commercial banking products to their customers. In the United States, however, most banks divested these services to non-bank merchant acquirers. While some banks elected to retain in-house merchant acquiring capabilities, the vast majority of U.S. banks chose to form joint ventures or referral relationships with independent merchant acquirers. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | IPOS providers – These companies offer software and hardware solutions that enable merchants to manage various aspects of their business, including payment acceptance through separate relationships between the IPOS providers and merchant acquirers. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | ISOs – ISOs typically specialize in managing a sales force that targets merchants in a specific market segment or geographic region. ISOs typically outsource most merchant acquiring back-office functions, including the processing and settling of transactions, to non-bank merchant acquirers. ISOs are contracted by a credit card member bank to procure new merchant relationships. ISOs also process online credit card processing transactions for small businesses for a fee or percentage of sales. Being a wholesale ISO, eVance assumes underwriting liability which increases its responsibility to monitor and manage merchants, thereby increasing its value to banks as well as the fees which it charges for each transaction. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+A typical card transaction requires a complex process involving various participants in a series of electronic messages, decisions and flow of funds as seen below:
+ 
+
+
+A typical card transaction begins when a cardholder presents a card for payment at a merchant location and the cardholder swipes the card’s magnetic strip through, or in the case of an EMV chip inserts the card into, a point of sale (or “POS”) terminal card reader. Some merchants may also have card readers that can receive cardholder information through a contactless connection with an enabled card or mobile phone. The card reader can be integrated either into a standalone POS terminal or a software application the merchant uses to manage its business. For e-commerce transactions, the cardholder types in the card number and related information into the merchant’s website where it is collected by the website’s payment processing software. The POS terminal or software application electronically records sales draft information, such as the card identification number, transaction date and value of the goods or services purchased. After the card and transaction information is captured by the POS terminal or software, the merchant acquirer routes the authorization request through the applicable card network to the card issuer, whose systems determine whether a transaction is “approved” or “declined” based on a variety of factors, including a determination of whether the particular card is authentic and whether the impending transaction value will cause the cardholder to exceed defined limits for spending or balances. This response is then returned to the merchant’s POS terminal or software application. This entire authorization and response process is referred to as the “frontend” of a purchase transaction and typically occurs within seconds from the time the cardholder initiates the transaction.
+ 
+5
+
+ 
+
+Following the purchase transaction approval, an electronic draft capture process transfers sales draft data into an electronic format. Once in an electronic format, sales draft data is sent through the card networks for clearing and settlement, allowing the merchant to receive payment for the goods or services sold. Card networks use a system known as “interchange” to transfer the information and funds between the card issuer and the merchant acquirer to complete the link between the merchant and card issuer. This portion of the payment processing cycle is referred to as the “backend settlement” and typically occurs within 48 hours following a completed purchase transaction.
+ 
+The services provided directly to merchants and associated fees to the merchant vary depending on the type of card (e.g., corporate, consumer, debit, rewards), manner in which it is used (e.g., credit/debit, e-commerce, face-to-face), merchant category, the provider’s in-house technology capabilities and the services that are outsourced to other providers. Only a few providers have the capability to provide all of these services, and even fewer can provide all of their services from an integrated platform. We are one of these providers. Below is an example of a sample transaction:
+ 
+
+
+Sales and Marketing
+ 
+We primarily use independent agents and other smaller ISOs to market our services. We intend to increase the number of independent agents and ISO’s that sell on our behalf. We may also gain additional agents through the acquisition of merchant portfolios or companies. We may also add to our direct sales channel for certain industry segments or customer profiles.
+Growth Strategy
+ 
+Our growth strategy consists of the following: (1) we plan to begin offering the Omnisoft suite of products and applications to our existing eVance customers, (2) we expect to bring in-house a sales team to generate organic revenues from the suite of products that we have and (3) we expect to make additional acquisitions of merchant portfolios that we can integrate into our applications.
+Competition
+ 
+The payment processing industry is highly competitive. We compete with other ISOs for the acquisition of merchant agreements. Several sponsor banks and processors including First National Bank of Omaha, Chase Paymentech, L.P., Bank of America Merchant Services, First Data Corporation, Global Payments, Elavon Inc, as well as Wells Fargo, U.S. Bank and others, frequently solicit merchants directly or through their own network of ISOs. Competition is based upon a number of factors including price, service and product offerings. Many of these competitors are larger and have substantially greater resources than us. We believe we remain competitive to these processors and competitive ISOs through a combination of beneficial pricing and services to our merchant customers.
+Cash Advance Business
+ 
+In addition to our business as an ISO, we may, through eVance Capital, a subsidiary of eVance, begin to provide cash advances and loans to our merchant customers. In this capacity, we would act as a retail ISO providing alternative financing and working capital solutions to small and medium sized businesses using a variety of third party funding sources. eVance Capital would not provide capital directly or take credit risk, instead seeking to earn commissions from independent third parties by placing their financial products with our merchant customers. No cash advances and/or loans were provided to our merchant customers for the years ended December 31, 2018 and 2017.
+ 
+6
+
+ 
+
+Description of our Omnisoft Business
+ 
+General
+ 
+Omnisoft operates a cloud-based business management platform that provides turnkey solutions for merchants to enable them to build and manage their retail businesses, whether online or at a “brick and mortar” location. The Omnisoft platform, which can be accessed by merchants through any mobile and computing device, allows merchants to, among other features, manage and track inventory, track sales and process customer transactions and can provide interactive data analysis concerning sales of products and need for additional inventory. Merchants generally utilize the platform by uploading to the platform information about their inventory (description of units, number of units, price per unit, and related information). Once such information has been uploaded, merchants, either with their own device or with hardware that we sell directly to them, are able to utilize the platform to monitor inventory and process and track sales of their products (including coordinating shipping of their products with third party logistics companies). We manage and maintain the Omnisoft platform through a variety of domain names or a merchant can integrate our platform with their own domain name. Using the Omnisoft platform, merchants can “check-out” their customers at their “brick and mortar” stores or can sell products to customers online, in both cases accepting payment via a simple credit card or debit card transaction (either swiping the credit card or entering the credit card number), a cash payment, or by use of a QR code or loyalty and reward points, and then print or email receipts to the customer.
+Our Operations
+ 
+Omnisoft is a SaaS business that offers OMNI Commerce Solutions as a white label service. Omnisoft provides customized solutions to ISOs and banks or financial institutions that processes credit or debit card payments on behalf of a merchant that operate in the payments processing market and have the need for e-commerce and mobile commerce. We provide software that enable companies to offer similar services as competitors such as PayPal, Intuit QuickBooks, Square, Google, Apple Pay and Amazon. Our cloud based software has comparable features to Shopify under Shopfast. We also provide white labeled services for large ISOs. Our solutions are cloud-based so there is no need to install any software, backup or update applications by our clients, including large Merchant Acquiring Banks. The Omnisoft software works on web based computers & tablets, Apple IOS, Android, and Windows. Our target clients are merchant acquiring banks, and ISOs (wholesale price) Direct to retailers. Our business model provides a sign-up integration fee, custom features development fees, and ongoing monthly fees, per merchant per month. The pricing for a single merchant includes an initial setup fee of $49 and approximately $100-$200 per month for use of the software as SaaS fees. Hardware costs range from $300 to $1,000. Large white label projects have a one-time fee of $50,000.
+
+7
+
+ 
+
+Omnisoft allows mobile shopping and self-checkout with credit or debit cards, reward points and Apple Pay. Omnisoft features include: a product catalog, marketing and promotions, shipping features, payment gateways to Point-of-Sale (POS) terminals, customer service, secure HTTPS & SSL and Payment Card Industry (PCI) Compliance.
+ 
+Our service features include: maintenance, hosting, monitoring, updates, custom solutions, software support, and service level agreement. Retailers and merchants have access to website development tools, marketing functions and curation capabilities, mobile commerce and social media engagement. Key back-office management functions, including statistical analysis reports and inventory management, are available through Omnisoft’s advanced API and pre-built integrations with leading accounting applications.
+ 
+Shopfast
+ 
+We utilize Omnisoft software to be able to provide companies with branded web sites. We partner with clients such as traditional marketing companies which include cataloguers, retailers, wholesalers and manufacturers, seeking to develop their Internet sales through their own websites. Which we help develop, operate, host and market on the Shopfast platform.
+ 
+Many of our clients need to establish an Internet presence in order to effectively compete in the e-commerce marketplace, but do not either have the resources or the expertise to effectively operate and market an e-commerce retail website. By working with the Company, these companies are able to establish, maintain and market up-to-date, customized, commerce-enabled websites, while avoiding high set up costs and fees such as software maintenance and upgrades.
+ 
+Our Shopfast solution is equipped with the most advanced Internet commerce technology available to help our clients provide superior service to their customers. We provide such clients with a 24/7 global marketplace for the sale of their products, while at the same time allowing for instant price changes, evaluation of marketing campaigns, measurement of consumer product acceptance, and handling of customer service. Each Shopfast website is custom tailored to meet the needs of our clients. We have cultivated relationships with our clients to be able to provide the market with turnkey online private label stores. In addition, we provide product content from our clients to our Direct Shopping Database (DSD) of partners, which is a multi-inventory shopping services that matches suppliers with customer traffic. While our clients are responsible for driving traffic to their own website through their own marketing efforts, the Shopfast DSD creates an additional sales channel for the client at no additional cost.
+ 
+Through Shopfast, consumers can purchase products and services from websites of clients across variety of business sectors including: Cafes & Delis, Retail Stores, Salons & SPAS, Restaurants, Street Vendors, and Car & Limousine.
+ 
+Hardware Products
+ 
+To help expand the market for our suite of Omnisoft business solutions, we also purchase hardware products from wholesalers, which after installation of our Omnisoft proprietary software, we resell through our ShopFast website. Hardware products we sell are merchant focused including credit card swipers, barcode scanners, cash drawers and printers. Other popular products include Apple iPads, and payment processing hardware such as the Poynt smart terminal that facilitates payments and customer receipts for merchants and customers.
+Competition
+ 
+We compete against companies such as Shopify, Square, ShopKeep and Revel.
+ 
+8
+
+ 
+
+Description of our Crowdpay Business
+ 
+General
+ 
+CrowdPay operates a white label capital raising platform that is used mainly by small and midsized businesses seeking to raise capital and by registered broker-dealers seeking to host capital raising campaigns for such businesses by integrating the platform onto their website. Our CrowdPay platform is tailored for companies seeking to raise money through a crowdfunding offering of between $1 million and $50 million pursuant to Regulation CF under the JOBS Act, offerings pursuant to Rule 506(b) and Rule 506(c) under Regulation D of the Securities Act, and offerings pursuant to Regulation A+ of the Securities Act. Our platform, which can be used for multiple offerings at once, provides companies and broker-dealers with an easy-to-use, turnkey solution to support company offerings, allowing companies and broker-dealers to easily present online to potential investors relevant marketing and offering materials and by aiding in the accreditation and background check processes to ensure investors meets the applicable requirements under the rules and regulations of the SEC. CrowdPay charges a fee to each company and broker-dealer for the use of its platform under a fee structure that is agreed to between CrowdPay and the company and/or broker-dealer prior to the initiation of the offering. Crowdpay recognized revenue of $91,161 and $132,205 for the years ended December 31, 2018 and 2017, respectively.
+Our Operations
+ 
+As a SaaS company, CrowdPay offers white label Omni Channel e-commerce and content solutions for crowdfunding, while offering custom solutions to broker dealers, merchant banks and securities law firms that have the need for platforms to market and collect offerings. We install all software, backup, and update applications for all issuers that are customers of our platform. CrowdPay works on web based computers, IOS and Android devices. The platform can be up and running in approximately four to six weeks after the initial onboarding process and configurations for hardware.
+ 
+
+
+Maintenance, hosting, billing transactions and compliance are all provided for on the platform. Our pricing model for these services ranges from $25,000 to $100,000 per month, which includes transaction fees, set up fees and platform fees. In lieu of cash fees, we also accept, on a case by case basis, equity shares from companies that use our platform.
+ 
+Any special feature requiring development will be developed as custom work, and will be quoted prior to starting development. Per our business model, there is a onetime upfront fee that provides for implementation and integration specified ACH and processing credit cards for payments on the platform. ACH and wire processing are required to be processed using our other subsidiaries, eVance and Omnisoft. Per corporate design, the portal provides processes for compliance with certain regulations, e-signatures, accreditation and Bad Actor checks with integrated third party software. CrowdPay is also connected to reputable service bureaus that provide us with background checks. The dashboard provides management and offering information on identity validation, custom forms, know your customer (KYC), anti-money laundering (AML) checks, residency requirements and cool-off periods.
+
+
+
+Our Crowdfunding platform monitors compliance with AML and KYC laws and regulations. Our SaaP key feature integrations include: standard delivery mechanisms, accounting management, search engine tools and cloud based tools through Microsoft Azure.
+ 
+Examples of Platform Offerings
+ 
+The Growth eREIT can be offered on a platform to focus primarily on opportunistic equity ownership of commercial real estate assets that have greater potential to appreciate in value over time.
+ 
+The Income eREIT can be offered on a platform to focus primarily on debt investments in commercial real estate assets, which typically generate steady cash flow throughout the life of the investment.
+ 
+9
+
+ 
+
+We have clients in various industries including automotive, biotech and educational products whom are currently utilizing the platform to offer securities under Rule 506(c), Regulation A+ and Regulation CF.
+ 
+Significantly, we are one of the few crowdfunding companies that can accept investments using credit cards, which we process through our eVance business.
+
+
+
+INVESTOR LIMITS | title II – rule 506(b) | title II – rule 506(c) | title III | Regulation A+ Tier 1 | Regulation A+ Tier 2 
+-----------------------------+----------------------------------------------------------------------------+----------------------------+-----------------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------
+Maximum Dollar Amounts | No Maximum | No Maximum | $1 Million | $20 Million | $50 Million 
+Types of Investors Permitted | Accredited – upto 35 Non-Acredited | Only Accredited | Accredited and Non-Acredited | Accredited and Non-Acredited | Accredited and Non-Acredited 
+Investment Limits | None | None | Yes (the lesser of 5% or 10% of income or networth) | Yes – for non-accredited investors (10% of income, networth) | Yes – for non-accredited investors (10% of income, networth)
+Typical Number of Investors | <100 | <100 | <1000 | ~1500 to ~5500 | ~2500 to ~7500 
+Shareholder Limits | 2,000 accredited investors, 35 Non-Acredited friends and family investors. | 2,000 accredited investors | None | None | None 
+Investor Liquidity | 12 month hold | 12 month hold | 12 month hold | Yes – Transfer Agency to OTC or NASDAQ | Yes – Transfer Agency to OTC or NASDAQ 
+
+
+Offering LIMITS | title II – rule 506(b) | title II – rule 506(c) | title III | Regulation A+ Tier 1 | Regulation A+ Tier 2
+----------------------------------------------------------+------------------------+------------------------+--------------------------------------+----------------------+---------------------
+General Solicitation (Advertising) Allowed | No | Yes | Yes, but only through the portal. | Yes | Yes 
+Requires Integrated Escrow and Payment Processor | No | No | Yes | No | No 
+Allows ‘Test The Waters’ | Yes | Yes | No | Yes | Yes 
+Requires a Funding Portal | No | No | Yes (register with FINRA) | No | No 
+Simultaneous Other Offerings Allowed For The Same Company | Yes | Yes | No | Yes | Yes 
+Average Time Before Launch | <2 weeks | <2 weeks | <4 weeks | 16-20 weeks | 16-20 weeks 
+Filing Required | Post Sale | Post Sale | Pre Sale | Pre Sale | Pre Sale 
+Regulatory Approval Required Prior to Launch | No | No | CF Portal = Yes Individual Deal = No | Yes | Yes 
+Approximate Legal and Accounting Fees | $5,000 to $20,000 | $5,000 to $20,000 | $5,000 to $15,000 | $40,000 to $150,000 | $50,000 to $200,000 
+Ongoing Reporting Requirements | None | None | Yes | None | Yes 
+Audited Financials | No | No | No | No | Yes 
+Social Sharing Allowed | No | Yes | Yes | Yes | Yes 
+
+
+
+10
+
+ 
+
+Partnering 
+ 
+Our partners are proven experts in their own fields. CrowdPay integrates into software or may be available as third-party enhancements or extensions. CrowdPay constantly seeks to work with reputable partners as we continue to enhance our software and platform. We currently partner with companies well known in the e-commerce and technology sectors, such as Profit Stars, DocuSign, Verify Investors, Salesforce, Hub Spot, CFIRA, CFPA, Block Score, and LexisNexis.
+ 
+We are connected with our partners over APIs and have direct access to their products and services. For example, our connection to ProfitStars allows us to offer services directly to their clients, which includes credit unions and small banks under management. eVance and Omnisoft are integrated into the back end system to process ACH and credit card transactions.
+ 
+Features 
+ 
+The CrowdPay website builder enables a client to create a responsive website without coding that can be customized using desktops, tablets, iPhones and Android mobile devices. All CrowdPay websites follow Google’s SEO best practices and come with many designs and widgets that enhance the user’s overall experience and exposure. Our website builder offers an intuitive drag and drop editor that creates efficiencies by significantly cutting down on development time. Widgets make site building faster where a client can copy and paste any element within a site.
+ 
+
+Almost every element in CrowdPay’s content management system, or CMS, can be customized on each device. Alternatively, CrowdPay offers pre-arranged templates. A client can simply pick one and use our user-friendly, responsive website builder to bring the client’s vision to life. A client can pull from a library of free stock images, upload or import images from any URL to easily express their unique concept and corporate culture. Our clients can improve their website’s search engine ranking by setting up page titles and descriptions and approximately 300 redirects. Images uploaded to CrowdPay’s CMS are automatically resized and compressed so they load seamlessly across desktop, tablet and mobile devices. Our website builder displays blogs seamlessly across desktop, tablet, and mobile devices. ATOM and RSS feeds are automatically generated. Automatic backups are created every time you make changes and publish them. In addition, clients can revert back to any version at any time.
+ 
+Competition
+ 
+Our crowdfunding platform competes with companies such as Start Engine, Crowd Engine and SeedInvest.
+ 
+Our Synergies
+ 
+Generally
+ 
+The success of our business model is dependent on the synergies between the business segments operated by our subsidiaries. We have created and developed an ecosystem of e-commerce to provide a variety of clients, from online equity financing companies or merchants selling online or in brick and mortar stores, with multiple product offerings and ancillary services from underwriting with the banks and merchant billing from the cloud software. These synergies create additional revenue by charging transaction fees on each service provided to clients by our partnerships with Merchant Acquiring Banks and PCI Compliance.
+ 
+11
+
+ 
+
+Ancillary Businesses
+ 
+Supplier Program. We are constantly looking to increase and improve the selection of products available to our retailers. Suppliers of niche products, brand-name, top-of-the-line and top selling products are ideal partners for us. We provide an easy way for suppliers to get in front of thousands of online retailers and millions of potential customers. Suppliers we work with should meet the following criteria: (i) competitively priced, (ii) ability to blind dropship individual products, (iii) timely turnaround from order placement to shipment, (iv) provide a data feed with accurate inventory counts and product data and (v) products must not be illegal or otherwise prohibited in any way under applicable laws.
+Competitive Advantages
+ 
+The OLB platform of services provides the following key advantages.
+ 
+
+● | Time to Market – we can create a customized website for retailers within days and have it fully operational in less than 2 weeks. 
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Cost – we are the only content service provider that does not charge a setup fee. 
+--+--------------------------------------------------------------------------------------
+
+
+● | Flexibility – our platform has the flexibility to provide customized solutions for partners. 
+--+-------------------------------------------------------------------------------------------------
+
+
+● | Pricing – we provide partners with a price comparison feature which they can utilize if they wish to set prices for products or run promotions. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Payment processing – we can provide financial service companies with the ability to have their customers’ accounts directly debited for payment. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Customers
+ 
+As a result of our various business platforms, we service a wide array of customers, including:
+ 
+
+● | Content sites, portals, Internet Service Providers (ISPs) and Fortune 1,000 companies with high traffic but no e-commerce functionality searching for a fully outsourced solution, or with some e-commerce in place but are seeking either an additional channel or a more effective market approach. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | System integrators and web developers who can provide added value to their customers or generate additional revenue by including e-commerce functionality in their offerings. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Existing “brick & mortar” businesses that have inventory and fulfillment capability but do not wish to create and maintain an e-commerce website and infrastructure. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Startups to early-stage companies looking for an effective and less costly way to raise capital. 
+--+-----------------------------------------------------------------------------------------------------
+
+Regulations
+ 
+Various aspects of our service areas are subject to U.S. federal, state, and local regulation. Certain of our services also are subject to rules promulgated by various card networks and banking and other authorities as more fully described below.
+The Dodd-Frank Act
+ 
+In July 2010, the Dodd-Frank Act was signed into law in the United States. The Dodd-Frank Act has resulted in significant structural and other changes to the regulation of the financial services industry. Among other things, Title X of the Dodd-Frank Act established a new, independent regulatory agency known as the Consumer Financial Protection Bureau (the “CFPB”) to regulate consumer financial products and services (including some offered by our customers). The CFPB may also have authority over us as a provider of services to regulated financial institutions in connection with consumer financial products. Separately, under the Dodd-Frank Act, debit interchange transaction fees that a card issuer receives and are established by a payment card network for an electronic debit transaction are now regulated by the Federal Reserve and must be “reasonable and proportional” to the cost incurred by the card issuer in authorizing, clearing, and settling the transaction. Effective October 1, 2011, the Federal Reserve capped debit interchange rates for card issuers operating in the United States with assets of $10 billion or more at the sum of $0.21 per transaction and an ad valorem component of 5 basis points to reflect a portion of the issuer’s fraud losses plus, for qualifying issuers, an additional $0.01 per transaction in debit interchange for fraud prevention costs. In addition, the new regulations contain non-exclusivity provisions that ban debit card networks from prohibiting an issuer from contracting with any other card network that may process an electronic debit transaction involving an issuer’s debit cards and prohibit card issuers and card networks from inhibiting the ability of merchants to direct the routing of debit card transactions over any network that can process the transaction. Beginning April 1, 2012, all debit card issuers in the United States were required to participate in at least two unaffiliated debit card networks. On April 1, 2013, the ban on network exclusivity arrangements became effective for prepaid card and healthcare debit card issuers, with certain exceptions for prepaid cards issued before that date.
+     12
+
+ 
+
+Effective July 22, 2010, merchants were allowed to set minimum dollar amounts (not to exceed $10) for the acceptance of a credit card (while federal governmental entities and institutions of higher education may set maximum amounts for the acceptance of credit cards). They were also allowed to provide discounts or incentives to entice consumers to pay with an alternative payment method, such as cash, checks or debit cards.
+ 
+Association and network rules
+ 
+We are subject to the rules of credit card associations and other credit and debit networks. In order to provide processing services, a number of our subsidiaries are registered with Visa or Mastercard as service providers for member institutions. Various subsidiaries of ours are also processor level members of numerous debit and electronic benefits transaction networks or are otherwise subject to various network rules in connection with processing services and other services we provide. As such, we are subject to applicable network rules. Card networks and their member financial institutions regularly update and generally expand security expectations and requirements related to the security of cardholder data and environments. We are also subject to network operating rules promulgated by the National Automated Clearing House Association relating to payment transactions processed by us using the Automated Clearing House Network and to various state federal and foreign laws regarding such operations, including laws pertaining to electronic benefits transactions.
+ 
+Privacy and information security regulations
+ 
+We provide services that may be subject to various state, federal, and foreign privacy laws and regulations, including, among others, the Financial Services Modernization Act of 1999 (the “Gramm-Leach-Bliley Act”). These laws and their implementing regulations restrict certain collection, processing, storage, use, and disclosure of personal information, require notice to individuals of privacy practices, and provide individuals with certain rights to prevent use and disclosure of protected information. These laws also impose requirements for the safeguarding and proper destruction of personal information through the issuance of data security standards or guidelines. Certain federal, state and foreign laws and regulations impose similar privacy obligations and, in certain circumstances, obligations to notify affected individuals, state officers or other governmental authorities, the media, and consumer reporting agencies, as well as businesses and governmental agencies, of security breaches affecting personal information. In addition, there are state and foreign laws restricting the ability to collect and utilize certain types of information such as Social Security and driver’s license numbers.
+ 
+Unfair trade practice regulations
+ 
+We and our clients are subject to various federal and state laws prohibiting unfair or deceptive trade practices, such as Section 5 of the Federal Trade Commission Act. Various regulatory agencies, including the Federal Trade Commission, the Consumer Financial Protection Bureau, and state attorneys general, have authority to take action against parties that engage in unfair or deceptive trade practices or violate other laws, rules, and regulations, and to the extent we are processing payments for a client that may be in violation of laws, rules, and regulations, we may be subject to enforcement actions and incur losses and liabilities that may impact our business.
+ 
+Anti-money laundering, anti-bribery, sanctions, and counter-terrorist regulations
+ 
+We are subject to anti-money laundering laws and regulations, including certain sections of the USA PATRIOT Act of 2001. We are also subject to anti-corruption laws and regulations, including the U.S. Foreign Corrupt Practices Act (the “FCPA”) and other laws, that prohibit the making or offering of improper payments to foreign government officials and political figures and includes anti-bribery provisions enforced by the Department of Justice and accounting provisions enforced by the SEC. The FCPA has a broad reach and requires maintenance of appropriate records and adequate internal controls to prevent and detect possible FCPA violations. Many other jurisdictions where we conduct business also have similar anticorruption laws and regulations. We have policies, procedures, systems, and controls designed to identify and address potentially impermissible transactions under such laws and regulations.
+ 
+We are also subject to certain economic and trade sanctions programs that are administered by the Office of Foreign Assets Control (“OFAC”) which prohibit or restrict transactions to or from or dealings with specified countries, their governments, and in certain circumstances, their nationals, and with individuals and entities that are specially-designated nationals of those countries, narcotics traffickers, and terrorists or terrorist organizations. Other group entities may be subject to additional local sanctions requirements in other relevant jurisdictions.
+     13
+
+ 
+
+Securities Act
+ 
+Since the JOBS Act was passed, Crowdfunding, Regulation D offerings and Regulation A and A+ offerings rapidly became a familiar concept among investment firms, venture capitalists, real estate developers and small to medium sized businesses as a way to facilitate and democratize financing. We believe it has created, and continues to create, a profound shift in the world of investments. Below is a brief overview of the rules that permit the offer and sale of securities through such platforms. This overview is in no way intended to be a comprehensive review of all the rules and regulations associated with the above mentioned offerings and should not be relied upon by anyone.
+ 
+Regulation D under the Securities Act is the most common regulatory exemption used small businesses to raise capital through equity financing. It exempts private placement offerings under Rule 506(b) and 506(c) when sold to accredited investors, as defined under Rule 501 of Regulation D. Companies relying on the Rule 506 exemptions can raise an unlimited amount of money, so long as they comply with the rule’s requirements. Regulation A and Regulation A+ are more similar to a public offerings, and require filing Form 1-A with the SEC. Regulation A and Regulation A+ offer two tiers of offerings; the first tier is for offerings of up to $20 million within any 12 month period and the second tier is for offerings of up to $50 million, within any 12 month period. Regulation CF allows a company to raise up to $1.07 million from non-accredited investors.
+ 
+Intellectual property
+ 
+Our products and services utilize a combination of proprietary software and hardware that we own and license from third parties. Over the last few years, we have developed a payment gateway, merchant boarding system, ecommerce platform, recurring billings and a crowdfunding platform. We generally control access to and use of our proprietary software and other confidential information through the use of internal and external controls, including entering into non-disclosure and confidentiality agreements with both our employees and third parties. As of December 31, 2018, we have a patent pending on transferable QR codes on Omni Commerce devices.
+ 
+Employees
+ 
+As of April 12, 2019, we had six key employees as part of our overall staff of 24 full-time employees. Our risk, compliance, underwriting and analyst’s accounting and customer service functions are located in Atlanta, Georgia. In addition, we retain 15 to 35 developers in India at any given time depending on our requirements and scope of projects. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We consider our relationship with our employees to be good.
+ 
+We cannot be assured of being able to attract quality employees in the future. The establishment of our business will be largely contingent on our ability to attract and retain personnel for the management team. There is no assurance that we can find suitable management personnel or will have the financial resources to attract or retain such people, if found.
+ 
+Additional Information
+ 
+For more information please visit our website at www.olb.com.
+ 

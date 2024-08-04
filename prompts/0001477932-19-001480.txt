@@ -1,0 +1,73 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ 
+We look to acquire businesses and build brands based on technology solutions we believe will increase efficiencies across various markets. We currently have interests in multiple companies, including the follow operating entities.:
+
+ 
+
+1- | Discount Indoor Garden Supplies, Inc. (DIGS) –DIGS provides hydroponic supplies and nutrients to commercial and individual farmers. The company has an online store, and sells nutrients, lights, HVAC systems, among other products to individuals that are interested in horticulture. The company also fulfills and distributes products at wholesale costs to other business and stores in the southern California market.
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2- | SingleSeed, Inc. – SingleSeed is an online business providing hemp-based products to consumers. In addition to the hemp based products sold via ecommerce, the business has relationships to resell services such as internet marketing, payment processing and website design. SingleSeed is a company solely dedicated to providing services to the underserved cannabis and hemp-based markets. 
+3- | Jiffy Auto Glass Corporation (JAG) –JAG provides windshield replacement services in Denver Colorado and Phoenix Arizona. The company works closely with ShieldSaver to test and drive new technological development in the automotive market. JAG is able to fulfill work orders for ShieldSaver in markets the company has a presence, such as Denver and Phoenix. 
+
+ 
+In September 2018 our partner launched the Bitcoin powered solution to enable consumers to store and send bitcoin through the use of blockchain technology. Pursuant to our joint venture agreement, our partner is responsible for the maintenance of the technology and we are responsible for the development, operation and maintenance of the technology and we are responsible for the distribution and sales of their suite of products and provide developmental support as needed in exchange for the development of this solution. The agreement provides that the parties shall collaborate unless the parties determine to terminate the relationship.
+
+ 
+In January 2018 the Company entered into an agreement with ShieldSaver, LLC to acquire fifty one percent (51%) of the outstanding interests of ShieldSaver, LLC. Pursuant to the agreement we paid $140,000 to Shield Saver, LLC and are obligated to issue shares of our common stock with an aggregate value of $670,000 based upon the applicable closing trading price. ShieldSaver is a technology focused automotive company working to efficiently track records of vehicle repairs. ShieldSaver is an automotive technology business pairing repair shops with potential customer via proprietary License Plate Recognition technology. The company works closely with large parking lot management companies at airports and other locations around the United States to obtain the data needed to operate. To date the Company has not issued ShieldSaver the equity due per the terms of the agreement, and as such we do not own, consolidate or operate ShieldSaver, LLC.
+
+ 
+In February 2018 we entered into a joint venture to cross market software technology via a non-exclusive license. The goal is to cross market software technology via nonexclusive license, and, to enter a commission referral program. Pursuant to the agreement we will distribute and market Smart Cannabis Hardware (greenhouses, control systems, associated hardware components), and Software systems; SMARTAPP Automation System and “Track and Trace Software System.” We will place orders at an agreed purchase price or sign up clients to a subscription fee agreement, and will be compensated by discounted wholesale prices, or, be paid a monthly commission equal to 50% of the subscription fee contracts that are in good standing. We have exclusive distribution rights within the State of Arizona, with the exception of Smart Cannabis’s pre-existing OEM RESELLER relationship (s) in place. We may sell Smart Cannabis SOFTWARE products in an expanded territory of the United States on a non - exclusive basis unless the companies agree to include specific features only available through the joint software efforts of the companies. We granted the right to participate in our Bitcoin Payments Application and agreed to grant commissions of fifty percent on revenues received by referred customers who utilize the service. 
+ 
+The SMARTAPP lets you operate and monitor your smart greenhouse deployment, from on-site at your location, in your office, or even at home in your living room. The app is designed as a tool for the owner, operator, and/or farmer to quickly assess the state of the greenhouse and their crop. The SMARTAPP greenhouse app enables the customer to be quickly alerted and respond effectively to any issue before it becomes a risk to their harvest. 
+ 
+The Track and Trace Software System will provide the ability for a transparent ledger starting from the origination of a seed through the sale of the final product (Seed to Sale), reducing the amount of time and effort of a manual system. The track and trace solution can help reduce human error and the time-consuming reporting requirements. 
+ 
+We are working to store and verify data using blockchain technology. We are in the process of architecting a solution in which anytime a vehicle is brought in for windshield replacement (JAG) we would store the pertinent information on the blockchain for future reference by the owner in whatever capacity they need.
+ 
+We also work with NewSun Energies to refer solar leads to them in markets they serve. NewSun Energies is considered a qualified referral partner of ours. Currently we are generating approximately 2-3 leads per month, but have not generated any sales.
+
+ 
+The Company does not produce any products and as such the Company does not purchase raw materials, and (2) none of the Company’s various subsidiaries, who either provide services or are a reseller of products, has a “principal supplier”, with the exception of JAG, whose principal supplier is Mygrant Auto Glass.
+ 
+
+
+4
+
+Our Core Technology
+ 
+SinglePoint -Mobile Web Credit Card Gateway – Pay by Text
+ 
+Our mobile web checkout gateway service allows mobile users to purchase goods and services directly from any web-enabled mobile phone via credit or debit card. Our secure checkout gateway is Payment Card Industry (PCI) compliant, adhering to the strictest industry security standards.
+
+ 
+Our technology is designed to optimize and improve the mobile checkout experience. Our service works on any mobile device with a mobile browser so our clients can sell products and services or collect donations on any web-enabled phone on any carrier worldwide.
+
+ 
+Payment Options
+ 
+
+· | One-Time Transactions: Our Checkout supports one-time transactions of any value. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Recurring Transaction: Recurring payments are utilized for daily, weekly, monthly and annual subscriptions. Our mobile gateway manages the entire process. 
+· | Authorization: If a customer needs to validate a credit card without payment, we can generate an authorization request on a provided credit card. This transaction type is useful for physical goods merchants, companies looking to offer trials or our mobile charity auction product.
+
+ 
+We currently work with Independent Sales Organizations (“ISO”) to distribute the services and integrate a merchant’s payment options. We work collaboratively with ISO’s to create a detailed sales and marketing plan, including prioritizing prospects from their existing client base and identifying external prospects.
+
+ 
+ShieldSaver + JAG
+ 
+JAG and ShieldSaver work together to drive leads and conversion to sales of Windshield repair and replacement. The ShieldSaver technology is designed to increase efficiency and remove inconsistency among vehicle repair costs.
+
+ 
+SingleSeed
+ 
+SingleSeed is an online retailer where consumer hemp products are listed for sale to individual customers. The storefront provides an online purchasing point and an additional place for vendors to sell their products. When SingleSeed receives an order, the product is shipped directly to the purchaser from the manufacturer. This eliminates SingleSeed having to purchase or hold any inventory. SingleSeed marks up the product from the wholesale price to create the margin for SingleSeed to make money on the product sales. 
+ 
+Discount Indoor Garden Supplies
+ 
+DIGS is a California-based supplier of cultivation equipment and fulfills orders nationwide. 
+
+ 

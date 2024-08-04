@@ -1,0 +1,521 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview of Business
+ 
+We are a biotechnology company focused on the development and commercialization of novel therapeutics targeting human aging. Our mission is to apply our comprehensive experience in fundamental biological processes of human aging to a broad range of age-associated medical conditions. We believe that demand for therapeutics addressing such conditions is on the rise, commensurate with the demographic shift of aging in the United States and many other industrialized countries.
+ 
+Our proprietary technology, based on telomerase-mediated cellular immortality and regenerative biology, allows us to utilize telomerase-expressing regenerative pluripotent stem cell (“PSCs”) for the manufacture of cell-based therapies to regenerate tissues afflicted with age-related chronic degenerative disease. We own or have licenses to a number of patents and patent applications used in the generation of these product candidates including intellectual property related to PSC-derived clonal embryonic progenitor cell lines (PureStem® technology) and HyStem® delivery matrices.
+ 
+Our product candidates are in discovery stage: They include two cell-based therapies derived from telomerase-positive PSCs and one product candidate derived from our proprietary induced Tissue Regeneration (iTRTM) technology. We will need to conduct research and development work as part of our plan to develop these cell- and drug-based therapies, each targeting large unmet needs in age-related medicine.
+ 
+Additional Information
+ 
+AgeX is incorporated in the State of Delaware. Our common shares trade on the NYSE American Stock Exchange under the symbol “AGE.” Our principal executive offices are located at 1010 Atlantic Avenue, Suite 102, Alameda, CA 94501, and our phone number at that address is (510) 871-4190. Our website address is www.AgeXinc.com. The information on, or that can be accessed through our website is not part of this Report. We also make available, free of charge through our website, our most recent annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after the reports are electronically filed with or furnished to the Securities and Exchange Commission (the “SEC”).
+ 
+RenelonTM, iTRTM, and UniverCyteTM, are trademarks of AgeX Therapeutics, Inc. HyStem® and PureStem® are registered trademarks of BioTime, Inc. GeneCards® is a registered trademark of Yeda Research and Development Co. Ltd.
+ 
+Emerging Growth Company
+ 
+We are an “emerging growth company” under the Jumpstart our Business Startups Act of 2012 or the JOBS Act. As an emerging growth company, we may take advantage of specified reduced disclosure and other requirements that are otherwise applicable, in general, to public companies that are not emerging growth companies. These provisions include:
+
+● | reduced disclosure about our executive compensation arrangements; 
+--+---------------------------------------------------------------------------------------------------------------------------
+● | no non-binding stockholder advisory votes on executive compensation or golden parachute arrangements; and 
+● | exemption from the auditor attestation requirement in the assessment of our internal control over financial reporting. 
+
+ 
+We will remain an “emerging growth company” until the earliest of: (i) the last day of the fiscal year in which we have total annual gross revenues of $1.07 billion or more; (ii) the last day of our fiscal year following the fifth anniversary of the date of the first sale of our common equity securities pursuant to an effective registration statement under the Securities Act of 1933, as amended; (iii) the date on which we have issued more than $1.0 billion in nonconvertible debt securities during the previous three years; or (iv) the date on which we are deemed to be a “large accelerated filer” under the Securities Exchange Act of 1934, as amended.
+ 
+The JOBS Act permits an emerging growth company to take advantage of an extended transition period to comply with new or revised accounting standards applicable to public companies. However, we have elected to comply with newly adopted or revised accounting standards when they become applicable to public companies because our financial statements were previously consolidated with those of our former parent company BioTime, Inc. which is not an emerging growth company under the JOBS Act and is therefore not permitted to delay the adoption of new or revised accounting standards that become applicable to public companies. This election under the JOBS Act to not delay the adoption of new or revised accounting standards is irrevocable.
+ 
+
+4
+-
+
+
+Overview of Our Opportunity in Age-Related Diseases
+ 
+Aging is one of the most significant demographic trends of our time. As shown in Figure 1, the U.S. Census Bureau projects a sharp rise in the number of Americans over 80 years of age, with a marked inflection point occurring between the years 2020 and 2030.
+ 
+
+Figure 1. Projected increase in the numbers of the U.S. population over 80 years of age (U.S. Census Bureau)
+ 
+This demographic shift associated with 76 million aging baby boomers poses a significant challenge to our healthcare system and our economy as a whole. The unsolved problem relates to the fact that chronic conditions account for some 80% of total health care expenditures in the United States and the elderly have a higher prevalence of chronic degenerative disease than the young. Approximately 80% of older adults have one chronic disease, and 68% have two or more.
+ 
+Our technology platforms reflect over 25 years of research and development in cell immortality and regenerative medicine. It is designed to address some of the largest unmet needs of an aging population by translating state-of-the-art laboratory science relating to aging into therapeutic biologicals, drugs, and devices.
+ 
+Overview of Our Product Candidates
+ 
+Our Pipeline
+ 
+Our product pipeline includes two cell-based and one drug-based therapeutic product candidates in development. It also includes currently-marketed online database products and research products outlined in Figure 2.
+Figure 2. The AgeX product pipeline. IHD (Ischemic Heart Disease), T2D (Type II Diabetes), CHF (Congestive Heart Failure).
+ 
+
+5
+-
+
+
+Our lead cell-based therapeutic candidates in development are AGEX-BAT1 and AGEX-VASC1:
+ 
+
+● | AGEX-BAT1 is our lead cell therapy product candidate in the discovery stage of development utilizing PSC-derived brown adipocytes for the treatment of certain age-related metabolic disorders such as Type II (adult-onset) diabetes. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | AGEX-VASC1 is a cell-based therapy in the discovery stage of development comprised of young regenerative vascular-forming cells. AGEX-VASC1 may restore vascular support in aged ischemic tissues such as the ischemic heart. 
+
+ 
+Our lead drug-based therapeutic candidate in discovery is AGEX-iTR1547:
+ 
+
+● | AGEX-iTR1547 is a drug-based formulation in the discovery stage of development intended to potentially restore regenerative potential in a wide array of aged tissues afflicted with degenerative disease using our proprietary iTR technology. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Our currently marketed research and database products include cGMP ES Cells (human embryonic stem or “hES”) cells produced under current good manufacturing practices (or “cGMP”), PSC-derived cells for research, and our GeneCards Database Suite:
+ 
+
+● | cGMP PSC lines and PSC-derived cells for research: Through our ESI BIO division, we market cGMP PSC lines as well as PSC-derived cells. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | GeneCards Database Suite: Through our subsidiary LifeMap Sciences, Inc. (“LifeMap Sciences”), we currently market genomic interpretation algorithms and analysis tools for use by researchers at pharmaceutical and biotechnology companies and other institutions through paid subscriptions or on a fee-per-use basis. 
+
+Technology Platforms
+ 
+The technology underlying our product development programs is based on telomerase-mediated cellular immortality and regenerative biology. By “telomerase-mediated cellular immortality” we refer to the fact that cells that express sufficient levels of a protein called telomerase are capable of replicating without limit. By “regenerative biology,” we refer to novel methods to regenerate tissues afflicted with age-related chronic degenerative disease such as coronary disease, heart failure, and age-related metabolic disorders such as those associated with Type II diabetes, osteoarthritis, or Parkinson’s disease, as well as others. We utilize telomerase-expressing regenerative Pluripotent Stem Cells, or PSCs, for the manufacture of cell-based therapies. We own or have licensed numerous patents and patent applications covering methods and compositions relating to this technology platform.
+Background of Human Aging
+ 
+Cell Immortality
+ 
+There is a growing consensus in the scientific community that human aging is due in large part to the aging of individual cells in the various tissues of the body (somatic cells). In contrast, the reproductive lineage of cells (germ-line) perpetuate the human species from generation-to-generation without limit and continue to generate new people over the millennia.
+ 
+In 1961, Dr. Leonard Hayflick first reported that normal human cells in the body (unlike the germ-line) can proliferate for only a finite number of times (typically fewer than 100 times). This phenomenon, known as the “Hayflick Limit”, “cell mortality”, or “cellular aging”, is a normal property of somatic cells. In the 1990s, our CEO Dr. Michael D. West founded a biotechnology company called Geron Corporation where his team isolated for the first time the human gene called “Telomerase Reverse Transcriptase” or “telomerase.” In 1998, Geron scientists in collaboration with scientists at the University of Texas Southwestern Medical Center at Dallas, published the result that telomerase could stop the aging of human cells, or could “immortalize” them.
+ 
+
+6
+-
+
+
+
+
+Figure 3. The Germ-line/soma dichotomy wherein germ-line cells express telomerase, maintain telomere length, and exhibit replicative immortality, while body (somatic) cells lack telomerase, showing progressive telomere shortening until they reach the Hayflick limit.
+ 
+In 1994, Dr. West’s group demonstrated through an assay for measuring telomerase activity that nearly 90% of cancer cell types cultured in the laboratory or tumors surgically removed from patients abnormally express telomerase. This broke the then dogma that there was no common mechanism at work in cancer. Scientists have concluded that cell mortality, while being detrimental in old age, benefits us early in life by helping to repress cancer cell growth. Figure 3 illustrates this dichotomy wherein immortal cells such as the germ-line cells that perpetuate the species are immortal through telomerase activity while body (somatic) cells lack telomerase expression, and as a result show progressive telomere shortening and a finite lifespan (are mortal).
+ 
+The Weismann Barrier
+ 
+Early in the evolution of life, primitive unicellular and even multicellular organisms may have lacked programmed aging as a result of the potential of their cells having the potential for both replicative immortality and regeneration. However, in more complex animals such as mammals, somatic cells lose not only replicative immortality, but after most organ systems are formed during embryonic development, they also lose full regenerative potential. This repression of both telomerase-mediated cell immortality and regeneration potential is called the “Weismann Barrier” (see Figure 4).
+ 
+
+
+Figure 4. The Weismann Barrier coincides with the loss of both replicative immortality and regeneration. Levels of expression of the gene COX7A1 provide a useful marker of the loss of regenerative potential.
+ 
+
+7
+-
+
+
+PSCs represent the earliest stages of human development and are the first normal human cells cultured in the laboratory that display both telomerase-mediated replicative immortality and regenerative potential. Therefore, our scientists utilized these cells as well as the primitive regenerative cells derived from them, called “PureStem®” cell lines, in research where they were compared to diverse adult cells on the mortal side of the Weismann barrier to uncover the mechanisms regulating the loss of regenerative potential. Artificial intelligence algorithms were used to parse millions of gene expression data points and the results were published in late 2017. Figure 4 shows the Weismann Barrier and the associated rise of a gene expression marker of the non-regenerative state designated COX7A1. This proprietary marker, along with other insights obtained from the research, provides us with a window into this biology and a means of screening for agents capable of restoring a regenerative state to old nonregenerative cells. It is anticipated that such agents may not only reset the pattern of gene expression in adult cells back to that their regenerative counterparts but may also induce tissue regeneration when applied in vivo in the context of age-related degenerative disease. Since the previously mentioned 2017 publication described the re-emergence of the regenerative phenotype in the majority of cancer cell lines, the discoveries may open the door to potentially important diagnostic and therapeutic implications as well.
+ 
+Pluripotent Stem Cells (PSCs)
+ 
+
+Figure 5. Pluripotent Stem Cells (PSCs) possess both telomerase-mediated replicative immortality and regenerative potential, capable of producing all human cell types.
+ 
+In an effort to utilize telomerase-mediated immortality and regenerative biology in the development of novel therapeutics, in the mid-1990s, Dr. West, organized a collaboration with Drs. James Thomson, John Gearhart, and Roger Pedersen that led to the first isolation of PSCs. In contrast to other types of cells, PSCs are unique by at least two important criteria. The first criterion relates to the ability of pluripotent cells to proliferate, or make more copies of themselves, indefinitely, that is to say, they are “immortal”. The second relates to the ability of PSCs to differentiate into any of the hundreds of specialized cell types in the body. This replicative immortality of PSCs facilitates the industrial scalability of product. We believe that many of these cell types have potential for regenerating function in tissues damaged by degenerative diseases when transplanted. A small sampling of these cell types is shown in Figure 5. Unlike PSCs, adult stem cells typically have severely-reduced scale-up potential (are mortal unlike immortal PSCs), and have passed the Weismann Barrier, and are therefore limited in their ability to regenerate normal tissue when transplanted in vivo. Therefore, we believe that PSC-based cellular therapeutics have significant competitive advantages over cell-based therapeutics being developed by many adult stem cell companies.
+
+8
+-
+
+Our Technology Platforms
+ 
+PureStem® Technology
+ 
+Regulatory approval of cell- and tissue-based products require high standards of quality control. In the case of stem cell-derived products, there is a high standard for insuring the known identity, purity, and reproducibility of the cells to be administered. PSCs provide certain advantages over adult stem cell products when used in the manufacture of cell-based therapeutics for the treatment of age-related disease. These advantages include:
+
+● | The replicative immortality of the PSCs which facilitates the indefinite scale-up of PSC master cell banks for the manufacture of uniform product, as well as an immortal substrate for targeted genetic modifications. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Since most PSCs maintain long and stable telomere lengths, the replicative capacity of derived differentiated cell types is typically longer (younger) than adult or even fetal-derived cells. 
+● | Using PureStem® technology, it is possible to clonally expand hundreds of purified, identified, and reproducibly scalable cell types that retain regenerative potential (have not passed the regeneration limit). 
+
+ 
+
+PureStem® technology is based on the observation that embryonic anlagen of many tissues in the human body are naturally comprised of highly proliferative cells with relatively long telomere length. Therefore, it is possible to generate clonal lineages of these cells in vitro. Cells derived from adult tissues commonly permanently cease to divide after a certain number of doublings, a condition known as senescence. In addition, adult and even fetal tissues largely contain differentiated cells often with limited or no capacity of replication in vitro. As a result, the clonal expansion of human embryonic progenitor cell types allows not only a novel and more facile point of scalability but also generates populations of cells that are multipotent instead of pluripotent, and therefore markedly easier to define identity, purity, and potency.
+
+
+We have studied the fate of over 200 diverse PureStem cell lines in thousands of differentiation conditions. This was accomplished by thawing individual cryopreserved PureStem cell lines, culturing them in the laboratory, and then exposing the cells to factors that differentiate cells such as protein growth and differentiation factors, hormones, and small molecules implicated in causing cells to change from one type of cell into another (differentiation). Using individual cells from the over 200 diverse PureStem cell lines previously isolated and cryopreserved, we treated the diverse cells with thousands of differentiation conditions, prepared RNA, and determined the gene expression pattern of the cells using gene expression microarrays. These experiments have shown that the PureStem cell lines display site-specific markers that identify not only the type of cells, but also where in the body the cells would normally reside. Therefore, in the example of cartilage cells, it was possible to produce diverse types of cartilage in this manner. We have licensed from BioTime PureStem applications outside of orthopedics, medical aesthetics, and certain ophthalmological applications.
+ 
+We have chosen two PureStem applications for our initial product development based on unmet medical need along with other factors. The first product candidates are Brown Adipose Tissue (BAT) cells for the treatment of metabolic disorders such as obesity or Type II diabetes, and vascular endothelial progenitors for the treatment of age-related ischemic disease such as that leading to myocardial ischemia and infarction. These cells will be formulated in a delivery matrix designated HyStem® to promote viability of the graft as well as to localize the cells to the intended site in the body. See “—Overview” and “—Our Target Market.”
+ 
+HyStem® Delivery Technology
+ 
+HyStem® is a patented biomaterial that mimics the extracellular matrix that is the structural network of macromolecules surrounding cells in the body. The extracellular matrix is essential for normal cellular function and survival of transplanted cells. Many tissue engineering and regenerative cell-based therapies are expected to benefit from the delivery of therapeutic cells in a matrix for precise localized delivery and survival. HyStem is a unique hydrogel that has been shown to support cellular attachment in vivo. Current research at medical institutions has shown that HyStem is compatible with a wide variety of cells and tissue types including those of the brain, bone, skin, cartilage, vascular system and heart. The technology underlying HyStem hydrogels was developed at the University of Utah and was been exclusively licensed to BioTime for human therapeutic applications and sublicensed to AgeX for certain fields. The HyStem technology is based on a unique thiol cross-linking chemistry to prepare hyaluronan-based matrices as hydrogels. Since the first published report in 2002, there have been numerous academic scientific publications supporting the biocompatibility of thiol cross-linked hyaluronan-based matrices and their applications as medical devices and in cell culture, tissue engineering, and animal models of cell-based therapies.
+
+9
+-
+
+
+
+
+Figure 6. AgeX plans to utilize the HyStem technology for the delivery of cell-based therapeutics.
+ 
+Due to the unique cross-linking chemistry, HyStem matrices have the ability to be safely combined with living cells and subsequently injected or applied locally as a hydrogel which allows the gel to conform to the three-dimensional contour of a tissue. Building upon this platform, we initially plan to use HyStem for cell-based therapy.
+ 
+The building blocks for HyStem hydrogels may vary with the application but typically include combinations of hyaluronan, gelatin, or heparin, each of which has been thiol-modified. Hydrogels are formed by cross-linking mixtures of these thiolated macromolecules with polyethylene glycol diacrylate (PEGDA). The rate of gelation and the hydrogel stiffness can be controlled by varying the amount of cross-linker. An important attribute of HyStem hydrogels is their large water content, over 98%. As a result, these hydrogels have a high permeability for oxygen, nutrients, and other water-soluble metabolites.
+ 
+
+10
+--
+
+Products and Product Candidates
+ 
+Our Therapeutic Product Candidates
+ 
+AGEX-BAT1 - Brown Adipose Tissue (BAT) Progenitors
+ 
+Brown Adipose Tissue (BAT) is abundant early in life but lost precipitously with age. This tissue is believed to generate heat through expression of a gene called UCP1. In addition, the high levels of glucose and lipid uptake by the tissue is believed to balance metabolism in young people. In contrast, central obesity and Type II diabetes has been correlated with low levels of BAT.
+ 
+
+
+Figure 7. Human tissue-derived BAT cells (left) stained red for the presence of UCP1 show a minority of cells being true BAT cells. PureStem-derived AGEX-BAT1 cells are uniformly UCP1 positive.
+ 
+The demonstration in published literature in the public domain that the transplantation of BAT from young mice to obese diabetic mice resulted in weight loss and increased insulin sensitivity has led to a search for a source of industrially-scalable clinical grade BAT cells as well as an appropriate matrix for lipotransfer. There currently is no FDA-approved matrix for cell transplantation. However, BioTime has completed a pivotal clinical trial of HyStem being developed as a replacement for whole adipose tissue in cell-assisted lipotransfer procedures. Therefore, we believe HyStem can be used for the delivery of BAT cells produced using PureStem technology. As shown in Figure 7, the AGEX-BAT1 progenitors strongly express the BAT marker UCP1 when induced to differentiate and show a relatively high degree of purity compared to human tissue-derived BAT.
+ 
+AgeX is currently optimizing process development for the initiation of preclinical development of the use of AGEX-BAT1.
+ 
+
+11
+--
+
+AGEX-VASC1 - Vascular Progenitors
+ 
+PureStem technology can also yield highly purified embryonic vascular components. As shown below, select clonal lines express markers such as VE-Cadherin (CDH5) and PECAM1, as well as VWF and other markers of venous, arterial, and lymphatic endothelium. Flow cytometry shows purity indistinguishable from 100%.
+ 
+In addition to vascular endothelial cells, we have characterized vascular smooth muscle cell progenitors. This makes it possible for us to construct two of the key cellular components of arterial vessels, such as those compromised in coronary artery disease.
+ 
+
+
+Figure 8. PureStem-derived vascular endothelial cell lines are capable of regenerating young vasculature (bottom left) and appear to have essentially 100% purity by FACs analysis.
+ 
+HyStem hydrogels have been successfully used as a cell delivery matrix for endothelial progenitor cells to re-establish vasculature in hind limb ischemia models. Therefore, AgeX is currently optimizing process development for planned animal preclinical testing of AgeX-VASC1 formulated in HyStem for delivery into ischemic heart tissue to regenerate collateral circulation.
+ 
+AGEX-iTR1547 — Induced Tissue Regeneration (iTRTM)
+ 
+Leveraging our assets in pluripotency and bioinformatics, we have performed research manipulating cellular immortality and regenerative biology in human cells. In 2010, BioTime demonstrated the reversal of the developmental aging of human cells using transcriptional reprogramming technology. In 2017, we published certain markers of the Weismann barrier, and the high prevalence of a reversion back before the Weismann barrier in diverse cancer cell types cultured in vitro.
+ 
+We extended this research to determine whether reprogramming can be modified to only reverse the aging of cells back before the Weismann Barrier, not back to pluripotency or transforming the cells into malignant counterparts. We have utilized for example the gene COX7A1 as a marker of cells that have lost regenerative potential (crossed the Weismann Barrier).
+ 
+
+12
+--
+
+
+As shown in Figure 9, our proprietary formulation AGEX-iTR1547 has demonstrated initial capability of reducing the expression of the marker gene COX7A1 back to before the Weismann Barrier without reverting the cells to pluripotency. When implemented in vivo, this partial reprogramming, or iTR, would be expected to induce tissue regeneration, and when combined with telomerase, could modulate both cellular immortality and regenerative biology for therapeutic effect. We are performing research to optimize AGEX-iTR1547 in order to initiate preclinical studies of the agent on the scarless regeneration of the heart during congestive heart failure.
+ 
+
+Figure 9. PSCs such as ES Cells and PureStem EP Cells display a regenerative capacity like cells that have not cross the Weismann Barrier. During pre- and post-natal development, skin cells become increasingly incapable of scarless regeneration as reflected in increasing COX7A1 expression. iPS cell reprograming reverts cells back to pluripotency, while AgeX-iTR1547 reverts cells back only to a point prior to the Weismann Barrier (regenerative state).
+ 
+Status and Development Plan
+ 
+The product candidates we are developing are in the discovery stage of development. Prior to filing an Investigational New Drug (IND) application for the initiation of clinical trials of our initial product candidates, AGEX-BAT1, AGEX-VASC1, and AGEX-ITR1547, we will need to complete discovery-level research for the qualification of reagents used in the manufacture of the product, complete the standard operating procedures to be used (SOPs), complete the methods and documentation for characterization of the product, produce and test the genetic modifications in the master cell banks of the pluripotent stem cells under current Good Manufacturing Practices (cGMP) in order to produce product that will not illicit immune rejection following transplantation. In addition, we will be required to expand the numbers of the pluripotent stem cell master cell banks for future use, as well as produce working cell banks from which the product will be manufactured for clinical trials, produce the relevant product under cGMP conditions, expand the number of relevant cells and cryopreserve them under cGMP conditions. In addition, we will be required to design the pre-clinical studies including the study endpoints, perform biosafety testing and release the first clinical batch based on preliminary characterization results, and complete full product characterization. Biosafety testing will necessarily include pilot testing in animals such as (NOD/SCID) mice, dosing spiking studies at early and later endpoints, tumorgenicity and biodistribution studies to determine whether the cells form undesired tumors or migrate to inappropriate sites respectively in the animal. Lastly, we will need to define the clinical trial and regulatory strategy and hold Pre-Pre-IND and Pre-IND meetings with the Food and Drug Administration (FDA), as well as successfully submit an IND to the FDA and receive clearance to begin trials. Thereafter, we will need to demonstrate safety and efficacy of the product in human clinical trials in Phase I and II trials, and continued safety and efficacy for achieving the desired endpoint in Phase III trials, potentially then leading to product registration. See “Risk Factors — Risks Related to Our Business Operations” for discussion of risks relating to our preclinical development and clinical trials. These include, but are not limited to, failure to successfully complete the aforementioned studies due to the failure of the product, processes, or skills of our employees, unforeseen delays in the development process, failure to raise requisite financing, or failure to receive permission from the FDA to advance product development.
+
+13
+--
+
+
+Because our product candidates are still in the discovery stage, our choice of product candidates and development plans are subject to change based on a variety of factors. We may determine to abandon the development of one or more of our product candidates, or we may prioritize the development of one or more product candidates, or we may select or acquire and prioritize the development of new product candidates. Our choice and prioritization of product candidates for development will be influenced by a variety of factors, including but not limited to:
+ 
+
+● | Results of our laboratory research and any animal and clinical trials that we may conduct; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Our analysis of third party competitive and alternative technology that may lead us to conclude that our product candidates or technologies may be non-competitive or obsolete; 
+● | Our analysis of market demand and market prices for the products we plan to develop could lead us to conclude that market conditions are not favorable for receiving an adequate return on our investment in product development and commercialization; 
+● | The amount of capital that we will have for our development programs and our projected costs for those programs; 
+● | The issuance of patents to third parties that might block our use of the same or similar technology to develop a product candidate; and 
+● | The views of the FDA and comparable foreign regulatory agencies on the pre-clinical product characterization studies required to file an IND in order to initiate human clinical testing of a therapeutic product candidate or to attain marketing approval for that product candidate, or to obtain an investigational device exemption for clinical trials, or clearance for a 510(k) application to market a medical device. 
+
+Other Products
+ 
+Other Potential iTR Applications
+ 
+An additional first generation iTR product candidate that we may develop is RenelonTM, which utilizes a repurposed drug, valproic acid, formatted in a hyaluronic acid based medium. Renelon would not be capable of fully transporting cells back to a regenerative state. However, our gene expression analysis of valproic acid on adult-derived human skin cells and published reports in the scientific literature on the anti-fibrotic effects of valproic acid provide scientific support of the potential use of Renelon to impart scarless tissue repair in the treatment of wounds or in surgical uses. Although valproic acid has been approved for medical use and is available as a generic drug for certain uses, it has not been approved for the uses we may explore and Renelon has not been used in clinical trials for the treatment of wounds or in surgical or other tissue repair applications. It is possible that Renelon, if developed, could be regulated as a medical device rather than as a drug for the use we contemplate, but there is no certainty that the FDA will consider Renelon to be a device.
+ 
+We believe that iTR may also have applications in the diagnosis and treatment of cancer. We have filed patents on methods of both inducing iTR in cells and maturing them and some of these methods may provide novel diagnostic and therapeutic strategies for cancer.
+ 
+Online Database Products
+ 
+We, through our subsidiaries LifeMap Sciences and LifeMap Sciences Ltd, which are collectively referred to as LifeMap Sciences, conduct operations in the U.S. and Israel to commercialize the GeneCards Database Suite, which includes the relational databases GeneCards® and MalaCardsTM licensed from the Yeda Research and Development Company Ltd., the technology transfer company of the Weizmann Institute of Science in Rehovot, Israel. The GeneCards Database Suite had approximately 3.5 million unique users in 2017 from diverse academic and commercial institutions. LifeMap Sciences obtains revenues from advertising as well as subscriptions from commercial entities. LifeMap Sciences also is building a product designated TGexTM, which provides reports generated by the GeneCards knowledgebase intended for use by health care institutions and containing condensed information on particular genomic profiles of patients.
+ 
+ESI BIO Research Products
+ 
+We, through our ESI BIO research product division, market a number of products related to pluripotent stem cells including, research-grade as well as cGMP-grade human PSC lines. We plan to contract with third parties where the third parties to allow them to utilize cGMP PSCl lines in defined fields of application in exchange for certain compensation including the payment of royalties to us if they are successful in developing and commercializing a product.
+ 
+Subsidiaries
+ 
+As of, and for the year ended December 31, 2018, AgeX consolidated the following subsidiaries:
+ 
+
+Subsidiary | Field of Business | AgeX Ownership | | | Country
+-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------+---+--------
+ReCyte Therapeutics | Early stage pre-clinical research and development involved in stem cell-derived endothelial and cardiovascular related progenitor cells for the treatment of vascular disorders, ischemic conditions and brown adipocytes for type-2 diabetes and obesity | | 94.8 | % | | USA
+LifeMap Sciences (1) | Biomedical, gene and disease databases and tools | | 81.7 | % | | USA
+
+
+(1) | LifeMap Sciences includes LifeMap Sciences, Inc. and its wholly-owned subsidiary LifeMap Sciences, Ltd. an Israeli company. 
+----+---------------------------------------------------------------------------------------------------------------------------------
+ | All material intercompany accounts and transactions between AgeX and its subsidiaries have been eliminated in consolidation. 
+
+
+14
+--
+
+Manufacturing
+ 
+Our success will depend in part on our ability to manufacture high quality cells, matrices, and small molecules. Unlike drug manufacturing, this quality needs to be performed at the beginning of the process of using PSCs. Therefore, we have acquired from BioTime cGMP-compatible stem cell lines. We currently operate under a shared facilities agreement with BioTime, but we plan to sublease a facility at which we can establish a cGMP laboratory suitable for manufacturing cell lines and our cell based product candidates. We also will require additional personnel and contracted services to comply with quality manufacturing processes and controls.
+Facilities
+ 
+On March 21, 2019, we entered into a sublease of an office and research facility (the “New Facility”) comprising approximately 23,911 square feet of space in a building in an office and research park at 965 Atlantic Avenue, Alameda, California. We plan to operate our principal offices and research laboratory at the New Facility. The commencement of the sublease and our obligation to pay rent is subject to the conditions that the master landlord approves the sublease, our plans for constructing certain laboratory improvements, and our use of certain reagents in our laboratory in the New Facility (the “Preconditions”).
+ 
+If the Preconditions to the effectiveness of our sublease are satisfied, the New Facility will replace our use of the laboratory and office facilities that have been provided by BioTime. BioTime has a lease of approximately 30,795 square feet of rentable space in two buildings located in an office park setting in Alameda, California. Under a Shared Facilities and Services Agreement (the “Shared Facilities Agreement”) with BioTime, we have had use of approximately 2,239 square feet of allocated laboratory and office space at BioTime’s Alameda facility and use of approximately 18,000 square feet of common areas which we share with BioTime and its subsidiaries and affiliates in the same facility. BioTime’s facilities do not provide us with laboratory space for the manufacture of cell lines or our cell based product candidates under cGMP conditions.
+ 
+If the Preconditions to the sublease of the New Facility are not satisfied and our sublease does not go into effect, we will need to find an alternative facility to lease for the manufacture of cell lines and our cell based product candidates under cGMP conditions and there can be no assurance that we will be able to lease suitable facilities on acceptable terms. In the alternative, we may seek to enter into manufacturing agreements with third parties that have suitable facilities and know-how to manufacture cell lines and product candidate lots for us under cGMP conditions. However, there is no assurance that we will be able to enter into contract manufacturing agreements on acceptable terms.
+ 
+Commercialization Plan
+ 
+With the exception of our research product sales which generate a trivial amount of revenues, we currently have no commercialized or marketed products such as FDA-approved drugs in our portfolio. As a result, we have not yet assembled an infrastructure for sales and marketing. At the point in time, if ever, that our product candidates approach clearance or approval, we plan to develop a commercial plan that may initially include strategic marketing partnerships.
+Intellectual Property
+ 
+Patents and Trade Secrets
+ 
+We rely primarily on patents and contractual obligations with employees and third parties to protect our proprietary rights. We have sought, and intend to continue to seek, appropriate patent protection for important and strategic components of our proprietary technologies by filing patent applications in the U.S. and certain foreign countries. There are no assurances that any of our intellectual property rights will guarantee protection or market exclusivity for our products and product candidates. We also use license agreements both to access technologies developed by other companies and universities and to convey certain intellectual property rights to others. Our financial success will be dependent, in part, on our ability to obtain commercially valuable patent claims, to protect and enforce our intellectual property rights, and to operate without infringing upon the proprietary rights of others if we are unable to obtain enabling licenses.
+
+15
+--
+
+
+The patents for our core programs are summarized below.
+ 
+AGEX-BAT1
+ 
+Brown Adipose Tissue (BAT) Progenitor Cells: The pending patent applications related to BAT progenitor cells, which are owned by AgeX, include U.S. and international patent applications. The applications are directed to the differentiation of pluripotent stem cells (including hES cells) into progenitor cell types capable of making the cellular components of brown fat. The patents also describe culture and purification methods. The approximate expiration dates of the BAT patents, if issued, will range from 2034 to 2036. The AGEX-BAT1 product may also rely on the HyStem patents, which are described in detail below under the heading “HyStem® Technology”.
+ 
+AGEX-VASC1
+ 
+Vascular Progenitors: The pending patent application pertaining to purified vascular progenitor cells and embryonic vascular components are owned by AgeX or an AgeX subsidiary or licensed from BioTime. The patents include U.S. patent applications and are directed to methods to enhance vascular tube networks, compositions of pericyte progenitor cells, compositions of exosomes containing angiogenic molecules, compositions of vascular and lymphatic cells, and methods to culture and purify the cells or components thereof. The approximate expiration dates of the vascular progenitor patents, if issued, range from 2032 to 2038. We plan to file an international patent application claiming priority from a pending US provisional application by the filing deadline, which could lead to a patent that if issued would expire in 2039. The AGEX-VASC1 product may also rely on the HyStem patents, which are described in detail below, under the heading “HyStem® Technology”.
+ 
+AGEX-iTR1547
+ 
+Induced Tissue Regeneration (iTRTM): The pending patent applications related to the iTR programs, which are owned by AgeX, include applications pending, for example, in the United States, Australia, Canada, China, Europe, Japan and a pending international patent application. These patent applications are directed to compositions and methods for healing damaged tissue using the iTR treatment methods. The patent applications are also directed to treatment methods by regenerating aging tissue by modulating genes involved in tissue regeneration, including reprogramming cells and tissues back to a regenerative state. The approximate expiration dates of the iTR patents, if issued, will range from 2034 to 2039.
+ 
+Other AGEX Licensed and Sublicensed Patents
+ 
+PureStem® Progenitor Cells: The patents and pending applications related to our PureStem® technology include patents and applications in the United States, Canada, Europe and Australia. These patents are directed to methods for generating diverse isolated progenitor cell lines which generally do not express COX7A1 and combinations of other methods for employing pluripotent stem cell lines suitable for clinical use. The pending applications are directed to clonally purified human embryonic progenitor cell lines and methods for reproducible, large scale production of clonally purified human embryonic progenitor cells, compositions and methods for generating diverse cell types, and assays useful in identifying hES cell lines and pluripotent cells resulting from the transcriptional reprogramming of somatic cells that have embryonic telomere length. The approximate expiration date of the PureStem® issued patents is 2031 and the approximate date of expiration of the pending patents, if issued, will range from 2029 to 2032.
+ 
+The PureStem® patent portfolio includes patents and pending applications licensed from Advanced Cell Technology, Inc., which later became Ocata Therapeutics, Inc. (“Ocata”). The Ocata issued patents cover methods for reprogramming animal differentiated somatic cells to undifferentiated cells and methods for producing differentiated progenitor cells using morula-derived or inner cell mass cells from a blastocyst and expire from approximately 2020 to 2026. The Ocata pending applications relate to methods for the derivation of cells that have a reduced differentiation potential using PSCs, methods for reprogramming animal differentiated somatic cells to undifferentiated cells and methods for producing differentiated progenitor cells using morula-derived or inner cell mass cells from a blastocyst. The Ocata pending patents, if issued, will expire between 2020 and 2026.
+ 
+HyStem® Technology: AgeX has a sublicense to the HyStem technology from BioTime and the technology was originally developed by the University of Utah Research Foundation with patents issued in the United States, Canada, Switzerland, Germany, Spain, France, UK, Ireland, Italy, Luxembourg, Monaco, Japan, Australia, and South Africa. The patents have claims covering compositions, pharmaceutical compositions with living cells methods of crosslinking, methods of making, methods of administering the compositions, and the use of the synthetic extracellular matrix in both research and clinical applications. The expiration dates of the HyStem® patents range from 2023 to 2027.
+ 
+
+16
+--
+
+
+ESI Human Embryonic Stem Cell (hES) Cell Lines: AgeX licenses rights to the ES Cell International Pte. Ltd. patent portfolio with patents issued in the United States, Australia, Israel, UK, Singapore, Japan, and applications pending in the US and Europe. The patents are directed to methods for the differentiation of or enhancing the differentiation of stem cells into cardiomyocytes, neural cells, and pancreatic endoderm cells, compositions of pancreatic progenitor cells, methods of promoting the attachment, survival and/or proliferation of substantially undifferentiated stem cells in culture, methods for identifying and selecting cardiomyocytes, methods of freezing stem cells or progenitor cells, methods for identifying cardiogenic factors, compositions and methods for modulating spontaneous differentiation of a stem cell, methods of modulating the differentiation of undifferentiated, pluripotent human embryonic stem cells in culture, isolated endodermal progenitor cells, methods for transducing human embryonic stem cells, cell culture systems. The pending applications are directed to methods for the differentiation of hES cells into the three cell lineages, including for example cardiomyocytes, skeletal muscle cells, vascular endothelial cells, and pancreatic endoderm cells, as well as, various culture and purification methods and compositions and methods of treatment. The ESI issued patents will expire from 2019 to 2027, and the approximate date of expiration of the pending patents, if issued, will range from 2022 to 2027.
+ 
+UniverCyte (HLA-G) Technology: In August 2018, we acquired from Escape Therapeutics patents and patent applications related to HLA-G-modified cells and methods of generating allogeneic cells with reduced risk of being rejected by patients regardless of the HLA class I haplotype. The patents and pending application related to our HLA-G modified cells technology include patents issued in the United States, Australia and Japan and applications are pending in the United States, Australia, Canada, China, Europe, Japan, Korea, and Singapore. The patents are directed to cells which are genetically modified to express a Human Leukocyte Antigen-G (HLA-G) and have reduced immunogenicity and improved immunosuppression, and nucleic acid compositions useful for generating the genetically modified cells. The pending applications are directed to compositions and methods for generating cells which are genetically modified to express HLA-G having reduced immunogenicity and improved immunosuppression, nucleic acid compositions useful for generating the genetically modified cells, and methods of producing artificial tissues using the genetically modified cells. The approximate expiration date of the UniverCyte™ (HLA-G) issued patents is 2033 and the approximate date of expiration of the pending patents, if issued, will also be 2033. We intend to use the UniverCyte™ technology in the development of our two lead product candidates, AGEX-BAT1 and AGEX-VASC1 for the treatment of Type II diabetes and cardiovascular aging, respectively. In addition, we may seek to license out or form collaborations for the use of our UniverCyte™ technology.
+ 
+General Risks Related to Obtaining and Enforcing Patent Protection
+ 
+There is a risk that any patent applications that we file and any patents that we hold or later obtain could be challenged by third parties and be declared invalid or infringing on third party claims. Litigation, interferences, oppositions, inter partes reviews or other proceedings are, have been and may in the future be necessary in some instances to determine the validity and scope of certain of our proprietary rights, and in other instances to determine the validity, scope or non-infringement of certain patent rights claimed by third parties to be pertinent to the manufacture, use or sale of our products. We may also face challenges to our patent and regulatory protections covering our products by third parties, including manufacturers of generics and biosimilars that may choose to launch or attempt to launch their products before the expiration of our patent or regulatory exclusivity. Litigation, interference, oppositions, inter partes reviews, administrative challenges or other similar types of proceedings are unpredictable and may be protracted, expensive and distracting to management. The outcome of such proceedings could adversely affect the validity and scope of our patent or other proprietary rights, hinder our ability to manufacture and market our products, require us to seek a license for the infringed product or technology or result in the assessment of significant monetary damages against us that may exceed any amounts that we may accrue on our financial statements as a reserve for contingent liabilities. An adverse determination in a judicial or administrative proceeding or a failure to obtain necessary licenses could prevent us from manufacturing or selling our products. Furthermore, payments under any licenses that we are able to obtain would reduce our profits derived from the covered products and services.
+ 
+The enforcement of patent rights often requires litigation against third-party infringers, and such litigation can be costly to pursue. Even if we succeed in having new patents issued or in defending any challenge to issued patents, there is no assurance that our patents will be comprehensive enough to provide us with meaningful patent protection against our competitors.
+ 
+In addition to relying on patents, we rely on trade secrets, know-how, and continuing technological advancement to maintain our competitive position. We have entered into intellectual property, invention, and non-disclosure agreements with our employees, and it is our practice to enter into confidentiality agreements with our consultants. There can be no assurance, however, that these measures will prevent the unauthorized disclosure or use of our trade secrets and know-how, or that others may not independently develop similar trade secrets and know-how or obtain access to our trade secrets, know-how, or proprietary technology.
+ 
+
+17
+--
+
+Our Licensing Arrangements
+ 
+License Agreement with BioTime: iTR, PureStem® and Telomere Length
+ 
+Concurrently with the contribution of assets to us by BioTime under an Asset Contribution and Separation Agreement, we entered into a License Agreement with BioTime pursuant to which BioTime has licensed to us, with rights to sublicense, certain intellectual property, including patents and patent applications and know-how for use in the development, manufacture and commercialization of products or services for the prevention, treatment, amelioration, diagnosis or monitoring of all human and non-human animal diseases and conditions except for the field of medical products, devices and services for the reserved BioTime fields of orthopedic, ophthalmic, and medical aesthetic uses (the “BioTime Exclusive Field”). In addition, BioTime retains an option right, on terms to be negotiated, to license iTR patents in research, development, manufacturing and commercialization of treatments based on iTR in the BioTime Exclusive Field. The licensed patents and know-how relate generally to (a) BioTime’s PureStem® human embryonic progenitor cell lines, and (b) telomere length and DNA quality control analysis in pluripotent stem cells.
+ 
+The BioTime patent rights licensed to us are exclusive and worldwide except for existing third party licenses, and for medical products, devices, and services related to tendon. We additionally received an option to license certain BioTime retained rights outside of orthopedic indications unless a license grant would compete with a BioTime program or products in the BioTime Exclusive Field.
+ 
+The License Agreement contains customary provisions pertaining to patent maintenance, enforcement, and defense and related cost allocations, insurance, indemnification, and termination of the license in the event of a breach or default by a party, or the bankruptcy or other insolvency event with respect to a party.
+
+
+Additional License and Sublicense Agreements
+ 
+BioTime and certain BioTime subsidiaries also entered into agreements pursuant to which they have licensed or sublicense to us, on a non-exclusive, world-wide, royalty bearing basis, certain additional patents and patent rights and know-how relating to BioTime HyStem® hydrogel technology, human embryonic progenitor cell technology, and human pluripotent stem cell lines and technology for use outside the BioTime Exclusive Fields, or in the case of certain sublicense rights, fields previously licensed to third parties.
+Hydrogel Patent License and Sublicense
+ 
+BioTime has granted to us a sublicense of certain patents licensed to BioTime by the University of Utah Research Foundation (the “Utah Sublicense”), and has granted to us a direct license of certain patents held by BioTime (the “HyStem License”), related to HyStem® hydrogel technology for use outside of the BioTime Exclusive Field for products that include cells and that are covered by certain other patents contributed, licensed, or sublicensed to us by BioTime. We may only develop, sell, and otherwise commercialize a product under the Utah Sublicense and HyStem License if we spend at least a low seven figure amount on research with respect to the product. BioTime will agree to provide us with a reasonable amount of the hydrogel product for the purpose of our research for we will pay BioTime’s cost of manufacturing and supplying the hydrogel.
+ 
+The Utah Sublicense and the HyStem License will not permit sublicensing and will be non-exclusive for medical products, devices, and services related to human tendon, and will be exclusive for all other licensed fields. The Utah Sublicense and HyStem License will expire upon the latest expiration date of a sublicensed or licensed patent, unless terminated earlier pursuant to the respective agreements. We will pay BioTime a royalty, in an amount not exceeding 10 percent, on “net sales” as defined in the Utah Sublicense and HyStem License. Commencing June 30, 2019, and for each 12-month period thereafter, we will pay BioTime a minimum royalty in the low five figures regardless of the actual amount of net sales for the applicable period.
+ 
+The foregoing description of the HyStem License and the Utah Sublicense is qualified in its entirety by reference to the HyStem License Agreement and the Utah Sublicense Agreement, copies of which are filed as Exhibits to our Registration Statement on Form 10 and are incorporated herein by reference.
+ 
+Sublicense of Certain Progenitor Patents
+ 
+BioTime has granted to us a sublicense of certain patents licensed to BioTime that pertain to the derivation of human embryonic progenitor cell lines. The sublicense will permit us to use the sublicensed patents for the treatment, palliation, diagnosis, or prevention of any disease, disorder or health condition outside of the BioTime Exclusive Field. The sublicense expires the later of July 10, 2028 or the latest expiration date of a sublicensed patent, unless terminated earlier pursuant to the terms of the sublicense.
+
+18
+--
+
+
+We will pay BioTime a royalty on “net sales,” as defined in the sublicense agreement, until the royalty payments to BioTime’s licensor by BioTime total $1.2 million and thereafter will pay to BioTime a low single digit royalty on its own net sales and a low double digit royalty on sublicensing consideration.
+ 
+If we grant a sublicense to use the patents, we will pay BioTime a portion of any consideration received for a sublicense, including but not limited to, upfront payments and milestones, and non-cash exchanges or considerations, but not payments for developing a product, service or process. If we become obligated to pay royalties to one or more affiliates of BioTime for the use of patent rights related to this sublicense and as a result, the royalties payable to BioTime with respect to royalties under the sublicense plus the royalties payable to the affiliates would exceed a designated amount of net sales, the royalties due to BioTime may be reduced but not less than the designated amount. In addition, we will pay to BioTime a royalty on “net sales,” as defined in the sublicense agreement, by the sublicensee. If we become obligated to pay royalties to one or more affiliates of BioTime for the use of patent rights related to this sublicense and as a result, the royalties payable to BioTime with respect to sales by a sublicensee plus the royalties payable to the affiliates would exceed a designated amount of net sales, the royalty due on net sales by the sublicensee may be reduced but not less than the designated amount.
+ 
+The sublicense agreement includes reciprocal cross-licenses between BioTime and us with respect to any new patents that may be issued based on the use of the sublicensed patents. Any such license to BioTime will be exclusive in the BioTime Exclusive Field and nonexclusive in all other licensed fields. Any such license from BioTime to us will be for use outside the BioTime Exclusive Field and for medical products or services involving tendon. Each license will be for a term of 10 years.
+ 
+The foregoing description of the sublicense agreement is qualified in its entirety by reference to the sublicense agreement, a copy of which is filed as an exhibit to our Registration Statement on Form 10 and is incorporated herein by reference.
+ 
+ESI License
+ 
+BioTime’s subsidiary ES Cell International Pte, or ESI, has granted to us non-exclusive rights to certain ESI patents and human pluripotent stem cell lines, or ESI Cell Lines, for use outside of the BioTime Exclusive Field and outside certain other fields for which ESI has previously granted licenses. We will pay ESI a royalty, in an amount not exceeding 10 percent, on “net sales,” as defined in the license agreement. If we become obligated to pay royalties to one or more third party or to BioTime for the use of patent rights related to this license and as a result the royalties payable to ESI with respect to this license agreement plus the royalties payable to such third party or BioTime would exceed a designated amount of net sales, the royalty due on net sales by the sublicensee may be reduced. The patent license expires upon the latest expiration date of a licensed patent, unless terminated earlier pursuant to the terms of the license. All other rights under the license are terminable by either party under the conditions specified in the license.
+ 
+If we grant rights to any third party to use ESI Cell Lines derived under cGMP, we will pay ESI a share of all consideration that we receive as consideration for the grant of those rights, including all cash and non-cash consideration but not royalties. We are not permitted to grant sublicenses to the licensed ESI patents but may sublicense the use of ESI Cell Lines.
+ 
+The foregoing description of the ESI License Agreement is qualified in its entirety by reference to the ESI License Agreement, a copy of which is filed as an exhibit to our Registration Statement on Form 10 and is incorporated herein by reference.
+ 
+Competition
+ 
+The biotechnology industry is highly competitive and characterized by rapid change (even disruptive advances) that challenge the ability of any one company to maintain leadership. Therefore, we face competition on multiple fronts, including from other biotechnology companies, large pharmaceutical companies, academic institutions and government research entities. We believe the competitive advantages of our technology platform and resulting product candidates arise from the large market opportunities addressed by our product candidates, their anticipated safety profile, the expected cost of manufacture of off-the-shelf products, our intellectual property, as well the fundamental and widespread role of cell aging and regeneration in human age-related degenerative disease.
+ 
+There are numerous biotechnology companies developing therapeutics for human aging, with each company often focusing on a specific molecular pathway within cells. For example, ResTORbio, Inc. is developing modulators of the mechanistic target of rapamycin (mTOR) pathway to treat immunological and cardiovascular disorders. Calico Life Sciences LLC is a Google-founded research and development company aimed at identifying molecular pathways that control animal lifespan and translating these insights into novel therapeutics designed to increase human healthspan. Calico has not disclosed its lead product development plans. Unity Biotechnology, Inc. focuses on cellular senescence, in particular, the use of agents that can target senescent cells for selective ablation (senolysis). Unity’s stated targeted age-related diseases include osteoarthritis as well as other ophthalmological and pulmonary diseases.
+ 
+
+19
+--
+
+
+Our therapeutic product candidates in development are likely to face competition from a large number of companies and technological strategies including therapeutics intended to address our lead indications, including:
+ 
+
+● | Type II diabetes: current standard of care treatments (though not necessarily focused on the root cause of the disease) include dieting and exercise programs to reduce weight, or pharmacological interventions with a wide array of medications, including: Metformin (Glucophage, Glumetza, or others); (DiaBeta, Glynase), glipizide (Glucotrol) and glimepiride (Amaryl); Meglitinides (repaglinide (Prandin) and nateglinide (Starlix)); Thiazolidinediones (rosiglitazone (Avandia) and pioglitazone (Actos)); DPP-4 (sitagliptin (Januvia), saxagliptin (Onglyza) and linagliptin (Tradjenta)); GLP-1 receptor agonists (exenatide (Byetta) and liraglutide (Victoza)); SGLT2 inhibitors (canagliflozin (Invokana) and dapagliflozin (Farxiga)); and insulin therapy (Insulin glulisine (Apidra), Insulin lispro (Humalog), Insulin asgpart (Novolog), Insulin glargine (Lantus), Insulin detemir (Levemir), Insulin isophane (Humulin N, Novolin N)). 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Vascular ischemiam, including myocardial ischemia: current standard of care treatments including dieting, lowered intake of cholesterol, daily aspirin as a blood thinner; pharmacological agents including but not limited to nitrates as vasodilators (nitroglycerin sublingual tablet (Nitrostat), nitroglycerin transdermal ointment (Nitro-Bid), and isosorbide mononitrate and dinitrate (Isordil, Isordil Titradose, Dilatrate-SR)); beta blockers (atenolol (Tenormin), metoprolol (Lopressor, Toprol XL), and nadolol (Corgard)); calcium channel blockers (amlodipine (Norvasc), amlodipine and atorvastatin (Caduet), amlodipine and benazepril (Lotrel), diltiazem (Cardizem), felodipine (Cardene, Cardene SR), and verapamil (Calan); cholesterol-lowering medications such as statins atorvastatin (Lipitor), rosuvastatin (Crestor), and simvastatin (Zocor); Angiotensin-converting enzyme (ACE) inhibitors (Ranolazine (Ranexa), benazepril (Lotensin), and lisinopril (Prinivil, Zestril, Qbrelis); and surgical procedures to increase circulation including but not limited to angioplasty and stenting, coronary artery bypass surgery, and enhanced external counterpulsation. 
+● | Scarless tissue regeneration, including scarless dermal wound repair: current standard of care including but not limited to sterile dressings, over-the-counter agents such as Astragaloside IV and curcumin; biomaterials including hyaluronic acid (Seprafilm, Durolane, Euflexxa, Gel-One, GelSyn-3, GenVisc 850, Hyalgan, Hyalgan L/L, Hymovis, Monovisc, Orthovisc, Supartz FX, and Visco-3); and bioengineered skin substitutes such as Apligraf. 
+
+ 
+Many of our competitors have greater financial, collaborative, technical, regulatory, and human resources as well as products more advanced in development than our product pipeline, including products already marketed for our target indications. As a result, these competitors may have great success in obtaining regulatory approvals, reimbursement, or market acceptance. Our competitors, may have greater success in attracting qualified personnel, recruiting clinical trial sites, or in establishing strategic partnerships with larger pharmaceutical companies to fund large late-stage clinical trials or product marketing. In addition, our future business could be limited should our competitors commercialize products demonstrated to be more effective, safer, or less expensive than our comparable products.
+ 
+Government Regulation and Product Approval
+ 
+Government authorities at the federal, state, and local level, and in other countries, extensively regulate among other things, the development, testing, manufacture, quality, approval, safety, efficacy, distribution, labeling, packaging, storage, record keeping, marketing, import/export, and promotion of drugs, biologics, and medical devices. Authorities also heavily regulate many of these activities for human cells, tissues, and cellular and tissue-based products (“HCT/Ps”).
+ 
+FDA and Foreign Regulation of Therapeutic Products
+ 
+The FDA and foreign regulatory authorities will regulate our proposed products as drugs, biologicals, or medical devices, depending upon such factors as: the use to which the product will be put, the chemical composition of the product, and the interaction of the product with the human body. In the United States, the FDA regulates drugs and biologicals under the Federal Food, Drug and Cosmetic Act (“FDCA”), the Public Health Service Act (“PHSA”), and implementing regulations. In addition, establishments that manufacture human cells, tissues, and cellular and tissue-based products are subject to additional registration and listing requirements, including current good tissue practice regulations. To the extent AgeX develops cellular and tissue-based products or therapies, its products will be subject to review by the FDA staff in its Center for Biologics Evaluation and Research (“CBER”) Office of Cellular, Tissue, and Gene Therapies. In some instances, AgeX’s clinical study protocol for a cell therapy product must be reviewed by the National Institute of Health through its Recombinant DNA Advisory Committee.
+ 
+
+20
+--
+
+
+Any human drug and biological products that we may develop for testing, marketing, or use in the United States will be subject to rigorous FDA review and approval procedures. After testing in animals to evaluate the potential efficacy and safety of the product candidate, an investigational new drug (“IND”) submission must be made to the FDA to obtain authorization for human testing. Extensive clinical testing, which is generally done in three phases, must then be undertaken at a hospital or medical center to demonstrate optimal use, safety, and efficacy of each product in humans. Each clinical study is conducted under the auspices of an independent Institutional Review Board (“IRB”). The IRB will consider, among other things, ethical factors, the safety of human subjects, and the possible liability of the institution.
+ 
+Clinical trials are generally conducted in three “phases.” Phase I clinical trials are conducted in a small number of healthy volunteers or volunteers with the target disease or condition to assess safety. Phase II clinical trials are conducted with groups of patients afflicted with the target disease or condition in order to determine preliminary efficacy, optimal dosages and expanded evidence of safety. In some cases, an initial trial is conducted in diseased patients to assess both preliminary efficacy and preliminary safety, in which case it is referred to as a Phase I/II trial. Phase III trials are large-scale, multi-center, comparative trials and are conducted with patients afflicted with the target disease or condition in order to provide enough data to demonstrate the efficacy and safety required by the FDA. The FDA closely monitors the progress of each of the three phases of clinical testing and may, at its discretion, re-evaluate, alter, suspend, or terminate the clinical trial based upon the data which have been accumulated to that point and its assessment of the risk/benefit ratio to the intended patient population. All adverse events must be reported to the FDA. Monitoring of all aspects of the study to minimize risks is a continuing process. The time and expense required to perform this clinical testing can far exceed the time and expense of the research and development initially required to create the product.
+ 
+No action can be taken to market any therapeutic product in the U.S. until an appropriate New Drug Application (“NDA”) or Biologics License Application (“BLA”) has been approved by the FDA. Submission of the application is no guarantee that the FDA will find it complete and accept it for filing. If an application is accepted for filing, following the FDA’s review, the FDA may grant marketing approval, request additional information, or deny the application if it determines that the application does not provide an adequate basis for approval. FDA regulations also restrict the export of therapeutic products for clinical use prior to FDA approval. To date, the FDA has not granted marketing approval to any pluripotent stem-based therapeutic products and it is possible that the FDA or foreign regulatory agencies may subject our product candidates to additional or more stringent review than drugs or biologicals derived from other technologies.
+ 
+The FDA offers several programs to expedite development of products that treat serious or life-threatening illnesses and that provide meaningful therapeutic benefits to patients over existing treatments. A product may be eligible for breakthrough therapy designation if it treats a serious or life-threatening disease or condition and preliminary clinical evidence indicates it may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints. In 2017, FDA established a new regenerative medicine advanced therapy (“RMAT”) designation as part of its implementation of the 21st Century Cures Act. An RMAT is defined as a cell therapy, therapeutic tissue engineering product, human cell and tissue product, or any combination product using such therapies or products, with limited exceptions that is intended to treat, modify, reverse, or cure a serious or life-threatening disease or condition; and preliminary clinical evidence indicates that it has the potential to address unmet medical needs for such a disease or condition. RMAT designation provides potential benefits that include more frequent meetings with FDA to discuss the development plan for the product candidate and eligibility for rolling review and priority review. Products granted RMAT designation may also be eligible for accelerated approval on the basis of a surrogate or intermediate endpoint reasonably likely to predict long-term clinical benefit, or reliance upon data obtained from a meaningful number of sites, including through expansion to additional sites. Once approved, when appropriate, the FDA can permit fulfillment of post-approval requirements under accelerated approval through the submission of clinical evidence, clinical studies, patient registries, or other sources of real world evidence such as electronic health records; through the collection of larger confirmatory datasets; or through post-approval monitoring of all patients treated with the therapy prior to approval.
+ 
+Some of our future products may be eligible for RMAT designation. There is no assurance that the FDA will grant breakthrough therapy, accelerated approval or RMAT status to any of our product candidates.
+ 
+In addition to regulations in the United States, we are subject to a variety of foreign regulations governing clinical trials and commercial sales and distribution of our products. Whether or not we obtain FDA approval for a drug candidate, we must obtain approval by the comparable regulatory authorities of foreign countries or economic areas, such as the European Union, before we can commence clinical trials or market products in those countries or areas. The approval process and requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from place to place, and the time may be longer or shorter than that required for FDA approval.
+ 
+Combination Products
+ 
+If we develop any products that are used with medical devices, they may be considered combination products, which are defined by the FDA to include products comprised of two or more regulated components or parts such as a biologic and a device. For example, we may use HyStem® hydrogels to administer one or more pluripotent stem cell-based therapy products. When regulated independently, biologics and devices each have their own regulatory requirements. However, regulatory requirements for a combination product comprised of a biologic administered with a delivery device can be more complex, because in addition to the individual regulatory requirements for each component, additional combination product regulatory requirements may apply.
+
+21
+--
+
+510(k) Medical Devices & Notification
+ 
+Product marketing in the U.S. for most Class II and limited Class I devices typically follows a 510(k) pathway. To obtain 510(k) clearance, a manufacturer must submit a premarket notification demonstrating that the proposed device is substantially equivalent to a legally marketed device, referred to as the predicate device. A predicate device may be a previously 510(k) cleared device or a device that was in commercial distribution before May 28, 1976 for which the FDA has not yet called for submission of PMA applications, or a product classification created by FDA when it granted de novo authorization. The manufacturer must show that the proposed device has the same intended use as the predicate device, and it either has the same technological characteristics, or it is shown to be equally safe and effective and does not raise different questions of safety and effectiveness as compared to the predicate device.
+ 
+There are three types of 510(k)s: traditional; special, for devices that are modified and the modification needs a new 510(k) but the modification does not affect the intended use or alter the fundamental scientific technology of the device; and abbreviated, for devices that conform to a recognized standard. The special and abbreviated 510(k)s are intended to streamline review. The FDA intends to process special 510(k)s within 30 days of receipt and abbreviated 510(k)s within 90 days of receipt. Though statutorily required to clear a traditional 510(k) within 90 days of receipt, the clearance pathway for traditional 510(k)s can take substantially longer.
+ 
+After a device receives 510(k) clearance, any modification that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, requires a new 510(k) clearance or could require a PMA approval. The FDA requires each manufacturer to make this determination in the first instance, but the FDA can review any such decision. If the FDA disagrees with a manufacturer’s decision not to seek a new 510(k) clearance, the agency may retroactively require the manufacturer to seek 510(k) clearance or PMA approval. The FDA also can require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or PMA approval is obtained.
+ 
+Post-Approval Matters
+ 
+Even after initial FDA approval has been obtained, further studies may be required to provide additional data on safety or to gain approval for the use of a product as a treatment for clinical indications other than those initially targeted. Data resulting from these clinical trials may result in expansions or restrictions to the labeled indications for which a product has already been approved.
+ 
+FDA Regulation of Manufacturing
+ 
+The FDA regulates the manufacturing process of pharmaceutical products, human tissue and cell products, and medical devices, requiring that they be produced in compliance with cGMP. The FDA regulates and inspects equipment, facilities, laboratories, and processes used in the manufacturing and testing of products prior to providing approval to market products. If after receiving approval from the FDA, a material change is made to manufacturing equipment or to the location or manufacturing process, additional regulatory review may be required. The FDA also conducts regular, periodic visits to re-inspect the equipment, facilities, laboratories and processes of manufacturers following an initial approval. If, as a result of those inspections, the FDA determines that that equipment, facilities, laboratories or processes do not comply with applicable FDA regulations and conditions of product approval, the FDA may seek civil, criminal or administrative sanctions and/or remedies against the manufacturer, including suspension of manufacturing operations. Issues pertaining to manufacturing equipment, facilities or processes may also delay the approval of new products undergoing FDA review.
+ 
+Federal Funding of Research
+ 
+Effective July 7, 2009, the National Institutes of Health (“NIH”) adopted guidelines on the use of hES cells in federally funded research, consistent with President Obama’s Executive Order which rescinded President Bush’s Executive Orders that permitted federal funding of research on hES cells using only the limited number of hES cell lines. The central focus of the guidelines is to assure that hES cells used in federally funded research are derived from human embryos that were created for reproductive purposes, are no longer needed for this purpose, and are voluntarily donated for research purposes with the informed written consent of the donors. Those hES cells that were derived from embryos created for research purposes rather than reproductive purposes, and other hES cells that were not derived in compliance with the guidelines, are not eligible for use in federally funded research.
+
+22
+--
+
+California State Regulations
+ 
+The state of California has adopted legislation and regulations that require institutions that conduct stem cell research to notify, and in certain cases obtain approval from, a Stem Cell Research Oversight Committee (“SCRO Committee”) before conducting the research. Under certain California regulations, all hES cell lines that will be used in our research must be acceptably derived. California regulations further require certain records to be maintained with respect to stem cell research and the materials used. AgeX programs that involve the use of stem cells will be reviewed by a SCRO Committee to confirm compliance with federal and state guidelines. The hES cell lines that we use are all on the NIH registry of lines that have been reviewed and meet standards for federal funding grants.
+Health Insurance Portability and Accountability Act
+ 
+Under the Health Insurance Portability and Accountability Act (“HIPAA”), the Department of Health and Human Services (“HHS”) has issued regulations to protect the privacy and security of protected health information used or disclosed by health care providers. HIPAA also regulates standardization of data content, codes, and formats used in health care transactions and standardization of identifiers for health plans and providers. Penalties for violations of HIPAA regulations include civil and criminal penalties.
+ 
+The requirements under these regulations may periodically change and could have an effect on our business operations if compliance becomes substantially more costly than under current requirements. New laws governing privacy may also be adopted in the future. We can provide no assurance that we will remain in compliance with diverse privacy requirements in all of the jurisdictions in which we do business. Failure to comply with privacy requirements could result in civil or criminal penalties, which could have a materially adverse effect on our business.
+ 
+Federal and State Fraud and Abuse Laws
+ 
+We are also subject to various laws pertaining to healthcare “fraud and abuse,” including anti-kickback laws and false claims laws. Anti-kickback laws make it illegal to solicit, offer, receive or pay any remuneration in exchange for or to induce the referral of business, including the purchase or prescription of a particular drug that is reimbursed by a state or federal program. False claims laws prohibit knowingly and willingly presenting or causing to be presented for payment to third-party payers (including Medicare and Medicaid) any claims for reimbursed drugs or services that are false or fraudulent, claims for items or services not provided as claimed or claims for medically unnecessary items or services. Violations of fraud and abuse laws may be punishable by criminal and/or civil sanctions, including fines and civil monetary penalties, as well as by the possibility of exclusion from federal healthcare programs (including Medicare and Medicaid). Liability under the false claims laws may also arise when a violation of certain laws or regulations related to the underlying products (e.g., violations regarding improper promotional activity or unlawful payments) contributes to the submission of a false claim.
+ 
+Additionally, the U.S. Foreign Corrupt Practices Act (“FCPA”) prohibits U.S. corporations and their representatives from offering, promising, authorizing or making payments to any foreign government official, government staff member, political party or political candidate in an attempt to obtain or retain business abroad. The scope of the FCPA includes interactions with certain healthcare professionals in many countries. Other countries have enacted similar anti-corruption laws and/or regulations.
+ 
+Healthcare Reform
+ 
+In the United States and foreign jurisdictions, there have been a number of legislative and regulatory changes to the healthcare system that could affect our future results of operations. There have been and continue to be a number of initiatives at the United States federal and state levels that seek to reduce healthcare costs.
+ 
+In particular, the Affordable Care Act (“ACA”) has had, and is expected to continue to have, a significant impact on the healthcare industry. The ACA was designed to expand coverage for the uninsured while at the same time containing overall healthcare costs. Substantial new provisions affecting compliance have also been enacted, which may require us to modify our business practices with healthcare providers and entities, and a significant number of provisions are not yet, or have only recently become, effective.
+ 
+Since its enactment, there have been judicial and Congressional challenges to certain aspects of the ACA, as well as efforts by the current administration to repeal or replace certain aspects of the ACA. For example, since January 2017, the President has signed two Executive Orders and other directives designed to delay, circumvent, or loosen certain requirements mandated by the ACA. Concurrently, Congress has considered legislation that would repeal or repeal and replace all or part of the ACA. While Congress has not passed comprehensive repeal legislation, two bills affecting the implementation of certain taxes under the ACA were signed into law. The Tax Cuts and Jobs Act of 2017, or the Tax Act, includes a provision repealing, effective January 1, 2019, the tax-based shared responsibility payment imposed by the ACA on certain individuals who fail to maintain qualifying health coverage for all or part of a year that is commonly referred to as the “individual mandate.” Additionally, on January 22, 2018, the President signed a continuing resolution on appropriations for fiscal year 2018 that delayed the implementation of certain ACA-mandated fees, including the so-called “Cadillac” tax on certain high cost employer-sponsored insurance plans, the annual fee imposed on certain health insurance providers based on market share, and the medical device excise tax on non-exempt medical devices. Further, the Bipartisan Budget Act of 2018, or the BBA, among other things, amends the ACA, effective January 1, 2019, to close the coverage gap in most Medicare drug plans, commonly referred to as the “donut hole,” and increase from 50% to 70% the point-of-sale discount that is owed by pharmaceutical manufacturers who participate in the Medicare Part D program. There may be additional challenges and amendments to the ACA in the future. The ACA is likely to continue the downward pressure on pharmaceutical pricing and may also increase our regulatory burdens and operating costs.
+ 
+
+23
+--
+
+
+Further, there has been heightened government scrutiny over the manner in which manufacturers set prices for their marketed pharmaceutical products. Such scrutiny has resulted in several recent Congressional inquiries and proposed and enacted federal and state legislation designed to, among other things, bring more transparency to pharmaceutical product pricing, review the relationship between pricing and manufacturer patient programs, and reform government program reimbursement methodologies for products. At the federal level, the current administration’s budget proposal for fiscal year 2019 contains further drug price control measures that could be enacted during the 2019 budget process or in other future legislation, including, for example, measures to permit Medicare Part D plans to negotiate the price of certain drugs under Medicare Part B, to allow some states to negotiate drug prices under Medicaid, and to eliminate cost sharing for generic drugs for low-income patients. Additionally, on May 11, 2018, President Trump laid out his administration’s “Blueprint to Lower Drug Prices and Reduce Out-of-Pocket Costs” to reduce the cost of prescription drugs while preserving innovation and cures. The Department of Health and Human Services has already started the process of soliciting feedback on some of these measures and, at the same, is immediately implementing others under its existing authority. Although some of these and other proposals will require authorization through additional legislation to become effective, Congress and the Trump administration have each indicated that it will continue to seek new legislative and/or administrative measures to control drug costs. At the state level, legislatures have become increasingly aggressive in passing legislation and implementing regulations designed to control pharmaceutical and biological product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing.
+ 
+It is uncertain whether and how future legislation, whether domestic or foreign, could affect prospects for our product candidates or what actions foreign, federal, state, or private payors for health care treatment and services may take in response to any such health care reform proposals or legislation. Adoption of price controls and other cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures reforms may prevent or limit our ability to generate revenue, attain profitability or commercialize our product candidates.
+ 
+Moreover, the Drug Supply Chain Security Act imposes new obligations on manufacturers of pharmaceutical products, among others, related to product tracking and tracing, which is being phased in over several years beginning in 2015. Among the requirements of this new legislation, manufacturers will be required to provide certain information regarding the drug product to individuals and entities to which product ownership is transferred, label drug product with a product identifier, and keep certain records regarding the drug product. The transfer of information to subsequent product owners by manufacturers will eventually be required to be done electronically. Manufacturers will also be required to verify that purchasers of the manufacturers’ products are appropriately licensed. Further, under this new legislation, manufacturers will have drug product investigation, quarantine, disposition, and notification responsibilities related to counterfeit, diverted, stolen, and intentionally adulterated products, as well as products that are the subject of fraudulent transactions or which are otherwise unfit for distribution such that they would be reasonably likely to result in serious health consequences or death.
+ 
+Reimbursement
+ 
+Medicare, Medicaid, and Third-Party Reimbursement Programs
+ 
+Sales of the therapeutic products and medical devices that we and our subsidiaries may develop will depend, in part, on the extent to which the costs of those products will be covered by third-party payors, such as government health programs, commercial insurance, and managed healthcare organizations.
+ 
+The containment of healthcare costs has become a priority of federal and state governments and the prices of drugs have been a focus in this effort. In the United States, the federal and many state governments have adopted or proposed initiatives relating to Medicaid and other health programs that may limit reimbursement or increase rebates that providers are required to pay to the state. In addition to government regulation, managed care organizations in the United States, which include medical insurance companies, medical plan administrators, health-maintenance organizations, hospital and physician alliances and pharmacy benefit managers, continue to put pressure on the price and usage of healthcare products. Managed care organizations and third-party payers seek to contain healthcare expenditures, and their purchasing strength has been increasing due to their consolidation into fewer, larger organizations and a growing number of enrolled patients. Adoption of price controls, cost-containment measures, and more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. If third-party payors do not consider the products we develop to be cost-effective compared to other therapies, they may not cover our products as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our products on a profitable basis.
+ 
+
+24
+--
+
+
+Efforts by government agencies and state legislatures in the United States could affect us and our industry. The ACA increased many of the mandatory discounts and rebates and imposed a new Branded Prescription Pharmaceutical Manufacturers and Importers fee payable by manufacturers. The new U.S. presidential administration has identified repealing and replacing the ACA as a priority. The timing and method of the full or partial repeal or amendment of the ACA or the adoption of new healthcare legislation remains uncertain, but impending changes will likely impact the number of patient lives covered, the quality of the insurance, Medicaid eligibility and the level of patient protections provided.
+ 
+Other legislative and regulatory actions that would have a significant impact include: changes to how the Medicare program covers and reimburses current and future drugs, changes in the Federal payment rate or new rebate requirements for covered drugs and policies for payment in Medicare or Medicaid; and changes to coverage and payment for biosimilars, including the current Medicare biosimilar coverage and payment policies intended to encourage biosimilar adoption, or other policies that provide easier substitution or reimbursement advantages.
+ 
+We face similar issues outside of the United States. In some non-U.S. jurisdictions, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the EU provides options for its member states to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. A member state may approve a specific price for aa medicinal product, or it may instead adopt a system of direct or indirect controls on the profitability of placing a medicinal product on the market. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will allow favorable reimbursement and pricing arrangements for any of our products. Historically, products launched in the EU do not follow price structures of the United States and generally tend to be significantly lower.
+ 
+Employees
+ 
+As of December 31, 2018, we employed 12 persons on a full-time basis, of which seven employees hold Ph.D.’s in one or more fields of science.
+ 
+
+25
+--
+

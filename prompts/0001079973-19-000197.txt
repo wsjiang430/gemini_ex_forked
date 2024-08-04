@@ -1,0 +1,280 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+Blockchain and Digital Currencies Generally
+ 
+Distributed blockchain technology is a decentralized and encrypted ledger that is designed to offer a secure, efficient, verifiable, and permanent way of storing records and other information without the need for intermediaries. Digital currencies serve multiple purposes. They can serve as a medium of exchange, store of value or unit of account. Examples of digital currencies include: bitcoin, bitcoin cash, and litecoin.  Blockchain technologies are being evaluated for a multitude of industries due to the belief in their ability to have a significant impact in many areas of business, finance, information management, and governance.
+ 
+Digital currencies are decentralized digital currencies that enable near instantaneous transfers. Transactions occur via an open source, cryptographic protocol platform which uses peer-to-peer technology to operate with no central authority. The network is an online, peer-to-peer network that hosts the public transaction ledger, known as the blockchain, and each digital currency is associated with a source code that comprises the basis for the cryptographic and algorithmic protocols governing the blockchain. In a digital currency network, every peer has its own copy of the blockchain, which contains records of every historical transaction - effectively containing records of all account balances. Each account is identified solely by its unique public key (making it effectively anonymous) and is secured with its associated private key (kept secret, like a password). The combination of private and public cryptographic keys constitutes a secure digital identity in the form of a digital signature, providing strong control of ownership.
+ 
+No single entity owns or operates the network. The infrastructure is collectively maintained by a decentralized public user base. As the network is decentralized, it does not rely on either governmental authorities or financial institutions to create, transmit or determine the value of the currency units. Rather, the value is determined by market factors, supply and demand for the units, the prices being set in transfers by mutual agreement or barter among transacting parties, as well as the number of merchants that may accept the digital currency. Since transfers do not require involvement of intermediaries or third parties, there are currently little to no transaction costs in direct peer-to-peer transactions. Units of digital currency can be converted to fiat currencies, such as the US dollar, at rates determined on various exchanges, such as Coinsquare in Canada, Coinbase, Bitsquare, Bitstamp, and others. Digital currency prices are quoted on various exchanges and fluctuate with extreme volatility.
+ 
+We believe digital currencies offer many advantages over traditional, fiat currencies, although many of these factors also present potential disadvantages and may introduce additional risks, including:
+ 
+
+· | Acting as a fraud deterrent, as digital currencies are digital and cannot be counterfeited or reversed arbitrarily by a sender;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Immediate settlement;
+--+----------------------
+
+
+· | Elimination of counterparty risk;
+--+----------------------------------
+
+
+· | No trusted intermediary required;
+--+----------------------------------
+
+
+· | Lower fees;
+--+------------
+
+
+· | Identity theft prevention;
+--+---------------------------
+
+
+· | Accessible by everyone;
+--+------------------------
+
+
+· | Transactions are verified and protected through a confirmation process, which prevents the problem of double spending;
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+· | Decentralized – no central authority (government or financial institution); and
+--+--------------------------------------------------------------------------------
+
+
+· | Recognized universally and not bound by government imposed or market exchange rates.
+--+-------------------------------------------------------------------------------------
+
+ 
+However, digital currencies may not provide all of the benefits they purport to offer at all or at any time.
+ 
+Bitcoin was first introduced in 2008 and was first introduced as a means of exchange in 2009. Bitcoin is a consensus network that enables a new payment system and a completely new form of digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, we believe bitcoin can be viewed as cash for the Internet. The bitcoin network shares a public ledger called the “blockchain”. This ledger contains every transaction ever processed, allowing a user's computer to verify the validity of each transaction. The authenticity of each transaction is protected by digital signatures corresponding to the sending addresses, allowing all users to have full control over sending bitcoins currency rewards from their own bitcoin addresses. In addition, anyone can process transactions using the computing power of specialized hardware and earn a reward in bitcoins for this service. This process is often called “mining.”
+ 
+ 4
+ 
+
+As with many new and emerging technologies, there are potentially significant risks.  Businesses (including the Company) which are seeking to develop, promote, adopt, transact or rely upon blockchain technologies and digital currencies have a limited track record and operate within an untested new environment.  These risks are not only related to the businesses the Company pursues, but the sector and industry as a whole, as well as the entirety of the concept behind blockchain and digital currency as value.  Factors such as access to computer processing capacity, interconnectivity, electricity cost, environmental factors (such as cooling capacity) and location play an important role in “mining,” which is the term for using the specialized computers in connection with the blockchain for the creation of new units of digital currency.
+ 
+Riot’s Business
+
+
+The Company, since late 2017, has directed its efforts towards blockchain and digital currency businesses.  Specifically, the Company has entered into businesses involving digital currencies and intends to consider entering and evolving businesses related to these types of digital currencies.  This strategy represents a departure from the Company's historical mission following several failed efforts to obtain regulatory approval for new medical devices and the manufacture and distribution of specialized medical equipment.   The Company experienced large accumulated losses from those efforts and determined to control expenses and seek to curtail ongoing losses expected from those efforts. These historical human life sciences businesses, excluding the animal health business, have been shuttered following the adoption of the Company’s strategic plan to shift to blockchain and digital currency business.
+Blockchain and Digital Currency Mining.
+ 
+The Company has built a digital currency mining operation, operating specialized computers (also known as “miners”) that generate digital currency (primarily bitcoin).  As of December 31, 2017, the Company owned 1,200 miners acquired as a result of the business combination with Kairos Global Technology, Inc. (“Kairos”) in November 2017. During February 2018, in two separate transactions the Company acquired an additional 6,800 miners bringing the total miners owned to 8,000.  During February 2018, Kairos entered into a lease agreement for an approximately 107,000-square foot facility in Oklahoma City, Oklahoma, which included data center improvements. Upon the execution of the facility lease the Company began consolidating all of its miners at the data center facility.  As of December 31, 2018, approximately 7,731 of the miners were operating.
+ 
+ The Company utilizes specialized miners manufactured by Bitmain. Many of these miners were in short supply and the cost of acquisition of miners especially in large quantities, when available, varied widely.  The Company acquired all of its miners from related and unrelated third parties, and certain of the acquisitions included deployment work such as access to operating facilities, support, and related equipment for which the Company paid a premium over the listed retail cost from the manufacturers. It was expected that this miner supply shortage condition would continue and that in order to continue to grow, the Company would need to continue to source mining equipment that may become available from third parties. 
+ 
+Further affecting the industry, and particularly for the bitcoin blockchain, the digital currency reward for solving a block is subject to incremental halving. Halving is a process designed to control the overall supply and reduce the risk of inflation in cryptocurrencies using a Proof-of-Work consensus algorithm. At a predetermined block, the mining reward is cut in half, hence the term “halving”. For bitcoin, the reward was initially set at 50 bitcoin currency rewards per block and this was cut in half to 25 in November 28, 2012 at block 210,000 and again to 12.5 on July 9, 2016 at block 420,000. The next halving for bitcoin is expected in May 2020 at block 630,000 when the reward will reduce to 6.25. This process will reoccur until the total amount of bitcoin currency rewards issued reaches 21 million, which is expected around 2140. Similarly, litecoin first halved on August 25, 2015 at block 840,000 from 50 to 25. It is expected to halve a second time in August 2019 at block 1,680,000 to 12.5.  Historically, these events have resulted in subsequent increases in the price of the respective cryptocurrency. However, many factors influence the price of Bitcoin currency rewards and Litecoin currency rewards and a potential increase or decrease in price  following a future halving is unknown.
+
+
+Mining Pools
+  
+A “mining pool” is the pooling of resources by miners, who share their processing power over a network and split rewards according to the amount of work they contributed to the probability of placing a block on the blockchain. Mining pools emerged in response to the growing difficulty and available hashing power that competes to place a block on the bitcoin blockchain.
+ 
+The Company participates in mining pools wherein groups of miners associate to pool resources and earn digital currency together allocated to each miner according to the “hashing” capacity they contribute to the pool.  As it relates to bitcoin, the hash rate is the speed at which a computer is completing an operation in the bitcoin code, and hashing capacity would be a miner's total output.  A higher hash rate increases the opportunity of solving the next block and receiving the mining reward. As additional miners competed for the limited supply of blocks, individuals found that they were working for months without finding a block and receiving any reward for their mining efforts.  To address this variance, miners started organizing into pools to share mining rewards more evenly on a pro rata basis based on total hashing capacity contributed to the mining pool.
+
+
+The mining pool operator provides a service that coordinates the computing power of the independent mining enterprise. Fees are paid to the mining pool operator to cover the costs of maintaining the pool.  The pool uses software that coordinates the pool members’ hashing power, identifies new block rewards, records how much work all the participants are doing, and assigns block rewards for successful algorithm solutions in-proportion to the individual hash rate that each participant contributed to a given successful mining transaction.  While we do not pay pool fees directly, pool fees are deducted from amounts we may otherwise earn. Fees (and payouts) fluctuate and historically have been approximately 2% on average.
+ 
+Mining pools are subject to various risks such as disruption and down time.  Riot has internally created software that monitors its pool performance and reward rates to monitor credits for our contributed hashing power.  In the event that a pool experiences down time or not yielding returns, our results may be impacted.
+ 
+
+ 5
+ 
+Other Activities
+ 
+ In addition to mining, we are seeking to pursue our diversified blockchain and digital currency focused strategy, in part through targeted investments in, and acquisitions of, businesses and assets within the blockchain ecosystem. As of December 31, 2018, we owned approximately 12.1% of goNumerical Ltd., (d/b/a “Coinsquare”) which operates a leading Canadian exchange for purchasing and selling digital currencies.  We also invested $200,000 in the form of a convertible note issued by Verady, LLC (“Verady”). Verady is seeking to provide accounting, audit and verification services for blockchain based assets such as digital currencies.  We also own greater than 50% of Tess Inc., (“Tess”) which is developing TessPay and other blockchain solutions for telecommunications companies. TessPay is a payments ecosystem for component and sub-component supply chain settlements (payments). In 2017 Tess announced that it had signed an agreement with Cresval Capital Corp, a Canadian company (“Cresval”) and in February 2019, Cresval announced the termination of that plan of merger. During 2019 Tess has curtailed certain activities as a result of cash flow shortages. During the year ended December 31, 2018, we formed Digital Green Energy Corp., a wholly owned subsidiary, which sought to identify environmentally friendly projects with large energy capacity and a cost-effective rate for energy for digital currency mining operations and data center projects. Due to regulatory changes in the target region as well as the decline in the price of various digital currencies, we have suspended work at this subsidiary. Digital Green Energy’s operations during 2018 were not significant. 
+Logical Brokerage Corp
+ 
+ On March 27, 2018 we acquired 92.5% of Logical Brokerage Corp. (“Logical Brokerage” or “LBC”) for a $600,000 cash payment. Logical Brokerage is registered with the Commodity Futures Trading Commission (“CFTC”) as an introducing broker and a member of the National Futures Association (“NFA”).  Logical Brokerage intends in the future to do business under the name RIOTX. The Company believes that Logical Brokerage will allow the Company to investigate the establishment of a futures brokerage operation and a U.S. digital currency exchange operating lawfully in several states, and a futures brokerage operation, although there can be no assurance the Company will be successful. Neither the CFTC nor the NFA regulate spot-market digital currency exchanges or activity, although the CFTC's jurisdiction is implicated when there is fraud or manipulation involving a virtual currency traded in interstate commerce.
+ 
+On June 6, 2018, the U.S. Securities and Exchange Commission (“SEC”) Chairman Jay Clayton stated in a press interview that “bitcoin” is not a security.  This statement was closely followed by William Hinman, Director of the Division of Corporation Finance, who issued a statement on June 14, 2018 that “ethereum” is also not a security.  In light of similarities, we believe that the SEC may evaluate bitcoin cash and litecoin and may similarly conclude these digital currencies are not securities.  At the present time, Logical Brokerage is in the planning and development stage. Its plan of operation is not complete as it is pursuing required regulatory authorization to perform exchange-type functions for digital currency assets.  However, the Company plans to initially consider serving as an exchange for bitcoin and ethereum which as noted, the SEC has stated do not meet the United States Supreme Court Howey-test definition of security at this time.  If the SEC takes a similar position for them, the Company will consider evaluating the inclusion of bitcoin cash and litecoin as part of its planned exchange.  Any future activities will necessarily need to be evaluated on a case by case basis as criteria are developed to evaluate digital currency assets seeking to utilize the platform and client certification processes.
+ 
+The Company primarily mines bitcoin, and litecoin, and may at times mine bitcoin cash. At the present time the inclusion of additional digital currency assets have not been addressed by the Company and when addressed will be the subject of review which would include evaluating whether additional digital currency assets that seek to be registered for sale on the exchange would be permitted, whether activities will require further licensing or regulation by Logical Brokerage, and future interpretations by regulators in order to comply with applicable rules and regulation in effect from time to time.
+
+
+Business Profile and Risks
+ 
+The decision to pursue blockchain and digital currency businesses exposes the Company to risks associated with a new and untested strategic direction.  The prices of digital currencies have experienced substantial volatility in recent periods which may reflect “bubble” type volatility, meaning that high or low prices may have little or no merit, may be subject to rapidly changing investor sentiment, and may be influenced by factors such as technology, regulatory void or changes, fraudulent actors, manipulation, and media reporting.  The results of the Company's mining operations in generating and reporting revenues from its mining operations are reported under the fair value method of accounting under present accounting rules. The nature of its affairs may require it to become registered as an investment company, if the digital currency we own, acquire or mine were to be deemed an investment security by the SEC, although we do not believe any of the digital currencies we own, acquire or mine are securities.  We do not believe that we are engaged in the business of investing, reinvesting, or trading in securities, and we do not hold ourselves out as being engaged in those activities. As of December 31, 2018, we do not believe we are an inadvertent investment company, however resolution of pending comments received from the SEC have not been concluded and this issue has not been resolved by SEC rules or regulations. For us, any grace period would be unknown until these issues are resolved or the SEC issues rules and regulations concerning digital currency treatment. If so required, we may take actions to cause the investment securities held by us to be less than 40% of our total assets, which may include acquiring assets with our cash and digital currency on hand or liquidating our investment securities or digital currency.
+ 
+
+ 6
+ 
+Competition
+ 
+In digital currency mining, companies, individuals and groups generate units of digital currency through mining. Miners can range from individual enthusiasts to professional mining operations with dedicated data centers.  Miners may organize themselves in mining pools. The Company competes or may in the future compete with other companies that focus all or a portion of their activities on owning or operating digital currency exchanges, developing programming for the blockchain, and mining activities.  At present, the information concerning the activities of these enterprises is not readily available as the vast majority of the participants in this sector do not publish information publicly or the information may be unreliable.  Published sources of information include “bitcoin.org” and “blockchain.info”; however, the reliability of that information cannot be assured.
+Competition Generally
+ 
+Several public companies, such as the following, may be considered to compete with us, although we believe there is no company, including the following, which engages in the same scope of activities as we do.
+
+· | Overstock.com Inc.
+--+-------------------
+
+
+· | Bitcoin Investment Trust
+--+-------------------------
+
+
+· | Bitfarms Technologies Ltd. (formerly Blockchain Mining Ltd)
+--+------------------------------------------------------------
+
+
+· | DMG Blockchain Solutions Inc.
+--+------------------------------
+
+
+· | Hashchain Technology Inc.
+--+--------------------------
+
+
+· | Hive Blockchain Technologies Inc.
+--+----------------------------------
+
+
+· | Hut 8 Mining Corp.
+--+-------------------
+
+
+· | MGT Capital Investments, Inc.
+--+------------------------------
+
+Logical Brokerage / RiotX Competition
+ 
+We believe there are several companies operating digital currency exchange operations in the United States that will be competitors to Logical Brokerage / RiotX and more potential competitors are expected to emerge.  Little information is known about these companies as they are privately owned and reliable information about their size and operations is not known and not readily available.  The current known competitors include:
+
+Ø | Gemini
+--+-------
+
+
+Ø | Coinbase 
+--+-----------
+Ø | Coinsquare
+
+
+Ø | Itbit
+--+------
+
+
+Ø | Kraken
+--+-------
+
+
+Ø | Poloniex / Circle
+--+------------------
+
+
+Ø | Bittrex
+--+--------
+
+
+Ø | Bitstamp
+--+---------
+
+
+Ø | Binance
+--+--------
+
+
+Ø | Houbi
+--+------
+
+ 
+Of the competitors listed above, we believe Overstock.com is among the best known, and traditionally has been known for its status as an e-retailer.  Overstock.com has been investing in blockchain and digital currency startups for several years through Medici Ventures, its wholly-owned subsidiary according to public reports by Overstock.com. Medici has more than a dozen portfolio companies, including tZero. tZero is a wholly-owned subsidiary of Overstock.com that focuses on the development and commercialization of financial technology (also known as “fintech”) with blockchain technology. On April 8, 2018 tZero, the blockchain subsidiary of Overstock.com, announced the release of a demo version of the prototype of its security token trading software which demonstrates how security tokens may be traded on the platform.  tZero’s trading platform has been developed to compete with traditional stock exchanges by integrating cryptographically-secured distributed ledgers with existing market processes to reduce settlement time and costs, and increase transparency and efficiency. tZero launched in early 2019.
+ 
+ 7
+ 
+Products and Services
+ 
+Digital Currency Mining – Riot operates a digital currency mining facility for the sole purpose of mining digital currencies (primarily bitcoin, and to a much lesser degree litecoin and bitcoin cash). In the future, Riot may also consider leveraging our expertise to offer managed services for other mining sites.  We do not offer outside parties the ability to purchase cloud mining “as a service” or hosted mining services.  Our facility and mining platform are operating with the primary intent of accumulating bitcoin and other digital currencies which we sell for fiat currency from time to time. Our mining operation in Oklahoma hosts about 8,000 ASIC miners which have access to approximately 12 megawatts of power supplied to our leased facility.  The estimated hashing rate generated from our mining operation may be expected to be over 101 petahash per second (“PH/s”) at full deployment.  This is an estimate only and actual outputs of the mine is subject to changes in the difficulty rates associated with the bitcoin network and other conditions that impact our mining output.
+ 
+Digital Currency Exchange – Riot may offer exchange services intended for use by retail and institutional investors in the future.  Riot is actively investigating the launch of an exchange that would provide secure and regulatory compliant access to services which exchange digital currencies like bitcoin and Ethereum for cash. This exchange may pursue offering additional investment products in the future, such as futures and securitized token trading.  Any availability of these offerings would be determined based on regulatory requirements and guidance and market conditions.
+ 
+Logical Brokerage / RiotX as a Digital Currency Exchange
+ 
+RiotX Holdings, Inc. has recently been formed by Riot, as the parent company of Logical Brokerage (“LBC”). LBC is presently registered as an Introducing Broker with the NFA and CFTC (NFA#0458756).  LBC has no customers and has done no business since it was acquired on March 23, 2018.  LBC and RiotX are investigating the launch of a licensed digital currency exchange in the United States focused on retail clients. LBC and RiotX intend to offer retail clients the opportunity to safely buy and sell a variety of digital currencies. These may initially consist of bitcoin and ethereum, and possibly others in the future and in any case, Riot will evaluate such digital currency on a case-by-case basis prior to inclusion on its planned exchange, subject to regulatory approval and state licensing.
+ 
+LBC may offer futures trading to qualified customers in the future, but presently has no plans to do so.  LBC presently has no plans to offer securitized token trading or participate in initial coin offerings in any way.
+ 
+LBC intends to investigate to obtain proper licensing and suitability to be able to serve customers in all states except Wyoming and Hawaii. LBC intends to use vetted and licensed third-party companies for several features, including the latest identification and geo-location technology to ensure trading is limited to participants from states in which the Company may offer its services.
+ 
+LBC has registered with FinCEN as a Money Service Business (“MSB”), MSB# 31000125058756, and has received Money Transmitter Licenses for the State of Florida, License Number FT230000224, from which operations would be based, and the State of Georgia, License Number 63844.
+ 
+Performance Metrics – Hashing
+ 
+Riot operates mining hardware which performs computational operations in support of the blockchain measured in ”hash rate“ or ”hashes per second”.  The original equipment used for mining bitcoin utilized the Central Processing Unit (CPU) of a computer to mine various forms of digital currency.  Due to performance limitations, CPU mining was rapidly replaced by the Graphics Processing Unit (GPU), which offers significant performance advantages over CPUs.  General purpose chipsets like CPUs and GPUs have since been replaced in the mining industry by Application Specific Integrated Circuits (ASIC) chips like those found in the Bitmain Antminer S9.  These ASIC chips are designed specifically to maximize the rate of hashing operations. The latest equipment utilized in Riot's mining operations performs approximately 13.5 - 14 terahash per second (TH/s) per unit.  This mining hardware is competitive in the current mining environment, however advances and improvements to the technology are ongoing and may be available in quantities to the market in the near future. Riot measures our mining performance and competitive position based on overall hash rate being produced in our mining sites.  We believe that our current inventory of Antminer S9 equipment establishes us as being amongst the top public companies in the United States mining digital currency.
+ 
+
+ 8
+ 
+Government Regulation
+ 
+ Government Regulation of blockchain and digital currency is largely non-existent at present and is being actively considered by the United States federal government via a number of agencies (SEC, the U.S. Commodities Future Trading Commission (“CFTC”), Federal Trade Commission (“FTC”), and the Financial Crimes Enforcement Network (“FinCEN”) of the U.S. Department of the Treasury) and in other countries. State government regulations also may apply to certain activities such as digital currency exchanges (bitlicense, banking, and money transmission regulations) and other activities in which we participate or may participate in the future.  Other regulatory bodies are governmental or semi-governmental and have shown an interest in regulating or investigating companies engaged in the blockchain or digital currency business (NASDAQ, NYSE, FINRA, state securities commissions).  We have received numerous questions through comment letters about our business from the SEC and have sought to respond to all SEC questions, although until satisfactorily resolved, open comments may delay or prevent registration of our securities under the Securities Act of 1933, as amended (the “Securities Act”) and may require amendment of our filings.  We have received several information requests from NASDAQ and believe we have responded to all such requests, although further requests may be made in the future.
+ 
+Blockchain and digital currency regulations are in a nascent state with agencies investigating businesses and their practices, gathering information, and generally trying to understand the risks and uncertainties in order to protect investors in these businesses and in digital currencies generally.  Regulations will certainly increase, in many cases, although it is presently not possible to know how they will increase, how regulations will apply to our businesses, or when they will be effective.  Various bills have also been proposed in congress for adoption related to our business which may be adopted and have an impact on us.  The offer and sale of digital currency assets in initial coin offerings, which is not an activity we expect to pursue, has been a central focus of recent regulatory inquiries.  However, as the regulatory and legal environment evolves, we may become subject to new laws, further regulation by the SEC and other agencies, which may affect our mining and other activities.  For instance, our mining may become subject to regulation under the Securities Act and/or the Investment Company Act of 1940 (the “Investment Company Act”), if the SEC takes the position that our mining of digital currencies constitutes the holding of securities or investment securities, as such terms are understood under such acts.  See the Section entitled “Risk Factors” herein.
+
+
+Government Regulation Relating to the Activities of Logical Brokerage
+ 
+Exchanges for securities must be registered as a national securities exchange or must be exempt from such registration requirement (e.g., registered broker-dealers operating as alternative trading systems).  As a result, we do not currently intend for our planned digital currency exchange operations through our Logical Brokerage subsidiary to allow trading in digital currencies (including digital currencies issued in Initial Coin Offerings, commonly known as “ICO”s) that may be classified as securities.  Rather, we anticipate that such operations would, at least initially, facilitate the exchange of digital currencies like bitcoin and ethereum. Consistent with recent statements of SEC senior staff members, we do not believe that such digital currencies are securities. This sentiment is echoed in Notice 2014-21 published by the Internal Revenue Service (“IRS”) on March 23, 2018 which calls for digital currency to be treated as personal property for U.S. federal tax purposes.  However, if regulatory changes or interpretations were to require the regulation of bitcoin or other digital  currencies as securities under the U.S. securities laws or if the SEC were to otherwise take the position that digital currencies may only trade on or are otherwise subject to the rules of a national securities exchange unless exempt from such requirements, the required registrations and regulatory compliance steps could result in extraordinary expenses or burdens to us or potentially require us to discontinue (or cease pursuing) digital currency exchange operations, which would have an adverse effect on our plans and our business or operations.
+ 
+Logical Brokerage is a CFTC-registered introducing broker and is subject to oversight by the CFTC and the NFA.  The CFTC and NFA do not have functional oversight over digital currency exchanges, but the CFTC has authority to bring enforcement actions arising from perceived fraud and/or manipulation.  As a result, we must comply with CFTC and NFA requirements applicable to introducing brokers, including complying with anti-money laundering requirements.
+ 
+LOGICAL BROKERAGE CORP. IS A MEMBER OF NFA AND IS SUBJECT TO NFA'S REGULATORY OVERSIGHT AND EXAMINATIONS. HOWEVER, YOU SHOULD BE AWARE THAT NFA DOES NOT HAVE REGULATORY OVERSIGHT AUTHORITY OVER UNDERLYING OR SPOT VIRTUAL CURRENCY PRODUCTS OR TRANSACTIONS OR VIRTUAL CURRENCY EXCHANGES, CUSTODIANS OR MARKETS.
+ 
+Because Logical Brokerage’s proposed activities will likely constitute an MSB under regulations promulgated by the FinCEN under the authority of the Bank Secrecy Act, Logical Brokerage has registered with FinCEN as an MSB, is instituting an anti-money laundering program, and is adopting policies and procedures requiring it to make certain reports to FinCEN and maintain certain records. Logical Brokerage Corp (LBC) is presently registered as an Introducing Broker with the NFA and CFTC, NFA#0458756, an MSB # 31000125058756 and Money Transmitter Licenses for the State of Florida, # FT230000224, and the State of Georgia, #63844.
+ 
+Further, Logical Brokerage’s proposed activities will constitute “money transmitter” activities or be otherwise regulated (e.g., by New York under its so-called “Bitlicense” regime) under one or more state laws. As a result, Logical Brokerage is seeking appropriate licenses or otherwise register with appropriate state regulators and will comply with state regulations which include the implementation of anti-money laundering programs, cyber security, consumer protection, financial and reporting requirements, and maintenance of certain records and other operational requirements. Without a required money transmitter license, we could not engage in money transmitter activities with persons residing in the relevant state (or from such state), or engage in other activities (e.g., custody) requiring another license such as a Bitlicense. Logical Brokerage has already commenced applying for appropriate licenses in Florida and will continue to evaluate or seek to obtain state money transmitter licenses, as necessary, on a state by state basis. In addition, it is possible that other regulations may apply to our currency exchange operations, such as consumer protection laws, however we have not evaluated the impact or requirements of such other laws currently, as we are focused initially on compliance requirements of the various laws described above.  Our inability to comply with any rules or regulations or federal or state laws applicable to our planned Logical Brokerage activities, or decision to discontinue to pursue or inability to continue such activities once commenced, would have a material adverse effect on our business and operations.
+ 
+ 9
+ 
+
+Intellectual Property
+ 
+We actively use specific hardware and software for our digital currency mining operation.  In certain cases, source code and other software assets may be subject to an open source license, as much technology development underway in this sector is open source. For these works, Riot intends to adhere to the terms of any license agreements that may be in place.
+ 
+We do not currently own, and do not have any current plans to seek, any patents in connection with our existing and planned blockchain and digital currency related operations.  We do expect to rely upon trade secrets, trademarks, service marks, trade names, copyrights and other intellectual property rights and expect to license the use of intellectual property rights owned and controlled by others.  In addition, we anticipate developing certain proprietary software applications for purposes of our digital currency mining and our planned digital currency exchange operations which will become our intellectual property.
+ 
+Legacy Business - Animal Health IP
+ 
+We have an animal health patent portfolio which originated under the exclusive license agreement with Washington University in St. Louis (“WU” or “Washington University in St. Louis”), under which we obtained intellectual property rights to WU's patent estate.  This extensive portfolio consists of both patents and pending patent applications (approximately 25 patents and numerous patent applications) related to our animal health products that we previously had under development.  The term of the WU License Agreement ends upon the expiration of the last patent to expire.  Patents in the estate have expiration dates ranging from 2010 to 2019.  We reimburse WU for the costs of patent filings, namely prosecution and maintenance fees.  Additional patents in the animal health portfolio have been filed by us outside of the WU License Agreement.
+ 
+A patent filing for the recombinant luteinizing hormone technology was submitted in 2004, entitled “Methods and Kits for Maintaining Pregnancy, Treating Follicular Cysts, and Synchronizing Ovulation Using Luteinizing Hormone.”  This patent family claims methods of administering rLH, the timing of administration, and dosage given in order to increase formation of accessory corpora lutea and maintain pregnancies in treated animals.  To date, five foreign patents have been granted for “Methods and Kits for Maintaining Pregnancy, Treating Follicular Cysts, and Synchronizing Ovulation Using Luteinizing Hormone,” New Zealand patent 542549 was granted March 12, 2009 (expiring March 2024), Australia 2004218365 was granted May 27, 2010 (expiring March 2024), European patent 1610803 was granted December 15, 2010 (expiring March 2024), Canadian patent 2518268 was granted December 10, 2013 (expiring March 2024) and Brazil was granted May 31, 2016 (expiring March 4, 2026).  The patent was granted by the European Patent Office and has been validated in the following countries: Belgium, France, Germany, Ireland, Italy, the Netherlands, Spain, Switzerland and the United Kingdom.  Currently, there are additional foreign patent applications that are in prosecution.
+ 
+A patent filing for the recombinant bovine follicle stimulating hormone technology was submitted in 2008, entitled “Compositions and Methods Including Expression and Bioactivity of Bovine Follicle Stimulating Hormone.”  This patent family claims the rbFSH single-chains itself, as well as methods of administering rbFSH, the timing of administration, and dosage given in order to increase reproduction, induce superovulation or increase embryo production in ungulates.  In October of 2011, the first patent in this family was granted by the European Patent Office (2134165), expiring October 12, 2028.  The patent has also been granted in New Zealand (579740), expiring October 1, 2028.  Following the grant of the patent in 2011 by the European Patent Office, the patent was validated in the following countries: France, Germany, Italy and the Netherlands.  In August 2013, the patent was granted in the United States (8518881 B2) expiring February 8, 2028, followed in November 2013 by the grant in Australia (2008213567) expiring February 8, 2028.  The patent was granted for Canada (2,685,437) on June 2, 2015 and will expire February 8, 2028. Currently, there are additional foreign patent applications that are in prosecution.
+ 
+A patent filing for the equine follicle stimulating hormone technology was filed in 2008, entitled “Activity of Recombinant Equine Follicle Stimulating Hormone.”  This patent family provides coverage for the single chain eFSH itself, methods of administering reFSH, the timing of administration, and dosage given in order to increase reproductive activity in treated animals.  The first patent in the patent family was granted in China in April 2013 (200880123523.8) expiring November 28, 2028.  The U.S. Patent for this family was granted in September 2014 (8,835,386) expiring November 28, 2028. The patent was granted for Canada (2,685,437) on June 2, 2015 and will expire February 8, 2028. The European patent was granted in August 2018 (2244717), expires November 2028 and includes the following countries:  Belgium, Germany, France, Great Britain, Italy and the Netherlands.  Currently, there are additional foreign patent applications that are in prosecution.
+ 
+The Company's animal health intellectual property has been licensed under the long-term agreement Ceva agreement under which the licensee continues to develop drugs for commercial use in non-human mammals.
+ 
+
+ 10
+ 
+Research and Development
+ 
+As part of our normal operating activities we actively explore advanced methods of managing digital currency mining operations at scale.  This includes monitoring software, management tools, and programmable hardware components for gathering data and the configuration of mining equipment.  This work includes software tools supporting at scale management of the Bitmain “Antminer” family of systems.  These devices have an application interface that is accessible to users for the purposes of automation, monitoring and software maintenance.  The existing software that is provided directly from the manufacturer is not designed for the scale or size of our operation. The mining operations rely on this technology to help streamline our daily system management, provide near real time reporting of faults and deliver configuration updates to the entire fleet of miners. We have also adapted these technologies to leverage cloud computing in order to offer access to these tools across a global footprint of mining sites. Our costs to date in such development activities have been nominal.
+ 
+We are also in beta development of private mining pools. Mining pools are groups of miners that work as a team and contribute their hashing power to solving computations that secure the blockchain. By pooling resources, miners increase the odds and consistency of receiving block rewards, which are the fees collected as part of bitcoin's “proof of work” security model. Securing the bitcoin network is based heavily on the distributed nature of mining power. As mining pools have become more popular, higher percentages of the global hash rate have become centrally managed. This centralization has created potential security concerns within the bitcoin community. See the Section entitled “Risk Factors” herein. The Company is privately testing its own mining pool platform exploring prospects, opportunities and risks in providing an alternative to major players such as AntPool and BTC.com, which are owned and operated by Bitmain. There is no assurance that the mining pool platform we are developing will be launched or can become commercially viable. Our costs to date in such development activities has been nominal.
+ 
+Employees
+ 
+As of March 31, 2019, we had six employees, all of whom are full-time.  In addition, Tess, of which we own greater than 50%, had 14 full time employees as of March 31, 2019.  We believe our employee relations to be good. Currently, our activities rely on the services of consultants and operators of data centers under support agreements to maintain our miners and for other activities.
+ 
+Since entering the blockchain industry in October 2017, we have terminated all of our employees related to our historical businesses with the exception of certain accounting personnel.
+ 
+Corporate Information
+ 
+Our principal executive offices are located at 202 6th Street, Suite 401, Castle Rock, CO 80104, where our legacy life sciences businesses were located and the location where our records are kept and the principal business address for our current chief executive officer and accounting staff.  Our principal operating location commencing in 2018 is the newly leased 107,000-square foot data center facility in Oklahoma City, Oklahoma. Our Florida office opened in 2018, is newly leased 1,700 square foot office space located at One Financial Plaza, 100 SE 3rd Ave., Fort Lauderdale, Florida 33394.
+ 
+We were incorporated on July 24, 2000 in the State of Colorado under the name AspenBio, Inc., which was subsequently changed to AspenBio Pharma, Inc.  In December 2012, we changed our name to Venaxis, Inc., in 2016 we changed our name to Bioptix, Inc., and effective October 19, 2017 we changed our name to Riot Blockchain, Inc. Our website address is www.riotblockchain.com.  Our telephone number is (303) 794-2000.
+Available Information
+ 
+You can access, free of charge, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to these reports as filed with the SEC under the Securities Exchange Act of 1934, as amended on the SEC’s website www.sec.gov.  These documents may also be accessed on our website: www.riotblockchain.com. These documents are placed on our website as soon as is reasonably practicable after their filing with the SEC.  The information contained in, or that can be accessed through, the website is not part of this Annual Report on Form 10-K. 
