@@ -1,0 +1,146 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1: BUSINESS
+General
+
+We were incorporated on August 4, 2010, under the laws of the State of Nevada under the name SOS Link Corporation. On April 15, 2011, we changed our place of incorporation from the State of Nevada to the Province of British Columbia, Canada and concurrently changed our name to Venza Gold Corp. The change from Nevada to British Columbia was approved by our shareholders on April 14, 2011. On January 6, 2014, we changed our name to CoreComm Solutions Inc. and on February 11, 2015, we changed our name to VGrab Communications Inc. to reflect our current business.
+
+On February 10, 2015, we completed an acquisition of the VGrab software application (the VGrab Application) pursuant to the terms of a software purchase agreement dated January 8, 2015 (the Software Purchase Agreement) between us and Hampshire Capital Limited (Hampshire). The VGrab Application is a free mobile voucher application developed for smartphones using the Android and Apple iOS operating systems and allows users to redeem vouchers on their smartphones at a number of retailers and merchants. 
+
+On June 24, 2015, we formed a subsidiary, VGrab International Ltd., (VGrab International) under the Labuan Companies Act 1990 in Federal Territory of Labuan, Malaysia. The initial focus of the VGrab International was to continue development of the VGrab Application and continue its market penetration in Southeast Asia. As of the date of this Annul Report on Form 10-K, VGrab International is used as a holding company as all the business operations were moved to VGrab Communications Malaysia Sdn Bhd (VGrab Malaysia), which we incorporated on May 17, 2018, under the Labuan Companies Act 1990 in Federal Territory of Labuan, Malaysia. 
+
+Change in Management
+
+On December 5, 2017, our board of directors accepted Mr. Jacek Pavel Skurtyss resignation from his positions as Chief Executive Officer, Chief Financial Officer, President, Secretary and the Treasurer of the Company. On June 22, 2018, Mr. Skurtys resigned from the board of directors of the Company.
+
+-1-
+
+On December 5, 2017, Ms. Chen Weijie tendered her resignation from the board of directors and as the Companys Chief Operating Officer and Mr. Ramsom Koay resigned from his position as Vice President of Marketing.
+
+To fill the vacancies that resulted from Mr. Skurtyss resignation on December 5, 2017, our board of directors appointed Mr. Lim, Hun Beng, as the Companys Chief Executive Officer and President and Mr. Liong Fook Weng as director, Chief Financial Officer, Secretary and Treasurer of the Company. 
+
+Entry into a Cooperation Agreement with Hampshire Motor Group (China) Ltd. 
+
+On June 25, 2018, our wholly-owned subsidiary, Vgrab International Ltd., entered into a cooperation agreement on a profit-sharing basis (the Agreement) with Hampshire Motor Group (China) Ltd. (HMGC), a related corporation, for the development and marketing of Duesenberg brand (the Brand) licensed to HMGC by the original Duesenberg trademark owner. Pursuant to the Agreement, Vgrab International agreed to work with HMGC on developing marketing, advertising and customer relation programs for Duesenbergs brands, with newly-developed sub-brand, Duesey, and its Duesey Coffee being the initial product offering. Vgrab International is also expected to participate in the development of new products utilizing Duesenberg Trademark.
+
+The term of the Agreement is 10 years, with an option to extend the Agreement for an additional 10-year period. Based on the Agreement, we will be entitled to a percentage of revenue generated from the sales of any new products developed by Vgrab International or jointly with HMGC, which percentage will be determined as follows: (i) 94% from revenue of up to $100,000, and (ii) 95% from revenue of over and above $100,000. In addition, we will also be entitled to a percentage of revenue generated from the sales of the products developed by HMGC prior to the entry into the Agreement based on the following schedule: (i) 20% from revenue of up to $100,000, (ii) 15% from revenue of up to $500,000, (iii) 10% from revenue of up to $1,000,000, and (iv) 5% from revenue of over and above $1,000,000.
+
+As of the date of this Annual Report on Form 10-K, we have not recorded any revenue associated with this Agreement.
+
+Business of VGrab Communications 
+
+Our original business model was based on the development of mobile applications for merchant and consumer use which were based on original VGrab Application we acquired from Hampshire Capital Limited. As our business developed our corporate strategy continued to evolve to incorporate additional new technologies and trends, thus allowing VGrab to strive to become a global advertising and ecommerce conglomerate trough expanding our products portfolio, investing into new and emerging technologies and creating strategic partnerships in a niche market. 
+
+Our goal is to provide integrated solutions and to create unique value for both brand owners and consumers, which we plan to achieve by focusing on developing our current and new networks and strategic partnerships.
+
+We are planning to achieve our vision through development and implementation of Vgrab Smart Systems (SMART Systems), which will integrate leading-edge information technologies with existing or new products and processes across multiple operating platforms, thus reducing substantial costs for our clients 
+
+Our initial plan is to introduce two new main lines of services, SMART Systems and Product Development, with the primary focus on social media delivery platforms, advertising & promotions platforms, memberships facilities, real-time stock inventory, data collections, ERP and financial data through cloud storage and management.
+
+SMART Systems are software entities that carry out a set of operations on behalf of a user or another program with some degree of independence or autonomy, and in so doing, employ some knowledge or representation of the users goals or desires and the environment within which they act in order to achieve those goals.
+
+SMART Systems incorporate functions of sensing, actuation, and control in order to describe and analyze a situation and make decisions based on the available data in a predictive or adaptive manner, thereby performing smart actions. In most cases the smartness of the system can be attributed to autonomous operation based on closed loop control, energy efficiency, and networking capabilities.
+
+-2-
+
+VGrab SMART Systems will initially consist of the following modules: 
+ ·
+ VGrab Cloud Management System 
+ ·
+ VGrab Database Management System 
+ ·
+ VGrab Membership System 
+ ·
+ VGrab Enterprise Resources Planning 
+ ·
+ VGrab Cloud Point of Sales System 
+ ·
+ VGrab Online Transactions Management System 
+ ·
+ VGrab Ad Rotational Management System 
+ ·
+ Online Directories & Apps Software (Software Updates)
+
+VGrab Cloud Management System 
+
+VGrab is developing a cloud management platform (the VCMS), which, once ready, will allow its users to integrate various software tools and applications to monitor and maintain control over dynamic and scalable cloud environments. The integration of the VCMS platform will be achieved through enabling an access to IT systems that are both internal and external VGrab SMART Modules. 
+VGrab Database Management System
+
+VGrab is developing a general database management system (the VDBMS). The VDBMS is software that can be used across all platforms for creating and managing databases. The VDBMS will provide its users with a systematic way to create, retrieve, update and manage data via dedicated interface or specially designed applications. VDBMS will also facilitate additional administrative operations such as change management, disaster recovery, compliance and performance monitoring, among others.
+VGrab Membership System
+
+VGrab membership system (the VMS) is a cloud-based software solution that will allow complete management of membership registrations, which could be used for anything from football season tickets, gym memberships, car parking, hospitality, coffee clubs, beer clubs, discounted club purchases, to any other promotional program that may develop in the future.
+
+The VMS is designed to be easy to use and will provide the functionality needed to manage any size venue in a single application, at a fraction of the cost of combining separate applications such as Microsoft Dynamics, SAP or Sage. With VMS all the customers data will be held securely in a single place. The VMS will enable VGrabs clients to provide their customers with a full range of membership schemes with flexible payment options. 
+
+VGrab Enterprise Resources Planning
+
+Traditional ERP solutions are often housed within a companys own server infrastructure and require updating and servicing to stay current. VGrab Enterprise Resource Planning (the VERP) software would be hosted in a cloud environment much like SaaS (Software as a Service.) Unlike traditional ERP platforms, the VERP will rely on the Internet rather than a proprietary server infrastructure to help companies share information across departments.
+
+The VERP software will integrate some or all of the essential functions required to run a business, e.g. accounting, vendor lists, inventory and order management, human resources, customer relationship management, etc. Unique to the VERP system is a shared database that supports multiple functions used by different business units, which will allow the clients in different types of businesses to customize the VERP to their specific needs without requiring an extensive on-premises server presence.
+
+VGrab Cloud Point of Sales System
+
+Cloud-based point of sale software (POS) is the latest trend in POS software and is increasing in popularity every day. VGrabs cloud point of sales system (the VPOS) will be directly accessed from the Internet and be compatible with most point of sale hardware, including printers, cash register drawers, etc. The key benefits of the VPOS are immediate centralization of information, which is strategically important for chain retailers, less expensive start-up costs, and the ability to access key data from virtually anywhere an Internet connection exists.
+
+-3-
+
+VGrab Online Transactions Management System
+
+VGrab online transactions management system (the VOTMS) is being developed as a class of software programs capable of supporting transaction-oriented applications on the Internet with the support and integration of various existing online banks and e-wallet systems. Typically, online transactions processing systems are used for order entry, financial transactions, customer relationship management (CRM) and retail sales. Such systems have a large number of users who conduct short transactions. 
+
+The VOTMS advantage will be its capability to process each transaction immediately, without need to accumulate transactions into batches, allowing for immediate updates of all affected records. The VOTMS i) holds current data; ii) stores details of each transaction; iii) dynamically updates data based on each transaction; and iv) supports day to day decision making. The VOTMS is being developed to optimize concurrency allowing multiple users to be making multiple transactions at the same time in real time.
+
+VGrab Ad Rotational Management System 
+
+VGrab advertising rotational management system software (the VARMS) would cater to multiple advertisers in a single location either online or offline. It will allow a client to have their business, product or promotion advertisement to rotate with each new page load or advertising space allotted. A publishing site implementing the VARMS will be able to serve ads for multiple advertisers per page load instead of just one, thereby keeping advertising "fresh" and relevant. 
+
+The VARMS will allow greater image management through control of the frequency and duration of individual ads, which can then be analyzed by utilizing a reporting capability of the VARMS, which will allow advertisers to see how often ads were displayed, clicked, accessed, etc.
+
+Online Directories & Apps Software (Software Updates)
+
+VGrabs original VGrab Technology had been previously developed as an online directory and information provider to hundreds of businesses in various industry sectors that ranged from the food and beverage outlets, merchandisers, hotels, to local attractions, etc. The Company developed two separate but integrated mobile applications for merchants, the VGrab Merchant Application, and for consumers, the VGrab Application. These platforms and applications were to sell online goods, online video service portal, and marketing services to merchants, including advertising on the Companys website and in its newsletters. The Company's primary market for its VGrab Applications was located in Asia, focusing mainly on Malaysia.
+
+VGrab intends to update the directories and mobile applications by using the currently being developed SMART Systems to the latest trend and technology which are; Social Software and Social Network Search Engines. VGrab will integrate and work alongside with current Social Software applications like WhatsApp, WeChat, Telegram, etc. By updating the existing platform, VGrab would be able to widen its network coverage extensively for its clients.
+
+Our Strategy and Distribution
+
+Our main strategy is the continued development, improvement, innovation and marketing of our VGrab SMART Systems. Once the development is finished and refined, our marketing strategy will be based mainly on ensuring our customers business, products and brands are fully integrated with our SMART Systems. 
+
+We intend to implement a market penetration strategy that will ensure that our services are well known and respected in our industry. Our marketing strategy will concentrate on quality, reliability, and customization of our SMART Systems with customer satisfaction being the key performance indicator. 
+
+Our promotional strategy will involve integrating traditional advertising, seminars, events, internet marketing, personal selling, public relations, and direct marketing.
+
+-4-
+
+Our expenditures for the next fiscal year will primarily be associated with the continuous development and testing of our SMART Systems and their modules, elements and functionalities. For some specific or highly specialized components, including but not limited to statistical analysis, data protection, software development and web utilization, we may have to seek a top end professional assistance from third parties both in Malaysia and in the North America.
+
+Additional funding will be required in order to start expansion of the current business platforms in accordance with the new strategic plan and the goals introduced by our new management team. 
+
+Competition
+
+The online marketing and data management industry is rapidly growing and competitive industry. We do not have a strong position in Asia or in Malaysia. We also compete with traditional marketing providers and traditional database solution providers. Our competitors include companies that have substantially greater financial resources, staff and facilities than us. Our failure to obtain and maintain a competitive position within the market could have a materially adverse effect on our business, financial condition and results of operations.
+Government Regulations
+
+We are subject to a number of foreign and domestic laws and regulations that affect companies conducting business on the Internet. Additionally, these laws and regulations may be interpreted differently across domestic and foreign jurisdictions. As a company in a new and rapidly growing industry, we are exposed to certain risks that many of these laws may change and are subject to uncertain interpretations. These laws and regulations may involve intellectual property, product liability and consumer protection, distribution, competition, online payment and point of sale services, employee, merchant and customer privacy and data security, taxes or other areas.
+Patents and Trademarks
+
+Our VGrab name has been trademarked under the registration certificate no 2014002852. The registration gives us non-exclusive right to use a letter V. The trademark is valid until March 14, 2024.
+Dependence on Major Customers
+
+As further described in Entry Into a Cooperation Agreement with Hampshire Motor Group (China) Ltd., as at the date of this Annual Report on Form 10-K, we have entered into the Cooperation Agreement for our marketing, promotion, and E-Commerce services. We expect that in the next 12-month period our cooperation with HMGC will account for a majority of our revenue. However, as of the date of this Annual Report on Form 10-K, we have not been able to generate revenue from the Cooperation Agreement, as the services have not started yet. 
+
+Aside form the Cooperation Agreement with HMGC, we do not rely on any other major customers. 
+
+Research and Development
+
+During the fiscal year ended October 31, 2018, we incurred $183,427 (2017 - $180,000) on development of VGrab applications and SMART Systems. 
+
+Number of Total Employees and Number of Full Time Employees
+
+As at the date of this Annual Report on Form 10-K our subsidiary, VGrab Malaysia, has 11 employees. Mr. Lim, our CEO and President, and Mr. Liong, our CFO, Corporate Secretary and the Treasurer, are also on payroll of VGrab Malaysia.
+
+Our parent Company and VGrab International have no employees and rely on the services of third-party consultants to support the operations. 
+
+-5-
+

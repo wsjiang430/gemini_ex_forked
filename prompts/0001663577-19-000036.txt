@@ -1,0 +1,393 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business 
+Our Business
+ 
+We are in the business of providing advanced energy software and control technology that enables a plug-and-play enterprise solution to modern energy challenges. Our services consist of intelligent energy monitoring and controls, microgrid design and engineering, microgrid consulting services, and turn-key microgrid implementation services. Our software allows energy users to obtain resiliency and economic optimization. Our software is uniquely capable of enabling a microgrid to be scaled to the user's specific needs and can be widely implemented across commercial, industrial, military and municipal deployment.
+ 
+Integral to our business is our mPulse and mVSO software platforms (the “Platforms”). When the Platforms are implemented on a customer’s power system they are able to control the distributed energy resources on site to provide secure, sustainable energy often at significant cost savings for our energy customers. The Platforms allows customers to efficiently manage renewable energy generation, other distributed energy generation technologies including energy generation assets, energy storage assets, and energy consumption assets. By having autonomous control over the distributed facets of energy usage and energy storage, customers are able to reduce their dependency on utilities, thereby keeping energy costs relatively constant over time. The overall aim is to transform energy consumers into energy producers by supplying power that anticipates their routine instead of interrupting it.
+ 
+We also own patented gasification technologies. Our technology converts any organic material into SynGas. SynGas can be used as clean, renewable, environmentally friendly, warming fuel for power plants, motor vehicles, and as feedstock for the generation of DME (Di-Methyl Ether).
+ 
+As previously disclosed, we plan to continue our focus on the CleanSpark side of the business in 2019, as opposed to expending significant efforts on the Gasifier side of the business. We plan to continue our efforts to better our technology, service existing customers and market our System (defined below) to prospective clients. We feel that this focus would provide the best opportunity for our shareholders.
+ 
+Our Distributed Energy Management Business
+ 
+Integral to our business is our Distributed Energy Management Business (the “DER Business”). The main assets of our DER Business include our propriety software systems (“Systems”) and also our engineering and methodology trade secrets. The Distributed Energy systems and Microgrids that utilize our Systems are capable of providing secure, sustainable energy with significant cost savings for its energy customers. The Systems allows customers to design, engineer, construct and then efficiently manage renewable energy generation, storage and consumption. By having autonomous control over the multiple facets of energy usage and storage, customers are able to reduce their dependency on utilities, thereby keeping energy costs relatively constant over time. The overall aim is to transform energy consumers into intelligent energy producers by supplying and managing power in a manner that anticipates their routine instead of interrupting it.
+ 
+Around the world, the aging grid is becoming unstable and unreliable due to increases in loads and lack of new large-scale generation facilities. This inherent instability is compounded by the push to integrate a growing number and variety of renewable but intermittent energy generators and advanced technologies into outdated electrical systems. Simultaneously, defense installations, industrial complexes, communities, and campuses across the world are turning to virtual power plants and microgrids as a means to decrease their reliance from the grid, reduce utility costs, utilize cleaner power, and enhance energy security and surety.
+ 
+The convergence of these factors is creating a “perfect storm” in the power supply optimization and energy management arena. Efficiently building and operating the distributed energy management systems and microgrids of tomorrow, while maximizing the use of sustainable energy to produce affordable, stable, predictable, and reliable power on a large scale, is a significant opportunity that first-movers can leverage to capture a large share of this emerging global industry.
+ 
+A microgrid is comprised if any number of generation, energy storage, and smart distribution assets that serve a single or multiple loads, both connected to the utility grid and separate from the utility grid “islanded.” In the past, distributed
+ 
+
+4
+-
+
+
+energy management systems and microgrids have consisted or off-grid generators organized with controls to provide power where utility lines cannot run. Today, modern distributed energy management systems and microgrids integrate renewable energy generation systems (REGS) with advanced energy storage devices and interoperate with the local utility grid. Advanced autonomous cyber-secure microgrids controls relay information between intelligent hardware and localized servers to make decisions in real-time that deliver optimum power where it is needed, when it is needed. 
+ 
+Our Systems create an integrated distributed energy management control platform that seamlessly integrates all forms of energy generation with energy storage devices and controls facility loads to provide energy security in real time free of cyber threats. Able to interoperate with the local utility grid, the Systems bring users the ability to choose when to buy or sell power to and from the grid, enabling what we believe is the most cost effective power solution that exists on the current market. 
+ 
+Our Systems are ideal for commercial, industrial, mining, defense, campus and residential users and ranges in size from 4KW to 100MW and beyond and can deliver power at or below the current cost of utility power. 
+ 
+Our services consist of turn-key distributed energy and microgrid implementation services, distributed energy microgrid system design and engineering, project development consulting services and solar photovoltaic installation and consulting. The work is performed under fixed price bid contracts, and negotiated price contracts.
+ 
+mPulse Software Suite
+ 
+mPulse is a modular platform that enables fine-grained control of a Microgrid based on customer operational goals, equipment and forecasts of load and generation. mPulse performs high-frequency calculations, threshold-based alarming, execution of domain-specific business rules, internal and external health monitoring, historical data persistence, and system-to-operator notifications. The modular design increases system flexibility and extensibility. In addition, the deployment of the mPulse system follows a security-conscious posture by deploying hardware-based firewalls as well as encryption across communication channels. mPulse allows configuration for site-specific equipment and operation and provides a clean, informative user interface to allow customers to monitor and analyze the data streams that describe how their microgrid is operating.
+ 
+mPulse supports our innovative fractal approach to microgrid design, which enables multiple microgrids on a single site to interact in a number of different ways, including as peers, in a parent-child relationship, and in parallel or completely disconnected. Each grid can have different operational objectives, and those operational objectives can change over time. Any microgrid can be islanded from the rest of the microgrid as well as the larger utility grid. The mPulse software can control the workflow required in both the islanding steps as well as the reconnecting steps of this maneuver and coordinate connected equipment such that connections are only made when it is safe to do so. The mPulse software has proven to be robust and reliable, operating successfully at the Camp Pendleton FractalGrid installation continuously for over 3 years with minimal maintenance and support required.
+ 
+Microgrid Value Stream Optimizer (mVSO)
+ 
+The Microgrid Value Stream Optimizer (mVSO) tool provides a robust distributed energy and microgrid system modeling solution. mVSO takes utility rate data and load data for a customer site and helps automate the sizing and analysis of potential microgrid solutions as well as providing a financial analysis around each grid configuration. mVSO uses historical weather data to generate projected energy generation from PV arrays and models how storage responds to varying operational modes and command logics based upon predicted generation and load curves. mVSO analysis multiple equipment combinations and operation situation to determine the optimal configuration for a site based on the financials, equipment outlay, utility cost savings, etc., to arrive at payback and IRR values. This ultimately provides the user with data to design a distributed energy and/or microgrid system that will meet the customers’ performance benchmarks.
+ 
+Version 2.0 improvements
+ 
+On September 27, 2017, we launched the development of mPulse 2.0 and mVSO 2.0. These improvements are being built into our existing software platforms and add significant improvements, which focus on positioning, integration, focus and quality, as outlined below.
+ 
+
+5
+-
+
+Positioning
+ 
+When mPulse originally was developed, a main focus of the platform and the industry was resiliency of microgrid operation, specifically in military contexts. Since that time, the microgrid landscape has continued to evolve, and there is growing opportunity within the commercial and industrial space as the markets in these spaces desire microgrids capable of obtaining the highest economic advantage.
+ 
+Further, this growing focus on economic advantage is in line with the continued market evolution toward an open energy market at regional levels. We want to be well positioned to enter into this market at each step of its availability, from responding to demand response requests all the way through participating in ancillary grid service markets and fully open transactive energy markets as regulation matures. To position ourselves, the mPulse platform operation is being improved to mirror the predicted energy market progression by implementing internal markets at each level of the system. In these internal markets, energy producing assets are modeled as sellers, and energy consuming assets are modeled as buyers, with the market playing matchmaker between the two and virtually “selling” available energy to the highest bidder, thereby satisfying the energy loads at the highest economic advantage for both participants at any given moment.
+ 
+The internal energy market running at our customers’ sites will take daily feeds of production and load forecasts from the platform to set up the daily market parameters, then ingest a stream of current positions of both buyers and sellers as well as their individual pricing information, which is calculated based on the details of the energy rate under which those consumers operate. Consumers bid into the market along the schedule of the specific rate structure under which those loads operate, with bids including the calculated value of energy and power based on that rate and the predicted total use and power profile during the time period of that bid. Based on the predicted generation profile and the other active bids currently being satisfied, the market either fills or cannot fill the newly received bid, and based on the market’s feedback, the consumer’s operation mode and setpoint will change, which will determine the actual control commands sent to related equipment.
+ 
+This market scenario is mirrored at every level, from an individual node potentially consisting of only one producer and one consumer (power source and meter, respectively), to a higher-level node, in which other nodes participate as either net producers or net consumers, to the site level, and even up to regional level, where sites may participate in the market directly. At each level, details of the level below are aggregated and abstracted away, so each level operates in a simple and self-similar way, mirroring the physical construction of the FractalGrid. These markets shine in optimization scenarios, especially around times of just enough supply or even slight scarcity, which are expected to allow us to reap the maximum economic value for our customers even in the case of undersized grids. In addition, this flexibility allows for ease of integration for new market participants at each level as regulation matures to support further Demand Response programs, ancillary service markets, and eventually peer-to-peer transactive energy.
+ 
+Focus
+ For mPulse 2.0, we are focusing on furthering the development of the economic optimization logic in the platform, including an increased push toward deep learning algorithms and more effective forecasting both on solar generation and facility load.
+Quality
+ We employ a quality-first mindset in all aspects of our software design. From a software architecture point of view, this translates in designing for the maintainability, extensibility, scalability, availability, accessibility, and deployability of the system.
+ These planned improvements paired with our design and engineering methods and experience are intended to help keep us on the leading edge of the microgrid industry. As of the date of this filing, we have offered a beta release of mPulse 2.0 to a limited number of customers and we are testing system performance with these customers as feature sets are released of the next two quarters. We plan to make a full release of mPulse to all customers in the first quarter of 2019. As of the date of this filing, we intend to release VSO 2.0 to customers in the second quarter of 2019.
+ 
+
+6
+-
+
+
+We were granted a new United States Patents on April 10, 2018 protecting our software systems.  The patent, "Establishing Communication and Power Sharing Links Between Components of a Distributed Energy System, US 9,941, 696 B2," is a patent that specifically addresses our engineering and data-analytics technologies, processes and procedures.  The patent covers our ability to receive data from a plurality of sources within a microgrid, which is then analyzed to forecast power needs across the microgrid, or a combination of multiple 'fractal' microgrids, and then determining whether or when to share power with the requesting module.
+ 
+MicroGrid Development Projects
+ The California Energy Commission awarded a grant to Harper Construction Company, Inc. in July 2013 to support a microgrid technology demonstration project. We were subcontracted to provided design, development, integration, and installation services for the FractalGrid at the School of Infantry in the 52 Area of Marine Corps Base Camp Pendleton. The Project was subsequently transferred to us for consideration and an agreement to indemnify Harper Construction for all future responsibilities of maintenance, operations and warranty. 
+ 
+The project included integration of our proprietary software and controls platform with a variety of energy storage technologies. The system utilizes solar energy generated by pre-existing existing fixed-tilt solar photovoltaic panels and fifteen dual axis tracking concentrated photovoltaic units. Our distributed controls combine the generation with energy storage technologies to create four separate microgrids that self-align together to create a larger microgrid that ties directly into the larger utility grid at the 12kV level, allowing the base to consume energy from the most reliable, affordable source at any given time. The system provides a 100% renewable and sustainable solution to energy security.
+ 
+In the event of an outage or other energy surety threat, the software can autonomously separate the microgrids from the utility and the controls operate them independently in “island” mode, without interrupting service to critical circuits. Once energy from the grid is stabilized, our platform reconnects the microgrid to the utility. Each individual fractal microgrid can work independently or in concert as the larger 1.1MW FractalGrid, sharing data and energy throughout the group to improve efficiency, protect critical circuits, manage supply and demand, and allow for maintenance or repairs, as needed. The entire installation provides the Marine Corps and Department of the Navy with reliable energy security with built in cyber defense.
+ 
+In May of 2017 we completed the first and second stages of a contract for $75,000 for engineering and design and $60,000 for optimization and control logic development. In July of 2017, we were awarded the contract to construct the Microgrid we designed. The $900,000 sub-contract awarded by Bethel-Webcor JV is to install a turn-key advanced microgrid system at the U.S. Marine Corps Base Camp Pendleton. The contract is in direct support of the United States Department of Navy's communication information system (CIS) operations complex that was recently awarded to the Joint-Venture. 
+ The Company begin on-site work for this project in February of 2018 and expects to complete its scope of work in early 2019. 
+ 
+In May of 2017, we were able to engineer, design and install a fully off-grid, triple-redundant power system at a private, residential estate in Southern California.
+ 
+On October 2, 2018, we executed a Profession Services Agreement with Macerich to perform engineering, design and consultation services and follow-on construction work to install a Microgrid designed by our engineering team which utilized our mVSO software in creating the system design. The system will be controlled by our mPulse controller upon completion. The microgrid is expected to be located at Macerich’s Thousand Oaks facility in California.
+ 
+The Agreement provides that we will be compensated in stages, and each stage requires that Macerich provide written authorization to proceed. The agreement further requires that an additional Design Build Contract be executed for the construction portion of the project. At this time this agreement only specifically authorizes an initial $88,250 for consultation and engineering services, the balance of the $18 million microgrid installation contract falls under later stages. These additional stages require Macerich’s written authorization to proceed with the overall project. This amount may be subject to further adjustment if the customer requires a change in scope prior to providing written authorization to proceed with construction. A change in scope could be triggered by a variety of reasons not limited to permitting restrictions, utility restrictions and other unforeseen circumstances. We expect to receive written permission to proceed on all stages of the contract in the first quarter of 2019.
+ 
+These projects are examples of the far reaching capabilities of our System and the variety of applications that are available as plug and play solutions. We are pursuing additional microgrid projects and anticipate executing on the projects being pursued in 2019 and 2020. There is no assurances, however, that we will obtain contracts to sustain our operations.
+ 
+
+7
+-
+
+Acquisitions
+ 
+As an energy technology company, part of our business model is to assess our technologies, product offerings and business direction and determine whether any strategic acquisitions would benefit us. 
+ 
+As previously disclosed, on May 2, 2018, we entered into an Asset Purchase Agreement (the “Purchase Agreement”) with Pioneer Custom Electric Products Corp., a Delaware corporation. 
+ 
+On December 27, 2018, the parties to the Purchase Agreement entered into a letter amendment (the “Amendment”) to extend the Termination Date from December 31, 2018 until on or before January 16, 2019. Under the Amendment, the parties agreed that, in addition to the other Closing conditions set forth in the Purchase Agreement, the obligation of the Company to consummate the transactions contemplated by the Purchase Agreement, is subject to Bank of Montreal releasing any Liens it holds on the Acquired Assets. The parties further agreed that they are entering into the extension to, amongst other things, allow the parties sufficient time to negotiate amendments to the business terms and structure of the transactions set forth in the Purchase Agreement.
+ 
+We are still in discussions and negotiations with Pioneer, and we plan to disclose the final business arrangement in the coming days. 
+ 
+Our Gasifier Business
+ 
+Integral to our existing business is the Gasifier. We own Patent Nos. 9,890,340B2, 9,359,567, 8,518,133 8,105,401 and 8,347,829 protecting our gasification technology and process for using feedstock comprising gaseous fuel. Our technology converts any organic material into SynGas. SynGas can be used as clean, renewable, environmentally friendly, warming fuel for power plants, motor vehicles, and as feedstock for the generation of DME (Di-Methyl Ether). DME is the premier energy carrier and offers a range of important benefits:
+
+§ | Simple and low cost of production
+--+----------------------------------
+
+
+§ | An environmentally-benign propellant and coolant
+--+-------------------------------------------------
+
+
+§ | Clean-burning and high energy efficiency
+--+-----------------------------------------
+
+
+§ | Lower transportation and distribution costs
+--+--------------------------------------------
+
+
+§ | Easily converted into other fuels and chemicals
+--+------------------------------------------------
+
+ 
+Our Gasifier converts the following materials into clean, reusable, renewable, and affordable energy:
+ 
+
+§ | Municipal Solid Waste (MSW)
+--+----------------------------
+
+
+§ | Municipal sewage sludge
+--+------------------------
+
+
+§ | Food and cooking waste
+--+-----------------------
+
+
+§ | Petroleum sludge and oily wastes
+--+---------------------------------
+
+
+§ | Animal manures
+--+---------------
+
+
+§ | Cellulosic and non-cellulosic biomass
+--+--------------------------------------
+
+
+§ | Energy crops
+--+-------------
+
+
+§ | Scrap tires
+--+------------
+
+
+§ | Coal
+--+-----
+
+ 
+The process involves the grinding, drying, separating, mixing, and then pelletizing of solid waste. These pellets constitute the feedstock for the Gasifier. Gasifying the pellets produces SynGas. SynGas can be converted into multiple forms of energy including motor vehicle and jet fuels. The SynGas produced is so clean that it generally does not require hot-gas cleanup. SynGas is mostly hydrogen and carbon monoxide. Hydrogen and carbon monoxide are primary building blocks for fuels and chemicals. SynGas is a clean burning fuel suitable for use in duel-fuel diesel engines, gas turbines, and steam boilers.
+ 
+We believe that our process is capable of turn the world’s waste problem into an abundant, renewable resource of energy. Our production can be adapted to the specific energy requirements of a given area. Communities are expected to benefit from the countless options created including inexpensive green electric power for homes, clean-burning fuel for garbage trucks, street maintenance equipment, or for resale to other municipalities. Because of the modular nature of the components intrinsic to the process, the plant could provide one energy source, then be converted to provide a different energy product. Our facility could produce additional electric power during the peak demand part of the day and produce fuels during the rest of the day.
+ 
+
+8
+-
+
+
+Our market segmentation is vast as we expect to apply our technology to anything that is carbon based. The markets for which we have focused our efforts include: the electric utility market, municipal waste, processing plants, the refining sector, stranded natural gas fields, and Canadian oil sands.
+ 
+We have begun pursuing opportunities to utilize the assets and intellectual properties purchased. We aim to further develop these technologies in order to pursue licensing, manufacturing and direct sales agreements for our Gasifier technology.
+ 
+The technologies and prototype will need to undergo additional clinical lab testing to further establish its capability of producing large volumes of clean, renewable energy from any carbon compound (Municipal Solid Waste (MSW), Coal, Sewage Sludge) into clean Synthesis Gas. Our Gasifier is still under development and a commercially viable Gasifier is not expected to be sellable until we are able to expend additional resources on its testing and development. In December of 2014, we executed an agreement with a third party to independently test our production model prototype. Combustion was engaged to independently test the Gasifer's performance and certify the results of its performance. Combustion Resources completed the initial stages of testing. Upon completion of the testing an initial white paper was published outlining the results and suggested improvements. We anticipate that the cost to complete these improvements will be between $250,000 and $500,000. Upon completion of the improvement we will conduct an extended test run with an independent third party. We believe the results of these independent tests will provide the results needed to prove its commercial viability, at which time we would begin to actively market our Gasifier units. 
+ 
+We have not engaged in any significant negotiations to sell our Gasifier products to any major customers. Once completed, we intend to distribute our products through advertisements and sales calls on potential customers with demonstrations of how the products work. 
+ 
+Competition
+ 
+We face significant competition in the alternative energy and microgrid markets. Some of our competitors have substantially larger financial and other resources. Factors that affect our ability to further test a commercially viable Gasifier and upgrade our System include resource limitations, available information and our standards established for projected return on investment. 
+ 
+Integral to our business is its Distributed Energy Management Business (the “DER Business”), the main assets of our DER Business include our propriety software systems (“Systems”) and also our engineering and methodology trade secrets. The Distributed Energy systems and Microgrids that utilize our Systems are capable of providing secure, sustainable energy with significant cost savings for its energy customers. The Systems allows customers to design, engineer, construct and then efficiently manage renewable energy generation, storage and consumption. By having autonomous control over the multiple facets of energy usage and storage, customers are able to reduce their dependency on utilities, thereby keeping energy costs relatively constant over time. The overall aim is to transform energy consumers into intelligent energy producers by supplying and managing power in a manner that anticipates their routine instead of interrupting it.
+ 
+Distributed Energy Management Business Competition
+ 
+Our DER Business and software platforms are set up to compete against larger companies. Our integrated microgrid control platform seamlessly integrates energy generation with energy storage devices and controls facility loads to provide energy security in real time. The systems are able to interoperate with the local utility grid and allows users the ability to obtain the most cost-effective power for a facility. The systems are technology agnostic and can incorporate into multiple vendors and manufacturers products and legacy systems. The systems are ideal for commercial, industrial, mining, defense, campus and community users ranging from 4 kw to 100 MW and beyond and can deliver power at or below the current cost of utility power. All of these attributes contribute to our ability to compete with the larger, more established competitors that have rely on their own manufactured products and hardware solutions.
+
+9
+-
+
+
+Distributed Energy and Microgrid control technologies are new to the market and can be deployed in various formats. Eight technologies that are predominantly used in commercial applications and/or have been extensively studied are:
+ 
+
+§ | Virdity (Control Platform)
+--+---------------------------
+
+
+§ | Lotus (Power monitoring)
+--+-------------------------
+
+
+§ | GridBridge (Power monitoring)
+--+------------------------------
+
+
+§ | Schnider (Intelligence and automation)
+--+---------------------------------------
+
+
+§ | Spirae (Intelligence and automation and Project Proposal Tool)
+--+---------------------------------------------------------------
+
+
+§ | Energy Toolbase (Project Proposal Tool)
+--+----------------------------------------
+
+
+§ | Homer (Project Proposal Tool)
+--+------------------------------
+
+
+§ | Growing Energy Labs Inc. (Modeling and Control)
+--+------------------------------------------------
+
+ 
+These current technologies of our competitors have a number of inherent problems:
+ 
+
+§ | Operational sensitivity to specific hardware solutions potentially increasing the cost of implementations.
+--+-----------------------------------------------------------------------------------------------------------
+
+
+§ | Non-automated systems require constant monitoring increasing operating costs.
+--+------------------------------------------------------------------------------
+
+ 
+The principal advantages of our System are:
+ 
+
+§ | Technology agnostic approach allows customers to leverage aged legacy systems reducing implementation costs.
+--+-------------------------------------------------------------------------------------------------------------
+
+
+§ | The automated process is user friendly and does not require highly qualified engineers to operate.
+--+---------------------------------------------------------------------------------------------------
+
+
+§ | We believe our project proposal tool is more accurate than any other option on the market.
+--+-------------------------------------------------------------------------------------------
+
+ 
+Gasifier business competition
+ 
+Our Gasifier system is set up to compete against larger gasification projects. Our modular concept allows for parallel processing so a facility could be easily expanded or reduced without risk or changing the basic structure by simply adding or removing module units; it also allows for multiple end product processing, producing electricity, ethanol, and fuels simultaneously, and for universal parts which reduces maintenance costs. This design factor solves repair and maintenance problems by simply shutting down the unit(s) to be repaired and bringing the reserve unit(s) online. All of these attributes contribute to our ability to compete with the larger, more established competitors that have large systems that require significant downtime for maintenance and repair.
+ 
+Gasification technologies can incorporate any one of a number of Gasifiers. Eight gasification technologies that are predominantly used in commercial applications and/or have been extensively studied are:
+ 
+
+§ | Texaco Entrained Flow (Downflow) Gasifier
+--+------------------------------------------
+
+
+§ | E-Gas Entrained Flow (Upflow) Gasifier
+--+---------------------------------------
+
+
+§ | Shell Entrained Flow (Upflow) Gasifier
+--+---------------------------------------
+
+
+§ | KRW Fluidized-Bed Gasifier
+--+---------------------------
+
+
+§ | Kellogg Transport Reactor Gasifier
+--+-----------------------------------
+
+
+§ | Lurgi Dry Ash Gasifier
+--+-----------------------
+
+
+§ | British Gas/Lurgi Fixed Bed Gasifier
+--+-------------------------------------
+
+
+§ | Plasma Gasification
+--+--------------------
+
+ 
+These current technologies of our competitors have a number of inherent problems:
+ 
+
+§ | Large footprint plants and high operating costs.
+--+-------------------------------------------------
+
+
+§ | Operational sensitivity to properties of different feedstock especially moisture content.
+--+------------------------------------------------------------------------------------------
+
+
+§ | Tendency to caking and bridging.
+--+---------------------------------
+
+
+§ | Produces a dirty gas, expensive to clean or only suitable for low efficiency conversion in a steam-boiler turbine generator (10% electrical efficiency).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Inefficient usage of created energy to power plasma conversion.
+--+----------------------------------------------------------------
+
+
+10
+--
+
+
+The principal advantages of our Gasifier are:
+ 
+
+§ | Modular concept allows for parallel processing so a facility could be easily expanded or reduced without risk or changing the basic structure by simply adding or removing module units; it also allows for multiple end product processing, producing electricity, ethanol, and fuels simultaneously, and for universal parts, which reduces maintenance costs.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | The one stage process is very simple and does not require highly qualified engineers to operate because of the automation.
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+§ | The direct heat transfer of the gases to the material being gasified is efficient, and as a natural consequence of the process, the product gas is stripped of its impurities, eliminating the costly hot gas clean up associated with other Gasifiers.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Pollutant absorbing binder aids in efficiency, cracking hydrocarbons acting as a catalyst, and absorbs the pollutants, oxidizes carbon eliminating water vapor and all but 5 – 10% carbon dioxide, which in the Company’s estimation will eliminate the need for carbon sequestration.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | Ash by product makes an excellent road and cement aggregate.
+--+-------------------------------------------------------------
+
+
+§ | Process is nearly 100% environmentally friendly.
+--+-------------------------------------------------
+
+
+§ | Any and all liquid and solid organic wastes can be utilized and disposed of, producing no residual wastes.
+--+-----------------------------------------------------------------------------------------------------------
+
+Intellectual Property
+ 
+In relation to our Gasifier business, we own the following patents: Patent No. 9,359,567 ‘Gasification Method Using Feedstock Comprising Gaseous Fuels’; Patent No. 8,518,133 ‘Parallel Path, Downdraft Gasifier Apparatus and Method’; and Patent No. 8,105,401 ‘Parallel Path, Downdraft Gasifier Apparatus and Method.’ ; Patent No. 8,347,829 Electrolytic Reactor and Related Methods for Supplementing the Air Intake of an Internal Combustion Engine
+ 
+In relation to our microgrid business, we own the following patents: Patent No. 9,941,696 B2 "Establishing Communication and Power Sharing Links Between Components of a Distributed Energy System, awarded April 10, 2018, is a revolutionary patent that specifically addresses CleanSpark's engineering and data-analytics technologies, processes and procedures. The patent covers CleanSpark's ability to 'receive data from a plurality of sources within a microgrid, which is then analyzed to forecast power needs across the microgrid, or a combination of multiple 'fractal' microgrids, and then determining whether or when to share power with the requesting module.
+ 
+The second Patent, "Parallel Path Downdraft Gasifier Apparatus and Method, US 9,890, 340 B2", awarded February 13, 2018, further enhances CleanSpark's patent portfolio surrounding its proprietary gasification and waste-to-energy technologies.
+ 
+Government Regulation
+ 
+We are subject to federal, state and local laws and regulations governing environmental quality and pollution control. It is anticipated that, absent the occurrence of an extraordinary event, compliance with existing federal, state and local laws, rules and regulations concerning the protection of the environment and human health will not have a material effect upon us, our capital expenditures, or earnings. We cannot predict what effect additional regulation or legislation, enforcement policies thereunder and claims for damages for injuries to property, employees, other persons and the environment resulting from our operations. Our operations are subject to environmental regulation by state and federal authorities including the Environmental Protection Agency (“EPA”). This regulation has not increased the cost of planning, designing and operating to date. Although we believe that compliance with environmental regulations will not have a material adverse effect on our operations or results of these operations, there can be no assurance that significant costs and liabilities, including criminal penalties, will not be incurred. Moreover, it is possible that other developments, including stricter environmental laws and regulations, and claims for damages for injuries to property or persons resulting from our activities could result in substantial costs and liabilities.
+ 
+In the conduct of our activities our operations will be subject to the requirements of the federal Occupational Safety and Health Act (“OSHA”) and comparable state statutes. The OSHA hazard communication standard, the EPA community right-to-know regulations under Title III of the federal Superfund Amendment and Reauthorization Act and similar state statutes require us to organize information about hazardous materials used, released or produced in its operations. Certain of this information must be provided to employees, state and local governmental authorities and local citizens. We are also subject to the requirements and reporting set forth in OSHA workplace standards.
+ 
+
+11
+--
+
+
+Other than the above regulations and maintaining our good standing in the State of Nevada, complying with applicable local business licensing requirements, complying with all state and federal tax requirements, preparing our periodic reports under the Securities Exchange Act of 1934, as amended, and complying with other applicable securities laws, rules, and regulations, we do not believe that existing or probably governmental regulations will have a material effect on our operations. We do not currently require the approval of any governmental agency or affiliated program for our operations.
+ 
+Employees, Consultants and Contractors
+ 
+We currently have 7 employees, and also contract the services of consultants in the various areas of expertise as required. The way in which our business currently operates is as follows:
+ 
+Our Chief Executive Officer, S. Matthew Schultz, currently manages our day-to-day operations. He is responsible for the negotiation of contracts, oversees the design, marketing and implementation of the products and processes, and manages licenses, patents, and other intangible assets. In addition to daily management tasks, Mr. Schultz also researches financing and potential investors.
+ 
+Our CFO, Zachary K. Bradford, is responsible for implementing our strategic goals and objectives. He is also in charge of managing our financial risks, financial planning, accounting records, SEC filings, reviewing financial data, reporting financial performance, preparing budgets, and monitoring expenditures and costs.
+ 
+Our COO, Bryan Huber, is responsible for implementing and overseeing our general operations and research and development activities. In addition, he is responsible for determining the feasibility and marketability of our technology and future technologies that we may acquire.
+ 
+The amount of time devoted to us currently by officers may be limited by the resources we have available. However, we feel the time devoted to operations is enough to cover our current operational requirements.
+ 

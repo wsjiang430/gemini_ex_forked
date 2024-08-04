@@ -1,0 +1,470 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+Coda Octopus Group, Inc. (“Coda,” “the Company,” or “we”) designs, and manufactures products for the subsea market including its patented flagship range of real time 3D sonar solutions (“Products Segment”). The Company also supplies engineering services. A significant part of the customer base for our engineering services comprise prime defense contractors (“Services Segment” or “Marine Engineering Business”).
+ 
+The Products Segment has been designing, manufacturing and selling products to the subsea market for close to 25 years. These products are used primarily in the underwater construction market, the offshore wind energy industry, oil and gas exploration, complex dredging, port and harbor security, defense, mining of gems and deep-sea minerals and marine sciences sectors. Our customers include service providers to major oil and gas companies, law enforcement agencies, government bodies (including maritime and navy organizations), ports, mining companies, underwater construction companies, defense companies and bodies, universities and research institutions. Our sales are conducted primarily in the US and the UK directly through our wholly owned subsidiaries and through our global network of independent agents and/or distributors. The Product Segments also includes a rental model under which it rents or leases its products with or without specialist engineering services, depending on our customers’ requirements.
+ 
+The Services Segment supplies engineering services primarily to prime defense contractors. The parts engineered and supplied to these customers form part of broader mission critical integrated defense systems, such as the Close-In-Weapons System (CIWS). The Services Segment established its business in 1977 and has been supporting a number of significant defense programs for over 30 years, including Raytheon’s CIWS and Northrop Grumman’s Mine Hunting Systems Program. The Services Segment’s business model entails designing small runs of prototypes for defense programs which typically lead to contracts for the manufacture, repair and upgrade of these parts. This business model ensures recurring and long tail revenues since we supply parts to these programs typically for the life of the program. The Services Segment operates through our wholly owned subsidiaries, Coda Octopus Colmek, Inc. (“Colmek”) based in Salt Lake City, Utah, and Coda Octopus Martech Limited (“Martech”) based in the United Kingdom
+ 
+Our corporate structure is as follows:
+ 
+
+Corporate History
+ 
+The Company began as Coda Technologies Limited. This company now operates under the name Coda Octopus Products Limited, a United Kingdom corporation formed in 1994 as a start-up company with its origins as a research group at Herriot-Watt University, Edinburgh, Scotland. Initially, its operations consisted primarily of developing software for subsea mapping and visualization using sidescan sonar (a technology widely used in commercial offshore geophysical survey and naval mine-hunting to detect objects on, and textures of, the surface of the seabed).
+
+4
+-
+
+
+In June 2002, we acquired Octopus Marine Systems Ltd, a UK corporation, and changed our name to Coda Octopus Limited. At the time of its acquisition, Octopus Marine Systems was producing geophysical products broadly similar to those of Coda, but targeted at the less sophisticated, easy-to-use, “work-horse” market. The Octopus Marine Systems acquisition led to the introduction of the Motion product (F180® series) into the Products Segment.
+ 
+In December 2002, Coda Octopus Ltd acquired OmniTech AS, a Norwegian company, which became a wholly owned subsidiary of the Company. This company now operates under the name Coda Octopus R&D AS. OmniTech owned the patents to a “method for producing a 3-D Image”. At the time of acquisition, this company had been engaged for over ten years in developing a revolutionary imaging and visualization sonar technology capable of producing real time three-dimensional (“3D”) underwater images for use in subsea activities. Coda Octopus Products Limited (Edinburgh) then developed the visualization software to control and display the images from the real time 3D sonar. This patented technology is now marketed by us under the name “Echoscope®”. We believe that this technology is superior to the other imaging sonars in the market as it generates real time 3D images of the underwater environment irrespective of low or zero visibility conditions and, unlike conventional sonars, can image a volume (as opposed to a slice of data) including moving objects subsea. This technology is covered by patents in a number of jurisdictions, including the USA. Currently, a substantial part of our R&D efforts is focused on further innovation and development of this technology. Some of the discriminators of this technology can be found in the table set out in the section below titled “Real Time 3D Sonar”. Coda Octopus R&D AS is now a dormant entity and all of its business activities (research and manufacturing) have been transferred to our Edinburgh based subsidiary (Coda Octopus Products Limited).
+ 
+The acquisition of OmniTech AS allowed the Company to expand its business activities to include the high-end sonar imaging and hydrographic survey markets. At the inception of the Marine Technology Business our revenues were generated solely from our geophysical software product. We subsequently added our motion sensors product (F180® series) in 2002 and our revenues were split over these two products. Revenues from our Products Segment are now mainly generated from our real time 3D sonar products including accessories and associated services.
+
+
+On July 13, 2004, the Company effected a reverse merger pursuant to the terms of a share exchange agreement between The Panda Project, Inc. (“Panda”), a Florida corporation, and a now defunct entity affiliated with Coda Octopus Ltd. (“Coda Parent”). Panda acquired the shares of Coda Octopus Limited, a UK corporation and wholly-owned subsidiary of Coda Parent, in consideration for the issuance of a total of 1,432,143 shares of common stock to Coda Parent and other shareholders of Coda Octopus Limited. The shares issued represented approximately 90.9% of the issued and outstanding shares of Panda. The share exchange was accounted for as a reverse acquisition of Panda by Coda. Subsequently, Panda was reincorporated in Delaware and changed its name to Coda Octopus Group, Inc.
+ 
+In June 2006, we acquired a UK design and engineering company, Martech Systems (Weymouth) Ltd (“Martech”), an English corporation established in 1988, which provides bespoke engineering solutions in the fields of electronic data acquisition, transmission and recording. Martech are suppliers to prime defense contractors, among others. It also supports some of the engineering and development requirements of the Products Segment. Martech changed its name to Coda Octopus Martech Limited in December 2008. This company is part of our Services Segment.
+ 
+In April 2007, we acquired Colmek (then Miller & Hilton Inc. d/b/a Colmek), a Utah corporation established in 1977 and which is custom engineering service provider of mission critical integrated systems to defense engineering prime contractors where a high level of reliability and quality is required. Colmek has been supporting a number of defense programs since the early 1990’s. Specifically, it supplies proprietary parts including providing upgrades to such parts to address either obsolescence issues or advancement in technology. This entity changed its name to Coda Octopus Colmek Inc. in December 2008. This company is part of our Services Segment.
+
+
+Both Martech and Colmek have the same business model, provide similar engineering services and sells to similar customer base (one is UK focused and the other is US focused).
+ 
+In January 2017, we effectuated a one for fourteen reverse split of our issued and outstanding common stock. Throughout this document, all share numbers have been adjusted for the reverse stock split and represented on this basis.
+ 
+Coda Octopus Group, Inc., is organized under the laws of the State of Delaware as a holding company that conducts its business through subsidiaries, several of which are organized under the laws of foreign jurisdictions, including England, Scotland, Norway, Denmark and Australia. This may have an adverse impact on the ability of U.S. investors to enforce a judgment obtained in U.S. courts against these entities, or to effect service of process on the officers and directors managing the foreign subsidiaries.
+ 
+
+5
+-
+
+Marine Technology Business (“Products Segment”)
+ 
+Our Marine Technology Business sells and rents proprietary marine products into various sectors including:
+
+
+
+● | Commercial marine geophysical survey 
+--+-------------------------------------------------------------------------------------------------------------------
+● | Marine and port Construction 
+● | Offshore energy and renewables 
+● | Defense 
+● | Oil & gas 
+● | Security and law enforcement 
+● | Environmental applications (for example mammal research, natural gas seeps, habitat assessment, and fisheries) 
+● | Salvaging and decommissioning applications 
+
+ 
+In the commercial marine geophysical survey sector, our products include geophysical data acquisition systems, analysis software and motion detection equipment that are used primarily by survey companies, research institutions and salvage companies.
+ 
+We believe we possess an important and unique patented sonar technology based upon more than 20 years of research and development. This gives us a significant advantage over our competitors in the subsea imaging sonar market sectors. We believe that our real time 3D sonar products are revolutionizing the sonar market due to its unique capabilities, especially in the following areas:
+ 
+
+(A) | Real time three-dimensional visualization; 
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(B) | Imaging of moving objects (such as blocks, mattresses, subsea structures or installations being placed or landed on the seabed, subsea vehicles, diver support or other objects); 
+(C) | Imaging of complex subsea structures (imaging a volume as opposed to a slice of data); 
+(D) | Providing situational awareness in real time to divers in low or zero visibility conditions; 
+(E) | Real time threat identification and navigation and obstacle avoidance; 
+(F) | Simultaneous mapping and imaging of moving objects using a single sensor; 
+(G) | Imaging or visualizing subsea environments in low or zero visibility conditions; and 
+(H) | Single sensor for multiple applications. 
+
+ 
+Our product range includes equipment based on our patented Echoscope® technology and a range of complementary 3D accessories in combination with our proprietary software which also includes patented techniques for rendering and tracking.
+ 
+Over the years, we have significantly advanced our research and development with respect to both hardware and software components of our real time 3D sonar technology and have filed further significant patents and have increased our market share for imaging sonars. Our third generation of products include the Echoscope® and other derivatives such as CodaOctopus® Underwater Inspection System (UIS), our forward-looking sonar, Dimension® and our Echoscope® C500 and more recently our Echoscope® XD variant.
+ 
+At present we are focusing on developing our fourth generation (“4G”) and fifth generation (5G) real time 3D sonar solutions for various market applications and varying price points. Our 4G/5G products will be aimed at expanding our market share by introducing more applications-focused products. In respect of our 4G/5G of products, we are pursuing an 18 months’ roll out plan. In this connection, on January 16, 2018 we launched the first product within our 4G series of real time 3D sonars. This first product is approximately 50% lighter, 40% smaller and requires 30% less power than the 3G generation of products. This product is now marketed under the name of Echoscope4G® Surface and is a shallow water system (for deployments and applications not exceeding 20 meters water depth) and is more competitively priced. We believe this is a significant achievement as it potentially paves the way for more market applications for the technology and potentially increases our market share of imaging sonars. We are launching the deep-water variants within our 4G series in the first quarter of fiscal year 2019 and in second and third quarters we intend to launch the algorithm and software enhancements to our 4G/5G series and our new processing capability which is far superior to our 3G processing engine. This will be marketed under the name CodaOctopus® PIPE (Parallel Intelligent Processing Engine).
+ 
+
+6
+-
+
+
+We believe that the development strategy and investments we are making in advancing our technology will help to standardize real time 3D solutions in the subsea market and grow the number of applications for this technology, particularly for defense applications. However, these are complex products and we can give no assurance that we will be successful in realizing commercially viable products or that we will not encounter technical glitches which may involve significant costs or other consequences or that our goals of increasing our market share will be realized.
+ 
+We believe that our patented technology is superior to the current sonars on the market including the multibeam which is the standard technology, as it can generate real time 3D volumetric imaging data of underwater environments (including real time threat identification) and image moving objects in the water column even in the most challenging water conditions. This unique and superior capability provides unparalleled underwater scene awareness in high frame rates similar to cameras. The resultant scene data can be used for multiple tasks simultaneously including object detection and avoidance in true 3D, complex scene mapping and augmented reality 3D workspace imaging combining the real time 3D data with 3D models. This enables real time assessment and decision making. This technology is changing the work flow processes for a number of applications and delivering significant productivity gains and health and safety improvements, particularly in applications requiring imaging moving objects (either their placement or removal from the sea bed), conducting subsea operations in low or zero visibility conditions. This therefore prevents downtime (and the associated costs for such downtime) in these projects and providing real time 3D measurements. Some of our customers are reporting productivity gains of as much as 5000% in block placements for breakwater and other types of projects. Furthermore, our claims that our technology is superior to other sonar technology on the market were validated in a recent study done by the US Department of Transportation’s Federal Highway Administration under which our real time 3D sonar technology was assessed as best in its class for bridge inspections.
+
+
+The Echoscope® has a wide range of applications including:
+ 
+
+● | inspection of harbor walls; 
+--+------------------------------------------------------------------------------------------------------
+● | inspection of ship hulls; 
+● | bridge inspections; 
+● | block placements (in the context of breakwater construction); 
+● | subsea asset placements including landings; 
+● | deep sea mineral mining and shallow water gem mining; 
+● | cable laying and cable pull in operations in offshore wind energy applications; 
+● | inspection of offshore installations such as gas and oil rigs and wind turbines; 
+● | obstacle avoidance including for Remotely Operated Vehicles; 
+● | Autonomous Underwater Vehicle (AUV) navigation and target recognition (obstacle avoidance); 
+
+
+7
+-
+
+
+● | construction - pipeline touchdown placement and inspection; 
+--+-----------------------------------------------------------------------------------
+● | bathymetry (measurement of water depth to create 3D terrain models); 
+● | managing underwater construction tasks; 
+● | underwater intruder detection; 
+● | contraband detection; 
+● | locating and identifying objects located underwater including mines; 
+● | detection and study of individual species in real time 3D (fish, whales etc.); 
+● | oil and gas leak detection; 
+● | fish school detection and analysis; 
+● | diver tracking and guidance; 
+● | underwater archaeological and salvage site mapping; 
+● | salvaging and decommissioning; 
+● | harbor construction – concrete armoring; and 
+● | unexploded ordinances survey and intervention. 
+
+ 
+The technology enables real time 3D visualization of static scenes or moving objects from either a static location or a dynamically moving platform vessel (Autonomous Underwater Vehicle (“AUV”), Remotely Operated Vehicle (“ROV”)) or a surface vessel. Conventional sonars are capable of producing maps of static scenes only without the ability to image moving objects. A significant part of subsea activities consists of identifying moving objects including whether they may pose a threat.
+ 
+The Echoscope® technology is protected by patents, including a number of complementary patents such as a patent which covers our visualization methodology and our rendering of real time 3D images. For example, one of our recently awarded patents provides for a new method of using multiple sonar images to produce in real time 3D a highly detailed image with sharply defined edges while intelligently discarding “noise” in the image produced by passing fish or floating debris. One of our main patents, “a method of producing a 3D image”, will expire June 1, 2019. However, in 2018 we filed a number of regular and also provisional patent applications, that, if granted, will afford significant protection around our products. Furthermore, despite the aforementioned method patent expiring we still have a number of significant patents around our real time 3D sonar series including our “volume rendering of 3D sonar data” and our “method of rendering volume representation of sonar images” and our recently granted patent “object tracking using sonar imaging” which sits at the heart of our method for generating a real time representative 3D image. Our technology is complex and is protected at both the hardware, algorithm and software level.
+
+
+Sales and Marketing
+ 
+We market the Echoscope® both as a stand-alone sonar device and as a fully integrated system. The fully integrated system is our premium product and is marketed under the name “CodaOctopus® UIS (Underwater Inspection System)”. This latter system is specifically aimed at the port security market and has been adopted by a significant number of ports in the United States. Since 2015 we built upon our success in selling in excess of 30 Underwater Inspection Systems to ports in the USA by selling a number of systems to an East Asian government agency for use in salvage operations and port and harbor inspection. Our 4G sonar products which is based on our new technology advancements are smaller, lighter, with less power requirements presents a new opportunity to introduce a new UIS with a lower price point, thus presenting the opportunity to increase the number of ports investing in this equipment.
+
+8
+-
+
+
+We also lease our technology with associated services. Leased equipment is typically supplied with our expert engineers who either operate the equipment or train our customers. The rental option represents an increasingly important market and also provides access to the technology by a broader range of end users who typically prefer leasing over purchasing such as large oil and gas companies.
+
+
+We have an internal sales and marketing team which is engaged in marketing and selling our products including our real time 3D sonar technology. We also have a network of independent global sales agents.
+ 
+Products
+ 
+Our products are marketed under the “CodaOctopus®” brand and consist of three main product lines:
+ 
+
+Data Acquisition Products includes integrated hardware acquisition devices which includes feature rich post-processing software for all levels of geophysical survey work, with which we commenced our operations in 1994. This device is typically used for the initial phase of oil and gas exploration. Our recently launched Survey Engine Automatic Object Detection (based on Artificial Intelligence techniques) is complementary to this product set. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Motion Sensing Products consists of a range of GPS-aided precision attitude and positioning systems and software for all types of marine survey and positioning work and is also integrated with our premium product on the sonar side (CodaOctopus® Underwater Inspection System). 
+Real Time 3D Sonar includes our unique and patented real time 3D imaging sonars (Echoscope®) and cutting-edge software (including patented methods for rendering and tracking) that we believe is shaping the future of subsea operations both within the commercial and defense sectors. We have a number of real time 3D sonar within our range of products which are sold for different applications and operated at different water depth levels. 
+
+Real Time 3D Sonar
+ 
+Our real time 3D imaging sonar technology generates most of the revenues for our Products Segment and we believe that it represents the Company’s most promising area for growth in the medium term. Some of the key differentiators of our technology compared to other imaging sonar technologies on the market are:
+
+No. | Description of Differentiator 
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. | Real time 3D imaging sonar providing true first-person perspective visualization subsea; 
+2. | Real time 3D volumetric images of the underwater environment being imaged; 
+3. | Real time 3D volumetric images irrespective of low or zero visibility conditions prevailing at sea; 
+4. | Due to the shape of our beams which has width and height capability we can have almost 100% coverage of a subsea object/target with a single pass of the object/target being imaged. Current sonars in the market require multiple passes to be able to create a comprehensive image of the object or target – making this costly and inefficient; 
+5. | Real time 3D images of both moving objects and static volumetric scenes in the water. Conventional sonars, such as the multibeam, can only produce static images (mapping); 
+6. | No requirement for post-processing images generated by our technology (since it is a real time 3D imaging sonar) thus reducing the costs associated with these activities; 
+7. | Real time identification of threats including small target detection and visualizing moving projectiles and their targets in the water column. We can also accurately and repeatedly guide projectiles onto targets; 
+8. | Real time automated and manual 3D measurements of subsea objects and targets; 
+9. | Crisp and easy to interpret eidetic images of subsea target thereby deskilling many areas of work in the subsea environment by enabling persons without a hydrographic background to perform subsea tasks (such as law enforcement officers and crane operators); 
+10. | Real time image in any orientation including forward looking for obstacle and collision avoidance at sea; 
+
+
+9
+-
+
+
+11. | Map complex underwater environments and structures with very high coverage confidence in a fast and efficient manner. Conventional sonars suffer from significant shadows when imaging complex structures; and 
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12. | Discern with greater degree of confidence real subsea targets versus subsea noise and other moving objects, such as fish, bubbles, gas etc. 
+
+ 
+Our current third-generation product line consists of five products within the real time 3D sonar series:
+ 
+
+● | Echoscope® rated at 300m, 600m, 3000m and 4000m; 
+--+------------------------------------------------------------------------------------------
+● | Echoscope® C500 (launched in 2014); 
+● | Echoscope® XD (launched in January 2017); 
+● | Dimension® (launched in 2013); and 
+● | CodaOctopus® Underwater Inspection Systems (“UIS”). 
+
+ 
+Our fourth-generation/fifth generation of products consist:
+ 
+
+● | Echoscope4G® rated at 300m, 600m, 3000m and 4000m (these will be in the new form factor (smaller, lighter and require less power to operate)); 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Echoscope4G®Surface rated at 20m; 
+● | Echoscope4G® C500 (300m, 3000m, and 4000m) 
+● | Echoscope4G® XD 
+● | Echoscope4G®C500 Surface (for autonomous surface vehicles) rated at 20m; and 
+● | CodaOctopus® Underwater Inspection Systems (“UIS”). 
+
+ 
+Our products are used either by mounting on a surface vessel, cranes, excavators, underwater vessels such as remotely operated vehicles (ROV) or autonomous underwater vehicles (AUV), mining crawlers and the like or Autonomous Surface Vehicles (ASV). A brief description of our main line of products is set forth below. We offer many other similar products in various sizes with diverse capabilities.
+
+
+Our 4G/5G of products are based on our new technological advancements and are smaller, lighter and have less power requirements. Once we launch our new algorithms and new software platform for our 4G/5G products, our 4G/5G products will also have better performance and capabilities.
+ 
+Software Products
+ 
+Our Software development capability is an important part of our success and forms an important part of our strategy to maintain our lead in designing, manufacturing and selling state-of-the-art real time 3D solutions. 
+ 
+Our software products are sold through a perpetual software license in combination with our real time 3D sonar solutions. During the first 12 months after purchase, the customer benefits from our technical support services. After the first year, ongoing technical support services may be purchased as an annual subscription service which entitles the customer to 24x7x365 telephone, email and remote dial in support and minor software upgrades. In addition, where we issue major releases of our software (as opposed to minor releases (maintenance release)), this is a chargeable option for our customers.
+
+
+
+10
+--
+
+
+Our software packages are feature rich and include patented techniques in a number of our modules. In general, our software package contains significant capabilities that are designed to address specific subsea challenges by application particularly in the context of a dynamic subsea setting (as opposed to a static mapping of the seabed as is typical for conventional sonar technology). Some of our unique features include:
+ 
+
+Feature Description | Functionality 
+---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Real Time Measurements | important for many types of subsea operations such as block or asset placements or aiding diving operations; 
+Models + Software Module | allows the user to import existing models and engineering drawings into the real time subsea environment; 
+Edge Detection Algorithm | allows the user to superimpose an edge to easily identify a subsea target; 
+Rendering a Noise Free Image | allows for a crisp, clear and high-resolution photo-like image without any processing (which would be required for conventional sonars); and 
+Tracking Algorithm | Algorithm is used to track known objects within the real time 3D Data. This is currently utilized in our Construction Monitoring Software Package (see below) 
+
+ 
+The Echoscope® and Construction Monitoring Software (CMS) have important applications for breakwater construction. Our CMS package has been recently updated to include patented algorithms for tracking and placement of single layer armor blocks used in breakwater construction.
+ 
+We believe that our technology is becoming the preferred solution for subsea block placements in breakwater solutions because it allows crane operators to visualize in real time the moving blocks and tracking these into their placement position accurately. We believe that our solution has significantly simplified and made safer this area of the workflow process in breakwater construction. It has also increased significantly the lay-rate for blocks being placed with customers reporting up to 5000% increase in productivity.
+ 
+We are not aware of competing technologies that offer real time 3D visualization and monitoring of subsea construction sites including previously laid blocks. In addition, the feature rich software package (CMS) which allows the complete workflow for breakwater construction to be planned within the software, greatly reduces project risks and timing while improving the quality of the projects. Furthermore, the patented tracking algorithms that have recently been enhanced and strengthened to provide opportunity for additional applications involving placing objects or structures underwater.
+ 
+We generate around 87% of our revenues in the Products Segments from our real time 3D sonar products (hardware and software). We anticipate our revenues from this line to increase.
+ 
+Fourth and Fifth Generation (4G and 5G) Real Time 3D Sonar Products
+ 
+During the last 30 months, we have invested a significant part of our research and development resources on developing our 4G/5G real time 3D solutions for various market applications and varying price points.
+
+11
+--
+
+
+On January 16, 2018 we launched the first product within our 4G series of real time 3D sonars, the Echoscope4G® Surface. This first product within our 4G range is 50% lighter, 40% smaller and requires 30% less power than our third generation of products and is more competitively priced. This allows us to compete more effectively against other conventional sonars within this price bracket and applications where size, weight and price are key factors. This product is suitable for shallow water applications only and is now available for customer trials, rental, licensing or outright purchase. Introduction of this product potentially paves the way for more market applications for the technology and potentially increases our market share of imaging sonars. In fiscal year 2018, most of our sonar sales were around this new product, Echoscope4G® Surface.
+ 
+In calendar year 2019, we expect to roll out the new iteration of our 4G/5G products to include:
+ 
+
+● | Standard deepwater version of our Echoscope in the new form factor of the Surface which was launched in January 2018. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Our new surface Sonar Echoscope®4G C500 Surface for Autonomous Surface Vehicles (“commonly referred to as “ASV). 
+● | Our new capability to generate full time series sonar data, our new processing engine which will increase the capability of the hardware to capture and process more data with a much higher level of accuracy. 
+
+
+
+In 2019 we anticipate that all our sonar technology will migrate to our 4G/5G Platform which benefits from both the revised form factor on the hardware side and the smart algorithm on the software side (allowing for vastly improved performance) and capability to address the emerging autonomous underwater vehicle including sea drones.
+ 
+Data Acquisition
+ 
+We started our business in 1994 designing and developing the CodaOctopus® GeoSurvey software package for acquisition and processing of sidescan sonar data. For over two decades, our GeoSurvey has been an industry leading software package on the market for data acquisition and interpretation and provides feature rich solutions and productivity enhancing tools for the most exacting survey requirements. Designed specifically for sidescan and sub-bottom data acquisition, CodaOctopus® GeoSurvey has been purchased by numerous leading survey companies throughout the world. This product range includes:
+ 
+CodaOctopus® GeoSurvey Acquisition Products
+ 
+These consist of a range of hardware and software solutions for field acquisition of sidescan sonar and sub-bottom profiler, which includes analogue and digital interfaces compatible with all geophysical survey systems. 
+ 
+CodaOctopus® GeoSurvey Productivity Suite
+ 
+This consists of an integrated suite of software that automates the tasks of analyzing, annotating and mosaicing complex data sets, thus ensuring faster and more precise results.
+ 
+We continue to advance this range of product and in 2018 we launched our first product based on Artificial Intelligence Techniques which allows us to automatically identify boulders on the sea bed (“Survey Engine Automatic Object Detection”). This new product presents a real opportunity to radically change work flow process for post-processing and analyzing side scan sonar data to assess, amongst other things, the suitability of an area for exploration and construction activities (O&G installations, pipeline and cable laying activities). This is in its early stage of roll out but has sparked significant interest. Furthermore, this technology is extensible and we intend to develop our Mine Detecting capability. This is an area where we are investing our research and development efforts.
+
+
+CodaOctopus® Instruments
+ 
+These consist of simple, solid and robust solutions for sidescan sonar and sub-bottom profilers. Used throughout the world by leading survey companies, navies and academics, CodaOctopus instruments are ideal where minimal training and simple installation and set-up is paramount. Coupled with intuitive but powerful post processing software, the Octopus range meets the requirements of survey applications from the smallest inshore survey, rapid deployment naval reconnaissance to large scale site investigations. 
+ 
+CodaOctopus® DA4G is the 4th generation of our successful DA series and is built on twenty years of knowledge, experience and innovation in supplying unparalleled products and service to the worldwide geophysical survey sector. These purpose-built, turn-key, systems incorporate the very latest hardware specifications and are designed and delivered to meet the demanding nature of offshore survey work.
+ 
+The CodaOctopus® DA4G range consists of a number of options and is backed (like all our products) with global service and support.
+ 
+We generate around 5% of our revenues from the Products Segments from this range of products. With the launch of the new products we would anticipate our revenues from this line to increase over time.
+ 
+
+12
+--
+
+Motion Sensing Products
+ 
+Our F180® (and the more recently introduced CodaOctopus® F170 families) has been developed for the marine environment and is based on technology originally developed for the extreme world of motor racing. Modifications and enhancements have resulted in a simple-to-use, off-the-shelf product that brings accurate positioning and motion data into extreme offshore conditions for precision marine survey applications worldwide. Variants within the F180® series include the F190, exclusively configured for use ‘inland’, e.g. within ports and harbors, and the F185, with enhanced precision positioning to 2 cm accuracy (<1”). Octopus iHeave, an intelligent software product for dealing with long period ocean swell compensation, is fully integrated within the F180® series.
+ 
+The F170 family is designed with ease of use in mind. They are compact, simple to install and produce accurate position and motion data for the marine industry. The F175 allows integration of third-party GNSS systems thus enhancing the accuracy of the outputs and improving the robustness of the solution.
+ 
+Our Motion Sensing Products are sold alone or in conjunction with our real time 3D sonars. We are currently expending a significant amount of our resources in developing the next generation of our motion sensors. 
+ 
+We are aiming to launch our fourth-generation of Motion Sensing Products (F280®) in March 2019. The new hardware motion sensing products will be based on more advanced technology and new software. It is also highly complemented to our real time 3D sonar series and they are packaged together to provide a more comprehensive solution to our customers.
+ 
+We generate around 8% of our revenues from the Products Segments from our Motion Sensing Products. With the launch of the new products we anticipate our revenues from this line to increase over time.
+ 
+Coda Octopus Products Limited has the requisite accreditation for its business including LRQ accredited to ISO 9001:2015.
+ 
+Marine Engineering Businesses (“Service Segment”)
+ 
+Our Marine Engineering Businesses comprise Colmek based in Salt Lake City and Martech based in the United Kingdom.
+
+
+These two operating entities supply parts that form part of mission critical integrated defense systems, test equipment, instrumentation and the like, primarily to the defense sector where high levels of reliability and quality are essential pre-requisites for securing and maintaining these agreements with their customers. Typically, in the first instance we prototype products for these customers and after going through various acceptance tests, including first article inspection approvals, we are given the production contracts. Many of these production contracts have repeat orders profile which typically follows the life cycle of the defense program that is using the production part.
+ 
+These arrangements often give us long term preferred/sole supplier status, technology refresh and obsolescence management for such customers and we generally use these long-standing relationships to win more contracts with these customers.
+ 
+In addition, we are increasingly combining our engineering capabilities with our product offerings. This enables us to offer systems which are complete with installation and support to maximize the utilization of our collective expertise to advance our real time 3D technology.
+ 
+Coda Octopus Martech Limited (“Martech”)
+ 
+Martech operates in the specialized niche of bespoke design and manufacturing services mainly to the United Kingdom defense and subsea industries. Its services are provided on a custom sub-contract basis where high quality and high integrity devices are required in small quantities. Martech has the requisite accreditation for its business including LRQ accredited to ISO 9001:2015.
+ 
+An example of Martech’s design and engineering services is the development of a ruggedized display unit in military vehicles capable of displaying variables such as wind speed, air temperature and humidity independent of the vehicle’s computer.
+ 
+In late 2010 Martech was awarded a significant contract to design and build two pre-production chemical decontamination units the successors of which have been designated as part of the ground equipment for a major international military aircraft program. The Company has since started production of these units which form part of the standard ground equipment for this military aircraft. Since the inception of this program, Martech has sold units having a total contract value of $2.4m.
+ 
+
+13
+--
+
+
+Martech is one of the first suppliers bringing to the market controllers for fire sprinkler systems which periodically test the associated pumps. Sprinkler systems are now required to be introduced in certain larger domestic buildings under UK legislation and since the major fire incident “Grenfell Tower Disaster” it has increased its lead in this market. Its FireSafe Products are increasingly becoming a significant part of its business.
+ 
+The Company enjoys pre-approvals to allow it to be short-listed for certain types of government contracts. Much of the more significant business secured by Martech is through the formal government or government contractor tendering process. Government contracts may be terminated at any time at the discretion of the government. If the government does terminate a contract, the Company is allowed to recover the costs incurred up to the date of termination. During the last few years, only one non-material government contract was terminated for convenience.
+ 
+Martech is a key supplier of various parts to our marine products business and has been assisting in the further development of a number of those products.
+ 
+Coda Octopus Colmek, Inc. (“Colmek”)
+ 
+Colmek is a service provider of defense engineering solutions, particularly in the fields of data acquisition, storage, transmission and display. It has grown and diversified since beginning its operations in 1977 and now provides services and products to a wide range of defense, research and exploration organizations in the United States.
+ 
+Colmek has the requisite accreditation for its business including LRQ accredited to ISO 9001:2015.
+ 
+Colmek designs, manufactures and supports systems that are reliable and effective in multiple military and commercial applications where ruggedness and reliability under extreme operational conditions are paramount and where lives depend on accurate and precise information.
+ 
+Colmek has long standing relationships with a number of prime defense contractors and has been supporting a number of defense programs for over 30 years including the Close in Weapons Support Program (CIWS) for which it supplies proprietary parts and services and technical refresh programs. As a result, Colmek has repeat revenues from these long-standing programs. Colmek continues to expand the number of established programs into which it supplies proprietary parts.
+ 
+During fiscal year 2018, Colmek continued to increase the number of new significant defense programs and was awarded two development contracts. Once the prototype phase is completed, we expect to become long term manufacturing contracts for Colmek.
+ 
+In June 2014 Colmek completed the acquisition of the Thermite® which is a rugged visual mission computer line and the Sentiris® AV1 XMC video card for $1,100,000 in cash. Colmek also acquired hardware, Thermite stock, and other intellectual property rights (such as software code and trademarks pertaining to these products).
+ 
+The Thermite® Product fits within established programs with Department of Defense (“DoD”) prime contractors and benefits from being a single source product under this program. Customers for this item include the US Army, Benchmark, and Endeavor Robotics Defense and Security Division. Since acquiring these two products in 2014, we have received orders in excess of $2,700,000.
+ 
+Thermite ® Rugged Visual Computers
+ 
+
+● | Rugged, graphics-based PCs designed to perform in the most brutal environmental conditions; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Focus on graphics-based high-performance computing with integrated accelerated video capture capability; 
+● | Lightweight, power efficient and conduction-cooled; 
+● | Three models, optimized for man-wearable, vehicle, and airborne platforms; and 
+● | Programs include dismounted soldier training, mission rehearsal, real time imaging, robotic control, weapon system control, sensor processing and display. 
+
+
+14
+--
+
+
+We have now designed and developed our next generation of the Thermite® “Octal”. The new Octal is in trials with a number of new customers who fit the profile of large quantity purchasers with repeat and long-term requirements for this product.
+
+
+Sentiris® AV1 XMC
+ 
+
+● | FPGA-based PCI Express Mezzanine Card designed for video and graphics processing applications; and 
+--+----------------------------------------------------------------------------------------------------------------------------------------
+● | Targeted platforms include MH-47G helicopters, MH-60M Blackhawk helicopters, MC-130H Combat Talon II and CV-22 Tilt-Rotor aircraft. 
+
+ 
+Since acquiring the Sentiris® (as part of the Thermite acquisition), we have successfully completed the first article inspection (“FAI”) approval phase and are now in the production phase. We have received orders for approximately $1,200,000 since completion of the FAI process.
+ 
+This is expected to be a significant new product as this program is funded and there will be ongoing demand for this product over the life of the program.
+ 
+Other products offered by Colmek include subsea telemetry and data acquisition systems, rugged workstations, analog-to-digital converters and rugged LCD displays.
+ 
+Competition
+ 
+In our Products Segment, we are exposed to the following competitive challenges:
+ 
+Data Acquisition Products
+ 
+The sonar equipment industry is fragmented with several companies occupying niche areas, and we face competition from different companies with respect to our different products. In the field of geophysical products, Triton Imaging Inc., a US-based company, now part of the ECA Group (Toulon, France), Chesapeake, a US-based company, and Oceanic Imaging Consultants, Hawaii, USA, dominate the market with an estimated 25% each of world sales, while we believe that we control approximately 5% of world-wide sales.
+
+15
+--
+
+Motion Sensing Products
+ 
+In the field of motion sensing equipment, where our product addresses a small part of the overall market, we believe that we have four principal competitors: TSS (International) Ltd in Watford, England which is focused on the mid-performance segments with about 25% of the world market; Ixsea, a French company which covers all segments, with about 20% of the market; Kongsberg Seatex, a Norwegian company (part of Kongsberg Gruppen) which has products across all segments, with about 15% of the market; and Applanix, a Canadian company, now part of Trimble which has one major product focused on the high end of the market, with about 20% of the market. We believe that our market share in the field of motion sensing equipment is only about 5%. This market is fiercely competitive and with the advancement of technology, there are new entrants to the market such as SBG Systems (a French based manufacturer of motion sensors). Due to the price pressure in this market, we are selling our products more in conjunction with our real time 3D sonars than on a standalone basis.
+Real Time 3D Sonar
+ 
+In the field of Real Time 3D imaging, we are unaware of other companies offering a similar product. The entry into this market is dependent upon specialized marine electronics, acoustic and software development skills. The learning curve, which has resulted in the advancement of our real time 3D sonar device, is the culmination of two decades of research and development into this field. We are aware of a number of high profile and substantial competitors’ real time 3D projects that have failed. Over the last several years there have been lower grade sonars entering the market for 3D imaging. Companies such as Tritech International Ltd., United Kingdom, BlueView Technologies Inc., USA (now a part of Teledyne Technologies Incorporated), and Norbit Group AS Norway are examples, but none of these sonar offerings are directly comparable or competitors in respect of our real time 3D solutions. Specifically, we believe that they do not have the same capabilities as our patented Echoscope® technology in terms of generating real time 3D images of submerged objects and environments in low or zero visibility conditions. However, Teledyne has in the last four years acquired a significant number of subsea companies (examples are Reson and BlueView). Teledyne has much greater resources and liquidity than the Company. We therefore can give no assurance that companies such as these will not enter this market.
+ 
+We seek to compete on the basis of producing high quality products employing cutting edge technology that is easy to use by operators without specialized skills in sonar technology. We intend to continue our research and development activities to continually improve our products, seek new applications for our existing products and to develop new innovative products.
+ 
+In our Services Segment, we are exposed to the following competitive challenges:
+ 
+Marine Engineering Businesses
+ 
+Through our marine engineering operations, Coda Octopus Colmek, Inc. and Coda Octopus Martech Limited, we are involved in custom engineering for the defense industry in the United States and in the United Kingdom. Martech competes with larger contractors in the defense industry. Typical among these are Ultra Electronics, BAE Systems, and Thales, all of whom are also partners on various projects. In addition, the strongest competitors are often the clients themselves. Because of their size, they often have the option to proceed with a project in-house instead of outsourcing to a sub-contractor like Martech or Colmek.
+Intellectual Property
+ 
+Our product portfolio and technologies are protected by intellectual property rights including trademarks, copyrights and patents. We have a number of fundamental patents around our sonar products including a patent covering combining two or more acoustic images to produce a composite image. This covers the real time acoustic image generation element of what we do, and we believe it provides us with a competitive advantage. One of our main patents, “Method of Producing a 3-D Image”, will expire in June 2019. We have in fiscal year 2018 filed further regular and provisional patent applications around our 4G/5G of technology which, if granted, will afford significant patent protection. In the mean-time even with the expiration of our Method Patent in June 2019, we have other significant patents around our technology. Furthermore, our technology is a combination of hardware, algorithm, software – for which we have patents and trade secrets covering.
+Patents
+ 
+Our patented inventions along with our strategy to enhance these inventions are at the heart of the Company’s strategy for growth and development.
+ 
+
+16
+--
+
+
+Our patent portfolio consists of the following:
+ 
+
+Patent Number | Description | Expiration Date 
+-----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------
+US Patent No. 6,438,071 | Concerns the “Method for Producing a 3-D Image” and is also recorded in the European Patents Register #EP 1097393 B1; Australia #55375/99 and Norway #307014. This patent relates to the method for producing a 3D image of a submerged object, e.g. a shipwreck or the sea bottom. | June 1, 2019 
+US Patent No. 6,532,192 | Concerns “Subsea Positioning System and Apparatus” | July 1, 2019 
+US Patent No. 7,466,628 | Concerns a “Method of constructing mathematical representations of objects from reflected sonar signals.” | August 15, 2026 
+US Patent No. 7,489, 592 | Concerns a “Method of automatically performing a patch test for a sonar system, where data from a plurality of overlapping 3D sonar scans of a surface, as the platform is moved, are used to compensate for biases in mounting the sonar system on the platform”. | January 19, 2027 
+US Patent No. 7,898,902 | Concerns a “method of representation of sonar images” allowing sonar three-dimensional (3D) data to be represented by a two dimensional image. | June 13, 2028 
+US Patent No. 8,059,486 | Concerns a method of rendering volume representation of sonar images. | April 16, 2028 
+US Patent No. 8,854,920 | Concerns a method of volumetric rendering of three dimensional sonar data sets | September 5, 2032 
+US Patent No. 9,019,795 | Method of object tracking using sonar imaging | September 5, 2032 
+US Patent No. 10,088,566 | Object Tracking using sonar imaging | October 30, 2035 
+
+Trademarks
+ 
+We own the following registered trademarks: Coda®, Octopus®, CodaOctopus®, Octopus & Design®, F180®, F180 4G Series®, F280®, Echoscope®, Echoscope 4G®, Survey Engine®, Dimension®, DAseries®, CodaOctopus® Vantage; CodaOctopus® UIS; CodaOctopus® USE, Sentiris® and Thermite®.
+
+
+We also use the following trademarks: CodaOctopus®F170, CodaOctopus®F175, CodaOctopus®F190, CodaOctopus® UIS CodaOctopus® TEAM and CodaOctopus® TLS.
+ 
+In addition, we have registered a number of internet domain names including www.codaoctopus.com; www.codaoctopusgroup.com; www.colmek.com and www.martechsystems.co.uk.
+ 
+Research and Development
+ 
+During the fiscal years ended 2018 and 2017, we spent approximately $2.6 million and $1.4 million, respectively, on mainly developing our real time 3D sonar technology (our Products Segment), our new Motion Sensor F280®, our Artificial Intelligence Algorithm (Automatic Boulder Detection) and Thermite ® refresh (our Services Segment).
+ 
+Our products are complex and therefore we can give no assurance that we will be successful in the above-stated objective. Furthermore, even following launch we may not succeed. Moreover, we may incur significant research expenditures without realizing viable products.
+ 
+
+17
+--
+
+Government Regulation
+ 
+Because of the nature of some of our products, they may be subject to United States and other jurisdictions’ export control regimes and may be exported outside these jurisdictions only with the required level of export license or through an export license exception or general export authorization/license.
+ 
+In addition, as a provider for the US Government, we may be subject to numerous laws and regulations relating to the award, administration and performance of US Government contracts, including the False Claims Act. Non-compliance found by any one agency could result in fines, penalties, debarment, or suspension from receiving additional contracts with all US Government agencies. Given our dependence on US Government business, suspension or debarment could have a material adverse effect on our business and results of operations.
+ 
+Employees
+ 
+As of the date hereof, we employ worldwide approximately 115 people, of which 11 hold management positions. A large majority of our employees have a background in science, technology and engineering, with a substantial part being educated to degree and PhD level. None of our employees are employed under a collective agreement and we have not experienced any organized labor difficulties in the past.
