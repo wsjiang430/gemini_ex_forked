@@ -1,0 +1,572 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ We are a leading worldwide developer and supplier of custom-designed human interface semiconductor product solutions that enable people to interact more easily and intuitively with a wide variety of mobile computing, communications, entertainment, and other electronic devices.  We currently generate revenue from the markets for smartphones, tablets, personal computer, or PC, products, Internet of Things, or IoT, products and other select electronic devices, including devices in automobiles.  Every solution we deliver either contains or consists of our touch-, display driver-, audio and voice-, imaging-, video- or fingerprint authentication-based semiconductor solutions, which includes our chip, firmware and software, including customer-specific firmware and software.
+ We are a market leader in providing human interface product solutions to our target markets. Our original equipment manufacturer, or OEM, customers include most of the world’s largest OEMs for smartphones, tier one PC OEMs, and many large OEMs for voice, speech and video products.  We generally supply our human interface product solutions to our OEM customers through their contract manufacturers, which take delivery of our products and pay us directly for such products.
+ Our website is located at www.synaptics.com.  Through our website, we make available, free of charge, all our Securities and Exchange Commission, or SEC, filings, including our annual reports on Form 10-K, our proxy statements, our quarterly reports on Form 10-Q, and our current reports on Form 8-K, as well as Form 3, Form 4, and Form 5 Reports for our directors, officers, and principal stockholders, together with amendments to those reports filed or furnished pursuant to Sections 13(a), 15(d), or 16 under the Securities Exchange Act of 1934, as amended, or the Exchange Act.  These reports are available on our website promptly after their electronic filing with the SEC.  Our website also includes corporate governance information, including our Code of Conduct, our Code of Ethics for the Chief Executive Officer and Senior Financial Officers, and our Board Committee Charters.  The contents of our website are not incorporated into or deemed to be a part of this report.
+ We were initially incorporated in California in 1986 and were re-incorporated in Delaware in 2002.  Our fiscal year is the 52- or 53-week period ending on the last Saturday in June.  The fiscal years presented in this report were the 52-week periods ended June 29, 2019 and June 24, 2017, and a 53-week period ended June 30, 2018.  For ease of presentation, this report labels the reporting periods as ending on calendar month- or year-end dates as of and for all periods presented, unless otherwise indicated.
+ Mobile Product Applications Markets
+ We believe our intellectual property portfolio, engineering know-how, systems engineering experience, technological expertise, and experience in providing human interface product solutions to major OEMs of electronic devices position us to be a key technological enabler for multiple consumer electronic devices targeted to meet the mobile product applications markets, which incorporate discrete touch controller products, display driver, or DDIC, products, and touch and display driver integration, or TDDI, products. Mobile product applications include smartphones, tablets, large touchscreen applications, as well as a variety of mobile, handheld, wireless, and entertainment devices.  Our array of human interface product solutions for mobile product applications are designed to enrich the interface on smartphones, tablets, and peripherals, and enable the owner to view the screen on these devices and to more easily interact with the content on these devices.  We believe our existing technologies, our range of product solutions, and our emphasis on ease of use, small size, low power consumption, advanced functionality, secure access, durability, reliability, and simplified security enable us to serve multiple aspects of the markets for mobile product applications and other electronic devices.
+ Our human interface product solutions for mobile applications constitute a substantial percentage of our net revenue.  Net revenue for our mobile product applications accounted for approximately 61%, 63%, and 82% of our net revenue for fiscal 2019, 2018, and 2017, respectively.  Our ongoing success in serving these markets will depend upon the size of the smartphone portion of the overall mobile phone market; our growth in the virtual reality, or VR, display market; our ability to demonstrate to mobile product applications OEMs the advantages of our human interface product solutions in terms of performance, usability, size, simplified security, durability, power consumption, integration, and industrial design possibilities; and the success of products utilizing our human interface product solutions.  In addition, our success will depend on our ability to demonstrate to mobile product applications OEMs the advantages of our DDIC and TDDI products, our flexible touchscreen and systems engineering expertise, including our ability to successfully deliver DDIC products into the Organic Light Emitting Diode, or OLED, smartphone market, and our ability to deliver touch screen products to the flexible OLED smartphone OEMs.  The OLED smartphone market remains a key growth area for us. The adoption of OLED at top OEMs is accelerating in calendar year 2019, which could drive an opportunity for our OLED DDIC and touch screen products. 
+ 1
+
+We expect the smartphone market to continue its trend towards greater functionality in smartphone products to meet and address the expanded needs and expectations of the consumer-oriented market.  These products require a simple, durable, and intuitive human interface product solution to access their device or application, and to enable the user to view and navigate efficiently through menus and scroll through information contained in the host device. We believe we are well positioned to take advantage of this growing market based on our technology, engineering know-how, systems engineering experience, and the acceptance of our human interface product solutions by OEMs in this market.
+ The virtual reality, or VR, market represents growth opportunities for our display driver products and fingerprint sensor intellectual property portfolio. The VR market is expected to continue to grow, with major investors in the space including today’s major players, in addition to new start-ups. Our high-performance, low power display driver technology is well suited to the demands of the VR market. The tablet and large touchscreen markets also represent a potential growth opportunity for us. Touchscreen and display drivers required for the tablet market range from basic e-book vendor solutions to multi-function solutions designed for more complex operating systems. Tablet-based capacitive touch interface devices are now offered by several leading PC and mobile phone OEMs and utilize various operating systems, including Android and Windows 10. Our engineering know-how and technological expertise with display drivers could represent an opportunity for us in this market in our fiscal 2020. 
+ PC Product Applications Market
+ We provide custom human interface product solutions for navigation, cursor control, and for access to devices or applications through fingerprint recognition for many of the world’s premier PC OEMs.  These functions are offered as both stand-alone and integrated touch pads plus fingerprint recognition solutions.  In addition to notebook applications, other PC product applications for our technology include peripherals, such as keyboards, mice, and desktop product applications.  Net revenue for our human interface product solutions for PC product applications accounted for approximately 18%, 16%, and 13% of our net revenue for fiscal 2019, 2018, and 2017, respectively.
+ We continue to expand our available product offerings through technology development and acquisitions enabling us to increase our product content within each notebook unit.  We are also applying our technologies to enable adoption of fingerprint recognition solutions in all-in-one and desktop products to broaden our market opportunities.  Based on the strength of our technology and engineering know-how, we believe we are well positioned to continue to take advantage of opportunities in the PC product applications market. 
+ IoT Applications Market 
+ On July 25, 2017, we acquired Conexant Systems, LLC, or Conexant, a technology leader in voice and audio processing solutions for the smart home.  On September 8, 2017, we acquired the assets of the multimedia solutions business of Marvell Technology Group Ltd., or Marvell, a leading provider of advanced video and audio processing applications for the smart home, or the Marvell Business Acquisition.  We began reporting financial results for the IoT applications market in our consolidated financial statements in the first quarter of our fiscal 2018.  
+ We provide system-on-chip, or SoC, solutions as well as human interface product solutions for enabling the Smarter Edge. We enable products for service provider platforms, or SPP, smart assistant solutions, over-the-top, or OTT, media consumption devices, voice driven intelligent devices, including those integrating far-field technology, personal voice products, video interface solutions which can also drive next generation virtual reality/augmented reality, or VR/AR, platforms, and optimized solutions for fax/modem and printer platforms. Our automotive solutions include over a decade of mass production experience in display drivers, including mature touch solutions adapted from our consumer business to meet automotive quality standards and pioneering fingerprint solutions for security, personalization and e-payments in vehicles. Our latest addition to our automotive portfolio is an automotive grade TDDI for amorphous silicon and low-temperature polycrystalline panels up to 4K resolution and 18-inch panels. Net revenue for our IoT product solutions accounted for approximately 21%, 21% and 5% of our net revenue for fiscal 2019, 2018 and 2017, respectively.
+ Within the growing consumer IoT market, we continue to expand our footprint in various devices by bringing converged video and voice technologies coupled with leading edge human interface solutions. Our deep investment in far-field voice technology, our intellectual property portfolio for video, audio and security, and our significant experience enabling Android platforms for service providers, coupled with our focus on enabling high performance, low power, and highly secure SoC solutions enable us to effectively serve our existing customers and position us to grow within the addressable market of consumer IoT devices.  
+ 2
+
+Our Strategy
+ Our objective is to continue to enhance our position as a leading supplier of human interface product solutions for each of the target markets in which we operate, including the mobile product applications markets, the PC product applications market, and the IoT applications market.  Key aspects of our strategy to achieve this objective include those set forth below.
+Extend Our Technological Leadership
+ We plan to utilize our extensive intellectual property portfolio, engineering know-how, and technological expertise to extend the functionality of our current product solutions and offer new and innovative product solutions to customers across multiple markets.  We intend to continue utilizing our technological expertise to reduce the overall size, weight, cost, and power consumption of our human interface product solutions while increasing their applications, capabilities, and performance.  We plan to continue enhancing the ease of use and functionality of our solutions.  We also plan to expand our research and development efforts through increased investment in our engineering activities, including ongoing enhancement of our automotive TDDI technology and OLED technology, and advancement of our audio, voice and video technologies, the hiring of key engineering personnel, and strategic acquisitions and alliances.  We believe that these efforts will enable us to meet customer expectations and achieve our goal of supplying, on a timely and cost-effective basis, the most advanced, easy-to-use, functional human interface semiconductor product solutions to our target markets.
+Enhance Our Position in the Smartphone, Tablet, and PC Product Application Markets
+ We intend to continue introducing market-leading human interface product solutions in terms of performance, power consumption, functionality, size, and ease of use for the smartphone, tablet, and PC product applications markets.  We plan to continue enhancing our customers’ industrial design alternatives and device functionality through innovative product development, in order to enhance and grow our position within our target markets. As the high-end market for smartphones continues the shift to OLED solutions, we intend to deliver further enhancements to our DDIC products to support that market. 
+Capitalize on Growth of New and Evolving Markets
+ We intend to capitalize on the growth of new and evolving markets, such as the smart home, VR/AR, voice enabled assistants, and wearables within the IoT market, the tablet market, ultrabook and convertible portions of the PC market, and the automotive market, brought about by the convergence of computing, communications, and entertainment devices.  We intend to build upon our existing innovative and intuitive human interface semiconductor product solutions portfolio and continue to address the evolving portability, connectivity, security, and functionality requirements of these new markets.  We will offer our solutions to existing and potential OEM customers to enable increased functionality, reduced size, lower cost, simplified security, enhanced industrial design features, and to enhance the user experience of our OEMs’ products.  We plan to utilize our existing technologies as well as aggressively pursue new technologies as new markets evolve that demand new solutions.
+Emphasize and Expand Customer Relationships
+ We intend to emphasize and expand our strong and long-standing customer relationships and seek to build and establish successful relationships with new customers.  In each market we serve, we plan to provide the most advanced human interface product solutions for our customers' products.  We believe that our human interface product solutions enable our customers to deliver simplified security and a positive user experience and to differentiate their products from those of their competitors.  We continually strive to enhance the competitive position of our customers by providing them with innovative, distinctive, and high-quality human interface product solutions on a timely and cost-effective basis.  To do so, we work continually to improve our productivity, reduce costs, and increase the speed of delivery of our human interface product solutions.  We endeavor to streamline the entire design and delivery process through our ongoing design, engineering, and production improvement efforts.  We also focus on providing timely pre- and post-sales support to our customers, assisting with their efforts to develop, integrate, and manufacture their products with our solutions.
+ We plan to offer IoT voice, audio and video solutions, touch and display driver solutions, and fingerprint sensor solutions, as well as design tools, technical support and documentation to assist in the development of human interface designs in products such as smartphones, tablets, notebooks, PC peripherals, and other digital entertainment devices.  We offer our customers a choice of our chip solutions or our custom module solutions.  Our chip solution consists of our proprietary integrated circuit, firmware and software, including customer-specific firmware and software, while our custom module solution enables customers to utilize our proprietary integrated circuit together with third-party components and assembly.  Touchscreen applications for mobile phones, tablets, and notebooks are primarily a chip solution.  Display driver products for mobile phones and tablets, IoT products for voice, audio and video, and most automotive products are a chip solution. Fingerprint sensor products are a module solution.
+ 3
+
+Pursue Strategic Relationships and Acquisitions
+ We intend to develop and expand our strategic relationships to enhance our ability to offer value-added human interface product solutions to our customers, penetrate new markets, and strengthen the technological leadership of our product solutions.  We also intend to evaluate the potential acquisition of companies in order to expand our technological expertise and to establish or strengthen our presence in selected target markets.  
+Continue Virtual Manufacturing
+ We plan to expand and diversify our production capacity through third-party relationships, thereby strengthening our virtual manufacturing platform.  This strategy results in a scalable business model, enables us to concentrate on our core competencies of research and development and product design and engineering, and reduces our capital expenditures and working capital requirements.  Our virtual manufacturing strategy allows us to maintain a variable cost model, in which we do not incur most of our manufacturing costs until our product solutions have been shipped and invoiced to our customers.
+Competitive Advantages
+ We develop advanced human interface technologies that provide simplified security and enrich the user’s experience in interacting with the user’s computing, communications, and entertainment devices.  We engage with our customers in the design of their custom products and offer product solutions ranging from chips, which may include customer-specific firmware, to full module solutions. Our innovative and intuitive human interface product solutions can be engineered to accommodate many diverse platforms, and our expertise in human factors and usability can be utilized to improve the features and functionality of our solutions.  Our extensive array of technologies include chips, firmware, software, mechanical and electrical designs, pattern recognition, single- and multi-finger touch-sensing technologies, display driver technologies, image, voice and multimedia processing.
+ Our human interface products are custom engineered, total solutions for our customers, and include sensor design, module layout, chips, firmware, and software features for which we provide manufacturing and design support, and device testing. This allows us to be a one-stop supplier for complete human interface design from concept prototyping, to product development, to manufacturing, to testing and support.  Through our engineering know-how and technological expertise, we provide our customers with solutions that address their individual design requirements and result in high-performance, feature-rich, and reliable interface solutions.  We believe our interface solutions offer the following characteristics:
+  
+• | Ease of Use. Our solutions offer the ease of use and intuitive interaction that users demand. 
+--+-----------------------------------------------------------------------------------------------
+
+
+• | Small Size. The small, thin size of our solutions enables our customers to reduce the overall size and weight of their products in order to satisfy consumer demand for portability. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Low Power Consumption. The low power consumption of our solutions enables our customers to offer products with longer battery life and/or smaller battery capacity. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Advanced Functionality. Our solutions offer advanced features, such as face detect, force sensing, 12-bit output technology for mobile DDIC, 90Hz FHD TDDI, security algorithms, voice barge-in, ambient noise cancellation, and video noise reduction to enhance the user experience. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reliability. The reliability of our solutions satisfies consumer requirements for dependability, which is a major component of consumer satisfaction. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Durability. Our solutions withstand repeated use, harsh physical treatment, and temperature fluctuations while providing an enduring superior level of performance. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Simplified Security. Our fingerprint authentication solutions protect the user’s identity, while simplifying the user experience for electronic devices. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We believe these characteristics will enable us to continue to enhance our position as a technological enabler within our target markets.
+ Our emphasis on technological leadership and design capabilities positions us to provide unique human interface product solutions that address specific customer requirements, as well as satisfy our customers’ specifications, including features and functionality, industrial design, security, mechanical, and electrical requirements.  Our products also offer unique integration options, including the ability to place our capacitive sensors underneath the plastic or glass of the device or the combining of a touchpad and fingerprint sensor on one device.  Our solutions allow for streamlined and stylized designs, 
+ 4
+
+and Light Emitting Diode, or LED, integration to indicate status or to enhance industrial design. With our Edge SOC products, we offer full system solutions that enable an immersive voice/audio, multimedia and vision experience.  Our Edge SOCs enable secure artificial intelligence processing on device, for enhanced privacy and responsiveness. Our diversified audio product line enables clear voice for audio calls, immersive surround sound for gaming, advanced noise cancellation for consumer products and ultra-low-power hi-fidelity audio for mobile applications. 
+ Our long-term working relationships with large, global OEMs provide us with the experience to satisfy their demanding design specifications and other requirements.  Our custom product solutions provide OEMs with numerous benefits, including:
+  
+• | ease of system integration;
+--+----------------------------
+
+
+• | reduced product development costs;
+--+-----------------------------------
+
+
+• | shorter product time to market;
+--+--------------------------------
+
+
+• | compact and efficient platforms;
+--+---------------------------------
+
+
+• | improved product functionality and utility;
+--+--------------------------------------------
+
+
+• | product differentiation; and
+--+-----------------------------
+
+
+• | continuity of supply.
+--+----------------------
+
+ Our collaborative efforts with our customers reduce duplication and overlap of investment and resources, enabling our OEM partners to devote more time and resources to the market development of their differentiated products.
+ We utilize capacitive technology, rather than resistive or mechanical technology, in our touch solutions.  Unlike resistive and mechanical technology, our solid-state capacitive technology has no moving parts and does not require activation force, thereby providing a durable, more reliable solution that can be integrated into both curved and flat surfaces.  Capacitive technologies also allow for much thinner sensors than resistive or mechanical technology, providing for slimmer, more compact and unique industrial designs. Our fingerprint solutions utilize capacitive technology.  
+ Products 
+ Our family of product solutions allows our customers to solve their interface needs and differentiate their products from those of their competitors.
+ ClearPad®
+ Our ClearPad family of products enables the user to interact directly with the display on electronic devices, such as mobile smartphones, tablets, and automobiles.  Our ClearPad has distinct advantages, including low-profile form factor; high reliability, durability, and accuracy; and low power consumption.  We typically sell our ClearPad solution as a chip, together with customer-specific firmware, to sensor manufacturers, OLED manufacturers or Liquid Crystal Display, or LCD, manufacturers, to integrate into their touch-enabled products.  A discrete touchscreen product typically consists of a transparent, thin capacitive sensor that can be placed over any display, such as an LCD or OLED, and combined with a flexible circuit material and a touch controller chip.  Each ClearPad solution is custom designed to integrate customer-specific input preferences such as force sensing, pen input, gloved finger recognition, proximity, finger hover, and air swipe functionality.
+ Our ClearPad Series 3 product family can provide full-time tracking of ten or more fingers simultaneously, and features stylus support as well as support for various sensor configurations, including traditional discrete sensors; sensor-on-lens, which includes sensor electrodes patterned on the bottom of the glass cover lens; on-cell, which includes sensor electrodes patterned on the display glass; and in-cell, which includes sensor electrodes patterned inside LCD glass.
+ 5
+
+Our ClearPad Series 7 product family is designed to meet the requirements of the large touchscreen market for products more closely related to notebooks, slates, tablets, and similar devices.  Our ClearPad Series 7 products include low-cost, single-chip touchscreen solutions and multi-chip touchscreen solutions designed for devices that have more demanding user input requirements, such as gaming applications.
+ ClearViewTM
+ Our ClearView display driver products offer advanced image processing and low power technology for displays on electronic devices, including smartphones and tablets. ClearView products include adaptive image processing that works in concert with proprietary customization options to enable development of efficient and cost-effective high-performance solutions and faster time to market.  Our display driver products offer automatic regional control of color balance that optimizes light and dark areas of an image simultaneously, and sunlight readability enhancement capabilities that optimize image quality under various lighting conditions.
+ Synaptics TouchViewTM
+ Our TouchView products integrate touch and display technologies to deliver advanced performance and simplified design.  Our proprietary algorithms synchronize touch sensing with display driving, effectively eliminating display-induced noise and improving capacitive sensing performance.  TouchView display integration allows for thinner touchscreens with narrower bezels for greater industrial design flexibility.  TouchView is available in two-chip and single-chip (TDDI) configurations, providing a range of solutions suitable for hybrid and full in-cell touchscreen designs.  Both configurations reduce manufacturing complexity and simplify the supply chain for OEM manufacturers.
+ Natural ID®
+ Our Natural ID family of capacitive-based fingerprint ID products is designed for use in automobiles, notebook PCs, PC peripherals, and other applications.  Thin form factors provide industrial design flexibility, while robust matching algorithms and anti-spoofing technology provide strong security.  Our Natural ID family of products spans a range of form factors, colors, and materials suitable for design on the front, back or side of a device.  
+ Natural ID products are designed to be compatible with Fast IDentity Online, or FIDO, protocols, enhancing security and interoperability with a broad range of solutions.  FIDO was formed to enhance online authentication by developing open, scalable technical standards to help facilitate the adoption of robust, easy to use authentication that reduces the reliance on passwords.  Natural ID products increase the security of automobile and PC products while maintaining ease of use for the customer.
+ TouchPadTM
+ Our TouchPad family of products, which can take the place of, and exceed the functionality of a mouse, is a small, touch-sensitive pad that senses the position and movement of one or more fingers on its surface through the measurement of capacitance.  Our TouchPad provides an accurate, comfortable, and reliable method for screen navigation, cursor movement, and gestures, and provides a platform for interactive input for both the consumer and corporate markets.  Our TouchPad solutions allow our customers to provide stylish, simple, user-friendly, and intuitive solutions to consumers.  Our TouchPad solutions also offer various advanced features, including scrolling, customizable tap zones, tapping and dragging of icons, and device interaction.
+ Our TouchPad solutions are available in a variety of sizes, electrical interfaces, and thicknesses, and are designed to meet the electrical and mechanical specifications of our customers.  Customized firmware and driver software ensure the availability of specialized features.  As a result of their solid-state characteristics, our TouchPad solutions have no moving parts that wear out, resulting in a robust and reliable input solution that also allows for unique industrial designs.
+ SecurePadTM
+ Our SecurePad integrates our Natural ID fingerprint sensor directly into the TouchPad area, improving usability for end users and simplifying the supply chain for notebook PC manufacturers.
+ 6
+
+ClickPadTM
+ Our ClickPad introduces a clickable mechanical design to the TouchPad solution, eliminating the need for physical buttons. The button-less design of our ClickPad allows for unique, intuitive industrial design and makes it an excellent alternative to conventional input and navigation devices.  Our ClickPad is activated by pressing down on the internal tact switch to perform left-button or right-button clicks and provides tactile feedback similar to pressing a physical button.  The latest version of ClickPad features ClickEQTM, a mechanical solution that provides uniform click depth to maximize the surface area available for gestures and improves click performance over hinged designs.
+ ForcePad®
+ Our ForcePad is a thinner version of our ClickPad, which introduces a new dimension in control through the addition of variable force sensitivity.  ForcePad is designed to provide consistent performance across OEM models through its design intelligence and self-calibration features.  By detecting the amount of force applied, ForcePad is engineered to enable more intuitive and precise user interactions in operating system controls and applications.  Designed with thin and light notebooks in mind, ForcePad is 40% thinner than a conventional touch pad.  
+ AudioSmart® 
+ AudioSmart products bring forward optimum analog, mixed-signal and digital signal processor, or DSP, technologies for high-fidelity voice and audio processing. Our AudioSmart products include far-field voice technologies that enable accurate voice command recognition from a distance while disregarding other sounds, such as music, in order to activate smart devices such as smart speakers. AudioSmart also includes personal voice and audio solutions for high-performance headsets that enable active noise cancellation and are based on the USB Type-C standard. 
+ VideoSmart™ 
+ Our VideoSmart solutions include powerful single-chip 4K UHD media processors for TVs, set-top boxes, and over-the-top streaming devices.
+ ImagingSmart™ 
+ Our ImagingSmart solutions include a product portfolio that spans four distinct product lines including document and photo imaging controllers, digital video, fax, and modem solutions. ImagingSmart products leverage image processing IP, JPEG encoders and DSP technology to deliver a wide range of fax, modem, digital video and printer solutions for home, mobile and imaging applications.
+ Other Products
+ Other product solutions we offer include Dual Pointing Solutions, TouchStykTM, TouchButtonsTM and display interface products.   Our dual pointing solutions offer TouchPad with a pointing stick in a single notebook computer, enabling users to select their interface of choice.  TouchStyk is a self-contained pointing stick module that uses capacitive technology similar to that used in our TouchPad.  TouchButtons provide capacitive buttons and scrolling controls for an easy-to-use and stylish interface solution designed to replace mechanical buttons.  Our display interface products deliver highly integrated, scalable video and audio connectivity to a broad array of applications for notebook PCs, enterprise systems and consumer devices, and our VR bridge and VR DDIC chips enable the VR market to move to higher resolution displays that solve the “screen door” effect caused by lower resolution displays.
+Capabilities
+ Our products are supported by a variety of feature capabilities allowing for further product differentiation and easy customer integration.
+ Enhanced Gesture RecognitionTM
+ Our Enhanced Gesture Recognition is a suite of ClearPad gestures included in our firmware.  Customers can easily enable SingleTouch gestures, such as Tap, Double Tap, Press, and Flick; DualTouch gestures, such as Pinch and Pivot Rotate; and multi-finger gestures for ClearPad directly from our touch module firmware.  No additional recognition software is required on the host processor to implement these gestures.  This approach lowers host processor resource requirements and ensures that gestures are implemented using our pattern-recognition technology.
+ 7
+
+SignalClarityTM Technology
+ SignalClarity technology provides an improved signal-to-noise ratio for enhanced touch detection and noise immunity, and enables smartphone OEMs to support inexpensive chargers and work with multiple display types.  SignalClarity technology works with various display configurations, including discrete sensors, sensor-on-lens, on-cell, and in-cell touchscreen designs.
+ Synaptics TypeGuard®
+ TypeGuard technology allows the system to differentiate between a finger and a palm, virtually eliminating accidental cursor movements, scrolling and clicks.
+ Proximity Sensing
+ Our proximity sensing technology enables users to interact with consumer electronics without touch. With this technology, sensors in a device, such as a notebook PC, mobile phone, peripheral, or digital photo frame, sense the presence of a user’s finger or hand to activate a function.  These sensors can illuminate LEDs for discoverable buttons, immediately wake devices from power-saving mode, or activate other functionalities.
+ TDsyncTM
+ TDsync technology effectively eliminates problems caused by display-induced noise in the touch subsystem, improving capacitive sensing performance and reducing errors to deliver a better user experience.  TDsync technology works with in-cell designs, including both two-chip and single-chip controller implementations.
+ ClearForce®
+ ClearForce gives our ClearPad and TouchView solutions a new dimension in user interfaces, by enabling features such as scrolling, zoom, text or photo editing, and enabling users to engage in gaming or other multi-touch applications by applying variable force with a finger or stylus.
+ Design StudioTM
+ Our Design Studio software streamlines the touchscreen design process, while reducing total design cost and accelerating time to market. This tool suite assists designers in creating optimal products that are tightly aligned with target design and performance specifications. Design Studio works seamlessly with multiple display configurations and stack-ups, including discrete sensor, on-glass-sensor, on-cell, and in-cell solutions. Design Studio includes tuning and configuration wizards, production test tools, and diagnostics tools that configure and test chips and modules built using Synaptics’ capacitive sensing technology.
+ SentryPoint®
+ SentryPoint is our suite of advanced security features available with our Natural ID fingerprint products. SentryPoint capabilities include fingerprint matching directly on the sensor chip, advanced anti-spoofing technology, a cryptographic security engine, security key module generation, 256-bit AES encryption and TLS secure communications between the fingerprint subsystem and the host platform.
+ Image StudioTM
+ Our Image Studio software simplifies the display design process, reducing design costs and accelerating time to market. This tool suite assists designers in creating displays that are tightly aligned with target design and performance specifications. Image Studio works seamlessly with all display drivers and can be used for tuning on the panel or at the phone level. Image Studio includes tuning and configuration wizards and diagnostics tools that configure and test the modules built using Synaptics’ DDICs.
+QDEO® 
+ QDEO video processing software and firmware delivers immersive entertainment regardless of source.
+ 8
+
+Technologies 
+ We have developed and own an extensive array of technologies, encompassing ASICs, firmware, software, mechanical and electrical designs, display systems, pattern recognition, touch-sensing technologies, fingerprint sensing, voice, audio, imaging, modem and multimedia technologies.  We continue to develop technology in these areas.  We believe these technologies and the related intellectual property rights create barriers for competitors and allow us to provide high-value human interface semiconductor product solutions in a variety of high-growth markets.
+ Our broad line of human interface semiconductor product solutions is currently based upon the following key technologies:
+  
+• | capacitive position sensing technology;
+--+----------------------------------------
+
+
+• | capacitive force sensing technology;
+--+-------------------------------------
+
+
+• | transparent capacitive position sensing technology;
+--+----------------------------------------------------
+
+
+• | pattern recognition technology;
+--+--------------------------------
+
+
+• | mixed-signal integrated circuit technology;
+--+--------------------------------------------
+
+
+• | display systems and circuit technology;
+--+----------------------------------------
+
+
+• | capacitive active pen technology;
+--+----------------------------------
+
+
+• | multi-touch technology;
+--+------------------------
+
+
+• | proprietary microcontroller technology;
+--+----------------------------------------
+
+
+• | proprietary vector co-processor technology;
+--+--------------------------------------------
+
+
+• | capacitive fingerprint sensing technology;
+--+-------------------------------------------
+
+
+• | optical fingerprint sensing technology;
+--+----------------------------------------
+
+
+• | voice and audio technology;
+--+----------------------------
+
+
+• | imaging and modem technology;
+--+------------------------------
+
+
+• | multimedia processing technology; and
+--+--------------------------------------
+
+
+• | deep learning and neural network inferencing technology.
+--+---------------------------------------------------------
+
+ In addition to these technologies, we develop firmware and device driver software that we incorporate into our products, which provide unique features, such as virtual scrolling, customizable tap zones, and tapping and dragging of icons.  In addition, our ability to integrate all our products to interface with major operating systems provides us with a competitive advantage.
+ Capacitive Position Sensing Technology.  This technology provides a method for sensing the presence, position, and contact area of one or more fingers or a stylus on a flat or curved surface.  Our technology works with very light touch, supports full multi-touch capabilities, and provides highly responsive cursor navigation, scrolling, and selection.  It uses no moving parts, can be implemented under plastic or glass, and is extremely durable.  Our technology can also track one or more fingers in proximity to the touch surface.
+ Capacitive Force Sensing Technology.  This technology senses the direction and magnitude of a force applied to an object.  The object can either move when force is applied, like a typical joystick used for gaming applications, or it can be isometric, with no perceptible motion during use, like our TouchStyk, ForcePad, or ClearForce.  The primary competition for this technology is resistive strain gauge technology.  Resistive strain gauge technology requires electronics that can sense very small changes in resistance, presenting challenges to the design of that circuitry, including sensitivity to electrical noise and interference.  Our electronic circuitry determines the magnitude and direction of an applied force, permits very accurate sensing of tiny changes in capacitance, and minimizes electrical interference from other sources.  Our capacitive force sensing technology can be integrated with our position sensing technology.
+ 9
+
+Pattern Recognition Technology.  This technology is a set of software algorithms and techniques for converting real world data, such as gestures and handwriting, into a digital form that can be recognized and manipulated within a computer.  Our technology provides reliable gesture decoding and handwriting recognition, and can be used in other applications such as signature verification for a richer user experience.
+ Mixed-Signal Integrated Circuit Technology.  This hybrid analog-digital integrated circuit technology combines the power of digital computation with the ability to interface with non-digital, real-world signals, such as the position of a finger or stylus on a surface.  Our patented design techniques permit us to utilize this technology to optimize our core ASIC engine for all our products.  Our mixed-signal technology consists of a broad portfolio of circuit expertise in areas such as the following:
+
+• | precision capacitance measurement;
+--+-----------------------------------
+
+
+• | power management (switching converters, charge pumps, and Low-dropout regulators, or LDOs);
+--+--------------------------------------------------------------------------------------------
+
+
+• | analog-to-digital and digital-to-analog converters;
+--+----------------------------------------------------
+
+
+• | LCD source and VCOM drivers;
+--+-----------------------------
+
+
+• | high-speed serial interfaces;
+--+------------------------------
+
+
+• | display timing controllers, or TCONs;
+--+--------------------------------------
+
+
+• | DDICs;
+--+-------
+
+
+• | electromagnetic emissions suppression and susceptibility hardening;
+--+--------------------------------------------------------------------
+
+
+• | SRAM, DRAM, and non-volatile memories;
+--+---------------------------------------
+
+
+• | VLSI digital circuits with multiple clock and power domains; and
+--+-----------------------------------------------------------------
+
+
+• | communications and signal processing circuits.
+--+-----------------------------------------------
+
+ Display Systems and Circuit Technology.  This technology enables us to develop optimized human interface semiconductor product solutions with improved compatibility with their application environments. This technology consists of mobile and large format display semiconductor expertise, including the following functional blocks:
+
+• | TCONs;
+--+-------
+
+
+• | DDICs;
+--+-------
+
+
+• | TFT gamma references;
+--+----------------------
+
+
+• | VCOM drivers;
+--+--------------
+
+
+• | source drivers;
+--+----------------
+
+
+• | content adaptive brightness control;
+--+-------------------------------------
+
+
+• | contrast enhancement;
+--+----------------------
+
+
+• | color enhancement;
+--+-------------------
+
+
+• | color space adjustment;
+--+------------------------
+
+
+• | gamma curve control;
+--+---------------------
+
+
+• | local area active contrast optimization;
+--+-----------------------------------------
+
+
+• | sunlight readability enhancements;
+--+-----------------------------------
+
+
+• | adaptive image compression;
+--+----------------------------
+
+
+• | image decompression;
+--+---------------------
+
+
+• | sub-pixel rendering;
+--+---------------------
+
+
+• | video scaling;
+--+---------------
+
+
+• | edge enhancement;
+--+------------------
+
+ 10
+
+ 
+• | frame rate control;
+--+--------------------
+
+
+• | selective update;
+--+------------------
+
+
+• | force, touch and display synchronization;
+--+------------------------------------------
+
+
+• | high-speed serial interfaces such as MIPI DSI and Qualcomm MDDI; and
+--+---------------------------------------------------------------------
+
+
+• | display power circuits such as inductive switchers, charge pumps, and LDOs.
+--+----------------------------------------------------------------------------
+
+ This technology also enables us to develop advanced products that combine the functions of the display and touch sensing systems to enable highly integrated display and touch functionality with improved performance, thinner form factors, and lower system cost.
+ Capacitive Active Pen Technology.  This technology allows us to develop a pen that can be used for input on a capacitive touchscreen.  As well as generating a signal that allows the touchscreen to track the pen, additional data, such as the pen applied force and pen button states, are also communicated to the touchscreen device.  Information can also be communicated from the touchscreen to the pen.
+ Multi-touch Technology.  This technology allows us to create capacitive touch products that simultaneously track the presence, position and other characteristics of multiple objects in contact with or in close proximity to a flat or curved touch surface.  It enables, for example, the recognition of multi-finger gestures, the tracking of a stylus position while the user’s palm is also in contact with the touch surface, and the simultaneous interaction of multiple users with the same touch surface.
+ Proprietary Microcontroller Technology.  One example of multi-touch technology is our proprietary 16-bit microcontroller core that is embedded in the digital portion of our mixed signal ASIC, which is allowing us to optimize our ASIC for position sensing tasks.  Our embedded microcontroller provides great flexibility in customizing our products via firmware, which eliminates the need to design new circuitry for each new application.
+ Proprietary Vector Co-Processor Technology.  Our vector co-processor technology is designed for use in our ASICs, accompanying either one of our own proprietary microcontroller cores or a commercially available one.  The co-processor boosts the ASIC’s computational performance by efficiently processing vectors of data for a range of mathematical operations.  This allows us to implement more computationally intensive algorithms within our firmware.
+ Capacitive Fingerprint Sensing Technology.  Our fingerprint sensing technology simplifies the system or application authentication process by substituting the user’s fingerprint for the login name and password. Our capacitive fingerprint sensing technology provides for fingerprint authentication by scanning and matching an image of a user’s fingerprint, as well as initial fingerprint enrollment.  Our sensing technology also incorporates spoof detection and includes many implementation choices including back of phone, button integration, touchpad integration, and under glass.
+ Voice and Audio Technology.  This technology allows us to develop human interface and communication products based on voice and audio interaction.  The technology embodies a broad range of analog and mixed signal circuits expertise and audio signal processing algorithms, including:
+
+• | Noise suppression;
+--+-------------------
+
+
+• | Acoustic echo cancellation;
+--+----------------------------
+
+
+• | De-reverberation;
+--+------------------
+
+
+• | Active noise cancellation;
+--+---------------------------
+
+
+• | Speaker protection;
+--+--------------------
+
+
+• | Audio post processing;
+--+-----------------------
+
+
+• | Voice activity detection;
+--+--------------------------
+
+
+• | Trigger word detection;
+--+------------------------
+
+
+• | Mid-field and far-field voice processing;
+--+------------------------------------------
+
+
+• | Audio digital signal processor architecture;
+--+---------------------------------------------
+
+ 11
+
+ 
+• | Audio codecs;
+--+--------------
+
+
+• | USB interfaces;
+--+----------------
+
+
+• | High performance audio analog-to-digital converters, or ADCs, and digital-to-analog converters, or DACs;
+--+---------------------------------------------------------------------------------------------------------
+
+
+• | Audio amplifiers;
+--+------------------
+
+
+• | Efficient charge pumps and LDOs;
+--+---------------------------------
+
+
+• | Low power audio processing;
+--+----------------------------
+
+
+• | Product acoustic design.
+--+-------------------------
+
+ Imaging and Modem Technology.  This technology allows us to create a family of SoC integrated circuits and software for printers, video cameras, fax machines and modems.  Key functional blocks include:
+
+• | Printer imaging pipeline;
+--+--------------------------
+
+
+• | Inkjet, laser, and thermal print engine and motor control;
+--+-----------------------------------------------------------
+
+
+• | Scan/camera and peripheral control;
+--+------------------------------------
+
+
+• | Low power video codecs;
+--+------------------------
+
+
+• | Image processing hardware accelerators;
+--+----------------------------------------
+
+
+• | Motion detection;
+--+------------------
+
+
+• | Data and fax modem hardware and firmware.
+--+------------------------------------------
+
+ Multimedia Processing Technology.  This technology allows us to create multimedia SoC products for set-top boxes, digital personal assistants, virtual reality, and over the top, or OTT, audio and video.  Our video processing technology includes hardware and algorithms to reduce analog and digital noise, convert to different video formats, and enhance color and contrast.  Our products include security and secure encrypt/decrypt technology, including secure boot and hardware root of trust.
+ Deep Learning and Neural Network Inferencing Technology.  This technology allows us to create and train deep neural networks for audio, image processing, and computer vision functions.  Some of our products contain hardware designed to evaluate deep neural networks securely and with low latency.  We also have technology that allows us to compress our trained neural networks for more efficient inferencing on our hardware.
+Research and Development
+ We conduct ongoing research and development programs that focus on advancing our existing interface technologies, improving our current product solutions, developing new products, improving design and manufacturing processes, enhancing the quality and performance of our product solutions, and expanding our technologies to serve new markets.  Our goal is to provide our customers with innovative solutions that address their needs and improve their competitive positions.  Our long-term vision is to offer human interface semiconductor product solutions, such as touch, fingerprint, handwriting, vision, voice and audio capabilities, and biometrics that can be readily incorporated into various electronic devices.
+ Our research and development programs focus on the development of accurate, easy to use, reliable, and intuitive human interfaces for electronic devices.  We believe our innovative interface technologies can be applied to many diverse products, and we believe the interface is a key factor in the differentiation of these products.  We believe that our interface technologies enable us to provide customers with product solutions that have significant advantages over alternative technologies in terms of functionality, size, power consumption, durability, and reliability.  We also intend to pursue strategic relationships and acquisitions to enhance our research and development capabilities, leverage our technology, and shorten our time to market with new technological applications.
+ Our research, design, and engineering teams frequently work directly with our customers to design custom solutions for specific applications.  We focus on enabling our customers to overcome their technical barriers and enhance the performance of their products.  We believe our engineering know-how and electronic systems expertise provide significant benefits to our customers by enabling them to concentrate on their core competencies of production and marketing.
+ 12
+
+As of the end of fiscal 2019, we employed 1,401 people in our technology, engineering, and product design functions in the United States, China, Taiwan, Japan, India, Korea, Armenia, and Hong Kong.  Our research and development expenses were $341.1 million, $363.2 million, and $292.3 million for fiscal 2019, 2018, and 2017, respectively.
+ Intellectual Property Rights
+ Our success and ability to compete depend in part on our ability to maintain the proprietary aspects of our technologies and products.  We rely on a combination of patents, trade secrets, copyrights, confidentiality agreements, and other statutory and contractual provisions to protect our intellectual property, but these measures may provide only limited protection.  
+ As of June 30, 2019, we held 1,875 active patents and 897 pending patent applications worldwide.  Collectively, these patents and patent applications cover various aspects of our key technologies, including those for fingerprint sensors, touch controllers, display driver ICs, integrated touch and display controllers, touchpad, far-field voice DSPs, audio codec, multimedia processors and image processors.  Our proprietary firmware and software, including source code, are also protected by copyright laws and applicable trade secret laws.  
+ Our extensive array of technologies include those related to ICs, firmware, software, and mechanical hardware.  Our products rely on a combination of these technologies, making it difficult to use any single technology as the basis for replicating our products.  Furthermore, the lengths of our customers’ design cycles and the customizations required within the products we provide to our customers also serve to protect our intellectual property rights.
+ Customers
+ Our customers include many of the world’s largest mobile and PC OEMs, based on unit shipments, as well as many large IoT OEMS, automotive manufacturers and a variety of consumer electronics manufacturers.  Our demonstrated track record of technological leadership, design innovation, product performance, cost effectiveness, and on-time deliveries have resulted in our leadership position in providing human interface semiconductor product solutions.  We believe our strong relationship with our OEM customers, many of which are also currently developing product solutions which are focused in several of our target markets, will continue to position us as a source of supply for their product offerings.
+ Our leading OEM customers in fiscal 2019 included the following:
+ 
+ 
+• Dell • Ford • Google | • Nikon • Oppo Mobile • Samsung 
+--------------------------------+--------------------------------------
+• Hewlett-Packard | • Sony 
+• Huawei | • Technicolor 
+• Lenovo | • Vivo 
+• LG Electronics | • Xiaomi 
+
+ We generally supply custom-designed products to OEMs through their contract manufacturers, supply chain or distributors. Sales to Sanshin Electronics Co., Ltd., Shenzhen Wisewheel Electronics Co., Ltd., and Worldshine Technology Ltd. accounted for 15%, 14%, and 10%, respectively, of our net revenue in fiscal 2019.  
+ We consider both the OEMs and their contract manufacturers or supply chain partners to be our customers, as well as in some cases, our distributors.  Both the OEMs and their partners may determine the design and pricing requirements and make the overall decision regarding the use of our human interface semiconductor product solutions in their products.  The contract manufacturers and distributors place orders with us for the purchase of our products, take title to the products purchased upon delivery by us, and pay us directly for those purchases.  The majority of these customers do not have return rights except for warranty provisions.
+ Strategic Relationships
+ We have used strategic relationships to enhance our ability to offer value-added customer solutions in the past. We intend to enter additional strategic relationships with companies that may help us serve our target markets.
+ 13
+
+Sales and Marketing
+ We sell our product solutions for incorporation into the products of our OEM customers.  We generate sales through direct sales employees as well as outside sales representatives, distributors and value added resellers.  Our sales personnel receive substantial technical assistance and support from our internal technical marketing and engineering resources because of the highly technical nature of our product solutions.  Sales frequently result from multi-level sales efforts that involve senior management, design engineers, and our sales personnel interacting with our customers' decision makers throughout the product development and order process.
+ As of the end of fiscal 2019, we employed 246 sales and marketing professionals.  We maintain customer support offices domestically and internationally, which are located in the United States, Taiwan, China, India, Korea, Japan, and Europe.  In addition, we utilize value-added resellers and sales distributors which are primarily located in America, China, Korea and Taiwan.
+ International sales constituted over 86% of our revenue for each of fiscal 2019, 2018, and 2017. Approximately 78% of our sales in fiscal 2019 were made to companies located in China, Japan, and South Korea that provide design and manufacturing services for major notebook computer and mobile product applications OEMs.  Our sales are almost exclusively denominated in U.S. dollars.  This information should be read in conjunction with Note 12 Segment, Customers, and Geographic Information to the consolidated financial statements contained elsewhere in this report.
+ Manufacturing
+ We employ a virtual manufacturing platform through third-party relationships.  We currently utilize a few semiconductor wafer manufacturers to supply us with silicon wafers integrating our proprietary design specifications.  The completed silicon wafers are forwarded to third-party package and test processors for further processing into die and packaged ASICs, as applicable, which are then utilized in our custom interface products or processed as our ASIC-based solution.
+ After processing and testing, the die and ASICs are consigned to various contract manufacturers for assembly or are shipped directly to our customers.  During the assembly process, our die or ASIC is either combined with other components to complete the module for our custom human interface solution or the ASIC is maintained as a standalone finished good.  The finished assembled product is subsequently shipped directly to our customers or by our contract manufacturers directly to our customers for integration into their products.
+ We diversify our production capacity through third-party relationships, thereby strengthening our virtual manufacturing platform.  We believe our virtual manufacturing strategy provides a scalable business model, enables us to concentrate on our core competencies of research and development, technological advances, and product design and engineering, and reduces our capital investment.  
+ Our third-party contract manufacturers and semiconductor fabricators are Asia-based organizations. We generally provide our contract manufacturers with six-month rolling forecasts of our production requirements.  We generally do not have long-term agreements with our contract manufacturers that guarantee production capacity, prices, lead times, or delivery schedules.  Our reliance on these parties exposes us to vulnerability owing to our dependence on a few sources of supply.  We believe, however, that other sources of supply are available.  We may establish relationships with other contract manufacturers in order to reduce our dependence on any one source of supply.
+ Periodically, we purchase inventory from our contract manufacturers when a customer delays its delivery schedule or cancels its order.  In those circumstances in which our customer has cancelled its order and we purchase inventory from our contract manufacturers, we consider a write-down to reduce the carrying value of the inventory purchased to its net realizable value. We charge write-downs to reduce the carrying value of obsolete, slow moving, and non-usable inventory to its net realizable value and charge such write-downs to cost of revenue.  We also record a liability and charge to cost of revenue for estimated losses on inventory we are obligated to purchase from our contract manufacturers when such losses become probable from customer delays or order cancellations.
+ 14
+
+Backlog
+ As of the end of fiscal 2019, we had a backlog of orders of $277.0 million, an increase of $9.7 million compared with a backlog of orders as of the end of fiscal 2018 of $267.3 million.  The increase in backlog is primarily due to slightly higher average selling prices of products ordered in backlog in all of our businesses, partially offset by a lower number of units in backlog for products ordered by customers at the end of fiscal 2019 than those ordered at the end of fiscal 2018.  Our backlog consists of products for which purchase orders have been received and are scheduled for shipment in the subsequent quarter.  Most orders are subject to rescheduling or cancellation with limited penalties.  Because of the possibility of customer changes in product shipments, our backlog as of a particular date may not necessarily be indicative of net revenue for any succeeding period.
+Competition
+ PC and Mobile
+ Our touch, display and fingerprint-based semiconductor products are sold into markets for mobile product applications, PC product applications, automobile applications and other electronic devices.  The markets for touchscreen products are characterized by rapidly changing technology and intense competition.  Our principal competition in the sale of touchscreen products includes Goodix, Melfas, Samsung LSI, Solomon Systech, STMicroelectronics and various other companies involved in human interface semiconductor product solutions.  Our principal competitor in the sale of notebook touch pads are Elan Microelectronics and Goodix.  Our principal competitors in the sale of display driver products and TDDI products for the mobile and PC product applications markets include Focaltech, Himax Technologies, Novatek Microelectronics, Samsung LSI and SiliconWorks.  Our principal competitors in the sale of fingerprint authentication solutions for PC product applications markets are Egis Technology, Elan Microelectronics, Fingerprint Cards and Goodix.  
+ IoT
+ Our solutions for far-field voice, SoCs enabling new and efficient forms of media consumption paradigms, and video interface semiconductor products are sold into market segments that are showing significant growth, ranging from smart assistant platforms to SPP/OTT platforms and VR/AR solutions. The markets for SPP/OTT products and smart assistant solutions require strong technology innovation and deep systems and systems engineering expertise. Our principal competition in these markets include Broadcom, MediaTek, AmLogic and Realtek, among others.  
+ We provide voice processing silicon and software solutions for voice-enabled devices, consumer and commercial imaging, and next-generation audio applications. In addition to our voice solutions, we support the headphone and virtual reality/mixed reality head mounted display industry with USB-C codec solutions for next generation wireless audio devices and wearables. Our competitors in the sale of audio products include BES Technic, Cirrus Logic, Qualcomm, Realtek, and STMicroelectronics. Our automotive products include touch, display driver and fingerprint solutions for major automotive OEMs.  Our principal competitors for these products include Cypress, Focaltech, Goodix, Himax and Microchip.  Our IoT interface products are sold into PC and smartphone docks and wireless adapter market applications. Our principal competitors in the sale of IoT interface products are Megachips and Realtek.  We provide fax, modem and print silicon and software solutions for printers, POS and medical applications. Our principal competitors in these markets are Silicon Labs, Broadcom and QBit. 
+ General
+ We believe our solutions-based systems and engineering experience, coupled with our technologies, offer benefits in terms of size, power consumption, durability, ease of use, cost effectiveness, and reliability when compared to our competitors and other technologies.  While our markets continue to evolve, we believe we are well positioned to compete aggressively for this business based on our proven track record, our technological expertise, our marquee global customer base, our technology roadmap, and our reputation for design innovation.  Our competitive position could be adversely affected if one or more of our current OEMs reduce their orders or if we are unable to develop new customers for our human interface semiconductor product solutions.
+Employees
+ As of the end of fiscal 2019, we employed a total of 1,861 persons, including 214 in operations, finance, and administration; 246 in sales and marketing; and 1,401 in research and development.  Of these employees, 586 were located in North America and 1,275 in Asia/Pacific and the rest of the world. We consider our relationship with our employees to be good, and none of our employees are represented by a union in collective bargaining with us.
+ Competition for qualified personnel in our industry is extremely intense, particularly for engineering and other technical personnel.  Our success depends on our continued ability to attract, hire, and retain qualified personnel.
+ 
+15
+
+Information about our Executive Officers 
+ The following table sets forth certain information regarding our executive officers as of August 19, 2019:
+ 
+ 
+Name | | Age | | Position
+-----------------+----+-----+---------------------------------------------------------------------------------------------------+---------
+Michael Hurlston | 52 | | President and Chief Executive Officer 
+Kermit Nolan | 59 | | Chief Accounting Officer and Interim Chief Financial Officer 
+Saleel Awsare | 54 | | Senior Vice President and General Manager, IoT Division, Corporate Marketing & Investor Relations
+Shawn Liu | 55 | | Senior Vice President and General Manager, PC Division 
+Richard Lu | 40 | | Senior Vice President and General Manager, Mobile and Automotive Division 
+John McFarland | 52 | | Senior Vice President, General Counsel and Secretary 
+Alex Wong | 64 | | Senior Vice President, Worldwide Operations 
+
+Michael Hurlston has been the President and Chief Executive Officer of our Company since August 19, 2019. Prior to joining our company, Mr. Hurlston served as the Chief Executive Officer and a member of the Board of Directors of Finisar Corporation from January 2018 to August 2019. Prior to joining Finisar, he served as Senior Vice President and General Manager of the Mobile Connectivity Products/Wireless Communications and Connectivity Division and held senior leadership positions in sales, marketing and general management at Broadcom Limited and its predecessor corporation from November 2001 through October 2017. Prior to joining Broadcom in 2001, Mr. Hurlston held senior marketing and engineering positions at Oren Semiconductor, Inc., Avasem, Integrated Circuit Systems, Micro Power Systems, Exar and IC Works from 1991 until 2001. Mr. Hurlston is a member of the board of directors of Ubiquiti Networks, Inc. and Vilynx Inc. Mr. Hurlston holds a Bachelor of Science and a Master of Science degree in Electrical Engineering and a Master’s degree in Business Administration from the University of California, Davis.
+ Kermit Nolan has been the Chief Accounting Officer and Interim Chief Financial Officer of our company since February 2019. Mr. Nolan joined the company in March 2004 and has served in various accounting, tax and finance roles including most recently as Vice President of Finance and Corporate Controller. Prior to joining our company, Mr. Nolan worked in various tax and accounting positions at two public companies including Hello Direct (acquired by GN Netcom in November 2000), and Inmac (acquired by MicroWarehouse in January 1996). Mr. Nolan began his career in accounting with KPMG, formerly, Peat, Marwick, Mitchell and Co. Mr. Nolan holds a Bachelor of Science degree in Accounting from San Jose State University.
+ Saleel Awsare has been the Senior Vice President and General Manager of our IoT Division since April 2019 and the Senior Vice President of Corporate Marketing & Investor Relations since December 2018. Before joining our company as Corporate Vice President and General Manager of Audio & Imaging Products, he was President of Conexant Systems, LLC (“Conexant”) from March 2016 to July 2017, and Senior Vice President & General Manager of Audio & Imaging from April 2012 to March 2016.  Synaptics acquired Conexant in July 2017. Mr. Awsare served as President of Nuvoton Technology Corporation's U.S. operations and General Manager of Nuvoton’s audio and voice divisions from December 2008 to March 2012. Prior to Nuvoton, Mr. Awsare was the Executive Vice President and General Manager of mixed signal products for Winbond Electronics Corporation America. Before Winbond, Mr. Awsare was a director of engineering for Information Storage Devices. Mr. Awsare is a member of the Board of Directors, Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee of Sigma Designs, Inc. and a member of the Board of Trustees of Stevens Institute of Technology. Mr Awsare holds a Bachelor of Science in Electrical Engineering from Stevens Institute of Technology and a Master of Science in Engineering Management from Santa Clara University.
+ 16
+
+Shawn Liu has been the Senior Vice President and General Manager, PC Division of our company since June 2018. Mr. Liu joined Synaptics in November 2012 as our Vice President of ThinTouch Products in the Human Interface Systems Division, and then rotated through senior leadership positions in the Smart Display Division and Biometrics Product Division within Synaptics, including most recently as the Vice President and General Manager, PC Division from July 2017 to June 2018. From January 2011 to November 2012, he was a Director at Apple, where he led an Engineering Program Management team responsible for technologies in Mac and iOS products. From 2000 to 2011, Mr. Liu held senior positions at AMD/ATI and Cadence. Early in his career, Mr. Liu spent several years in Taiwan in various managerial capacities including a business development position at a wireless chipset start-up, and held various design engineering positions at SGI, LSI Logic and VLSI Technology. Mr. Liu is a member of the Board of Directors of OXi Technology Ltd. Mr. Liu holds a Bachelor of Science degree and Master of Science degree, both in Electrical Engineering, from Cornell University.
+ Richard Lu has been the Senior Vice President and General Manager of the Mobile and Automotive Division of our company since December 2018. Prior to joining our company, Mr. Lu was Vice President and General Manager of the Mobile Solutions Division at Fairchild Semiconductor from February 2013 to September 2016 and Vice President and General Manager of the Mobile, Computing, and Cloud Division at ON Semiconductor from September 2016 to December 2018, after ON Semiconductor’s acquisition of Fairchild Semiconductor. Prior to Fairchild, Mr. Lu held design engineering and design management positions at Maxim Integrated and Analog Devices Inc. Mr. Lu holds a Bachelor of Science and a Master of Science degrees in Electrical Engineering from the University of California, Berkeley.
+ John McFarland has been the Senior Vice President, General Counsel and Secretary of our company since November 2013.  Prior to joining our company, Mr. McFarland served for nine years as the Executive Vice President, General Counsel and Secretary of MagnaChip Semiconductor. Mr. McFarland spent his early career at law firms in Palo Alto, California, and Seoul, Korea. Mr. McFarland holds a Bachelor of Arts degree in Asian Studies, conferred with highest distinction from the University of Michigan, and a Juris Doctor degree from the University of California, Los Angeles, School of Law.
+ Alex Wong has been the Senior Vice President of Worldwide Operations of our company since July 2010.  Mr. Wong served as the Principal Executive Officer of our Company from March 2019 to August 2019, and Vice President of Worldwide Operations of our company from September 2006 to July 2010. From 2003 to 2006, Mr. Wong served our company as Managing Director of Hong Kong and Director of Operations.  Prior to joining our company, Mr. Wong held various management positions with National Semiconductor Corporation, including General Manager for National Joint Ventures in China and Hong Kong and Director of Corporate Business Development.  Mr. Wong holds a Bachelor of Science degree in Computer Science from California State University at Northridge and a Master’s degree in Business Administration from the University of East Asia, Macau.
+ There are no arrangements, understandings, or family relationships pursuant to which our executive officers were selected.  There are no related party transactions between us and our executive officers.  We have entered into indemnification agreements with our officers and directors. 
+ 17
+
+ 

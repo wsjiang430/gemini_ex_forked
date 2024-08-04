@@ -1,0 +1,918 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ Forward-Looking Statements
+ This Annual Report on Form 10-K contains forward-looking statements, which can be identified by the use of words such as “estimate,” “project,” “believe,” “intend,” “anticipate,” “plan,” “seek,” “expect” and words of similar meaning. These forward-looking statements include, but are not limited to:
+  
+• | statements of our goals, intentions and expectations;
+--+------------------------------------------------------
+
+
+• | statements regarding our business plans, prospects, growth and operating strategies;
+--+-------------------------------------------------------------------------------------
+
+
+• | statements regarding the quality of our loan and investment portfolios; and
+--+----------------------------------------------------------------------------
+
+
+• | estimates of our risks and future costs and benefits.
+--+------------------------------------------------------
+
+ These forward-looking statements are based on current beliefs and expectations of our management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, these forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change.  We are under no duty to and do not take any obligation to update any forward-looking statements after the date of the Annual Report on Form 10-K. 
+ The following factors, among others, could cause actual results to differ materially from the anticipated results or other expectations expressed in the forward-looking statements:
+  
+• | general economic conditions, either nationally or in our market areas, that are worse than expected;
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | changes in the level and direction of loan delinquencies and write-offs and changes in estimates of the adequacy of the allowance for loan losses;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our ability to access cost-effective funding;
+--+----------------------------------------------
+
+
+• | fluctuations in real estate values and both residential and commercial real estate market conditions;
+--+------------------------------------------------------------------------------------------------------
+
+
+• | demand for loans and deposits in our market area;
+--+--------------------------------------------------
+
+
+• | our ability to implement changes in our business strategies;
+--+-------------------------------------------------------------
+
+
+• | competition among depository and other financial institutions;
+--+---------------------------------------------------------------
+
+
+• | inflation and changes in the interest rate environment that reduce our margins and yields, or reduce the fair value of financial instruments or reduce the origination levels in our lending business, or increase the level of defaults, losses and prepayments on loans we have made and make whether held in portfolio or sold in the secondary markets;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | adverse changes in the securities markets;
+--+-------------------------------------------
+
+
+• | changes in laws or government regulations or policies affecting financial institutions, including changes in regulatory fees and capital requirements;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | changes in monetary or fiscal policies of the U.S. Government, including policies of the U.S. Treasury and the Federal Reserve Board;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our ability to manage market risk, credit risk and operational risk in the current economic conditions;
+--+--------------------------------------------------------------------------------------------------------
+
+
+• | our ability to enter new markets successfully and capitalize on growth opportunities;
+--+--------------------------------------------------------------------------------------
+
+
+• | our ability to successfully integrate any assets, liabilities, customers, systems and management personnel we have acquired or may acquire into our operations and our ability to realize related revenue synergies and cost savings within expected time frames and any goodwill charges related thereto;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | changes in consumer demand, borrowing and savings habits;
+--+----------------------------------------------------------
+
+
+• | changes in accounting policies and practices, as may be adopted by bank regulatory agencies, the Financial Accounting Standards Board, the Securities and Exchange Commission or the Public Company Accounting Oversight Board;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our ability to retain key employees;
+--+-------------------------------------
+
+
+• | technological changes;
+--+-----------------------
+
+ 
+2
+
+ 
+• | significant increases in our loan losses;
+--+------------------------------------------
+
+
+• | cyber-attacks, computer viruses and other technological risks that may breach the security of our websites or other systems to obtain unauthorized access to confidential information and destroy data or disable our systems;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | technological changes that may be more difficult or expensive than expected;
+--+-----------------------------------------------------------------------------
+
+
+• | the ability of third-party providers to perform their obligations to us;
+--+-------------------------------------------------------------------------
+
+
+• | the ability of the U.S. Government to manage federal debt limits;
+--+------------------------------------------------------------------
+
+
+• | changes in the financial condition, results of operations or future prospects of issuers of securities that we own; and
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+• | other economic, competitive, governmental, regulatory and operational factors affecting our operations, pricing products and services described elsewhere in this Annual Report on Form 10-K.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Because of these and other uncertainties, our actual future results may be materially different from the results indicated by these forward-looking statements.
+ General
+ Kearny Financial Corp. (the “Company,” or “Kearny Financial”), is a Maryland corporation that is the holding company for Kearny Bank (the “Bank” or “Kearny Bank”), a nonmember New Jersey stock savings bank.  The Bank converted its charter to that of a New Jersey savings bank on June 29, 2017 having previously been a federally chartered stock savings bank.
+ On May 18, 2015, the Company completed its second-step conversion and stock offering through which it converted from the mutual holding company structure to a fully public company.  In conjunction with that transaction, the Company sold 71,750,000 shares of its common stock at $10.00 per share, resulting in gross proceeds of $717.5 million.  The new shares issued included 3,612,500 shares sold to the Bank’s Employee Stock Ownership Plan (“ESOP”).  Concurrent with the closing of the transaction, the Company also issued an additional 500,000 shares of its common stock with an aggregate value of $5.0 million and contributed these shares with an additional $5.0 million in cash to the KearnyBank Foundation.  After adjusting for transaction costs and the value of the shares issued to the Bank’s ESOP, the Company recognized a net increase in equity capital of $670.7 million.  Each outstanding share held by the public stockholders of Kearny Financial Corp., a federal corporation, was converted into 1.3804 shares of the Company’s new common stock while the shares previously held by Kearny MHC, the former mutual holding company, were cancelled.
+ The Company is a unitary savings and loan holding company, regulated by the Board of Governors of the Federal Reserve Bank (“FRB”) and conducts no significant business or operations of its own.  The Bank’s deposits are federally insured by the Deposit Insurance Fund as administered by the Federal Deposit Insurance Corporation (“FDIC”) and the Bank is primarily regulated by the New Jersey Department of Banking and Insurance (“NJDBI”) and, as a nonmember bank, the FDIC.  References in this Annual Report on Form 10‑K to the Company or Kearny Financial generally refer to the Company and the Bank, unless the context indicates otherwise. References to “we”, “us”, or “our” refer to the Bank or Company, or both, as the context indicates.  
+ 
+The Company’s primary business is the ownership and operation of the Bank.  The Bank is principally engaged in the business of attracting deposits from the general public in New Jersey and New York and using these deposits, together with other funds, to originate or purchase loans for its portfolio and invest in securities.  Our loan portfolio is primarily comprised of loans collateralized by commercial and residential real estate augmented by secured and unsecured loans to businesses and consumers.  We also maintain a portfolio of investment securities, primarily comprised of U.S. agency mortgage-backed securities, U.S. government and agency debentures, bank-qualified municipal obligations, corporate bonds, asset-backed securities, collateralized loan obligations and subordinated debt.
+ 
+We operate from our administrative headquarters in Fairfield, New Jersey and, as of June 30, 2019, had 54 branch offices.  In April 2019, we announced the consolidation of seven of our branch offices located in northern and central New Jersey.  One such consolidation was completed in June 2019 while the remaining six were completed in July 2019, thereby reducing the number of branch offices to 48.  The Company maintains a website at www.kearnybank.com.  We make available through that website, free of charge, copies of our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports and proxy materials as soon as is reasonably practicable after the Company electronically files those materials with, or furnishes them to, the Securities and Exchange Commission.  You may access these materials by following the links under “Investor Relations” under the “Company Info” tab at the Company’s website. Information on the Company’s website is not and should not be considered a part of this Annual Report on Form 10-K. 
+ 
+3
+
+Acquisition of Clifton 
+ On April 2, 2018, the Company completed its acquisition of Clifton Bancorp Inc. (“Clifton”), the parent company of Clifton Savings Bank, a federally chartered stock savings bank.  In conjunction with the acquisition, the Company acquired assets with aggregate fair values totaling $1.61 billion including loans and securities with fair values of $1.12 billion and $326.9 million, respectively.  The Company assumed liabilities with aggregate fair values totaling $1.38 billion in conjunction with the Clifton acquisition including deposits and borrowings with fair values of $949.8 million and $414.1 million, respectively.
+ Merger consideration associated with the acquisition totaled $333.9 million and primarily comprised 25.4 million shares of the Company’s common stock valued at $330.7 million that were issued to Clifton stockholders to reflect an exchange of 1.191 of Company shares for each outstanding share of Clifton common stock at the time of closing.  Merger consideration also included $3.2 million in cash distributed to eligible holders of outstanding options to purchase Clifton stock as well as cash distributed to Clifton stockholders for the settlement of fractional shares.  The amount by which merger consideration exceeded the fair value of net assets acquired resulted in the Company’s recognition of $102.3 million in goodwill associated with the Clifton acquisition.
+ Business Strategy
+ As we continue our evolution from a traditional thrift business model toward that of a full service community bank our strategy remains focused on profitably deploying capital and enhancing earnings through a variety of balance sheet growth and diversification strategies.  The key strategic initiatives of our business plan are presented below accompanied by an overview of our actions in support of those initiatives:
+
+• | Increase Commercial and Residential Mortgage Lending
+--+-----------------------------------------------------
+
+ We plan to continue to increase our portfolio of commercial and residential mortgage loans by continuing to acquire loans through all available channels, including retail and broker originations, which may be supplemented with individual and pooled loan purchases and participations.  Additionally, we intend to continue to expand our commercial and residential mortgage lending infrastructure and resources, which will be supported by new product and pricing strategies designed to increase origination volume in a very competitive marketplace.
+  
+• | Increase Commercial Business Lending
+--+-------------------------------------
+
+ We plan to continue to focus our efforts on expanding our commercial business lending activities through all available channels. During fiscal 2019 we continued the realignment and expansion of our commercial business lending infrastructure.  As a result of these enhancements, we anticipate that the outstanding balance of this loan segment will increase in fiscal 2020 and thereafter.  Our business lending strategies will continue to be undertaken within a larger set of strategic initiatives designed to promote business banking services intended to increase commercial deposit balances and services and the associated increase in the level of non-interest income recognized in conjunction with those business customer relationships.
+  
+• | Increase Construction Lending
+--+------------------------------
+
+ We plan to continue to grow our portfolio of construction loans and expand our construction lending resources in alignment with this goal.  During fiscal 2019 we expanded our construction lending infrastructure and as a result we anticipate the outstanding balance of this loan segment will increase in fiscal 2020 and thereafter.
+  
+• | Expand Residential Mortgage Banking Activities
+--+-----------------------------------------------
+
+ We plan to continue to expand our mortgage banking infrastructure to support the continuing origination of residential mortgage loans for sale into the secondary market.  We anticipate that residential mortgage loan origination and sale activity will continue to support long-term growth in our non-interest income through the recognition of loan sale gains, while also serving to help manage the Company’s exposure to interest rate risk through the sale of longer-duration, fixed-rate loans into the secondary market. 
+  
+• | Maintain Strong Asset Quality
+--+------------------------------
+
+ We continue to emphasize and maintain strong asset quality as we grow and diversify our loan portfolio. Nonperforming assets increased by $2.7 million to $20.3 million, or 0.31% of total assets, at June 30, 2019 compared to $17.6 million, or 0.27% of total assets, at June 30, 2018 and $20.5 million, or 0.43% of total assets, at June 30, 2017.
+  
+• | Increase and Diversify Retail Deposits
+--+---------------------------------------
+
+ We plan to continue to focus on growing and diversifying our retail deposit base with an emphasis on growth in core non-maturity deposits.  During fiscal 2019 we expanded and realigned our retail banking organizational structure, resources and product set in support of this goal.  As a result of these enhancements we anticipate that the balance of retail non-maturity deposits will increase in fiscal 2020 and thereafter.  As noted above, our business lending strategies are designed to support the growth in business banking relationships.
+ 
+4
+
+ 
+• | Optimize Branch Network
+--+------------------------
+
+ At June 30, 2019, we had a total of 54 branches comprising 51 branches located in northern and central New Jersey with three additional branches located in Brooklyn and Staten Island, New York.  We plan to selectively evaluate branch network expansion opportunities, with a particular focus on contiguous markets.  Furthermore, we expect to continue placing strategic emphasis on leveraging the opportunities to increase market share and expand the depth and breadth of customer relationships within our existing branches.
+ As noted above, in July 2019 we completed our previously announced branch consolidations as part of our ongoing strategy to improve operating efficiency.  We plan to continue to evaluate the performance of our branch network, taking into consideration historical branch profitability, market demographic trajectory, geographic proximity to the consolidating branch and the expected impact on the Bank’s clients and communities served.
+  
+• | Reduce Investment Securities as a Percentage of Assets while Maintaining Portfolio Diversity
+--+---------------------------------------------------------------------------------------------
+
+ In recent years, we have diversified the composition and allocation of our investment portfolio into new asset sectors. Several of the added sectors include floating rate securities that reduce the level of interest rate risk embedded in our balance sheet.  Simultaneously, we have decreased the investment portfolio as a percentage of total assets and intend to continue to reduce the portfolio as a percentage of assets.
+  
+• | Seek Out Merger and Acquisition Opportunities
+--+----------------------------------------------
+
+ As a complement to our organic growth strategies, we continue to actively seek out opportunities to prudently deploy capital, diversify our balance sheet, enter new markets and enhance earnings through mergers and acquisitions with other financial institutions.  We are an experienced and disciplined acquirer, having acquired a total of six banks in the last 19 years. We expect to place the greatest emphasis on opportunities to expand within the existing markets we serve or to enter new markets that are generally contiguous to such markets.
+ In addition to potential acquisitions of financial institutions or their branches, we may explore additional opportunities for acquisitions or strategic partnerships to broaden our product and service offerings in the future.
+  
+• | Improve Operating Efficiency
+--+-----------------------------
+
+ The Company’s operating efficiency was enhanced as a result of the Clifton acquisition through which the Company’s primary sources of revenue, including net interest income and non-interest income, were increased proportionately greater than the increase in non-interest expenses arising from the acquisition.  Exclusive of potential future acquisitions we plan to continue to improve operating efficiency through organic means, such as the increased use of technology and the continual evaluation of branch consolidation opportunities.
+  
+• | Execute Technology Transformation
+--+----------------------------------
+
+ In recognition of the ongoing evolution of our business towards online channels we have invested significant human resources and capital towards enhancing both our internal and customer-facing technology systems.  We anticipate that our technology transformation will impact nearly every area of the Company including residential and commercial lending functions, retail deposit gathering, risk management and back office operations.
+ Market Area.  At June 30, 2019, our primary market area consisted of the counties in which we currently operate branches, including Bergen, Essex, Hudson, Middlesex, Monmouth, Morris, Ocean, Passaic and Union counties in New Jersey and Kings (Brooklyn) and Richmond (Staten Island) counties in New York.  Our lending is concentrated in these markets and our predominant sources of deposits are the communities in which our offices are located as well as the neighboring communities.
+ Our primary market area is largely urban and suburban with a broad economic base as is typical within the New York metropolitan area.  A downturn in the local economy could reduce the amount of funds available for deposit and the ability of borrowers to repay their loans which would adversely affect our profitability.
+ Competition.  We operate in a highly competitive market area with a large concentration of financial institutions and we face substantial competition in attracting deposits and in originating loans. A number of our competitors are significantly larger institutions with greater financial and technological resources and lending limits.  Our ability to compete successfully is a significant factor affecting our growth potential and profitability.
+ 
+5
+
+Historically our competition for deposits and loans has come from other insured depository institutions such as commercial banks, savings institutions and credit unions located in our primary market area.  We also face competition from out-of-market depository institutions operating via online channels and from non-depository institutions including mortgage banks, finance companies, insurance companies and brokerage firms.
+ Lending Activities 
+ General.  In conjunction with our strategic efforts to evolve from a traditional thrift to a full-service community bank, our lending strategies have placed increasing emphasis on the origination of commercial loans compared to one- to four-family mortgage portfolio lending.  The year-to-year trends in the composition and allocation of our loan portfolio, as reported in the table below, generally highlight those changes in business strategy.  In particular, the outstanding balance of our commercial mortgages, including loans secured by multi‑family, mixed‑use and nonresidential properties, have increased significantly over the past several years.  By comparison, the outstanding balance of our residential mortgage loans, including one- to four-family and home equity loans, remained fairly stable throughout the three years ended June 30, 2017 while increasing during the prior fiscal year ended June 30, 2018 due primarily to the Clifton acquisition.  Additionally, during the year ended June 30, 2019, the outstanding balance of one- to four-family loans has increased as a result of our continued one- to four-family mortgage origination activities coupled with an increase in the volume of purchased residential loans.
+ Our commercial loan offerings also include secured business loans, many of which are secured by real estate, and unsecured business loans.  Commercial loan offerings include programs offered through the SBA in which Kearny Bank participates as a Preferred Lender.  Our consumer loan offerings primarily include home equity loans and home equity lines of credit as well as account loans, overdraft lines of credit, vehicle loans and personal loans.  We also offer construction loans to builders/developers as well as individual homeowners.  We have also purchased out-of-state one- to four-family first mortgage loans to supplement our in-house originations. For more information, please see “Lending Activities (Loan Originations, Purchases, Sales, Solicitation and Processing).”  
+ 
+
+6
+
+Loan Portfolio Composition.  The following table sets forth the composition of our loan portfolio in dollar amounts and as a percentage of the total portfolio at the dates indicated. 
+ 
+ 
+ | At June 30, 
+-------------------------------------------------------------------------------------------------------------------+-----------------------
+ | 2019 | | 2018 | | 2017 | | 2016 | | 2015 
+ | Amount | | | Percent | | Amount | | | Percent | | Amount | Percent | | Amount | | Percent | | Amount | Percent
+ | (Dollars In Thousands) | | 
+Real estate mortgage: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+One- to four-family | $ | 1,344,044 | | | | 28.41 | | % | | $ | 1,297,453 | | 28.40 | | % | $ | 567,323 | | 17.50 | % | $ | 605,203 | | 22.66 | % | $ | 592,321 | | 28.17 | %
+Multi-family | | 1,946,391 | | | | 41.14 | | | | | 1,758,584 | | 38.50 | | | | 1,412,575 | | 43.57 | | | 1,040,293 | | 38.94 | | | 728,379 | | 34.65 | 
+Nonresidential | | 1,258,869 | | | | 26.61 | | | | | 1,302,961 | | 28.52 | | | | 1,085,064 | | 33.46 | | | 820,673 | | 30.72 | | | 580,724 | | 27.62 | 
+Commercial business | | 65,763 | | | | 1.39 | | | | | 85,825 | | 1.88 | | | | 74,471 | | 2.30 | | | 88,207 | | 3.30 | | | 99,451 | | 4.73 | 
+Consumer: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Home equity loans | | 96,165 | | | | 2.03 | | | | | 90,761 | | 1.99 | | | | 82,822 | | 2.55 | | | 89,566 | | 3.35 | | | 91,671 | | 4.36 | 
+Passbook or certificate | | 3,732 | | | | 0.09 | | | | | 3,283 | | 0.07 | | | | 2,863 | | 0.09 | | | 3,349 | | 0.13 | | | 3,999 | | 0.19 | 
+Other | | 2,082 | | | | 0.04 | | | | | 5,777 | | 0.13 | | | | 13,520 | | 0.41 | | | 22,052 | | 0.82 | | | 292 | | 0.01 | 
+Construction | | 13,907 | | | | 0.29 | | | | | 23,271 | | 0.51 | | | | 3,815 | | 0.12 | | | 2,038 | | 0.08 | | | 5,711 | | 0.27 | 
+Total loans | | 4,730,953 | | | | 100.00 | | % | | | 4,567,915 | | 100.00 | | % | | 3,242,453 | | 100.00 | % | | 2,671,381 | | 100.00 | % | | 2,102,548 | | 100.00 | %
+Less: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Allowance for loan losses | | 33,274 | | | | | | | | | 30,865 | | | | | | 29,286 | | | | | 24,229 | | | | | 15,606 | | | 
+Unamortized yield adjustments including net premiums on purchased loans and net deferred loan costs and fees | | 52,025 | | | | | | | | | 66,567 | | | | | | (2,808 | ) | | | | (2,606 | ) | | | | (316 | ) | | 
+Total adjustments | | 85,299 | | | | | | | | | 97,432 | | | | | | 26,478 | | | | | 21,623 | | | | | 15,290 | | | 
+Total loans, net | $ | 4,645,654 | | | | | | | | $ | 4,470,483 | | | | | $ | 3,215,975 | | | | $ | 2,649,758 | | | | $ | 2,087,258 | | | 
+
+Loan Maturity Schedule.  The following table sets forth the maturities of our loan portfolio at June 30, 2019.  Demand loans, loans having no stated maturity and overdrafts are shown as due in one year or less.  Loans are stated in the following table at contractual maturity and actual maturities could differ due to prepayments. 
+
+ | Real estate mortgage: One- to four-family | | Real estate mortgage: Multi-Family | | | Real estate mortgage: Non-Residential | | Commercial Business | Home Equity Loans | | Passbook or certificate | | | Other | | Construction | Total | 
+-------------------------+-------------------------------------------+-----------+------------------------------------+---+-----------+---------------------------------------+---+---------------------+-------------------+--------+-------------------------+---+--------+-------+---+--------------+-------+------
+ | (In Thousands) | 
+Amounts due: | | | | | | | | | | | | | | | | | | | | | | 
+Within one year | $ | 423 | | $ | 53,352 | | $ | 8,757 | $ | 12,291 | | $ | 1,307 | | $ | 1,504 | $ | 105 | $ | 13,567 | $ | 91,306 
+After one year: | | | | | | | | | | | | | | | | | | | | | | 
+1 to 3 years | | 6,043 | | | 95,026 | | | 74,492 | | 17,133 | | | 2,960 | | | 129 | | 1,886 | | 340 | | 198,009 
+3 to 5 years | | 20,969 | | | 174,538 | | | 175,079 | | 15,622 | | | 5,375 | | | 130 | | 1 | | - | | 391,714 
+5 to 10 years | | 138,404 | | | 1,372,219 | | | 727,092 | | 14,120 | | | 27,000 | | | 29 | | - | | - | | 2,278,864
+10 to 15 years | | 127,507 | | | 85,605 | | | 113,490 | | 2,199 | | | 33,233 | | | 19 | | - | | - | | 362,053 
+Over 15 years | | 1,050,698 | | | 165,651 | | | 159,959 | | 4,398 | | | 26,290 | | | 1,921 | | 90 | | - | | 1,409,007
+Total due after one year | | 1,343,621 | | | 1,893,039 | | | 1,250,112 | | 53,472 | | | 94,858 | | | 2,228 | | 1,977 | | 340 | | 4,639,647
+Total amount due | $ | 1,344,044 | | $ | 1,946,391 | | $ | 1,258,869 | $ | 65,763 | | $ | 96,165 | | $ | 3,732 | $ | 2,082 | $ | 13,907 | $ | 4,730,953
+
+ 
+
+7
+
+The following table shows the dollar amount of loans as of June 30, 2019 due after June 30, 2020 according to rate type and loan category:
+ 
+ 
+ | Fixed Rates | | Floating or Adjustable Rates | | | Total
+------------------------+----------------+-----------+------------------------------+---+-----------+------
+ | (In Thousands) | 
+Real estate mortgage: | | | | | | | | 
+One- to four-family | $ | 986,897 | | $ | 356,724 | | $ | 1,343,621
+Multi-family | | 425,587 | | | 1,467,452 | | | 1,893,039
+Nonresidential | | 440,946 | | | 809,166 | | | 1,250,112
+Commercial business | | 24,230 | | | 29,242 | | | 53,472 
+Consumer: | | | | | | | | 
+Home equity loans | | 75,643 | | | 19,215 | | | 94,858 
+Passbook or certificate | | 159 | | | 2,069 | | | 2,228 
+Other | | 1,919 | | | 58 | | | 1,977 
+Construction | | - | | | 340 | | | 340 
+Total loans | $ | 1,955,381 | | $ | 2,684,266 | | $ | 4,639,647
+
+Multi-Family and Nonresidential Real Estate Mortgage Loans.  We originate commercial mortgage loans on multi-family and nonresidential properties, including loans on apartment buildings, retail/service properties and land as well as other income-producing properties, such as mixed-use properties combining residential and commercial space.  Our continued strategic emphasis in commercial lending resulted in the origination of approximately $437.3 million of multi-family and nonresidential real estate mortgages during the year ended June 30, 2019, compared to $458.8 million during the year ended June 30, 2018.  
+ Our commercial mortgage acquisition strategies also included purchases of whole loans and participations totaling $68.6 million during the year ended June 30, 2019.  However, there were no such purchases during fiscal 2018.  
+ In total, commercial mortgage loan acquisition volume outpaced loan repayments during fiscal 2019, resulting in the reported net increase in the outstanding balance of this segment of the loan portfolio.  Our business plan continues to call for maintaining our strategic emphasis on commercial mortgage lending by increasing this segment of the portfolio on a dollar basis while maintaining its basis as a percentage of total loans.
+ We generally require no less than a 25% down payment or equity position for mortgage loans on multi-family and nonresidential properties.  For such loans, we generally require personal guarantees.  However, the Bank may consider multi-family and nonresidential real estate mortgages for approval on a non-personally guaranteed (non-recourse) basis when the overall strengths of a proposed loan asset sufficiently mitigates the risk of exculpating the principal owners from their personal guarantee. In such cases, the Bank generally requires borrowers to execute an indemnification agreement which personally obligates those individuals in the circumstances of fraud, negligence, environmental issues, improper conveyance, condemnation, bankruptcy or other additional provisions deemed appropriate by the Bank.
+ We generally offer fixed-rate and adjustable-rate balloon mortgage loans on multi-family and non-residential properties with final stated maturities ranging from five to twelve years and initial interest rate reset terms ranging from five to seven years, where applicable.  Our balloon mortgage loans within this category generally have payments based on amortization terms from 25 to 30 years.  We also offer fully amortizing fixed-rate and adjustable-rate mortgage loans on multi-family and non-residential properties with terms up to 25 years.  Our commercial mortgage loans are primarily secured by properties located in New Jersey and New York and, to a lesser extent, eastern Pennsylvania.
+ Commercial Business Loans.  We originate commercial term loans and lines of credit to a variety of professionals, sole proprietorships and small businesses in our market area.  Our business loan products include our Small Business Express Loan, which offers customers a simplified and expedited application and approval process for term loans and lines of credit up to $250,000, as well as loans originated through the SBA in which Kearny Bank participates as a Preferred Lender, as noted earlier.  We originated approximately $21.9 million of commercial business loans during the year ended June 30, 2019 compared to $25.9 million during the year ended June 30, 2018.
+ 
+8
+
+Our commercial business loan acquisition strategy also included the funding of wholesale C&I loan participations totaling $2.7 million and $28.3 million during the years ended June 30, 2019 and 2018, respectively.  These participations were comprised entirely of our pro rata interest in the obligations of 13 separate commercial borrowers that were acquired through our membership in BancAlliance, a cooperative network of lending institutions that serves as a conduit for institutional investors to participate in middle-market commercial credits.  During fiscal 2018 we opted to discontinue the purchase of wholesale C&I loan participations and thus all of the wholesale C&I loans funded during fiscal 2019 were comprised of advances on previously committed lines of credit.  Our outstanding balance of wholesale C&I loan participations totaled $27.2 million and $35.3 million at June 30, 2019 and 2018, respectively.  
+ In total, loan repayments outpaced the volume of commercial business loans originated, purchased and acquired during fiscal 2019 resulting in the reported net decrease in the outstanding balance of this segment of the loan portfolio.  As noted earlier, we continued to realign and expand our commercial business lending infrastructure during fiscal 2019.  As a result of those enhancements, we anticipate this loan segment will increase as we continue to emphasize loans acquired through retail origination channels while diminishing the emphasis on loans and participations purchased through wholesale channels.  Through these efforts, we hope to increase this segment of the loan portfolio on both a dollar basis and as a percentage of total loans.
+ At June 30, 2019, approximately $38.6 million or 58.7% of our commercial business loans represent loans originated through our retail channel while the remaining $27.2 million or 41.3% comprise loans acquired through the wholesale C&I loan participation channels discussed earlier.  Of the retail originated loans, approximately $30.1 million or 78.0% are non-SBA loans consisting of secured and unsecured loans totaling $27.2 million and $2.9 million, respectively. We generally require personal guarantees on all non-SBA commercial business loans originated.  Unsecured commercial loans may take the form of overdraft checking authorization and unsecured lines of credit.  Our non-SBA commercial term loans generally have terms of up to 10 years and are mostly adjustable-rate loans.  Our commercial lines of credit have terms of up to one year and are generally floating-rate loans. 
+ The remaining $8.5 million or 22.0% of commercial business loans originated represent the retained portion of SBA loan originations, of which approximately $374,000 is guaranteed by the SBA.  Such loans are generally secured by various forms of collateral, including real estate, business equipment and other forms of collateral.  Kearny Bank generally sells the guaranteed portion of eligible SBA loans originated, which ranges from 50% to 90% of the loan’s outstanding balance while retaining the nonguaranteed portion of such loans in portfolio.  Kearny Bank also retains both the guaranteed and non-guaranteed portion of those SBA originations that are generally ineligible for sale in the secondary market.  The Company sold $866,000 of SBA loan participations which resulted in the recognition of related sale gains totaling approximately $56,000 for the year ended June 30, 2019.  By comparison, we sold $2.8 million of SBA loan participations during fiscal 2018 which resulted in the recognition of related sale gains totaling approximately $262,000.
+ Construction Lending.  Our construction lending includes loans to individuals for the construction of one- to four-family residences or for major renovations or improvements to an existing dwelling.  Our construction lending also includes loans to builders and developers for commercial real estate or multi-family residential buildings.  At June 30, 2019, construction loans totaled $13.9 million. 
+ During the year ended June 30, 2019, construction loan disbursements were $8.5 million compared to $25.2 million during the year ended June 30, 2018.  Construction loan repayments outpaced disbursements during fiscal 2019 resulting in the reported decrease in the outstanding balance of this segment of the loan portfolio.  
+ Construction borrowers must hold title to the land free and clear of any liens. Financing for construction loans is limited to 80% of the anticipated appraised value of the completed property. Disbursements are made in accordance with inspection reports by our approved appraisal firms.  Terms of financing are generally limited to one year with an interest rate tied to the prime rate published in the Wall Street Journal and may include a premium of one or more points.  In some cases, we convert a construction loan to a permanent mortgage loan upon completion of construction.  We have no formal limits as to the number of projects a builder has under construction or development and make a case-by-case determination on loans to builders and developers who have multiple projects under development.
+ We continue to evaluate lending opportunities and strategies through which we may expect to expand our construction lending activity, funding commitments and outstanding balances in the future.  If undertaken, we expect that the growth in our construction lending program will be supported by a corresponding expansion of our internal lending infrastructure and resources to support a growing number of relationships and projects with builders/borrowers.  
+ 
+9
+
+One- to Four-Family First Mortgage Loans Held in Portfolio.  Our portfolio lending activities include the origination of one- to four-family first mortgage loans, of which approximately $1.22 billion or 90.7% are secured by properties located within New Jersey and New York as of June 30, 2019 with the remaining $124.9 million or 9.3% secured by properties in other states. 
+ During the year ended June 30, 2019, Kearny Bank originated $106.9 million of one- to four-family first mortgage portfolio loans compared to $53.0 million in the year ended June 30, 2018.  To supplement portfolio loan originations, we also purchased one- to four-family first mortgages totaling $95.5 million during the year ended June 30, 2019.  By comparison, we purchased $26.3 million of one- to four-family first mortgages during the year ended June 30, 2018. 
+ One- to four-family first mortgage loan origination volume generally outpaced loan repayments of such loans during fiscal 2019.  Our business plan generally calls for increasing the aggregate balance of residential mortgage loans, including one- to four-family first mortgage loans as well as home equity loans and home equity lines of credit discussed below, on a dollar basis while maintaining the aggregate balance of such loans as a percentage of the total loan portfolio.
+ We will originate a one- to four-family mortgage loan on an owner-occupied property with a principal amount of up to 95% of the lesser of the appraised value or the purchase price of the property, with private mortgage insurance required if the loan-to-value ratio exceeds 80%. At June 30, 2019, our one- to four-family mortgage loan portfolio was primarily comprised of loans secured by owner-occupied properties.  Our loan-to-value limit on a non-owner-occupied property is 75%.  Loans in excess of $2.0 million are handled on a case-by-case basis.
+ We offer a first-time homebuyer program for persons who have not previously owned real estate and are purchasing a one- to four-family property in our primary lending area for use as a primary residence.  This program is also available outside these areas, but only to persons who are existing deposit or loan customers of Kearny Bank and/or members of their immediate families.  The financial incentives offered under this program are a one-eighth of one percentage point rate reduction on all first mortgage loan types and the refund of the application fee at closing.
+ The fixed-rate residential mortgage loans that we originate for portfolio generally meet the secondary mortgage market standards of the Federal Home Loan Mortgage Corporation (“Freddie Mac”).
+ Substantially all of our residential mortgages include due on sale clauses, which give us the right to declare a loan immediately payable if the borrower sells or otherwise transfers an interest in the property to a third party.  Property appraisals on real estate securing our one- to four-family first mortgage loans are made by state certified or licensed independent appraisers approved by Kearny Bank’s Board of Directors.  Appraisals are performed in accordance with applicable regulations and policies.  We require title insurance policies on all first mortgage real estate loans originated.  Homeowners, liability and fire insurance and, if applicable, flood insurance, are also required.
+ One- to Four-Family Mortgage Loans Held for Sale.  During fiscal 2019, we further expanded and enhanced our mortgage banking infrastructure to support the continued origination of one- to four-family mortgage loans for sale into the secondary market.  As above, the loans we originate for sale generally meet the same secondary mortgage market standards as those applicable to loans originated for portfolio.  Moreover, such loans are generally originated by, and sourced from, the same resources and markets as those loans originated and held in portfolio, as discussed above.
+ Our mortgage banking business strategy resulted in the recognition of $524,000 in gains associated with the sale of $54.3 million of mortgage loans held for sale during the year ended June 30, 2019.  As of that date, an additional $12.3 million of loans were held and committed for sale into the secondary market.  As noted earlier, we anticipate that residential mortgage loan origination and sale activity will continue to support long-term growth in our non-interest income through the recognition of recurring loan sale gains, while also serving to help manage the Company’s exposure to interest rate risk through the sale of longer-duration, fixed-rate loans into the secondary market.  However, the volume of such originations and sales is likely to reflect variations in the levels of consumer demand for refinancing which generally moves inversely with movements in longer-term market interest rates. 
+ Home Equity Loans and Lines of Credit.  Our home equity loans are fixed-rate loans for terms of generally up to 20 years.  We also offer fixed-rate and adjustable-rate home equity lines of credit with terms of up to 20 years.  During the year ended June 30, 2019, Kearny Bank originated $33.8 million of home equity loans and home equity lines of credit compared to $20.2 million in the year ended June 30, 2018.  However, origination volume of home equity loans and lines of credit generally outpaced repayments during fiscal 2019, resulting in a net increase in the outstanding balance of this segment of the loan portfolio.
+ Collateral value is determined through a property value analysis report, or full appraisal where appropriate, provided by a state certified or licensed independent appraiser.  Home equity loans and lines of credit do not require title insurance but do require homeowner, liability and fire insurance and, if applicable, flood insurance.
+ 
+10
+
+Home equity loans and fixed-rate home equity lines of credit are generally originated in our market area and are generally made in amounts of up to 80% of value on term loans and of up to 75% of value on home equity adjustable-rate lines of credit.  We originate home equity loans secured by either a first lien or a second lien on the property.
+ Consumer Loans.  Our consumer loan portfolio includes unsecured overdraft lines of credit and personal loans as well as loans secured by savings accounts and certificates of deposit on deposit with Kearny Bank.  Our unsecured consumer loans at June 30, 2019 primarily include $1.9 million of loans acquired through the Company’s relationship with Lending Club, an established peer-to-peer lender.  The Company limited its original investment in Lending Club loans to approximately $25.0 million in aggregate outstanding balances and has since discontinued purchases of such loans in favor of investing in other loan alternatives.
+ The remaining balance of consumer loans at June 30, 2019 includes $3.7 million of loans fully secured by savings accounts or certificates of deposit held by the Bank and $194,000 of other unsecured consumer loans. We will generally lend up to 90% of the account balance on a loan secured by a savings account or certificate of deposit. 
+ Our unsecured consumer loans generally entail greater risks compared to the other categories of loans that we originate or purchase and hold in portfolio.  Consumer loan repayment is dependent on the borrower’s continuing financial stability and is more likely to be adversely affected by job loss, divorce, illness or personal bankruptcy. The application of various federal laws, including federal and state bankruptcy and insolvency laws, may limit the amount that can be recovered on consumer loans in the event of a default.
+ Our underwriting standards for internally originated consumer loans include a determination of the applicant’s credit history and an assessment of the applicant’s ability to meet existing obligations and payments on the proposed loan.  The stability of the applicant’s monthly income may be determined by verification of gross monthly income from primary employment and any additional verifiable secondary income.
+ Loans to One Borrower.  New Jersey law generally limits the amount that a savings bank may lend to a single borrower and related entities to 15% of the institution’s capital funds. Accordingly, as of June 30, 2019, our loans-to-one-borrower limit was approximately $118.1 million. 
+ Notwithstanding regulatory limitations regarding loans to one borrower, the Bank has established a more conservative set of internal thresholds that further limit our lending exposure to any single borrower or set of borrowers affiliated by common ownership.  In that regard, the Bank’s internal limits are $35.0 million for a single loan transaction and $85.0 million to a common ownership or an affiliated group of borrowers/guarantors. These limits apply irrespective of whether the obligations are on a personally guaranteed/recourse basis or non-personally guaranteed/non-recourse basis.  Exceptions to these internal limits may be considered on a case-by-case basis, subject to the review and approval of each exception by the Bank’s Board of Directors. 
+ At June 30, 2019, our largest single borrower had an aggregate outstanding loan balance of approximately $50.6 million comprising one commercial mortgage loan and four multi-family mortgage loans. Our second largest single borrower had an aggregate outstanding loan balance of approximately $50.2 million comprising six multi-family mortgage loans.  Our third largest borrower had an aggregate outstanding loan balance of approximately $48.7 million comprising four multi-family mortgage loans.  At June 30, 2019, all of these lending relationships were current and performing in accordance with the terms of their loan agreements.  By comparison, at June 30, 2018, loans outstanding to Kearny Bank’s three largest borrowers totaled approximately $58.2 million, $56.9 million and $44.2 million, respectively. 
+ 
+11
+
+Loan Originations, Purchases, Sales, Solicitation and Processing.  The following table shows portfolio loans originated, purchased, acquired and repaid during the periods indicated. 
+ 
+ 
+ | For the Years Ended June 30, | 
+---------------------------------------+------------------------------+---------
+ | | 2019 | | | 2018 | | | 2017 | 
+ | (In Thousands) | 
+Loan originations: (1) | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | 
+One- to four-family | $ | 106,883 | | $ | 52,974 | | $ | 67,907 | 
+Multi-family | | 352,208 | | | 358,521 | | | 578,682 | 
+Nonresidential | | 85,077 | | | 100,249 | | | 148,767 | 
+Commercial business | | 21,856 | | | 25,896 | | | 34,071 | 
+Consumer: | | | | | | | | | 
+Home equity loans | | 33,757 | | | 20,234 | | | 18,489 | 
+Passbook or certificate | | 1,366 | | | 781 | | | 739 | 
+Other | | 908 | | | 587 | | | 1,077 | 
+Construction | | 8,478 | | | 25,213 | | | 2,961 | 
+Total loan originations | | 610,533 | | | 584,455 | | | 852,693 | 
+Loan purchases: | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | 
+One- to four-family | | 95,454 | | | 26,298 | | | - | 
+Multi-family | | 35,000 | | | - | | | 20,800 | 
+Nonresidential | | 33,625 | | | - | | | 105,880 | 
+Commercial business | | 2,732 | | | 28,292 | | | 16,953 | 
+Other | | - | | | - | | | - | 
+Total loan purchases | | 166,811 | | | 54,590 | | | 143,633 | 
+Loans acquired from Clifton (2) | | - | | | 1,116,821 | | | - | 
+Loan sales: (1) | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | 
+Multi-family | | - | | | - | | | - | 
+Commercial business | | (867 | ) | | (2,802 | ) | | (9,589 | )
+Total loans sold | | (867 | ) | | (2,802 | ) | | (9,589 | )
+Loan repayments | | (612,622 | ) | | (497,306 | ) | | (412,234 | )
+Increase (decrease) due to other items | | 11,316 | | | (1,250 | ) | | (8,286 | )
+Net increase in loan portfolio | $ | 175,171 | | $ | 1,254,508 | | $ | 566,217 | 
+
+
+(1) | Excludes origination and sales of one- to four-family mortgage loans held for sale.
+----+------------------------------------------------------------------------------------
+
+
+(2) | For information on loans acquired in the Clifton acquisition, see Note 3 to the audited consolidated financial statements.
+----+---------------------------------------------------------------------------------------------------------------------------
+
+ Our customary sources of loan applications include loans originated by our commercial and residential loan officers, repeat customers, referrals from realtors and other professionals and walk-in customers.  These sources are supported in varying degrees by our newspaper and electronic advertising and marketing strategies.  
+ We have also entered into purchase agreements with a number of bank and non-bank originators to supplement our loan production pipeline.  These agreements call for our purchase of one- to four-family first mortgage loans on either a servicing released or servicing retained basis from the seller.  During the year ended June 30, 2019, we purchased one- to four-family first mortgages totaling $95.5 million.  By comparison, we purchased $26.3 million of one- to four-family first mortgages during the year ended June 30, 2018. 
+ As of June 30, 2019, our portfolio of out-of-state residential mortgages included loans located in eight states outside of New Jersey and New York that totaled approximately $124.9 million or 9.3% of one- to four-family mortgage loans. The states with the three largest concentrations of such loans at June 30, 2019 were Massachusetts, Pennsylvania and Georgia, with outstanding principal balances totaling $115.2 million, $6.9 million and $808,000, respectively.  The aggregate outstanding balances of loans in each of the remaining five states total approximately $1.9 million and comprise approximately 1.5% of the total balance of out-of-state residential mortgage loans with aggregate balances by state ranging from $194,000 to $548,000. 
+ 
+12
+
+In addition to purchasing one- to four-family loans, we have also purchased commercial mortgage loans and participations originated by other banks and non-bank originators. As noted earlier, the aggregate carrying value of the loans and participations purchased from these sources during the year ended June 30, 2019 totaled approximately $68.6 million comprising loans secured primarily by multi-family and non-residential properties located in New York and New Jersey. We also purchased commercial business loans totaling $2.7 million during the year ended June 30, 2019, as discussed above.
+ Loan Approval Procedures and Authority.  Senior management recommends and the Board of Directors approves our lending policies and loan approval limits.  Kearny Bank’s Loan Committee consists of the Chief Executive Officer, Chief Lending Officer, Chief Credit Officer, Director of Commercial Lending, Director of Residential Lending and Special Assets Manager.  Our Chief Lending Officer may approve residential loans up to $1.0 million.  Loan department personnel of Kearny Bank serving in the following positions may approve loans as follows: residential mortgage loan managers, mortgage/consumer loans up to $500,000; and residential mortgage loan underwriters, mortgage loans up to $350,000.  In addition to these principal amount limits, there are established limits for different levels of approval authority as to minimum credit scores and maximum loan-to-value ratios and debt-to-income ratios or debt service coverage.  Our Chief Executive Officer, Chief Lending Officer, or Chief Credit Officer have authorization to approve loans for amounts up to a limit of $1.0 million.  Non-conforming residential mortgage loans and loans over $1.0 million up to $2.0 million require the approval of the Loan Committee.  The Committee may approve individual commercial loans or an aggregate commercial lending relationship up to $5.0 million. Commercial loans or aggregate relationships in excess of $5.0 million require approval by the Board of Directors while such approval is also required for residential mortgage loans in excess of $2.0 million and commercial business loans in excess of $1.0 million.
+Asset Quality 
+ Collection Procedures on Delinquent Loans.  We regularly monitor the payment status of all loans within our portfolio and promptly initiate collection efforts on past due loans in accordance with applicable policies and procedures.  Delinquent borrowers are notified by both mail and telephone when a loan is 30 days past due. If the delinquency continues, subsequent efforts are made to contact the delinquent borrower and additional collection notices and letters are sent.  All reasonable attempts are made to collect from borrowers prior to referral to an attorney for collection.  However, when a loan is 90 days delinquent, it is our general practice to refer it to an attorney for repossession, foreclosure or other form of collection action, as appropriate.  In certain instances, we may modify the loan or grant a limited moratorium on loan payments to enable the borrower to reorganize his or her financial affairs and we attempt to work with the borrower to establish a repayment schedule to cure the delinquency.
+ As to mortgage loans, if a foreclosure action is taken and the loan is not reinstated, paid in full or refinanced, the property is sold at judicial sale at which we may be the buyer if there are no adequate offers to satisfy the debt. Any property acquired as the result of foreclosure or by deed in lieu of foreclosure is classified as other real estate owned until it is sold or otherwise disposed of. When other real estate owned is acquired, it is recorded at its fair market value less estimated selling costs. The initial write-down of the property, if necessary, is charged to the allowance for loan losses. Adjustments to the carrying value of the properties that result from subsequent declines in value are charged to operations in the period in which the declines are identified.
+ Past Due Loans.  A loan’s past due status is generally determined based upon its principal and interest payment (“P&I”) delinquency status in conjunction with its past maturity status, where applicable.  A loan’s P&I delinquency status is based upon the number of calendar days between the date of the earliest P&I payment due and the as of measurement date.  A loan’s past maturity status, where applicable, is based upon the number of calendar days between a loan’s contractual maturity date and the as of measurement date.  Based upon the larger of these criteria, loans are categorized into the following past due tiers for financial statement reporting and disclosure purposes: Current (including 1-29 days), 30-59 days, 60-89 days and 90 or more days.
+ Nonaccrual Loans.  Loans are generally placed on nonaccrual status when contractual payments become 90 or more days past due or when the Company does not expect to receive all P&I payments owed substantially in accordance with the terms of the loan agreement, regardless of past due status.  Loans that become 90 day past due, but are well secured and in the process of collection, may remain on accrual status.  Nonaccrual loans are generally returned to accrual status when all payments due are brought current and we expect to receive all remaining P&I payments owed substantially in accordance with the terms of the loan agreement.  Payments received in cash on nonaccrual loans, including both the principal and interest portions of those payments, are generally applied to reduce the carrying value of the loan.
+ 
+13
+
+Nonperforming Assets.  The following table provides information regarding our nonperforming assets which are comprised of nonaccrual loans, accruing loans 90 days or more past due and other real estate owned.
+ 
+ 
+ | At June 30, | 
+----------------------------------------------+------------------------+-------
+ | 2019 | | | 2018 | | | 2017 | | 2016 | | 2015 | 
+ | (Dollars In Thousands) | 
+Nonaccrual loans: | | | | | | | | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | | | | | | | | 
+One- to four-family | $ | 9,943 | | | $ | 9,192 | | $ | 8,790 | | $ | 10,732 | | $ | 7,952 | 
+Multi-family | | 70 | | | | 116 | | | 158 | | | 205 | | | - | 
+Nonresidential | | 8,900 | | | | 5,340 | | | 5,720 | | | 6,588 | | | 7,177 | 
+Commercial business | | 469 | | | | 1,238 | | | 2,634 | | | 1,965 | | | 3,944 | 
+Consumer: | | | | | | | | | | | | | | | | 
+Home equity loans | | 866 | | | | 913 | | | 1,241 | | | 1,170 | | | 1,783 | 
+Other | | - | | | | - | | | - | | | - | | | 2 | 
+Construction | | - | | | | - | | | 255 | | | 357 | | | 2,037 | 
+Total nonaccrual loans (1) | | 20,248 | | | | 16,799 | | | 18,798 | | | 21,017 | | | 22,895 | 
+Accruing loans 90 days or more past due: | | | | | | | | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | | | | | | | | 
+Multi-family | | - | | | | - | | | - | | | - | | | - | 
+Nonresidential | | - | | | | - | | | - | | | - | | | - | 
+Commercial business | | - | | | | - | | | - | | | - | | | - | 
+Consumer: | | | | | | | | | | | | | | | | 
+Other | | 22 | | | | 60 | | | 74 | | | 38 | | | - | 
+Total accruing loans 90 days or more past due | | 22 | | | | 60 | | | 74 | | | 38 | | | - | 
+Total nonperforming loans | $ | 20,270 | | | $ | 16,859 | | $ | 18,872 | | $ | 21,055 | | $ | 22,895 | 
+Other real estate owned | $ | - | | | $ | 725 | | $ | 1,632 | | $ | 826 | | $ | 942 | 
+Total nonperforming assets | $ | 20,270 | | | $ | 17,584 | | $ | 20,504 | | $ | 21,881 | | $ | 23,837 | 
+Total nonperforming loans to total loans | | 0.43 | % | | | 0.37 | % | | 0.58 | % | | 0.79 | % | | 1.09 | %
+Total nonperforming loans to total assets | | 0.31 | % | | | 0.26 | % | | 0.39 | % | | 0.47 | % | | 0.54 | %
+Total nonperforming assets to total assets | | 0.31 | % | | | 0.27 | % | | 0.43 | % | | 0.49 | % | | 0.56 | %
+
+
+(1) | TDRs on accrual status not included above totaled $4.3 million, $3.5 million, $2.5 million, $2.9 million and $3.1 million at June 30, 2019, 2018, 2017, 2016 and 2015, respectively.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Total nonperforming assets increased by $2.7 million to $20.3 million at June 30, 2019 from $17.6 million at June 30, 2018.  The increase was due to a net increase in nonperforming loans of $3.4 million partially offset by a net decrease in other real estate owned of $725,000.  For those same comparative periods, the number of nonperforming loans decreased to 77 loans from 80 loans while there were no properties in other real estate owned at June 30, 2019 compared to four at June 30, 2018.
+ At June 30, 2019, nonperforming loans comprised $20.2 million of nonaccrual loans and $22,000 of loans being reported as accruing loans over 90 days and over past due.  By comparison, at June 30, 2018, nonperforming loans comprised $16.8 million of nonaccrual loans and $60,000 of loans being reported as accruing loans over 90 days past due.
+ Nonperforming one- to four-family mortgage loans at June 30, 2019 include 40 nonaccrual loans totaling $9.9 million whose net outstanding balances range from $11,000 to $766,000, with an average balance of approximately $249,000 as of that date.  The loans are in various stages of collection, workout or foreclosure.  Of these loans, 37 are secured by New Jersey properties while two loans are secured by a properties located in New York and one loan is secured by a property located in Georgia.  We have identified approximately $31,000 of specific impairment relating to one of the nonperforming loans for which a valuation allowance was maintained in the allowance for loan losses at June 30, 2019.
+ Nonperforming commercial real estate loans, including multi-family and nonresidential mortgage loans, include 16 nonaccrual loans totaling $9.0 million.  At June 30, 2019, the outstanding balances of these loans range from $14,000 to $2.8 million with an average balance of approximately $561,000 as of that date.  The loans are in various stages of collection, workout or foreclosure and are secured by 15 properties located in New Jersey and one property located in New York.  There was no specific impairment identified relating to these nonperforming loans at June 30, 2019.
+ 
+14
+
+Nonperforming commercial business loans at June 30, 2019 include six nonaccrual loans totaling $469,000.  At June 30, 2019, the outstanding balances of these loans range from $5,000 to $219,000 with an average balance of approximately $78,000 as of that date.  The loans are in various stages of collection, workout or foreclosure and are primarily secured by New Jersey and New York properties and, to a lesser extent, other forms of collateral. There was no specific impairment identified relating to these nonperforming loans at June 30, 2019.
+ Home equity loans and home equity lines of credit that are reported as nonperforming at June 30, 2019 include 14 nonaccrual loans totaling $866,000.  At June 30, 2019, the outstanding balances of these loans range from $4,000 to $383,000 with an average balance of approximately $62,000 as of that date.  The loans are in various stages of collection, workout or foreclosure and are primarily secured by New Jersey properties.  There was no specific impairment identified relating to these nonperforming loans at June 30, 2019.
+ Other consumer loans that are reported as nonperforming at June 30, 2019 included three unsecured loans totaling $22,000 reported as accruing loans over 90 days past due. 
+ There were no nonperforming construction loans in nonaccrual status at June 30, 2019.  
+ At June 30, 2019, 2018, and 2017, Kearny Bank had loans with aggregate outstanding balances totaling $15.1 million, $10.2 million and $11.0 million, respectively, reported as troubled debt restructurings. 
+ Loan Review System.  We maintain a loan review system consisting of several related functions including, but not limited to, classification of assets, calculation of the allowance for loan losses, independent credit file review as well as internal audit and lending compliance reviews.  We utilize both internal and external resources, where appropriate, to perform the various loan review functions.  For example, we have engaged the services of a third party firm specializing in loan review and analysis to perform several loan review functions.  The firm reviews the loan portfolio in accordance with the scope and frequency determined by senior management and the Audit and Compliance Committee of the Board of Directors.  The third party loan review firm assists senior management and the Board of Directors in identifying potential credit weaknesses; in reviewing and confirming risk ratings or adverse classifications internally ascribed to loans by management; in identifying relevant trends that affect the collectability of the portfolio and identifying segments of the portfolio that are potential problem areas; in verifying the appropriateness of the allowance for loan losses; in evaluating the activities of lending personnel including compliance with lending policies and the quality of their loan approval, monitoring and risk assessment; and by providing an objective assessment of the overall quality of the loan portfolio. Currently, independent loan reviews are being conducted quarterly and include non-performing loans as well as samples of performing loans of varying types within our portfolio.
+ Our loan review system also includes the internal audit and compliance functions, which operate in accordance with a scope determined by the Audit and Compliance Committee of the Board of Directors.  Internal audit resources assess the adequacy of, and adherence to, internal credit policies and loan administration procedures.  Similarly, our compliance resources monitor adherence to relevant lending-related and consumer protection-related laws and regulations.  As noted, the loan review system also comprises our policies and procedures relating to the regulatory classification of assets and the allowance for loan loss functions each of which are described in greater detail below.
+ Classification of Assets.  In compliance with the regulatory guidelines, our loan review system includes an evaluation process through which certain loans exhibiting adverse credit quality characteristics are classified as Special Mention, Substandard, Doubtful or Loss.  An asset is classified as Substandard if it is inadequately protected by the paying capacity and net worth of the obligor or the collateral pledged, if any.  Substandard assets include those characterized by the distinct possibility that the insured institution will sustain some loss if the deficiencies are not corrected. Assets classified as Doubtful have all of the weaknesses inherent in those classified as Substandard, with the added characteristic that the weaknesses present make collection or liquidation in full highly questionable and improbable, on the basis of currently existing facts, conditions and values. Assets, or portions thereof, classified as Loss are considered uncollectible or of so little value that their continuance as assets is not warranted.  Assets which do not currently expose us to a sufficient degree of risk to warrant an adverse classification but have some credit deficiencies or other potential weaknesses are designated as Special Mention by management.  Adversely classified assets, together with those rated as Special Mention are generally referred to as Classified Assets.  Non-classified assets are internally rated within one of four Pass categories or as Watch with the latter denoting a potential deficiency or concern that warrants increased oversight or tracking by management until remediated.
+ Additional information about our classification of assets is presented in Note 8 to the audited consolidated financial statements.
+ 
+15
+
+
+The following table discloses our designation of certain loans as special mention or adversely classified during each of the five years presented:
+ 
+ 
+ | At June 30, | 
+-----------------------+----------------+-------
+ | 2019 | | 2018 | | | 2017 | | 2016 | 2015 | 
+ | (In Thousands) | 
+Special mention | $ | 5,681 | | $ | 592 | | $ | 2,594 | $ | 2,528 | $ | 13,501
+Substandard | | 27,822 | | | 28,752 | | | 29,428 | | 33,052 | | 34,748
+Doubtful | | 1 | | | 1 | | | 3 | | 2 | | 273 
+Loss (1) | | - | | | - | | | - | | - | | - 
+Total classified loans | $ | 33,504 | | $ | 29,345 | | $ | 32,025 | $ | 35,582 | $ | 48,522
+
+
+(1) | Net of specific valuation allowances where applicable.
+----+-------------------------------------------------------
+
+ At June 30, 2019, 17 loans were classified as Special Mention and 125 loans were classified as Substandard.  As of that same date, four loans were classified as Doubtful.  
+ Allowance for Loan Losses.  Our allowance for loan losses is maintained at a level necessary to absorb loan losses that are both probable and reasonably estimable.  The allowance for loan losses as of June 30, 2019, is maintained at a level that represents management’s best estimate of losses inherent in the loan portfolio.  Although we believe that our allowance for loans losses is established in accordance with management’s best estimate, actual losses are dependent upon future events and, as such, further additions to the level of loan loss allowances may be necessary.  
+ 
+Additional information about our allowance for loan losses is presented in Note 1 to the audited consolidated financial statements.
+ The following table sets forth information with respect to activity in the allowance for loan losses for the periods indicated:
+ 
+ 
+ | For the Years Ended June 30, | 
+--------------------------------------------------------------------+------------------------------+----------
+ | | 2019 | | | 2018 | | | 2017 | | | 2016 | | | 2015 | 
+ | (Dollars in Thousands) | 
+Allowance balance (at beginning of period) | $ | 30,865 | | $ | 29,286 | | $ | 24,229 | | $ | 15,606 | | $ | 12,387 | 
+Provision for loan losses | | 3,556 | | | 2,706 | | | 5,381 | | | 10,690 | | | 6,108 | 
+Charge offs: | | | | | | | | | | | | | | | 
+One- to four-family mortgage | | (83 | ) | | (521 | ) | | (76 | ) | | (1,213 | ) | | (1,985 | )
+Home equity loans | | - | | | (18 | ) | | (96 | ) | | (93 | ) | | (77 | )
+Multi-family | | - | | | - | | | - | | | (133 | ) | | (14 | )
+Nonresidential | | (54 | ) | | (45 | ) | | (149 | ) | | - | | | (636 | )
+Commercial business | | (861 | ) | | (145 | ) | | (221 | ) | | (1,464 | ) | | (491 | )
+Other | | (285 | ) | | (829 | ) | | (849 | ) | | (55 | ) | | (1 | )
+Total charge offs: | | (1,283 | ) | | (1,558 | ) | | (1,391 | ) | | (2,958 | ) | | (3,204 | )
+Recoveries: | | | | | | | | | | | | | | | 
+One- to four-family mortgage | | - | | | 172 | | | 256 | | | 88 | | | 297 | 
+Home equity loans | | - | | | 65 | | | 16 | | | 41 | | | - | 
+Nonresidential | | 6 | | | - | | | - | | | - | | | - | 
+Commercial business | | 47 | | | 90 | | | 727 | | | 760 | | | 18 | 
+Other | | 83 | | | 104 | | | 68 | | | 2 | | | - | 
+Total recoveries: | | 136 | | | 431 | | | 1,067 | | | 891 | | | 315 | 
+Net charge offs: | | (1,147 | ) | | (1,127 | ) | | (324 | ) | | (2,067 | ) | | (2,889 | )
+Allowance balance (at end of period) | $ | 33,274 | | $ | 30,865 | | $ | 29,286 | | $ | 24,229 | | $ | 15,606 | 
+Total loans outstanding | $ | 4,730,953 | | $ | 4,567,915 | | $ | 3,242,453 | | $ | 2,671,381 | | $ | 2,102,548 | 
+Average loans outstanding | $ | 4,669,436 | | $ | 3,577,598 | | $ | 2,955,686 | | $ | 2,512,231 | | $ | 1,849,785 | 
+Allowance for loan losses as a percent of total loans outstanding | | 0.70 | % | | 0.68 | % | | 0.90 | % | | 0.91 | % | | 0.74 | %
+Net loan charge-offs as a percent of average loans outstanding | | 0.02 | % | | 0.03 | % | | 0.01 | % | | 0.08 | % | | 0.16 | %
+Allowance for loan losses to non-performing loans | | 164.15 | % | | 183.08 | % | | 155.18 | % | | 115.07 | % | | 68.17 | %
+
+ 
+16
+
+
+Allocation of Allowance for Loan Losses.  The following table sets forth the allocation of the total allowance for loan losses by loan category and segment and the percent of loans in each category’s segment to total net loans receivable at the dates indicated.  The portion of the loan loss allowance allocated to each loan segment does not represent the total available for future losses which may occur within a particular loan segment since the total loan loss allowance is a valuation reserve applicable to the entire loan portfolio.
+
+ | At June 30, 
+-------------------------------+-----------------------
+ | 2019 | | 2018 | | 2017 | | 2016 | | 2015 
+ | Amount | | | Percent of Loans to Total Loans | | Amount | | | Percent of Loans to Total Loans | | Amount | Percent of Loans to Total Loans | | Amount | | Percent of Loans to Total Loans | | Amount | Percent of Loans to Total Loans
+ | (Dollars In Thousands) | | 
+At end of period allocated to: | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+One- to four-family | $ | 3,377 | | | | 10.15 | | % | | $ | 2,479 | | 8.03 | | % | $ | 2,384 | | 17.50 | % | $ | 2,370 | 22.66 | % | $ | 2,210 | 28.17 | %
+Multi-family | | 16,959 | | | | 50.96 | | | | | 14,946 | | 48.42 | | | | 13,941 | | 43.57 | | | 9,995 | 38.94 | | | 6,355 | 34.65 | 
+Nonresidential | | 9,672 | | | | 29.07 | | | | | 9,787 | | 31.71 | | | | 9,939 | | 33.46 | | | 7,846 | 30.72 | | | 4,765 | 27.62 | 
+Commercial business | | 2,467 | | | | 7.41 | | | | | 2,552 | | 8.27 | | | | 1,709 | | 2.30 | | | 2,784 | 3.30 | | | 1,860 | 4.73 | 
+Consumer: | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Home equity loans | | 491 | | | | 1.48 | | | | | 430 | | 1.39 | | | | 501 | | 2.55 | | | 432 | 3.35 | | | 366 | 4.36 | 
+Other | | 172 | | | | 0.52 | | | | | 413 | | 1.34 | | | | 777 | | 0.50 | | | 778 | 0.95 | | | 16 | 0.20 | 
+Construction | | 136 | | | | 0.41 | | | | | 258 | | 0.84 | | | | 35 | | 0.12 | | | 24 | 0.08 | | | 34 | 0.27 | 
+Total | $ | 33,274 | | | | 100.00 | | % | | $ | 30,865 | | 100.00 | | % | $ | 29,286 | | 100.00 | % | $ | 24,229 | 100.00 | % | $ | 15,606 | 100.00 | %
+
+ 
+The following table sets forth the allocation of the allowance for loan losses by loan category and segment within each valuation allowance category at the dates indicated.  The valuation allowance categories presented reflect the allowance for loan loss calculation methodology in effect at the time.
+ 
+ 
+ | At June 30, | 
+-----------------------------------------------------------------------+----------------+-------
+ | 2019 | | 2018 | | | 2017 | | 2016 | 2015 | 
+ | (In Thousands) | 
+Valuation allowance for loans individually evaluated for impairment | | | | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | | | | 
+One- to four-family | $ | 31 | | $ | 79 | | $ | 154 | $ | 77 | $ | 116 
+Multi-family | | - | | | - | | | - | | - | | 267 
+Nonresidential | | - | | | - | | | 39 | | 53 | | 262 
+Commercial business | | - | | | 227 | | | 6 | | 400 | | 370 
+Consumer: | | | | | | | | | | | | 
+Home equity loans | | - | | | - | | | - | | 78 | | 36 
+Total valuation allowance | | 31 | | | 306 | | | 199 | | 608 | | 1,051 
+Valuation allowance for loans collectively evaluated for impairment: | | | | | | | | | | | | 
+Historical loss factors | | 2,108 | | | 2,074 | | | 2,131 | | 3,439 | | 1,913 
+Environmental loss factors: | | | | | | | | | | | | 
+Real estate mortgage: | | | | | | | | | | | | 
+One- to four-family | | 3,243 | | | 2,368 | | | 1,988 | | 1,621 | | 1,236 
+Multi-family | | 16,959 | | | 14,946 | | | 13,941 | | 9,985 | | 6,079 
+Nonresidential | | 9,627 | | | 9,686 | | | 9,701 | | 7,269 | | 4,393 
+Commercial business | | 653 | | | 750 | | | 731 | | 810 | | 606 
+Consumer: | | | | | | | | | | | | 
+Home equity loans | | 482 | | | 410 | | | 401 | | 306 | | 287 
+Other | | 35 | | | 67 | | | 159 | | 167 | | 7 
+Construction | | 136 | | | 258 | | | 35 | | 24 | | 34 
+Total environmental factors | | 31,135 | | | 28,485 | | | 26,956 | | 20,182 | | 12,642
+Total allowance for loan losses | $ | 33,274 | | $ | 30,865 | | $ | 29,286 | $ | 24,229 | $ | 15,606
+
+ 
+
+17
+
+During the year ended June 30, 2019, the balance of the allowance for loan losses increased by $2.4 million to $33.3 million or 0.70% of total loans at June 30, 2019 from $30.9 million or 0.68% of total loans at June 30, 2018.  The increase in the dollar amount of the allowance resulted from provisions of $3.6 million during the year ended June 30, 2019 that were partially offset by charge-offs, net of recoveries, totaling $1.1 million during that same period.  
+ With regard to loans individually evaluated for impairment, the balance of our allowance for loan losses attributable to such loans decreased by $275,000 to $31,000 at June 30, 2019 from $306,000 at June 30, 2018.  The balance at June 30, 2019 reflected the allowance for impairment identified on $363,000 of impaired loans while an additional $24.2 million of impaired loans had no allowance for impairment as of that date.  By comparison, the balance at June 30, 2018 reflected the allowance for impairment identified on $1.0 million of impaired loans while an additional $22.3 million of impaired loans had no allowance for impairment as of that date.  The outstanding balances of impaired loans reflect the cumulative effects of various adjustments including, but not limited to, purchase accounting valuations and prior charge-offs, where applicable, which are considered in the evaluation of impairment.
+ With regard to loans evaluated collectively for impairment, the balance of our allowance for loan losses attributable to such loans increased by $2.6 million to $33.2 million at June 30, 2019 from $30.6 million at June 30, 2018.  The increase in valuation was partly attributable to the aggregate growth in the outstanding balance of non-acquired loans collectively evaluated for impairment as well as the ongoing reallocation of the applicable loans within the portfolio in favor of commercial loans against which we generally assign comparatively higher historical and environmental loss factors in our allowance for loan loss calculation.  The increase in the allowance also reflected updates to historical and environmental loss factors during the year ended June 30, 2019.
+ With regard to historical loss factors, our loan portfolio experienced a net annualized charge-off rate of 0.02% for the year ended June 30, 2019 representing a decrease of one basis point from the 0.03% of net charge offs reported for the year ended June 30, 2018.  The annual average net charge off rate for June 30, 2018 had previously increased by two basis points from 0.01% for the prior year ended June 30, 2017.  Given the effects of these annual changes, the two-year average net charge off rate for our loan portfolio remained stable at 0.02% for the periods ended June 30, 2019 and June 30, 2018, respectively.  The historical loss factors used in our allowance for loan loss calculation methodology were updated to reflect the effect of these changes by individual loan segment reflecting the two year look-back period used by that methodology.
+ The effects of the net change in historical loss factors arising from the changes noted above modestly offset the effect of the increase in the overall balance of the unimpaired portion of the loan portfolio during the year ended June 30, 2019.  Consequently, the applicable portion of the allowance attributable to these factors remained stable at $2.1 million at June 30, 2019 and June 30, 2018.
+ With regard to environmental loss factors, the Company made minor adjustments to such factors during the year ended June 30, 2019.  Such adjustments partly reflected increasing loss exposure resulting from increased uncertainty in economic and market conditions, partially offset by decreasing loss exposure due to incremental improvements in asset quality and portfolio seasoning metrics.  Consequently, the $2.7 million increase in the portion of the allowance for loan losses attributable to environmental loss factors to $31.1 million at June 30, 2019 from $28.5 million at June 30, 2018 was largely attributable to the growth in the unimpaired portion of the loan portfolio coupled with the noted adjustments to environmental loss factors.
+ An overview of the balances and activity within the allowance for loan loss during the prior fiscal year ended June 30, 2018 can be found in our Annual Report on Form 10-K for the year ended June 30, 2018, filed with the SEC on August 28, 2018.
+ The calculation of probable losses within a loan portfolio and the resulting allowance for loan losses is subject to estimates and assumptions that are susceptible to significant revisions as more information becomes available and as events or conditions effecting individual borrowers and the marketplace as a whole change over time.  Future additions to the allowance for loan losses may be necessary if economic and market conditions deteriorate in the future from those currently prevalent in the marketplace.  In addition, the federal banking regulators, as an integral part of their examination process, periodically review our loan and foreclosed real estate portfolios and the related allowance for loan losses and valuation allowance for foreclosed real estate.  The regulators may require the allowance for loan losses to be increased based on their review of information available at the time of the examination, which may negatively affect our earnings.  Finally, changes in accounting standards promulgated by the Financial Accounting Standards Board, such as those discussed in Note 2 to the audited consolidated financial statements regarding the use of a current expected credit loss (“CECL”) model to calculate credit losses, may require increases in the allowance for loan losses upon adoption of the applicable accounting standard. 
+ Securities Portfolio 
+ We have generally invested excess funds into investment securities with a historical emphasis on U.S. agency mortgage-backed securities and U.S. agency debentures.  Such assets were a significant component of our investment portfolio at June 30, 2019 and are expected to remain so in the future.  However, enhancements to our investment policies, strategies and infrastructure in recent years have enabled us to diversify the composition and allocation of our securities portfolio as described below.
+ 
+18
+
+At June 30, 2019, our securities portfolio totaled $1.29 billion and comprised 19.5% of our total assets.  By comparison, at June 30, 2018, our securities portfolio totaled $1.31 billion and comprised 20.0% of our total assets.
+ The year-over-year net decrease in the securities portfolio totaled approximately $23.9 million which largely reflected repayments, sales and calls during the year that were partially offset by security purchases. The decrease in the portfolio was also partially offset by a $6.3 million increase in the fair value of the available for sale securities portfolio to an unrealized gain of $2.0 million at June 30, 2019 from an unrealized loss of $4.3 million at June 30, 2018.
+ The decrease in the securities portfolio from June 30, 2019 compared to June 30, 2018, generally reflects the stated goals and objectives of our business plan which continues to call for shifting the mix of our earning assets toward greater balances of loans and lesser balances of securities.
+ Our investment policy, which is approved by the Board of Directors, is designed to foster earnings and manage cash flows within prudent interest rate risk and credit risk guidelines.  Generally, our investment policy is to invest funds in various categories of securities and maturities based upon our liquidity needs, asset/liability management policies, investment quality, and marketability and performance objectives.  Our Chief Executive Officer, Chief Operating Officer, Chief Financial Officer, Chief Risk Officer and Treasurer/Chief Investment Officer are the senior management members of our Capital Markets Committee (“CMC”) that are generally designated by the Board of Directors as the officers primarily responsible for securities portfolio management and all transactions require the approval of at least two of these designated officers.  The Board of Directors is responsible for the oversight of the securities portfolio and the CMC’s activities relating thereto.
+ The investments authorized for purchase under the investment policy approved by our Board of Directors include U.S. government and agency mortgage-backed securities (including U.S. agency commercial MBS), U.S. government and government agency debentures, municipal obligations, corporate bonds, asset-backed securities, collateralized loan obligations and subordinated debt.  We also hold small balances of single-issuer trust preferred securities that were acquired through bank acquisitions, but generally do not purchase such securities for the portfolio.  On a short-term basis, our investment policy authorizes investment in securities purchased under agreements to resell, federal funds, certificates of deposits of insured banks and savings institutions and Federal Home Loan Bank term deposits.
+ The carrying value of our mortgage-backed securities totaled $579.4 million at June 30, 2019 and comprised 44.9% of total investments and 8.7% of total assets as of that date.  We generally invest in mortgage-backed securities issued by U.S. government agencies or government-sponsored entities, such as the Government National Mortgage Association (“Ginnie Mae”), Federal Home Loan Mortgage Corporation (“Freddie Mac”) and the Federal National Mortgage Association (“Fannie Mae”).  Mortgage-backed securities issued or sponsored by U.S. government agencies and government-sponsored entities are guaranteed as to the payment of principal and interest to investors.  Mortgage-backed securities generally yield less than the mortgage loans underlying such securities because of the costs of servicing and of their payment guarantees or credit enhancements which minimize the level of credit risk to the security holder.  
+ The carrying value of our U.S. agency debt securities totaled $3.7 million at June 30, 2019 and comprised less than one percent of total investments and total assets as of that date.  Such securities were fully comprised of securitized pools of loans issued and fully guaranteed by the SBA. 
+ The carrying value of our securities representing obligations of state and political subdivisions totaled $131.0 million at June 30, 2019 and comprised 10.2% of total investments and 2.0% of total assets as of that date.  Such securities primarily included highly-rated, fixed-rate bank-qualified securities representing general obligations of municipalities located within the U.S. or the obligations of their related entities such as boards of education or school districts.  The portfolio also includes one short-term, bond anticipation note (“BAN”) issued by one New Jersey municipality.  Each of our municipal obligations were consistently rated by Moody’s and S&P well above the thresholds that generally support our investment grade assessment with such ratings equaling or exceeding A- or higher by S&P and/or A3 or higher by Moody’s, where rated by those agencies.  In the absence of such ratings, we rely upon our own internal analysis of the issuer’s financial condition to validate its investment grade assessment. 
+ The carrying value of our asset-backed securities totaled $179.3 million at June 30, 2019 and comprised 13.9% of total investments and 2.7% of total assets as of that date.  This category of securities is comprised entirely of structured, floating-rate securities representing securitized federal education loans with 97% U.S. government guarantees.  The securities represent tranches of a larger investment vehicle designed to reallocate credit risk among the individual tranches comprised within that vehicle.  Through this process, investors in different tranches are subject to varying degrees of risk that the cash flows of their tranche will be adversely impacted by borrowers defaulting on the underlying loans.  Our securities represent the highest credit-quality tranches within the overall structures with each being rated AA+ or higher by S&P/or A2 or higher by Moody’s, where rated by those agencies, at June 30, 2019.
+ 
+19
+
+The outstanding balance of our collateralized loan obligations totaled $208.6 million at June 30, 2019 and comprised 16.2% of total investments and 3.1% of total assets as of that date.  This category of securities is comprised entirely of structured, floating-rate securities representing securitized commercial loans to large, U.S. corporations.  Our securities represent tranches of a larger investment vehicle designed to reallocate cash flows and credit risk among the individual tranches comprised within that vehicle.  Through this process, investors in different tranches are subject to varying degrees of risk that the cash flows of their tranche will be adversely impacted by borrowers defaulting on the underlying loans.  At June 30, 2019, each of our collateralized loan obligations were consistently rated by Moody’s and S&P well above the thresholds that generally support our investment grade assessment with such ratings equaling AAA by S&P and Aaa or by Moody’s, where rated by those agencies.
+ The carrying value of our corporate bonds totaled $122.0 million at June 30, 2019 and comprised 9.5% of total investments and 1.8% of total assets as of that date.  This category of securities is comprised entirely of floating-rate corporate debt obligations issued by large financial institutions. We generally limit our investment in the unsecured corporate debt of any single issuer to $25.0 million.  At June 30, 2019, each of our corporate bonds were consistently rated by Moody’s and S&P well above the thresholds that generally support our investment grade assessment with such ratings equaling or exceeding BBB+ or higher by S&P and/or A3 or higher by Moody’s, where rated by those agencies.
+ The carrying value of our subordinated debt totaled $63.1 million at June 30, 2019 and comprised 4.9% of total investments and 1.0% of total assets as of that date.  This balance is comprised of twelve securities representing eleven separate issuers.  The typical structure of the subordinated debt is a 10-year final maturity, with a fixed rate coupon for the first five years of the term, and then at a variable rate that will reset quarterly to a level equal to the then current 3-month LIBOR plus a spread over the remainder of the term.  The notes are redeemable after five years subject to satisfaction of certain conditions.  Ten of the securities totaling $48.1 million in carrying value are rated BBB- or higher by Kroll Bond Rating Agency (“Kroll”) and/or BBB- by Fitch Ratings Inc., where rated by those agencies.  Of the securities rated by Kroll, two of the securities totaling $10.0 million are rated BB or higher by S&P and Baa2 by Moody’s. One security with a carrying value of $15.0 million is non-rated. All issuers of our investments in subordinated debt represent profitable, well-capitalized, small- to mid-sized community banks located mainly in the mid-Atlantic region of the U.S.  In each case, the indebtedness evidenced by the subordinated notes, including principal and interest, is unsecured and subordinate and junior to the issuer’s general and secured creditors and depositors.  
+ The carrying value of our trust preferred securities totaled $3.8 million at June 30, 2019 and comprised less than one percent of total investments and total assets as of that date.  The category comprises a total of three single-issuer trust preferred securities that, as a result of merger activity, represent the de-facto obligations of two separate financial institutions.  At June 30, 2019, two of the securities, at an amortized cost of $3.0 million, were consistently rated by Moody’s and S&P above the thresholds that generally support our investment grade assessment, with such ratings equaling BBB- by S&P and Baa1 by Moody’s.  One security with a carrying value of $1.0 million is non-rated.
+ Current accounting standards require that securities be categorized as held to maturity, trading securities or available for sale, based on management’s intent as to the ultimate disposition of each security.  These standards allow debt securities to be classified as held to maturity and reported in financial statements at amortized cost only if the reporting entity has the positive intent and ability to hold these securities to maturity.  Securities that might be sold in response to changes in market interest rates, changes in the security’s prepayment risk, increases in loan demand, or other similar factors cannot be classified as held to maturity.
+ We do not currently use or maintain a trading account.  Securities not classified as held to maturity are classified as available for sale.  These securities are reported at fair value and unrealized gains and losses on the securities are excluded from earnings and reported, net of deferred taxes, as adjustments to accumulated other comprehensive income, a separate component of equity.  As of June 30, 2019, our held to maturity securities portfolio had a carrying value of $576.7 million or 44.7% of our total securities with the remaining $714.3 million or 55.3% of securities classified as available for sale.
+ Other than securities issued or guaranteed by the U.S. government or its agencies, we did not hold securities of any one issuer having an aggregate book value in excess of 10% of our equity at June 30, 2019.  All of our securities carry market risk insofar as increases in market rates of interest may cause a decrease in their market value.  We have determined that none of our securities with unrealized losses at June 30, 2019 are other than temporarily impaired as of that date.
+ Purchases of securities are made based on certain considerations, which include the interest rate, tax considerations, volatility, yield, settlement date and maturity of the security, our liquidity position and anticipated cash needs and sources.  The effect that the proposed security would have on our credit and interest rate risk and risk-based capital is also considered.  We do not purchase securities that are determined to be below investment grade.
+ 
+20
+
+During the year ended June 30, 2019, proceeds from sales of securities available for sale totaled $75.4 million and resulted in gross gains of $190,000 and gross losses of $513,000. During the year ended June 30, 2018, proceeds from sales of securities available for sale totaled $254.6 million and resulted in gross losses of $31,000.  During the year ended June 30, 2017, proceeds from sales of securities available for sale totaled $83.0 million and resulted in gross gains of $1.3 million and gross losses of $1.7 million. 
+ There were no sales of held to maturity securities during the year ended June 30, 2019.  During the year ended June, 30, 2018, proceeds from sales of securities held to maturity totaled $211,000 which resulted in gross losses of $8,000.  The securities sold were limited to those securities where there was evidence of a deterioration of creditworthiness.  During the year ended June 30, 2017, proceeds from sales of securities held to maturity totaled $5.3 million which resulted in gross gains of $370,000 and gross losses of $1,000. The securities sold were limited to those whose remaining outstanding balances had declined to the required thresholds, in relation to the original amount purchased or acquired, that allowed their sale from the held to maturity portfolio.  
+ The following table sets forth the carrying value of our securities portfolio at the dates indicated. Mortgage-backed securities include mortgage pass-through securities and collateralized mortgage obligations:
+ 
+ 
+ | At June 30, | 
+----------------------------------------------------+----------------+----------
+ | 2019 | | 2018 | | | 2017 | | 2016 | 2015 | 
+ | (In Thousands) | 
+Debt securities available for sale: | | | | | | | | | | | | 
+U.S. agency securities | $ | 3,678 | | $ | 4,411 | | $ | 5,316 | $ | 6,440 | $ | 7,263 
+Obligations of state and political subdivisions | | 26,951 | | | 26,088 | | | 27,740 | | 28,398 | | 26,835 
+Asset-backed securities | | 179,313 | | | 182,620 | | | 162,429 | | 82,625 | | 88,032 
+Collateralized loan obligations | | 208,611 | | | 226,066 | | | 98,154 | | 127,374 | | 128,171 
+Corporate bonds | | 122,024 | | | 147,594 | | | 142,318 | | 137,404 | | 162,608 
+Trust preferred securities | | 3,756 | | | 3,783 | | | 8,540 | | 7,669 | | 7,751 
+Total debt securities available for sale | | 544,333 | | | 590,562 | | | 444,497 | | 389,910 | | 420,660 
+Mortgage-backed securities available for sale: | | | | | | | | | | | | 
+Collateralized mortgage obligations | | 21,390 | | | 24,292 | | | 30,536 | | 60,577 | | 71,877 
+Residential pass-through securities | | 44,303 | | | 102,359 | | | 130,550 | | 214,526 | | 263,613 
+Commercial pass-through securities | | 104,237 | | | 7,872 | | | 8,177 | | 8,524 | | 11,129 
+Total mortgage-backed securities available for sale | | 169,930 | | | 134,523 | | | 169,263 | | 283,627 | | 346,619 
+Total securities available for sale | | 714,263 | | | 725,085 | | | 613,760 | | 673,537 | | 767,279 
+Debt securities held to maturity: | | | | | | | | | | | | 
+U.S. agency securities | | - | | | - | | | 35,000 | | 84,992 | | 143,334 
+Obligations of state and political subdivisions | | 104,086 | | | 109,483 | | | 94,713 | | 82,179 | | 76,528 
+Subordinated debt | | 63,086 | | | 46,294 | | | 15,000 | | - | | - 
+Total debt securities held to maturity | | 167,172 | | | 155,777 | | | 144,713 | | 167,171 | | 219,862 
+Mortgage-backed securities held to maturity: | | | | | | | | | | | | 
+Collateralized mortgage obligations | | 46,381 | | | 56,886 | | | 17,854 | | 23,081 | | 15,384 
+Residential pass-through securities | | 166,283 | | | 200,622 | | | 178,813 | | 223,632 | | 259,063 
+Commercial pass-through securities | | 196,816 | | | 176,445 | | | 151,941 | | 163,402 | | 169,032 
+Total mortgage-backed securities held to maturity | | 409,480 | | | 433,953 | | | 348,608 | | 410,115 | | 443,479 
+Total securities held to maturity | | 576,652 | | | 589,730 | | | 493,321 | | 577,286 | | 663,341 
+Total securities | $ | 1,290,915 | | $ | 1,314,815 | | $ | 1,107,081 | $ | 1,250,823 | $ | 1,430,620
+
+ 
+
+
+
+21
+
+The following table sets forth certain information regarding the carrying values, weighted average yields and maturities of our securities portfolio at June 30, 2019.  This table shows contractual maturities and does not reflect re-pricing or the effect of prepayments. Actual maturities may differ from contractual maturities because issuers may have the right to call or prepay obligations with or without prepayment penalties.  At June 30, 2019, securities with a carrying value of $30.9 million are callable within one year. 
+ 
+
+ 
+ | At June 30, 2019 | 
+------------------------------------------------+------------------------+-------
+ | One Year or Less | | One to Five Years | | Five to Ten Years | | More Than Ten Years | | Total Securities | 
+ | Carrying Value | | | Weighted Average Yield | | Carrying Value | | | Weighted Average Yield | | Carrying Value | Weighted Average Yield | | Carrying Value | | Weighted Average Yield | | Carrying Value | Weighted Average Yield | Fair Market Value
+ | (Dollars In Thousands) | 
+Debt securities: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+U.S. agency securities | $ | - | | | | - | | % | | $ | 237 | | 2.68 | | % | $ | 999 | | 3.28 | % | $ | 2,442 | 2.69 | % | $ | 3,678 | 2.85 | % | $ | 3,678 
+Obligations of state and political subdivisions | | 9,561 | | | | 1.51 | | | | | 38,874 | | 1.82 | | | | 81,578 | | 2.33 | | | 1,024 | 2.88 | | | 131,037 | 2.12 | | | 132,808 
+Asset-backed securities | | - | | | | - | | | | | - | | - | | | | - | | - | | | 179,313 | 3.49 | | | 179,313 | 3.49 | | | 179,313 
+Collateralized loan obligations | | - | | | | - | | | | | - | | - | | | | 34,358 | | 4.02 | | | 174,253 | 3.75 | | | 208,611 | 3.79 | | | 208,611 
+Corporate bonds | | 20,068 | | | | 3.59 | | | | | 101,956 | | 3.44 | | | | - | | - | | | - | - | | | 122,024 | 3.46 | | | 122,024 
+Trust preferred securities | | - | | | | - | | | | | - | | - | | | | 3,756 | | 4.79 | | | - | - | | | 3,756 | 4.79 | | | 3,756 
+Subordinated debt | | - | | | | - | | | | | - | | - | | | | 63,086 | | 5.05 | | | - | - | | | 63,086 | 5.05 | | | 64,000 
+Mortgage-backed securities: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Collateralized mortgage obligations (1) | | - | | | | - | | | | | - | | - | | | | 9,520 | | 1.57 | | | 58,240 | 2.60 | | | 67,760 | 2.45 | | | 68,160 
+Residential pass-through securities (1) | | - | | | | - | | | | | 17,426 | | 1.57 | | | | 47,132 | | 1.82 | | | 146,028 | 3.00 | | | 210,586 | 2.61 | | | 212,029 
+Commercial pass-through securities (1) | | - | | | | - | | | | | 127,523 | | 2.54 | | | | 2,235 | | 3.13 | | | 171,295 | 3.65 | | | 301,053 | 3.17 | | | 304,551 
+Non-agency securities | | - | | | | - | | | | | - | | - | | | | 5 | | 4.05 | | | 6 | 4.04 | | | 11 | 4.04 | | | 11 
+Total securities | $ | 29,629 | | | | 2.92 | | % | | $ | 286,016 | | 2.70 | | % | $ | 242,669 | | 3.20 | % | $ | 732,601 | 3.41 | % | $ | 1,290,915 | 3.20 | % | $ | 1,298,941
+
+ 
+(1)
+Government-sponsored enterprises.
+ 
+
+
+22
+
+
+Sources of Funds 
+ General.  Retail deposits are our primary source of funds for lending and other investment purposes.  In addition, we derive funds from loan and mortgage‑backed securities principal repayments and proceeds from the maturities and calls of non-mortgage-backed securities.  Loan and securities payments are a relatively stable source of funds, while deposit inflows are significantly influenced by general interest rates and money market conditions.  Wholesale funding sources including, but not limited to, borrowings from the FHLB of New York (“FHLB”), wholesale deposits and other short term-borrowings are also used to supplement the funding for loans and investments.
+ Deposits.  Our current deposit products include interest-bearing and non-interest-bearing checking accounts, money market deposit accounts, savings accounts and certificates of deposit accounts ranging in terms from 30 days to five years.  Certificates of deposit with terms ranging from seven months to five years are available for individual retirement account plans.  Deposit account terms, such as interest rate earned, applicability of certain fees and service charges and funds accessibility, will vary based upon several factors including, but not limited to, minimum balance, term to maturity, and transaction frequency and form requirements.
+ Deposits are obtained primarily from within New Jersey and New York through Kearny Bank’s network of retail branches.  Various methods of advertising are used to attract new customers and deposits, including radio, print media, outdoor advertising, digital advertising, direct mail and inserts included with customer statements.  Premiums or incentives for opening accounts are sometimes offered.  One of our key retail products in recent years has been Star Banking, which bundles a number of banking services and products together for those customers with a checking account with direct deposit and combined deposits of $20,000 or more, including internet banking, bill pay, mobile banking, telephone banking and a premium on certificates of deposit with a term of at least one year. We also offer High Yield Checking which is primarily designed to attract core deposits in the form of customers’ primary checking accounts through interest rate and fee reimbursement incentives to qualifying customers.  The comparatively higher interest expense associated with the High Yield Checking product in relation to our other checking products is partially offset by the transaction fee income associated with the account.
+ The determination of interest rates on retail deposits is based upon a number of factors, including: (1) our need for funds based on loan demand, current maturities of deposits and other cash flow needs; (2) a current survey of a selected group of competitors’ rates for similar products; (3) our current cost of funds, yield on assets and asset/liability position; and (4) the alternate cost of funds on a wholesale basis.  Interest rates are reviewed by senior management on a regular basis, with deposit product and pricing updated, as appropriate, during recurring and ad-hoc senior management meetings.
+ We also utilize non-retail deposits as an alternative source of wholesale funding to traditional borrowings such as FHLB advances.  Such funds are generally used to manage our exposure to interest rate risk and liquidity risk in conjunction with our overall asset/liability management process.  We also maintain a portfolio of brokered certificates of deposit whose balances and weighted average remaining term to maturity totaled approximately $235.8 million and 0.7 years, respectively, at June 30, 2019.  Kearny Bank’s brokered deposits totaled 5.7% of deposits, at June 30, 2019.  We also utilize deposit listing services to attract non-brokered wholesale time deposits, primarily from other financial institutions, with an original investment horizon of up to five years.  The balance of time deposits we acquired through deposit listing services totaled $66.1 million, or 1.6% of deposits, at June 30, 2019 with such funds having a weighted average remaining term to maturity of 0.8 years. We generally prohibit the withdrawal of our listing service deposits prior to maturity.
+ Additional sources of non-retail deposits including, but not limited to, deposits acquired through other listing services and brokered deposit resources may be utilized in the future as additional, alternative sources of wholesale funding.
+ A large percentage of our deposits are in certificates of deposit, which represented 53.2% and 49.5% of total deposits at June 30, 2019 and June 30, 2018, respectively.  Our liquidity could be reduced if a significant amount of certificates of deposit maturing within a short period were not renewed.  At June 30, 2019 and June 30, 2018, certificates of deposit maturing within one year were $1.49 billion and $1.12 billion, respectively.  Historically, a significant portion of the certificates of deposit remain with us after they mature and we believe that this will continue.
+ 
+23
+
+
+At June 30, 2019, $1.32 billion or 59.8% of our certificates of deposit were certificates of $100,000 or more compared to $1.15 billion or 57.0% at June 30, 2018.  The general level of market interest rates and money market conditions significantly influence deposit inflows and outflows.  The effects of these factors are particularly pronounced on deposit accounts with larger balances.  In particular, certificates of deposit with balances of $100,000 or greater are traditionally viewed as being a more volatile source of funding than comparatively lower balance certificates of deposit or non-maturity transaction accounts.  In order to retain certificates of deposit with balances of $100,000 or more, we may have to pay a premium rate, resulting in an increase in our cost of funds.  In a rising rate environment, we may be unwilling or unable to pay a competitive rate. To the extent that such deposits do not remain with us, they may need to be replaced with wholesale funding, which could increase our cost of funds and negatively impact our interest rate spread and our financial condition.
+ The following table sets forth the distribution of average deposits for the periods indicated and the weighted average nominal interest rates for each period on each category of deposits presented:
+ 
+ 
+ | For the Years Ended June 30,
+------------------------------+-----------------------------
+ | 2019 | | | 2018 | | | 2017
+ | Average Balance | | Percent of Total Deposits | | Weighted Average Nominal Rate | | | Average Balance | | Percent of Total Deposits | Weighted Average Nominal Rate | | Average Balance | | Percent of Total Deposits | Weighted Average Nominal Rate
+ | (Dollars In Thousands) 
+Non-interest-bearing deposits | $ | 312,169 | | | 7.68 | % | | | - | % | $ | 281,262 | | 8.67 | % | | - | % | $ | 249,693 | 8.98 | % | - | %
+Interest-bearing demand | | 796,815 | | | 19.60 | | | | 1.02 | | | 896,695 | | 27.64 | | | 0.82 | | | 769,767 | 27.68 | | 0.66 | 
+Savings and clubs | | 761,203 | | | 18.73 | | | | 0.55 | | | 569,777 | | 17.56 | | | 0.17 | | | 519,506 | 18.68 | | 0.13 | 
+Certificates of deposit | | 2,194,513 | | | 53.99 | | | | 1.83 | | | 1,496,743 | | 46.13 | | | 1.42 | | | 1,241,958 | 44.66 | | 1.32 | 
+Total deposits | $ | 4,064,700 | | | 100.00 | % | | | 1.29 | % | $ | 3,244,477 | | 100.00 | % | | 0.91 | % | $ | 2,780,924 | 100.00 | % | 0.80 | %
+
+ 
+The following table sets forth certificates of deposit classified by interest rate as of the dates indicated:
+ 
+ 
+ | At June 30, | 
+------------------------------+----------------+----------
+ | 2019 | | 2018 | | | 2017
+ | (In Thousands) | 
+Interest Rate | | | | | | | | 
+0.00 - 0.99% | $ | 66,109 | | $ | 185,765 | | $ | 327,358 
+1.00 - 1.99% | | 604,162 | | | 1,272,580 | | | 782,920 
+2.00 - 2.99% | | 1,506,221 | | | 552,459 | | | 174,792 
+3.00 - 3.99% | | 27,965 | | | 5,834 | | | 5,882 
+Total certificates of deposit | $ | 2,204,457 | | $ | 2,016,638 | | $ | 1,290,952
+
+ 
+The following table shows the amount of certificates of deposit of $100,000 or more by time remaining until maturity as of the dates indicated:
+ 
+ 
+ | At June 30, | 
+------------------------------+----------------+----------
+ | 2019 | | 2018 | | | 2017
+ | (In Thousands) | 
+Maturity Period | | | | | | | | 
+Within three months | $ | 300,464 | | $ | 134,479 | | $ | 102,373
+Three through six months | | 363,801 | | | 115,748 | | | 60,396 
+Six through twelve months | | 243,061 | | | 370,853 | | | 163,958
+Over twelve months | | 410,220 | | | 528,709 | | | 404,182
+Total certificates of deposit | $ | 1,317,546 | | $ | 1,149,789 | | $ | 730,909
+
+ 
+
+24
+
+
+The following table sets forth the amount and maturities of certificates of deposit at June 30, 2019:
+ 
+ 
+ | At June 30, 2019 | 
+------------------------------+------------------+----------
+ | Within One Year | | Over One Year to Two Years | | | Over Two Years to Three Years | | Over Three Years to Four Years | Over Four Years to Five Years | | Over Five Years | | | Total
+ | (In Thousands) | 
+Interest Rate | | | | | | | | | | | | | | | | | | 
+0.00 - 0.99% | $ | 61,296 | | $ | 4,660 | | $ | 153 | $ | - | | $ | - | | $ | - | $ | 66,109 
+1.00 - 1.99% | | 413,695 | | | 102,247 | | | 71,712 | | 5,783 | | | 9,422 | | | 1,303 | | 604,162 
+2.00 - 2.99% | | 1,011,457 | | | 384,345 | | | 29,512 | | 63,598 | | | 17,211 | | | 98 | | 1,506,221
+3.00 - 3.99% | | - | | | 22,280 | | | - | | - | | | - | | | 5,685 | | 27,965 
+Total certificates of deposit | $ | 1,486,448 | | $ | 513,532 | | $ | 101,377 | $ | 69,381 | | $ | 26,633 | | $ | 7,086 | $ | 2,204,457
+
+Borrowings.  The sources of wholesale funding we utilize include borrowings in the form of advances from the FHLB as well as other forms of borrowings.  We generally use wholesale funding to manage our exposure to interest rate risk and liquidity risk in conjunction with our overall asset/liability management process.  Toward that end, FHLB advances are primarily utilized to extend the effective duration of funding to partially offset the interest rate risk presented by our investment in longer-term fixed-rate loans and mortgage-backed securities.  Extending the effective duration of funding may be achieved by simply utilizing fixed-rate borrowings with longer terms to maturity.  Alternately, we may utilize derivatives in conjunction with either short-term fixed-rate or floating-rate borrowings to extend the effective duration of those funding sources.
+ Advances from the FHLB are typically secured by our FHLB capital stock and certain investment securities as well as residential and multi-family mortgage loans that we choose to utilize as collateral for such borrowings.  Additional information regarding our FHLB advances is included under Note 12 to the audited consolidated financial statements.
+ Short‑term FHLB advances generally have original maturities of less than one year and may also include overnight borrowings which we may utilize to address short term funding needs, where applicable.  At June 30, 2019, we had a total $825.0 million of short-term FHLB advances at a weighted average interest rate of 2.54%.  Such advances represented 90-day FHLB term advances that are generally forecasted to be periodically redrawn at maturity for the same term as the original advance.  Based on this presumption, we utilized interest rate swaps to effectively extend the duration of each of these advances at the time they were drawn to effectively fix their cost for periods of up to five years.  
+ Long-term advances generally include term advances with original maturities of greater than one year.  At June 30, 2019, our outstanding balance of long-term FHLB advances totaled $462.6 million at a weighted average interest rate of 2.54%.  Such advances included $145.0 million of callable advances at a weighted average interest rate of 3.04%, $317.4 million non-callable, term advances at a weighted average interest rate of 2.31% and an amortizing advance of $246,000 at an interest rate of 4.94%. 
+ Our FHLB advances mature as follows:
+ 
+ 
+ | At June 30, | 
+------------------------------------------------+----------------+----------
+ | 2019 | | | 2018 | | | 2017
+ | (In Thousands) | 
+By remaining period to maturity: | | | | | | | | | 
+Less than one year | $ | 873,400 | | | $ | 741,000 | | $ | 630,225
+One to two years | | 64,046 | | | | 48,400 | | | - 
+Two to three years | | 62,700 | | | | 64,160 | | | - 
+Three to four years | | 155,000 | | | | 35,700 | | | 469 
+Four to five years | | 22,500 | | | | 155,000 | | | - 
+Greater than five years | | 110,000 | | | | 132,500 | | | 145,000
+Total advances | | 1,287,646 | | | | 1,176,760 | | | 775,694
+Fair value adjustments | | (4,435 | ) | | | (6,616 | ) | | 2 
+Total advances, net of fair value adjustments | $ | 1,283,211 | | | $ | 1,170,144 | | $ | 775,696
+
+ 
+
+25
+
+
+Based upon the market value of investment securities and mortgage loans that are posted as collateral for FHLB advances at June 30, 2019, we are eligible to borrow up to an additional $1.5 billion of advances from the FHLB as of that date.  We are further authorized to post additional collateral in the form of other unencumbered investments securities and eligible mortgage loans that may expand our borrowing capacity with the FHLB up to 30% of our total assets.  Additional borrowing capacity up to 50% of our total assets may be authorized with the approval of the FHLB’s Board of Directors or Executive Committee.
+ The balance of borrowings at June 30, 2019 also included overnight borrowings in the form of depositor sweep accounts totaling $8.8 million.  Depositor sweep accounts are short-term borrowings representing funds that are withdrawn from a customer’s non-interest bearing deposit account and invested in an uninsured overnight investment account that is collateralized by specified investment securities owned by Kearny Bank.  Borrowings at June 30, 2019 also included other overnight borrowings totaling $30.0 million.
+ Interest Rate Derivatives and Hedging
+ We utilize derivative instruments in the form of interest rate swaps to hedge our exposure to interest rate risk in conjunction with our overall asset/liability management process. In accordance with accounting requirements, we formally designate all of our hedging relationships as either fair value hedges, intended to offset the changes in the value of certain financial instruments due to movements in interest rates, or cash flow hedges, intended to offset changes in the cash flows of certain financial instruments due to movement in interest rates, and documents the strategy for undertaking the hedge transactions and its method of assessing ongoing effectiveness.
+ At June 30, 2019, our derivative instruments were comprised entirely of interest rate swaps with total notional amounts of $375.0 million, $300.0 million and $150.0 million respectively, with Bank of Montreal, Wells Fargo Bank, N.A. and PNC Bank, serving as the counterparties to the transactions.  These instruments are intended to manage the interest rate exposure relating to certain wholesale funding positions that were outstanding at June 30, 2019.
+ Additional information regarding our use of interest rate derivatives and our hedging activities is presented in Note 1 and Note 13 to the audited consolidated financial statements.
+ Subsidiary Activity
+ At June 30, 2019, Kearny Bank was the only wholly-owned operating subsidiary of Kearny Financial Corp.  As of that date, Kearny Bank had two wholly-owned subsidiaries: KFS Financial Services, Inc. and CJB Investment Corp.
+ KFS Financial Services, Inc. is a service corporation subsidiary originally organized for selling insurance products to Kearny Bank customers and the general public through a third party networking arrangement.  KFS Financial Services, Inc. has one wholly-owned subsidiary, KFS Insurance Services, Inc., that was created for the primary purpose of acquiring insurance agencies. Both KFS Financial Services Inc. and KFS Insurance Services, Inc. were considered inactive through the three-year period ended June 30, 2019.
+ CJB Investment Corp. is a New Jersey Investment Company and remained active through the three-year period ended June 30, 2019.
+ 
+Personnel
+ As of June 30, 2019, we had 524 full‑time employees and 41 part‑time employees equating to a total of 545 full-time equivalent employees.  As of June 30, 2018, we had 520 full‑time employees and 45 part‑time employees equating to a total of 543 full-time equivalent employees.  None of our employees are covered by a collective bargaining agreement and we consider our relationship with our employees to be good. 
+ 
+26
+
+
+REGULATION 
+ 
+General
+ Kearny Bank and Kearny Financial operate in a highly regulated industry.  This regulation establishes a comprehensive framework of activities in which a savings and loan holding company and New Jersey savings bank may engage and is intended primarily for the protection of the deposit insurance fund and depositors.  Set forth below is a brief description of certain laws that relate to the regulation of Kearny Bank and Kearny Financial.  The description does not purport to be complete and is qualified in its entirety by reference to applicable laws and regulations.
+ Regulatory authorities have extensive discretion in connection with their supervisory and enforcement activities, including the imposition of restrictions on the operation of an institution and its holding company, the classification of assets by the institution and the adequacy of an institution’s allowance for loan losses.  Any change in such regulation and oversight, whether in the form of regulatory policy, regulations, or legislation, including changes in the regulations governing savings and loan holding companies, could have a material adverse impact on Kearny Financial, Kearny Bank and their operations. The adoption of regulations or the enactment of laws that restrict the operations of Kearny Bank and/or Kearny Financial or impose burdensome requirements upon one or both of them could reduce their profitability and could impair the value of Kearny Bank’s franchise, resulting in negative effects on the trading price of our common stock.
+ Regulation of Kearny Bank
+ Kearny Bank was formerly a federal savings bank.  On June 29, 2017, it converted its charter to that of a nonmember New Jersey savings bank regulated by the NJDBI and the FDIC.
+ General.  As a nonmember New Jersey savings bank with deposits insured by the FDIC, Kearny Bank is subject to extensive regulation.  The regulatory structure gives the agencies authority’s widespread discretion in connection with their supervisory and enforcement activities and examination policies, including policies regarding the classification of assets and the level of the allowance for loan losses.  The activities of New Jersey savings banks are subject to extensive regulation including restrictions or requirements with respect to loans to one borrower, dividends, permissible investments and lending activities, liquidity, transactions with affiliates and community reinvestment.  New Jersey savings banks are also subject to reserve requirements imposed by the Federal Reserve Board.  Both state and federal law regulate a savings bank’s relationship with its depositors and borrowers, especially in such matters as the ownership of savings accounts and the form and content of Kearny Bank’s mortgage documents.
+ Kearny Bank must file reports with the NJDBI and FDIC concerning its activities and financial condition and obtain regulatory approvals prior to entering into certain transactions such as establishing new branches and mergers with or acquisitions of other financial institutions.  The NJDBI and FDIC regularly examine Kearny Bank and prepare reports to Kearny Bank’s Board of Directors on deficiencies, if any, found in its operations. The agencies have substantial discretion to take enforcement action with respect to an institution that fails to comply with applicable regulatory requirements or engages in violations of law or unsafe and unsound practices.  Such actions can include, among others, the issuance of a cease and desist order, assessment of civil money penalties, removal of officers and directors and the appointment of a receiver or conservator.
+ Activities and Powers.  Kearny Bank derives its lending, investment and other powers primarily from the applicable provisions of the New Jersey Banking Act and the related regulations.  Under these laws and regulations, New Jersey savings banks, including Kearny Bank, generally may invest in real estate mortgages; consumer and commercial loans; specific types of debt securities, including certain corporate debt securities and obligations of federal, state and local governments and agencies; certain types of corporate equity securities and certain other assets. 
+ A savings bank may also invest pursuant to a leeway power that permits investments not otherwise permitted by the New Jersey Banking Act. Leeway investments must comply with a number of limitations on the individual and aggregate amounts of leeway investments. New Jersey savings banks may also exercise those powers, rights, benefits or privileges authorized for national banks, federal savings banks or federal savings associations, or their subsidiaries.  New Jersey savings banks may exercise powers, rights, benefits and privileges of out-of-state banks, savings banks and savings associations, or their subsidiaries, provided that prior approval by the NJDBI is required before exercising any such power, right, benefit or privilege. The exercise of these lending, investment and activity powers is further limited by federal law and the related regulations.  See “—Activity Restrictions on State-Chartered Banks” below. 
+ Activity Restrictions on State-Chartered Banks.  Federal law and FDIC regulations generally limit the activities as principal and equity investments of state-chartered FDIC insured banks and their subsidiaries to those permissible for national banks and their subsidiaries, unless such activities and investments are specifically exempted by law or approved by the FDIC.
+ 
+27
+
+
+Before engaging as principal in a new activity that is not permissible for a national bank or otherwise permissible under federal law or FDIC regulations, an insured bank must seek approval from the FDIC, subject to certain specified exceptions.  The FDIC will not approve the activity unless the bank meets its minimum capital requirements and the FDIC determines that the activity does not present a significant risk to the FDIC’s Deposit Insurance Fund. Certain activities of subsidiaries that are engaged in activities permitted for national banks only through a financial subsidiary are subject to additional restrictions. Equity investments by state banks are generally limited to those permissible for national banks subject to certain exceptions. 
+ Federal Deposit Insurance.  Kearny Bank’s deposits are insured to applicable limits by the FDIC.  The general maximum deposit insurance amount is $250,000 per depositor.
+ The FDIC assesses insured depository institutions to maintain the Deposit Insurance Fund.  Under the FDIC’s risk-based assessment system, institutions deemed less risky pay lower assessments.  Assessments for institutions of less than $10 billion of assets, such as Kearny Bank, are now based on financial measures and supervisory ratings derived from statistical modeling estimating the probability of failure of an institution’s failure within three years.  That system, effective July 1, 2016, replaced the previous system under which institutions were placed into risk categories.
+ Federal legislation required the FDIC to revise its procedures to base assessments upon each insured institution’s total assets less tangible equity instead of deposits.  The FDIC finalized a rule, effective April 1, 2011, that set the assessment range at 2.5 to 45 basis points of total assets less tangible equity.  In conjunction with the Deposit Insurance Fund’s reserve ratio achieving 1.15%, the assessment range was reduced for insured institutions of less than $10 billion of total assets to 1.5 basis points to 30 basis points, effective July 1, 2016.
+ Federal legislation increased the minimum target Deposit Insurance Fund ratio from 1.15% of estimated insured deposits to 1.35% of estimated insured deposits.  The FDIC was required to achieve the 1.35% ratio by September 30, 2020.  The law requires insured institutions with assets of $10 billion or more to fund the increase from 1.15% to 1.35% and, effective July 1, 2016, such institutions were subjected to a surcharge to achieve that goal.  The 1.35% ratio was reached effective September 30, 2018.  As a result, the surcharges ceased and institutions with less than $10 billion of assets received credits for assessment payments made that contributed to achieving the 1.35% ratio.  The legislation eliminated the 1.5% maximum fund ratio, instead leaving it to the discretion of the FDIC, and the FDIC has exercised that discretion by establishing a long-range fund ratio of 2.0%.
+ In addition to the FDIC assessments, the Financing Corporation (“FICO”) is authorized to impose and collect assessments for anticipated payments, issuance costs and custodial fees on bonds issued by the FICO in the 1980s to recapitalize the former Federal Savings and Loan Insurance Corporation. For the quarter ended June 30, 2019, the annualized FICO assessment was equal to 0.12 basis point of total assets less tangible capital.  The final FICO bonds are scheduled to mature in 2019.
+ The FDIC has authority to increase insurance assessments.  Any significant increases would have an adverse effect on the operating expenses and results of operations of Kearny Bank.  Management cannot predict what assessment rates will be in the future.
+ Insurance of deposits may be terminated by the FDIC upon a finding that an institution has engaged in unsafe or unsound practices, is in an unsafe or unsound condition to continue operations or has violated any applicable law, regulation, rule, order or condition imposed by the FDIC.  We do not currently know of any practice, condition or violation that may lead to termination of our deposit insurance.
+ Regulatory Capital Requirements.  FDIC regulations require nonmember banks to meet several minimum capital standards:  a common equity Tier 1 capital to risk-based assets ratio of 4.5%, a Tier 1 capital to risk-based assets ratio of 6.0%, a total capital to risk-based assets of 8%, and a 4% Tier 1 capital to total assets leverage ratio.  The present capital requirements were effective January 1, 2015 and represent increased standards over the previous requirements.  The current requirements implement recommendations of the Basel Committee on Banking Supervision and certain requirements of federal law.
+ The capital standards require the maintenance of common equity Tier 1 capital, Tier 1 capital and total capital to risk-weighted assets of at least 4.5%, 6% and 8%, respectively, and a leverage ratio of at least 4% Tier 1 capital.  Common equity Tier 1 capital is generally defined as common stockholders’ equity and retained earnings.  Tier 1 capital is generally defined as common equity Tier 1 and additional Tier 1 capital.  Additional Tier 1 capital includes certain noncumulative perpetual preferred stock and related surplus and minority interests in equity accounts of consolidated subsidiaries.  Total capital includes Tier 1 capital (common equity Tier 1 capital plus additional Tier 1 capital) and Tier 2 capital.  Tier 2 capital is comprised of capital instruments and related surplus, meeting specified requirements, and may include cumulative preferred stock and long-term perpetual preferred stock, mandatory convertible securities, intermediate preferred stock and subordinated debt.  
+ 
+28
+
+
+Also included in Tier 2 capital is the allowance for loan and lease losses limited to a maximum of 1.25% of risk-weighted assets and, for institutions that have exercised an opt-out election regarding the treatment of Accumulated Other Comprehensive Income, up to 45% of net unrealized gains on available-for-sale equity securities with readily determinable fair market values.  Calculation of all types of regulatory capital is subject to deductions and adjustments specified in the regulations.  
+ In determining the amount of risk-weighted assets for purposes of calculating risk-based capital ratios, all assets, including certain off-balance sheet assets are multiplied by a risk weight factor assigned by the regulations based on the risks believed inherent in the type of asset.  Higher levels of capital are required for asset categories believed to present greater risk. For example, a risk weight of 0% is assigned to cash and U.S. government securities, a risk weight of 50% is generally assigned to prudently underwritten first lien one- to four-family residential mortgages, a risk weight of 100% is assigned to commercial and consumer loans, a risk weight of 150% is assigned to certain past due loans and a risk weight of between 0% to 600% is assigned to equity interests depending on certain specified factors.
+ In addition to establishing the minimum regulatory capital requirements, the regulations limit capital distributions and certain discretionary bonus payments to management if the institution does not hold a capital conservation buffer consisting of 2.5% of common equity Tier 1 capital to risk-weighted assets above the amount necessary to meet its minimum risk-based capital requirements.  The capital conservation buffer requirement was phased in beginning January 1, 2016 at 0.625% of risk-weighted assets and increasing each year until fully implemented at 2.5% on January 1, 2019. 
+ In assessing an institution’s capital adequacy, the FDIC takes into consideration, not only these numeric factors, but qualitative factors as well, and has the authority to establish higher capital requirements for individual institutions where deemed necessary. The Economic Growth, Regulatory Relief, and Consumer Protection Act enacted in May 2018 requires the federal banking agencies, including the FDIC, to establish for banks with assets of less than $10 billion of assets a community bank leverage ratio (the ratio of a bank’s tangible equity capital to average total consolidated assets) of 8 to 10%.  A qualifying community bank with capital meeting the specified requirement and electing to follow the alternative framework will be considered to meet all applicable regulatory capital requirements including the risk-based requirements.  The establishment of the community bank leverage ratio is subject to notice and comment rulemaking by the federal regulators and the regulators proposed a 9% community bank leverage ratio in February 2019.
+ Prompt Corrective Regulatory Action.  Federal law requires that federal bank regulatory authorities take prompt corrective action with respect to institutions that do not meet minimum capital requirements. For these purposes, the law establishes five capital categories: well capitalized, adequately capitalized, undercapitalized, significantly undercapitalized and critically undercapitalized.
+ The FDIC has adopted regulations to implement the prompt corrective action legislation. The regulations were amended to incorporate the previously mentioned increased regulatory capital standards that were effective January 1, 2015.  An institution is deemed to be well capitalized if it has a total risk-based capital ratio of 10.0% or greater, a Tier 1 risk-based capital ratio of 8.0% or greater, a leverage ratio of 5.0% or greater and a common equity Tier 1 ratio of 6.5% or greater. An institution is adequately capitalized if it has a total risk-based capital ratio of 8.0% or greater, a Tier 1 risk-based capital ratio of 6.0% or greater, a leverage ratio of 4.0% or greater and a common equity Tier 1 ratio of 4.5% or greater. An institution is undercapitalized if it has a total risk-based capital ratio of less than 8.0%, a Tier 1 risk-based capital ratio of less than 6.0%, a leverage ratio of less than 4.0% or a common equity Tier 1 ratio of less than 4.5%. An institution is deemed to be significantly undercapitalized if it has a total risk-based capital ratio of less than 6.0%, a Tier 1 risk-based capital ratio of less than 4.0%, a leverage ratio of less than 3.0% or a common equity Tier 1 ratio of less than 3.0%. An institution is considered to be critically undercapitalized if it has a ratio of tangible equity (as defined in the regulations) to total assets that is equal to or less than 2.0%.  The previously referenced 2018 legislation provides that qualifying banks that elect and comply with the community bank leverage ratio (when established by the regulatory agencies) will be considered well-capitalized under the prompt corrective action regulations.
+ Undercapitalized banks must adhere to growth, capital distribution (including dividend) and other limitations and are required to submit a capital restoration plan. A bank’s compliance with such a plan must be guaranteed by any company that controls the undercapitalized institution in an amount equal to the lesser of 5% of the institution’s total assets when deemed undercapitalized or the amount necessary to achieve the status of adequately capitalized. If an undercapitalized bank fails to submit an acceptable plan, it is treated as if it is significantly undercapitalized. Significantly undercapitalized banks must comply with one or more of a number of additional measures, including, but not limited to, a required sale of sufficient voting stock to become adequately capitalized, a requirement to reduce total assets, cessation of taking deposits from correspondent banks, the dismissal of directors or officers and restrictions on interest rates paid on deposits, compensation of executive officers and capital distributions by the parent holding company. Critically undercapitalized institutions are subject to additional measures including, subject to a narrow exception, the appointment of a receiver or conservator within 270 days after it obtains such status.  These actions are in addition to other discretionary supervisory or enforcement actions that the FDIC may take.
+ 
+29
+
+
+Dividend Limitations.  Federal regulations impose various restrictions or requirements on Kearny Bank to pay dividends to Kearny Financial.  An institution that is a subsidiary of a savings and loan holding company, such as Kearny Bank, must file notice with the Federal Reserve Board at least thirty days before paying a dividend.  The Federal Reserve Board may disapprove a notice if: (i) the savings institution would be undercapitalized following the capital distribution; (ii) the proposed capital distribution raises safety and soundness concerns; or (iii) the capital distribution would violate a prohibition contained in any statute, regulation, enforcement action or agreement or condition imposed in connection with an application.
+ New Jersey law specifies that no dividend may be paid if the dividend would impair the capital stock of the savings bank.  In addition, no dividend may be paid unless the savings bank would, after payment of the dividend, have a surplus of at least 50% of its capital stock (or if the payment of dividend would not reduce surplus).
+ Transactions with Related Parties.  Transactions between a savings institution (and, generally, its subsidiaries) and its related parties or affiliates are limited by Sections 23A and 23B of the Federal Reserve Act. An affiliate of an institution is any company or entity that controls, is controlled by or is under common control with the institution.  In a holding company context, the parent holding company and any companies which are controlled by such parent holding company are affiliates of the institution.  Generally, Section 23A of the Federal Reserve Act limits the extent to which the institution or its subsidiaries may engage in covered transactions with any one affiliate to 10% of such institution’s capital stock and surplus and contain an aggregate limit on all such transactions with all affiliates to an amount equal to 20% of such institution’s capital stock and surplus. The term covered transaction includes an extension of credit, purchase of assets, issuance of a guarantee or letter of credit and similar transactions. In addition, loans or other extensions of credit by the institution to the affiliate are required to be collateralized in accordance with specified requirements. The law also requires that affiliate transactions be on terms and conditions that are substantially the same, or at least as favorable to the institution, as those provided to non-affiliates.
+ Kearny Bank’s authority to extend credit to its directors, executive officers and 10% stockholders, as well as to entities controlled by such persons, is currently governed by the requirements of Sections 22(g) and 22(h) of the Federal Reserve Act and Regulation O of the Federal Reserve Board.  Among other things and subject to certain exceptions, these provisions generally require that extensions of credit to insiders:
+  
+• | be made on terms that are substantially the same as, and follow credit underwriting procedures that are not less stringent than, those prevailing for comparable transactions with unaffiliated persons and that do not involve more than the normal risk of repayment or present other unfavorable features; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | not to exceed certain limitations on the amount of credit extended to such persons, individually and in the aggregate, which limits are based, in part, on the amount of Kearny Bank’s capital.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In addition, extensions of credit in excess of certain limits must be approved by Kearny Bank’s Board of Directors.  Extensions of credit to executive officers are subject to additional limits based on the type of extension involved.
+ Community Reinvestment Act.  Under the Community Reinvestment Act (the “CRA”), every insured depository institution, including Kearny Bank, has a continuing and affirmative obligation consistent with its safe and sound operation to help meet the credit needs of its entire community, including low and moderate income neighborhoods.  The CRA does not establish specific lending requirements or programs for financial institutions nor does it limit an institution’s discretion to develop the types of products and services that it believes are best suited to its particular community.  The CRA requires the FDIC to assess the depository institution’s record of meeting the credit needs of its community and to consider such record in its evaluation of certain applications by such institution, such as a merger or the establishment of a branch office by Kearny Bank.  The FDIC may use an unsatisfactory CRA examination rating as the basis for the denial of an application.  Kearny Bank received a satisfactory CRA rating from its primary federal regulator, the FDIC, in its most recent CRA examination.
+ Federal Home Loan Bank System.  Kearny Bank is a member of the FHLB of New York, which is one of eleven regional Federal Home Loan Banks.  Each FHLB serves as a reserve or central bank for its members within its assigned region.  It is funded primarily from funds deposited by financial institutions and proceeds derived from the sale of consolidated obligations of the FHLB System.  It makes loans to members pursuant to policies and procedures established by the Board of Directors of the FHLB.
+ As a member, Kearny Bank is required to purchase and maintain stock in the FHLB of New York in specified amounts.  The FHLB imposes various limitations on advances such as limiting the amount of certain types of real estate related collateral and limiting total advances to a member.
+ The FHLB of New York may pay periodic dividends to members.  These dividends are affected by factors such as the FHLB’s operating results and statutory responsibilities that may be imposed such as providing certain funding for affordable housing and 
+ 
+30
+
+
+interest subsidies on advances targeted for low- and moderate-income housing projects.  The payment of such dividends or any particular amount cannot be assumed.
+ Other Laws and Regulations
+ Interest and other charges collected or contracted for by Kearny Bank are subject to state usury laws and federal laws concerning interest rates.  Kearny Bank’s operations are also subject to federal laws (and their implementing regulations) applicable to credit transactions, such as the:
+
+• | Truth-In-Lending Act, governing disclosures of credit terms to consumer borrowers;
+--+-----------------------------------------------------------------------------------
+
+
+• | Real Estate Settlement Procedures Act, requiring that borrowers for mortgage loans for one- to four-family residential real estate receive various disclosures, including good faith estimates of settlement costs, lender servicing and escrow account practices, and prohibiting certain practices that increase the cost of settlement services;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Home Mortgage Disclosure Act, requiring financial institutions to provide information to enable the public and public officials to determine whether a financial institution is fulfilling its obligation to help meet the housing needs of the community it serves;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Equal Credit Opportunity Act, prohibiting discrimination on the basis of race, creed or other prohibited factors in extending credit;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Fair Credit Reporting Act, governing the use and provision of information to credit reporting agencies;
+--+--------------------------------------------------------------------------------------------------------
+
+
+• | Fair Debt Collection Act, governing the manner in which consumer debts may be collected by collection agencies; and
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | Truth in Savings Act, prescribing disclosure and advertising requirements with respect to deposit accounts.
+--+------------------------------------------------------------------------------------------------------------
+
+ The operations of Kearny Bank also are subject to the:
+  
+• | Right to Financial Privacy Act, which imposes a duty to maintain confidentiality of consumer financial records and prescribes procedures for complying with administrative subpoenas of financial records;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Electronic Funds Transfer Act and Regulation E promulgated thereunder, governing automatic deposits to and withdrawals from deposit accounts and customers’ rights and liabilities arising from the use of automated teller machines and other electronic banking services;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Check Clearing for the 21st Century Act (also known as “Check 21”), which gives substitute checks, such as digital check images and copies made from that image, the same legal standing as the original paper check;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | USA PATRIOT Act, which requires institutions operating to, among other things, establish broadened anti-money laundering compliance programs, due diligence policies and controls to ensure the detection and reporting of money laundering. Such required compliance programs are intended to supplement existing compliance requirements, also applicable to financial institutions, under the Bank Secrecy Act and the Office of Foreign Assets Control regulations; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Gramm-Leach-Bliley Act, which places limitations on the sharing of consumer financial information by financial institutions with unaffiliated third parties. Specifically, the Gramm-Leach-Bliley Act requires all financial institutions offering financial products or services to retail customers to provide such customers with the financial institution’s privacy policy and provide such customers the opportunity to opt out of the sharing of certain personal financial information with unaffiliated third parties.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Regulation of Kearny Financial
+ General.  Kearny Financial is a savings and loan holding company within the meaning of federal law.  Kearny Financial maintained its savings and loan holding company status (rather than becoming a bank holding company), notwithstanding the conversion of Kearny Bank to a New Jersey savings bank charter, by exercising an election available to it under federal law.  Kearny Bank is required to file reports with, and is subject to regulation and examination by, the Federal Reserve Board.  Kearny Financial must also obtain regulatory approval from the Federal Reserve Board before engaging in certain transactions, such as mergers with or acquisitions of other financial institutions.  
+ In addition, the Federal Reserve Board has enforcement authority over Kearny Financial and any non-depository subsidiaries.  This permits the Federal Reserve Board to restrict or prohibit activities that are determined to pose a serious risk to Kearny Bank.  This regulation is intended primarily for the protection of the depositors and not for the benefit of stockholders of Kearny Financial.
+ 
+31
+
+
+The Federal Reserve Board has indicated that, to the greatest extent possible taking into account any unique characteristics of savings and loan holding companies and the requirements of federal law, its approach is to apply to savings and loan holding companies its supervisory approach to the supervision of bank holding companies.  The stated objective of the Federal Reserve Board is to ensure the savings and loan holding company and its non-depository subsidiaries are effectively supervised, can serve as a source of strength for, and do not threaten the safety and soundness of, the subsidiary depository institutions.
+ Nonbanking Activities.  As a savings and loan holding company, Kearny Financial Bancorp is permitted to engage in those activities permissible for financial holding companies (if certain criteria are met and an election is submitted) and for multiple savings and loan holding companies. A financial holding company may engage in activities that are financial in nature, including underwriting equity securities and insurance, as well as activities that are incidental to financial activities or complementary to a financial activity. A multiple savings and loan holding company is generally limited to activities permissible for bank holding companies under Section 4(c)(8) of the Bank Holding Company Act and certain additional activities authorized by federal regulations, subject to the approval of the Federal Reserve Board. 
+ Mergers and Acquisitions.  Kearny Financial must obtain approval from the Federal Reserve Board before acquiring, directly or indirectly, more than 5% of the voting stock of another savings institution or savings and loan holding company or acquiring such an institution or holding company by merger, consolidation, or purchase of its assets.  Federal law also prohibits a savings and loan holding company from acquiring more than 5% of a company engaged in activities other than those authorized for savings and loan holding companies by federal law or acquiring or retaining control of a depository institution that is not insured by the FDIC.  In evaluating an application for Kearny Financial to acquire control of a savings institution, the Federal Reserve Board considers factors such as the financial and managerial resources and future prospects of Kearny Financial and the target institution, the effect of the acquisition on the risk to the deposit insurance fund, the convenience and the needs of the community and competitive factors.
+ Consolidated Capital Requirements.  Savings and loan holding companies had historically not been subjected to consolidated regulatory capital requirements.  Federal legislation, however, required the Federal Reserve Board to promulgate consolidated capital requirements for bank and savings and loan holding companies that are no less stringent, both quantitatively and in terms of components of capital, than those applicable to their subsidiary depository institutions.  Instruments such as cumulative preferred stock and trust-preferred securities, which were previously includable as Tier 1 capital (within limit) by bank holding companies, were no longer includable as Tier 1 capital, subject to certain grandfathering.  The previously discussed final rule regarding regulatory capital requirements implemented the legislative directives as to holding company capital requirements.  Currently, consolidated regulatory capital requirements identical to those applicable to the subsidiary depository institutions apply to savings and loan holding companies with $3 billion or more of assets, including Kearny Financial.  
+ Source of Strength Doctrine; Dividends.  Federal law extended the source of strength doctrine, which has long applied to bank holding companies, to savings and loan holding companies. The Federal Reserve Board has promulgated regulations implementing the source of strength policy, which requires holding companies to act as a source of strength to their subsidiary depository institutions by providing capital, liquidity and other support in times of financial distress. Further, the Federal Reserve Board has issued a policy statement regarding the payment of dividends by bank holding companies that it has also applied to savings and loan holding companies.  In general, the policy provides that dividends should be paid only out of current earnings and only if the prospective rate of earnings retention by the holding company appears consistent with the organization’s capital needs, asset quality and overall financial condition.  Regulatory guidance provides for prior consultation with Federal Reserve supervisory staff as to dividends in certain circumstances such as where net income for the past four quarters, net of dividends previously paid over that period, is insufficient to fully fund the dividend or the overall rate of earnings retention is inconsistent with capital needs and overall financial condition. The ability of a holding company to pay dividends may be restricted if a subsidiary depository institution becomes undercapitalized. In addition, a subsidiary institution of a savings and loan holding company must file prior notice with the Federal Reserve Board, and receive its non-objection, before paying dividends to the parent savings and loan holding company.  Federal Reserve Board guidance also provides for regulatory review of certain stock redemption and repurchase proposals by holding companies.  These regulatory policies could affect the ability of Kearny Financial to pay dividends, engage in stock redemptions or repurchases or otherwise engage in capital distributions.
+ 
+32
+
+
+Qualified Thrift Lender Test.  In order for Kearny Financial to be regulated by the Federal Reserve Board as a savings and loan holding company (rather than as a bank holding company), Kearny Bank must remain a qualified thrift lender under applicable law or satisfy the domestic building and loan association test under the Internal Revenue Code.  Under the qualified thrift lender test, an institution is generally required to maintain at least 65% of its portfolio assets (total assets less:  (i) specified liquid assets up to 20% of total assets; (ii) intangible assets, including goodwill; and (iii) the value of property used to conduct business) in certain qualified thrift investments (primarily residential mortgages and related investments, including certain mortgage-backed and related securities) in at least nine months out of each 12 month period. 
+ Acquisition of Control.  Under the federal Change in Bank Control Act, a notice must be submitted to the Federal Reserve Board if any person (including a company), or group acting in concert, seeks to acquire control of a savings and loan holding company.  An acquisition of control can occur upon the acquisition of 10% or more of a class of voting stock of a savings and loan holding company or as otherwise defined by the Federal Reserve Board.  Under the Change in Bank Control Act, the Federal Reserve Board has 60 days from the filing of a complete notice to act, taking into consideration certain factors, including the financial and managerial resources of the acquirer and the anti‑trust effects of the acquisition.  Any company that so acquires control is then subject to regulation as a savings and loan holding company.  The approval of the NJDBI would also be necessary for the acquisition of 25% of a class of voting stock or control as otherwise defined under New Jersey law.   

@@ -1,0 +1,1068 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Background
+ 
+DelMar Pharmaceuticals, Inc. (the “Company,” “we,” “us,” or “our”) is a clinical stage, biopharmaceutical company focused on the development and commercialization of new cancer therapies. Our mission is to benefit patients by developing and commercializing anti-cancer therapies for patients whose solid tumors exhibit features that make them resistant to, or unlikely to respond to, currently available therapies, with particular focus on orphan cancer indications.
+ 
+As of June 30, 2019, we have spent approximately $40.5 million of shareholder capital in developing VAL-083, a novel, validated, DNA-targeting agent, for the treatment of drug-resistant solid tumors such as glioblastoma multiforme (“GBM”) and potentially other solid tumors, including ovarian cancer, non-small cell lung cancer (“NSCLC”), and diffuse intrinsic pontine glioma (“DIPG”). VAL-083 is a first-in-class, small-molecule, DNA-targeting chemotherapeutic that has demonstrated activity against a range of tumor types in prior Phase 1 and Phase 2 clinical studies sponsored by the US National Cancer Institute (“NCI”). As part of our business strategy, we leverage and build upon these prior NCI investments and data from more than 40 NCI- Phase 1 and Phase 2 clinical studies, which includes an estimated 1,000 patient safety database, added to our own research to identify and target unmet medical needs in modern cancer care. DNA-targeting agents are among the most successful and widely used treatments for cancer. Their efficacy is based on the ability to bind with a cancer cell’s DNA and interfere with the process of protein production required for growth and survival of cancer cells. “First-in-class” means that VAL-083 embodies a unique molecular structure which is not an analogue or derivative of any approved product, or product under development, for the treatment of cancer.
+ 
+Prior studies of VAL-083 have shown increased median overall survival benefits versus radiation alone, validating the tumor affecting properties of VAL-083. Our recent research has highlighted the opportunities afforded by VAL-083’s unique mechanism of action and its potential to address unmet medical needs in a well-defined and acknowledged biomarker selected population within the larger GBM population. We are thus focusing our initial development efforts on patients whose tumors exhibit biological features that make them resistant to, or unlikely to respond to, currently available therapies as identified by National Comprehensive Cancer Network (“NCCN”). For example, our research demonstrating VAL-083’s activity in GBM independent of the O6-methyl guanine methyltransferase (“MGMT”) methylation status allows us to focus patient selection based on this important biomarker and thus improve the probability of success in our current and future clinical studies.
+ 
+1
+
+ 
+
+We are currently conducting two open-label, biomarker driven Phase 2 studies in MGMT-unmethylated GBM. MGMT is a DNA-repair enzyme that is associated with resistance to temozolomide (“TMZ”), the current standard-of-care chemotherapy used in the treatment of GBM. Greater than 60% of GBM patients have MGMT-unmethylated tumors and exhibit a high expression of MGMT, which is correlated with TMZ treatment failure and poor patient outcomes as indicated in the NCCN guidelines for GBM treatment published in September, 2017. Our research demonstrates that VAL-083’s anti-tumor activity is independent of MGMT expression. In our current Phase 2 studies we are using MGMT as a biomarker to identify patients for treatment with VAL-083 in three distinct GBM patient populations:
+ 
+
+- | First-line in combination with radiation 
+--+-----------------------------------------------------------------------------------
+
+
+- | As adjuvant therapy immediately following chemoradiation and initial TMZ treatment, and 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | In the recurrent treatment setting. 
+--+-----------------------------------------------------------------------------
+
+ 
+If successful, the results of these studies could position VAL-083 for advancement to pivotal clinical studies as a potential replacement for TMZ in MGMT-unmethylated GBM. As both of our clinical studies are open label studies, we anticipate presenting data from these studies at peer reviewed scientific meetings during the latter part of calendar year 2019 as well as during the first half of calendar year 2020.
+ 
+With respect to our STAR-3, Phase 3 study, we have finalized the decision to discontinue this clinical study due to patient enrollment rates, potential ability to measure positive results in a study that did not pre-select a biomarker identified patient population, and potential risk of success assessment. As importantly, terminating the study has allowed us to focus on more rapid enrollment of GBM patients in our two biomarker-driven Phase 2 studies.
+ 
+With the US Food and Drug Administration (“FDA”) approval for our investigational new drug application (“IND”), we have future plans for a phase 1/2, open-label, multicenter study of VAL-083 in patients with Recurrent Platinum Resistant Ovarian Cancer (“REPROVe”). Platinum-based chemotherapy is the standard-of-care in the treatment of ovarian cancer. Nearly all ovarian cancer patients eventually become resistant to platinum (“Pt”) based chemotherapy leading to treatment failure and poor patient outcomes. We have demonstrated that VAL-083 is active against Pt-resistant ovarian cancer in vitro. However, based on ongoing evaluation and input from our ovarian cancer advisory board, we are reassessing the development of VAL-083 for the treatment of ovarian cancer. We are in the process of evaluating the best path forward in ovarian cancer and are evaluating strategic options, including the potential combination of VAL-083 with PARP inhibitors. At the American Association for Cancer Research (“AACR”) Annual Meeting in 2018 we presented preclinical data showing that VAL-083 can synergize PARP inhibitors in both a BRACA-proficient and -deficient setting.
+ 
+In addition to our clinical development activities in the United States, pursuant to our collaboration with Guangxi Wuzhou Pharmaceutical (Group) Co. Ltd. (“Guangxi Wuzhou Pharmaceutical Company”), we have provided Guangxi Wuzhou Pharmaceutical Company certain commercial rights to VAL-083 in China where it is approved as a chemotherapy for the treatment of chronic myelogenous leukemia (“CML”) and lung cancer. Guangxi Wuzhou Pharmaceutical Company is the only manufacturer presently licensed by the China Food and Drug Administration (“CFDA”) to produce the product for the China market.
+ 
+We have a broad patent portfolio to protect our intellectual property. Our patent applications claim composition of matter and methods of use of VAL-083 and related compounds, synthetic methods, and quality controls for the manufacturing process of VAL-083. We believe that our portfolio of intellectual property rights provides a defensible market position for the commercialization of VAL-083. In addition, VAL-083 has been granted protection under the Orphan Drug Act by the FDA and the European Medicines Agency (“EMA”) for the treatment of gliomas, including GBM. The FDA has also granted Orphan Drug protection to VAL-083 for the treatment of medulloblastoma and ovarian cancer.
+ 
+Our corporate development strategy is to advance VAL-083 on an indication-by-indication basis, and then to consider out-licensing our products when they have matured enough to warrant proper licensing valuations. In addition to VAL-083’s applicability to multiple solid tumor indications, we are also constantly evaluating licensing, or acquiring additional product candidates, in order to establish a product pipeline and to position us for long-term sustainability and growth of shareholder value. We believe the experience of our clinical development team will position us to efficiently develop possible drug candidates that we may acquire, or license, in the future.
+ 
+We intend to continue to evaluate options for our strategic direction. These options may include raising additional capital, the acquisition of another company and/or complementary assets, our sale, or another type of strategic partnership.
+ 
+2
+
+ 
+
+Recent Highlights
+ 
+
+● | As of September 1, 2019, we relocated our headquarters from Vancouver, British Columbia to San Diego, California. The Vancouver office will remain open as an administrative office. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | On August 16, 2019, we closed on the sale of (i) 4,895,000 shares of our common stock, par value $0.001 per share, (ii) pre-funded warrants to purchase an aggregate of 2,655,000 shares of common stock and (iii) common warrants to purchase an aggregate of 7,762,500 shares of common stock, including 800,000 shares of common stock and warrants to purchase an aggregate of 1,012,500 shares of common stock sold pursuant to a partial exercise by the underwriters of the underwriters’ option to purchase additional securities. Each share of common stock or pre-funded warrant, as applicable, was sold together with a common warrant to purchase one share of common stock at a combined effective price to the public of $1.00 per share and accompanying common warrant. We believe the net proceeds from this offering of approximately $6.7 million will be sufficient to complete full enrollment in all three patient groups of our two ongoing Phase 2 clinical studies for our drug development candidate, VAL-083, expected to occur by the fourth quarter of calendar year 2020. 
+● | As of August 1, 2019, we provided an update on the first 20 patients enrolled in our ongoing Phase 2 clinical study investigating the first-line treatment of VAL-083 in combination with radiation therapy in newly-diagnosed, MGMT-unmethylated GBM. The study, which is being conducted at the Sun Yat-sen University Cancer Center (“SYSUCC”) is designed to enroll up to 30 patients to determine whether first-line therapy with VAL-083 treatment improves progression free survival (“PFS”). The current standard of care is first-line TMZ with radiation. 
+
+ 
+As of August 1, 2019, of the first 20 enrolled patients, 17 have received at least their first assessment (two patients have not been enrolled long enough to receive their first assessment and one patient died before their first assessment). “Best Overall Response” for these patients per Investigator Assessment were:
+ 
+
+● | Nine have been assessed as having achieved a complete response (CR) (9/17, or 53%) 
+--+---------------------------------------------------------------------------------------
+
+
+● | Seven have been assessed with stable disease (SD), (7/17, or 41%); and 
+--+---------------------------------------------------------------------------
+
+
+● | One has been assessed as disease progression (PD) (1/17, or 6%). 
+--+---------------------------------------------------------------------
+
+ 
+As of August 1, 2019, of the 20 patients enrolled, 17 (85%) have received their two-month (post-third cycle) MRI and investigator assessment, 13 (65%) have received their five-month MRI and investigator assessment, and seven (35%) have received their eight-month MRI and investigator assessment. Two patients (10%) have not been on the study long enough to reach their first assessment, and one patient (5%) died before their first assessment. Importantly, 16 of the 20 patients enrolled (80%) were still alive as of the data cut-off date.
+ 
+
+● | On July 24, 2019 we announced the enrollment of the first patient in the adjuvant (pre-temozolomide maintenance) arm of our Phase 2, open label study of VAL-083 in MGMT-unmethylated GBM being conducted at the University of Texas MD Anderson Cancer Center (“MDACC”). The MDACC Institutional Review Board (“IRB”) had previously approved the addition of up to 24 patients in the pre-TMZ maintenance setting (i.e. the adjuvant setting). The up to 24 newly-diagnosed patients will have undergone surgery and chemoradiation with TMZ but will now receive VAL-083 in place of standard of care TMZ for adjuvant therapy. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3
+
+ 
+
+
+● | As of July 24, 2019, we have enrolled 56 of the planned up to 83 patients in the recurrent arm of our Phase 2, open-label clinical study of VAL-083 in bevacizumab (Avastin®)-naïve, recurrent GBM (“rGBM”) patients with MGMT-unmethylated status. This study is being conducted at MDACC and is designed to determine the impact of VAL-083 treatment on overall survival compared to historical reference control. We previously announced that the MDACC IRB had approved the addition of up to 35 patients to our rGBM study at a dose of 30 mg/m2. As previously disclosed, we had lowered the dose in this study from 40 mg/m2 to 30 mg/m2 to improve tolerance in this patient population and thereby to potentially increase overall exposure to VAL-083 by increasing the number of cycles of drug patients are able to receive. Upon completion of the initial 48 patients in this study, 13 will have had the 30 mg/m2 dose and 35 will have had the 40 mg/m2. Therefore, potentially adding an additional 35 patients at 30 mg/m2 would result in a total of 48 patients receiving the 30 mg/m2 dose. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | On June 26, 2019, we amended our articles of incorporation, as amended, to increase the number of authorized shares of common stock from 7,000,000 to 95,000,000 shares. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | On June 3, 2019, we entered into a securities purchase agreement for the issuance and sale of an aggregate of 1,170,000 shares of common stock in a registered direct offering (the “RD Offering”) and warrants to purchase 760,500 shares of common stock in a concurrent private placement, at a combined purchase price of $3.10 per share and related warrant. The warrants have an exercise price of $3.10 per share, are immediately exercisable, and have a term of exercise of five years. The closing of the issuance and sale of these securities was consummated on June 5, 2019. The net proceeds from the offering, after deducting offering expenses and placement agent fees and expenses payable by us, were approximately $3.2 million. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | On May 22, 2019, the Nasdaq Staff notified us that we did not meet the stockholders’ equity requirements as of March 31, 2019. We submitted a plan to regain compliance with The Nasdaq Capital Market on May 29, 2019. On June 13, 2019, the Nasdaq Hearings Panel issued a decision granting our request for continued listing, subject to the condition that on or before October 15, 2019, we shall have issued public disclosure on Form 8-K that we have met the stockholders’ equity requirement and have demonstrated compliance with all other requirements for continued listing. On September 6, 2019, the Nasdaq Hearings Panel confirmed that, as a result of our recent financing, we have regained compliance with the Nasdaq stockholders’ equity requirements. Accordingly, the Nasdaq Hearing Panel has determined to continue the listing of our securities on Nasdaq and closed the matter.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | On May 20, 2019 we announced the expansion of our Scientific Advisory Board (“SAB”) with the addition of the following neuro-oncologists: 
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Dr. David Reardon, clinical director of the Center for Neuro-Oncology at the Dana-Farber Cancer Institute and a Professor of Medicine at the Harvard Medical School 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Dr. Timothy Cloughesy, professor of neurology at the David Geffen School of Medicine at the University of California, Los Angeles and a member of the UCLA Brain Research Institute and Jonsson Comprehensive Cancer Center 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Dr. Nicholas Butowski, a neuro-oncologist practicing at UCSF Medical Center in San Francisco, CA, and director of translational research in neuro-oncology and a researcher at the Brain Tumor Center 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+ 
+
+
+● | On April 4, 2019, we announced the formation of an SAB. Its inaugural members are Drs. Napoleone Ferrara and John de Groot. Dr. John de Groot, Chairman, ad interim of the Department of Neuro-Oncology at the MD Anderson Cancer Center is an expert in glioma biology and angiogenesis which is the key area of clinical development for VAL-083. Dr. Ferrara is a world-renowned molecular biologist whose pioneering work on the identification of VEGF, a signal protein produced by cells that stimulates the formation of blood vessels, led to the development of Genentech Inc.’s Avastin® for the treatment of certain types of cancer, including ovarian cancer and GBM. Dr. Ferrara is also a member of our Board of Directors and he will serve as the SAB’s Chairman. The SAB will work closely with our management team to optimize the development of VAL-083. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Underwritten Offering
+ 
+On August 16, 2019, we closed on the sale of (i) 4,895,000 shares of our common stock, par value $0.001 per share (the “Common Stock”), (ii) pre-funded warrants (“PFW”) to purchase an aggregate of 2,655,000 shares of Common Stock and (iii) common warrants to purchase an aggregate of 7,762,500 shares of Common Stock, including 800,000 shares of Common Stock and warrants to purchase an aggregate of 1,012,500 shares of Common Stock sold pursuant to a partial exercise by the underwriters of the underwriters’ option to purchase additional securities, in our previously announced underwritten public offering (the “Offering”). Each share of Common Stock or pre-funded warrant, as applicable, was sold together with a common warrant to purchase one share of Common Stock at a combined effective price to the public of $1.00 per share and accompanying common warrant.
+ 
+The net proceeds from the Offering, including from the partial exercise of the underwriters’ option to purchase additional securities, were approximately $6.7 million, after deducting underwriting discounts and commissions and other estimated offering expenses payable by us. We intend to use the net proceeds from the Offering for our clinical studies and for general corporate purposes, which may include working capital, capital expenditures, research and development and other commercial expenditures. In addition, we may use the net proceeds from the Offering for investments in businesses, products or technologies that are complementary to our business.
+ 
+We granted the underwriters a 45-day option, ending September 28, 2019, to purchase up to an additional 1,012,500 shares of Common Stock and/or common warrants to purchase up to 1,012,500 shares of Common Stock, at the public offering price less discounts and commissions. On August 15, 2019, the underwriters partially exercised this option by purchasing 800,000 shares of Common Stock and common warrants to purchase an aggregate of 1,012,500 shares of Common Stock.
+ 
+The common stock purchase warrants are exercisable at $1.00 per share and the PFW are exercisable at $0.01 per share until their expiry on August 16, 2024. We also issued 377,500 warrants to the underwriters of the Offering. The underwriter warrants are exercisable at $1.15 per share commencing 180 days from August 16, 2019 until their expiry on August 16, 2022.
+ 
+Subject to certain ownership limitations, the warrants are exercisable commencing on the issuance date at an exercise price equal to $1.00 per share of common stock, subject to adjustments as provided under the terms of the warrants.
+ 
+Each pre-funded warrant is exercisable for one share of our common stock (subject to adjustment as provided for therein) at any time at the option of the holder until such pre-funded warrant is exercised in full, provided that the holder will be prohibited from exercising pre-funded warrants for shares of our common stock if, as a result of such exercise, the holder, together with its affiliates, would own more than 4.99% of the total number of shares of our common stock then issued and outstanding. However, any holder may increase such percentage to any other percentage not in excess of 9.99%, provided that any increase in such percentage shall not be effective until 61 days after such notice to us.
+ 
+5
+
+ 
+
+Registered Direct Offering and Private Placement
+ 
+On June 3, 2019, we entered into a securities purchase agreement for the issuance and sale of an aggregate of 1,170,000 shares of common stock in a registered direct offering (the “RD Offering”) and, in a concurrent private placement, warrants to purchase 760,500 shares of common stock at a combined purchase price of $3.10 per share and related warrant. The warrants have an exercise price of $3.10 per share, are immediately exercisable and have a term of exercise of five years. The closing of the issuance and sale of these securities was consummated on June 5, 2019. The gross proceeds from the offering, prior to deducting offering expenses and placement agent fees and expenses payable by us, were $3.6 million.
+ 
+Subject to certain ownership limitations, the warrants are exercisable commencing on the issuance date at an exercise price equal to $3.10 per share of common stock, subject to adjustments as provided under the terms of the warrants.
+ 
+China Clinical Study Update
+ 
+In August, 2019, we provided an update on the first 20 patients enrolled in our ongoing Phase 2 clinical study investigating the first-line treatment of VAL-083 in combination with radiation therapy in newly-diagnosed, MGMT-unmethylated GBM.  The study, which is being conducted at the Sun Yat-sen University Cancer Center (“SYSUCC”) is designed to enroll up to 30 patients to determine whether first-line therapy with VAL-083 treatment improves progression free survival (“PFS”). The current standard of care is first-line temozolomide (“TMZ”) with radiation.
+ 
+As of August 1, 2019, of the first 20 enrolled patients, 17 have received at least their first assessment (two patients have not been enrolled long enough to receive their first assessment and one patient died before their first assessment). “Best Overall Response” for these patients per Investigator Assessment were:
+ 
+
+● | Nine have been assessed as having achieved a complete response (CR) (9/17, or 53%) 
+--+---------------------------------------------------------------------------------------
+
+
+● | Seven have been assessed with stable disease (SD), (7/17, or 41%); and 
+--+---------------------------------------------------------------------------
+
+
+● | One has been assessed as disease progression (PD) (1/17, or 6%). 
+--+---------------------------------------------------------------------
+
+ 
+Of the 20 patients enrolled, 17 (85%) have received their two-month (post-third cycle) MRI and investigator assessment, 13 (65%) have received their five-month MRI and investigator assessment, and seven (35%) have received their eight-month MRI and investigator assessment. Two patients (10%) have not been on the study long enough to reach their first assessment, and one patient (5%) died before their first assessment. Importantly, 16 of the 20 patients enrolled (80%) were still alive as of the data cut-off date.
+ 
+Clinical Updates Presented at 2019 American Society of Clinical Oncology
+ 
+On May 31, 2019, we provided clinical study updates from our ongoing first-line and recurrent studies in patients with MGMT-unmethylated GBM at a Key Opinion Leader (“KOL”) presentation during the 2019 American Society of Clinical Oncology (“ASCO”) annual meeting in Chicago, IL.
+ 
+At the KOL presentation, we provided an update on the ongoing Phase 2 clinical study investigating the front-line treatment of VAL-083 with radiation therapy in newly diagnosed MGMT-unmethylated GBM. This study is being conducted at SYSUCC in Guangzhou, China in collaboration with Guangxi Wuzhou Pharmaceutical Company. The study is designed to enroll up to 30 patients to determine if first-line therapy with VAL-083 treatment, in lieu of first-line temozolomide, improves PFS.
+ 
+As of May 17, 2019, eighteen patients have been enrolled in the study. Of these patients, fifteen have received their post-cycle 3 MRI and investigator assessment, and ten have received their post-cycle 7 MRI and investigator assessment. Two patients have not been on the study long enough to reach their first assessment, and one patient died before their first assessment. Assessments are based on the study investigator’s clinical and radiologic assessment, according to the RANO criteria. For the fifteen patients who have received at least one assessment, eight patients were assessed with a “Best Overall Response” of “Complete Response” (8/15, 53.3% CR) and seven patients were assessed with a “Best Overall Response” of “Stable Disease” (7/15, 46.7% SD). Fourteen of the eighteen patients were still alive at the data cut-off date. 
+ 
+6
+
+ 
+
+We also provided an update on the ongoing recurrent arm of the Phase 2 clinical study of VAL-083 in patients with MGMT-unmethylated, Bevacizumab-naïve recurrent GBM. This study is being conducted in collaboration with MDACC. This biomarker-driven study (testing for MGMT methylation status) has been amended to enroll up to 83 patients (35 with a starting dose of 40 mg/m2; 48 with a starting dose of 30 mg/m2) to determine the potential of VAL-083 treatment to improve overall survival compared to historical reference control of 7.2 months with lomustine.
+ 
+
+● | As of May 5, 2019, 51 patients have been enrolled, 35 patients at a starting dose of 40 mg/m2, and 16 patients at a starting dose of 30 mg/m2. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | For the 47 patients who have been on study long enough to be assessed at the post-cycle 2 MRI: 
+--+---------------------------------------------------------------------------------------------------
+
+
+o | 9/35 (25.7%) patients initially receiving 40 mg/m2 exhibited “Stable Disease” per investigator assessment at the end of cycle 2 
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | 4/12 (33.3%) patients initially receiving 30 mg/m2 exhibited “Stable Disease” per investigator assessment at the end of cycle 2 
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Additionally, the study protocol has been amended to include enrollment of up to 24 newly-diagnosed GBM patients who have completed chemoradiation treatment with TMZ and received no subsequent TMZ maintenance therapy but will receive VAL-083 instead (the adjuvant arm). The adjuvant arm of the study has been included to explore whether earlier intervention with VAL-083 instead of TMZ maintenance therapy offers clinical benefit and extends the time to recurrence as compared to TMZ maintenance therapy.
+ 
+Consistent with prior studies, myelosuppression (primarily thrombocytopenia and neutropenia) is the most common adverse event in both ongoing clinical studies.
+ 
+VAL-083 Clinical Studies
+ 
+We are currently developing VAL-083, a novel DNA-targeting agent for the treatment of GBM and potentially other solid tumors, including ovarian cancer. Our recent research has highlighted the opportunities afforded by VAL-083’s unique mechanism of action and its potential to address unmet medical needs by focusing our development efforts on patients whose tumors exhibit biological features that make them resistant to, or unlikely to respond to, currently available therapies. For example, our research demonstrating VAL-083’s activity in GBM is independent of the MGMT methylation status allows us to focus patient selection based on this important biomarker.
+ 
+The evaluation of MGMT promotor methylation status has increasingly become common practice in the diagnostic assessment of GBM. In September 2017, the National Comprehensive Cancer Network (“NCCN”) updated guidelines for the standard treatment of GBM based on MGMT methylation status. We believe these recently published guidelines provide for enhanced opportunities for us to capitalize on VAL-083’s unique mechanism of action by utilizing MGMT methylation as a biomarker to optimize patient selection for our novel DNA-targeting agent to target the majority of GBM patients who are diagnosed with MGMT-unmethylated tumors.
+ 
+Our current priority is to leverage this research and VAL-083’s unique mechanism of action to efficiently advance our drug candidate for the most promising indications, including:
+ 
+
+● | MGMT-unmethylated GBM, currently comprising two ongoing separate Phase 2 clinical studies for: 
+--+---------------------------------------------------------------------------------------------------
+
+
+o | GBM patients in two study arms at MDACC:
+--+-----------------------------------------
+
+ 
+7
+
+ 
+
+
+§ | as adjuvant therapy immediately following chemoradiation; and 
+--+------------------------------------------------------------------
+
+
+§ | in Avastin®-naïve rGBM patients; 
+--+-------------------------------------
+
+
+o | Newly diagnosed GBM patients (ongoing study at SYSUCC); and 
+--+----------------------------------------------------------------
+
+
+● | Potential future indications include ovarian cancer, NSCLC, and other solid tumor indications. 
+--+---------------------------------------------------------------------------------------------------
+
+ 
+MGMT-unmethylated GBM
+ 
+GBM is the most common and the most lethal form of glioma. According to the Central Brain Tumor Registry of the United States, GBM occurs with an incidence of 3.20 per 100,000 person-years. Approximately 13,000 new cases of GBM were diagnosed in the United States and 16,000 in Europe during 2017. Within the GBM patient population, approximately two-thirds of patients are unmethylated with respect to their MGMT status.
+ 
+Measurement of MGMT (O6-methyl guanine methyltransferase) methylation status has become routine in clinical practice as a biomarker that correlates with resistance to the standard-of-care chemotherapy with temozolomide (Temodar® “TMZ”), and patient outcomes in GBM. Greater than 60% of GBM patients’ tumors are characterized as “MGMT-unmethylated” and exhibit a high expression of MGMT, a naturally occurring DNA-repair enzyme, the activity of which nullifies the chemotherapeutic activity of TMZ. The development of new therapies for MGMT-unmethylated GBM is a significant unmet medical need. Importantly, the most recent update to NCCN guidelines states that the treatment benefit of TMZ is likely to be lower in GBM patients with an unmethylated MGMT promoter, and therefore, allows for withholding of TMZ in the treatment of newly diagnosed GBM patients with MGMT-unmethylated tumors due to lack of efficacy.
+ 
+We have demonstrated that VAL-083’s anti-tumor mechanism is active independent from the MGMT status in vitro. We believe this suggests the potential of VAL-083 as a replacement for the current standard-of-care chemotherapy, temozolomide, in MGMT-unmethylated GBM. We are therefore utilizing MGMT-methylation status to identify GBM patients who are unlikely to respond to temozolomide and instead treat them with VAL-083.
+ 
+We believe that our research, in the context of the recent amendment to NCCN guidelines, highlights this unmet need and the opportunity for VAL-083 as a potential new standard-of-care in the treatment of MGMT-unmethylated GBM.
+ 
+Phase 2 Study in MGMT-unmethylated GBM in Collaboration with University of Texas MD Anderson Cancer Center
+ 
+In February 2017, we initiated a biomarker driven, open-label, single-arm Phase 2 study in collaboration with MDACC. This biomarker-driven study (testing for MGMT methylation status) has been amended to enroll up to 83 patients (35 with a starting dose of 40 mg/m2; 48 with a starting dose of 30 mg/m2) to determine the potential of VAL-083 treatment to improve overall survival in GBM patients whose tumors have recurred following treatment with temozolomide. These patients will not have been treated previously with Avastin®. In addition, this study has been amended to include 24 patients in the adjuvant patient population. The GBM patients in the adjuvant arm of the study will have had treatment with TMZ in combination with radiation but rather than then being treated with additional cycles of TMZ, these patients will begin treatment with VAL-083. 
+ 
+Recurrent Study Arm 
+ 
+As of July 24, 2019, 56 patients had been enrolled in the recurrent arm of this Phase 2 study. The original starting dose of 40 mg/m2 of VAL-083 on days 1, 2 and 3, of a 21-day cycle, which was based on the results from our previous Phase 1/2 safety study of VAL-083 in patients with recurrent glioma (clinicaltrials.gov identifier: NCT01478178), has continued to demonstrate myelosuppression as the principal side effect of VAL-083, as per prior clinical experience. The safety profile has been well within the existing safety monitoring guidelines described in the present study protocol. However, in consultation with the principal investigator at MDACC, we have amended the protocol for this clinical study to modify the starting dose of VAL-083 to 30 mg/m2 on days 1, 2 and 3, of a 21-day cycle for this specific population previously treated with temozolomide. This modification may improve tolerance in this patient population and thereby potentially increase overall exposure to VAL-083 by increasing the number of cycles of drug patients may be able to receive. We have modified the patient screening platelet count, from 100,000/µL to 125,000/µL, for the same reasons.
+ 
+8
+
+ 
+
+The historical comparison survival data for the recurrent arm of the study is lomustine based on a median overall survival of 7.2 months in unmethylated patients. Safety data from this study will become part of the overall safety dossier to support future filings with the FDA and other regulatory agencies.
+ 
+On May 31, 2019, we provided a clinical study update on the recurrent study arm of our MDACC clinical study at a KOL presentation during the 2019 ASCO annual meeting in Chicago, IL.
+ 
+
+● | As of May 5, 2019, 51 patients have been enrolled, 35 patients at a starting dose of 40 mg/m2, and 16 patients at a starting dose of 30 mg/m2. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | For the 47 patients who have been on study long enough to be assessed at the post-cycle 2 MRI: 
+--+---------------------------------------------------------------------------------------------------
+
+
+o | 9/35 (25.7%) patients initially receiving 40 mg/m2 exhibited “Stable Disease” per investigator assessment at the end of cycle 2 
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | 4/12 (33.3%) patients initially receiving 30 mg/m2 exhibited “Stable Disease” per investigator assessment at the end of cycle 2 
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+It is important for this GBM patient population, which has been heavily pre-treated with temozolomide, to be able to be treated with multiple cycles of VAL-083 without significant hematological toxicities. We believe the modified dose of VAL-083, in addition to the change in patient eligibility platelet counts, should help provide for enhanced patient safety. We believe a positive outcome from this study can establish a position for VAL-083 in the treatment of MGMT-unmethylated rGBM.
+ 
+A detailed description of this study can be found at clinicatrials.gov, Identifier Number: NCT02717962.
+ 
+Adjuvant Study Arm
+ 
+On July 24, 2019, we announced the enrollment of the first patient in the adjuvant arm of the Phase 2 study being conducted at MDACC.
+ 
+As noted above, patients in the recurrent arm of the MDACC clinical study have been heavily pre-treated with temozolomide. Based on published data from our MDACC and SYSUCC clinical studies, we believe there is a significant opportunity to treat GBM patients in the pre-temozolomide maintenance stage (i.e., adjuvant). At the AACR’s annual meeting in April 2019, we reported that myelosuppression (thrombocytopenia and neutropenia) is the most common adverse event associated with VAL-083. The higher potential for myelosuppression with the 40 mg/m2/day of VAL-083 in this study appears to be correlated with the number of cycles of prior TMZ maintenance therapy (> 5 cycles). These patients will have had an initial cycle of TMZ following radiation but will not have yet started subsequent cycles of TMZ (i.e. maintenance stage TMZ patients). The MDACC IRB has approved the addition of up to 24 patients to the adjuvant setting. These patients will have had an initial cycle of temozolomide following radiation but will not have yet started subsequent cycles of TMZ (i.e. maintenance stage TMZ patients). The comparison survival data for this study is survival data from Tanguturi et al (2017 Nero-Oncology) for MGMT-unmethylated patients of 6.9 months.
+ 
+9
+
+ 
+
+Phase 2 Study in Newly Diagnosed MGMT-unmethylated GBM
+ 
+In September 2017, we initiated a single arm, biomarker driven, open-label Phase 2 study in newly diagnosed MGMT-unmethylated GBM patients at SYSUCC in Guangzhou, China. The study is being conducted under our collaboration agreement with Guangxi Wuzhou Pharmaceutical Company.
+ 
+In this Phase 2 study, VAL-083 is being combined with radiotherapy as a potential replacement for standard-of-care chemoradiation with temozolomide in patients with MGMT-unmethylated GBM. One goal of the study will be to confirm the safety of the three-day VAL-083 dosing regimen in combination with radiotherapy and to investigate outcomes of the combination of VAL-083 and radiotherapy in MGMT-unmethylated GBM patients.
+ 
+We plan to enroll up to 30 newly-diagnosed, MGMT-unmethylated GBM patients in this study. The efficacy endpoints of the study include tumor response, as assessed by the Response Assessment in NeuroOncology (“RANO”), and progression-free survival (“PFS”), progression-free survival at six months (“PFS6”), and overall survival (“OS”), compared to historical results in the target population. The study is being conducted in two parts: (1) Dose-confirmation: VAL-083 in cohorts (20, 30 and 40 mg/m2/day IV daily x 3 every 21 days) to assess safety and activity when administered concurrently with x-ray therapy (“XRT”) to confirm the maximum tolerated dose (“MTD”), and (2) Expansion: VAL-083 will be studied in up to 20 additional patients at the target dose, as determined by the dose-confirmation part of the study, administered concurrently with XRT. Assessments of safety and tolerability will be used to support further clinical development of VAL-083 in combination with radiotherapy. Pharmacokinetic assessments of VAL-083 in plasma and cerebral spinal fluid (“CSF”) will be used to correlate drug exposure in the central nervous system with patient outcomes.
+ 
+Dose confirming cohorts studying 20, 30, and 40 mg/m2/day x three every 21 days have been completed. Based on the dose confirmation phase of the study, we have selected 30 mg/m2 for combination with irradiation for the treatment of newly-diagnosed MGMT-unmethylated GBM patients.
+ 
+As of August 1, 2019, of the first 20 enrolled patients, 17 have received at least their first assessment (two patients have not been enrolled long enough to receive their first assessment and one patient died before their first assessment). “Best Overall Response” for these patients per Investigator Assessment were:
+ 
+
+● | Nine have been assessed as having achieved a complete response (CR) (9/17, or 53%) 
+--+---------------------------------------------------------------------------------------
+
+
+● | Seven have been assessed with stable disease (SD), (7/17, or 41%); and 
+--+---------------------------------------------------------------------------
+
+
+● | One has been assessed as disease progression (PD) (1/17, or 6%). 
+--+---------------------------------------------------------------------
+
+ 
+Of the 20 patients enrolled, 17 (85%) have received their two-month (post-third cycle) MRI and investigator assessment, 13 (65%) have received their five-month MRI and investigator assessment, and seven (35%) have received their eight-month MRI and investigator assessment. Two patients (10%) have not been on the study long enough to reach their first assessment, and one patient (5%) died before their first assessment. Importantly, 16 of the 20 patients enrolled (80%) were still alive as of the data cut-off date.
+ 
+Through our research, and that of the NCI, we have previously demonstrated that VAL-083 crosses the blood brain barrier. New preliminary data from the SYSUCC study indicate that the concentration of VAL-083 is generally higher in CSF than in plasma at two hours post-infusion.
+ 
+10
+
+ 
+
+Concentration of VAL-083 — Two Hours Post Dose
+ 
+
+ | | Mean Concentrations (ng/mL) | Conc. Ratio @ 2 hours 
+-----------------+---+---------------------------------+----------------------------
+Dose (mg/m2) | n | Plasma (2 hours post dose) | CSF (2 hours post dose) | CSF/Plasma
+20 | 1 | 110 | 154 | 1.40 
+30 | 3 | 97 | 134 | 1.41 
+40 | 3 | 170 | 190 | 1.13 
+
+ 
+By comparison, temozolomide is typically 80% lower in the CSF than the plasma (Schreck et al. 2018, Oncology (Williston Park)). The reason this is important is that accumulation of VAL-083 in the CSF further validates that VAL-083 crosses the blood-brain-barrier and demonstrates that therapeutic drug concentrations in the CSF are achievable for extended periods of time.
+ 
+Ovarian Cancer
+ 
+In April 2016, the FDA granted orphan drug designation for the use of VAL-083 in the treatment of ovarian cancer.
+ 
+In September 2017, we filed an IND for the use of VAL-083 in ovarian cancer, along with a protocol for a Phase 1/2, open-label, multicenter, study of VAL-083 in patients with Recurrent Platinum Resistant Ovarian Cancer (the REPROVe study).
+ 
+The FDA has allowed this study to begin enrolling patients, but based on ongoing evaluation and input from our ovarian advisory board, we are reassessing the ovarian cancer program. We are in the process of evaluating the best path forward in ovarian cancer and are looking at various strategic options including combination with PARP inhibitors.
+ 
+Fast Track Designation
+ 
+In December 2017, the FDA granted Fast Track designation for VAL-083 in rGBM.
+ 
+Fast Track designation is designed to expedite the review of drugs that show promise in treating life-threatening diseases and address unmet medical needs, with the goal of getting new treatments to patients earlier. Fast Track designation provides sponsors with an opportunity for increased frequency for communication with the FDA to ensure an optimal development plan and to collect appropriate data needed to support drug approval. Additional benefits of the Fast Track designation may include an Accelerated Approval, a Priority Review, and a Rolling Review. Accelerated Approval is granted to drugs that demonstrate an effect on a surrogate, or intermediate endpoints, reasonably likely to predict clinical benefit. Priority Review shortens the FDA review process for a new drug from ten months to six months and is appropriate for drugs that demonstrate significant improvements in both safety and efficacy of an existing therapy. Rolling Review provides a drug company the opportunity to submit completed sections of its New Drug Application (“NDA”) for review by the FDA. Typically, NDA reviews do not commence until the drug company has submitted the entire application to the FDA. Through the Fast Track designation, the FDA attempts to ensure that questions raised during the drug development process are resolved quickly, often leading to earlier approval and increased access for patients.
+Current Treatments for Gliomas and Glioblastoma Multiforme
+ 
+Gliomas are a type of Central Nervous System (“CNS”) tumor that arises from glial cells in the brain or spine. Glial cells are the cells surrounding nerves. Their primary function is to provide support and protection for neurons in the CNS.
+ 
+GBM is the most common and the most lethal form of glioma. According to the Central Brain Tumor Registry of The United States, GBM occurs with an incidence of 3.20 per 100,000 person-years. Approximately 13,000 new cases of GBM were diagnosed in the United States and 16,000 in Europe during 2017.
+ 
+11
+
+ 
+
+Common symptoms of GBM include headaches, seizures, nausea, weakness, paralysis and personality or cognitive changes such as loss of speech or difficulty in thinking clearly. GBM progresses quickly and patients’ conditions deteriorate rapidly progressing to death. The outlook for GBM patients is generally poor. The overall median survival in newly diagnosed GBM patients with best available treatments is less than 15 months, and two-year and five-year survival rates are approximately 30% and 10%, respectively. Median overall survival in newly-diagnosed, unmethylated GBM patients is 12.2 months.
+ 
+In September 2017, the National Comprehensive Cancer Network (“NCCN”), updated treatment guidelines for GBM. The recommended treatment regimen for GBM includes surgical resection to remove as much of the tumor as possible (“debulking”) followed by radiotherapy with concomitant and adjuvant chemotherapy with temozolomide with or without tumor treating fields (“TTF”). GBM patients whose tumors exhibit an unmethylated promotor for the gene encoding the DNA repair enzyme MGMT, a biomarker correlated with resistance to temozolomide, may be treated with radiation alone following surgery.
+ 
+Patients with an unmethylated MGMT promotor have high levels of MGMT, a naturally-occurring DNA repair enzyme that repairs tumor-fighting lesions induced by TMZ thus allowing a patient’s tumor to continue to grow despite treatment which leads to poor outcomes. Measurement of MGMT methylation status has become routine in clinical practice as biomarker that correlates with response to TMZ and patient outcomes in GBM.
+ 
+Probability of GBM Patient Survival Correlated to Expression of MGMT Enzyme (Unmethylated promoter = High MGMT Expression and Significantly Shorter Survival)
+ 
+
+
+TTF (Optune®) is a non-invasive technique for adults with GBM. TTF uses alternating electrical fields to disrupt tumor cell division, or cause cell death, thereby preventing the tumor from growing or spreading as quickly. A clinical study reported that GBM patients treated with TTF combined with TMZ experienced longer survival than those treated with TMZ alone.
+ 
+The majority of GBM patients’ tumors recur within 6 – 12 months of initial treatment. Experimental therapy through clinical studies is recommended under NCCN guidelines for eligible patients. NCCN guidelines also recommend treatment with systemic chemotherapy, such as lomustine (“CCNU”). For patients who are eligible for additional surgical debulking, local chemotherapy with carmustine (“BCNU”) wafers may be employed. CCNU and BCNU target the same DNA-site as TMZ and are also subject to MGMT-related resistance.
+ 
+Avastin (Avastin®, an anti-VEGF antibody) recently received full approval in the US, Canada, Australia, and Japan as a single agent for patients with recurrent GBM following prior therapy. Avastin carries an FDA “black-box warning” related to severe, sometimes fatal, side effects such as gastrointestinal perforations, wound healing complications and hemorrhage. There are no data demonstrating an improvement in disease-related symptoms or increased survival for GBM patients treated with Avastin.
+ 
+12
+
+ 
+
+Recurrent GBM patients, especially those whose tumors progress following treatment with Avastin, have limited or no treatment options and a very poor prognosis. According to published literature, the median survival for GBM patients whose tumors progress following Avastin is less than five months.
+ 
+VAL-083 Mechanism of Action and the Opportunity in the Treatment of Cancer
+ 
+Chemotherapy forms the basis of treatment in nearly all cancers. We believe that VAL-083 may be effective in treating tumors exhibiting biological features that cause resistance to currently available chemotherapy, particularly for patients who have failed, or become resistant to, other treatment regimens.
+ 
+Based on published research and our own data, the cytotoxic functional groups, and the mechanism of action of VAL-083 are functionally different from alkylating agents commonly used in the treatment of cancer. VAL-083 has previously demonstrated activity in cell-lines that are resistant to other types of chemotherapy. No evidence of cross-resistance has been reported in published clinical studies.
+ 
+Our research suggests that VAL-083 attacks cancer cells via a unique mechanism of action which is distinct from other chemotherapies used in the treatment of cancer. Our data indicate that VAL-083 forms inter-strand crosslinks at the N7 position of guanine on the DNA of cancer cells. Our data also indicate that this crosslink forms rapidly and is not easily repaired by the cancer cell resulting in cell-cycle arrest and lethal double-strand DNA breaks in cancer cells. VAL-083 readily crosses the blood brain barrier. Published preclinical and clinical research demonstrate that VAL-083 is absorbed more readily in tumor cells than in normal cells.
+ 
+In vitro, our data also demonstrate that VAL-083’s distinct mechanism may be able to overcome drug resistance against a range of cancers. For example, VAL-083 is active against MGMT-unmethylated GBM cells which are resistant to treatment with temozolomide and nitrosoureas. VAL-083 also retains a high level of activity in p53 mutated non-small cell lung cancer (“NSCLC”), ovarian cancer and medulloblastoma cell lines that are resistant to platinum-based chemotherapy.
+ 
+Importantly, clinical activity against each of the tumors mentioned above was established in prior NCI-sponsored Phase 2 clinical studies. We believe that these historical clinical data and our own research support the development of VAL-083 as a potential new treatment for multiple types of cancer.
+ 
+The main dose-limiting toxicity (“DLT”) related to the administration of VAL-083 in previous NCI-sponsored clinical studies and our own clinical studies is myelosuppression, particularly thrombocytopenia. Myelosuppression, including thrombocytopenia, is a common side effect of chemotherapy. Myelosuppression is the decrease in cells responsible for providing immunity, carrying oxygen, and causing normal blood clotting. Thrombocytopenia is a reduction in platelet counts which assist in blood clotting. Modern medicine allows for better management of myelosuppressive side effects. We believe this offers the potential opportunity to improve upon the drug’s already established efficacy profile by substantially increasing the dose of VAL-083 that can be safely administered to cancer patients.
+ 
+There is no evidence of lung, liver, or kidney toxicity even with prolonged treatment by VAL-083. Data from the Chinese market where the drug has been approved for more than 15 years supports the safety findings of the NCI studies.
+ 
+VAL-083 Historical Data
+ 
+VAL-083 is first-in-class DNA targeting agent that readily crosses the blood-brain-barrier. Data from prior NCI-sponsored clinical studies with VAL-083 demonstrate activity against GBM and other CNS tumors. In general, historical NCI-sponsored studies demonstrate that tumor regression in brain cancer was achieved in 40% of patients treated and stabilization was achieved in an additional 20% to 30% of brain tumor patients following treatment with VAL-083. In these studies, VAL-083 demonstrated statistically significant improvement in the median survival of high-grade glioma brain tumors, including GBM when combined with radiation versus radiation alone (p < 0.05) with results similar, or superior to, other chemotherapies approved for the treatment of GBM.
+ 
+13
+
+ 
+
+A Summary of Published Data adapted from Separate Sources Comparing the Efficacy of VAL-083 and Other Therapies in the Treatment of GBM
+ 
+
+ | Comparative Therapy | Median Survival Benefit vs. 
+-----------------------------------------+---------------------------+------------------------------------
+Chemotherapy | Radiation (XRT) Alone | Radiation + Chemotherapy | XRT alone 
+VAL-083 (Eagan 1979) | 8.4 months | 16.8 months | 8.4 months 
+Temozolomide (Temodar®) (Stupp 2005) | 12.1 months | 14.6 months | 2.5 months 
+Lomustine (CCNU) (Walker 1976) | 11.8 months | 13 months | 1.2 months 
+Carmustine (BCNU) (Reagan 1976) | 10 months | 12.5 months | 2.5 months 
+Semustine (ACNU) (Takakura 1986) | 12 months | 14 months | 2.0 months 
+
+ 
+VAL-083 is Active Independent of MGMT
+ 
+We have presented data at several peer reviewed meetings demonstrating that VAL-083 is active independent of MGMT resistance in GBM cell lines and other CNS tumor cells. Our research, along with that of others, demonstrates that VAL-083’s unique cytotoxic mechanism forms DNA cross-links at the N 7 position of guanine and retains cytotoxic activity independent of MGMT expression in vitro. Our studies demonstrate that VAL-083 has more potent activity against brain tumor cells in comparison to TMZ and overcomes resistance associated with MGMT, suggesting the potential to surpass the current standard-of-care in the treatment of GBM.
+ 
+14
+
+ 
+
+A Summary of Our Data Demonstrating that VAL-083’s Anti-Tumor Mechanism is Distinct from, and can Overcome, MGMT-Related Chemo resistance in the Treatment of GBM
+ 
+
+In addition, historical NCI clinical study data and our own research support the activity of VAL-083 as a potentiator of radiotherapy. Radiotherapy in combination with temozolomide is the current standard of care in the treatment of newly diagnosed GBM. Our research demonstrates that temozolomide and radiotherapy are ineffective against GBM cells exhibiting a high expression of MGMT, whereas VAL-083 potentiates the tumor-killing effect of radiation independent of MGMT expression. Furthermore, the combination of VAL-083 and radiation has been demonstrated to be active against GBM cancer stem cells (“CSCs”) in vitro. CSCs are often resistant to chemotherapy and form the basis for tumor recurrence and metastasis. GBM CSCs display strong resistance to TMZ, even where MGMT expression is low. However, our data demonstrates that GBM CSCs are susceptible to VAL-083 independent of MGMT expression.
+ 
+15
+
+ 
+
+A Summary of Our Data Demonstrating that VAL-083 Maintains Activity in Both Temozolomide-resistant  GBM Cell Lines and Matched Cancer Stem Cells and Potentiates Radiotherapy
+ 
+
+We believe that VAL-083’s more potent activity against brain tumor cells in comparison to TMZ, VAL-083’s ability to overcome MGMT-mediated resistance, and its activity against GBM CSCs suggests the potential of VAL-083 to surpass the current standard-of-care in the treatment of GBM.
+Phase 1 – 2 Clinical Study Overview and Summary of Results
+ 
+In an open-label, single arm dose-escalation study designed to evaluate the safety, tolerability, pharmacokinetics, and anti-cancer activity of VAL-083, we enrolled forty-eight GBM patients whose disease progressed following prior treatment with temozolomide and Avastin. The study was conducted at five centers in the United States: the Mayo Clinic in Rochester, Minnesota; the Brain Tumor Center at University of California, San Francisco; the Sarah Cannon Cancer Research Center in Nashville, Tennessee and Denver, Colorado; and the SCRI affiliate site at the Florida Cancer Specialist Research Institute in Sarasota, Florida.
+ 
+Patients received VAL-083 on days 1, 2 and 3 on a 21-day treatment cycle. The Phase 1 portion of the study involved dose escalation cohorts until a maximum tolerated dose (“MTD”) was established at 40mg/m2. A further 14-patient, Phase 2 expansion was then enrolled at the MTD to gather further safety data at our chosen therapeutic dose and to further explore the outcomes in this patient population.
+ 
+In May 2016, we held an end of Phase 2 meeting with the FDA in which we discussed with the FDA the design of a Phase 3, registration-directed clinical program for VAL-083 in refractory GBM. Based on the input we received from the FDA, the agency confirmed that it would consider the totality of data available, including data obtained from our other planned clinical studies in related GBM populations, when assessing the NDA. The FDA also noted that we may be able to rely on prior NCI studies and historical literature to support nonclinical data required for an NDA filing under a 505(b)(2) strategy which allows a sponsor to rely on already established safety and efficacy data in support of an NDA.
+ 
+In summary, the data from our previous Phase 1/2 study are as follows:
+ 
+Safety and Tolerability
+ 
+In the Phase 1 dose escalation regimen, no serious adverse events (“SAE”) related to VAL-083 were encountered at doses up to 40 mg/m2/day.
+ 
+16
+
+ 
+
+Increasing frequency of, and higher grade, hematologic toxicities were observed at doses above 40 mg/m2/day. Consistent with the published literature, the observed dose limiting toxicity for VAL-083 is primarily thrombocytopenia (low platelets). Observed platelet nadir occurred at approximately day 18, and recovery was rapid and spontaneous following treatment.
+ 
+Based on Phase 1 observations, fourteen additional patients were enrolled in a Phase 2 expansion cohort at 40mg/m2 which was established as the MTD. Consistent with Phase 1, the dose of VAL-083 of 40 mg/m2 on days 1, 2 and 3 of a 21-day cycle was generally well tolerated in Phase 2. At this dose, one subject previously treated with CCNU, a nitrosourea agent, reported severe (Grade 4) thrombocytopenia. As a result of this observation, the protocol inclusion criterion for platelet count was increased from 100,000/μL to 150,000/μL for patients receiving prior nitrosoureas within 12 weeks preceding enrollment. No other dose limiting toxicities were observed.
+ 
+VAL-083 Safety Observations from Phase 1/2 Clinical Study
+ 
+
+Hematologic parameter and CTCAE grade | dose | ≤30 mg/m2 | | 40 mg/m2 | | 45 mg/m2 | 50 mg/m2 
+------------------------------------------+---------+---------------+-----+--------------+----+--------------+-------------
+ | n = | 20 | | 17 | | 4 | 7 
+Anemia | ≤G2 | | 11 | | 55 | % | 2 | 12 | % | 2 | 50 | % | 6 | 86 | %
+ | G3 | | 2 | | 10 | % | — | 0 | % | — | 0 | % | — | 0 | %
+ | G4 | | — | | 0 | % | — | 0 | % | — | 0 | % | — | 0 | %
+Leukopenia | ≤G2 | | 5 | | 25 | % | 2 | 12 | % | — | 0 | % | 5 | 71 | %
+ | G3 | | 1 | | 5 | % | — | 0 | % | — | 0 | % | 3 | 43 | %
+ | G4 | | — | | 0 | % | — | 0 | % | 2 | 50 | % | — | 0 | %
+Neutropenia | ≤G2 | | 4 | | 20 | % | — | 0 | % | — | 0 | % | — | 0 | %
+ | G3 | | — | | 0 | % | — | 0 | % | — | 0 | % | 3 | 43 | %
+ | G4 | | — | | 0 | % | — | 0 | % | 2 | 50 | % | 1 | 14 | %
+Thrombocytopenia | ≤G2 | | 9 | | 45 | % | 3 | 18 | % | — | 0 | % | 3 | 43 | %
+ | G3 | | — | | 0 | % | — | 0 | % | 1 | 25 | % | 3 | 43 | %
+ | G4 | | — | | 0 | % | 1 | 6 | % | 2 | 50 | % | 1 | 14 | %
+DLT Observed | | | nil | | | | 1 | | | 2 | | | 2 | | 
+
+Doses Achieved
+ 
+Based the results of our Phase 1/2 study, we confirmed that we achieved doses of VAL-083 that are higher than were utilized in the original published NCI-sponsored clinical studies. A summary in comparison to the NCI’s historical regimen is as follows:
+
+Dosing Regimen & Study | Single Dose | Acute Regimen (single cycle) | Comparative Cumulative Dose (@ 35 days) | Dose Intensity (dose per week) 
+----------------------------------------------------------------------------------------+-----------------+--------------------------------------+-------------------------------------------------+---------------------------------------
+NCI GBM historical regimen (Eagan et al) daily x 5 q 5wks (cycle = 35 days) | 25 mg/m2 | x5 days = 125 mg/m2 | 125 mg/m2 | 25 mg/m2/wk. 
+DelMar VAL-083 achieved regimen daily x 3 q 3wks (cycle = 21 days) | 40 mg/m2 | x 3 days = 120 mg/m2 | 240 mg/m2 | 40 mg/m2/wk. 
+
+ 
+17
+
+ 
+
+Daily x 5 q 5wks refers to a dosing regimen of once per day for five consecutive days every five weeks (35-day cycle while daily x 3 q 3wks refers to a dosing regimen of once per day for three consecutive days every three weeks (21-day cycle).
+ 
+Our achieved dosing regimen increased the amount of VAL-083 delivered to the CNS over historical regimens without increased toxicity. Thus, our regimen achieved both a higher maximum concentration and higher overall exposure, which we believe may increase the likelihood of successful treatment outcomes in glioblastoma and other brain tumors.
+ 
+Based on our ongoing Phase 2 study at MDACC, we believe that the safety profile of the 40 mg/m2 is within the existing safety monitoring guidelines described in the present study protocol. However, in consultation with the principal investigator at MDACC, we have amended the protocol for the study to modify the starting dose of VAL-083 to 30 mg/m2 on days 1, 2 and 3, of a 21-day cycle for this specific study population which has been previously treated with temozolomide. We believe this modification may improve tolerance in this patient population and maximize overall exposure to VAL-083 thereby increasing the number of cycles of drug patients are able to receive. The 30 mg/m2 dosing regimen is 20% over the historical regimen.
+ 
+Pharmacokinetics
+ 
+Pharmacokinetic (“PK”) analyses showed dose-dependent linear systemic exposure with a short (1-2h) plasma terminal half-life; average Cmax at 40 mg/m2/day was 781 ng/mL (5.3µM). The observed PK profile is comparable to published literature. Prior NCI-sponsored studies demonstrated that VAL-083 readily crosses the blood brain barrier and has a long (>20 hour) half-life in the CNS.
+ 
+We believe that this PK profile is optimal for the treatment of brain tumors: A long CNS half-life is expected to maximize exposure of the drug in the brain increasing the likelihood of successful treatment outcomes, while a short plasma half-life is desirable to minimize systemic side effects.
+ 
+Observed pharmacokinetics from VAL-083 Phase 1 clinical study dose vs. AUC
+ 
+
+
+Based on observed and previously published pharmacokinetics, we believe that therapeutic doses equal to, or above, 20 mg/m2 daily on days 1, 2 and 3 of a 21-day cycle should deliver sufficient levels of VAL-083 to brain tumors to achieve a therapeutic benefit. We are currently using a dose of 30 mg/m2 daily on days 1, 2 and 3 of a 21-day cycle in our two Phase 2 studies that are currently ongoing.
+ 
+18
+
+ 
+
+MGMT & IDH1
+ 
+High expression of MGMT and wild-type form of the enzyme isocitrate dehydrogenase (“IDH1”) have been previously shown to be diagnostic markers that correlate with resistance to currently available chemotherapies (e.g. temozolomide or nitrosourea) in the treatment of GBM and poor patient outcomes. Measurement of these biomarkers has become routine in clinical practice.
+ 
+Notably, we have previously demonstrated that VAL-083’s anti-tumor mechanism is active independent from the MGMT status in vitro. We believe we will ultimately be able to use such biomarkers in a prognostic fashion to select the patients most likely to respond to treatment as we expand the clinical development of VAL-083.
+ 
+
+Biomarker | Observation in Phase 1/2 clinical study | 
+-----------------+-----------------------------------------------------+---
+High MGMT (n=19) | | 84 | %
+IDH-WT (n=11) | | 90 | %
+
+Tumor Response and Outcomes
+ 
+GBM patients in our Phase 1/2 clinical study were not re-resected prior to treatment with VAL-083 and therefore had a growing recurrent GBM tumor at the time of enrollment. Patients were monitored for tumor response by MRI.
+ 
+Consistent with un-resected GBM, median progression free survival (“PFS”) was short at 1.2 months (range: 0.2 – 20.1 months). Five GBM patients treated with VAL-083 were reported to have stable disease as their best response following treatment; the remainder reported progressive disease.
+ 
+Disease progression is typical in a refractory GBM population with non-resected tumors. However, we believe that slowed progression may provide meaningful clinical benefit in this patient population through prolonged overall survival and improved quality of life.
+ 
+According to published literature, GBM patients failing Avastin have a poor prognosis with expected survival under five months.
+ 
+Analysis of twenty-two patients receiving an assumed therapeutic dose of VAL-083 (≥20mg/m2) demonstrated median survival of 8.35 months following Avastin failure.
+ 
+VAL-083 compared to published literature
+ 
+
+Reference | Post Avastin Salvage Therapy | Median Survival following Avastin Failure 
+---------------------+----------------------------------+--------------------------------------------------
+Shih (2016) | VAL-083 | 8.35 months 
+Rahman (2014) | nitrosourea | 4.3 months 
+Mikkelson (2011) | TMZ + irinotecan | 4.5 months 
+Lu (2011) | dasatinib | 2.6 months 
+Reardon (2011) | etoposide | 4.7 months 
+Reardon (2011) | TMZ | 2.9 months 
+Iwomoto (2009) | various | 5.1 months 
+
+ 
+While recognizing these data are representative of a relatively small, non-controlled Phase 1/2 clinical study, we believe these outcomes support the potential of VAL-083 to offer meaningful clinical benefit to GBM patients who have failed Avastin, compared to currently available therapy.
+ 
+19
+
+ 
+
+VAL-083 Historical Data and Our Research in Ovarian Cancer
+ 
+Ovarian cancer is the fifth most common cancer in women and is the leading cause of death among women diagnosed with gynecological malignancies. In 2016, approximately 22,300 women in the US were diagnosed with ovarian cancer and 14,300 died from their disease.
+ 
+Without treatment, ovarian cancer spreads within the pelvic region and metastasizes to distant sites such as the lungs, liver, spleen and, rarely, the brain. The initial symptoms of ovarian cancer such as abdominal bloating, indigestion, pelvic pain, or nausea are often attributed to symptoms caused by a less serious condition. Therefore, in most cases, ovarian cancer is not diagnosed until it has progressed to an advanced stage when it is no longer possible to surgically remove all tumor tissue.
+ 
+When diagnosed at an advanced stage the 5-year survival rate is less than 40%. Women with ovarian cancer receive chemotherapy following surgery to treat residual disease.
+ 
+VAL-083’s activity against ovarian epithelial adenocarcinoma (“OEA”) and squamous cell carcinoma of the cervix (“SCC”) was reported in prior NCI-sponsored clinical studies. Importantly, NCI-researchers recommended VAL-083 for further advanced studies in the treatment of ovarian cancer.
+ 
+Pt-based chemotherapy is employed in the treatment of nearly 50% of all cancer patients and is employed in the treatment regimen of nearly all advanced-stage ovarian cancer patients. Ovarian cancer patients whose tumors are sensitive to Pt-based chemotherapy have the most favorable outcome. Recently, the approval of PARP inhibitors in the treatment of ovarian cancer patients demonstrated improved outcomes, particularly patients whose tumors remain sensitive to Pt-based treatments.
+ 
+Pt-based chemotherapies function by causing extensive damage to a cancer cell’s DNA. Cancer cells are adept at overcoming DNA damage or employing mechanisms to repair DNA damage induced by Pt-based chemotherapy. One of the most common obstacles to DNA-damaging chemotherapy is mutations to a gene called p53. Cellular processes governed by the p53 gene are critical in assessing DNA damage and determining if a cell should cease from dividing or self-destruct. When p53 does not function properly, cancer cells continue to divide despite the treatment with DNA-damaging chemotherapy, making these drugs ineffective and leading to treatment resistance. This occurs in nearly all cases of the most difficult ovarian cancer to treat — high grade serous ovarian cancer (HGSOC) — which accounts for up to 70% of ovarian cancer cases and approximately 90% of ovarian cancer deaths. P53 mutations are associated with resistance to Pt-based chemotherapy, which leads to treatment failure and increased mortality. Solving this problem is a major goal in the development of new treatments for ovarian cancer.
+ 
+Unfortunately, the development of resistance to Pt-based agents is nearly inevitable, leading to disease recurrence and increased mortality. Ultimately, most women with advanced ovarian cancer develop recurrent disease with progressively shorter disease-free intervals. Those whose tumors recur within 6 months of Pt-based therapy are considered Pt-resistant/refractory and have a very poor prognosis.
+ 
+The response rate to second line therapy for Pt-resistant ovarian cancer patients is in the 10-15% range and overall survival is approximately 12 months. The development of new chemotherapies and targeted agents to overcome Pt resistance in ovarian cancer is a significant unmet medical need.
+ 
+We have presented data demonstrating that VAL-083’s distinct mechanism of action allows activity in tumors that are resistant to other therapies. We have shown that cytotoxicity of VAL-083 against ovarian cancer is independent of sensitivity to cisplatin or p53 status in vitro. We have demonstrated that VAL-083 is active in Pt-resistant ovarian cells harboring a range of p53-mutations.
+ 
+20
+
+ 
+
+Our research has demonstrated that VAL-083 not only overcomes Pt resistance, but the combination of VAL-083 with Pt-based chemotherapy displays synergy in multiple models in vitro and in vivo. This further suggests a distinct mechanism of action and potential use as part of a VAL-083/Pt-combination therapy.
+ 
+
+
+The combination of VAL-083 with either cisplatin (A) or oxaliplatin (B) in the human H460 (WT p53) NSCLC model demonstrated significant super additivity (p≤0.05) and/or synergism (CI<1) for both combinations. This cytotoxic effect of VAL-083 in combination with either platinum drug was observed also in A549 (WT p53) and H1975 (mutant p53) NSCLC cells, independently of p53 status (not shown). Data, where applicable, are shown as mean ± SE; N=7.
+ 
+
+
+21
+
+ 
+
+While Pt-based chemotherapy is the standard treatment for ovarian cancer, PARP inhibitors have recently provided a new treatment option for a subset of patients with platinum-sensitive recurrent ovarian cancer. VAL-083 also demonstrates synergistic activity with certain PARP inhibitors, including olaparib (Lynparza) and talazoparib in vitro, suggesting VAL-083 may have utility in the treatment of ovarian cancer in combination with PARP inhibitors.
+ 
+
+We believe that these data demonstrate the potential of VAL-083 to treat platinum-resistant ovarian cancers as a single-agent against platinum-resistant tumors in combination with platinum-based chemotherapeutic regimens or in combination with PARP inhibitors.
+ 
+Other Indications for VAL-083 — Potential Future Opportunities
+ 
+VAL-083 in Lung Cancer
+ 
+Lung cancer is a leading cause of cancer death around the world and effective treatment for lung cancer remains a significant global unmet need despite advances in therapy. Incidence of lung cancer in the United States is approximately 47 per 100,000 with the majority (85%) being NSCLC, the most common type of lung cancer. Globally, the market for lung cancer treatment may exceed $24 billion by 2033 according to a report published by Evaluate Pharma.
+ 
+The activity of VAL-083 against solid tumors, including lung cancer, has been established in both preclinical and human clinical studies conducted by the NCI. DelMar has developed new nonclinical data to support the utility of VAL-083 in the modern treatment of lung cancer. In an established murine xenograft model of NSCLC, the activity of VAL-083 was compared to standard platinum-based therapy with cisplatin against human NSCLC cell lines A549 (TKI-sensitive) and H1975 (TKI-resistant). In the study, VAL-083 demonstrated superior efficacy and safety in the treatment of TKI-susceptible (A549) tumors and in TKI-resistant (H1975) tumors.
+ 
+Central Nervous System Metastases of Solid Tumors
+ 
+The successful management of systemic tumors by modern targeted therapies has led to increased incidence of mortality due to CNS metastases of lung cancer and other solid tumors. In June 2013, we split our Phase 1/2 clinical study protocol into two separate studies: one focusing solely on refractory GBM and the other focusing on secondary brain cancers caused by other tumors that have spread to the brain.
+ 
+Based on historical clinical activity and our own research, we believe that VAL-083 may be suitable for the treatment of patients with CNS metastases who currently have limited treatment options. Subject to the availability of financial and operating resources, we plan to develop a separate protocol for the continued exploration of VAL-083 in patients with secondary brain cancer caused by a solid tumor spreading to the brain.
+ 
+Pediatric Brain Tumors
+ 
+Tumors of the brain and spine make up approximately 20 percent of all childhood cancers and they are the second most common form of childhood cancer after leukemia.
+ 
+The activity of VAL-083 against childhood and adolescent brain tumors has been established in both preclinical and human clinical studies conducted by the NCI. We have presented data indicating that VAL-083 offers potential therapeutic alternatives for the treatment of pediatric brain tumors including SHH-p53 mutated medulloblastoma. In March 2016, the FDA granted orphan drug designation for the use of VAL-083 in the treatment of medulloblastoma. Subject to the availability of resources, we intend to collaborate with leading academic researchers for the continued exploration of VAL-083 as a potential treatment of childhood brain tumors.
+ 
+22
+
+ 
+
+Additional Indications for VAL-083
+ 
+In historical studies sponsored by the NCI in the United States, VAL-083 exhibited clinical activity against a range of tumor types including central nervous system tumors, solid tumors, and hematologic malignancies. We have established new nonclinical data supporting the activity of VAL-083 in different types of cancer that are resistant to modern targeted therapies and we believe that the unique cytotoxic mechanism of VAL-083 may provide benefit to patients in a range of indications. We intend to continue to research these opportunities, and if appropriate, expand our clinical development efforts to include additional indications.
+VAL-083 Target Markets
+ 
+DNA-targeting agents such as alkylating agents or platinum-based chemotherapy form the mainstay of chemotherapy treatments used in the treatment of cancers. For example, TMZ had peak annual sales of $1.1 billion in 2010, while bendamustine, had peak annual sales of $0.8 billion in 2014.
+ 
+Our product candidate, VAL-083, is a first-in-class DNA targeting agent with a novel mechanism of action. VAL-083’s anti-cancer activity was established in a range of tumor types in prior NCI-sponsored clinical studies. Based on this novel mechanism, we have demonstrated that the anti-cancer activity is maintained against tumor cells that are resistant to other DNA-targeting agents. We believe this positions VAL-083 as a potential chemotherapy-of-choice for patients whose tumors are resistant to current standard-of-care chemotherapy in orphan and major cancer indications.
+ 
+Our ongoing research and development activities are focused on indications where VAL-083 demonstrated promising activity in prior NCI-sponsored studies and where our research suggests an opportunity to address significant unmet medical needs due to the failure of existing treatments.
+ 
+
+VAL-083 target markets | 2024 Estimated Global Sales | 
+-----------------------------------+-------------------------------------+------
+Glioblastoma multiforme (GBM) | $ | 1.5B 
+Ovarian Cancer | $ | 4.2B 
+Non-small cell lung cancer (NSCLC) | $ | 32.6B
+Source: Evaluate Pharma | | 
+
+Glioblastoma Multiforme
+ 
+GBM is the most common and the most lethal form of glioma. According to the Central Brain Tumor Registry of The United States, GBM occurs with an incidence of 3.20 per 100,000 person-years. Approximately 13,000 new cases of GBM were diagnosed in the United States and 16,000 in Europe during 2017.
+
+
+Newly diagnosed patients suffering from GBM are initially treated through invasive brain surgery, although disease progression following surgical resection is nearly 100%. Temozolomide (Temodar®) in combination with radiation is the front-line therapy for GBM following surgery. Global revenues of branded Temodar reached $1.1 billion in 2010. Approximately 60% of GBM patients treated with Temodar® experience tumor progression within one year. Median overall survival in newly-diagnosed, unmethylated GBM patients is 12.2 months.
+ 
+Bevacizumab (Avastin®) has been approved for the treatment of GBM in patients failing Temodar®. In clinical studies, approximately 20% of patients failing Temodar® respond to Avastin® therapy and no improvement in median survival was reported.
+ 
+The market for refractory (Avastin-failed) GBM is limited to those jurisdictions where Avastin is approved for the treatment of GBM. The United States, Canada, Australia, Japan and Switzerland represent the major markets where Avastin is used in the treatment of GBM.
+ 
+23
+
+ 
+
+Ovarian Cancer
+ 
+The American Cancer Society estimates that approximately 22,000 women will receive a new diagnosis of ovarian cancer and approximately 14,000 women will die from ovarian cancer in the United States each year. Ovarian cancer ranks fifth in cancer deaths among women, accounting for more deaths than any other cancer of the female reproductive system.
+ 
+The potential of VAL-083 in the treatment of ovarian cancer has been established in prior NCI-sponsored clinical studies and by our recent research. The FDA has granted orphan drug status to VAL-083 as a potential treatment for ovarian cancer and we have recently received notice of allowance for our IND to initiate a Phase 1-2 clinical study to investigate the safety and effectiveness of VAL-083 in patients with recurrent platinum resistant ovarian cancer (VAL-083 REPROVe study).
+ 
+Ovarian cancers are commonly treated with a platinum-based chemotherapy regimen. Initial tumor response rates are relatively high. However, the development of resistance to Pt-based chemotherapy in ovarian cancer patients is nearly inevitable. Our research suggests that VAL-083 may offer a potential treatment option for ovarian cancer patients who are resistant to platinum-based chemotherapy and as a potential combination therapy with other agents. We believe the profile of VAL-083 offers the potential to capture meaningful market share in the multi-billion ovarian cancer market.
+ 
+Lung Cancer
+ 
+Lung cancer is the most common cancer in the world with 1.8 million cases in 2012, representing 13% of all cancers. According to the American Lung Association, lung cancer is the leading cancer killer in both men and women in the U.S. During 2018, an estimated 234,030 new cases of lung cancer were expected to be diagnosed.
+ 
+The potential of VAL-083 in the treatment of NSLSC has been established in both human clinical studies conducted by the NCI and by the drug’s commercial approval in China. We believe the profile of VAL-083 offers the potential to capture meaningful market share in the multi-billion NSCLC market.
+ 
+VAL-083 Manufacturing
+ 
+VAL-083 is a small-molecule chemotherapeutic. Chemical synthesis of the active pharmaceutical ingredient (“API”) was initially established by the NCI. We have made improvements to this process and have obtained patents on these improvements. The current manufacturing process involves fewer than five synthetic steps.
+ 
+VAL-083 drug product is a lyophilized (freeze-dried) formulation that is reconstituted for intravenous injection. We anticipate that overall cost of goods for an eventual commercial product will be similar to other injectable, small-molecule pharmaceuticals.
+ 
+Until recently, supply of VAL-083 for our clinical studies has been provided through our collaboration with Guangxi Wuzhou Pharmaceutical Company. Guangxi Wuzhou Pharmaceutical Company as a manufacturer has established a commercial-scale manufacturing process based on the North American process originally developed for the NCI that has been licensed by the CFDA for commercial supply of VAL-083 in China. However, to-date, they have not achieved the quality of systems necessary to meet FDA manufacturing standards.
+ 
+To address the need to meet FDA standards, we have engaged third-party contract manufacturers with the capabilities to establish the processes, procedures and quality systems necessary to meet U.S., Canadian, E.U. and other international manufacturing requirements in accordance with Good Manufacturing Practice (“cGMP”) regulations. We have now received drug supply manufactured under full cGMP conditions. We intend to use this drug supply for all future clinical studies.
+ 
+We have developed and patented certain intellectual property related to quality controls that are used in the release of VAL-083 for our clinical studies in the United States. This intellectual property is also required for product release under CFDA guidelines and we have granted access to our intellectual property for this purpose.
+ 
+24
+
+ 
+
+Research & Development Collaborations
+ 
+Guangxi Wuzhou Pharmaceutical Company
+ 
+Pursuant to a memorandum of understanding and collaboration agreement, dated October 25, 2012, we have established a strategic collaboration with Guangxi Wuzhou Pharmaceutical Company, a subsidiary of publicly traded Guangxi Wuzhou Zhongheng Group Co., Ltd. (SHG: 600252) (the “Guangxi Agreement”). VAL-083 is approved for the treatment of chronic myelogenous leukemia (“CML”) and lung cancer in China and Guangxi Wuzhou Pharmaceutical Company is the only manufacturer licensed by the CFDA to produce the product for the China market. Through the Guangxi Agreement, we have been provided drug product at the production price for our VAL-083 clinical studies in the United States and China and we have also secured certain commercial rights in China.
+ 
+Pursuant to the Guangxi Agreement, we granted to Guangxi Wuzhou Pharmaceutical Company a royalty-free license to certain of our intellectual property, as it relates to quality control and drug production methods for VAL-083, and we agreed that Guangxi Wuzhou Pharmaceutical Company will be our exclusive supplier of VAL-083 for clinical studies and commercial sales, subject to Guangxi Wuzhou Pharmaceutical Company obtaining and maintaining cGMP certification by the FDA, EMA or other applicable regulatory agencies, and Guangxi Wuzhou Pharmaceutical Company being able to meet volumes ordered by us. We will continue to work with Guangxi Wuzhou Pharmaceutical Company to achieve US FDA compliance in order to potentially have them as our future supplier for global sales of VAL-083.
+ 
+This Guangxi Agreement also provides us with certain exclusive commercial rights related to drug supply. Specifically, the Guangxi Agreement establishes an exclusive supply relationship between us and Guangxi Wuzhou Pharmaceutical Company for the Chinese market and all markets outside China. Guangxi Wuzhou Pharmaceutical Company agreed that it may not sell VAL-083 for markets outside of China to any other purchaser other than us, provided that, during the first three years following regulatory clearance for marketing of VAL-083 in a particular country or region, we meet proposed sales volumes set by Guangxi Wuzhou Pharmaceutical Company for the country or region. In addition, Guangxi Wuzhou Pharmaceutical Company granted us a pre-emptive right in China (subject to our acceptance of proposed sales volume and prices) to purchase VAL-083 produced by Guangxi Wuzhou Pharmaceutical Company.
+ 
+The term of the Guangxi Agreement (except as it relates to the exclusive rights in the China market) is indefinite, subject to termination upon written agreement of all parties, or if either party breaches any material term and fails to remedy such breach within 30 days of receipt of notice of the breach, or if any action to be taken thereunder is not agreed to by both parties, provided that such matter is referred to the chief executive officer of both parties, and they are unable to resolve such matter within 90 days. No payments have been made to date under the Guangxi Agreement.
+ 
+Duke University Collaboration
+ 
+In April 2017, we entered into a three-year collaboration with Duke University to evaluate VAL-083 as a front-line treatment for newly diagnosed patients with GBM. Under the terms of the collaboration, we will fund a series of preclinical studies to be conducted by Duke University’s Glioblastoma Drug Discovery Group to identify molecular characteristics of GBM tumors that are more likely to respond to VAL-083, and not the standard of care, temozolomide, as a front-line treatment or through combination therapies.
+Patents and Proprietary Rights
+ 
+Our success will depend in part on our ability to protect our existing product candidate and the products we acquire or license by obtaining and maintaining a strong proprietary position. To develop and maintain our position, we intend to continue relying upon patent protection, orphan drug status, Hatch-Waxman exclusivity, trade secrets, know-how, continuing technological innovations and licensing opportunities.
+ 
+25
+
+ 
+
+We have filed patent applications claiming the use of, and improvements related to VAL-083. Our patent filings also include proposed treatment regimens, improvements to the manufacturing process, formulation and composition of the active pharmaceutical ingredient, and finished dosage forms of VAL-083. We are prosecuting our patent applications in the United States and other jurisdictions which we deem important for the potential commercial success of VAL-083.
+ 
+Our patents and patent applications can be summarized in fourteen series as follows:
+ 
+
+● | Series I is generally directed to synthesis of VAL-083. 
+--+------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+--------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent No. 8,563,758 | Method Of Synthesis Of Substituted Hexitols Such As Dianhydrogalactitol | 
+United States Patent No. 8,921,585 | Method Of Synthesis Of Substituted Hexitols Such As Dianhydrogalactitol | 
+United States Patent No. 9,085,544 | Method Of Synthesis Of Substituted Hexitols Such As Dianhydrogalactitol | 
+United States Patent No. 9,630,938 | Method Of Synthesis Of Substituted Hexitols Such As Dianhydrogalactitol | 
+PCT Patent Application Serial No. PCT/US2011/048032 | Method Of Synthesis Of Substituted Hexitols Such As Dianhydrogalactitol. National phase applications pending and granted in various countries. | 2031 
+
+
+● | Series II is generally directed to use of VAL-083 to treat a range of diseases and conditions, including but not limited to malignancies. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+---------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent No. 9,066,918 | Compositions And Methods To Improve The Therapeutic Benefit Of Suboptimally Administered Chemical Compounds Including Substituted Hexitols Such As Dianhydrogalactitol And Diacetyldianhydrogalactitol | 
+United States Patent No. 9,901,563 | Compositions And Methods To Improve The Therapeutic Benefit Of Suboptimally Administered Chemical Compounds Including Substituted Hexitols Such As Dianhydrogalactitol And Diacetyldianhydrogalactitol | 
+
+
+● | Series III is generally directed to analytical methods for VAL-083. 
+--+------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+--------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent No. 9,759,698 | Improved Analytical Methods For Analyzing And Determining Impurities In Dianhydrogalactitol | 
+United States Patent No. 10,145,824 | Improved Analytical Methods For Analyzing And Determining Impurities In Dianhydrogalactitol | 
+United States Patent No. 9,029,164 | Improved Analytical Methods For Analyzing And Determining Impurities In Dianhydrogalactitol | 
+PCT Patent Application Serial No. PCT/IB2013/000793 | Improved Analytical Methods For Analyzing And Determining Impurities In Dianhydrogalactitol. National phase applications pending and granted in various countries. | 2033 
+
+
+Patent or Patent Application No. | Title | Expiry
+--------------------------------------------------------+--------------------------------------------------------------------------------------------------+-------
+PCT Patent Application Serial No. PCT/US2014/066087 | Improved Analytical Methods For Analyzing And Determining Impurities In Dianhydrogalactitol. | 2034 
+
+
+
+26
+
+ 
+
+
+● | Series IV is generally directed to the use of VAL-083 to treat GBM or medulloblastoma. 
+--+-------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+-----------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 16/242,752 | Use Of Substituted Hexitols Including Dianhydrogalactitol And Analogs To Treat Neoplastic Disease And Cancer Stem Cells Including Glioblastoma Multiforme And Medulloblastoma | 
+United States Patent No. 9,687,466 | Use Of Substituted Hexitols Including Dianhydrogalactitol And Analogs To Treat Neoplastic Disease And Cancer Stem Cells Including Glioblastoma Multiforme And Medulloblastoma | 
+United States Patent No. 10,201,521 | Use Of Substituted Hexitols Including Dianhydrogalactitol And Analogs To Treat Neoplastic Disease And Cancer Stem Cells Including Glioblastoma Multiforme And Medulloblastoma | 
+PCT Patent Application Serial No. PCT/US2013/022505 | Use Of Substituted Hexitols Including Dianhydrogalactitol And Analogs To Treat Neoplastic Disease And Cancer Stem Cells Including Glioblastoma Multiforme And Medulloblastoma. National phase applications pending in various countries. | 2033 
+
+
+● | Series V is generally directed to the veterinary use of VAL-083. 
+--+---------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+---------------------------------------+-------------------------------------------------------------------------------------------------------------------+-------
+United States Patent No. 9,814,693 | Veterinary Use Of Dianhydrogalactitol, Diacetyldianhydrogalactitol, And Dibromodulcitol To Treat Malignancies | 
+
+
+● | Series VI is generally directed to the use of VAL-083 to treat tyrosine-kinase-inhibitor-resistant malignancies. 
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+-----------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 14/409,909 | Methods For Treating Tyrosine-Kinase-Inhibitor-Resistant Malignancies In Patients With Genetic Polymorphisms Or Ahi1 Dysregulations Or Mutations Employing Dianhydrogalactitol, Diacetyldianhydrogalactitol, Dibromodulcitol, Or Analogs Or Derivatives Thereof | 
+PCT Patent Application Serial No. PCT/US2013/047320 | Methods For Treating Tyrosine-Kinase-Inhibitor-Resistant Malignancies In Patients With Genetic Polymorphisms Or Ahi1 Dysregulations Or Mutations Employing Dianhydrogalactitol, Diacetyldianhydrogalactitol, Dibromodulcitol, Or Analogs Or Derivatives Thereof. National phase applications pending in various countries. | 2033 
+
+
+
+27
+
+ 
+
+
+● | Series VII is generally directed to the use of VAL-083 to treat recurrent malignant glioma and progressive secondary brain tumor. 
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 14/682,226 | Use Of Dianhydrogalactitol And Analogs And Derivatives Thereof To Treat Recurrent Malignant Glioma Or Progressive Secondary Brain Tumor | 
+PCT Application Serial No. PCT/US2014/040461 | Use Of Dianhydrogalactitol And Analogs And Derivatives Thereof To Treat Recurrent Malignant Glioma Or Progressive Secondary Brain Tumor. National phase applications pending and granted in various countries. | 2034 
+
+
+● | Series VIII is generally directed to the use of VAL-083 to treat non-small-cell lung cancer. 
+--+-------------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+-----------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 14/710,240 | Use of Dianhydrogalactitol and Analogs or Derivatives Thereof in Combination With Platinum-Containing Antineoplastic Agents to Treat Non Small-Cell Carcinoma of the Lung and Brain Metastases | 
+PCT Patent Application Serial No. PCT/US2015/024462 | Use of Dianhydrogalactitol and Analogs or Derivatives Thereof to Treat Non-Small Cell Carcinoma of the Lung and Ovarian Cancer. National phase applications pending in various countries. | 2035 
+
+
+● | Series IX is generally directed to the use of VAL-083 and radiation to treat NSCLC and GBM. 
+--+------------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+-----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 15/525,933 | Dianhydrogalactitol Together with Radiation to Treat Non-Small-Cell Carcinoma of the Lung and Glioblastoma Multiforme. | 
+PCT Patent Application Serial No. PCT/US2015/059814 | Dianhydrogalactitol Together with Radiation to Treat Non-Small-Cell Carcinoma of the Lung and Glioblastoma Multiforme. National phase applications pending in various countries. | 2035 
+
+
+● | Series X is generally directed to the use of VAL-083 in NSCLC and ovarian cancer: 
+--+--------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+-----------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 15/759,104 | Use of Dianhydrogalactitol And Derivatives Thereof in the Treatment of Glioblastoma, Lung Cancer and Ovarian Cancer. | 
+
+
+● | Series XI is generally directed to the use of VAL-083 in the treatment of CNS malignancies: 
+--+------------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+-----------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 15/624,200 | Use of Dianhydrogalactitol or Derivatives and Analogs Thereof for Treatment of Pediatric Central Nervous System Malignancies. | 
+United States Patent Application Serial No. 15/771,631 | Use of Dianhydrogalactitol or Derivatives and Analogs Thereof for Treatment of Pediatric Central Nervous System Malignancies. | 
+
+ 
+28
+
+ 
+
+
+● | Series XII is generally directed to the analysis and resolution of VAL-083 preparations: 
+--+---------------------------------------------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------
+United States Patent Application Serial No. 15/778,546 | Methods for analysis and Resolution of Preparations of Dianhydrogalactitol and Derivatives and Analogs Thereof. | 
+PCT Patent Application Serial No. PCT/US2016/063362 | Methods for analysis and Resolution of Preparations of Dianhydrogalactitol and Derivatives and Analogs Thereof. National phase applications pending in various countries. | 2036 
+
+
+● | Series XIII is generally directed to combinations: 
+--+-------------------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+--------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------
+PCT Patent Application Serial No. PCT/US2018/030391 | Use of Dianhydrogalactitol and Analogs and Derivatives in Combination VEGF inhibitors to Treat Cancer | 2038 
+
+
+Patent or Patent Application No. | Title | Expiry
+--------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+-------
+PCT Patent Application Serial No. PCT/US2018/020314 | Use of Dianhydrogalactitol and Analogs and Derivatives in Combination with a P53 Modulator or a PARP Inhibitor | 2038 
+
+
+● | Series XIV is generally directed to DIPG: 
+--+----------------------------------------------
+
+
+Patent or Patent Application No. | Title | Expiry
+--------------------------------------------------------+--------------------------------------------------------------------------------+-------
+PCT Patent Application Serial No. PCT/IB2018/001357 | Dianhydrogalactitol for the Treatment of Diffuse Intrinsic Pontine Gliomas | 2038 
+
+ 
+One of the inventors listed in our Series IX applications is an employee of the University of California, San Francisco. If a patent issues from a patent application in this series with a claim that the University of California employee conceived of, in whole or in part, then the Regents of the University of California will share ownership of any such patent with us. Our research agreements with the University of California address this issue by providing us with an exclusive option, for a limited period of time, to negotiate a royalty-bearing exclusive license for commercialization of the invention covered by that patent.
+ 
+In addition to patent protection, we may also seek orphan drug status whenever it is available. If a product which has an orphan drug designation subsequently receives the first regulatory approval for the indication for which it has such designation, the product is entitled to orphan exclusivity, meaning that the applicable regulatory authority may not approve any other applications to market the same drug for the same indication, except in very limited circumstances, for a period of seven years in the U.S. and Canada, and 10 years in the E.U. Orphan drug designation does not prevent competitors from developing or marketing different drugs for the same indication or the same drug for a different clinical indication.
+ 
+VAL-083 has been granted protection under the Orphan Drug Act by the FDA and the European Medicines Agency for the treatment of gliomas, including GBM. The FDA has also granted Orphan Drug protection to VAL-083 for the treatment of medulloblastoma and ovarian cancer.
+ 
+In February 2012, the FDA granted orphan drug status to VAL-083 for the treatment of glioma. In January 2013, the EMA also granted orphan drug protection to VAL-083 for the treatment of glioma. In the spring of 2016, the FDA Office of Orphan Products Development granted orphan drug designations to VAL-083 for the treatment of ovarian cancer and medulloblastoma.
+ 
+29
+
+ 
+
+In addition to our patents and orphan drug protection, we intend to rely on the Hatch-Waxman Amendments for five years of data exclusivity for VAL-083.Under the Hatch-Waxman Amendments, newly approved drugs and indications benefit from a statutory period of non-patent marketing exclusivity. These amendments provide five-year data exclusivity to the first applicant to gain approval of an NDA for a new chemical entity, meaning that the FDA has not previously approved any other new drug containing the same active ingredient. The Hatch-Waxman Amendments prohibit the approval of an abbreviated new drug application, also known as an ANDA or generic drug application, during the five-year exclusive period if no patent is listed. If there is a patent listed and the ANDA applicant certifies that the NDA holder’s listed patent for the product is invalid or will not be infringed, the ANDA can be submitted four years after NDA approval. Protection under the Hatch-Waxman Amendments will not prevent the filing or approval of another full NDA; however, the applicant would be required to conduct its own pre-clinical studies and adequate and well-controlled clinical studies to demonstrate safety and effectiveness. The Hatch-Waxman Amendments also provide three years of data exclusivity for the approval of NDAs with new clinical studies for previously approved drugs and supplemental NDAs, for example, for new indications, dosages or strengths of an existing drug, if new clinical investigations were conducted by or on behalf of the sponsor and were essential to the approval of the application. This three-year exclusivity covers only the new changes associated with the supplemental NDA and does not prohibit the FDA from approving ANDAs for drugs containing the original active ingredient.
+ 
+We also rely on trade secret protection for our confidential and proprietary information. We believe that the substantial costs and resources required to develop technological innovations, such as the manufacturing processes associated with VAL-083, will help us to protect the competitive advantage of our product candidate.
+ 
+The protection of intellectual property rights in China (where our clinical product candidate, VAL-083, is manufactured pursuant to a collaboration agreement with the only manufacturer presently licensed by the CFDA to produce the product for the China market, and where VAL-03 is approved for the treatment of CML and lung cancer) is relatively weak compared to the United States, which may negatively affect our ability to generate revenue from VAL-083 in China.
+ 
+Our policy is to require our employees, consultants, outside scientific collaborators, sponsored researchers and other advisors to execute confidentiality agreements upon the commencement of employment or consulting relationships with us. These agreements provide that all confidential information developed or made known to the individual during the course of the individual’s relationship with us is to be kept confidential and not disclosed to third parties except in specific circumstances. In the case of employees and consultants, the agreements provide that all inventions conceived by the individual shall be our exclusive property.
+ 
+Government Regulation and Product Approval
+ 
+Regulation by governmental authorities in the U.S. and other countries is a significant factor, affecting the cost and time of our research and product development activities, and will be a significant factor in the manufacture and marketing of any approved products. Our product candidates will require regulatory approval by governmental agencies prior to commercialization. In particular, our products are subject to rigorous preclinical and clinical testing and other approval requirements by the FDA and similar regulatory authorities in other countries. Various statutes and regulations also govern or influence the manufacturing, safety, reporting, labeling, transport and storage, record keeping and marketing of our products. The lengthy process of seeking these approvals, and the subsequent compliance with applicable statutes and regulations, require the expenditure of substantial resources. Any failure by us to obtain, or any delay in obtaining, the necessary regulatory approvals could harm our business.
+ 
+The regulatory requirements relating to the testing, manufacturing and marketing of our products may change from time to time and this may impact our ability to conduct clinical studies and the ability of independent investigators to conduct their own research with support from us.
+ 
+The clinical development, manufacturing and marketing of our products are subject to regulation by various authorities in the U.S., the E.U. and other countries, including, in the U.S., the FDA, in Canada, Health Canada, and, in the E.U., the EMA. The Federal Food, Drug, and Cosmetic Act, the Public Health Service Act in the U.S. and numerous directives, regulations, local laws and guidelines in Canada and the E.U. govern the testing, manufacture, safety, efficacy, labeling, storage, record keeping, approval, advertising and promotion of our products. Product development and approval within these regulatory frameworks takes a number of years and involves the expenditure of substantial resources.
+ 
+30
+
+ 
+
+Regulatory approval will be required in all the major markets in which we seek to develop our products. At a minimum, approval requires the generation and evaluation of data relating to the quality, safety, and efficacy of an investigational product for its proposed use. The specific types of data required and the regulations relating to this data will differ depending on the territory, the drug involved, the proposed indication and the stage of development.
+ 
+In general, new chemical entities are tested in animals until adequate evidence of safety is established to support the proposed clinical study protocol designs. Clinical studies for new products are typically conducted in three sequential phases that may overlap. In Phase 1, the initial introduction of the pharmaceutical into either healthy human volunteers or patients with the disease (20 to 50 subjects), the emphasis is on testing for safety (adverse effects), dosage tolerance, metabolism, distribution, excretion and clinical pharmacology. Phase 2 involves studies in a limited patient population (50 to 200 patients) to determine the initial efficacy of the pharmaceutical for specific targeted indications, to determine dosage tolerance and optimal dosage and to identify possible adverse side effects and safety risks. Once a compound shows preliminary evidence of some effectiveness and is found to have an acceptable safety profile in Phase 2 evaluations, Phase 3 studies are undertaken to more fully evaluate clinical outcomes in a larger patient population in adequate and well-controlled studies designed to yield statistically sufficient clinical data to demonstrate efficacy and safety.
+ 
+In the U.S., specific preclinical data, manufacturing and chemical data, as described above, need to be submitted to the FDA as part of an IND application, which, unless the FDA objects, will become effective 30 days following receipt by the FDA. Phase 1 studies in human volunteers may commence only after the application becomes effective. Prior regulatory approval for human healthy volunteer studies is also required in member states of the E.U. Currently, in each member state of the E.U., following successful completion of Phase 1 studies, data are submitted in summarized format to the applicable regulatory authority in the member state in respect of applications for the conduct of later Phase 2 studies. The regulatory authorities in the E.U. typically have between one and three months in which to raise any objections to the proposed study, and they often have the right to extend this review period at their discretion. In the U.S., following completion of Phase 1 studies, further submissions to regulatory authorities are necessary in relation to Phase 2 and 3 studies to update the existing IND.
+ 
+Authorities may require additional data before allowing the studies to commence and could demand that the studies be discontinued at any time if there are significant safety issues. In addition to the regulatory review, studies involving human subjects must be approved by an independent body. The exact composition and responsibilities of this body will differ from country to country. In the U.S., for example, each study will be conducted under the auspices of an independent institutional review board (IRB) at each institution at which the study is conducted. The IRB considers among other things, the design of the study, ethical factors, the privacy of protected health information as defined under the Health Insurance Portability and Accountability Act, the safety of the human subjects and the possible liability risk for the institution. Equivalent rules to protect subjects’ rights and welfare apply in each member state of the E.U. where one or more independent ethics committees, which typically operate similarly to an IRB, will review the ethics of conducting the proposed research. Other regulatory authorities around the rest of the world have slightly differing requirements involving both the execution of clinical studies and the import/export of pharmaceutical products. It is our responsibility to ensure we conduct our business in accordance with the regulations of each relevant territory.
+ 
+In order to gain marketing approval, we must submit a dossier to the relevant authority for review, which is known in the U.S. as a new drug application (NDA) and in the E.U. as a marketing authorization application (MAA). The format is usually specific and laid out by each authority, although in general it will include information on the quality of the chemistry, manufacturing and pharmaceutical aspects of the product as well as the nonclinical and clinical data. Once the submitted NDA is accepted for filing by the FDA, it undertakes the review process that currently takes on average 10 months, unless an expedited priority review is granted which takes six months to complete. Approval can take several months to several years, if multiple 10-month review cycles are needed before final approval is obtained, if at all.
+ 
+The approval process can be affected by a number of factors. The NDA may require additional preclinical, manufacturing data or clinical studies which may be requested at the end of the 10-month NDA review cycle, thereby delaying approval until additional data are submitted and may involve substantial unbudgeted costs.
+ 
+31
+
+ 
+
+In addition to obtaining approval for each product, in many cases each drug manufacturing facility must be approved. The regulatory authorities usually will conduct an inspection of relevant manufacturing facilities, and review manufacturing procedures, operating systems and personnel qualifications. Further inspections may occur over the life of the product. An inspection of the clinical investigation sites by a competent authority may be required as part of the regulatory approval procedure. As a condition of marketing approval, the regulatory agency may require post-marketing surveillance to monitor for adverse effects or other additional studies as deemed appropriate. After approval for the initial indication, further clinical studies may be necessary to gain approval for any additional indications. The terms of any approval, including labeling content, may be more restrictive than expected and could affect the marketability of a product.
+ 
+The FDA offers a number of regulatory mechanisms that provide expedited or accelerated approval procedures for selected drugs in the indications on which we are focusing our efforts. These include accelerated approval under Subpart H of the agency’s NDA approval regulations, fast track drug development procedures, breakthrough drug designation and priority review. At this time, we have not determined whether any of these approval procedures will apply to our current drug candidate.
+ 
+By leveraging existing preclinical and clinical safety and efficacy data, we seek to build upon an existing knowledge base to accelerate our research. In addition, through our focus on end-stage population which has no current treatment options, regulatory approval for commercialization may sometimes be achieved in an accelerated manner. Accelerated approval by the FDA in this category may be granted on objective response rates and duration of responses rather than demonstration of survival benefit. As a result, studies of drugs to treat end-stage refractory cancer indications have historically involved fewer patients and generally have been faster to complete than studies of drugs for other indications. We are aware that the FDA and other similar agencies are regularly reviewing the use of objective endpoints for commercial approval and that policy changes may impact the size of studies required for approval, timelines and expenditures significantly.
+ 
+The U.S., E.U. and other jurisdictions may grant orphan drug designation to drugs intended to treat a “rare disease or condition,” which, in the U.S., is generally a disease or condition that affects no more than 200,000 individuals. In the E.U., orphan drug designation can be granted if: the disease is life threatening or chronically debilitating and affects no more than 50 in 100,000 persons in the E.U.; without incentive, it is unlikely that the drug would generate sufficient return to justify the necessary investment; and no satisfactory method of treatment for the condition exists or, if it does, the new drug will provide a significant benefit to those affected by the condition. If a product that has an orphan drug designation subsequently receives the first regulatory approval for the indication for which it has such designation, the product is entitled to orphan exclusivity, meaning that the applicable regulatory authority may not approve any other applications to market the same drug for the same indication, except in very limited circumstances, for a period of seven years in the U.S. and 10 years in the E.U. Orphan drug designation does not prevent competitors from developing or marketing different drugs for the same indication or the same drug for different indications. Orphan drug designation must be requested before submitting an NDA or MAA. After orphan drug designation is granted, the identity of the therapeutic agent and its potential orphan use are publicly disclosed. Orphan drug designation does not convey an advantage in, or shorten the duration of, the review and approval process. However, this designation provides an exemption from marketing and authorization fees charged to NDA sponsors under the Prescription Drug Act (PDUFA Fees).
+ 
+Maintaining substantial compliance with appropriate federal, state and local statutes and regulations requires the expenditure of substantial time and financial resources. Drug manufacturers are required to register their establishments with the FDA and certain state agencies, and after approval, the FDA and these state agencies conduct periodic unannounced inspections to ensure continued compliance with ongoing regulatory requirements, including cGMPs. In addition, after approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further FDA review and approval. The FDA may require post-approval testing and surveillance programs to monitor safety and the effectiveness of approved products that have been commercialized. Any drug products manufactured or distributed by us pursuant to FDA approvals are subject to continuing regulation by the FDA, including:
+ 
+
+● | record-keeping requirements;
+--+-----------------------------
+
+
+● | reporting of adverse experiences with the drug;
+--+------------------------------------------------
+
+
+● | providing the FDA with updated safety and efficacy information; 
+--+--------------------------------------------------------------------
+
+ 
+32
+
+ 
+
+
+● | reporting on advertisements and promotional labeling; 
+--+----------------------------------------------------------
+
+
+● | drug sampling and distribution requirements; and 
+--+-----------------------------------------------------
+
+
+● | complying with electronic record and signature requirements. 
+--+-----------------------------------------------------------------
+
+ 
+In addition, the FDA strictly regulates labeling, advertising, promotion and other types of information on products that are placed on the market. There are numerous regulations and policies that govern various means for disseminating information to health-care professionals as well as consumers, including to industry sponsored scientific and educational activities, information provided to the media and information provided over the Internet. Drugs may be promoted only for the approved indications and in accordance with the provisions of the approved label.
+ 
+The FDA has very broad enforcement authority and the failure to comply with applicable regulatory requirements can result in administrative or judicial sanctions being imposed on us or on the manufacturers and distributors of our approved products, including warning letters, refusals of government contracts, clinical holds, civil penalties, injunctions, restitution and disgorgement of profits, recall or seizure of products, total or partial suspension of production or distribution, withdrawal of approvals, refusal to approve pending applications, and criminal prosecution resulting in fines and incarceration. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses, and a company that is found to have improperly promoted off-label uses may be subject to significant liability. In addition, even after regulatory approval is obtained, later discovery of previously unknown problems with a product may result in restrictions on the product or even complete withdrawal of the product from the market.
+ 
+Sales of our product candidates, if approved, will depend, in part, on the extent to which such products will be covered by third-party payors, such as government health care programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly limiting coverage or reducing reimbursements for medical products and services. In addition, the U.S. government, state legislatures and foreign governments have continued implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Third-party payors decide which therapies they will pay for and establish reimbursement levels. Third-party payors often rely upon Medicare coverage policy and payment limitations in setting their own coverage and reimbursement policies. However, decisions regarding the extent of coverage and amount of reimbursement to be provided for any drug candidates that we develop will be made on a payor-by-payor basis. Each payor determines whether or not it will provide coverage for a therapy, what amount it will pay the manufacturer for the therapy, and on what tier of its formulary it will be placed. The position on a payor’s list of covered drugs, or formulary, generally determines the co-payment that a patient will need to make to obtain the therapy and can strongly influence the adoption of such therapy by patients and physicians. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. Decreases in third-party reimbursement for our product candidates or a decision by a third-party payor to not cover our product candidates could reduce physician usage of our product candidates, once approved, and have a material adverse effect on our sales, results of operations and financial condition.
+ 
+Because of our current and future arrangements with healthcare professionals, principal investigators, consultants, customers and third-party payors, we will also be subject to healthcare regulation and enforcement by the federal government and the states and foreign governments in which we will conduct our business, including our clinical research, proposed sales, marketing and educational programs. Failure to comply with these laws, where applicable, can result in the imposition of significant civil penalties, criminal penalties, or both. The U.S. laws that may affect our ability to operate, among others, include: the federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act, which governs the conduct of certain electronic healthcare transactions and protects the security and privacy of protected health information; certain state laws governing the privacy and security of health information in certain circumstances, some of which are more stringent than HIPAA and many of which differ from each other in significant ways and may not have the same effect, thus complicating compliance efforts; the federal healthcare programs’ Anti-Kickback Statute, which prohibits, among other things, persons from knowingly and willfully soliciting, receiving, offering or paying remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual for, or the purchase, order or recommendation of, any good or service for which payment may be made under federal healthcare programs such as the Medicare and Medicaid programs; federal false claims laws which prohibit, among other things, individuals or entities from knowingly presenting, or causing to be presented, claims for payment from Medicare, Medicaid, or other third-party payors that are false or fraudulent; federal criminal laws that prohibit executing a scheme to defraud any healthcare benefit program or making false statements relating to healthcare matters; the Physician Payments Sunshine Act, which requires manufacturers of drugs, devices, biologics, and medical supplies to report annually to the U.S. Department of Health and Human Services information related to payments and other transfers of value to physicians (defined to include doctors, dentists, optometrists, podiatrists and chiropractors) and teaching hospitals, and ownership and investment interests held by physicians and their immediate family members; and state law equivalents of each of the above federal laws, such as anti-kickback and false claims laws which may apply to items or services reimbursed by any third-party payor, including commercial insurers.
+ 
+33
+
+ 
+
+In addition, many states have similar laws and regulations, such as anti-kickback and false claims laws that may be broader in scope and may apply regardless of payor, in addition to items and services reimbursed under Medicaid and other state programs. Additionally, to the extent that our product is sold in a foreign country, we may be subject to similar foreign laws.
+ 
+We are also subject to numerous environmental and safety laws and regulations, including those governing the use and disposal of hazardous materials. The cost of compliance with and any violation of these regulations could have a material adverse effect on our business and results of operations. Although we believe that our safety procedures for handling and disposing of these materials comply with the standards prescribed by state and federal regulations, accidental contamination or injury from these materials may occur. Compliance with laws and regulations relating to the protection of the environment has not had a material effect on our capital expenditures or our competitive position. However, we are not able to predict the extent of government regulation, and the cost and effect thereof on our competitive position, which might result from any legislative or administrative action pertaining to environmental or safety matters.
+ 
+Competition
+ 
+The development and commercialization of new drug products is highly competitive. We expect that we will face significant competition from major pharmaceutical companies, specialty pharmaceutical companies and biotechnology companies worldwide with respect to VAL-083 and any other product candidates that we may seek to develop or commercialize in the future. Specifically, due to the large unmet medical need, global demographics and relatively attractive reimbursement dynamics, the oncology market is fiercely competitive and there are a number of large pharmaceutical and biotechnology companies that currently market and sell products or are pursuing the development of product candidates for the treatment of cancer. Our competitors may succeed in developing, acquiring or licensing technologies and drug products that are more effective, have fewer or more tolerable side effects or are less costly than any product candidates that we are currently developing or that we may develop, which could render our product candidates obsolete and noncompetitive.
+ 
+All of the top ten global pharmaceutical companies and many of the mid-size pharmaceutical companies have a strong research and development and commercial presence in oncology. Smaller companies also focus on oncology, including companies such as ARIAD Pharmaceuticals, Inc., Agios Pharmaceuticals, Inc., BIND Therapeutics, Inc., Clovis Oncology, Inc., Endocyte, Inc., Epizyme, Inc., ImmunoGen, Inc., Incyte Corporation, Infinity Pharmaceuticals, Inc., MacroGenics, Inc., Merrimack Pharmaceuticals, Inc., OncoMed Pharmaceuticals, Inc., Onconova Therapeutics, Inc., Pharmacyclics, Inc., Puma Biotechnology, Inc., Seattle Genetics, Inc. and TESARO, Inc.
+ 
+Several companies are marketing and developing oncology immunotherapy products. Companies with approved marketed oncology products for GBM are Merck (Temodar ® ) and Genentech (Avastin ® ). Companies with oncology immunotherapy product candidates in clinical development include, but are not limited to, Northwest Biotherapeutics (DCVax-L), Celldex Therapeutics (Rindopepimut (CDX-110)) and ImmunoCellular Therapeutics (ICT-107).
+ 
+34
+
+ 
+
+Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize products that are safer, more effective, have fewer or less severe side effects, are more convenient or are less expensive than any products that we may develop. Our competitors also may obtain FDA or other marketing approval for their products before we are able to obtain approval for ours, which could result in our competitors establishing a strong market position before we are able to enter the market.
+ 
+Many of our existing and potential future competitors have significantly greater financial resources and expertise in research and development, manufacturing, preclinical testing, conducting clinical studies, obtaining marketing approvals and marketing approved products than we do. Mergers and acquisitions in the pharmaceutical and biotechnology industries may result in even more resources being concentrated among a smaller number of our competitors. Smaller or early stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel and establishing clinical study sites and patient registration for clinical studies, as well as in acquiring technologies complementary to, or necessary for, our programs.
+ 
+We expect that our ability to compete effectively will depend upon our ability to:
+ 
+
+● | successfully and rapidly complete adequate and well-controlled clinical studies that demonstrate statistically significant safety and efficacy and to obtain all requisite regulatory approvals in a cost-effective manner; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | maintain a proprietary position for our manufacturing processes and other technology; 
+--+------------------------------------------------------------------------------------------
+
+
+● | produce our products in accordance with FDA and international regulatory guidelines; 
+--+-----------------------------------------------------------------------------------------
+
+
+● | attract and retain key personnel; and
+--+--------------------------------------
+
+
+● | build or access an adequate sales and marketing infrastructure for any approved products. 
+--+----------------------------------------------------------------------------------------------
+
+ 
+Failure to do one or more of these activities could have an adverse effect on our business, financial condition or results of operations.
+ 
+Corporate History
+ 
+We are a Nevada corporation formed on June 24, 2009 under the name Berry Only Inc. On January 25, 2013, we entered into and closed an exchange agreement (the “Exchange Agreement”), with Del Mar Pharmaceuticals (BC) Ltd. (“Del Mar (BC)”), 0959454 B.C. Ltd. (“Callco”), and 0959456 B.C. Ltd. (“Exchangeco”) and the security holders of Del Mar (BC). Upon completion of the Exchange Agreement, Del Mar (BC) became a wholly-owned subsidiary of ours (the “Reverse Acquisition”).
+ 
+DelMar Pharmaceuticals, Inc. is the parent company of Del Mar (BC), a British Columbia, Canada corporation incorporated on April 6, 2010, which is a clinical stage company with a focus on the development of drugs for the treatment of cancer. We are also the parent company to Callco and Exchangeco which are British Columbia, Canada corporations. Callco and Exchangeco were formed to facilitate the Reverse Acquisition.
+ 
+On May 20, 2016, we effected a 1-for-4 reverse split of our common stock. All share amounts in this report give effect to the reverse split unless otherwise indicated.
+ 
+On May 8, 2019, we effected a one-for-ten reverse stock split (the “Reverse Stock Split”) of our issued and outstanding and authorized common stock. All per share amounts and number of shares of common stock in this report on Form 10-K reflect the Reverse Stock Split. The Reverse Stock Split does not affect the our authorized preferred stock of 5,000,000 shares; except that, pursuant to the terms of the Certificate of Designations of Series B Convertible Preferred Stock for the issued and outstanding shares of our Series B Convertible Preferred Stock, par value $0.001 per share (the “Series B Preferred Stock”), the conversion price at which shares of Series B Preferred Stock may be converted into shares of common stock will be proportionately adjusted to reflect the Reverse Stock Split.
+ 
+On June 26, 2019, we amended our articles of incorporation, as amended, to increase the number of authorized shares of common stock from 7,000,000 to 95,000,000 shares.
+ 
+35
+
+ 
+
+Research and Development
+ 
+During the years ended June 30, 2019 and 2018, we recognized $3,662,056 and $7,132,952, respectively, in research and development expenses.
+ 
+Employees
+ 
+We have two full-time employees and retain the services of approximately 15 persons on an independent contractor/consultant and contract-employment basis. As such, we currently operate in a “virtual” corporate structure in order to minimize fixed personnel costs.
+Available Information
+ 
+We maintain an internet website at www.delmarpharma.com. We do not incorporate the information on our website into this report and you should not consider it part of this report.

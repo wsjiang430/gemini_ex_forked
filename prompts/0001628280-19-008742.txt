@@ -1,0 +1,327 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. BUSINESS
+Special Cautionary Notice Regarding Forward-Looking Statements 
+We believe that it is important to communicate our future expectations to our shareholders and to the public. This report contains forward-looking statements, including, in particular, statements about our goals, plans, objectives, beliefs, expectations and prospects, under the headings “Item 1. Business” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this report. You can identify these statements by forward-looking words such as “anticipate,” “intend,” “plan,” “continue,” “could,” “grow,” “may,” “potential,” “predict,” “strive,” “will,” “seek,” “estimate,” “believe,” “expect,” and similar expressions that convey uncertainty of future events or outcomes. Any forward-looking statements herein are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements concerning future: 
+
+• | results of operations;
+
+
+• | liquidity, cash flow and capital expenditures;
+
+
+• | demand for and pricing of our products and services;
+
+
+• | viability and effectiveness of strategic alliances;
+
+
+• | industry conditions and market conditions;
+
+
+• | acquisition activities and the effect of completed acquisitions; and
+
+
+• | general economic conditions.
+
+Although we believe that the goals, plans, expectations, and prospects reflected by our forward-looking statements are reasonable in view of the information currently available to us, those statements are not guarantees of performance. There are many factors that could cause our actual results to differ materially from those anticipated by forward-looking statements made herein. These factors include, but are not limited to, continuing U.S. and global economic uncertainty, the timing and degree of business recovery, unpredictability and the irregular pattern of future revenues, dependence on particular market segments or customers, competitive pressures, delays, product liability and warranty claims and other risks associated with new product development, undetected software errors, market acceptance of our products, technological complexity, the challenges and risks associated with integration of acquired product lines, companies and services, as well as a number of other risk factors that could affect our future performance. Factors that could cause or contribute to such differences include, but are not limited to, those we discuss under the section captioned “Risk Factors” in Item 1A. of this Form 10-K as well as the cautionary statements and other factors that we discuss in other sections of this Form 10-K. 
+Company Overview
+American Software, Inc. ("American Software" or the "Company") was incorporated in Georgia in 1970. The Company is headquartered in Atlanta, Georgia with U.S. offices in Boston, Chicago, Dallas, Indianapolis, New York, St. Louis, Miami, Pittsburgh and San Diego; and international offices in the United Kingdom, Sweden, Germany, The Netherlands, India, New Zealand and Australia. 
+We provide our software and services solutions through three major operating segments; (1) Supply Chain Management (“SCM”), (2) Information Technology Consulting ("IT Consulting") and (3) Other. In addition to our core SCM software business, we also offer technology staffing and consulting services through our wholly-owned subsidiary, The Proven Method, Inc., in the IT Consulting segment, and we continue to provide software and services to our legacy enterprise resource planning ("ERP") customers included in the Other segment. 
+Our primary operating units under our SCM segment include Logility, Inc., New Generation Computing, Inc. ("NGC"), Demand Management, Inc. ("DMI"), and Halo Business Intelligence. Logility and New Generation Computing are each a wholly-owned subsidiary of the Company. Demand Management, Inc. is a wholly-owned subsidiary of Logility, Inc. and Halo Business Intelligence is a division of Logility, Inc.
+American Software enables enterprises to accelerate their operations from product concept to customer availability. Our four brands - Logility, Demand Solutions, Halo and NGC Software - provide a single platform spanning eight supply chain process areas, including demand optimization, inventory optimization, supply optimization, retail optimization, quality and compliance, product lifecycle management ("PLM"), sourcing management and integrated business planning. Our 
+1
+
+platform includes advanced analytics and is fueled by supply chain master data, allowing for the automation of critical business processes through the application of artificial intelligence ("AI") and machine learning algorithms to a variety of internal and external data streams. 
+We believe enterprises are facing unprecedented rates of change and disruption across their operations. Increasing customer expectations for convenience and personalization, fast and free delivery and product freshness are forcing enterprises to adapt or be left behind. Given constraints arising from a shortage of skilled supply chain talent and a desire to keep costs at a minimum, we expect enterprises to embrace digital transformation initiatives to meet these challenges. Our solution collapses the business cycle time required from product concept to customer availability. Our platform enables organizations to create a digital twin of their physical supply chain network and to improve the speed and agility of their operations by implementing automated planning processes that evaluate multiple business scenarios. These processes continuously analyze business and market signals to better inform product design and development, increase forecast accuracy, optimize inventory across the supply chain and in-store and ensure high customer satisfaction. 
+Our platform is highly regarded by customers and industry analysts alike. We have been positioned in the Leaders quadrant in Gartner, Inc.’s (“Gartner”) May 7, 2019 report, Magic Quadrant for Sales and Operations Planning Systems of Differentiation, and August 21, 2018 report, Magic Quadrant for Supply Chain Planning System of Record. We believe our platform is rated highly due to our flexible advanced analytics, underlying Software as a Service ("SaaS") architecture, ease of integration with third-party systems, lower total cost of ownership relative to competitors and the broad scope of supply chain planning functions supported. 
+We serve approximately 1,100 customers located in more than 80 countries and largely concentrated within key vertical markets, including apparel and other soft goods, chemical and process, consumer packaged goods, durable goods, life sciences and retail. Our solutions are marketed and sold through a direct sales team as well as an indirect global value–added reseller ("VAR") distribution network. While our solutions may be deployed in the cloud or on-premise, customers are increasingly opting for our cloud-based SaaS deployments. We further support our customers with an array of consulting, implementation and training services as well as technical support and hosting. 
+We derive revenues from four sources: subscriptions, software licenses, maintenance and services. We generally determine SaaS subscription and software license fees based on the breadth of functionality, users and/or divisions subscribed and/or licensed. Services and other revenues consist primarily of fees from software implementation, training, consulting services, SaaS, hosting, and managed services. We bill primarily under time and materials arrangements and recognize revenues as we perform services. Subscription and maintenance agreements typically are for a three to five-year term, commencing at the time of the initial contract. We generally bill these fees annually in advance and then recognize the resulting revenues ratably over the term of the agreement. Deferred revenues represent advance payments or billings for subscriptions, software licenses, services and maintenance billed in advance of the time we recognize the related revenues. 
+Market Opportunity
+Today’s manufacturers, distributors and retailers must respond to rising consumer expectations to buy anywhere, deliver anywhere and return anywhere even as global economic conditions and competitive pressures force businesses to reduce costs, decrease order cycle times and improve operating efficiencies. To meet these demands, we believe businesses must dramatically improve the performance of their supply chains, which can only be achieved through automation, artificial intelligence and advanced analytics. We leverage artificial intelligence and machine learning algorithms throughout our supply chain management software platform, enabling enterprises to accelerate the cycle time from product concept to customer availability. 
+Supply chain management refers to the process of managing the complex global network of relationships that organizations maintain with external trading partners (customers and suppliers) to design products, forecast demand, source supply, manufacture products, distribute and allocate inventory and deliver goods and services to the end customer. Supply chain management involves the activities related to sourcing and supplying and merchandising products or services as well as the sales and marketing activities that influence the demand for goods and services, such as new product introductions, promotions, pricing and forecasting. Additional aspects of supply chain management include comprehensive sales and operations planning ("S&OP") as well as PLM, product sourcing quality and vendor compliance to ensure the right products are brought to market on time and in good condition. Companies that effectively communicate, collaborate and integrate with their trading partners across the multi-enterprise network or supply chain can realize significant competitive advantages in the form of lower costs, greater customer loyalty, reduced stock-outs, more efficient sourcing, reduced inventory levels, synchronized supply and demand and increased revenue.
+2
+
+Gartner’s March 25, 2019 report, Forecast: Enterprise Application Software, Worldwide, 2017-2023, 1Q19 Update, predicts spending on Supply Chain Management software solutions will exceed $15 billion in 2019 and reach $22 billion by 2023. This represents a compounded annual growth rate ("CAGR") of 9.8% through 2023. Within the Supply Chain Management software market, Gartner includes solutions for supply chain planning, supply chain execution and procurement. We focus primarily on supply chain and retail planning processes and certain execution functions, which we estimate account for approximately one-third of the Supply Chain Management software market as defined by Gartner. Our platform includes more than thirty components spanning eight key supply chain planning processes that customers may adopt independently or as a comprehensive solution platform. We believe our opportunity to cross-sell and up-sell existing customers is significant given the potential for customers to adopt additional components over time. 
+Our supply chain optimization and retail planning functions involve the use of information and analysis to facilitate the on-time delivery of the right products to the right place at the right time and at the optimal total cost. The planning process includes demand forecasting and sensing, inventory and supply optimization, distribution, manufacturing planning and scheduling, sales and operations planning, retail financial planning, assortment and allocation, PLM, global sourcing and vendor compliance. Planning software is designed to increase revenues, improve forecast accuracy, optimize manufacturing scheduling, better leverage inventory investments, decrease order cycle times, reduce transportation costs and improve customer service. Customers are increasingly adopting planning, sourcing and optimization software that is implemented and accessed in the cloud, also referred to as SaaS. 
+Our supply chain execution functions address sourcing, manufacturing, distributing and delivering products to customers throughout the global network. Within the supply chain execution function, organizations are increasing their focus on vendor compliance and sourcing linked with supply chain planning and other enterprise applications, in order to increase the efficient and effective fulfillment of customer orders in both the business-to-business and the business-to-consumer sectors. These multi-enterprise supply chains have heightened the need for robust supply chain master data management ("MDM") to provide an accurate digital twin of the supply chain network, allowing enterprises to quickly plan strategically and accurately respond to dynamic market conditions to harness business opportunities and mitigate risk. 
+In order to effectively manage and coordinate supply chain activities, companies require integrated business planning S&OP, supply chain planning, allocation, sourcing, supply chain execution, and supply chain analytics software that enables integrated communication, optimization and collaboration among the various constituents throughout the supply chain network. Our advanced cognitive platform helps ensure that each stakeholder is aligned with the corporate strategy to minimize costs, increase service levels and deliver exceptional customer service.
+Company Strategy 
+Our objective is to become a leading provider of collaborative supply chain optimization, advanced retail planning and supply chain management solutions to enable small, midsize, large and Fortune 500 companies to optimize their operations associated with the planning, sourcing, manufacturing, storage, distribution and allocation of products. Our strategy includes the following key elements: 
+Leverage Cloud Strategy. Our cloud computing initiative accelerates customers’ deployment of our industry leading supply chain, advanced retail planning, PLM, product sourcing and vendor compliance solutions. Our cloud strategy includes SaaS licensing and services designed to enable the optimization of our customers’ supply chains to reflect their global business needs. 
+Leverage and Expand Installed Base of Customers. We currently target businesses in the consumer goods, food and beverage, retail, apparel and softgoods, durable and hard lines, life sciences, chemicals, and wholesale distribution industries. We intend to continue to leverage our installed base of approximately 1,100 customers to introduce additional functionality, product upgrades, and complementary components. In addition, we intend to expand sales to new customers in our existing vertical markets and to target additional vertical markets over time. We will continue our focus on offering a best-in-class cloud solution and expect the growth trends we have experienced in this area to continue because many new and existing customers are pursuing cloud strategies for their business applications. 
+Continue to Expand Sales and Marketing. We intend to continue to pursue an increased share of the market for supply chain software solutions by expanding our sales and marketing activities. We believe our competitive advantages include providing rapid implementation, easy-to-maintain configuration, and quick time-to-benefit across the full spectrum of customer operations. We intend to continue building a direct sales force that is focused on selected vertical markets, such as consumer goods, retail, life sciences, wholesale distribution and manufacturing supply chains. NGC intends to continue to 
+3
+
+focus on the fashion product industries such as apparel, footwear, sewn products, and furniture, adding sales and marketing resources when appropriate. 
+Expand Indirect Channels to Increase Market Penetration. We believe that key relationships with value-added resellers ("VARs") will increase sales and expand market penetration of our products and services. DMI will leverage network of global VARs to reach its markets. This experienced global VARs distribution network significantly expands the Company's reach and provides sales, implementation and support resources serving customers around the world. 
+
+Maintain Technology Leadership. We believe we are a technology leader in collaborative supply chain optimization solutions and advanced business analytics and we intend to continue to provide innovative, advanced solutions and services. We believe we were one of the earliest providers of SCM software solutions on a client/server platform and on Windows, and the first to introduce a collaborative supply chain planning solution to support multi-enterprise supply chain network planning over the Internet. We intend to continue to keep pace with technological developments and emerging industry standards while developing and introducing new and enhanced products. 
+Invest Aggressively to Build Market Share. We intend to continue investing to expand our sales channels, research and development efforts, and consulting infrastructure, balanced with our goal of increasing profitability. We believe these investments are necessary to increase our market share and to capitalize on the growth opportunities in the market. 
+Acquire or Invest in Complementary Businesses, Products and Technologies. We believe that select acquisitions or investments may provide opportunities to broaden our product offering to provide more advanced solutions for our target markets. We will evaluate acquisitions or investments that will provide us with complementary products and technologies, expand our geographic presence and distribution channels, penetrate additional vertical markets with challenges and requirements similar to those we currently meet, and further solidify our leadership position within the SCM market. In fiscal 2015, we acquired MID Retail, Inc., to extend our reach into retail operations and expand our ability to help customers improve their omni-channel performance. In fiscal 2017, we acquired AdapChain to provide supply chain MDM and streamlined integration between our portfolio of planning and optimization solutions to third party software applications. In fiscal 2018, we acquired certain assets of privately held Innovare Holding Co., Incorporated and its subsidiaries (collectively, “Halo”). Halo is a supplier of advanced analytics and business intelligence solutions for the supply chain market. These enriched analytics leverage interactive visualization, machine learning algorithms, and AI to transform both structured and unstructured data to accelerate business planning performance and proactively identify new business opportunities or mitigate risks. 
+Focus on Integrated Supply Chain Planning and Supply Chain Execution Platform. We believe we are one of the few providers of truly innovative SCM platform solutions addressing demand, supply and advanced retail planning as well as quality and compliance, PLM and sourcing management. We intend to continue focusing our development initiatives on enhancing our product concept to customer availability platform, expanding its embedded performance management architecture and introducing additional capabilities that complement our integrated solution suite. 
+Increase Penetration of International Markets. In the fiscal year ended April 30, 2019, we generated 20% of our total revenues from international sales, resulting from marketing relationships with a number of international distributors. Logility and its subsidiary DMI have over 30 VARs in its indirect channel, most of which are international. This experienced global distribution network expands Logility’s reach and provides sales, implementation and support resources, serving customers in more than 80 countries. We intend to further expand our international presence by creating additional relationships with distributors in Africa, Asia, Australia, Europe, North America and South America. 
+Expand Strategic Relationships. We intend to develop strategic relationships with leading enterprise software and service providers and systems integrators to integrate our software solutions into their services and products and to create joint marketing opportunities. We have developed a network of international agents who assist in the sale and support of our solution platform. We intend to utilize these and future relationships with software and service organizations to enhance our sales and marketing position. 
+Continue to Focus on Providing High Quality Customer Service. Helping our customers become more successful our strategy. We intend to continue investing in technology and personnel to accommodate the needs of our growing customer base. We will continue to seek new ways to improve service to our customers. 
+Serve Large, Midsize and Small Business Markets. Our broad product portfolio allows us to address the unique business needs and complexity of a wide range of enterprises with large, midsize and small global operations. 
+4
+
+There can be no assurance, however, that we will be successful in implementing the strategies outlined above.
+Products and Services
+We provide a comprehensive, cloud-architected supply chain management platform that helps customers manage eight critical planning processes, including demand optimization, inventory optimization, supply optimization, retail optimization, quality and compliance, PLM, sourcing management and integrated business planning. Within each of these process areas, we offer one or more components that customers may leverage independently, in combination, or as a comprehensive solution platform either in the cloud or on-premise. Our supply chain MDM platform and advanced analytics capabilities enable customers to derive new insights and automate planning processes that continuously analyze demand, production, supply and distribution signals to inform product design and development, increase forecast accuracy, optimize inventory across the global supply chain and in-store, and ensure high customer satisfaction. 
+Our platform encompasses the following planning processes and associated components:
+Advanced Analytics leverage artificial intelligence, machine learning, algorithmic optimization, simulations, scenarios, and other forms of advanced analytics to provide new insights, automate planning and remove time, inventory and risk from the supply chain.
+Integrated Business Planning combines volumetric and financial analysis and collaborative workflow to streamline the entire sales and operations planning process and provide a guide for allocating business resources to meet revenue, profitability, and customer service goals.
+
+• | Integrated Business Planning visualizes, elevates and optimizes strategic and tactical plans for products, channels, resources and investment to achieve business goals, drive shareholder value and increase operational efficiencies.
+
+
+• | Sales and Operations Planning aligns financial, sales, production, procurement and marketing information into a single plan rooted in supply chain reality. Strategic, tactical and operational plans can be produced via a single platform.
+
+Demand Optimization focuses on improving forecast accuracy to drive better downstream supply chain plans that boost profitability, satisfy customers and synchronize supply chain partners. 
+
+• | Demand Sensing evaluates multiple data streams to recognize complex patterns and identify actionable demand signals. It captures and analyzes demand signals from internal and external sources, including point of sale, demand signal repositories, and syndicated data, to identify near-term demand trends and enable fast, intelligent and cost effective market responses.
+
+
+• | Demand Planning helps reconcile differences between high-level business planning and detailed product forecasting. Aligning inventory with customer demand, this solution makes it easier to boost service levels, shorten cycle times and reduce inventory obsolescence.
+
+
+• | Life Cycle Planning provides control to model each phase over a product’s entire lifecycle-including introduction, maturity, replacement, substitution and retirement. Using attribute-based modeling, this solution can improve the accuracy of new product introductions, short life cycle and phase-outs, which result in reduced stock-outs and lower obsolescence costs.
+
+
+• | Proportion Profile Planning automates the process of detailed SKU-level forecasting using attributes like style, color and size for large numbers of SKUs. Time-phased profiles meet the market goals for product categories while increasing forecast accuracy at the granular level.
+
+
+• | Multivariable Demand Signal Management ("MDSM") artificial intelligence ("AI") to correlate multiple external factors (i.e. weather, market trend, commodity prices, etc.) to enhance the demand forecast.
+
+Inventory Optimization establishes optimal inventory targets at each node of multi-echelon manufacturing, distribution, and retail networks to match strategic inventory goals and service levels.
+5
+
+
+• | Inventory Optimization optimizes strategic and tactical inventory investments across multi-echelon manufacturing, distribution, and retail networks to meet business and service level objectives for complex supply chains with multiple stages of inventory.
+
+
+• | Inventory Planning allows enterprises to effectively measure the tradeoff of finished goods inventory investments and desired customer service levels. This solution dynamically sets time-phased inventory targets based on specific safety stock and order quantity rules.
+
+
+Supply Optimization enables constraint-based continuous and periodic planning to identify orders that are unprofitable or cannot be met based on current constraints and to analyze the impact of changing factors in production, distribution and storage on costs and customer service.
+
+• | Supply Planning optimizes complex sourcing and production decisions to balance supply, manufacturing and distribution constraints based on corporate goals for maximizing profit or minimizing costs.
+
+
+• | Replenishment Planning provides visibility into future customer demand, corresponding product and material requirements, and the actions needed to satisfy those demands.
+
+
+• | Manufacturing Planning and Scheduling optimizes constraint-based manufacturing schedules and evaluates multiple scenarios to determine the optimal trade-off between manufacturing efficiencies, inventory investments and greenhouse gas emissions, providing lower costs and increased product availability. These optimized schedules consider machine, personnel, tooling and inventory constraints to drive shorter lead times and reliable product availability.
+
+Retail Optimization synchronizes sourcing from manufacturing to store merchandising and supports the creation of plans to boost sales, increase margins and cut inventory costs.
+
+• | Merchandise and Assortment Planning creates financial merchandise plans for total company and individual store locations to increase visibility and maintain “open to buy” plans, margin planning and unit ladder plans at various levels in the merchandise hierarchy. Innovative Inspiration Board features provide a Pinterest-like workspace where traditional text-based assortment plans become vibrant visual representations of collections merging the art and science of buyer and planner roles to gain greater visibility throughout the planning process and ensure each store location is able to meet its plan.
+
+
+• | Allocation optimizes short term unit sales and stock projections by store and facilitates automatic replenishment based on daily sales data. Capabilities also include pre-pack optimization to accelerate the receipt and shipment of inventory to specific store locations.
+
+Quality & Compliance allows quality problems to be identified and remediated faster and ensures proper documentation for each participant in the supply chain to prevent disruptions in moving products around the globe.
+
+• | Quality Management & Audits identifies quality problems faster to reduce chargebacks and rework; enables inspections and audits to be performed at the manufacturing facilities via tablets; requests in-line, final, measurement and packing accuracy audits during the production process and provides notification if audits fail; and aids in the analysis of sourcing and factory improvement decisions.
+
+
+• | Regulatory Document Management reduces the risk of non-compliance and avoids costly litigation by enforcing control and accountability for all suppliers, vendors and other third parties involved in the design, manufacturing and delivery of products.
+
+
+• | Global Logistics Management creates barcode carton labels, inbound paperwork and ASNs via the web browser; produces a manifest, commercial invoice, bill of lading and packing list once barcoded cartons are placed on a shipment; and tracks each shipment while providing notification of any delays as they occur.
+
+Product Lifecycle Management provides a common platform for planning, merchandising, design, costing, sampling, quality and sourcing, ensuring complete visibility from product concept to delivery.
+6
+
+
+• | Line Plans provide the roadmap for development and specify SKU (stock keeping unit) counts by division, category and product, and are used to manage seasons, departments, collections and even specific styles to meet performance targets.
+
+
+• | Tech Packs & Data Management replace spreadsheets and emails with a single source of product data; manage images, extended attributes and media copy for all distribution channels; and share product information with other systems.
+
+
+• | Product Design leverages trend and competitive analysis when defining the direction of products and materials, supports the design and management of product concepts, ensures requirements and cost targets are met and enables product developers to efficiently develop and re-use designs, materials and product specification data.
+
+
+• | Costing allows for collaborative decision making with vendors to break down costs and compare by line item to optimize price points and margins, creates multiple cost sheets per product and performs “what-if” scenarios to determine which items achieve financial targets.
+
+
+• | Sample Management reduces sampling costs by establishing product viability prior to issuing sample requests, tracks the status and enters the results of requested samples and automatically notifies responsible parties of any rejections. Additional sample requests with corrections may also be created.
+
+Sourcing Management gathers all of the requisite information in one place to make optimal sourcing decisions, protecting brand equity and reducing risk while increasing speed to market of products.
+
+• | Strategic Sourcing identifies and compares global suppliers, issues request for quotes and evaluates quotes from each participant. Vendors are notified of new requests and have complete visibility into the quoting, sampling and final selection process.
+
+
+• | Supply Base Management evaluates, manages, and reports on various factors including social and regulatory compliance, manufacturing capabilities and capacity to simplify the complexities of vendor management into one centralized system.
+
+
+• | Supply Profiles and Score Cards creates comprehensive, searchable vendor profiles and utilizes digital asset management technology to store and share pictures, videos and other digital media files.
+
+
+• | Vendor Onboarding optimizes the onboarding process to help organize, vet and manage vendors and factories to ensure overall compliance and mitigate risks; tracks performance; and creates, issues and manages corrective action plans if applicable.
+
+
+• | CSR and GMP Audits manage the complexities of Corporate Social Responsibility ("CSR") and ensure products are consistently produced to the quality standards through Good Manufacturing Practices ("GMP") audits.
+
+
+• | Compliance Packets maintain critical vendor information for transparency, accountability, responsible sourcing and worker non-retaliation. This solution also stores and manages all signed compliance documents and makes them accessible throughout the supply chain.
+
+Supply Chain Master Data Management provides seamless integration with third-party ERP systems, big data and other IoT sources without the cost and effort associated with custom development.
+
+• | AdapLink® delivers tailored supply chain and enterprise integration leveraging predefined templates and incorporating artificial intelligence to validate and harmonize planning and related supply chain MDM and transactional data with ERP systems from suppliers such as SAP, Oracle, Microsoft and Infor.
+
+We also provide a range of cloud services, technical support and professional services to support the adoption, implementation and optimization of our supply chain management platform by customers. Our platform may be deployed as SaaS, as a hosted solution or on-premise. Professional services include consulting, implementation, training and other managed services related to our platform.
+7
+
+Through our wholly-owned subsidiary, The Proven Method, Inc., we provide technology staffing and services to a diverse customer base to solve business issues. These services include professional services, product management, and project management outsourcing; staff augmentation in the areas of cloud, collaboration, network and security; and social media and analytic marketing.
+We also continue to provide software, support and services related to our legacy American Software ERP products, which include our e-Intelliprise solution and e-applications for various integrated business functions.
+See Note 9 to the Consolidated Financial Statements for further business segment information. 
+8
+
+Customers 
+We primarily target businesses in the retail, apparel and footwear, consumer packaged goods, chemicals, oil and gas, life sciences, telecommunications, consumer electronics, industrial products and other manufacturing industries. A sample of companies that have purchased one or more of our products or services during the past two fiscal years is as follows:
+
+Consumer Goods | Chemicals, Oil & Gas, Life Sciences | Retail & Apparel (cont.) | Manufacturing and Others (cont.) 
+3M Australia | Allnex | International Uniform, Inc. | Gardner-White Furniture 
+Antartico Comercializadora SA de CV | BERICAP Holding GMBH | Jantzen Brands Corp. | Groupo Herdez 
+Ashley Furniture | Berry Global | Jockey International | Henley Enterprises, Inc. 
+Avery Dennison Corporation | BP Singapore Pte. Limited | La La Land Creative Company LLC | Hilco 
+BodyBuilding.com | Bracco Imagining S.p.A. | Lacrosse Footwear | Husqvarna AB 
+Caribou Coffee Company | Chamberlain Group | Landau Uniform | Hy-Ko Products 
+Carrie Francis | CooperVision | Liz Claiborne | Interlock USA, Inc. 
+ClearGage, LLC | Croda Europe Limited | Lord Daniel Sportswear | Intertape Polymer Group 
+Cott Beverages Limited | Dow Chemical Company | Lucky Zone | Johnson Controls 
+Dometic Group AB | EGO Pharmaceuticals, PTY LTD | Manhattan Beachwear, LLC | KALE HAVACILIK Sanayi AS 
+Ergobaby | Genzyme Diagnostics | Men's Wearhouse | M&G DuraVent 
+Founders Brewing Company | Infineum | New Era Cap Co., Inc. | Mayville Engineering Company, Inc
+Freddy Hirsch | Kremers Urban Pharmaceuticals | Orchard Brands | Nexans 
+Glen Raven, Inc. | Norbrook Laboratories | Orvis | Niagara Bottling 
+Griffith Laboratories Worldwide | Norgine | Patagonia | Nuplex Industries 
+Hamilton Beach | Novartis Pharma Services | PVH Corp. | OFS Fitel, LLC 
+Hancocks Wine, Spirits and Beer | Omega Pharma International NV | Quality Worldwide | ORBIS Corporation 
+Hostess Brands | OneMed Holdings | Randa Accessories | Parker Hannifin Corporation 
+Huhtamaki | Sandoz | Rawlings Sporting Goods | Pattonair Ltd. 
+J. R. Simplot Company | Sigma-Aldrich Corporation | Red Wing Shoe Company | Quality Steel Corporation 
+Jackson Family Wines | Smith & Nephew | Rhone Apparel, Inc | Reliable Automatic Sprinkler 
+Kelly Moore Paint Company, Inc | Sunovion Pharmaceuticals, Inc. | Rocky Brands | Sandvik 
+Kingston Technology Company | Thermo Fisher Scientific | Siemens Medical Solutions Diagnostics | Smithfield Foods 
+Le Creuset Group AG | | SPANX | Sonoco Products 
+Levolor | Retail & Apparel | Sport Obermeyer | Southwire 
+Marquez Brothers International | 5.11 Tactical | Summit Resource International | TD Automotive Compressor Georgia 
+Melissa and Doug | Accent Décor | Swatfame | Tillamook 
+Mercy Health Care | Aeropostale | Techstyle | Timken 
+MGA Entertainment | AGS Sports, Inc. | The Aldo Group | Universal Fiber Systems 
+Mizuno USA | Alberto Makali | The Echo Design Group | Walzcraft 
+Moen | American Textile | The Foschini Group Pty | 
+Mondelez International | Asics | Town & Country Living | Telecommunications 
+Neatfreak | Bernard Cap Co., Inc. | Unifirst Corp | Brightstar Corporation 
+Nestle | Big Lots! | Urban Outfitters | Ericsson 
+Online Drinks B.V. | Billabong International Unlimited | VF Corporation | Nokia 
+Polaris Industries | Biscotti | Winebow Inc. | Verizon Wireless 
+Procter & Gamble | Blair Corporation | Wohali Outdoors | 
+Ranir, LLC | Bobs Discount Furniture | Wolverine Worldwide | Wholesale Distribution 
+Reckitt Benckisen | Broder Brothers | Xcel Brands | American Hotel Register Company 
+Reily Foods | Brooks Brothers Group, Inc. | | Balkamp, Inc. 
+Rockline Industries | C&A Mexico | Manufacturing and Others | ChemPoint 
+Sargent and Greenleaf, Inc. | Canada Goose | A.O. Smith | CHF Industries 
+Sazerac Company | Charles River Apparel | Actron Air | Dealer Tire 
+Starbucks | Color Image Apparel, Inc. | Amcor Rigid Plastics USA, LLC | Fastenal Company 
+Sunny Delight Beverages Company | Delta Apparel | American Bath Group | Fintyre S.p.A. 
+SweetWater Brewing Company, LLC | Destination XL | Ancestry.com Inc. | Groupe Seb Holdings 
+Taylor Fresh Foods | Dynasty Apparel | Avent, Inc | Johnstone Supply 
+Tillamook County Creamery Association | Elan International | Briggs & Stratton | Screwfix 
+Trident Seafoods Corporation | Evy of California | Busch-Transou, L.C. | Southern Eagle Distributing, LLC 
+Weber-Stephen (EMEA) GmbH | Fanatics Apparel, Inc. | Cintas Corporation | Standard Motor Products 
+ | Finish Line | Clarios | The Gem Group, Inc. 
+ | Follett Corporation | Cycles Lambert, Inc. | Trelleborg Wheel Systems 
+ | Hunkemoller International BV | Ficosota Ltd., Ital Food S.A. | US Autoforce 
+
+We do not have a customer who had more than 10% of fiscal 2019 revenues. We typically experience a slight degree of seasonality, reflected in a slowing of services revenues during the annual winter holiday season, which occurs in the third quarter of our fiscal year. We are not reliant on government-sector customers. 
+9
+
+Integrated System Design 
+While customers can use our software applications individually, we have designed them to be combined as integrated systems to meet unique customer requirements. The user may select virtually any combination of components to form an integrated solution for a particular business problem. The license or subscription for such a solution could range from one single module to a multi-module, multiple-user solution incorporating the full range of our products. 
+Customers frequently require services beyond those provided by our standard support/maintenance agreement. To meet those customers’ needs, we established a separate professional services team that provides specialized business and software implementation consulting, development and configuration, system-to-system interfacing and extensive training and certification. We provide these services, frequently referred to as “systems integration services,” for an additional fee, normally under a separate contract based upon time and materials utilized. 
+Sales and Marketing 
+We market our products globally through direct and indirect sales channels. We conduct our principal sales and marketing activities from corporate headquarters in Atlanta, Georgia, and have North American sales and/or support offices in Boston, Chicago, Dallas, Indianapolis, New York, St. Louis, Miami, Pittsburgh and San Diego. We manage sales and/or support outside of North America from our international offices in the United Kingdom, Sweden, Germany, The Netherlands, India, New Zealand and Australia. 
+In addition to our direct sales force, we have developed a network of VARs who assist in selling our products globally. We intend to utilize these and future relationships with software and service organizations to enhance our sales and marketing position. These independent distributors and resellers, located in North America, South America, Mexico, Europe, South Africa, and the Asia/Pacific region, distribute our product lines domestically and in foreign countries. These vendors typically sell their own consulting and systems integration services in conjunction with contracts for our products. Our global distribution channel consists of approximately 30 organizations with sales, implementation and support resources serving customers in more than 80 countries. 
+We support our sales activities with a variety of marketing efforts, including public relations, direct marketing, advertising, trade shows, product seminars, industry speakers, user group conferences and ongoing customer communication and industry analyst programs. We also participate in industry conferences such as those organized by the Association for Supply Chain Management, the Council of Supply Chain Management Professionals, and the Institute Business Forecasting. 
+We also engage in third-party alliances with other software vendors. These programs generally provide some type of assistance for developing or marketing software products that are compatible or complementary with products of the other party. Under one such program, we were designated a Microsoft Gold Certified Partner to provide integrated supply chain products for Microsoft’s Dynamics GP and NAV solutions. 
+Subscriptions and Licenses
+Like many business application software firms, our software revenue consists principally of fees generated from licensing our software products. In consideration of the payment of license fees, we typically grant non-exclusive, nontransferable, perpetual licenses, which are primarily business segment- and user-specific and geographically restricted. A growing segment of product revenue is coming from SaaS subscription contracts. Our typical initial subscription is three years.
+Our standard agreements contain provisions designed to prevent disclosure and unauthorized use of our software. In these agreements, we warrant that our products will function in accordance with the specifications set forth in our product documentation. 
+The prices for our products are typically functions of the depth of functionality, number of business processes, users and sites for which the solution is deployed. 
+Customer Service and Support 
+We provide the following services and support to our customers: 
+Cloud and Managed Services. We offer our customers the option to deploy Voyager, Demand Solutions and NGC Software solutions in a SaaS, hosted or on-premise model. Our Cloud Services offer companies a choice of deployment methodology and services that best suit their individual needs and allow them to evolve as their business changes, moving 
+10
+
+between SaaS, on-premise, and managed services as their IT strategies transform. Managed Services leverage our resources to assist and augment the customer’s technical and operational needs on a day-to-day basis. 
+Implementation Support. We offer our customers a professional and proven implementation program that facilitates rapid implementation of our software products. Our consultants help customers define the nature of their project and subsequently proceed through the implementation process. We provide training for all users and managers involved. We first establish measurable financial and logistical performance indicators and then evaluate them for conformance during and after implementation. Additional services beyond implementation may include post-implementation reviews and benchmarks to further enhance the benefits to customers. 
+Implementation; General Training Services and Certification. We offer our customers post-delivery professional services consisting primarily of implementation and training services, for which we typically charge on a daily basis. Customers that invest in implementation services receive assistance in integrating our solution with existing enterprise software applications and databases. Implementation of our products typically requires three to nine months, depending on factors such as the complexity of a customer’s existing systems, the breadth of functionality, number of business units and team of users. Additional training and user certification services also help our customers gain greater advantage from our robust planning platform.
+Product Maintenance and Updates; Support Services. We provide our customers with ongoing product support services. Typically, these services are included in subscription fees, whereas for licenses we enter into support or maintenance contracts with customers for an initial one- to three-year term, billed annually in advance, at the time of the product license with renewal for additional periods thereafter. Under these contracts, we provide telephone consulting, product updates and releases of new versions of products previously purchased by the customer, as well as error reporting and correction services. We provide ongoing support and maintenance services on a seven-days-a-week, 24-hours-a-day basis through telephone, electronic mail and web-based support, using a call logging and tracking system for quality assurance. 
+Research and Development 
+Our future success depends in part upon our ability to continue to enhance existing products, respond to changing customer requirements, develop and introduce new or enhanced products, and keep pace with technological developments and emerging industry standards. We focus our development efforts on several areas, including, but not limited to, enhancing artificial intelligence, machine learning and advance analytics platforms, in-memory computing, and adding functionality to existing products. These development efforts will continue to focus on deploying applications within a complex global supply chain landscape. Our cloud-architected solutions designed for SaaS deployment with MDM built in will be increasingly important for our long-term growth. As of April 30, 2019, we employed 101 persons in product research, development and enhancement activities. 
+Competition 
+Our competitors are diverse and offer a variety of solutions targeted at various aspects of the supply chain, retail and general enterprise application market. Our existing competitors include, but are not limited to: 
+
+• | Large ERP application software vendors such as SAP, Oracle and Infor, each of which offers sophisticated ERP solutions that currently, or may in the future, incorporate supply chain management, advanced planning and scheduling, warehouse management, transportation, collaboration or sales and operations planning software components;
+
+
+•
+
+
+• | Vendors focusing on the supply chain application software market, including, but not limited to, JDA Software, Kinaxis and Anaplan;
+
+
+• | Other business application software vendors that may broaden their product offerings by internally developing, or by acquiring or partnering with independent developers of, supply chain management software; and
+
+
+• | Internal development efforts by corporate information technology departments.
+
+We also expect to face additional competition as other established and emerging companies enter the market for advanced retail planning and supply chain management software and/or introduce new products and technologies. In addition, current and potential competitors have made and may continue to make strategic acquisitions or establish cooperative relationships among themselves or with third parties, thereby increasing the ability of their products to address the needs of our prospective customers. Accordingly, it is possible that new competitors or alliances among current and new competitors may emerge and rapidly gain significant market share. Increased competition could result in fewer customer orders, reduced gross margins and loss of market share. 
+11
+
+The principal competitive factors in the target markets in which we compete include product functionality and quality, domain expertise, integration technologies, product suite integration, breadth of products, and related services such as customer support, training and implementation. Other factors important to customers and prospects include: 
+
+• | customer service and satisfaction;
+
+
+• | ability to provide relevant customer references;
+
+
+• | compliance with industry-specific requirements and standards;
+
+
+• | flexibility to adapt to changing business requirements;
+
+
+• | ability to generate business benefits;
+
+
+• | rapid payback and measurable return on investment;
+
+
+• | vendor financial stability and company and product reputation; and
+
+
+• | initial license price, cost to implement and long term total cost of ownership.
+
+Many of our competitors and potential competitors have a broader worldwide presence, significantly greater financial, technical, marketing and other resources, greater name recognition, and a larger installed base of customers than we have. Some competitors have become more aggressive with their prices, payment terms and contractual implementation terms or guarantees. In order to be successful in the future, we must continue to develop innovative software solutions and respond promptly and effectively to technological change and competitors’ innovations. We may also have to lower prices or offer other more favorable terms. Our competitors may be able to respond more quickly to new or emerging technologies and changes in customer requirements or devote greater resources to the development, promotion and sale of their products. 
+We believe that our principal competitive advantages are our comprehensive, single solutions platform, our list of referenceable customers, the ability of our solutions to quickly generate business benefits for our customers, our substantial investment in product development, our deep domain expertise, the ease of use of our software products, our customer support and implementation services, our ability to deploy quickly, and our ability to deliver rapid return on investment for our customers. 
+Proprietary Rights and Licenses 
+Our success and ability to compete are dependent in part upon our proprietary technology. To protect our proprietary technology, we rely on a combination of copyright and trade secret laws, confidentiality procedures and contractual provisions. However, these may afford only limited protection. In addition, effective copyright and trade secret protection may be unavailable or limited in certain foreign countries. Although we take advantage of the protection available through such confidential and contractual procedures and intellectual property laws, we also believe that factors such as the knowledge, ability, and experience of our personnel, new product developments, frequent product enhancements, reliable maintenance and timeliness and quality of support services are essential to establishing and maintaining a technology leadership position. The source code for our proprietary software is protected as a trade secret and as a copyrighted work. Generally, copyrights expire 95 years after the year of first publication of each product. We enter into confidentiality or similar agreements with our employees, consultants and customers, and control access to and distribution of our software, documentation and other proprietary information and deliver only object code (compiled source code) to our customers. In addition, we have registered a number of trademarks and have registration applications pending for others. 
+
+As is customary in the software industry, in order to protect our intellectual property rights, we do not sell or transfer title to our products to our customers. Although our license and subscription agreements place restrictions on the customer’s use of our products, unauthorized use nevertheless may occur. 
+Despite measures we have taken to protect our proprietary rights, unauthorized parties may attempt to reverse engineer or copy aspects of our products or obtain and use information that we regard as proprietary. Policing unauthorized use of our products is difficult and expensive. In addition, litigation may be necessary in the future to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or invalidity. Such litigation could result in substantial costs and diversion of resources and could have a material adverse effect on our business, operating results and financial condition. 
+In the future, we may increasingly be subject to claims of intellectual property infringement as the number of products and competitors in our industry segment grows and the functionality of products in different industry segments overlaps. Although we are not aware that any of our products infringe upon the proprietary rights of third parties, there can be no 
+12
+
+assurance that third parties will not claim infringement by us with respect to current or future products. In addition, we may initiate claims or litigation against third parties for infringement of our proprietary rights or to establish the validity of our proprietary rights. Any such claims against us, with or without merit, as well as claims initiated by us against third parties, can be time consuming and expensive to defend, prosecute or resolve. Moreover, an adverse outcome in litigation or similar adversarial proceedings could subject us to significant liabilities to third parties, require the expenditure of significant resources to develop non-infringing technology, require a substantial amount of attention from management, require disputed rights to be licensed from others, require us to enter into royalty arrangements or require us to cease the marketing or use of certain products, any of which would have a material adverse effect on our business, operating results and financial condition. To the extent that we desire or are required to obtain licenses to patents or proprietary rights of others, there can be no assurance that any such licenses will be made available on terms acceptable to us, if at all. 
+We have re-licensed, and expect in the future to re-license, certain software from third parties for use in connection with our products. There can be no assurance that these third-party software vendors will not change their product offerings or that these software licenses will continue to be available to us on commercially reasonable terms, if at all. The termination of any such licenses or product offerings, or the failure of the third-party licensors to adequately maintain or update their products, could result in delays in our ability to deliver certain of our products while we seek to implement technology offered by alternative sources. Any required replacement licenses could prove costly. Further, any such delay, if it becomes extended, could result in a material adverse effect on our results of operations.
+Employees 
+As of April 30, 2019, we had 424 full-time employees, including 101 in product research, development and enhancement, 38 in customer support, 158 in professional services, 81 in marketing, sales and sales support, and 46 in accounting, facilities and administration. We believe that our continued success will depend in part on our ability to continue to attract and retain highly skilled technical, marketing and management personnel, who may be in great demand. We believe our employee relations are good. We have never had a work stoppage and no employees are represented under collective bargaining arrangements. 
+Available Information 
+We make our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to these reports available free of charge on or through our website, located at http://www.amsoftware.com, as soon as reasonably practicable after they are filed with or furnished to the Securities and Exchange Commission ("SEC"). Reference to our website does not constitute incorporation by reference of the information contained on the site and should not be considered part of this document. 

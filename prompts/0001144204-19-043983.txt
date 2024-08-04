@@ -1,0 +1,89 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.          Business 
+ 
+Rezolute, Inc. (“Rezolute”, the “Company”, “we” or “us”) is a clinical stage biotechnology company developing transformative therapies targeting rare and metabolic diseases.
+ 
+Our Pipeline 
+ 
+The table below presents a summary of our key programs and the expected timeline for development.
+ 
+
+RZ358
+ 
+Congenital Hyperinsulinism (“CHI”) is a rare genetic disorder that affects 1 in 50,000 to 1 in 30,000 newborns. In areas of high consanguinity, the incidence may increase to 1 in 2,500 newborns.
+ 
+CHI can be caused by one of more than ten known genetic mutations. These mutations may occur within the beta cells of the pancreas and lead to excessive insulin secretion. The most common mutations occur at the ABCC8 and KCNJ11 genes that encode the SUR-1 and Kir6.2 subunits of the KATP channel.
+ 
+Ordinarily, beta cells in the pancreas secrete just enough insulin to keep blood sugar in the normal range. With CHI, the secretion of insulin is not properly regulated. The beta cells secrete too much insulin. This results in excessively low blood sugar or severe hypoglycemia.
+ 
+CHI is the most common cause of persistent hypoglycemia in infants and children. Persistent hypoglycemia increases risks of long-term neurologic complications. Episodes are characterized by lethargy, irritability, and / or difficulty feeding. Repeated episodes of hypoglycemia increase the risk of serious complications such as breathing difficulties, developmental delays, intellectual disability, vision loss, brain damage, seizures, coma, and possibly death.
+ 
+We believe that existing management options are suboptimal. To start, no medical therapy has been developed and approved for CHI. To avoid hypoglycemia, many children require frequent glucose monitoring and feeding, including intravenous or intestinal administration of sugar solutions, particularly overnight. Due to genetics or other factors, medical therapies currently used in practice do not adequately treat a significant number of children and / or have side effects not well tolerated. Surgical removal of all or part of the pancreas may be an option but is invasive and often diabetes-inducing. All in all, current treatment regimens are often ineffective, burdensome, and/or have a substantially negative effect on the quality of life for these children and their families.
+ 
+We believe that RZ358 is a first-in-class, fully human, monoclonal antibody that has been specifically designed to treat all forms of CHI, as well as potentially other indications. The unique, reversible mechanism of action of RZ358 binds with high affinity to the insulin receptor at an allosteric site with no IGF-1 interaction. In the setting of elevated insulin, RZ358 dims the insulin signal, while still allowing insulin to bind and signal. This occurs downstream from the beta-cells, where genetic mutations leading to hyperinsulinism occur. RZ358 was designed as a universal treatment for all forms of CHI.
+ 
+To date, RZ358 has been studied in Phase 1 and Phase 2 clinical studies that have included children as well as adults.
+ 
+1
+
+ 
+
+Rezolute is currently launching a Phase 2b study in CHI and we anticipate dosing the first patient in 2019.
+ 
+RZ358 has designated orphan status in the US and EU.
+ 
+RZ402 
+ 
+Diabetic Macular Edema (“DME”) is one of the main causes of vision loss in working-age adults globally. With the growth of diabetes, prevalence in the US is estimated to increase beyond the current estimate of 750,000 individuals.
+ 
+DME is a metabolic disease that results from an increase in retinal vascular permeability (“RVP”) in the setting of diabetic retinopathy (abnormal retinal blood vessel growth caused by poorly controlled blood sugar levels). Vascular leakage from retinal blood vessels leads to swelling of the retina, including the macula, an area of the retina that is very important for vision. The kinin system and the production of bradykinin have been implicated in the vascular leakage associated with DME.
+ 
+While the market is very large, current treatment approaches are onerous. They involve injections into the eye by retinal specialists on a monthly or bimonthly basis. In addition to a segment of the DME population that does not respond to these treatments, the extent of therapeutic benefit directly correlates with adherence to this route of administration. As the regimen is a significant burden for both patients and their healthcare providers, high rates of non-adherence and ultimately, suboptimal therapeutic outcomes exist.
+ 
+RZ402 is a potential new therapy for DME. RZ402 has been shown to normalize RVP in clinically-relevant animal models of macular edema as effectively as the current injectable treatments with exposure-response studies supporting once daily dosing.
+ 
+Rezolute plans to file an IND for RZ402 in mid-2020.
+ 
+AB101
+ 
+Exogenous basal insulin is a multi-billion dollar market dominated by therapies where the standard of care is daily injections.
+ 
+AB101 is an extended release microsphere formulation of PEGylated human recombinant insulin. It is being developed as a once-weekly subcutaneous injection, for use alone and in combination with bolus prandial insulin or oral glucose lowering therapies, to improve glycemic control in patients with Type 1 and Type 2 Diabetes Mellitus. We believe AB101 has the potential to provide a near peak-less, slow and uniform release of basal insulin.
+ 
+Rezolute is currently conducting a Phase 1 study in Type 1 Diabetes Mellitus and anticipates top line results later this year. Following analyses of these date, we will evaluate out-licensing potential.
+ 
+Competition 
+ 
+We face competition from pharmaceutical and biotechnology companies, academic institutions, governmental agencies, and private research organizations in recruiting and retaining highly qualified scientific personnel and consultants and in the development and acquisition of technologies.
+ 
+There are a handful of companies developing therapies for CHI that could pose as potential competitors to RZ358. Zealand Pharma, Xeris Pharma, and Hanmi are three such companies.
+ 
+There are a handful of companies developing therapies for diabetic macular edema that could pose as potential competitors to the plasma kallikrein inhibitor therapy, including. KalVista Pharmaceuticals, Verseon, and Thrombogenics.
+ 
+If successfully commercialized, AB101 would compete directly against Sanofi’s Lantus and Toujeo, Novo Nordisk’s Levemir and Tresiba, Eli Lilly’s Basaglar as well as any other branded or biosimilar basal insulin therapies that may obtain regulatory approval in advance of AB101. Novo Nordisk’s Insulin 287 may be one such therapy.
+ 
+2
+
+ 
+
+Government Regulation
+ 
+Regulation by governmental authorities in the US and other countries is a significant factor in the development, manufacture and marketing of pharmaceutical products. All of our potential products will require regulatory approval by governmental agencies prior to commercialization. In particular, pharmaceutical therapies are subject to rigorous preclinical testing and clinical trials and other pre-market approval requirements by the FDA and regulatory authorities in foreign countries. Various federal, state and foreign statutes and regulations also govern or influence the manufacturing, safety, labeling, storage, record keeping and marketing of such products.
+ 
+We are also subject to various federal, state, and local laws, regulations and recommendations relating to safe working conditions; laboratory and manufacturing practices; the experimental use of animals; and the use and disposal of hazardous or potentially hazardous substances, including radioactive compounds and infectious disease agents, used in connection with our research, development and manufacturing.
+ 
+Research and Development
+ 
+We incurred approximately $19.1 million and $17.3 million in research and development expenses for the fiscal years ended June 30, 2019 and 2018, respectively. For further discussion of our research and development activities, please refer to the discussion of our Pipeline above.
+Employees
+ 
+As of June 30, 2019, we had 19 full-time employees as well as one contract employee, all of whom have experience with pharmaceutical, biotechnology or medical product companies. None of our employees or contractors are covered by collective bargaining agreements.
+Corporate Information
+ 
+We were incorporated in Delaware in 2010. We maintain executive offices located at 201 Redwood Shores Parkway, Suite 315, Redwood City, CA 94065 and our phone number is (650) 206-4507. Our website is located at www.rezolutebio.com. The information contained in, or that can be accessed through, our website is not part of, and is not incorporated into this document.
+ 
+3
+
+ 
+

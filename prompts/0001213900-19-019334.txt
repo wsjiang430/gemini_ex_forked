@@ -1,0 +1,586 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ 
+The Trust and the Funds
+ 
+ETF Managers Group Commodity Trust I (the “Trust”) was organized as a Delaware statutory trust on July 23, 2014. The Trust is a series trust formed pursuant to the Delaware Statutory Trust Act and currently includes two separate series. Sit Rising Rate ETF (“RISE”) is the first series of the Trust and is a commodity pool that continuously issues common shares of beneficial interest that may be purchased and sold on the NYSE Arca, Inc. stock exchange (“NYSE Arca”). The second series of the Trust, Breakwave Dry Bulk Shipping ETF (“BDRY,” and together with RISE, each, a “Fund” and collectively, the “Funds”), is also a commodity pool that continuously issues shares of beneficial interest that may be purchased and sold on NYSE Arca.
+ 
+RISE commenced investment operations on February 19, 2015. RISE commenced trading on NYSE Arca on February 19, 2015 and trades under the symbol “RISE.” BDRY commenced investment operations on March 22, 2018. BDRY commenced trading on NYSE Arca on March 22, 2018 and trades under the symbol “BDRY.”
+ 
+The principal office of the Trust and the Funds is located at 30 Maple Street, Suite 2, Summit, NJ 07901. The telephone number is (844) 383-6477.
+ 
+The Sponsor
+ 
+The Funds are each managed and controlled by ETF Managers Capital LLC (the “Sponsor”), a single member limited liability company that was formed in the state of Delaware on June 12, 2014. Each Fund pays the Sponsor a management fee. The Sponsor maintains its main business office at 30 Maple Street, Suite 2, Summit, NJ 07901. The Sponsor’s telephone number is (844) 383-6477.
+ 
+The Funds are each a “commodity pool” as defined by the Commodity Exchange Act (“CEA”). Consequently, the Sponsor has registered as a commodity pool operator (“CPO”) with the Commodity Futures Trading Commission (“CFTC”) and is a member of the National Futures Association (“NFA”).
+ 
+The Sponsor is a wholly-owned subsidiary of Exchange Traded Managers Group LLC (“ETFMG”), a limited liability company domiciled and headquartered in New Jersey.
+ 
+Sit Rising Rate ETF
+ 
+RISE Investment Objective
+ 
+RISE’s investment objective is to profit from rising interest rates by tracking the performance of a portfolio (the “RISE Benchmark Portfolio”) consisting of exchange traded futures contracts and options on futures on 2, 5 and 10 year U.S. Treasury securities (“Treasury Instruments”) weighted to achieve a targeted negative 10 year average effective portfolio duration (the “RISE Benchmark Component Instruments”). RISE seeks to achieve its investment objective by investing in the RISE Benchmark Component Instruments currently constituting the RISE Benchmark Portfolio. The RISE Benchmark Portfolio is maintained by Sit Fixed Income Advisors II, LLC (“Sit”), which also serves as RISE’s commodity trading advisor (“CTA”). The RISE Benchmark Portfolio will be rebalanced, reconstituted, or both, monthly (typically on the 15th of each month, or on the next business day if the 15th is a holiday, weekend, or other day on which the national stock exchanges are closed) to maintain a negative 10 year average effective duration. The RISE Benchmark Portfolio and RISE will each maintain a short position in Treasury Instruments. RISE does not use futures contracts or options to obtain leveraged investment results. RISE will not invest in swaps or other over-the-counter derivative instruments.
+RISE Commodity Trading Advisor
+ 
+Sit serves as RISE’s CTA. Sit is a Delaware limited liability company and a subsidiary of Sit Investment Associates, Inc. Sit Investment Associates, Inc. was founded in July 1981 by Eugene C. Sit and is a Minnesota corporation.
+ 
+Sit is registered as a CTA with the CFTC and is a member of the NFA.
+ 
+Sit provides its services to RISE under a Licensing and Services Agreement with the Sponsor. Under this agreement, Sit has agreed to compose and maintain the RISE Benchmark Portfolio and license to the Sponsor the use of the RISE Benchmark Portfolio.
+ 
+RISE Significant Shareholders
+ 
+Prior to RISE commencing operations, SIT made an initial investment of $5,000,000 in exchange for 200,000 shares of RISE. By June 30, 2019, Sit had redeemed 70,000 shares, thereby reducing its investment in RISE to 130,000 shares.
+ 
+1
+
+ 
+
+RISE Investing Strategy
+ 
+RISE seeks to achieve its investment objective by investing in the RISE Benchmark Component Instruments currently constituting the RISE Benchmark Portfolio. The weighting of the Treasury Instruments constituting the RISE Benchmark Component Instruments will be based on each maturity’s duration contribution. The expected range for the duration weighted percentage of the 2 year and 5 year maturity Treasury Instruments will be from 30% to 70%. The expected range for the duration weighted percentage of the 10 year maturity Treasury Instruments will be from 5% to 25%.
+ 
+The relative weightings of the RISE Benchmark Component Instruments will be shifted between maturities when there are material changes in the shape of the yield curve, for example, if the Federal Reserve began raising short term interest rates more than long term interest rates. In such an instance, Sit, which maintains the RISE Benchmark Portfolio, will increase the weightings of the 2 year and reduce the weighting in the 10 year maturity Treasury Instruments. Conversely, Sit will do the opposite if the Federal Reserve began raising long term interest rates more than short term interest rates. Reconstitution, rebalancing, or both, each will occur monthly as discussed above or if there are radical changes in the yield curve such that effective duration is outside of a range from negative nine to negative 11-year average effective duration, in which case Sit will adjust the maturities of the Treasury Instruments before the next expected monthly reconstitution.
+ 
+The Sponsor anticipates that approximately 5% to 15% of RISE’s assets will be used as payment for or collateral for Treasury Instruments. RISE will post margin from such assets to its futures commission merchant (“FCM”), SG Americas Securities, LLC (“SGAS”), in an amount equal to the margin required by the relevant exchange, and transfer to its FCM any additional amounts that may be separately required by the FCM. When establishing positions in Treasury Instruments, RISE will be required to deposit initial margin with a value of approximately 3% to 10% of the value of each Treasury Instrument position at the time it is established. These margin requirements are subject to change from time to time by the exchange or the FCM. On a daily basis, RISE will be obligated to pay, or entitled to receive, variation margin in an amount equal to the change in the daily settlement level of its Treasury Instruments positions. Any assets not required to be posted as margin with RISE’s FCM will be held at RISE’s custodian in cash or cash equivalents.
+ 
+The RISE Benchmark Portfolio will consist of the RISE Benchmark Component Instruments and rebalanced, reconstituted, or both to maintain a negative average effective portfolio duration of approximately 10 years. Duration is a measure of estimated price sensitivity relative to changes in interest rates. Portfolios with longer durations are typically more sensitive to changes in interest rates. For example, if interest rates rise by 1%, the market value of a security with an effective duration of 5 years would decrease by 5%, with all other factors being constant, and likewise, if interest rates decline by 1%, the market value of a security with an effective duration of negative 5 years would increase by 5%, with all other factors being constant. Duration estimates are based on assumptions by Sit and are subject to a number of limitations. Duration is a more accurate estimate of price sensitivity provided interest rate changes are small and occur equally in short-term and long-term securities. Investments in debt securities typically decrease in value when interest rates rise. The risk of a decrease in value is usually greater for longer-term debt securities.
+
+
+RISE will incur certain expenses in connection with its operations. RISE will hold cash or cash equivalents such as U.S. Treasuries or other high credit quality, short-term fixed-income or similar securities for direct investment or as collateral for the Treasury Instruments and for other liquidity purposes and to meet redemptions that may be necessary on an ongoing basis. These expenses and income from the cash and cash equivalent holdings may cause imperfect correlation between changes in RISE’s net asset value (“NAV”) and changes in the RISE Benchmark Portfolio, because the RISE Benchmark Portfolio does not reflect expenses or income.
+ 
+Sit expects that it will generally seek to close out its positions in Treasury futures contracts prior to such contracts maturing and enter into new positions in Treasury futures contracts. In connection with this process, natural market forces may affect RISE’s NAV positively or negatively. This is because each time RISE seeks to rebalance or reconstitute its positions, even absent movement in the underlying Treasury Instruments, the prices of new futures and option prices may be higher or lower than the prices of those that were closed out. Such differences in price, barring a movement in the price of the underlying security, will constitute “roll yield” and may inhibit RISE’s ability to achieve its investment objective.
+ 
+Several factors may determine the total return from investing in a futures contract position. One factor that impacts the total return, which will result from investing in near month futures contracts and “rolling” those contracts forward each month, is the price relationship between the current near month contract and the next month contract. Among other such factors, when RISE purchases an option that expires “out of the money,” RISE will realize a loss. Additionally, RISE may not be able to invest its assets in futures and options contracts having an aggregate notional amount exactly equal to that which is required to achieve a negative 10 year average effective duration. For example, as standardized contracts, Treasury futures contracts are denominated in specific dollar amounts, and RISE’s NAV and the proceeds from the sale of a creation basket (a “Creation Basket”) are unlikely to be an exact multiple of the amounts of those contracts. As a result, in such circumstances, RISE may be better able to achieve the exact amount of exposure desired through the use of other investments.
+ 
+Sit will close existing positions when it determines it would be appropriate to do so and reinvest the proceeds in other positions. Positions may also be closed out to meet orders for a redemption basket (a “Redemption Basket”).
+ 
+2
+
+ 
+
+RISE Benchmark Portfolio
+ 
+The RISE Benchmark Portfolio is maintained by Sit and will be rebalanced, reconstituted, or both, monthly (typically on the 15th of each month or on the next business day if the 15th is a holiday, weekend, or other day on which the national exchanges are closed) to maintain a negative 10 year average effective duration. The RISE Benchmark Portfolio and RISE will each maintain a short position in Treasury Instruments. RISE does not use futures contracts or options to obtain leveraged investment results. The RISE Benchmark Component Instruments currently constituting the RISE Benchmark Portfolio as of June 30, 2019 include:
+
+Name | Ticker | Market Value (USD) | 
+-----------------------------------------+------------------+------------------------+------------
+UNITED STATES TREASURY BILLS | 912796SW0 | $ | 11,591,734 | 
+U.S. 5 YR FUTR OPTN SEP 19 C $117.75 | FVU9C 117.75 | | (19,336 | )
+U.S. 5 YR NOTE (CBT) SEP 19 | FVU9 | | (12,051,938 | )
+U.S. 2 YR NOTE (CBT) SEP 19 | TUU9 | | (22,809,047 | )
+U.S. 10 YR FUT OPTN SEP 19 P $128.00 | TYU9P 128 | | 35,625 | 
+
+ 
+The RISE Benchmark Component Instruments currently constituting the RISE Benchmark Portfolio and anticipated rebalancing dates, as well as the daily holdings of RISE, are available on RISE’s website at www.risingrateetf.com.
+
+
+RISE Trading Policies
+ 
+Liquidity
+ 
+RISE invests principally in exchange traded futures and options on futures on U.S. Treasuries that, in the opinion of the Sponsor, are traded in sufficient volume to permit the ready taking of orders and liquidation of positions in these financial instruments.
+Borrowings
+ 
+Borrowings are not undertaken by RISE.
+ 
+Breakwave Dry Bulk Shipping ETF
+ 
+BDRY Investment Objective
+ 
+BDRY’s investment objective is to provide investors with exposure to the daily change in the price of dry bulk freight futures by tracking the performance of a portfolio (the “BDRY Benchmark Portfolio” and, collectively with the RISE Benchmark Portfolio, the “Benchmark Portfolios”) consisting of exchange-cleared futures contracts on the cost of shipping dry bulk freight (“Freight Futures”). BDRY seeks to achieve its investment objective by investing substantially all of its assets in the Freight Futures currently constituting the BDRY Benchmark Portfolio.
+ 
+The BDRY Benchmark Portfolio is maintained by Breakwave Advisors LLC (“Breakwave”), which also serves as BDRY’s CTA. The BDRY Benchmark Portfolio is maintained by Breakwave and will be rebalanced annually.
+ 
+BDRY Commodity Trading Advisor
+ 
+Breakwave serves as BDRY’s CTA. Breakwave is a Delaware limited liability company.
+ 
+Breakwave is registered as a CTA with the CFTC and is a member of the NFA.
+ 
+Breakwave provides its services to BDRY under a Services Agreement with the Sponsor. Under this agreement, Breakwave has agreed to compose and maintain the BDRY Benchmark Portfolio and license to the Sponsor the use of the BDRY Benchmark Portfolio.
+BDRY Investing Strategy
+ 
+BDRY seeks to achieve its investment objective by investing substantially all of its assets in the Freight Futures currently constituting the BDRY Benchmark Portfolio. The BDRY Benchmark Portfolio will include all existing positions to maturity and settle them in cash. During any given calendar quarter, the BDRY Benchmark Portfolio will progressively increase its position to the next calendar quarter three-month strip, thus maintaining constant exposure to the Freight Futures market as positions mature.
+ 
+The BDRY Benchmark Portfolio will maintain long-only positions in Freight Futures. The BDRY Benchmark Portfolio will include a combination of Capesize, Panamax and Supramax Freight Futures. More specifically, the BDRY Benchmark Portfolio will include 50% exposure in Capesize Freight Futures contracts, 40% exposure in Panamax Freight Futures contracts and 10% exposure in Supramax Freight Futures contracts. The BDRY Benchmark Portfolio will not include and BDRY will not invest in swaps, non-cleared dry bulk freight forwards or other over-the-counter derivative instruments that are not cleared through exchanges or clearing houses. BDRY may hold exchange-traded options on Freight Futures. The BDRY Benchmark Portfolio is maintained by Breakwave and will be rebalanced annually. The Freight Futures currently constituting the BDRY Benchmark Portfolio, as well as the daily holdings of BDRY will be available on BDRY’s website at www.drybulketf.com.
+
+
+3
+
+ 
+
+When establishing positions in Freight Futures, BDRY will be required to deposit initial margin with a value of approximately 10% to 40% of the notional value of each Freight Futures position at the time it is established. These margin requirements are established and subject to change from time to time by the relevant exchanges, clearing houses or BDRY’s FCM. On a daily basis, BDRY will be obligated to pay, or entitled to receive, variation margin in an amount equal to the change in the daily settlement level of its Freight Futures positions. Any assets not required to be posted as margin with BDRY’s FCM will generally be held at BDRY’s custodian in cash or cash equivalents, as discussed below.
+ 
+BDRY will hold cash or cash equivalents such as U.S. Treasuries or other high credit quality, short-term fixed-income or similar securities for direct investment or as collateral for the U.S. Treasuries and for other liquidity purposes and to meet redemptions that may be necessary on an ongoing basis. BDRY may also realize interest income from its holdings in U.S. Treasuries or other market rate instruments.
+ 
+BDRY Benchmark Portfolio
+ 
+The BDRY Benchmark Portfolio is maintained by Breakwave, which also serves as BDRY’s CTA. The BDRY Benchmark Portfolio consists of the Freight Futures, which are a three-month strip of the nearest calendar quarter of futures contracts on specified indexes (each a “Reference Index”) that measure rates for shipping dry bulk freight. Each Reference Index is published each United Kingdom business day by the London-based Baltic Exchange Ltd. (the “Baltic Exchange”) and measures the charter rate for shipping dry bulk freight in a specific size category of cargo ship – Capesize, Panamax or Supramax. The three Reference Indexes are as follows:
+
+● | Capesize: the Capesize 5TC Index; 
+--+--------------------------------------
+
+
+● | Panamax: the Panamax 4TC Index; and 
+--+----------------------------------------
+
+
+● | Supramax: the Supramax 6TC Index. 
+--+--------------------------------------
+
+ 
+The Freight Futures currently constituting the BDRY Benchmark Portfolio as of June 30, 2019 include:
+ 
+
+Name | Ticker | Market Value USD | 
+----------------------------------------------------------------------+----------------------+----------------------+--------
+BALTIC EXCHANGE PANAMAX T/C AVERAGE SHIPPING ROUTE INDEX - JUL 19 | BFFAP N19 Index | $ | 489,015
+BALTIC EXCHANGE PANAMAX T/C AVERAGE SHIPPING ROUTE INDEX - AUG 19 | BFFAP Q19 Index | | 497,835
+BALTIC EXCHANGE PANAMAX T/C AVERAGE SHIPPING ROUTE INDEX - SEP 19 | BFFAP U19 Index | | 495,945
+BALTIC EXCHANGE SUPRAMAX T/C AVERAGE SHIPPING ROUTE - JUL 19 | S58FM N19 SSYF | | 147,435
+BALTIC EXCHANGE SUPRAMAX T/C AVERAGE SHIPPING ROUTE - AUG 19 | S58FM Q19 | | 158,250
+BALTIC EXCHANGE SUPRAMAX T/C AVERAGE SHIPPING ROUTE - SEP 19 | S58FM U19 | | 161,505
+BALTIC CAPESIZE TIME CHARTER - JUL 19 | BFFATC N19 Index | | 732,680
+BALTIC CAPESIZE TIME CHARTER - AUG 19 | BFFATC Q19 Index | | 719,840
+BALTIC CAPESIZE TIME CHARTER - SEP 19 | BFFATC U19 Index | | 723,160
+
+ 
+The value of the Capesize 5TC Index is disseminated at 11:00 a.m., London Time and the value of the Panamax 4TC Index and the Supramax 6TC Index are each disseminated at 1:00 p.m., London Time. The Reference Index information disseminated by the Baltic Exchange also includes the components and value of each component in each Reference Index. Such Reference Index information also is widely disseminated by Reuters and/or other major market data vendors.
+ 
+BDRY Trading Policies
+ 
+Liquidity
+ 
+BDRY invests principally in exchange cleared futures that, in the opinion of the Sponsor, are traded in sufficient volume to permit the ready taking of orders in these financial interests.
+Leverage
+ 
+The Sponsor endeavors to have the value of the Fund’s Treasury Securities, cash and cash equivalents, whether held by the Fund or posted as margin or collateral, at all times approximate the aggregate market value of its obligations under the Fund’s Freight Futures interests, adjusted for the proportion of the current month’s Freight Futures contracts whose value has already been assessed.
+Borrowings
+ 
+BDRY does not intend to or foresee the need to borrow money or establish lines of credit.
+ 
+Pyramiding
+ 
+BDRY does not and will not employ the technique, commonly known as pyramiding, in which the speculator uses unrealized profits on existing positions as variation margin for the purchase of additional positions in the same commodity interest.
+No Distributions
+ 
+The Sponsor has discretionary authority over all distributions made by BDRY. In view of BDRY’s objective of seeking significant capital appreciation, the Sponsor currently does not intend to make any distributions, but, has the sole discretion to do so from time to time.
+  4
+
+ 
+
+Margin Requirements and Marking-to-Market Futures Positions
+ 
+“Initial margin” is an amount of funds that must be deposited by a commodity trader with the trader’s broker to initiate an open position in futures contracts. A margin deposit is like a cash performance bond. It helps assure the trader’s performance of the futures contracts that he or she purchases or sells. Futures contracts are customarily bought and sold on initial margin that represents a small percentage of the aggregate purchase or sales price of the contract. The amount of margin required in connection with a particular futures contract is set by the exchange on which the contract is traded. Brokerage firms, such as BDRY’s clearing broker, carrying accounts for traders in commodity interest contracts may require higher amounts of margin as a matter of policy to further protect themselves.
+ 
+Futures contracts are marked to market at the end of each trading day and the margin required with respect to such contracts is adjusted accordingly. This process of marking-to-market is designed to prevent losses from accumulating in any futures account. Therefore, if BDRY’s futures positions have declined in value, BDRY may be required to post “variation margin” to cover this decline. Alternatively, if BDRY’s futures positions have increased in value, this increase will be credited to BDRY’s account.
+ 
+Futures Contracts
+ 
+The Funds enter into futures contracts to gain exposure to changes in the value of the Benchmark Portfolios. A futures contract obligates the seller to deliver (and the purchaser to accept) the future cash settlement of a specified quantity and type of a treasury futures contract at a specified time and place. The contractual obligations of a buyer or seller of a treasury futures contract may generally be satisfied by making an offsetting sale or purchase of an identical futures contract on the same or linked exchange before the designated date of delivery.
+ 
+Upon entering into a futures contract, the Funds are each required to deposit and maintain as collateral at least such initial margin as required by the exchange on which the transaction is affected. The initial margin is segregated as cash held by broker, as disclosed in the Combined Statements of Assets and Liabilities, and is restricted as to its use. Pursuant to the futures contract, the Funds each agree to receive from or pay to the broker an amount of cash equal to the daily fluctuation in value of the futures contract. Such receipts or payments are known as variation margin and are recorded by the Funds as unrealized gains or losses. The Funds will realize a gain or loss upon closing a futures transaction.
+ 
+Futures contracts involve, to varying degrees, elements of market risk (specifically treasury price risk) and exposure to loss in excess of the amount of variation margin. The face or contract amounts reflect the extent of the total exposure the Funds have in the particular classes of instruments. Additional risks associated with the use of futures contracts include imperfect correlation between movements in the price of the futures contracts and the market value of the underlying securities and the possibility of an illiquid market for a futures contract. With futures contracts, there is minimal counterparty risk to the Funds since futures contracts are exchange-traded and the exchange’s clearinghouse, as counterparty to all exchange-traded futures contracts, guarantees the futures contracts against default.
+ 
+The Funds’ Service Providers
+ 
+Administrator, Custodian, Fund Accountant, and Transfer Agent
+ 
+The Funds have each appointed U.S. Bank, a national banking association, with its principal office in Milwaukee, Wisconsin, as the custodian (the “Custodian”). Its affiliate, U.S. Bancorp Fund Services, is the Fund accountant (the “Fund Accountant”) of the Funds, transfer agent (the “Transfer Agent”) for the Funds’ shares and administrator for the Funds (the “Administrator”). It performs certain administrative and accounting services for the Funds and prepares certain SEC, NFA and CFTC reports on behalf of the Funds. (U.S. Bank and U.S. Bancorp Fund Services are referred to collectively hereinafter as “U.S. Bank”).
+Distributor
+ 
+ETFMG Financial LLC, a wholly-owned subsidiary of ETFMG (the “Distributor”), provides statutory and wholesaling distribution services to RISE. The Distributor has provided statutory and wholesaling distribution services to BDRY since it commenced trading on NYSE Arca on March 22, 2018.
+ 
+The Funds pay the Distributor an annual fee for statutory and wholesaling distribution services and related administrative services equal to the greater of $15,000 or 0.02% of the Funds’ average daily net assets, payable monthly. Pursuant to the respective Marketing Agent Agreement between the Sponsor, each Fund and the Distributor, the Distributor assists the Sponsor and the applicable Fund with certain functions and duties relating to distribution and marketing services to the applicable Fund, including reviewing and approving marketing materials and certain regulatory compliance matters. The Distributor also assists with the processing of creation and redemption orders.
+ 
+In no event will the aggregate compensation paid to the Distributor and any affiliate of the Sponsor for distribution-related services in connection with the offering of shares exceed ten percent (10%) of the gross proceeds of the offering. The Distributor’s principal business address is 30 Maple Street, Suite 2, Summit, New Jersey, 07901.
+ 
+Trustee
+ 
+Under the respective Amended and Restated Declaration of Trust and Trust Agreement (each, a “Trust Agreement”) for each Fund, Wilmington Trust Company, the Trustee of each of the Funds (the “Trustee”) serves as the sole trustee of each Fund in the State of Delaware. The Trustee will accept service of legal process on the Funds in the State of Delaware and will make certain filings under the Delaware Statutory Trust Act. Under the respective Trust Agreement for each Fund, the Sponsor has the exclusive management and control of all aspects of the business of the Fund. The Trustee does not owe any other duties to the Funds, the Sponsor or the Shareholders of the Funds. The Trustee has no duty or liability to supervise or monitor the performance of the Sponsor, nor does the Trustee have any liability for the acts or omissions of the Sponsor.
+  5
+
+ 
+
+RISE Futures Commission Merchant
+ 
+SG Americas Securities, LLC, a Delaware limited liability company, serves as RISE’s clearing broker to execute and clear RISE’s futures and options transactions and provide other brokerage-related services. SGAS is an FCM and broker dealer registered with the CFTC and the U.S. Securities and Exchange Commission (the “SEC”), and is a member of the Financial Industry Regulatory Authority (“FINRA”). SGAS is a clearing member of all principal futures exchanges located in the United States as well as a member of the Chicago Board Options Exchange, International Securities Exchange, New York Stock Exchange, Options Clearing Corporation, and Government Securities Clearing Corporation. RISE has estimated that it will pay 0.08% of RISE’s NAV annually in brokerage fees for execution and clearing services on behalf of RISE.
+ 
+SGAS is headquartered at 245 Park Avenue, New York, NY 10167 with a branch office in Chicago and, as securities only branches, in Houston, Boston and Dallas.
+ 
+On January 2, 2015, Newedge USA, LLC (“Newedge USA” or “NUSA”) merged with and into SGAS, with the latter as the surviving entity.
+ 
+The following disclosure is intended to provide information that may be material to an FCM customer regarding administrative, civil, or criminal actions filed against SGAS or Newedge USA during the last five years. Only material items have been included and the below is not a comprehensive list of all proceedings to which either entity is or has been a party. Additional information on regulatory, civil and arbitration proceedings involving SGAS or legacy Newedge USA is available through FINRA’s BrokerCheck (which can be accessed electronically at www.finra.org), the National Futures Association’s Background Affiliation Status Information Center (which can be accessed electronically at www.nfa.futures.org/basicnet). In addition, proceedings that are material to SGAS’s ultimate corporate parent Societe Generale are described under the caption “Compliance, Reputational and Legal Risks” in Societe Generale’s annual Registration Document and associated updates (which are available through the Societe Generale website at www.societegenerale.com).
+ 
+Regulatory Proceedings
+ 
+In February 2015, SGAS, as successor to Newedge USA, settled, without admitting or denying the allegations, a matter brought by the CME Group alleging that on multiple occasions between 2010 and 2012, Newedge USA employees executed certain customers’ orders as EFRPs, instead of on CME Group’s GLOBEX platform. The settlement also included allegations that EFRPs were non bona fide and/or inadequately documented. In connection with this matter, SGAS paid a fine of $1,100,000 to Comex and $650,000 to NYMEX.
+ 
+In October 2015, SGAS, as successor to Newedge USA, settled, without admitting or denying the allegations, a matter brought by ICE Futures U.S. that was based on alleged failures by Newedge USA to report an open interest in three energy futures contracts in accordance with the rules of the exchange over a period of approximately twenty-two business days in May and June 2014. In connection with this matter, SGAS paid a fine of $100,000.
+ 
+In October 2015, SGAS, as successor to Newedge USA, settled, without admitting or denying the allegations, a matter brought by FINRA for failing to report certain short interest positions in 2010-2012. In connection with this matter, SGAS paid a fine in the amount of $120,000.
+ 
+Beginning in late 2013, the SEC reviewed transactions by SGAS’s Non-Agency Mortgage Desk in which SGAS bought baskets of securities from a counterparty and sold the securities back to the same counterparty, and also reviewed communications with counterparties regarding certain riskless principal trades. The SEC reviewed transactions that occurred between approximately December 2011 and June 2013. SGAS cooperated with the investigation and disciplined the trader involved and her supervisor. In December 2015, SGAS paid $1,011,093 to settle the matter, consisting of a $800,000 fine and $211,093 in disgorgement including interest.
+ 
+6
+
+ 
+
+In December 2015, SGAS, as successor to Newedge USA, settled, without admitting or denying the allegations, a matter brought by the Chicago Board Options Exchange (Cboe) concerning Newedge USA’s large option position reporting (LOPR) errors from 2010-2012. In connection with this settlement, SGAS paid a fine of $650,000.
+ 
+In June 2016, SGAS, as successor to Newedge USA, settled, without admitting or denying the allegations, a matter brought by the Chicago Board of Trade (CBOT) alleging that on six days between November 2013 and January 2014, three traders for Newedge (one employed by Newedge and two by its Canadian affiliate) entered into separate transactions with third parties prior to consummating the block trade with the counterparty in violation of CBOT Rules 432.W. and 526. The settlement included a fine in the amount of $100,000 and a disgorgement of profits in the amount of $19,502.50.
+ 
+In September 2016, SGAS, as successor to Newedge USA, settled, without admitting or denying the allegations, a matter brought by the CFTC alleging Newedge USA violated Section 4C(A) of the Commodity Exchange Act and Regulations 1.38 and 166.3 by executing and confirming numerous exchange for physical transactions in agricultural and soft commodities for and on behalf of its clients that were for the same contract, quantity and same or similar price with the buyer and seller for each transaction under the same common control and ownership. The settlement includes a $750,000 civil penalty and an undertaking to implement policies, procedures and training programs reasonably designed to prevent the execution, clearing and reporting to an exchange of non-bona fide exchange of futures for physical transactions.
+ 
+In April 2017, SGAS settled, without admitting or denying the allegations, a matter brought by the Chicago Board of Options Exchange and NYSE ARCA, Inc, for failing to report, or accurately report, “reportable positions” on its large option position report in violation of Exchange Rules 4.2 and 4.13. In connection with this matter, SGAS paid a fine of $100,000 to each of the Cboe and NYSE ARCA, Inc.
+ 
+In April 2017, SGAS, as successor to Newedge USA settled, without admitting or denying the findings, a matter brought by FINRA for failing to establish and maintain a supervisory system reasonably designed to ensure that customers were sent account statements, notified of availability of statements on its customer portal, agreed to receive statements and confirmations electronically, and were sent confirmations which contained all of the required information, The settlement included payment of a fine in the amount of $100,000.
+ 
+In July 2017, SGAS settled, without admitting or denying the findings, a matter with the CME Group where the CME alleged SGAS violated CME Rules 9.70.A., 971.A.2.A., B. and C., 980.A. and 980.B.1 and 2. The settlement related to two separate CME exam findings: 1) balances were not consistently identifiable in the general ledger and 2) procedures for resolving the general ledger suspense balances were not sufficient. In connection with this matter, SGAS paid a fine of $150,000.
+ 
+In January 2018, SGAS, without admitting or denying the findings, settled a matter with FINRA in which FINRA alleged SGAS failed to meet certain FINRA trade reporting requirements and also disclosed the incorrect capacity on certain customer confirmations, in violation of various FINRA and NASD rules. In connection with this matter, SGAS paid a fine of $200,000 and also undertook to re-report certain trades, pay associated transaction fees not previously paid due to the reporting issues, and revise certain of its written supervisory procedures.
+ 
+In March 2018, SGAS settled, without admitting or denying the findings, a matter brought by FINRA in connection with SGAS’s over-submissions of shares in certain tender offers. The settlement included payment of a fine in the amount of $50,000 plus disgorgement of profits in the amount of $469,130.
+ 
+In September 2018, SGAS settled, without admitting or denying the findings, a matter brought by the SEC alleging that in 2012-2015 Newedge USA (and then SGAS) engaged in transactions in pre-released American Depositary Receipts (ADRs) without complying with certain obligations of the Securities Act of 1933, and failed to supervise borrowing and lending of pre-released ADRs by its personnel in violation of certain provisions of the Exchange Act of 1934. The settlement included payment of a $250,000 fine, $486,672 in disgorgement, and $82,657 in pre-judgment interest.
+ 
+In October 2018, SGAS settled, without admitting or denying the findings, a matter brought by FINRA on behalf of Cboe BZX, Cboe EDGA, Cboe EDGX, Nasdaq and Nasdaq PHLX regarding incorrect use of capacity codes on exchange orders in 2014-2016. The settlement included payment of fines totaling $175,000.
+ 
+In April 2019, SGAS settled, without admitting or denying the findings, a matter brought by FINRA on behalf of NYSE Arca and Cboe regarding deficiencies in large option position reporting at NUSA. The settlement included payment of a fine totaling $600,000.
+ 
+7
+
+ 
+
+In April 2019, SGAS settled, without admitting or denying the findings, a matter brought by NYSE Regulation Enforcement which concerned an equity trade error in 2015 allegedly improperly offset by an affiliate trade. The settlement also alleged inadequate market access controls, testing, and supervisory failures associated with the cause of the trade error. The settlement included payment of a fine in the amount of $380,000.
+ 
+In May 2019, SGAS settled, without admitting or denying the findings, a matter brought by FINRA on behalf of Cboe, Nasdaq PHLX, NYSE American, and NYSE Arca concerning inaccurate capturing and recording of order receipt time and order route time for certain manual options orders sent to floor brokers. The settlement included payment of fines totaling $115,000.
+ 
+In July 2019, SGAS settled, without admitting or denying the findings, two matters brought by the CBOT and the New York Mercantile Exchange (“NYMEX”), which alleged impermissible pre-hedging of block trades as well as late and inaccurate block trade reporting in 2014-2016. The settlement included payment of fines totaling $350,000 and disgorgement of profits totaling $152,625.
+ 
+Litigation
+ 
+The Official Committee of Unsecured Creditors of Tribune Company, et al. v. Dennis J. Fitzsimmons, et al.; Deutsche Bank Trust Company Americas, et al. v. Adaly Opportunity Fund TD Securities Inc., et al.; and Williams A. Niese, et al. v. AllianceBernstein L.P., et al. are lawsuits arising from the bankruptcy of the Tribune Company, which was the subject of a leveraged buyout in 2007. The suits generally allege that the LBO left the company overleveraged, thus leading to its bankruptcy, and seek to recover payments made to holders of Tribune shares under various federal and state law theories of liability. The lawsuits have been dismissed and are now on appeal. SGAS is defending the cases.
+ 
+Vega Opportunity Fund LLC v. Newedge USA, LLC is a FINRA arbitration filed by a former NUSA customer alleging claims of fraud, deceptive trade practices, breach of fiduciary duty, breach of contract, and violation of Illinois Securities Law. NUSA is alleged to be responsible for capital losses due to false representations of risk management by NUSA. SGAS is defending the case.
+ 
+Allianz Global Investors GmbH, et al. v. Bank of America Corporation, et al. is a litigation filed on behalf of entities that decided to opt out of the class action settlement in the action In re Foreign Exchange Benchmark Rates Antitrust Litigation, which alleged conspiracy to fix prices in the FX market beginning in 2003. SGAS is defending the case.
+ 
+In re ProShares Trust II Securities Litigation is a putative class action brought by investors in ProShares Short VIX Short-Term Futures ETFs, which lost significant value in February 2018. In addition to claims against the issuer, the action asserts claims under the Securities Act of 1933 against SGAS, Newedge, and other “Authorized Participants” who are alleged to be underwriters of ETF shares, based upon purported misstatements or omissions by the issuer in the offering documents. SGAS is defending the case.
+ 
+Putnam Bank v. Intercontinental Exchange, Inc., et al., City of Livonia Employees’ Retirement System and City of Livonia Retiree Health and Disability Benefits Plan v. Intercontinental Exchange, Inc., et al., and Hawaii Sheet Metal Workers Health & Welfare Fund, et al. v. Intercontinental Exchange, Inc., et al. are putative class actions concerning purported manipulation of Libor rates from February 2014 to the present brought against several financial institutions, including SG and SGAS. SG and SGAS are defending the cases.
+In re GSE Bonds Antitrust Litigation is a putative class action asserting antitrust claims under the Sherman Act against SGAS and other financial institutions based upon alleged anti-competitive behavior in the trading of bonds issued by U.S. Government Sponsored Enterprises (GSEs), i.e., Federal Home Loan Bank (FHLB), Federal Home Loan Mortgage Corporation (Freddie Mac), and Federal National Mortgage Association (Fannie Mae). SGAS is defending the case.
+ 
+SGAS has also been named in purported class and individual actions in connection with its role in underwriting various debt and equity securities offerings. Currently pending matters relate to the offerings of TerraForm Global, Southwestern Energy, Plains All American and Altice USA. Claims in all these cases are asserted under the Securities Act of 1933 and/or state law against SGAS in its role as a member of the underwriting syndicate, and are based upon purported misstatements or omissions by the issuers in the offering documents. SGAS is defending the cases.
+ 
+Neither SGAS nor any affiliate, officer, director or employee thereof have passed on the merits of this Memorandum or offering, or give any guarantee as to the performance or any other aspect of the Fund.
+
+ 
+8
+
+ 
+
+BDRY Futures Commission Merchant
+ 
+Macquarie Futures USA LLC (“Macquarie”) serves as BDRY’s broker clearing broker to execute and clear BDRY’s futures and options transactions and provide other brokerage-related services. Macquarie is an FCM registered with the CFTC. BDRY has estimated that, on an annual basis, it will pay 0.76% of BDRY’s NAV in brokerage fees for execution and clearing services on behalf of BDRY.
+ 
+Macquarie’s head office is at 125 West 55th Street, New York, NY 10019.
+ 
+There have been no material administrative, civil or criminal actions brought, pending or concluded against Macquarie or its principals in the past five years.
+ 
+Neither Macquarie nor any affiliate, officer, director or employee thereof have passed on the merits of this prospectus or offering, or give any guarantee as to the performance or any other aspect of BDRY.
+ 
+Macquarie is not affiliated with either BDRY or the Sponsor. Therefore, the Sponsor and BDRY do not believe that BDRY has any conflicts of interest with Macquarie or its trading principals arising from their acting as BDRY’s FCM.
+ 
+Legal Counsel
+ 
+Sullivan & Worcester LLP serves as legal counsel to the Trust and the Funds.
+ 
+Fees of the Funds
+ 
+Management and CTA Fees 
+ 
+RISE and BDRY each pay the Sponsor a management fee (the “Sponsor Fee”) in consideration of the Sponsor’s advisory services to the Funds. Additionally, RISE and BDRY each pays its respective commodity trading advisor a license and service fee (the “CTA Fee”).
+ 
+RISE pays the Sponsor Fee monthly in arrears, in an amount equal to the greater of 0.15% per annum of the value of RISE’s average daily net assets or $75,000 effective January 1, 2018. The Sponsor Fee is paid in consideration of the Sponsor’s management services to RISE. Prior to January 1, 2018, RISE’s Sponsor Fee was calculated as the greater of 0.15% per annum of the value of RISE’s average daily net assets or, $18,750 for the year ended December 31, 2018. RISE also pays Sit a CTA Fee monthly in arrears, for the use of the RISE Benchmark Portfolio in an amount equal to 0.20% effective January 1, 2018 (0.50% prior to January 1, 2018) per annum of RISE’s average daily net assets.
+ 
+As of January 1, 2018, the Sponsor has contractually agreed to waive RISE’s Sponsor Fee and/or assume RISE’s remaining expenses so that RISE’s expenses do not exceed an annual rate of 1.00%, excluding brokerage commissions, interest expense, and extraordinary expenses, of the value of RISE’s average daily net assets (the “RISE Expense Cap”). The assumption of expenses and waiver of RISE’s Sponsor fee are contractual on the part of the Sponsor, through September 30, 2020. If after that date, the Sponsor no longer assumed expenses or waived RISE’s Sponsor Fee, RISE could be adversely impacted, including in its ability to achieve its investment objective.
+ 
+Prior to January 1, 2018, Sit had agreed to waive the CTA fee and the Sponsor agreed to correspondingly assume the remaining expenses of RISE so that RISE expenses did not exceed an annual fee of 1.50%, excluding brokerage commissions, interest expense, and extraordinary expenses, of the value of RISE’s average daily net assets.
+ 
+The waiver of RISE’s Sponsor Fee, pursuant to the contractual RISE Expense Cap, amounted to $24,657 for the year ended June 30, 2018. The waiver of RISE’s CTA fee amounted to $49,453 for the year ended June 30, 2018. RISE currently accrues its daily expenses up to the RISE Expense Cap. At the end of each month, the accrued amount is remitted to the Sponsor as the Sponsor is responsible for the payment of the routine operational, administrative and other ordinary expenses of RISE. RISE’s total expenses amounted to $693,783 and $606,334, for the years ended June 30, 2019 and 2018, respectively, of which $184,268 and $87,625, respectively, was absorbed by the Sponsor pursuant to the RISE Expense Cap.
+ 
+BDRY pays the Sponsor Fee, monthly in arrears, in an amount equal to the greater of 0.15% per year of BDRY’s average daily net assets, or $125,000. BDRY’s Sponsor Fee is paid in consideration of the Sponsor’s management services to BDRY. BDRY also pays Breakwave the CTA Fee monthly in arrears, for the use of BDRY’s Benchmark Portfolio in an amount equal to 1.45% per annum of BDRY’s average daily net assets.
+ 
+Breakwave has agreed to waive its CTA Fee and the Sponsor has agreed to correspondingly assume the remaining expenses of BDRY so that BDRY’s expenses do not exceed an annual rate of 3.50%, excluding brokerage commissions, interest expense, and extraordinary expenses, of the value of BDRY’s average daily net assets (the “BDRY Expense Cap”). The assumption of expenses and waiver of BDRY’s CTA Fee are contractual on the part of the Sponsor and Breakwave, respectively, through September 30, 2020. If after that date, the Sponsor and/or Breakwave no longer assumed expenses or waived the CTA Fee, respectively, BDRY could be adversely impacted, including in its ability to achieve its investment objective.
+ 
+The assumption of expenses by the Sponsor for BDRY, pursuant to the BDRY Expense Cap, amounted to $477,429 and $165,676 for the year ended June 30, 2019 and for the period from March 22, 2018 to June 30, 2018, respectively, as disclosed in the Combined Statements of Operations. The waiver of Breakwave’s CTA fees, pursuant to the undertaking, amounted to $45,460 and $14,567 for the year ended June 30, 2019 and for the period from March 22, 2018 to June 30, 2018, respectively, as disclosed in the Combined Statements of Operations. BDRY currently accrues its daily expenses up to the BDRY Expense Cap. At the end of each month, the accrued amount is remitted to the Sponsor as the Sponsor is responsible for the payment of the routine operational, administrative and other ordinary expenses of the Fund. BDRY’s total expenses amounted to $667,238 and $231,538 for the year ended June 30, 2019 and for period from March 22, 2018 to June 30, 2018.
+  9
+
+ 
+
+Administrator, Custodian, Fund Accountant, and Transfer Agent Fees 
+ 
+RISE has agreed to pay U.S. Bank 0.05% of assets under management (“AUM”), with a $50,000 minimum annual fee payable for its administrative, accounting and transfer agent services and 0.01% of AUM, with an annual minimum of $4,800 for custody services.
+ 
+Effective March 22, 2018, BDRY has agreed to pay U.S. Bank 0.05% of AUM, with a $45,000 minimum annual fee payable for its administrative, accounting and transfer agent services and 0.01% of AUM, with an annual minimum of $4,800 for custody services.
+ 
+Distribution Fees
+ 
+RISE and BDRY each pay the Distributor an annual fee for statutory and wholesaling distribution services and related administrative services equal to the greater of $15,000 or 0.02% of RISE and BDRY’s, respectively, average daily net assets, payable monthly. Pursuant to the applicable Marketing Agent Agreement between the Sponsor, each Fund and the Distributor, the Distributor assists the Sponsor and the applicable Fund with certain functions and duties relating to distribution and marketing services to the applicable Fund, including reviewing and approving marketing materials and certain regulatory compliance matters. The Distributor also assists with the processing of creation and redemption orders. 
+ 
+RISE incurred $17,496 and $17,494 in distribution and related administrative services for the year ended June 30, 2019 and 2018, respectively. BDRY incurred $16,497 and $4,520 in distribution and related administrative services for the year ended June 30, 2019 and for the period from March 22, 2018 to June 30, 2018, respectively, as disclosed in the Combined Statements of Operations.
+ 
+RISE also pays the Sponsor an annual fee for wholesale support services equal to 0.1% of RISE’s average daily net assets, payable monthly. BDRY pays the Sponsor for wholesale support services at an annual rate of $25,000 plus 0.12% of BDRY’s average daily net assets, payable monthly.
+ 
+RISE incurred $45,717 and $33,720 in wholesale support fees for the year ended June 30, 2019 and 2018, respectively. BDRY incurred $28,762 and $9,680 in wholesale support fees for the year ended June 30, 2019 and for the period from March 22, 2018 to June 30, 2018, respectively, as disclosed in the Combined Statements of Operations.
+ 
+Futures Commission Merchant Fees
+ 
+RISE and BDRY each pay respective brokerage commissions, including applicable exchange fees, NFA fees, give–up fees, pit brokerage fees and other transaction related fees and expenses charged in connection with trading activities in CFTC regulated investments. Brokerage commissions on futures contracts are recognized on a half-turn basis.
+ 
+The Sponsor does not expect brokerage commissions and fees, on an annual basis, to exceed 0.08% for RISE, and 0.76% for BDRY, of the NAV of the applicable Fund for execution and clearing services on behalf of the applicable Fund, although the actual amount of brokerage commissions and fees in any year or any part of any year may be greater. The effects of trading spreads, financing costs associated with financial instruments, and costs relating to the purchase of Treasury Instruments or similar high credit quality short-term fixed-income or similar securities are not included in the foregoing analysis. RISE incurred $52,348 and $42,798 in brokerage commissions and fees for the year ended June 30, 2019 and 2018, respectively, as disclosed in the Combined Statements of Operations. BDRY incurred $34,610 and $16,135 in brokerage commissions and fees for the year ended June 30, 2019 and for the period from March 22, 2018 to June 30, 2018, respectively, as disclosed in the Combined Statements of Operations.
+ 
+Other Fees
+ 
+RISE and BDRY are each responsible for certain other expenses, including professional services (e.g., outside auditor’s fees and legal fees and expenses), shareholder Form K-1’s, tax return preparation, regulatory compliance, and other services provided by affiliated and non-affiliated service providers. The fees for Principal Financial Officer and Chief Compliance Officer services provided to the Funds by the Sponsor amount to $25,000 per annum. Certain additional fees paid to the Sponsor by the Funds for tax return preparation and regulatory reporting fees amount to $50,000 ($100,000 prior to April 1, 2019) and $25,000, respectively, per annum.
+ 
+Extraordinary fees
+ 
+RISE and BDRY each pay all of their extraordinary fees and expenses, if any. Extraordinary fees and expenses are fees and expenses which are non-recurring and unusual in nature, such as legal claims and liabilities, litigation costs or indemnification or other unanticipated expenses. Extraordinary fees and expenses are fees and expenses which are nonrecurring and unusual in nature, such as legal claims and liabilities, litigation costs or indemnification or other unanticipated expenses. Such extraordinary fees and expenses, by their nature, are unpredictable in terms of timing and amount.
+ 
+Form of Shares
+ 
+Registered Form
+ 
+Shares of the Funds are issued in registered form in accordance with the respective Trust Agreement for each Fund. U.S. Bank has been appointed registrar and transfer agent for the purpose of transferring shares in certificated form. U.S. Bank keeps a record of all limited partners and holders of the shares in certificated form in the registry (the “Register”). The Sponsor recognizes transfers of shares in certificated form only if done in accordance with the respective Trust Agreement for each Fund. The beneficial interests in such shares are held in book-entry form through participants and/or accountholders in the Depository Trust Company (“DTC”).
+ 
+10
+
+ 
+
+Book Entry
+ 
+Individual certificates are not issued for the shares. Instead, shares are represented by one or more global certificates, which are deposited by the Administrator with, or on behalf of, DTC and registered in the name of Cede & Co., as nominee for DTC. The global certificates evidence all of the shares outstanding at any time. Shareholders are limited to (1) participants in DTC such as banks, brokers, dealers and trust companies (“DTC Participants”), (2) banks, brokers, dealers and trust companies who maintain, either directly or indirectly, a custodial relationship with, or clear through, a DTC Participant (“Indirect Participants”), and (3) persons holding interests in the shares through DTC Participants or Indirect Participants, in each case who satisfy the requirements for transfers of shares.
+ 
+Shareholders will be shown on, and the transfer of Shares will be effected only through, in the case of DTC Participants, the records maintained by the Depository and, in the case of Indirect Participants and Shareholders holding through a DTC Participant or an Indirect participant, through those records or the records of the relevant DTC Participants or Indirect participants. Shareholders are expected to receive, from or through which the Shareholder has purchased Shares, a written confirmation relating to their purchase of Shares.
+ 
+DTC
+ 
+DTC is a limited purpose trust company organized under the laws of the State of New York and is a member of the Federal Reserve System, a “clearing corporation” within the meaning of the New York Uniform Commercial Code and a “clearing agency” registered pursuant to the provisions of Section 17A of the Exchange Act. DTC holds securities for DTC Participants and facilitates the clearance and settlement of transactions between DTC Participants through electronic book-entry changes in accounts of DTC Participants.
+
+
+Calculating NAV
+ 
+Each of the Funds’ NAV is calculated by:
+ 
+
+● | Taking the current market value of its total assets; 
+--+---------------------------------------------------------
+
+
+● | Subtracting any liabilities; and 
+--+-------------------------------------
+
+
+● | Dividing that total by the total number of outstanding shares. 
+--+-------------------------------------------------------------------
+
+ 
+The Administrator calculates the NAV of the Funds once each NYSE Arca trading day. The NAV for a particular trading day is released after 4:00 p.m. E.T. Regular trading on the NYSE Arca typically closes at 4:00 p.m. E.T. In the case of RISE, the Administrator uses the CME closing price (determined at the earlier of the close of the CME or 2:30 p.m. E.T.) for the contracts traded on the CME. In the case of BDRY, the Administrator uses the Baltic Exchange settlement price for the Freight Futures and option contracts. The Administrator calculates or determines the value of all other RISE and BDRY investments using market quotations, if available, or other information customarily used to determine the fair value of such investments as of the earlier of the close of the NYSE Arca or 4.00 p.m New York time, in the case of RISE, and as of the close of the NYSE Arca (typically 4:00 p.m. E.T.), in the case of BDRY, in accordance with the current applicable Administrative Agency Agreement among U.S. Bancorp Fund Services, the Sponsor and RISE or BDRY, respectively. For purposes of calculating the NAV of RISE, “other information” customarily used in determining fair value includes information consisting of market data in the relevant market supplied by one or more third parties including, without limitation, relevant rates, prices, yields, yield curves, volatilities, spreads, correlations or other market data in the relevant market; or information of the types described above from internal sources if that information is of the same type used by RISE in the regular course of its business for the valuation of similar transactions. The information may include costs of funding, to the extent costs of funding are not and would not be a component of the other information being utilized. Third parties supplying quotations or market data may include, without limitation, dealers in the relevant markets, end-users of the relevant product, information vendors, brokers and other sources of market information.
+ 
+In addition, in order to provide updated information relating to the Funds for use by investors and market professionals, an updated indicative fund value (“IFV”) is made available through on-line information services throughout the trading hours of 9:30 a.m. E.T. to 4:00 p.m. E.T. on each trading day. In the case of RISE, IFV is calculated by using the prior day’s closing NAV per share of RISE as a base and updating that value throughout the trading day to reflect changes in the most recently reported trade price for the futures and options held by RISE traded on the CME. In the case of BDRY, the IFV is calculated by using the prior day’s closing NAV per share of BDRY as a base and updating that value throughout the trading day to reflect changes in the most recently reported trade price for the futures and/or options held by BDRY. Certain Freight Futures brokers provide real time pricing information to the general public either through their websites or through data vendors such as Bloomberg or Reuters. The IFV disseminated during NYSE Arca regular trading hours should not be viewed as an actual real time update of the NAV, because the NAV is calculated only once at the end of each trading day based upon the relevant end of day values of the Funds’ investments.
+ 
+The IFV is disseminated on a per share basis every 15 seconds during NYSE Arca regular trading hours. The normal trading hours of the CME are 10:00 a.m. E.T. to 2:30 p.m. E.T. The customary trading hours of the Freight Futures trading are 3:00 a.m. E.T. to 12:00 p.m. E.T. This means that there is a gap in time at the beginning and/or the end of each day during which a Fund’s shares are traded on the NYSE Arca, but real-time trading prices for contracts are not available. During such gaps in time the IFV will be calculated based on the end of day price of such contracts from the CME’s or Baltic Exchange’s immediately preceding trading session, as applicable. In addition, other investments and U.S. Treasuries held by the Funds will be valued by the Administrator, using rates and points received from client-approved third party vendors (such as Reuters and WM Company) and advisor or broker-dealer quotes. These investments will not be included in the IFV.
+ 
+The NYSE Arca disseminates the IFV through the facilities of CTA/CQ High Speed Lines. In addition, the IFV is published on the NYSE Arca’s website and is available through on-line information services such as Bloomberg and Reuters.
+ 
+11
+
+ 
+
+Dissemination of the IFV provides additional information that is not otherwise available to the public and is useful to investors and market professionals in connection with the trading of a Fund’s shares on the NYSE Arca. Investors and market professionals are able throughout the trading day to compare the market price of a Fund’s shares and the IFV. If the market price of a Fund’s shares diverges significantly from the IFV, market professionals will have an incentive to execute arbitrage trades. For example, if RISE’s or BDRY’s shares appear to be trading at a discount compared to the IFV, a market professional could buy RISE’s or BDRY’s shares on the NYSE Arca and take the opposite position in Treasury Instruments or Freight Futures, as applicable. Such arbitrage trades can tighten the tracking between the market price of a Fund’s shares and the IFV and thus can be beneficial to all market participants.
+ 
+Creation and Redemption of Shares
+ 
+The Funds create and redeem shares from time to time, but only in one or more Creation Baskets or Redemption Baskets. The creation and redemption of baskets are only made in exchange for delivery to the Funds or the distribution by the Funds of the amount of U.S. Treasuries and/or any cash represented by the baskets being created or redeemed, the amount of which is based on the combined NAV of the number of shares included in the baskets being created or redeemed determined as of 4:00 p.m. E.T. on the day the order to create or redeem baskets is properly received.
+ 
+Authorized Participants are the only persons that may place orders to create and redeem baskets. Authorized Participants must be (1) registered broker-dealers or other securities market participants, such as banks and other financial institutions, that are not required to register as broker-dealers to engage in securities transactions described below, and (2) DTC Participants. To become an Authorized Participant, a person must enter into an Authorized Participant Agreement with the Sponsor. The Authorized Participant Agreement provides the procedures for the creation and redemption of baskets and for the delivery of the U.S. Treasuries and any cash required for such creation and redemptions. The Authorized Participant Agreement and the related procedures attached thereto may be amended by the respective Funds, without the consent of any limited partner or shareholder or Authorized Participant. Authorized Participants will pay a transaction fee of $500 to the Custodian for each order they place to create or redeem one or more baskets. Authorized Participants who make deposits with a Fund in exchange for baskets receive no fees, commissions or other form of compensation or inducement of any kind from either the respective Fund or the Sponsor, and no such person will have any obligation or responsibility to the Sponsor or the respective Fund to effect any sale or resale of shares.
+ 
+With respect to RISE, certain Authorized Participants are expected to be capable of participating directly in the Treasury market and the related derivatives market. In some cases, Authorized Participants or their affiliates may from time to time buy or sell Treasuries and related derivatives and may profit in these instances. The Sponsor believes that the size and operation of the Treasury market make it unlikely that an Authorized Participant’s direct activities in such markets will significantly affect the price of Treasuries, related derivatives or the price of the shares.
+ 
+Each Authorized Participant is required to be registered as a broker-dealer under the Exchange Act and be a member in good standing with FINRA, or exempt from being or otherwise not required to be registered as a broker-dealer or a member of FINRA, and qualified to act as a broker or dealer in the states or other jurisdictions where the nature of its business so requires. Certain Authorized Participants may also be regulated under federal and state banking laws and regulations. Each Authorized Participant has its own set of rules and procedures, internal controls and information barriers as it determines is appropriate in light of its own regulatory regime.
+ 
+Under the Authorized Participant Agreements, the Sponsor has agreed to indemnify the Authorized Participants against certain liabilities, including liabilities under the 1933 Act, and to contribute to the payments the Authorized Participants may be required to make in respect of those liabilities.
+
+
+Creation Procedures
+ 
+On any business day, an Authorized Participant may place an order with the Transfer Agent, and accepted by the Distributor, to create one or more baskets. For purposes of processing purchase and redemption orders, a “business day” means any day other than a day when any of the NYSE Arca, the New York Stock Exchange or the CME, in the case of RISE, or the Baltic Exchange, in the case of BDRY, is closed for regular trading. Purchase orders must be placed by 12:00 p.m. E.T. or the close of the NYSE Arca core trading session, whichever is earlier. The day on which a valid purchase order is received in accordance with the terms of the applicable “Authorized Participant Agreement” is referred to as the purchase order date. Purchase orders are irrevocable. Prior to the delivery of baskets for a purchase order, the Authorized Participant will be charged a non-refundable transaction fee due for the purchase order.
+ 
+The manner by which creations are made is dictated by the terms of the applicable Authorized Participant Agreement. By placing a purchase order for Creation Baskets of RISE, an Authorized Participant agrees to deposit U.S. Treasuries, cash, or a combination of U.S. Treasuries and cash with the Custodian of RISE. If an Authorized Participant fails to so deposit, the order shall be cancelled.
+ 
+Determination of Required Deposits (RISE only)
+ 
+The total deposit required to create each basket (“Creation Basket Deposit”) is the amount of U.S. Treasuries and/or cash that is in the same proportion to the total assets of the Fund (net of estimated accrued but unpaid fees, expenses and other liabilities) on the purchase order date as the number of shares to be created under the purchase order is in proportion to the total number of shares outstanding on the purchase order date. The Sponsor determines, directly in its sole discretion or in consultation with the Administrator, the requirements for U.S. Treasuries and the amount of cash, including the maximum permitted remaining maturity of a Treasury and proportions of each Treasury and cash that may be included in deposits to create baskets. The Distributor will publish such requirements at the beginning of each business day. The amount of cash deposit required is the difference between the aggregate market value of the U.S. Treasuries required to be included in a Creation Basket Deposit as of 4:00 p.m. E.T. on the date the order to purchase is properly received and the total required deposit.
+ 
+12
+
+ 
+
+Determination of Required Payment (BDRY only)
+ 
+The Creation Basket Deposit for BDRY is the NAV of 25,000 shares on the purchase order date, but only if the required payment is timely received. To calculate the NAV, the Administrator will use the Baltic Exchange settlement price (typically determined after 2:00 p.m. E.T.) for the Freight Futures.
+ 
+Because orders to purchase Creation Baskets must be placed no later than 12:00 p.m. E.T., but the total payment required to create a Creation Basket typically will not be determined until after 2:00 p.m. E.T., on the date the purchase order is received, Authorized Participants will not know the total amount of the payment required to create a Creation Basket at the time they submit an irrevocable purchase order. The NAV and the total amount of the payment required to create a Creation Basket could rise or fall substantially between the time an irrevocable purchase order is submitted and the time the amount of the purchase price in respect thereof is determined.
+ 
+Delivery of Required Deposits (RISE only)
+ 
+An Authorized Participant who places a purchase order is responsible for transferring to the Fund’s account with the Custodian the required amount of U.S. Treasuries and cash by the end of the second business day following the purchase order date. Upon receipt of the deposit amount, the Administrator directs DTC to credit the number of shares represented by the baskets ordered to the Authorized Participant’s DTC account on the second business day following the purchase order date. The expense and risk of delivery and ownership of U.S. Treasuries until such U.S. Treasuries have been received by the Custodian on behalf of the Fund is borne solely by the Authorized Participant.
+ 
+Because orders to purchase baskets must be placed by 12:00 p.m., E.T., but the total payment required to create a basket during the continuous offering period will not be determined until after 4:00 p.m., E.T., on the date the purchase order is received, Authorized Participants will not know the total amount of the payment required to create a basket at the time they submit an irrevocable purchase order for the basket. The Fund’s NAV and the total amount of the payment required to create a basket could rise or fall substantially between the time a purchase order is submitted and the time the amount of the purchase price in respect thereof is determined.
+
+
+Delivery of Required Payment (BDRY only)
+ 
+An Authorized Participant who places a purchase order shall transfer to the Administrator the required amount of U.S. Treasuries and/or cash, by the end of the next business day following the purchase order date. Upon receipt of the deposit amount, the Administrator will direct DTC to credit the number of Creation Baskets ordered to the Authorized Participant’s DTC account on the next business day following the purchase order date.
+ 
+Suspension of Purchase Orders
+ 
+The Sponsor acting by itself or through the Administrator or the Distributor may suspend the right of purchase, or postpone the purchase settlement date, for any period during which the NYSE Arca or other exchange on which the shares are listed is closed, other than for customary holidays or weekends, or when trading is restricted or suspended. None of the Sponsor, the Marketing Agent or the Administrator will be liable to any person or in any way for any loss or damages that may result from any such suspension or postponement.
+Rejection of Purchase Orders
+ 
+The Sponsor acting by itself or through the Distributor shall have the absolute right but no obligation to reject a purchase order or a Creation Basket Deposit if:
+
+● | it determines that the investment alternative available to the Fund at that time will not enable it to meet its investment objective (RISE only); 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | it determines that the purchase order or the purchase order or Creation Basket Deposit is not in proper form; 
+--+------------------------------------------------------------------------------------------------------------------
+
+
+● | it believes that the purchase order or the Creation Basket Deposit would have adverse tax consequences to the Fund, the limited partners or its shareholders (RISE only); 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the acceptance or receipt of the purchase order or Creation Basket Deposit would, in the opinion of counsel to the Sponsor, be unlawful; or 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | circumstances outside the control of the Sponsor, Distributor or Custodian make it, for all practical purposes, not feasible to process creations of baskets. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+None of the Sponsor, Distributor or Custodian will be liable for the rejection of any purchase order or Creation Basket Deposit.
+ 
+Redemption Procedures
+ 
+The procedures by which an Authorized Participant can redeem one or more baskets mirror the procedures for the creation of baskets. On any business day, an Authorized Participant may place an order with the Distributor to redeem one or more baskets. Redemption orders must be placed by 12:00 p.m. E.T. or the close of the core trading session on the NYSE Arca, whichever is earlier. A redemption order so received will be effective on the date it is received in satisfactory form by the Distributor. The redemption procedures allow Authorized Participants to redeem baskets and do not entitle an individual shareholder to redeem any shares in an amount less than a Redemption Basket, or to redeem baskets other than through an Authorized Participant. Redemption orders are irrevocable.
+ 
+13
+
+ 
+
+The manner by which redemptions are made is dictated by the terms of the Authorized Participant Agreement. By placing an order for Redemption Baskets of RISE, an Authorized Participant agrees to (1) deliver the Redemption Basket to be redeemed through DTC’s book-entry system to the Fund’s account with the Custodian not later than 3:00 p.m. E.T. on the second business day following the effective date of the redemption order, and (2) if required by the Sponsor in its sole discretion, enter into or arrange for a block trade, an exchange for related position, or any other transaction (through itself or a designated acceptable broker) with the Fund for the sale of a number and type of futures contracts at the closing settlement price for such contracts on the redemption order date. If an Authorized Participant fails to consummate (1) and (2) above, the order shall be cancelled. The number and type of contracts specified shall be determined by the Sponsor, in its sole discretion, to meet the Fund’s investment objective and shall be sold as a result of the Authorized Participant’s redemption of shares. By placing an order for Redemption Baskets of BDRY, an Authorized Participant agrees to deliver the Redemption Baskets to be redeemed through DTC’s book-entry system to the Fund not later than 12:00 p.m. E.T., on the next business day immediately following the redemption order date. Prior to the delivery of redemption distribution or proceeds, the Authorized Participant will be charged a non-refundable transaction fee due for the redemption order.
+ 
+Determination of Redemption Distribution (RISE only)
+ 
+The redemption distribution from the Fund consists of a transfer to the redeeming Authorized Participant of an amount of U.S. Treasuries and/or cash that is in the same proportion to the total assets of the Fund (net of estimated accrued but unpaid fees, expenses and other liabilities) on the date the order to redeem is properly received as the number of shares to be redeemed under the redemption order is in proportion to the total number of shares outstanding on the date the order is received. The Sponsor, directly or in consultation with the Administrator, determines the requirements for U.S. Treasuries and the amounts of cash, including the maximum permitted remaining maturity of a Treasury, and the proportions of U.S. Treasuries and cash that may be included in distributions to Redeem Baskets. The Distributor will publish an estimate of the redemption distribution per basket as of the beginning of each business day.
+ 
+Determination of Redemption Proceeds (BDRY only)
+ 
+The redemption proceeds from the Fund consist of a cash redemption amount equal to the NAV of the number of Baskets requested in the Authorized Participant’s redemption order on the redemption order date. To calculate the NAV, the Administrator will use the Baltic Exchange settlement price (typically determined after 2:00 p.m. E.T.) for the Freight Futures.
+ 
+Because orders to redeem baskets must be placed no later than 12:00 p.m. E.T., but the total amount of redemption proceeds typically will not be determined until after 2:00 p.m. E.T., on the date the redemption order is received, Authorized Participants will not know the total amount of the redemption proceeds at the time they submit an irrevocable redemption order. The NAV and the total amount of redemption proceeds could rise or fall substantially between the time an irrevocable redemption order is submitted and the time the amount of redemption proceeds in respect thereof is determined.
+ 
+Delivery of Redemption Distribution (RISE only)
+ 
+The redemption distribution due from the Fund will be delivered to the Authorized Participant by 3:00 p.m. E.T. on the second business day following the redemption order date if, by 3:00 p.m. E.T. on such second business day, the Fund’s DTC account has been credited with the shares represented by the baskets to be redeemed. If the Fund’s DTC account has not been credited with all of the shares represented by the baskets to be redeemed by such time, the redemption distribution will be delivered to the extent of whole baskets received. Any remainder of the redemption distribution will be delivered on the next business day to the extent of remaining shares represented by the whole baskets received if the Fund receives the fee applicable to the extension of the redemption distribution date which the Sponsor may, from time to time, determine and the remaining baskets to be redeemed are credited to the Fund’s DTC account by 3:00 p.m. E.T. on such next business day. Any further outstanding amount of the redemption order will be cancelled. Pursuant to information from the Sponsor, the Custodian will also be authorized to deliver the redemption distribution notwithstanding that the baskets to be redeemed are not credited to the Fund’s DTC account by 3:00 p.m. E.T. on the second business day following the redemption order date if the Authorized Participant has collateralized its obligation to deliver the baskets through DTC’s book entry-system on such terms as the Sponsor may from time to time determine.
+
+
+Delivery of Redemption Proceeds (BDRY only)
+ 
+The redemption proceeds due from the Fund will be delivered to the Authorized Participant at 1:00 p.m. E.T., on the next business day immediately following the redemption order date if, by such time, the Fund’s DTC account has been credited with the baskets to be redeemed. If the Fund’s DTC account has not been credited with all of the baskets to be redeemed by such time, the redemption distribution is delivered to the extent of whole baskets received. Any remainder of the redemption distribution is delivered on the next business day to the extent of remaining whole baskets received if the Fund receives the fee applicable to the extension of the redemption distribution date which the Sponsor may, from time to time, determine and the remaining baskets to be redeemed are credited to the Fund’s DTC account by 1:00 p.m. E.T., on such next business day. Any further outstanding amount of the redemption order shall be cancelled. The Sponsor may cause the redemption distribution to be delivered notwithstanding that the baskets to be redeemed are not credited to the Fund’s DTC account by 12:00 p.m. E.T., on the next business day immediately following the redemption order date if the Authorized Participant has collateralized its obligation to deliver the Baskets through DTC’s book entry system on such terms as the Sponsor may from time to time determine.
+ 
+14
+
+ 
+
+Suspension or Rejection of Redemption Orders
+ 
+The Sponsor may, in its discretion, suspend the right of redemption, or postpone the redemption settlement date, (1) for any period during which the NYSE Arca, or the CME in the case of RISE, is closed other than customary weekend or holiday closings, or trading on the NYSE Arca, or the CME, in the case of RISE, is suspended or restricted, (2) for any period during which an emergency exists as a result of which delivery, disposal or evaluation of the redemption distribution or redemption proceeds, as applicable, is not reasonably practicable, or (3) for such other period as the Sponsor determines to be necessary for the protection of the limited partners or shareholders. For example, the Sponsor may determine that it is necessary to suspend redemptions to allow for the orderly liquidation of a Fund’s assets at an appropriate value to fund a redemption. If the Sponsor has difficulty liquidating its positions, e.g., because of a market disruption event in the futures markets or a suspension of trading by the exchange where the futures contracts are listed, it may be appropriate to suspend redemptions until such time as such circumstances are rectified. None of the Sponsor, the Distributor, the Transfer Agent, the Administrator, or the Custodian will be liable to any person or in any way for any loss or damages that may result from any such suspension or postponement.
+ 
+Redemption orders must be made in whole baskets. The Sponsor will reject a redemption order if the order is not in proper form as described in the applicable Authorized Participant Agreement or if the fulfillment of the order, in the opinion of its counsel, might be unlawful. The Sponsor may also reject a redemption order if the number of shares being redeemed would reduce the remaining outstanding shares to 50,000 shares (minimum NYSE Arca listing requirement) or less, unless the Sponsor has reason to believe that the placer of the redemption order does in fact possess all the outstanding shares and can deliver them.
+ 
+Creation and Redemption Transaction Fee
+ 
+To compensate the Funds for their expenses in connection with the creation and redemption of baskets, an Authorized Participant is required to pay a transaction fee to the Custodian of $500 per order to create or redeem baskets, regardless of the number of baskets in such order. An order may include multiple baskets. The transaction fee may be reduced, increased or otherwise changed by the Sponsor. The Sponsor will notify DTC of any change in the transaction fee and will not implement any increase in the fee for the redemption of baskets until 30 days after the date of the notice.
+Tax Responsibility
+ 
+Authorized Participants are responsible for any transfer tax, sales or use tax, stamp tax, recording tax, value added tax or similar tax or governmental charge applicable to the creation or redemption of baskets, regardless of whether or not such tax or charge is imposed directly on the Authorized Participant, and agree to indemnify the Sponsor and the Fund if they are required by law to pay any such tax, together with any applicable penalties, additions to tax and interest thereon.
+Secondary Market Transactions
+ 
+As noted, the Funds create and redeem shares from time to time, but only in one or more Creation Baskets or Redemption Baskets. The creation and redemption of baskets are only made in exchange for delivery to the Funds or the distribution by the Funds of the amount of U.S. Treasuries and cash, in the case of RISE, and cash, in the case of BDRY, represented by the baskets being created or redeemed, the amount of which will be based on the aggregate NAV of the number of shares included in the baskets being created or redeemed determined on the day the order to create or redeem baskets is properly received.
+ 
+As discussed above, Authorized Participants are the only persons that may place orders to create and redeem baskets. Authorized Participants must be registered broker-dealers or other securities market participants, such as banks and other financial institutions that are not required to register as broker-dealers to engage in securities transactions. An Authorized Participant is under no obligation to create or redeem baskets, and an Authorized Participant is under no obligation to offer to the public shares of any baskets it does create. Authorized Participants that do offer to the public shares from the baskets they create will do so at per share offering prices that are expected to reflect, among other factors, the trading price of the shares on the NYSE Arca, the NAV of the Fund at the time the Authorized Participant purchased the Creation Baskets and the NAV of the shares at the time of the offer of the shares to the public, the supply of and demand for shares at the time of sale, and the liquidity of the futures contract market and the market for Treasury Instruments or U.S. Treasuries, as applicable. The prices of shares offered by Authorized Participants are expected to fall between the Fund’s NAV and the trading price of the shares on the NYSE Arca at the time of sale.
+ 
+Shares initially comprising the same basket but offered by Authorized Participants to the public at different times may have different offering prices. An order for one or more baskets may be placed by an Authorized Participant on behalf of multiple clients. Authorized Participants that make deposits with the Fund in exchange for baskets receive no fees, commissions or other form of compensation or inducement of any kind from either the Fund or the Sponsor, and no such person has any obligation or responsibility to the Sponsor or the Fund to effect any sale or resale of shares.
+ 
+Shares trade in the secondary market on the NYSE Arca. Shares may trade in the secondary market at prices that are lower or higher relative to their NAV per share. The amount of the discount or premium in the trading price relative to the NAV per share may be influenced by various factors, including the number of investors who seek to purchase or sell shares in the secondary market and the liquidity of the futures contracts market and the market for Treasury Instruments or U.S. Treasuries, as applicable. While the shares trade during regular trading hours on the NYSE Arca until 4:00 p.m. E.T., liquidity in the market for Treasury Instruments or Freight Futures, as applicable, may be reduced after the close of the CME at 2:30 p.m. E.T. or the Freight Futures market at approximately 12:00 p.m. E.T. As a result, during this time, trading spreads, and the resulting premium or discount, on the shares may widen.
+ 
+In the case of BDRY, there are a minimum number of specified baskets and associated shares. Once the minimum number of baskets is reached, there can be no more basket redemptions until there has been a Creation Basket. In such case, market makers may be less willing to purchase shares from investors in the secondary market, which may in turn limit the ability of shareholders of the Fund to sell their shares in the secondary market. As of the date of this annual report the minimum level for BDRY is 25,000 shares, representing one basket.
+ 
+In the case of BDRY, all proceeds from the sale of Creation Baskets will be invested as quickly as practicable in the investments described in this prospectus. BDRY’s cash and investments are held through the Custodian, in accounts with BDRY’s commodity futures brokers or in demand deposits with highly-rated financial institutions. There is no stated maximum time period for BDRY’s operations and BDRY will continue its operations until all shares are redeemed or BDRY is liquidated pursuant to the terms of BDRY’s Trust Agreement.
+
+15
+
+ 
+
+There is no specified limit on the maximum number of Creation Baskets that can be sold, although the Funds may not sell shares in Creation Baskets if such shares have not been registered with the SEC under an effective registration statement.
+ 
+Regulatory Environment
+ 
+The regulation of futures markets, futures contracts, and futures exchanges has historically been comprehensive. The CFTC and the exchanges are authorized to take extraordinary actions in the event of a market emergency including, for example, the retroactive implementation of speculative position limits, increased margin requirements, the establishment of daily price limits and the suspension of trading.
+ 
+The regulation of commodity interest transactions in the United States is an evolving area of law and is subject to ongoing modification by governmental and judicial action. Considerable regulatory attention has been focused on non-traditional investment pools that are publicly distributed in the United States. There is a possibility of future regulatory changes within the United States altering, perhaps to a material extent, the nature of an investment in the Funds, or the ability of the Funds to continue to implement its investment strategy. The effect of any future regulatory change on the Funds is impossible to predict but could be substantial and adverse.
+ 
+The CFTC possesses exclusive jurisdiction to regulate the activities of commodity pool operators and commodity trading advisors with respect to “commodity interests,” such as futures, swaps and options, and has adopted regulations with respect to the activities of those persons and/or entities. Under the CEA, a registered CPO, such as the Sponsor, is required to make annual filings with the CFTC and NFA describing its organization, capital structure, management and controlling persons. In addition, the CEA authorizes the CFTC to require and review books and records of, and documents prepared by, registered CPOs. Pursuant to this authority, the CFTC requires CPOs to keep accurate, current and orderly records for each pool that they operate. The CFTC may suspend the registration of a commodity pool operator (1) if the CFTC finds that the operator’s trading practices tend to disrupt orderly market conditions, (2) if any controlling person of the operator is subject to an order of the CFTC denying such person trading privileges on any exchange, and (3) in certain other circumstances. Suspension, restriction or termination of the Sponsor’s registration as a commodity pool operator would prevent it, until that registration were to be reinstated, from managing the Funds, and might result in the termination of the Funds if a successor sponsor is not elected pursuant to the Trust Agreement.
+ 
+The Funds’ investors are afforded prescribed rights for reparations under the CEA. Investors may also be able to maintain a private right of action for violations of the CEA. The CFTC has adopted rules implementing the reparation provisions of the CEA, which provide that any person may file a complaint for a reparations award with the CFTC for violation of the CEA against a floor broker or an FCM, introducing broker, commodity trading advisor, CPO, and their respective associated persons.
+ 
+Pursuant to authority in the CEA, the NFA has been formed and registered with the CFTC as a registered futures association. At the present time, the NFA is the only self-regulatory organization for commodity interest professionals, other than futures exchanges. The CFTC has delegated to the NFA responsibility for the registration of CPOs and FCMs and their respective associated persons. The Sponsor and the Funds’ clearing broker are members of the NFA. As such, they will be subject to NFA standards relating to fair trade practices, financial condition and consumer protection. The NFA also arbitrates disputes between members and their customers and conducts registration and fitness screening of applicants for membership and audits of its existing members. Neither the Trust nor the Funds are required to become a member of the NFA.
+ 
+The regulations of the CFTC and the NFA prohibit any representation by a person registered with the CFTC or by any member of the NFA, that registration with the CFTC, or membership in the NFA, in any respect indicates that the CFTC or the NFA has approved or endorsed that person or that person’s trading program or objectives. The registrations and memberships of the parties described in this summary must not be considered as constituting any such approval or endorsement. Likewise, no futures exchange has given or will give any similar approval or endorsement.
+ 
+Futures exchanges in the United States are subject to varying degrees of regulation under the CEA depending on whether such exchange is a designated contract market, exempt board of trade or electronic trading facility. Clearing organizations are also subject to the CEA and the rules and regulations adopted thereunder as administered by the CFTC. The CFTC’s function is to implement the CEA’s objectives of preventing price manipulation and excessive speculation and promoting orderly and efficient commodity interest markets. In addition, the various exchanges and clearing organizations themselves exercise regulatory and supervisory authority over their member firms. 
+ 
+The Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”) was enacted in response to the economic crisis of 2008 and 2009 and it significantly altered the regulatory regime to which the securities and commodities markets are subject. To date, the CFTC has issued proposed or final versions of almost all of the rules it is required to promulgate under the Dodd-Frank Act. The provisions of the new law include the requirement that position limits be established on a wide range of commodity interests, including agricultural, energy, and metal-based commodity futures contracts, options on such futures contracts and cleared and uncleared swaps that are economically equivalent to such futures contracts and options; new registration and recordkeeping requirements for swap market participants; capital and margin requirements for “swap dealers” and “major swap participants,” as determined by the new law and applicable regulations; reporting of all swap transactions to swap data repositories; and the mandatory use of clearinghouse mechanisms for sufficiently standardized swap transactions that were historically entered into in the over-the-counter market, but are now designated as subject to the clearing requirement; and margin requirements for over-the-counter swaps that are not subject to the clearing requirements.
+ 
+The Dodd-Frank Act was intended to reduce systemic risks that may have contributed to the 2008/2009 financial crisis. Since the first draft of what became the Dodd-Frank Act, opponents have criticized the broad scope of the legislation and, in particular, the regulations implemented by federal agencies as a result. Since 2010, and most notably in 2015 and 2016, Republicans have proposed comprehensive legislation both in the House and the Senate of the US Congress. These bills are intended to pare back some of the provisions of the Dodd-Frank Act of 2010 that critics view as overly broad, unnecessary to the stability of the U.S. financial system, and inhibiting the growth of the U.S. economy. Further, the administration has promised and issued several executive orders intended to relieve the financial burden created by the Dodd-Frank Act, although these executive orders only set forth several general principles to be followed by the federal agencies and do not mandate the wholesale repeal of the Dodd-Frank Act. The scope of the effect that passage of new financial reform legislation could have on U.S. securities, derivatives and commodities markets is not clear at this time because each federal regulatory agency would have to promulgate new regulations to implement such legislation. Nevertheless, regulatory reform may have a significant impact on U.S. regulated entities.
+ 
+16
+
+ 
+
+Current rules and regulations under the Dodd-Frank Act require enhanced customer protections, risk management programs, internal monitoring and controls, capital and liquidity standards, customer disclosures and auditing and examination programs for FCMs. The rules are intended to afford greater assurances to market participants that customer segregated funds and secured amounts are protected, customers are provided with appropriate notice of the risks of futures trading and of the FCMs with which they may choose to do business, FCMs are monitoring and managing risks in a robust manner, the capital and liquidity of FCMs are strengthened to safeguard the continued operations and the auditing and examination programs of the CFTC and the self-regulatory organizations are monitoring the activities of FCMs in a thorough manner.
+ 
+Regulatory bodies outside the U.S. have also passed or proposed, or may propose in the future, legislation similar to that proposed by the Dodd-Frank Act or other legislation containing other restrictions that could adversely impact the liquidity of and increase costs of participating in the commodities markets. For example, the European Union (“EU”) Markets in Financial Instruments Directive (Directive 2014/65/EU) and Markets in Financial Instruments Regulation (Regulation (EU) No 600/2014) (together “MiFID II”), which has applied since January 3, 2018, governs the provision of investment services and activities in relation to, as well as the organized trading of, financial instruments such as shares, bonds, units in collective investment schemes and derivatives. In particular, MiFID II requires EU Member States to apply position limits to the size of a net position which a person can hold at any time in commodity derivatives traded on trading EU trading venues and in “economically equivalent” over-the-counter (“OTC”) contracts. By way of further example, the European Market Infrastructure Regulation (Regulation (EU) No 648/2012) (“EMIR”) introduced certain requirements in respect of OTC derivatives including: (i) the mandatory clearing of OTC derivative contracts declared subject to the clearing obligation; (ii) risk mitigation techniques in respect of un-cleared OTC derivative contracts, including the mandatory margining of un-cleared OTC derivative contracts; and (iii) reporting and recordkeeping requirements in respect of all derivatives contracts. In the event that the requirements under EMIR and MiFID II apply, these are expected to increase the cost of transacting derivatives.
+ 
+In addition, considerable regulatory attention has been focused on non-traditional publicly distributed investment pools such as the Funds. Furthermore, various national governments have expressed concern regarding the disruptive effects of speculative trading in certain commodity markets and the need to regulate the derivatives markets in general. The effect of any future regulatory change on the Funds is impossible to predict, but could be substantial and adverse.
+ 
+Management believes that as of June 30, 2019, it had fulfilled in a timely manner all Dodd-Frank or other regulatory requirements to which it is subject.
+ 
+SEC Reports 
+ 
+Each Fund makes available, free of charge, on its website (www.risingrateetf.com. for RISE and www.drybulketf.com. for BDRY), its annual reports on Form 10-K, its quarterly reports on Form 10-Q, its current reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after these forms are filed with, or furnished to, the SEC. These reports are also available from the SEC though its website at: www.sec.gov.
+ 
+CFTC Reports 
+ 
+The Trust also makes available, on its website, its monthly reports and its annual reports required to be prepared and filed with the NFA under the CFTC regulations.
+ 

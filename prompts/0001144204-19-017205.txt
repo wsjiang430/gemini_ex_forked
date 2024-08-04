@@ -1,0 +1,486 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ 
+Ideanomics, Inc. (Nasdaq: IDEX) was incorporated in the State of Nevada on October 19, 2004. From 2010 through 2017, our primary business activities have been providing premium content video on demand (“VOD”) services, with primary operations in the PRC, through our subsidiaries and variable interest entities under the brand name You-on-Demand (“YOD”). In our YOD business, we provide premium content and integrated value-added service solutions for the delivery of VOD and paid video programming to digital cable providers, Internet protocol television (“IPTV”) providers, Over-the-Top (“OTT”) streaming providers, mobile manufacturers and operators, as well as direct customers.
+ 
+Starting in early 2017, while continuing to support our YOD business, we began transitioning our business model to become a next-generation financial technology (“fintech”) company, with the intention of offering customized products and services based on best-in-class blockchain, artificial intelligence (“AI”) and other technologies to mature and emerging businesses across various industries. To do so, we are building a technology ecosystem through license agreements, joint ventures and strategic acquisitions, which we refer to as our “Fintech Ecosystem.” In parallel, through strategic acquisitions, equity investments and joint ventures, we are building a network of businesses, operating across industry verticals, that we believe have significant potential to recognize benefits from blockchain and AI technologies including, for example, enhancing operations, addressing cost inefficiencies, improving documentation and standardization, unlocking asset value and improving customer engagement.
+ 
+Our core business strategy is to promote the use, development and advancement of blockchain- and AI-based technologies, and our positioning in the fintech industry overall, by bringing technology leaders together with industry leaders and creating synergies between the businesses in our expanding Fintech Ecosystem and the businesses in our network of industry verticals, which we refer to as our “Industry Ventures.” Specifically, we believe that the technologies being developed in our Fintech Ecosystem can be customized and leveraged to address various use cases presented by our Industry Ventures, which we believe will not only enhance the performance of our Industry Ventures, but also enhance the capabilities of our Fintech Ecosystem. For example, in 2017, we acquired a crude oil trading business and a consumer electronics trading business with the goal of gaining experience in the traditional logistics management and financing business, providing an initial use case for technologies in our Fintech Ecosystem, and enabling the application of our learning from operating these businesses to the development of an AI- and blockchain-enabled platform for more efficient logistics management and finance generally.
+ 
+We refer to our YOD business as our legacy YOD segment and all our other operations, including the development of our Fintech Ecosystem and our Industry Ventures, as our Wecast Services segment, to suggest the wide net we are casting in identifying promising technologies and use cases for operations as a next-generation fintech company. The commodities trading component of the logistics management and financing businesses we acquired in 2017 provided 99.7% of our revenue for the year ended December 31, 2018. As we further develop our FinTech services business and this business continues to mature, we have been gradually phasing out of our logistics management and financing business for strategic reasons, as further described in the Management Discussion and Analysis. During the fourth quarter of 2018 we began experiencing market demand for non-logistics management revenue generating opportunities and have begun focusing our efforts on these new market FinTech services opportunities, while phasing out of the oil trading and electronics trading businesses. These new FinTech services market opportunities are in line with our FinTech Ecosystem and Industry Ventures strategy. While we intend to continue to capitalize on our efforts and learnings from the overall logistics management business it is not intended to be our core business. Various other aspects of the development of our Fintech Ecosystem and our Industry Ventures, as described below, are still in the planning and testing phase and are generally not operational or revenue generating.
+ 
+Fintech Ecosystem
+ 
+We primarily rely upon third-party intellectual property (“IP”) for the AI and blockchain technology being developed for our Wecast Services segment. In evaluating prospective technologies we seek to acquire, in-license or promote through joint ventures, we are focused on identifying industry leaders with strong and established engineering teams and technologies that are substantially developed. In doing so, we believe we can reduce the risks of reliance on a single technology with speculative functionality and adoption potential, while enhancing our flexibility and adaptability in a rapidly evolving technological environment.
+
+1
+-
+
+ 
+
+Our strategy is to leverage the technology and teams that comprise our Fintech Ecosystem to create customized solutions for the use cases presented to us by our Industry Ventures. The customization of these business applications would be undertaken by our acquired subsidiaries or the joint ventures, as applicable, with the business development efforts of our parent company focused on expanding the network of technologies in our Fintech Ecosystem and facilitating other synergies between our Fintech Ecosystem and our Industry Ventures. While the development and expansion of our Fintech Ecosystem is primarily driven by a desire to match specific technologies with specific use applications in our Industry Ventures, we believe that many of the technologies in our Fintech Ecosystem will have applications outside of our own Industry Ventures, and that the work in customizing technology to our Industry Ventures can be leveraged to develop products and services for third parties.
+ 
+BDCG Joint Venture
+ 
+Between December 2017 and April 2018, we formed BBD Digital Capital Group Ltd., a New York corporation (“BDCG”), as a joint venture with management partner Seasail, an affiliate of Big Business Data (“BBD”). We hold approximately 60% of the equity interest of BDCG and have the power to appoint three of the five directors of the board of BDCG. BDCG intends to capitalize on commodity and energy providers’ needs for more precise risk management services, more informed operational planning and more strategic decision-making, specifically in the trading of index funds, futures and commodities. BDCG focuses on developing AI-driven financial data services as well as building transactional platforms for index, futures and derivative trading, for both global commodity and energy clients. Planned financial data services also include risk management solutions, platforms for trading derivatives and indices, and debt and credit product offerings, with the primary objective being enhancing trading and risk management strategies.
+ 
+BDCG leverages Pluto, Seasail’s AI technology, which Seasail licenses to BDCG. Pluto takes in dynamic, multi-variable inputs, such as, in the case of crude oil, information regarding trading, production origination, economic data and weather, and processes them according to flexible programmed models. For debt and credit products, BDCG has focused on data collection and integration capabilities based on “massive public data” and “acquired third-party data,” including credit and multi-party loans. BBD has accumulated the information of over 100 million companies. Such information contains more than 150 data tables and over 3,700 data fields, and the amount of data continues to grow rapidly. BDCG can use the data accumulated by BBD to create risk and index models. Once these models are layered into a rating and risk management system and loan approval system for trade finance, the AI system can make informed recommendations as to trading and risk management. Pluto is then sold and licensed to third party financial product stakeholders for these services.
+ 
+We believe we can leverage BDCG’s AI services for the creation of financial products, risk ratings and indexing, and selection and recommendation systems on behalf of key stakeholders. By using AI technology to analyze the digital securitized assets we intend to develop, we aim to elevate not only the quality of the financial product, but also interactions among stakeholders. We also intend to design the digital securitized assets we develop to have data attributes that can be integrated into BDCG’s approach for processing financial data.
+ 
+Fundamental Interactions
+ 
+In June 2018, we entered into a non-exclusive, royalty-bearing licensing agreement with Fundamental Interactions, Inc. (“FI”), which currently expires on June 25, 2021, with respect to certain blockchain technologies, including FI’s Velocity Ledger, a blockchain-based, software-as-a-service (SaaS) platform that operates as a private blockchain solution for financial services. Through this agreement, we intend to leverage core FI technology and the Velocity Ledger platform to support the tokenization, secondary trading and settlement of new blockchain-based securities.
+ 
+FinTalk
+ 
+In September 2018, we entered into an agreement for the acquisition of FinTalk, a secure mobile messaging, collaboration and information services platform that delivers encrypted text and media messaging, with high performance large file transfer capabilities.
+ 
+
+2
+-
+
+Industry Ventures
+ 
+We believe there are a number of industries that can benefit from the application of next-generation technologies, such as blockchain, AI, machine learning and big data. Our strategy is not only to promote the development of promising technologies through our Fintech Ecosystem, but also to acquire, invest in and form joint ventures with businesses in the various industries that we believe can be well served by our Fintech Ecosystem. In so doing, we believe that we can benefit both from growth in the Industry Ventures themselves, as well as from the enhanced potential for monetizing the technologies in our Fintech Ecosystem that would come with refining these technologies for our Industry Ventures.
+Logistics Management and Financing
+ 
+Our first group of Industry Ventures has focused on the logistics management and financing industry. Logistics management is the component of supply chain management that helps organizations plan, manage and implement processes to store and move goods from origin to destination. Logistics financing supports businesses where the order-to-delivery cycle may not correlate with cash flow needs. We believe that by ensuring that information is transparent, accurate and verifiable at various stages during the shipping process, blockchain-enabled logistics management platforms can streamline and standardize the product flow from sellers to buyers and eliminate standard transactional intermediaries in the freight and shipping industry. Further, we believe that by decreasing middle-man costs, we can greatly improve the efficiency of capital utilization, expand margins and accelerate inventory turnover for companies shipping and ordering goods. In addition, we believe that the transparency and security provided by blockchain technologies, combined with the computing power of AI technologies, can reduce existing logistics financing costs, including by improving risk management and decision making, and enable alternative logistics financing solutions.
+ 
+To support the development of blockchain- and AI-based technologies for the logistics management and financing industries, we entered the commodities trading business, with the primary goal of learning about the needs of buyers and sellers in industries that rely heavily on the shipment of goods to inform our understanding of the features a blockchain platform would need in order to serve this industry vertical. Specifically, we elected to focus on the crude oil and consumer electronics businesses, which are industries that we estimate are sufficiently commoditized and high volume, in order to (i) serve as meaningful controls, (ii) identify inefficiencies in the logistics management and finance industries and (iii) generate data to support the potential future application of AI solutions.
+ 
+Our crude oil trading business commenced in October 2017, when we formed our Singapore joint venture, Seven Stars Energy Pte. Ltd. (“SSE”), which is 51% owned by us. The other partner in the joint venture is a businessman based in Singapore with extensive experience in the oil trading industry and ownership or control of several large oil tankers. Our consumer electronics trading business commenced on January 2017, and is operated by our subsidiary Amer Global Technology Limited (“Amer”), in which we have a 55% interest. The end customers in our crude oil and consumer electronics trading businesses include about 15 to 20 corporations across the world. Our crude oil trading business does not currently integrate blockchain- or AI-based logistics solutions.
+ 
+While we have begun phasing out of the crude oil trading business and the electronics trading business, we intend to continue to capitalize on our efforts and learning from these businesses so that we can leverage the applications of our technologies and FinTech Ecosystem across this business and as part of our Industry Ventures strategy.
+ 
+Consumer Digital Products
+ 
+Our second group of Industry Ventures focuses on consumer digital products. We believe that existing communities of consumers, merchants and service providers can significantly benefit from platforms that leverage blockchain technologies to aggregate content and services and products, such as blockchain-based digital membership cards, digital wallets, and loyalty programs that offer cash or other token-based rewards to users within these communities.
+
+3
+-
+
+ 
+
+In September 2018, we purchased a 65.65% equity interest in Grapevine Logic Inc. (“Grapevine”), and an affiliate of Dr. Bruno Wu, our Chairman of the Board has an option to require us to acquire the remaining stake in Grapevine. Grapevine is an end-to-end influencer marketing platform that facilitates collaboration between advertisers and brands with video based social influencers and content creators. Through the Grapevine platform, more than 4,700 companies have been able to hire the services of over 177,000 social influencers, ultimately helping these companies to promote their products and strengthen their brand. We believe that Grapevine will help us develop strength in the consumer digital products industry vertical by providing the platform for connecting brands with content-producing influencers and their large-scale audience of consumer-driven followers to whom digital tokens, loyalty and discount cards, multi-purpose digital wallets, and other services may be marketed via Grapevine on behalf of Ideanomics, brand advertisers and influencers, all according to a follower’s areas of interest.
+ 
+Also in September 2018, we announced the proposed joint venture with Asia Times Holdings (“AT”), a Hong Kong company which owns the Asia Times newspaper, to be named Asia Times Financial Limited (“ATF”). Effective February 20, 2019, the Company and AT agreed to terminate their subscription agreement so that the Company will retain approximately 4.0% interest in AT, and not be obligated to make any further investment into AT. In addition, the parties have agreed to terminate the Shareholder’s Agreement for the joint venture, Asia Times Financial.
+ 
+Financial Services 
+ 
+As evidenced by the proliferation of offerings of blockchain-based tokens in recent years, and the rapid growth of an industry to support these offerings, we believe that a core use case for blockchain and AI technology lies in financial services, digital asset securitization, and blockchain-enabled trading platforms. We plan to provide consulting services to companies seeking financing both through the sales of blockchain based instruments, such as securitized assets represented by digital tokens, which we refer to as “digital securitized assets,” as well as through conventional means, such as sales of traditional equity and debt securities. We believe that this dual approach to financial transactions, coupled with a related AI and blockchain enabled financial services platform, will provide us with flexibility to address the needs of issuers and investors. We also aim to use AI-powered analytics from our technology investments for different use cases, such as the trading, pricing, indexing and ratings of digital tokens (including digital securitized assets). Although we do not yet offer products or services in this industry vertical, we believe that ultimately, the Industry Ventures we form, acquire, or invest in this area will become the core of our business.
+Digital Asset Securitization 
+ 
+We believe that we can use AI- and blockchain-enabled technology to provide a seamless method and platform for the creation and trading of digital securitized assets. Specifically, we plan to facilitate the securitization of tangible and intangible assets, such as data and IP, into new financial products, to “tokenize” these financial products by digitally recording them on a blockchain, to enable advanced platforms and capabilities using AI and blockchain technology, and to support the distribution and monetization of digital securitized assets. In so doing, we can be a leader in the transition of traditional financial products, such as commodities, currencies, credit, leasing, real estate and other asset classes, into the asset digitalization era.
+ 
+Creating digital securitized assets requires the conversion of illiquid, tangible and intangible assets into blockchain enabled securities that we anticipate will, subject to future regulatory approval, be easily traded via exchanges, and as such, are more liquid than the underlying asset. We refer to this process as “digital asset securitization.”
+ 
+As a first step in this process, we are identifying and engaging in discussions, negotiations and, in some cases, joint ventures, with third parties that own the specific tangible and intangible assets to be securitized, who we refer to as “asset originators,” or that have relationships with asset originators. We may also elect to securitize assets owned by our Company. Next, we will work with domestic and international securities market professionals, including licensed broker-dealers, merchant banks, ratings agencies and financial institutions, to structure and document the securitization of the assets, creating an asset backed financial product that can be more easily distributed and traded. This securitization process may include the pooling of assets, whether within the same asset class or across asset classes or asset originator types, or fractionalization of ownership of individual assets.
+ 
+Once assets have been securitized, the new asset backed financial product will be represented in the form of digital, blockchain based tokens. We refer to this process as “digital tokenization.” Digital tokens are representative units of value, analogous to a stock certificate or a book-entry position, each of which reflects a holder’s ownership of a security, the terms of which are established in the investment documentation. Each of these tokens will be created by a “smart contract,” a self-executing agreement whose lines of code will reflect the economic and governance terms determined in the asset securitization process.
+ 
+
+4
+-
+
+ 
+
+We intend for our digital tokenization process largely to rely upon technologies already in use and accessible in today’s blockchain market, such as Ethereum’s ERC-20 tokens, thus reducing the need, costs and execution risks of new technology development. We also intend to enter into leverage our Fintech Ecosystem to use blockchains that may be optimized for tokenization of assets in specific industry verticals, including, potentially basing these technologies on FI’s Velocity Ledger. We believe there are myriad benefits that can potentially be afforded by tokenizing securities via Velocity Ledger, including new product creation and market exposure, competitive fees, fast deal execution, and access to institutional investors and broker dealers.
+ 
+Trading and Financial Services Platforms
+ 
+We believe that regulated alternative trading systems (“ATSs”) and sophisticated risk management software are important for the development of trading markets for blockchain based digital tokens, including the digital securitized assets we plan to originate as part of our financial services business. Accordingly, we are making strategic investments that are intended to promote the development of regulated ATSs that will enhance the blockchain token trading ecosystem and AI-based ratings systems to enhance the market viability of our digital securitized assets.
+ 
+Between August 2017 and December 2018, we acquired approximately 36.92% of the capital stock of Delaware Board of Trade Holdings, Inc. (“DBOT”), which is a FINRA member firm and has filed an initial operations report on Form ATS to give notice of operations of DBOT ATS, LLC (“DBOT ATS”), and which we believe is well positioned to develop blockchain-enabled transactional platforms. DBOT operates three business lines, (i) DBOT ATS, which is intended to be an ATS for equity securities not listed on the New York Stock Exchange or the Nasdaq, (ii) DBOT Issuer Services LLC, which is focused on setting and maintaining issuer standards, as well as the provision of issuer services to DBOT designated issuers, and (iii) DBOT Technology Services LLC, which is focused on the provision of market data and marketplace connectivity.
+ 
+DBOT has entered into agreements with FI (which is also a licensor to Ideanomics), pursuant to which FI is developing a blockchain enabled primary issuance and secondary trading platform for DBOT ATS using the Velocity Ledger. Under the agreements, DBOT will maintain licensing rights for the technology.
+ 
+Our Fintech Revenue Model:
+ 
+As part of our transitioning to a next-generation fintech company, we began developing our revenue and business model to be closely aligned with the technologies and industries that we support in our FinTech Ecosystem and Industry Ventures in a way that we can capitalize on the market demand for these products and services.
+ 
+Our FinTech business and revenue model is directly connected with the agreements and partnerships that we engage in. The underlying economics vary on a case by case basis (due to the particular industry that they are a part of, and specific facts and circumstances for each agreement), but generally they have the following characteristics:
+ 
+Digital Assets, Blockchain and AI:
+ 
+
+· | Proceeds of new digital asset creation (i.e. Token Generation Event) on behalf of subsidiary companies or third parties
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+· | Proceeds from the creation and issuance of financial instruments tied with new data-based products such as indexes and futures
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Fees collected by the securitization, tokenization/primary digital issuance, and trading of digital assets
+--+-----------------------------------------------------------------------------------------------------------
+
+
+· | Revenue sharing agreements with strategic partners
+--+---------------------------------------------------
+
+
+· | FinTech consulting and advisory service fees related to these asset classes
+--+----------------------------------------------------------------------------
+
+Asia Operations:
+ 
+
+· | Monetization of Electrical Vehicle Related Agreements:
+--+-------------------------------------------------------
+
+
+· | Commissions: related to the underwriting performed by our partners for Asset Backed Securities (ABS)
+--+-----------------------------------------------------------------------------------------------------
+
+
+· | Recharging Station Fees: Recurring Revenue streams for the reaching of electrical vehicles and their use of recharging station networks (as a transaction fee, or as a percentage of revenue or profit)
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Electrical Vehicle Sales Commissions: bus sales commissions associated with the sales of electrical bus fleets
+--+---------------------------------------------------------------------------------------------------------------
+
+
+· | Revenue share agreements for the use of our AI capabilities associated with the transmission of data across the electrical vehicles, their charging stations, and related connectivity
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Lease Financing:
+ 
+
+· | Lease Financing Commissions
+--+----------------------------
+
+
+· | ABS Issuance Commissions
+--+-------------------------
+
+
+· | Electrical Vehicle Sales Commissions: bus sales commissions associated with the sales of electrical bus fleets
+--+---------------------------------------------------------------------------------------------------------------
+
+ 
+U.S. Operations:
+ 
+Licensing of Technologies / FinTech Village:
+ 
+
+· | Recurring licensing revenue derived from the licensing of our technology ecosystem
+--+-----------------------------------------------------------------------------------
+
+
+· | Licensing and recurring revenue from other technologies we intend to bring into our ecosystem
+--+----------------------------------------------------------------------------------------------
+
+Equity Investments:
+ 
+Additionally, we benefit from the various equity interests that we have in our various subsidiaries, joint ventures, and partnerships across our Fintech Ecosystem and Industry Ventures. In cases where valuable intellectual property is generated by through these strategic investments, the Company will consider strategic licensing agreements and additional business models in exchange for our services to further enhance revenue.
+Legacy YOD Segment
+ 
+Since 2010, we have provided premium content and integrated value-added service solutions for the delivery of VOD and paid video programming to digital cable providers, IPTV providers, OTT streaming providers, mobile manufacturers and operators, as well as direct customers. The core revenues were generated from both minimum guarantee payments and revenue sharing arrangements with distribution partners as well as subscription or transactional fees from subscribers.
+ 
+In October 2016, we signed an agreement to form a five year partnership with Zhejiang Yanhua Culture Media Co., Ltd., a company organized under the laws of the PRC (“Yanhua”), where Yanhua will act as the exclusive distribution operator (within the territory of PRC) of our licensed library of major studio films (the “Yanhua Partnership”). We entered into the Yanhua Partnership and exclusive distribution agreement in order to offset losses from high upfront minimum guarantee licensing fees to studios. The Yanhua Partnership modified and improved our legacy major studio paid content business model by moving from a framework that included high and fixed costs and upfront minimum guaranteed payments, rising content costs from major Hollywood studios and low margins to a structure that will now include relatively nominal costs to our Company and the opportunity to reach an even wider audience. With the Yanhua Partnership, Yanhua assumed all sales and marketing costs and will pay us a minimum guarantee in exchange for a percentage of the total revenue share.
+ 
+
+5
+-
+
+ 
+
+Pursuant to the Yanhua Partnership, the existing legacy Hollywood studio paid content as well as other IP content specified in the agreement, along with the corresponding authorized rights letter that we are entitled to, were transferred to Yanhua for RMB13,000,000 (approximately $2 million), to be paid in two equal installments in the amount of RMB6,500,000 (approximately $1 million). The first installment was received on December 30, 2016 and was recognized as revenue in 2017 based on the relative fair value of licensed content delivered to Yanhua. The second installment will be paid if the license content fees due to studios for the existing legacy Hollywood paid contents are settled. To date, the legacy Hollywood studio paid content and other IP has not been transferred, as the second installment was not yet made.
+ 
+We still run our legacy YOD segment with limited resources and plan to continue to run it through the Yanhua Partnership, where Yanhua will act as the exclusive distribution operator (within the PRC) of our licensed library of major studio films. We launched our legacy VOD service through the acquisition of YOD Hong Kong (formerly Sinotop Group Limited) on July 30, 2010, by China CB Cayman. Through a series of contractual arrangements, YOD WFOE, the subsidiary of YOD Hong Kong, controls Sinotop Beijing, a corporation established in the PRC. Sinotop Beijing was the 80% owner of Zhong Hai Media until June 30, 2017, through which we provided: (1) integrated value–added business–to–business (“B2B”) service solutions for the delivery of VOD and enhanced premium content for digital cable; (2) integrated value–added business–to–business–to–customer (“B2B2C”) service solutions for the delivery of VOD and enhanced premium content for IPTV and OTT providers; and (3) a direct to user, or business-to-customer (“B2C”), mobile video service app. We sold Zhong Hai Media on June 30, 2017 to Hanghzou for a nominal amount.
+ 
+Management Team with Significant FinTech, Blockchain and AI Experience
+ 
+To support our transition to a next-generation AI and blockchain enabled fintech company, we have strategically secured a management team with diversified expertise in operations, technology, fintech, blockchain, AI, capital markets and the financial services industry, and largely transitioned our operations toward the United States, having 18 U.S. employees as of December 31, 2018 compared to three as of December 31, 2017. As of the date of this filing, key members of our management team include:
+ 
+Dr. Bruno Wu. Our Chairman of the Board is an experienced investor, technology and media entrepreneur, and philanthropist. Dr. Wu has been actively involved with blockchain enabled and big data technologies since October 2011. After four years of investment and research, in 2015, Dr. Wu and Beijing Sun Seven Stars Culture Development Limited (“SSS”), an affiliate of Dr. Wu and a significant shareholder in our Company, proceeded to execute the strategy of becoming a leader in fintech and asset digitization services by aggregating AI, blockchain and other big data and cloud-based technologies, carefully sourced and selected on a global basis through joint ventures and partnerships. These partnerships focus on customizing and enabling actual business use case applications. Dr. Wu actively participated in the build out of a leading big data hub in Guiyang, China, particularly by endorsing the integration of AI and blockchain. Dr. Wu has committed to transforming our Company into a fintech and asset digitization services flagship, with multiple use case technology engines to be rolled out.
+Mr. Alf Poor. Our Chief Executive Officer, and President of the Connecticut Fintech Village, is a former Chief Operating Officer at Global Data Sentinel, a cybersecurity company that specializes in identity management, file access control, protected sharing, reporting and tracking, AI and thread response, and backup and recovery. He is the former President and Chief Operating Officer of Agendize Services Inc., a company with an integrated suite of applications that help businesses generate higher quality leads, improve business efficiency and customer engagement. Mr. Poor is a client-focused and profitability-driven management executive with a track record of success at both rapidly-growing technology companies and large, multi-national, organizations.
+Mr. Federico Tovar. Our Chief Financial Officer is a seasoned business professional and subject matter expert in AI, fintech, blockchain, IoT and cybersecurity. He was previously the Chief Financial and Strategy Officer of Global Data Sentinel Inc, a privately held and high growth cybersecurity and AI technology company that supports data security across domains, including network, cloud, mobile and IoT, with AI capabilities and next-generation applications in fintech, blockchain, energy, insurance, healthcare, and media industries, amongst others. Mr. Tovar has developed strategic plans and business models, structured various IP and technology licensing deals, closed on various M&A transactions and debt and equity financing rounds, and formulated corporate growth and financial strategies for technology companies which have resulted in measurable execution strategies.
+
+6
+-
+
+Ms. Kate Lam is Managing Director, Digital Capital Markets. Ms. Lam has more than twenty years of financial markets experience in marketing multiple asset classes to Propellr, a fintech platform for multi-asset financing. She successfully obtained the SEC broker dealer license for Propellr Securities and integrated regulatory best practices into the platform. As CEO of the broker dealer, she worked closely with engineers and product managers to design specifications for investor vetting, as well as perform due diligences on financing deals. She was also the Head of Institutional Sales and Investor Relations for the company. Prior to Propellr, Ms. Lam held senior management positions at Deutsche Bank, Bear Stearns and Standard Chartered Bank with a client base spanning central banks, global and regional banks, asset managers, global insurance companies and hedge funds.
+Dr. George Yuan. Dr. George Yuan is the Chief Technology Officer of BBDCG. Dr. Yuan is a world leading expert on dynamic ontology for credit risk assessment and risk management. He served as the leader for risk management consulting at KPMG (US) and the Director of China / Hong Kong Deloitte Financial Consulting. Dr. Yuan was selected as a National Distinguished Expert in Shanghai’s and Sichuan’s “The Thousand Talents Plan” in 2013 and 2018, and he is the Chief Editor for The Journal of Financial Engineering. Dr. Yuan’s is leading BDCG’s focus on AI driven financial data services as well as transactional platforms for index, futures and derivative trading, for both global commodity and energy clients. Dr. Yuan is the Chief Risk Officer and Chief Engineer of BDCG. Dr. Yuan has held a professorship at the Institute of Risk Management at Tongji University. Dr. Yuan’s study and work has centered around the valuation of financial derivatives and value-at-risk (“VaR”) modeling for market risk, credit risk and operational risk under the framework of the Basel II (Basel III) Accord, financial and credit derivatives pricing, portfolio optimization, risk limit design, commodity forward price curve design, complex position, commodity price risk assessment and asset valuation.
+
+7
+-
+
+Corporate Structure
+ 
+The following chart depicts our corporate structure as of December 31, 2018: 
+ 
+
+
+(1). | The Sinotop Beijing VIE agreements, including those entered into with Mei Chen and Yun Zhu, the nominee shareholders of Sinotop Beijing, are listed below and described in Note 5 to the consolidated financial statements included in this report. See also “—VIE Structure and Arrangements” below. Mei Chen, holder of 95% equity ownership in Sinotop Beijing and a party to certain VIE arrangements between YOD WFOE and Sinotop Beijing, is the former CFO of our Company. Yun Zhu, holder of 5% equity ownership in Sinotop Beijing and a party to certain VIE arrangements between YOD WFOE and Sinotop Beijing, is Vice President of SSS, a significant shareholder of our Company. 
+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(i) | Management Services Agreement between Sinotop Beijing and YOD Hong Kong, dated as of March 9, 2010. 
+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(ii) | Call Option Agreement among YOD WFOE, Sinotop Beijing, Mei Chen and Yun Zhu, dated as of January 25, 2016; and Call Option Agreement among YOD WFOE, Sinotop Beijing and Mei Chen, dated as of November 4, 2016. 
+(iii) | Equity Pledge Agreement among YOD WFOE, Sinotop Beijing and Yun Zhu, dated as of January 25, 2016, Mei Chen’s Equity Pledge Agreement with YOD WFOE and Sinotop Beijing, dated as of November 21, 2016. 
+(iv) | Power of Attorney agreements among YOD WFOE, Sinotop Beijing and Mei Chen was dated on November 4, 2016 and Power of Attorney agreements among YOD WFOE, Sinotop Beijing and Yun Zhu, dated as of January 25, 2016. 
+(v) | Technical Services Agreement among YOD WFOE and Sinotop Beijing, dated as of January 25, 2016. 
+
+
+8
+-
+
+
+(2). | The SSF VIE agreements, including those entered into with Lan Yang and Yun Zhu, the nominee shareholders of SSF, are listed below and described in Note 5 to the consolidated financial statements included in this report. See also “—VIE Structure and Arrangements” below. Lan Yang, holder of 99% equity ownership in SSF and a party to certain of the SSF VIE Agreements, is the spouse of Dr. Wu, our then Chairman and Chief Executive Officer. Yun Zhu, holder of 1% equity ownership in SSF and a party to certain of the SSF VIE Agreements, is the Vice President of SSS. 
+-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(i) | Management Services Agreement between SSF and YOD Hong Kong, dated as of April 6, 2016. 
+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(ii) | Call Option Agreement among YOD WFOE, SSF, Lan Yang and Yun Zhu, dated April 5, 2016. 
+(iii) | Equity Pledge Agreement among YOD WFOE, Lan Yang and Yun Zhu, dated April 5, 2016; Amended and Restated Equity Pledge Agreement among YOD WFOE, Lan Yang and Yun Zhu, dated May 23, 2016. 
+(iv) | Power of Attorney agreements among YOD WFOE, SSF and each of Lan Yang and Yun Zhu, dated April 5, 2016. 
+(v) | Technical Service Agreement between YOD WFOE and SSF, dated April 5, 2016. 
+(vi) | Spousal Consent, undersigned by the respective spouse of Lan Yang and Yun Zhu, dated April 5, 2016. 
+(vii) | Letter of Indemnification among YOD WFOE and Lan Yang and YOD WFOE and Yun Zhu, both dated as of April 5, 2016. 
+(viii) | Loan Agreement among YOD WFOE, Lan Yang and Yun Zhu, dated April 5, 2016; Supplemental Loan agreement among YOD WFOE, Lan Yang and Yun Zhu, dated May 31, 2016. 
+
+
+(3). | On January 30, 2017, we entered into a Securities Purchase Agreement (the “SVG Purchase Agreement”) with BT Capital Global Limited, a Hong Kong company (“BT”) and affiliate of Dr. Wu, our then Chairman and Chief Executive Officer, pursuant to which we agreed to purchase and BT agreed to sell all of the outstanding capital of SVG for an aggregate purchase price of (i) $800,000; and (ii) a Promissory Note with the principal and interest thereon convertible into shares of our common stock at a conversion rate of $1.50 per share of our common stock. BT has guaranteed that SVG will achieve certain financial goals within 12 months of the closing as described in Note 6 to the consolidated financial statements included in this report. 
+-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4). | In December 2018, we sold our investment (55% interest) in Wide Angle Group Limited and Shanghai Huicang Supplychain Management Ltd. for a nominal amount. (Please see Note 6 to the consolidated financial statements included in this report.) 
+(5). | In October 2017, we entered into a joint venture, SSE, in order to engage in the oil trading business as part of our strategy to develop our logistics management business, as described above under “—Overview—Industry Ventures—Logistics Management and Financing.” The other partner in the joint venture is a businessman based in Singapore with extensive experience in the oil trading industry and ownership or control of several large oil tankers. We contributed $510,000 to the joint venture and hold a 51% equity stake, while the other joint venture partner contributed $490,000 to the joint venture and holds a 49% equity stake. Our subsidiary, Wide Angle, designates two of the board members of the joint venture, and the other board member is designated by the individual minority partner. 
+
+
+9
+-
+
+ 
+
+VIE Structure and Arrangements
+ 
+To comply with PRC laws and regulations that prohibit or restrict foreign ownership of companies that provide value-added telecommunication services, we provide services through Sinotop Beijing and SSF, which hold the licenses and approvals to provide digital distribution and Internet content services in the PRC. We have the ability to control Sinotop Beijing and SSF through a series of contractual agreements, as described below, entered into among YOD WFOE, YOD Hong Kong, Sinotop Beijing, SSF and the respective legal shareholders of Sinotop Beijing and SSF.
+ 
+Through these contractual arrangements, we have acquired both control over and rights to, 100% of the economic benefit of Sinotop Beijing and SSF. Accordingly, Sinotop Beijing and SSF are each considered a VIE, and are therefore consolidated in our financial statements. Pursuant to the below contractual agreements, YOD WFOE can have the assets transferred freely out of each VIE without any restrictions. Therefore, YOD WFOE considers that there is no asset of the respective VIE that can be used only to settle obligation of such VIE, except for the registered capital of each respective VIE, amounting to RMB10.6 million (approximately $1.6 million) for Sinotop Beijing, and RMB27.6 million (approximately $4.2 million) has been injected as of December 31, 2018. As Sinotop Beijing and SSF are incorporated as limited liability companies under PRC Company Law, creditors of these two entities do not have recourse to the general credit of our other entities.
+ 
+The following is a summary of the common contractual arrangements that provide us with effective control our VIEs and that enable us to receive substantially all of the economic benefits from their operations:
+ 
+Equity Pledge Agreement
+ 
+Pursuant to the Equity Pledge Agreement among YOD WFOE and the respective nominee shareholders, the nominee shareholders pledge all of their capital contribution rights in the VIEs to YOD WFOE as security for the performance of the obligations of the VIEs to make all the required technical service fee payments pursuant to the Technical Services Agreement and for performance of the nominee shareholders’ obligation under the Call Option Agreement. The terms of the Equity Pledge Agreement expire upon satisfaction of all obligations under the Technical Services Agreement and Call Option Agreement.
+Call Option Agreement
+ 
+Pursuant to the Call Option Agreement among YOD WFOE, the VIEs and the respective nominee shareholders, the nominee shareholders grant an exclusive option to YOD WFOE, or its designee, to purchase, at any time and from time to time, to the extent permitted under PRC law, all or any portion of the nominee shareholders’ equity in the VIEs. The exercise price of the option shall be determined by YOD WFOE at its sole discretion, subject to any restrictions imposed by PRC law. The term of the agreement is until all of the equity interest in the VIEs held by the nominee shareholders is transferred to YOD WFOE, or its designee and may not be terminated by any party to the agreement without consent of the other parties.
+Power of Attorney
+ 
+Pursuant to the Power of Attorney agreements among YOD WFOE, each VIE and each of the respective nominee shareholders, each nominee shareholder grants YOD WFOE the irrevocable right, for the maximum period permitted by law, to all of its voting rights as shareholder of the VIE. The nominee shareholders may not transfer any of their equity interest in the VIE to any party other than YOD WFOE. The Power of Attorney agreements may not be terminated except until all of the equity in the VIE has been transferred to YOD WFOE or its designee.
+Technical Service Agreement
+ 
+Pursuant to the Technical Service Agreement, between YOD WFOE and each VIE, YOD WFOE has the exclusive right to provide technical service, marketing and management consulting service, financial support service and human resource support services to VIE, and VIE is required to take all commercially reasonable efforts to permit and facilitate the provision of the services by YOD WFOE. As compensation for providing the services, YOD WFOE is entitled to receive service fees from VIE equivalent to YOD WFOE’s cost plus 20-30% of such costs as calculated on accounting policies generally accepted in the PRC. YOD WFOE and VIE agree to periodically review the service fee and make adjustments as deemed appropriate. The term of the Technical Services Agreement is perpetual, and may only be terminated upon written consent of both parties.
+
+10
+--
+
+Spousal Consent
+ 
+Pursuant to the Spousal Consent, undersigned by the respective spouse of the nominee shareholders, the spouses unconditionally and irrevocably agree to the execution of the Equity Pledge Agreement, Call Option Agreement and Power of Attorney agreement. The spouses agree to not make any assertions in connection with the equity interest of VIE and to waive consent on further amendment or termination of the Equity Pledge Agreement, Call Option Agreement and Power of Attorney agreement. The spouses further pledge to execute all necessary documents and take all necessary actions to ensure appropriate performance under these agreements upon YOD WFOE’s request. In the event the spouses obtain any equity interests of VIE which are held by the nominee shareholders, the spouses agreed to be bound by the VIE agreements, including the Technical Services Agreement, and comply with the obligations thereunder, including sign a series of written documents in substantially the same format and content as the VIE agreements.
+Letter of Indemnification
+ 
+Pursuant to the Letter of Indemnification among YOD WFOE and each nominee shareholder, YOD WFOE agrees to indemnify such nominee shareholder against any personal, tax or other liabilities incurred in connection with their role in equity transfer to the greatest extent permitted under PRC law. YOD WFOE further waives and releases the nominee shareholders from any claims arising from, or related to, their role as the legal shareholder of the VIE, provided that their actions as a nominee shareholder are taken in good faith and are not opposed to YOD WFOE’s best interests. The nominee shareholders will not be entitled to dividends or other benefits generated therefrom, or receive any compensation in connection with this arrangement. The Letter of Indemnification will remain valid until either the nominee shareholder or YOD WFOE terminates the agreement by giving the other party hereto sixty (60) days’ prior written notice.
+Management Services Agreement
+ 
+In addition to VIE agreements described above, our subsidiary and the parent company of YOD WFOE, YOU On Demand (Asia) Limited, a company incorporated under the laws of Hong Kong (“YOD Hong Kong”) has entered into a Management Services Agreement with each VIE.
+ 
+Pursuant to such Management Services Agreement, YOD Hong Kong has the exclusive right to provide to the VIE management, financial and other services related to the operation of the VIE’s business, and the VIE is required to take all commercially reasonable efforts to permit and facilitate the provision of the services by YOD Hong Kong. As compensation for providing the services, YOD Hong Kong is entitled to receive a fee from the VIE, upon demand, equal to 100% of the annual net profits as calculated on accounting policies generally accepted in the PRC of the VIE during the term of the Management Services Agreement. YOD Hong Kong may also request ad hoc quarterly payments of the aggregate fee, which payments will be credited against the VIE’s future payment obligations.
+ 
+In addition, at the sole discretion of YOD Hong Kong, the VIE is obligated to transfer to YOD Hong Kong, or its designee, any part or all of the business, personnel, assets and operations of the VIE which may be lawfully conducted, employed, owned or operated by YOD Hong Kong, including:
+ 
+(a)           business opportunities presented to, or available to the VIE may be pursued and contracted for in the name of YOD Hong Kong rather than the VIE, and at its discretion, YOD Hong Kong may employ the resources of the VIE to secure such opportunities;
+ 
+(b)           any tangible or intangible property of the VIE, any contractual rights, any personnel, and any other items or things of value held by the VIE may be transferred to YOD Hong Kong at book value;
+ 
+
+11
+--
+
+ 
+
+(c)           real property, personal or intangible property, personnel, services, equipment, supplies and any other items useful for the conduct of the business may be obtained by YOD Hong Kong by acquisition, lease, license or otherwise, and made available to the VIE on terms to be determined by agreement between YOD Hong Kong and the VIE;
+ 
+(d)           contracts entered into in the name of the VIE may be transferred to YOD Hong Kong, or the work under such contracts may be subcontracted, in whole or in part, to YOD Hong Kong, on terms to be determined by agreement between YOD Hong Kong and the VIE; and
+ 
+(e)           any changes to, or any expansion or contraction of, the business may be carried out in the exercise of the sole discretion of YOD Hong Kong, and in the name of and at the expense of, YOD Hong Kong;
+ 
+(f)           provided, however, that none of the foregoing may cause or have the effect of terminating (without being substantially replaced under the name of YOD Hong Kong) or adversely affecting any license, permit or regulatory status of the VIE.
+ 
+The term of each Management Services Agreement is 20 years, and may not be terminated by the VIE, except with the consent of, or a material breach by, YOD Hong Kong.
+ 
+Loan Agreement
+ 
+Pursuant to the Loan Agreement among YOD WFOE and the nominee shareholders, YOD WFOE agrees to lend RMB19.8 million and RMB0.2 million, respectively, to the nominee shareholders of SSF for the purpose of establishing SSF and for development of its business. As of December 31, 2018, RMB27.6 million ($4.2 million) and RMB nil have been lent to Lan Yang and Yun Zhu, respectively. Lan Yang has contributed all of the RMB27.6 million ($4.2 million) in the form of capital contribution and accordingly the loan is eliminated with the capital of SSF upon consolidation. The loan can only be repaid by a transfer by the nominee shareholders of their equity interests in SSF to YOD WFOE or YOD WFOE’s designated persons, through (i) YOD WFOE having the right, but not the obligation to at any time purchase, or authorize a designated person to purchase, all or part of the Nominee Shareholders’ equity interests in SSF at such price as YOD WFOE shall determine (the “Transfer Price”), (ii) all monies received by the nominee shareholders through the payment of the Transfer Price being used solely to repay YOD WFOE for the loans, and (iii) if the Transfer Price exceeds the principal amount of the loans, the amount in excess of the principal amount of the loans being deemed as interest payable on the loans, and to be payable to YOD WFOE in cash. Otherwise, the loans shall be deemed to be interest-free. The term of the Loan Agreement is perpetual, and may only be terminated upon the nominee shareholders receiving repayment notice, or upon the occurrence of an event of default under the terms of the agreement.
+Our Unconsolidated Equity Investments
+ 
+We hold a 30% ownership interest in Shandong Media, which is our print based media business, and account for our investment in Shandong Media under the equity method. The business of Shandong Media includes a television programming guide publication, the distribution of periodicals, the publication of advertising, the organization of public relations events, the provision of information related services, copyright transactions, the production of audio and video products, and the provision of audio value added communication services.
+ 
+We hold a 39% ownership interest in Hua Cheng, and account for our investment in Hua Cheng under the equity method. The business of Hua Cheng mainly includes distribution of content and VOD business on television terminal.
+ 
+We hold a 50% ownership interest in Wecast Internet Limited, a Hong Kong company (“Wecast Internet”), and account for our investment in Wecast Internet under the equity method. The business of Wecast Internet mainly includes computer network technology development, integrated circuit of software and hardware technology development, technical consultation.
+ 
+
+12
+--
+
+ 
+
+From August 2017 through December 31, 2018, we acquired 36.92% ownership interest in DBOT, and are accounting for our investment in DBOT under the equity method starting from October 2018. DBOT is a FINRA member firm, and filed an initial operations report on Form ATS to give notice of DBOT ATS’s operations. DBOT is powered through blockchain technology licensed from one of our strategic licensing partners.
+ 
+In 2018, we signed a joint venture agreement to establish BDCG located in the United States for providing blockchain services for financial or energy industries by utilizing AI and big data technology in the United States.  We hold a 60% ownership and Seasail ventures limited (“Seasail”) holds 40% of BDCG. The new entity is currently in the process of ramping up its operations.
+ 
+Our investments in Shandong Media, Hua Cheng, Wecast Internet, DBOT and BDCG where we may exercise significant influence, but not control, is classified as a long-term equity investment and accounted for using the equity method. Under the equity method, the investment is initially recorded at cost and adjusted for our share of undistributed earnings or losses of the investee. Investment losses are recognized until the investment is written down to nil, provided that we do not guarantee the investee’s obligations or we are committed to provide additional funding. 
+ 
+Our Competition
+ 
+Wecast Services Segment
+ 
+We will face significant competition with respect to the products and services we plan to offer in the blockchain and AI enabled fintech business we are building, and we currently face significant competition with respect to the businesses we operate that currently generate revenue for our Company. Our long-term strategic goal is to leverage blockchain and AI based fintech solutions to offer products and services that will bring transparency, efficiency and cost savings to various markets, including finance, commodities, energy, consumer products and transportation logistics. We therefore face significant competitive pressure not only with other developers of blockchain and AI technologies in the fintech space, but also in the markets for the products and services we offer or plan to offer, which are very competitive and subject to rapid technological advances, new market entrants, non-traditional competitors, changes in industry standards and changes in customer needs and consumption models.
+ 
+We believe that our parallel development strategy of building out our Fintech Ecosystem while developing a network of Industry Ventures will enable us to compete in our planned businesses on the basis of our ability to offer a wider range of value-added services than our competitors. We also believe that our unique position as a cross-border company will give us the ability to create partnerships with companies developing new technologies in both the U.S. and Asia.
+ 
+While we generate revenues from our crude oil and consumer electronics business, we engage in this business largely for research purposes to support our development of fintech solutions for this space, and not primarily with a view to competitive returns.
+ 
+YOD Segment
+ 
+The market for video entertainment is subject to continuous change and aggressive competition. Our primary competitors in this space include Internet based content providers and the DVD market, such as iQiyi.com, Youku, Tencent and Sohu. We also face competitors who may attempt to undercut the market by providing pirated (illegal) content. Although we can provide no assurances that other companies will not enter the market of providing such services, we believe that we will have a competitive advantage over any new market entrant because of our exclusive joint venture partnership with CCTV-6’s pay channel, CHC, and first to market advantage.
+ 
+Seasonality Variations in Business
+ 
+We expect a disproportionate amount of our revenues generated from Wecast Services quarter over quarter to be subject to seasoned fluctuations at holiday periods and due to introduction of new consumer electronics products. There may also be fluctuations related to weather changes for the crude oil trading business. This pattern may change, however, as a result of new market opportunities or new product introductions.
+
+13
+--
+
+Regulation
+ 
+General Regulation of Businesses in the PRC
+ 
+We are required to obtain government approval from the Ministry of Commerce of the PRC (“MOFCOM”), and other government agencies in the PRC for transactions, such as our acquisition or disposition of business entities in the PRC. Additionally, foreign ownership of business and assets in the PRC is not permitted without specific government approval. For this reason, Sinotop Beijing was acquired through our acquisition of YOD Hong Kong, which controls Sinotop Beijing through a series of contractual agreements with YOD Hong Kong and YOD WFOE. We use voting control agreements among the parties so as to obtain equitable and legal ownership or control of our subsidiaries and VIEs to conduct our legacy YOD business.
+ 
+Investment activities in the PRC by foreign investors are principally governed by the Guidance Catalogue of Industries for Foreign Investment, or the Catalogue, which was promulgated and is amended from time to time by the MOFCOM and the National Development and Reform Commission. The Catalogue sets forth the industries in which foreign investments are “encouraged”, “restricted”, or “prohibited”. Industries that are not listed in any of the above three categories are permitted areas for foreign investments and are generally open to foreign investment unless specifically restricted by other PRC regulations. Establishment of wholly foreign owned enterprises is generally allowed in encouraged and permitted industries. Foreign investors are not allowed to invest in industries in the prohibited category.
+ 
+According to the latest version of the Catalogue, which came into effect on July 28, 2017, foreign investments in value-added telecommunications services (except for e-commerce) are “restricted”. Therefore, we provide value-added telecommunications services through our VIE in the PRC.
+ 
+Other than value-added telecommunications, most of our PRC subsidiaries mainly engage in technical services, consultations and trading activities, which are “encouraged” under the latest version of the Catalogue.
+ 
+Under PRC law, the establishment of a wholly foreign owned enterprise is subject to the approval of or filing with the MOFCOM or its local counterparts and the wholly foreign owned enterprise must register with the competent industry and commerce bureau. Our significant PRC subsidiaries have duly obtained all material approvals required for their business operations.
+ 
+Foreign direct investment in telecommunications companies in the PRC is governed by the Regulations for the Administration of Foreign-Invested Telecommunications Enterprises, which was promulgated by the State Council on December 11, 2001 and recently amended on February 6, 2016. The regulations provide that a foreign investor’s beneficial equity ownership in an entity providing value-added telecommunications services in the PRC is not permitted to exceed 50%. In addition, the main foreign investor who invests in a foreign-invested value-added telecommunications enterprise operating the value-added telecommunications business in the PRC must demonstrate a good track record and experience in operating a value-added telecommunications business, provided such investor is a major one among the foreign investors investing in a value-added telecommunications enterprise in the PRC. Moreover, foreign investors that meet these requirements must obtain approvals from the Ministry of Industry and Information Technology, or the MIIT, and the MOFCOM, or their authorized local counterparts, which retain considerable discretion in granting approvals, for its commencement of value-added telecommunications business in the PRC.
+ 
+The MIIT’s Notice Regarding Strengthening Administration of Foreign Investment in Operating Value-Added Telecommunication Businesses, or the MIIT Notice, issued on July 13, 2006 prohibits holders of these services licenses from leasing, transferring or selling their licenses in any form, or providing any resources, sites or facilities, to any foreign investors intending to conduct such businesses in the PRC.
+ 
+The PRC market, in which we operate our legacy YOD business, poses certain macro-economic and regulatory risks and uncertainties. These uncertainties extend to the ability of us to conduct wireless telecommunication services through contractual arrangements in the PRC since the industry remains highly regulated. We conduct those operations in the PRC through a series of contractual arrangements entered among YOD WFOE, Sinotop Beijing as the parent company of Zhong Hai Media, SSF and the respective legal shareholders of Sinotop Beijing and SSF. We believe that these contractual arrangements are in compliance with PRC law and are legally enforceable. If Sinotop Beijing, SSF or their respective legal shareholders fail to perform the obligations under the contractual arrangements or any dispute relating to these contracts remains unresolved, YOD WFOE or YOD HK can enforce its rights under the VIE contracts through PRC law and courts. However, uncertainties in the PRC legal system could limit our ability to enforce these contractual arrangements. In particular, the interpretation and enforcement of these laws, rules and regulations involve uncertainties. If YOD WFOE had direct ownership of Sinotop Beijing and SSF, it would be able to exercise its rights as a shareholder to effect changes in the board of directors of Sinotop Beijing or SSF, which in turn could effect changes at the management level, subject to any applicable fiduciary obligations. However, under the current contractual arrangements, we rely on Sinotop Beijing, SSF and their respective legal shareholders to perform their contractual obligations to exercise effective control. We also give no assurance that PRC government authorities will not take a view in the future that is contrary to our opinion. If our current ownership structure and our contractual arrangements with the VIEs and their equity holders were found to be in violation of any existing or future PRC laws or regulations, our ability to conduct its business could be impacted and we may be required to restructure our ownership structure and operations in the PRC to comply with the changes in the PRC laws which may result in deconsolidation of the VIEs.
+ 
+
+14
+--
+
+ 
+
+In addition, the telecommunications, information and media industries remain highly regulated. Restrictions are currently in place and are unclear with respect to which segments of these industries foreign owned entities, like YOD WFOE, may operate. The PRC government may issue from time to time new laws or new interpretations on existing laws to regulate areas, such as telecommunications, information and media, some of which are not published on a timely basis or may have retroactive effect. For example, there is substantial uncertainty regarding the Draft Foreign Investment Law, including, among others, what the actual content of the law will be as well as the adoption and effective date of the final form of the law. Administrative and court proceedings in the PRC may also be protracted, resulting in substantial costs and diversion of resources and management attention. While such uncertainty exists, we cannot assure that the new laws, when it is adopted and becomes effective, and potential related administrative proceedings will not have a material and adverse effect on our ability to control the affiliated entities through the contractual arrangements. Regulatory risk also encompasses the interpretation by the tax authorities of current tax laws, and our legal structure and scope of operations in the PRC, which could be subject to further restrictions resulting in limitations on our ability to conduct business in the PRC.
+ 
+Chinese regulations will also significantly impact our Wecast Services segment. For example, in September 2017, reports were published that the PRC may begin prohibiting the practice of using digital assets for capital fundraising. In 2018, reports surfaced that the PRC had banned local digital asset exchanges from operating within the country. Until there is greater regulatory clarity and acceptance of digital token and blockchain-based financial products in the PRC, we may not be able to provide services under our Wecast Services segment in the PRC.
+ 
+Taxation
+ 
+On March 16, 2007, the National People’s Congress of the PRC passed the EIT Law, and on November 28, 2007, the State Council of China passed its implementing rules which took effect on January 1, 2008. The EIT Law and its implementing rules impose a unified earned income tax (“EIT”) rate of 25.0% on all domestic-invested enterprises and foreign invested enterprises (“FIEs”) unless they qualify under certain limited exceptions. In addition, under the EIT Law, an enterprise established outside of the PRC with “de facto management bodies” within the PRC is considered a resident enterprise and will normally be subject to an EIT of 25% on its global income. The implementing rules define the term “de facto management bodies” as “an establishment that exercises, in substance, overall management and control over the production, business, personnel, accounting, etc., of a Chinese enterprise.” If the PRC tax authorities subsequently determine that we should be classified as a resident enterprise, then our organization’s global income will be subject to PRC income tax of 25%. For detailed discussion of PRC tax issues related to resident enterprise status, see Part I—Item 1A—“Risk Factors—Risks Related to Doing Business in the PRC and to Our Legacy YOD Business —Under the New Enterprise Income Tax Law, we may be classified as a “resident enterprise” of the PRC.” Such classification will likely result in unfavorable tax consequences to us and our non-PRC shareholders.”
+
+15
+--
+
+Foreign Currency Exchange
+ 
+Approximately 50% of our gross profit and most expenses are denominated in RMB. Under the PRC foreign currency exchange regulations applicable to us, RMB is convertible for current account items, including the distribution of dividends, interest payments, trade and service-related foreign exchange transactions. Currently, our PRC operating entities may purchase foreign currencies for settlement of current account transactions, including payments of dividends to us, without the approval of the PRC State Administration of Foreign Exchange (“SAFE”), by complying with certain procedural requirements. Conversion of RMB for capital account items, such as direct investment, loan, security investment and repatriation of investment, however, is still subject to the approval of SAFE. In particular, if our PRC operating entities borrow foreign currency through loans from us or other foreign lenders, these loans must be registered with SAFE, and if we finance the subsidiaries by means of additional capital contributions, these capital contributions must be approved by certain government authorities, including the MOFCOM, or their respective local branches. These limitations could affect our PRC operating entities’ ability to obtain foreign exchange through debt or equity financing.
+Dividend Distributions
+ 
+Approximately 50% of our gross profits are earned by our PRC entities. However, PRC regulations restrict the ability of our PRC entities to make dividends and other payments to their offshore parent company. PRC legal restrictions permit payments of dividends by our PRC entities only out of their accumulated after-tax profits, if any, determined in accordance with PRC accounting standards and regulations. Each of our PRC subsidiaries is also required under PRC laws and regulations to allocate at least 10% of our annual after-tax profits determined in accordance with PRC GAAP to a statutory general reserve fund until the amounts in such fund reaches 50% of its registered capital. These reserves are not distributable as cash dividends. Our PRC subsidiaries have the discretion to allocate a portion of their after-tax profits to staff welfare and bonus funds, which may not be distributed to equity owners except in the event of liquidation.
+ 
+In addition, under the new EIT law, the Notice of the State Administration of Taxation on Negotiated Reduction of Dividends and Interest Rates (Notice 112), which was issued on January 29, 2008, and the Notice of the State Administration of Taxation Regarding Interpretation and Recognition of Beneficial Owners under Tax Treaties (Notice 601), which became effective on October 27, 2009, dividends from our PRC operating subsidiaries paid to us through our entities will be subject to a withholding tax at a rate of 10%. Furthermore, the ultimate tax rate will be determined by treaty between the PRC and the tax residence of the holder of the PRC subsidiary. Dividends declared and paid from before January 1, 2008 on distributable profits are grandfathered under the EIT Law and are not subject to withholding tax.
+ 
+We intend to reinvest profits, if any, and do not intend on making cash distributions of dividends in the near future.
+ 
+Regulation Regarding our Fintech Businesses
+ 
+Blockchain and distributed ledger platforms are recent technological innovations, and the regulatory schemes to which digital assets may be subject have not been fully explored or developed. Regulation of digital assets varies from country to country as well as within countries. In some cases, existing laws have been interpreted to apply to blockchain based technologies and digital assets, and in other cases, jurisdictions have adopted laws, regulations or directives that specifically affect digital assets, and some jurisdictions have not taken any regulatory stance on digital assets and or have explicitly declined to apply regulation. Accordingly, there is no clear regulatory framework applicable to blockchain platforms or digital asset products, and laws that do apply at times may overlap.
+ 
+As both the regulatory landscape develops and journalistic familiarity with digital assets increase, mainstream media’s understanding of such digital assets and the regulation thereof may improve. An increase in the regulation of digital assets may affect our proposed business by increasing compliance costs or prohibiting certain or all of our proposed activities.
+ 
+Securities and Commodities Laws
+ 
+Actions taken by securities regulators in the United States and internationally have confirmed that certain digital assets may be securities under the laws of applicable jurisdictions, as a result of which we will face government regulation and oversight. For example, under U.S. federal law, an instrument is generally considered to be an “investment contract,” and therefore a security, where there is (i) an investment of money; (ii) money is made in a common enterprise; (iii) with an expectation of profits; (iv) to be derived from the efforts of others. We anticipate that all of the securitized digital assets we develop will be securities under U.S. federal law, as well as the securities laws of some overseas jurisdictions, such as Canada, Australia and Japan, which accordingly will trigger registration or qualification requirements with the SEC, or potentially, certain foreign jurisdiction where we may market such securitized digital assets, or require us to rely on any available exemptions.
+
+16
+--
+
+ 
+
+Platforms for the exchange and trading of digital assets that qualify as securities under applicable laws, such as the four platforms we expect to offer, may also be subject to regulatory requirements and approvals. In order for a securities exchange to allow U.S. investors to participate on its platform, it must register as a broker-dealer with the SEC, become a member of FINRA, file a Form ATS with the SEC and comply with Regulation ATS. Depending on a securities exchange’s activities, it may be required to also register as a broker dealer on the state level. DBOT, one of our joint venture investments, has filed a Form ATS with the SEC. We, or our joint ventures, may also be required to comply with laws applicable to securities exchanges to the extent our exchange platforms are made available in jurisdictions where the securitized digital assets that trade on those platforms are treated as securities.
+ 
+In addition, the U.S. Commodity Futures Trading Commission (“CFTC”) has defined “virtual currencies” as a digital representation of value that functions as a medium of exchange, a unit of account, and/or a store of value, but does not have legal tender status in any jurisdiction. The CFTC has considered digital assets as commodities or derivatives, depending on the facts of the offering. We do not plan to facilitate borrowing transactions that permit the trading of the securitized digital assets we develop on a “leveraged, margined or financed basis.”
+ 
+Money Services and Transmitter Laws
+ 
+FinCEN, a bureau of the U.S. Department of the Treasury responsible for the federal regulation of currency market participants, has issued interpretive guidance relating to the application of the Bank Secrecy Act to distributing, exchanging and transmitting “virtual currencies.” As a result of this guidance, some companies that act as an administrator or exchanger of digital assets may be considered a money service businesses (“MSB”). MSBs are required to register as an MSB under FinCEN’s money transmitter regulations, be subject to reporting requirements and perform recordkeeping functions. As a result, digital asset exchanges that offer services to U.S. residents or otherwise fall under U.S. jurisdiction are required to obtain licenses and comply with FinCEN regulations. FinCEN released additional guidance clarifying that most miners, software developers, hardware manufacturers, escrow service providers and investors in certain digital assets would not be required to register with FinCEN on the basis of such activity alone, but that digital asset exchanges, payment processors and convertible digital asset administrators would likely be required to register with FinCEN. We are currently evaluating whether our planned operations may be require our registration as an MSB.
+ 
+In addition, various U.S. state regulators, including the California Department of Financial Institutions, the New York State Department of Financial Services, the Virginia Corporation Commission, the Idaho Department of Financial Services, and the Washington State Department of Financial Institutions, have released interpretations or mandates that digital asset exchanges and similar service providers register on a state-level as money transmitters (“MTs”) or MSBs. Many of the states have their own application and process to apply for an MT license.
+ 
+Financial Crimes and Sanctions Compliance
+ 
+The jurisdictions in which we operate and intend to operate generally have adopted laws to prevent money laundering, terrorist financing, fraud and other financial crime, as well as to ensure compliance with applicable sanctions regimes. Various aspects of our business require us to develop and implement policies and procedures that confirm the identity of customers, detect suspicious activities and ensure we do not do business with blocked persons. Accordingly, we have already implemented specific anti-money laundering (“AML”) and “know your customer” policies for the SSE oil trading operations and Amer consumer electronics operations through each entity’s bank.
+Laws or Regulations Directed at Digital Assets
+ 
+Certain jurisdictions may require specific licensees for companies operating blockchain and digital asset based businesses. Some jurisdictions, such as the PRC, Ecuador, Russia, South Korea and India, have prohibited or severely restricted the trading of digital assets and/or operation of exchanges that trade in such digital assets, which may prevent us from marketing the securitized digital assets we plan to develop in those countries, or from making the exchanges we are designing available in those countries.
+
+17
+--
+
+ 
+
+European regulators generally have generally not yet implemented specific laws or regulations directed at digital assets, but reports suggest they may do so in the future. For example, in October 2012, the European Central Bank issued a report on “virtual currency” schemes indicating that digital assets may become the subject of regulatory interest in the European Union, in July 2016, the European Commission released a draft directive that proposed applying counter-terrorism and AML regulations to digital currencies, and in September 2016, the European Banking authority advised the European Commission to institute new regulation specific to digital currencies, with amendments to existing regulation as a stopgap measure. Australian lawmakers have also introduced legislation to regulate digital asset exchanges and increase AML policies. We intend to monitor the extent to which any such regulations are adopted and will apply to our business.
+ 
+Environmental Disclosures 
+ 
+As part of the acquisition of the Fintech Village property (see Part I—Item 2—“Properties”), we agreed to assume responsibility for completing environmental remediation, previously initiated by the prior owner, relating to the cleanup of asbestos and polychlorinated biphenyls (“PCBs”) from building materials on the property and any contamination of soil and groundwater on the land, an existing condition cited by the Department of Energy and Environmental Protection for the State of Connecticut (“DEEP”). We were required, as part of the purchase of the land, to post an $8 million surety bond ($3.6 million of which was cash collateral), the approximate cost of previous remediation costs. The surety bond will serve either serve as collateral to the state if we do not complete the environmental remediation to state and federal requirements or be returned to us in full if remediation efforts are successful and completed.
+
+
+Our remediation efforts are ongoing and are currently in the initial testing stage. We plan to remove or renovate the contaminated buildings on the property and, through a third party, are currently testing levels of contaminants in the groundwater in some of the wetlands and ponds on the property. DEEP and the Environmental Protection Agency continue to monitor our remediation efforts. Although there can be no assurance, based upon the information available, we do not expect expenses associated with these activities to be material. If we elect to sell, transfer or change the use of the facility, additional environmental testing may be required. We cannot assure that we will not discover further environmental contamination, that any planned timeline for remediation will not be delayed, that we would not be required by DEEP or the EPA to incur significant expenditures for environmental remediation in the future.
+ 
+
+18
+--
+
+Our Employees
+ 
+As of December 31, 2018, we had a total of 50 full-time employees, including three located in the United States. The following table sets forth the number of our employees by function on December 31, 2018.
+
+Function | Number of Employees 
+----------------------------------+------------------------
+Business Development | 15 
+Project Management and Operations | 5 
+Technology | 8 
+Finance and Legal | 16 
+Human Resources | 2 
+Administrative | 4 
+TOTAL | 50 
+
+ 
+Our employees are not represented by a labor organization or covered by a collective bargaining agreement. We have not experienced any work stoppages.
+ 
+We are required under PRC law to make contributions to employee benefit plans at specified percentages of employee salary. In addition, we are required by the PRC law to cover employees in the PRC with various types of social insurance. We believe that we are in compliance with the relevant PRC laws.
+ 
+
+19
+--
+

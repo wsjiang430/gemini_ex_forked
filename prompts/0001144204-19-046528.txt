@@ -1,0 +1,989 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | Business
+--------+---------
+
+Forward Looking Statements
+ 
+This annual report contains forward-looking statements, which can be identified by the use of words such as “estimate,” “project,” “believe,” “intend,” “anticipate,” “assume,” “plan,” “seek,” “expect,” “will,” “may,” “should,” “indicate,” “would,” “contemplate,” “continue,” “potential,” “target” and words of similar meaning. These forward-looking statements include, but are not limited to:
+
+· | statements of our goals, intentions and expectations;
+--+------------------------------------------------------
+
+
+· | statements regarding our business plans, prospects, growth and operating strategies;
+--+-------------------------------------------------------------------------------------
+
+
+· | statements regarding the quality of our loan and investment portfolios; and
+--+----------------------------------------------------------------------------
+
+
+· | estimates of our risks and future costs and benefits.
+--+------------------------------------------------------
+
+ 
+These forward-looking statements are based on current beliefs and expectations of our management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, these forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change. Accordingly, you should not place undue reliance on such statements. We are under no duty to and do not take any obligation to update any forward-looking statements after the date of this annual report.
+ 
+The following factors, among others, could cause actual results to differ materially from the anticipated results or other expectations expressed in the forward-looking statements:
+ 
+
+· | general economic conditions, either nationally or in our market areas, that are worse than expected;
+--+-----------------------------------------------------------------------------------------------------
+
+
+· | changes in the level and direction of loan delinquencies and write-offs and changes in estimates of the adequacy of the allowance for loan losses;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | our ability to access cost-effective funding;
+--+----------------------------------------------
+
+
+· | fluctuations in real estate values and both residential and commercial real estate market conditions;
+--+------------------------------------------------------------------------------------------------------
+
+
+· | demand for loans and deposits in our market area;
+--+--------------------------------------------------
+
+
+· | our ability to implement and change our business strategies;
+--+-------------------------------------------------------------
+
+
+· | the continuing impact of the written agreement entered into with WDFI and the FDIC competition among depository and other financial institutions;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | inflation and changes in the interest rate environment that reduce our margins and yields, our mortgage banking revenues, the fair value of financial instruments or our level of loan originations, or prepayments on loans we have made and make;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | adverse changes in the securities or secondary mortgage markets;
+--+-----------------------------------------------------------------
+
+ 
+1
+
+ 
+
+
+· | changes in laws or government regulations or policies affecting financial institutions, including changes in regulatory fees and capital requirements;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | changes in the quality or composition of our loan or investment portfolios;
+--+----------------------------------------------------------------------------
+
+
+· | technological changes that may be more difficult or expensive than expected, or the failure or breaches of information technology security systems;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the inability of third-party providers to perform as expected;
+--+---------------------------------------------------------------
+
+
+· | our ability to manage market risk, credit risk and operational risk in the current economic environment;
+--+---------------------------------------------------------------------------------------------------------
+
+
+· | our ability to enter new markets successfully and capitalize on growth opportunities;
+--+--------------------------------------------------------------------------------------
+
+
+· | our ability to successfully integrate into our operations any assets, liabilities, customers, systems and management personnel we may acquire and our ability to realize related revenue synergies and cost savings within expected time frames, and any goodwill charges related thereto;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | changes in consumer spending, borrowing and savings habits;
+--+------------------------------------------------------------
+
+
+· | changes in accounting policies and practices, as may be adopted by the bank regulatory agencies, the Financial Accounting Standards Board, the Securities and Exchange Commission or the Public Company Accounting Oversight Board;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | our ability to retain key employees;
+--+-------------------------------------
+
+
+· | the effects of any federal government shutdown; and
+--+----------------------------------------------------
+
+
+· | changes in the financial condition, results of operations or future prospects of issuers of securities that we own.
+--+--------------------------------------------------------------------------------------------------------------------
+
+ 
+Because of these and other uncertainties, our actual future results may be materially different from the results indicated by these forward-looking statements.
+ 
+TEB Bancorp, Inc.
+ 
+TEB Bancorp, Inc., a Maryland corporation that was organized in 2018, is a bank holding company headquartered in Wauwatosa, Wisconsin. TEB Bancorp, Inc.’s common stock is traded on the OTC Pink Marketplace under the symbol “TBBA.” TEB Bancorp, Inc. conducts its operations primarily through its wholly owned subsidiary, The Equitable Bank, S.S.B., a Wisconsin-chartered savings bank. TEB Bancorp, Inc. manages its operations as one unit, and thus does not have separate operating segments. At June 30, 2019, TEB Bancorp, Inc. had total assets of $312.2 million, net loans of $259.9 million, deposits of $234.6 million, and stockholders’ equity of $24.4 million.
+ 
+TEB Bancorp, Inc. was formed as part of the mutual holding company reorganization of The Equitable Bank, S.S.B., which was completed in April 2019. In connection with the reorganization, TEB Bancorp, Inc. sold 1,309,547 shares of common stock to the public at $10.00 per share, representing 49.9% of its outstanding shares of common stock. TEB MHC has been organized as a mutual holding company under the laws of the State of Wisconsin and owns the remaining 50.1% of the outstanding common stock of TEB Bancorp, Inc.
+ 
+2
+
+ 
+
+The executive offices of TEB Bancorp, Inc. are located at 2290 North Mayfair Road, Wauwatosa, Wisconsin 53226, and its telephone number is (414) 476-6434. Our website address is www.theequitablebank.com. Information on our website is not and should not be considered a part of this annual report.
+ 
+TEB Bancorp, Inc. is subject to comprehensive regulation and examination by the Board of Governors of the Federal Reserve System (the “Federal Reserve Board”).
+ 
+TEB MHC
+ 
+TEB MHC was formed as a Wisconsin mutual holding company and will, for as long as it is in existence, own a majority of the outstanding shares of TEB Bancorp, Inc.’s common stock.
+ 
+TEB MHC’s principal assets are the common stock of TEB Bancorp, Inc. it received in the reorganization and offering and $100,000 cash in initial capitalization, which was contributed from the net proceeds of the stock offering. Presently, it is expected that the only business activity of TEB MHC will be to own a majority of TEB Bancorp, Inc.’s common stock. TEB MHC is authorized, however, to engage in any other business activities that are permissible for mutual holding companies under state and federal law, including investing in loans and securities.
+ 
+The Equitable Bank, S.S.B.
+ 
+The Equitable Bank is a Wisconsin-chartered savings bank headquartered in Wauwatosa, Wisconsin. The Equitable Bank was originally chartered in 1927 as a Wisconsin-chartered mutual building and loan association under the name The Equitable Savings Building and Loan Association. In 1990, we changed our name to “The Equitable Bank, S.S.B.” (The Equitable Bank), and in 1993 we converted to a Wisconsin-chartered mutual savings bank.
+ 
+We conduct our business from our main office and five branch offices, which are located in Milwaukee, Racine and Waukesha Counties, Wisconsin, and a loan production office, which is located in Ozaukee County, Wisconsin. Our primary market area is broadly defined as the Milwaukee, Wisconsin metropolitan area, which is geographically located in the southeast corner of the state. Our primary market area for deposits includes the communities in which we maintain our banking office locations, while our primary lending market area is broader, and also includes Ozaukee County, where we maintain our loan production office, as well as Washington County, Wisconsin, which borders both Ozaukee County and Waukesha County.
+ 
+Our business consists primarily of taking deposits from the general public and investing those deposits, together with funds generated from operations, in one- to four-family residential real estate loans (both owner occupied and non-owner occupied), multifamily residential real estate loans and commercial real estate loans, and, to a lesser extent, consumer loans (primarily home equity lines of credit), construction, land and development loans, and commercial and industrial loans. Subject to market conditions, we expect to increase our focus on originating multifamily residential real estate, owner-occupied commercial real estate and non-owner occupied one- to four-family residential real estate loans in an effort to further diversify our overall loan portfolio, increase the overall yield earned on our loans and assist in managing interest rate risk. We also invest in securities, which have historically consisted primarily of obligations of states and political subdivisions. We offer a variety of deposit accounts, including checking accounts, savings accounts and certificate of deposit accounts. We borrow funds, primarily from the Federal Home Loan Bank of Chicago, to fund our operations as necessary.
+ 
+The Equitable Bank is subject to comprehensive regulation and examination by the Wisconsin Department of Financial Institutions (the “WDFI”) and the Federal Deposit Insurance Corporation.
+ 
+Our executive office is located at 2290 North Mayfair Road, Wauwatosa, Wisconsin 53226, and our telephone number at this address is (414) 476-6434.
+ 
+3
+
+ 
+
+Mutual Holding Company Ownership Structure
+ 
+Public stockholders own a minority of the outstanding shares of TEB Bancorp, Inc.’s common stock. As a result, stockholders other than TEB MHC are not be able to exercise voting control over most matters put to a vote of stockholders. TEB MHC owns a majority of TEB Bancorp, Inc.’s common stock and, through its board of directors, is able to exercise voting control over most matters put to a vote of stockholders. The same directors and officers who manage The Equitable Bank also manage TEB Bancorp, Inc. and TEB MHC. The board of directors of TEB MHC must ensure that the interests of depositors of The Equitable Bank (as members of TEB MHC) are represented and considered in matters put to a vote of stockholders of TEB Bancorp, Inc. Therefore, TEB MHC may take action that the public stockholders believe to be contrary to their interests. For example, TEB MHC may exercise its voting control to defeat a stockholder nominee for election to the board of directors of TEB Bancorp, Inc.
+ 
+In addition, stockholders are not able to force a merger or second-step conversion transaction without the consent of TEB MHC since such transactions also require the approval of a majority of all of the outstanding voting stock of TEB Bancorp, Inc., which can only be achieved if TEB MHC voted to approve such transactions. Some stockholders may desire a sale or merger transaction, since stockholders typically receive a premium for their shares, or a second-step conversion transaction, since, on a fully converted basis, most full stock institutions tend to trade at higher multiples than mutual holding companies. Stockholders could, however, prevent a second-step conversion or the implementation of equity incentive plans as under current regulations and policies, such matters also require the separate approval of the stockholders other than TEB MHC.
+ 
+Market Area
+ 
+We conduct our business from our main office and five branch offices, which are located in Milwaukee, Racine and Waukesha Counties, Wisconsin, and a loan production office, which is located in Ozaukee County, Wisconsin.  Our primary market area is broadly defined as the Milwaukee, Wisconsin metropolitan area, which is geographically located in the southeast corner of the state. Our primary market area for deposits includes the communities in which we maintain our banking office locations, while our primary lending market area is broader, and also includes Ozaukee County, where we maintain our loan production office, as well as Washington County, Wisconsin, which borders both Ozaukee County and Waukesha County.  The following discusses the demographics of the counties where our offices are located.
+ 
+According to information from S&P Global Market Intelligence as of July 2019, from 2014 to 2019, the population decreased in Milwaukee County by 1.0%, and experienced increases in Racine, Waukesha and Ozaukee Counties of 1.2%, 2.4% and 2.0%, respectively, compared to 1.2% for Wisconsin and 3.8% for the United States as a whole.  Projections indicate that through 2024, the population will remain fairly stable in Milwaukee County, with modest increases (less than 2.5%) for Racine, Waukesha and Ozaukee Counties, as well as for Wisconsin, compared to projected United States population growth of more than 3%.  Trends in numbers of households in our market area, Wisconsin and the United States as a whole were consistent with trends in population, and projections for the numbers of households are also consistent with the projections for population changes.
+ 
+The median household income for 2019 was $51,628, $59,792, $87,590 and $89,115 for Milwaukee, Racine, Waukesha and Ozaukee Counties, respectively, compared to $62,423 in Wisconsin and $63,174 for the United States as a whole.  By 2024, the projected annual growth rates in median household income are expected to be 2.1%, 0.5%, 1.7% and 1.9% in Milwaukee, Racine, Waukesha and Ozaukee Counties, respectively, compared to 1.7% for both Wisconsin and the United States as a whole. 
+ 
+4
+
+ 
+
+Unemployment rates as of June 2018 and 2019 are set forth in the following table.
+ 
+
+Region | June 2018 | June 2019
+-----------------+-----------+----------
+United States | 4.2% | 3.8% 
+Wisconsin | 3.5% | 3.5% 
+Milwaukee County | 4.5% | 4.3% 
+Racine County | 4.1% | 4.1% 
+Waukesha County | 3.2% | 3.3% 
+Ozaukee County | 3.1% | 3.3% 
+
+ 
+While our primary market area has a diversified local economy, for 2019, in each of Milwaukee, Racine, Waukesha and Ozaukee Counties, as well as the State of Wisconsin, the three largest employment sectors consisted of education/healthcare/social services, the service sector and manufacturing, with manufacturing being the largest employment sector in Racine County.
+ 
+We believe that we have developed products and services that will meet the financial needs of our current and future customer base; however, we plan, and believe it is necessary, to expand the range of products and services that we offer to be more competitive in our market area. Our marketing strategies focus on the strength of our knowledge of local consumer and small business markets, as well as expanding relationships with current customers and reaching out to develop new, profitable business relationships.
+ 
+Competition 
+ 
+We face competition within our market area both in making loans and attracting deposits. Our market area has a concentration of financial institutions that include large money center and regional banks, community banks and credit unions.  We also face competition from savings institutions, mortgage banking firms, consumer finance companies and credit unions and, with respect to deposits, from money market funds, brokerage firms, mutual funds and insurance companies.  As of June 30, 2019 (the most recent date for which data is available), our market share of deposits represented 0.44% of Federal Deposit Insurance Corporation-insured deposits in Milwaukee County, ranking us 16th in market share of deposits out of 27 institutions operating in the county.  In addition, as of that date, our market share of deposits represented 0.82% of Federal Deposit Insurance Corporation-insured deposits in Racine County, ranking us 13th in market share of deposits out of 14 institutions operating in the county, and our market share of deposits represented 0.14% of Federal Deposit Insurance Corporation-insured deposits in Waukesha County, ranking us 32nd in market share of deposits out of 34 institutions operating in the county. 
+ 
+5
+
+ 
+
+
+Loan Portfolio Composition. The following table sets forth the composition of our loan portfolio by type of loan at the dates indicated. Included with the loans described in the table below, at June 30, 2019, we had $7.1 million of loans held for sale, $6.8 million of loans in process and $312,000 of deferred loan fees.
+
+ | At June 30, | | | At September 30,
+---------------------------------------------------+------------------------+---------+---+-----------------
+ | 2019 | | | 2018 | | 2017 | | 2016 | | 2015 | 
+ | Amount | | | Percent | | Amount | | Percent | | Amount | | | Percent | | | Amount | Percent | | Amount | | | Percent
+ | (Dollars in thousands) | 
+Construction, land and development | $ | 4,319 | | | 1.65 | % | $ | 4,845 | | | 1.83 | % | | $ | 3,455 | | 1.31 | % | $ | 3,215 | | | 1.25 | % | $ | 6,908 | | 2.74 | %
+One- to four-family owner occupied residential | | 124,846 | | | 47.80 | | | 122,599 | | | 46.21 | | | | 119,847 | | 45.40 | | | 114,722 | | | 44.50 | | | 117,197 | | 46.50 | 
+One- to four-family non-owner occupied residential | | 20,969 | | | 8.03 | | | 23,837 | | | 8.98 | | | | 22,837 | | 8.65 | | | 22,517 | | | 8.73 | | | 18,851 | | 7.48 | 
+Multifamily | | 73,246 | | | 28.05 | | | 71,101 | | | 26.80 | | | | 60,883 | | 23.07 | | | 58,532 | | | 22.71 | | | 54,307 | | 21.55 | 
+Commercial real estate | | 26,362 | | | 10.09 | | | 29,451 | | | 11.10 | | | | 42,127 | | 15.96 | | | 43,829 | | | 17.00 | | | 39,338 | | 15.61 | 
+Commercial and industrial | | 1,648 | | | 0.63 | | | 2,112 | | | 0.79 | | | | 1,881 | | 0.71 | | | 1,380 | | | 0.54 | | | 368 | | 0.15 | 
+Consumer and installment (1) | | 9,777 | | | 3.74 | | | 11,378 | | | 4.29 | | | | 12,922 | | 4.90 | | | 13,588 | | | 5.27 | | | 15,059 | | 5.97 | 
+ | | 261,167 | | | 100.00 | % | | 265,323 | | | 100.00 | % | | | 263,952 | | 100.00 | % | | 257,782 | | | 100.00 | % | | 252,028 | | 100.00 | %
+Less: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Allowance for losses | | (1,294 | ) | | | | | (1,324 | ) | | | | | | (1,879 | ) | | | | (4,482 | ) | | | | | (2,586 | ) | | 
+Total loans | $ | 259,873 | | | | | $ | 263,999 | | | | | | $ | 262,073 | | | | $ | 253,301 | | | | | $ | 249,442 | | | 
+
+ 
+
+(1) Includes home equity loans and lines of credit, which totaled $9.5 million at June 30, 2019.
+ 
+6
+
+ 
+
+Contractual Maturities. The following tables set forth the contractual maturities of our total loan portfolio at June 30, 2019. Demand loans, loans having no stated repayment schedule or maturity, and overdraft loans are reported as being due in one year or less. The tables present contractual maturities and do not reflect repricing or the effect of prepayments. Actual maturities may differ.
+
+June 30, 2019 | Construction, Land and Development | | One- to Four- Family Owner Occupied Residential | | | One- to Four- Family Non- Owner Occupied Residential | | Multifamily
+----------------------------+--------------------------------------+-------+---------------------------------------------------+---+---------+--------------------------------------------------------+---+------------
+ | (In thousands) | 
+Amounts due in: | | | | | | | | | | 
+One year or less | $ | 672 | | $ | — | | $ | 847 | $ | 2,898 
+More than one to five years | | 1,774 | | | 326 | | | 8,677 | | 51,410
+More than five years | | 1,873 | | | 124,519 | | | 11,445 | | 18,938
+Total | $ | 4,319 | | $ | 124,845 | | $ | 20,969 | $ | 73,246
+
+
+June 30, 2019 | Commercial Real Estate | | Commercial and Industrial | | | Consumer and Installment | | Total
+----------------------------+-------------------------+--------+----------------------------+---+-------+---------------------------+---+------
+ | (In thousands) | 
+Amounts due in: | | | | | | | | | | 
+One year or less | $ | 3,231 | | $ | 1,377 | | $ | 1,052 | $ | 10,077 
+More than one to five years | | 8,457 | | | 204 | | | 310 | | 71,158 
+More than five years | | 14,692 | | | 50 | | | 8,415 | | 179,932
+Total | $ | 26,380 | | $ | 1,631 | | $ | 9,777 | $ | 261,167
+
+ 
+The following table sets forth our fixed and adjustable-rate loans at June 30, 2019 that are contractually due after June 30, 2020. Our balloon loans are included as fixed-rate loans for purposes of this table.
+ 
+
+ | Due After June 30, 2020 | 
+---------------------------------------------------+-------------------------+--------
+ | Fixed | | Adjustable | | | Total
+ | (In thousands) | 
+Construction, land and development | $ | 745 | | $ | 2,902 | | $ | 3,647 
+One- to four-family owner occupied residential | | 25,277 | | | 99,568 | | | 124,845
+One- to four-family non-owner occupied residential | | 10,342 | | | 9,780 | | | 20,122 
+Multifamily | | 61,044 | | | 9,304 | | | 70,348 
+Commercial real estate | | 11,455 | | | 11,694 | | | 23,149 
+Commercial and industrial | | 254 | | | — | | | 254 
+Consumer and installment | | 363 | | | 8,362 | | | 8,725 
+Total loans | $ | 109,480 | | $ | 141,610 | | $ | 251,090
+
+ 
+The following describes our most significant categories of loan types at June 30, 2019.
+ 
+One- to Four-Family Real Estate Loans – Owner Occupied. At June 30, 2019, $124.8 million, or 47.8% of our total loan portfolio, consisted of owner-occupied one- to four-family residential real estate loans. We offer adjustable-rate owner-occupied residential real estate loans with maturities up to 30 years that include an initial introductory rate period of up to 10 years. Our adjustable-rate owner-occupied residential real estate loans have a competitive initial rate. After the initial fixed period (ranging between one to ten years) the rate will adjust to a predetermined margin plus the current index based on the 1 Year LIBOR. The rate adjustments are limited to 2.0% for the first change with subsequent adjustments every six months limited to 1.0%. The lifetime cap is limited to 6.0% over the initial rate.
+ 
+Consistent with our strategy to increase our noninterest income while managing interest rate risk, we have historically sold substantially all of our fixed-rate owner-occupied, “conforming” (as described below) one- to four-family real estate loans, with the majority made up of 30-year fixed-rate loans. The loans are closed in our name, and are then sold to our investors who provide Fannie Mae and Freddie Mac conventional products as well as FHA and VA government loans. The loans are typically purchased and funded by the investors within 30 days of the originations. We earn interest income on the loans until they are purchased.
+ 
+7
+
+ 
+
+One- to four-family, owner-occupied residential real estate loans are generally underwritten according to Fannie Mae or Freddie Mac guidelines, and we refer to loans that conform to such guidelines as “conforming loans.” We generally originate one- to four-family owner-occupied real estate loans in amounts up to the maximum conforming loan limits as established by Fannie Mae, which is generally $484,350 for single-family homes in our market area. However, loans in excess of $484,350 (which are referred to as “jumbo loans”) may be originated and sold on a servicing released basis as well. We retain the majority of “jumbo loans” in our loan portfolio. We generally underwrite jumbo loans in accordance to our portfolio underwriting guidelines. At June 30, 2019, the average size of our one- to four-family, owner-occupied residential real estate loans originated for our portfolio was $181,000.
+ 
+Generally, we originate loans with loan-to-value ratios of up to 80% but we also originate loans with loan-to-value ratios of up to 97%. Any loans we originate with loan-to-value ratios in excess of 80% require private mortgage insurance.
+ 
+We do not offer “interest only” mortgage loans on permanent one- to four-family residential properties (where the borrower pays interest for an initial period, after which the loan converts to a fully amortizing loan). We do not offer loans that provide for negative amortization of principal, such as “Option ARM” loans, where the borrower can pay less than the interest owed on the loan, resulting in an increased principal balance during the life of the loan. We do not offer “subprime loans” (loans that generally target borrowers with weakened credit histories typically characterized by payment delinquencies, previous charge-offs, judgments, bankruptcies, or borrowers with questionable repayment capacity as evidenced by low credit scores or high debt-burden ratios) or Alt-A loans (traditionally defined as loans having less than full documentation).
+ 
+One- to Four-Family Real Estate Loans – Non-Owner Occupied. At June 30, 2019, $21.0 million, or 8.0% of our total loan portfolio, consisted of one- to four-family non-owner occupied real estate loans. Our real estate underwriting policies provide that such loans may be made in amounts of up to 80% of the appraised value of the property. Our one- to four-family non-owner occupied real estate loans generally have adjustable rates with 30-year terms and a fixed initial rate ranging between three to seven years. Our adjustable-rate mortgages one- to four-family non-owner occupied real estate loans have a competitive initial rate that typically resets to an applicable margin with an adjustment every six months, up to 2% over the 1 Year LIBOR Rate after the initial three-, five- or seven-year fixed period with a lifetime rate cap of 14.50%.
+ 
+We generally target one- to four-family non-owner occupied loans with balances up to $250,000. At June 30, 2019, our average one- to four-family non-owner occupied real estate loan was $112,000. Virtually all of our one- to four-family non-owner occupied real estate loans are secured by properties located in our primary lending area.
+ 
+When originating one- to four-family non-owner occupied real estate loans, we consider the net operating income of the property, the borrower’s expertise and credit history, the global cash flow of the borrowers and the value of the underlying property. We generally require that the properties securing these real estate loans have debt service coverage ratios (the ratio of earnings before debt service to debt service) of at least 1.00x, using 75% of estimated or actual rents against principal, interest, taxes and insurance (PITI) for one and two unit properties, and at least 1.00x using 70% of estimated or actual rents against PITI for three or four unit properties.
+ 
+Generally, one- to four-family real estate loans made to business entities require the principals to execute the loan agreements in their individual capacity through personal guarantees, as well as signing on behalf of such business entity.
+ 
+Once a borrower exceeds $1.0 million in loans, we require one- to four-family non-owner occupied loan borrowers to provide annually updated financial statements and federal tax returns. Additionally, these borrowers with larger exposure are subject to underwriting standards similar to multifamily loans, which include a debt service requirement of 1.20x.
+ 
+8
+
+ 
+
+Multifamily Real Estate Loans. At June 30, 2019 multifamily real estate loans were $73.2 million, or 28.1%, of our total loan portfolio. We originate individual multifamily real estate loans to experienced, growing small- and mid-size owners and investors in our market areas. Our multifamily real estate loans are generally secured by properties consisting of five to 40 rental units within our market. However, due to the highly competitive nature and the limited inventory in our market, we have expanded beyond our market, but within the State of Wisconsin, for multifamily opportunities without compromising credit quality.
+ 
+We originate balloon loans with a variety of fixed-rate periods, typically up to seven years, with amortization terms up 25 years, although we will provide amortization terms up to 30 years on an exception basis. Interest rates and payments on our balloon loans are typically determined based on our internal pricing requirements and the current competitive market. Multifamily real estate loan amounts generally do not exceed 75% of the property’s appraised value at the time the loan is originated. We require each property to meet a minimum debt service ratio of 1.20x (calculated as net operating income divided by debt service). In addition, each borrowing entity must meet a global debt service ratio of 1.20x. We require multifamily real estate borrowers with loans in excess of $500,000 to submit annual financial statements including federal tax returns (both business and personal), personal financial statement for each borrower/guarantor and an updated rent roll for each property. Properties with a loan in excess of $300,000 are subject to bi-annual inspections to verify appropriate maintenance is being performed.
+ 
+Commercial Real Estate Loans. In recent years, we have sought to increase our originations of owner-occupied commercial real estate loans, and we have limited our originations of non-owner occupied commercial real estate loans. At June 30, 2019, we had $26.4 million in owner occupied commercial real estate loans, representing 10.1% of our total loan portfolio, and $1.6 million in non-owner occupied commercial real estate loans, representing 0.6% of our total loan portfolio. Most of our commercial real estate loans are balloon loans with a three-, five- or seven-year initial term and a 25-year amortization period. The maximum loan-to-value ratio of our commercial real estate loans is generally 75%. These loans are secured by traditional commercial property types including industrial, office, retail and warehouse/storage facilities.
+ 
+We consider a number of factors in originating commercial real estate loans. We evaluate the qualifications and financial condition of the borrower, including credit history, profitability and expertise, as well as the value and condition of the property securing the loan. We require each property to meet a minimum debt service ratio of 1.20x (calculated as net operating income divided by debt service). In addition, each borrowing entity must meet a global debt service ratio of 1.20x. When evaluating the qualifications of the borrower, we consider the financial resources of the borrower, the borrower’s experience in owning or managing similar property and the borrower’s payment history with us and other financial institutions. In evaluating the property securing the loan, the factors we consider include the strength and stability of the net operating income of the mortgaged property and the ratio of the loan amount to the appraised value of the mortgaged property, along with our assessing any environmental concerns associated with the property. The significant majority of our commercial real estate loans are appraised by outside independent appraisers approved by the board of directors. Under applicable regulations, we are only required to obtain independent appraisals on commercial real estate loans in amounts greater than $500,000 for non-owner-occupied properties and $1.0 million for owner-occupied properties, and any decision not to obtain an outside, independent appraisal is made in accordance with these regulations. Personal guarantees are generally obtained from any principals of the underlying borrowing entity having a 25% or greater ownership/membership interest. We require all commercial real estate borrowers having an overall loan exposure of $500,000 or greater to provide annually updated financial statements and federal tax returns, which are used to conduct an annual review of the relationship.
+ 
+9
+
+ 
+
+Home Equity Loans and Lines of Credit. At June 30, 2019, home equity loans and lines of credit (which we categorize as consumer loans) totaled $20.1 million, with $9.5 million in outstanding balances. This total consisted of $245,000 of home equity loans and $9.2 million of home equity lines of credit. In recent years, we have not originated home equity loans. The underwriting standards utilized for home equity lines of credit include a determination of the applicant’s credit history, an assessment of the applicant’s ability to meet existing obligations and payments on the proposed loan and the value of the collateral securing the loan. Home equity lines of credit are offered with a loan-to-value ratio up to 80%. However, we offer special programs to borrowers who satisfy certain underwriting criteria (such as having an additional banking relationship) with loan-to-value ratios of up to 85%. Our home equity loans and lines of credit are generally 10-year balloon loans. Our home equity lines of credit have adjustable rates of interest which are indexed to the prime rate, as reported in The Wall Street Journal.
+ 
+Loan Underwriting Risks
+ 
+Commercial Real Estate and Multifamily Real Estate Loans. Loans secured by commercial and multifamily real estate generally have larger balances and involve a greater degree of risk than one- to four-family residential real estate loans. The primary concerns in commercial and multifamily real estate lending are the borrower’s creditworthiness and the feasibility and cash flow potential of the project. Payments on loans secured by income properties often depend on successful operation and management of the properties. As a result, repayment of such loans may be subject, to a greater extent than residential real estate loans, to adverse conditions in the real estate market or the economy. To monitor cash flows on income properties, we require borrowers and loan guarantors to provide annual financial statements on commercial real estate loans. In reaching a decision on whether to make a commercial or multifamily real estate loan, we consider and review a global cash flow analysis of the borrower and consider the net operating income of the property, the borrower’s expertise, credit history and profitability and the value of the underlying property. A Phase I environmental site assessment is obtained when the possibility exists that hazardous materials may have existed on the site, or the site may have been impacted by adjoining properties that handled hazardous materials.
+ 
+If we foreclose on a commercial or multifamily real estate loan, the marketing and liquidation period to convert the real estate asset to cash can be lengthy with substantial holding costs. In addition, vacancies, deferred maintenance, repairs and market stigma can result in prospective buyers expecting sale price concessions to offset their real or perceived economic losses for the time it takes them to return the property to profitability. Depending on the individual circumstances, initial charge-offs and subsequent losses on commercial and multifamily real estate loans can be unpredictable and substantial.
+ 
+One- to Four-Family Non-Owner Occupied Residential Real Estate Loans. One- to four-family non-owner occupied residential real estate loans are subject to some of the same risks as our commercial real estate and multifamily real estate loans, in that they depend on the borrower’s creditworthiness and the feasibility and cash flow potential of the project. Such loans are also subject to similar risks with respect to foreclosures and subsequent operations of the property and resale.
+Construction, Land and Development Loans. Our construction loans are based upon estimates of costs and values associated with the completed project. Underwriting is focused on the borrowers’ financial strength, credit history and demonstrated ability to produce a quality product and effectively market and manage their operations.  
+ 
+Construction lending involves additional risks when compared with permanent lending because funds are advanced upon the security of the project, which is of uncertain value prior to its completion. Because of the uncertainties inherent in estimating construction costs, as well as the market value of the completed project and the effects of governmental regulation of real property, it is relatively difficult to evaluate accurately the total funds required to complete a project and the related loan-to-value ratio. In addition, generally during the term of a construction loan, interest may be funded by the borrower or disbursed from an interest reserve set aside from the construction loan budget. These loans often involve the disbursement of substantial funds with repayment primarily dependent on the success of the ultimate project and the ability of the borrower to sell or lease the property or obtain permanent take-out financing, rather than the ability of the borrower or guarantor to repay principal and interest. If the appraised value of a completed project proves to be overstated, we may have inadequate security for the repayment of the loan upon completion of construction of the project and may incur a loss.
+ 
+10
+
+ 
+
+Balloon Loans. Although balloon mortgage loans may reduce to an extent our vulnerability to changes in market interest rates because they may reprice at the end of the term, subject to renegotiation of rate and terms at maturity, the ability of the borrower to renew or repay the loan and the marketability of the underlying collateral may be adversely affected if real estate values decline prior to the expiration of the term of the loan or in a rising interest rate environment.
+ 
+Adjustable-Rate Loans. While we anticipate that adjustable-rate loans will better offset the adverse effects of an increase in interest rates as compared to fixed-rate loans, an increased monthly payment required of adjustable-rate loan borrowers in a rising interest rate environment could cause an increase in delinquencies and defaults. The marketability of the underlying collateral also may be adversely affected in a high interest rate environment.
+ 
+Originations, Purchases and Sales of Loans
+ 
+Residential lending activities are conducted by salaried and commissioned loan personnel operating at our main and branch office locations and our loan production office. Loans we originate are underwritten pursuant to our policies and procedures. Loans originated with the intent for sale are also underwritten pursuant to secondary market guidelines. Our ability to originate fixed-rate loans, adjustable-rate loans or balloon loans depends on relative customer demand for such loans, which can be affected by current and expected future levels of market interest rates. We originate residential real estate loans through our loan originators, marketing efforts, our customer base, walk-in customers and referrals from real estate brokers, builders, accountants and financial advisors.
+ 
+Commercial lending activities are conducted by salaried commercial lenders operating primarily out of our main location. All loans originated by us are underwritten pursuant to our policies and procedures. Our commercial loans are typically fixed-rate balloon loans with terms between three and seven years, with loan rates dependent on current and expected future levels of market interest rates. Commercial and multifamily lending are sourced primarily through loan originator contacts, networking and marketing efforts, our customer base and referrals from real estate brokers, accountants and financial advisors.
+ 
+We currently sell a significant majority of the fixed-rate one- to four-family residential real estate loans we originate on the secondary market. The loans are closed in our name, and are then sold to our investors who provide Fannie Mae and Freddie Mac conventional products as well as FHA and VA government loans. During the year ended June 30, 2019, we originated $116.8 million of one- to four-family residential real estate loans and sold $105.3 million, and during the nine months ended June 30, 2018, we originated $107.2 million of one- to four-family residential real estate loans and sold $78.7 million.
+ 
+Loan Approval Procedures and Authority
+ 
+Pursuant to applicable law, the aggregate amount of loans that we are permitted to make to any one borrower or a group of related borrowers is generally limited to 20% of our capital. This limit may be increased to 50% of capital for loans secured by certain assets. At June 30, 2019, based on the 20% limitation, our loans-to-one-borrower limit was approximately $5.5 million. On the same date, we had four borrowers with outstanding balances in excess of this amount; such loans were originated when we had higher levels of capital, and, as such, are deemed to comply with our loans-to-one-borrower limit. At June 30, 2019, our largest loan relationship with one borrower was for $8.1 million, which was secured by a mix of commercial real estate retail and office buildings, with the underlying loans performing in accordance with their original terms on that date.
+ 
+Our lending is subject to written underwriting standards and origination procedures. Decisions on loan applications are made on the basis of detailed applications submitted by the prospective borrower, credit histories that we obtain, and property valuations (consistent with our appraisal policy) prepared by outside independent licensed appraisers approved by our board of directors as well as internal evaluations, where permitted by regulations. The loan applications are designed primarily to determine the borrower’s ability to repay the requested loan, and the more significant items on the application are verified through use of credit reports, bank statements and tax returns.
+ 
+11
+
+ 
+
+All loan approval amounts are based on the aggregate loans, including total balances of outstanding loans and the proposed loan to the individual borrower and any related entity. Subject to our underwriting procedures, each of our Chairman of the Board and Chief Executive Officer, Vice Chairman and our President and Chief Financial Officer has individual authorization to approve certain residential loans up to $1.0 million, or aggregate exposure up to $2.0 million. Any residential loan above $2.0 million, and any commercial loan up to $2.0 million, requires Loan Committee approval. Our Loan Committee consists of our Chairman of the Board and Chief Executive Officer, our Vice Chairman, our President and Chief Financial Officer, our Chief Credit Officer and our Vice President of Loan Operations. Commercial loans above $2.0 million require board approval and any commercial borrowing relationship exceeding $3.0 million requires board approval for all subsequent loans.
+ 
+Delinquencies and Asset Quality
+ 
+Delinquency Procedures. Our loss recovery process for delinquent loans does not provide a set formula for all borrowers; rather, we tailor our recovery efforts based on the borrower’s credit history with The Equitable Bank, their other account relationships with The Equitable Bank, their current employment situation and other individual circumstances. Our loan recovery specialists contact delinquent borrowers through telephone calls and/or mailing notices, typically beginning when a loan payment becomes 17 days past due. We may request receivership for delinquent loans that are 120 or more days past due, or we can initiate foreclosure procedures at that time if approved by our Chief Executive Officer or President. Alternatively, we may determine that it is in the best interests of The Equitable Bank to work further with the borrower to arrange a workout plan.
+Loans Past Due and Non-Performing Assets. Loans are reviewed on a regular basis.  Management determines that a loan is impaired or non-performing when it is probable at least a portion of the loan will not be collected in accordance with the original terms due to a deterioration in the financial condition of the borrower or the value of the underlying collateral if the loan is collateral dependent.  When a loan is determined to be impaired, the measurement of the loan in the allowance for loan losses is based on present value of expected future cash flows, except that all collateral-dependent loans are measured for impairment based on the fair value of the collateral. Non-accrual loans are loans for which collectability is questionable and, therefore, interest on such loans will no longer be recognized on an accrual basis. All loans that become 90 days or more delinquent are placed on non-accrual status unless the loan is well secured and in the process of collection. When loans are placed on non-accrual status, unpaid accrued interest is fully reversed, and further income is recognized only to the extent received on a cash basis or cost recovery method.  
+ 
+When we acquire real estate as a result of foreclosure, the real estate is classified as real estate owned.  Initially, the real estate owned is recorded at the fair value less costs to sell. Then after foreclosure, each foreclosed real estate parcel is carried at the lower of carrying amount or fair value, less estimated costs to sell. Soon after acquisition, we order a new appraisal to determine the current market value of the property. Any excess of the recorded value of the loan satisfied over the market value of the property is charged against the allowance for loan losses, or, if the existing allowance is inadequate, charged to expense of the current period. After acquisition, all costs incurred in maintaining the property are expensed.  Costs relating to the development and improvement of the property, however, are capitalized to the extent of estimated fair value less estimated costs to sell.
+ 
+A loan is classified as a troubled debt restructuring if, for economic or legal reasons related to the borrower’s financial difficulties, we grant a concession to the borrower that we would not otherwise consider. This usually includes a modification of loan terms, such as a reduction of the interest rate to below market terms, capitalizing past due interest or extending the maturity date and possibly a partial forgiveness of the principal amount due. Interest income on restructured loans is accrued after the borrower demonstrates the ability to pay under the restructured terms through a sustained period of repayment performance, which is generally six consecutive months.
+ 
+12
+
+ 
+
+Delinquent Loans. The following tables set forth our loan delinquencies, including non-accrual loans, by type and amount at the dates indicated.
+ 
+
+ | At June 30, | | | 
+---------------------------------------------------+-----------------------+-------+-----------------------+--
+ | 2019 | | 2018 | | | At September 30, 2017 
+ | 30-59 Days Past Due | | 60-89 Days Past Due | | | 90 Days or More Past Due | | 30-59 Days Past Due | 60-89 Days Past Due | | 90 Days or More Past Due | | | 30-59 Days Past Due | | 60-89 Days Past Due | 90 Days or More Past Due | 
+ | (In thousands) | 
+Construction, land and development | $ | — | | $ | — | | $ | — | $ | 75 | | $ | — | | $ | 87 | $ | 116 | $ | — | $ | — 
+One- to four-family owner occupied residential | | 2,129 | | | 450 | | | 1,203 | | 2,075 | | | — | | | 924 | | 1,346 | | 38 | | 1,225
+One- to four-family non-owner occupied residential | | 104 | | | — | | | — | | — | | | — | | | 95 | | — | | — | | 95 
+Multifamily | | — | | | — | | | — | | — | | | — | | | — | | — | | — | | — 
+Commercial real estate | | — | | | — | | | 194 | | — | | | — | | | 199 | | 158 | | — | | 203 
+Commercial and industrial | | — | | | — | | | — | | — | | | — | | | — | | — | | — | | — 
+Consumer and installment | | 72 | | | 25 | | | 128 | | 91 | | | — | | | 139 | | 34 | | — | | 242 
+Total | $ | 2,305 | | $ | 475 | | $ | 1,525 | $ | 2,241 | | $ | — | | $ | 1,444 | $ | 1,654 | $ | 38 | $ | 1,765
+
+
+ | At September 30, | 
+---------------------------------------------------+-----------------------+------
+ | 2016 | | 2015 | 
+ | 30-59 Days Past Due | | 60-89 Days Past Due | | | 90 Days or More Past Due | | 30-59 Days Past Due | 60-89 Days Past Due | | 90 Days or More Past Due | 
+ | (In thousands) | 
+Construction, land and development | $ | 119 | | $ | — | | $ | — | $ | 120 | | $ | — | $ | 230 
+One- to four-family owner occupied residential | | 1,948 | | | 223 | | | 1,208 | | 2,059 | | | 896 | | 2,244
+One- to four-family non-owner occupied residential | | — | | | 21 | | | 129 | | 82 | | | — | | — 
+Multifamily | | — | | | — | | | — | | — | | | — | | 56 
+Commercial real estate | | 168 | | | — | | | 6,461 | | — | | | — | | 217 
+Commercial and industrial | | — | | | — | | | — | | — | | | — | | — 
+Consumer and installment | | 87 | | | 15 | | | — | | 49 | | | 55 | | 175 
+Total | $ | 2,322 | | $ | 259 | | $ | 7,798 | $ | 2,310 | | $ | 951 | $ | 2,922
+
+ 
+13
+
+ 
+
+Non-Performing Assets. The following table sets forth information regarding our non-performing assets. Non-accrual loans include non-accruing troubled debt restructurings of $0, $0, $0, $6.4 million, $147,000 and $1.8 million as of June 30, 2019 and 2018, September 30, 2017, 2016 and 2015, respectively. Troubled debt restructurings include loans for which either a portion of interest or principal has been forgiven, or loans modified at interest rates materially less than current market rates.
+ 
+
+ | At June 30, | | | At September 30, | 
+---------------------------------------------------+------------------------+-------+---+------------------+--
+ | 2019 | | | 2018 | | | 2017 | | 2016 | | 2015 | 
+ | (Dollars in thousands) | 
+Non-accrual loans: | | | | | | | | | | | | | | | | 
+Construction, land and development | $ | — | | | $ | 87 | | $ | — | | $ | — | | $ | 230 | 
+One- to four-family owner occupied residential | | 1,203 | | | | 924 | | | 1,225 | | | 1,208 | | | 1,283 | 
+One- to four-family non-owner occupied residential | | — | | | | 95 | | | 95 | | | 129 | | | — | 
+Multifamily | | — | | | | — | | | — | | | — | | | 56 | 
+Commercial real estate | | 194 | | | | 199 | | | 203 | | | 6,461 | | | — | 
+Commercial and industrial | | — | | | | — | | | — | | | — | | | — | 
+Consumer and installment | | 128 | | | | 139 | | | 242 | | | — | | | 120 | 
+Total non-accrual loans | | 1,525 | | | | 1,444 | | | 1,765 | | | 7,798 | | | 1,689 | 
+Accruing loans past due 90 days or more | | — | | | | — | | | — | | | — | | | 1,238 | 
+Real estate owned: | | | | | | | | | | | | | | | | 
+Construction, land and development | | 909 | | | | 1,114 | | | 1,278 | | | 1,753 | | | 2,942 | 
+One- to four-family owner occupied residential | | 384 | | | | 88 | | | 136 | | | 243 | | | 389 | 
+One- to four-family non-owner occupied residential | | — | | | | — | | | — | | | — | | | 65 | 
+Multifamily | | — | | | | — | | | — | | | — | | | — | 
+Commercial real estate | | 2,787 | | | | 2,741 | | | 2,957 | | | — | | | 1,146 | 
+Commercial and industrial | | — | | | | — | | | — | | | — | | | — | 
+Consumer and installment | | — | | | | 14 | | | — | | | — | | | — | 
+Total real estate owned | | 4,080 | | | | 3,957 | | | 4,371 | | | 1,996 | | | 4,542 | 
+Total non-performing assets | $ | 5,605 | | | $ | 5,401 | | $ | 6,136 | | $ | 9,794 | | $ | 6,231 | 
+Total accruing troubled debt restructured loans | $ | — | | | $ | — | | $ | 1,408 | | $ | 2,592 | | $ | 16,727 | 
+Total non-performing loans to total loans | | 0.58 | % | | | 0.54 | % | | 0.67 | % | | 3.03 | % | | 0.67 | %
+Total non-performing assets to total assets | | 1.80 | % | | | 1.72 | % | | 1.99 | % | | 3.22 | % | | 2.10 | %
+
+
+
+Interest income that would have been recorded for the fiscal year ended June 30, 2019 had non-accruing loans been current according to their original terms amounted to $71,000. We recognized $31,000 of interest income for these loans for the fiscal year ended June 30, 2019. In addition, interest income that would have been recorded for the fiscal year ended June 30, 2019 had accruing troubled debt restructurings been current according to their original terms, amounted to $0. We recognized no interest income for these loans for the fiscal year ended June 30, 2019.
+ 
+14
+
+ 
+
+Classified Assets. Federal regulations provide for the classification of loans and other assets, such as debt and equity securities considered to be of lesser quality, as “substandard,” “doubtful” or “loss.” An asset is considered “substandard” if it is inadequately protected by the current net worth and paying capacity of the obligor or of the collateral pledged, if any. “Substandard” assets include those characterized by the “distinct possibility” that the insured institution will sustain “some loss” if the deficiencies are not corrected. Assets classified as “doubtful” have all of the weaknesses inherent in those classified “substandard,” with the added characteristic that the weaknesses present make “collection or liquidation in full,” on the basis of currently existing facts, conditions, and values, “highly questionable and improbable.” Assets classified as “loss” are those considered “uncollectible” and of such little value that their continuance as assets without the establishment of a specific loss allowance is not warranted. Assets which do not currently expose the insured institution to sufficient risk to warrant classification in one of the aforementioned categories but possess weaknesses are designated as “special mention” by our management.
+ 
+When an insured institution classifies problem assets as either substandard or doubtful, it may establish general allowances in an amount deemed prudent by management to cover probable accrued losses. General allowances represent loss allowances which have been established to cover probable accrued losses associated with lending activities, but which, unlike specific allowances, have not been allocated to particular problem assets. When an insured institution classifies problem assets as “loss,” it is required either to establish a specific allowance for losses equal to 100% of that portion of the asset so classified or to charge-off such amount. An institution’s determination as to the classification of its assets and the amount of its valuation allowances is subject to review by the regulatory authorities, which may require the establishment of additional general or specific loss allowances.
+ 
+On the basis of our review of our assets, our classified and special mention assets at the dates indicated were as follows:
+ 
+
+ | At June 30, | 
+----------------------------------+----------------+------
+ | 2019 | | 2018 | 
+ | (In thousands) | 
+Substandard assets - not accruing | $ | 5,369 | | $ | 5,901 
+Doubtful assets | | — | | | — 
+Loss assets | | 76 | | | 175 
+Total classified assets | $ | 5,605 | | $ | 6,076 
+Special mention assets | $ | 8,120 | | $ | 11,343
+
+ 
+During the year ended June 30, 2019, classified assets improved by $631,000 year over year. Activities having the largest impact on the balances include $782,000 in principle reductions, net proceeds from OREO sales of $333,000, and 3 residential loan upgrades to pass from classified totaling $211,000. In addition, we classified $828,000 in assets consisting of seven residential real estate loans.
+ 
+Special mention assets decreased $3.2 million year over year. The improved credit quality is attributed to an upgrade in risk rating to two lending relationships totaling $1.8 million; a $1.1 million refinanced loan by another financial institution and over $300,000 of loan amortization over the year ending June 30, 2019 on the three loans that comprise the remaining special mention assets.
+ 
+Allowance for Loan Losses 
+ 
+The allowance for loan losses is maintained at a level which, in management’s judgment, is adequate to absorb probable credit losses inherent in the loan portfolio. The amount of the allowance is based on management’s evaluation of the collectability of the loan portfolio, including the nature of the portfolio, credit concentrations, trends in historical loss experience, specific impaired loans, and economic conditions. Allowances for impaired loans are generally determined based on collateral values or the present value of estimated cash flows. Because of uncertainties associated with regional economic conditions, collateral values, and future cash flows on impaired loans, it is reasonably possible that management’s estimate of probable credit losses inherent in the loan portfolio and the related allowance may change materially in the near-term. The allowance is increased by a provision for loan losses, which is charged to expense and reduced by full and partial charge-offs, net of recoveries. Changes in the allowance relating to impaired loans are charged or credited to the provision for loan losses. Management’s periodic evaluation of the adequacy of the allowance is based on various factors, including, but not limited to, management’s ongoing review and grading of loans, facts and issues related to specific loans, historical loan loss and delinquency experience, trends in past due and non-accrual loans, existing risk characteristics of specific loans or loan pools, changes in the nature, volume and terms of loans, the fair value of underlying collateral, changes in lending personnel, current economic conditions and other qualitative and quantitative factors which could affect potential credit losses.
+
+15
+
+ 
+
+
+
+In addition, the WDFI and the Federal Deposit Insurance Corporation periodically review our allowance for loan losses and as a result of such reviews, we may have to adjust our allowance for loan losses or recognize further loan charge-offs.
+ 
+The following table sets forth activity in our allowance for loan losses for the periods indicated.
+ 
+
+ | At or for the Year Ended June 30, | | | At or for the Nine Months Ended June 30, | | | At or for the Years Ended September 30,
+----------------------------------------------------------------------------+--------------------------------------+-------+---+------------------------------------------+---+-------+----------------------------------------
+ | 2019 | | | 2018 | | | 2017 | | 2017 | | 2016 | | | 2015 | 
+ | (Dollars in thousands) | 
+Allowance at beginning of period | $ | 1,324 | | | $ | 1,879 | | $ | 4,482 | | $ | 4,482 | | | $ | 2,586 | | $ | 3,971 | 
+Provision for loan losses | | — | | | | 425 | | | — | | | — | | | | 2,125 | | | — | 
+Charge offs: | | | | | | | | | | | | | | | | | | | | 
+Construction, land and development | | — | | | | — | | | — | | | — | | | | 65 | | | 907 | 
+One- to four-family owner occupied residential | | — | | | | 54 | | | 8 | | | 14 | | | | 90 | | | 125 | 
+One- to four-family non-owner occupied residential | | 44 | | | | — | | | 18 | | | 18 | | | | 5 | | | 200 | 
+Multifamily | | — | | | | — | | | — | | | — | | | | — | | | — | 
+Commercial real estate | | — | | | | 980 | | | 2,610 | | | 2,639 | | | | — | | | 5 | 
+Commercial and industrial | | — | | | | — | | | — | | | — | | | | 99 | | | — | 
+Consumer and installment | | 16 | | | | 1 | | | 2 | | | 4 | | | | 155 | | | 207 | 
+Total charge-offs | | 60 | | | | 1,035 | | | 2,638 | | | 2,675 | | | | 414 | | | 1,444 | 
+Recoveries: | | | | | | | | | | | | | | | | | | | | 
+Construction, land and development | | — | | | | 30 | | | 9 | | | 12 | | | | 90 | | | 18 | 
+One- to four-family owner occupied residential | | 29 | | | | 18 | | | 27 | | | 34 | | | | 79 | | | 8 | 
+One- to four-family non-owner occupied residential | | — | | | | 1 | | | 9 | | | 9 | | | | 4 | | | 13 | 
+Multifamily | | — | | | | — | | | 1 | | | 1 | | | | — | | | — | 
+Commercial real estate | | — | | | | 4 | | | 8 | | | 11 | | | | — | | | 3 | 
+Commercial and industrial | | — | | | | — | | | — | | | — | | | | 4 | | | — | 
+Consumer and installment | | 1 | | | | 2 | | | 4 | | | 5 | | | | 8 | | | 17 | 
+Total recoveries | | 30 | | | | 55 | | | 58 | | | 72 | | | | 185 | | | 59 | 
+Net (charge-offs) recoveries | | (30 | ) | | | (980 | ) | | (2,580 | ) | | (2,603 | ) | | | (229 | ) | | (1,385 | )
+Allowance at end of period | $ | 1,294 | | | $ | 1,324 | | $ | 1,902 | | $ | 1,879 | | | $ | 4,482 | | $ | 2,586 | 
+Allowance to non-performing loans | | 84.86 | % | | | 91.68 | % | | 130.32 | % | | 106.47 | % | | | 57.47 | % | | 153.09 | %
+Allowance to total loans outstanding at the end of the period | | 0.50 | % | | | 0.50 | % | | 0.73 | % | | 0.71 | % | | | 1.74 | % | | 1.03 | %
+Net (charge-offs) recoveries to average loans outstanding during the period | | -0.01 | % | | | -0.51 | %(1) | | -1.32 | %(1) | | -1.00 | % | | | -0.09 | % | | -0.54 | %
+
+(1)       Annualized.
+ 
+16
+
+ 
+
+Allocation of Allowance for Loan Losses. The following tables set forth the allowance for loan losses allocated by loan category and the percent of the allowance in each category to the total allocated allowance at the dates indicated. The allowance for loan losses allocated to each category is not necessarily indicative of future losses in any particular category and does not restrict the use of the allowance to absorb losses in other categories.
+
+ | At June 30, | | 
+---------------------------------------------------+-----------------------------+-------+-------------------------------------------------------------------
+ | 2019 | | 2018 | | At September 30, 2017 
+ | Allowance for Loan Losses | | Percent of Allowance in Category to Total Allocated Allowance | | Percent of Loans in Each Category to Total Loans | Allowance for Loan Losses | | Percent of Allowance in Category to Total Allocated Allowance | | Percent of Loans in Each Category to Total Loans | | Allowance for Loan Losses | Percent of Allowance in Category to Total Allocated Allowance | | Percent of Loans in Each Category to Total Loans | 
+ | (Dollars in thousands) | 
+Construction, land and development | $ | 4 | | 0.40 | % | 1.65 | % | $ | 5 | | 0.38 | % | 1.82 | % | $ | 84 | 5.81 | % | 1.31 | %
+One- to four-family owner occupied residential | | 68 | | 6.27 | | 47.80 | | | 7 | | 0.54 | | 46.21 | | | 54 | 3.71 | | 45.40 | 
+One- to four-family non-owner occupied residential | | 27 | | 2.47 | | 8.03 | | | 71 | | 5.42 | | 8.98 | | | 121 | 8.39 | | 8.65 | 
+Multifamily | | 110 | | 10.19 | | 28.05 | | | 71 | | 5.42 | | 26.80 | | | 61 | 4.21 | | 23.07 | 
+Commercial real estate | | 796 | | 73.86 | | 10.10 | | | 953 | | 72.78 | | 11.10 | | | 885 | 61.25 | | 15.96 | 
+Commercial and industrial | | 3 | | 0.31 | | 0.63 | | | 104 | | 7.95 | | 0.80 | | | 76 | 5.26 | | 0.71 | 
+Consumer and installment | | 70 | | 6.50 | | 3.74 | | | 98 | | 7.49 | | 4.29 | | | 164 | 11.37 | | 4.90 | 
+Total allocated allowance | | 1,078 | | 100.00 | % | 100.00 | % | | 1,309 | | 100.00 | % | 100.00 | % | | 1,445 | 100.00 | % | 100.00 | %
+Unallocated | | 216 | | | | | | | 15 | | | | | | | 434 | | | | 
+Total | $ | 1,294 | | | | | | $ | 1,324 | | | | | | $ | 1,879 | | | | 
+
+
+ | At September 30, | 
+---------------------------------------------------+-----------------------------+------
+ | 2016 | | 2015 
+ | Allowance for Loan Losses | | Percent of Allowance in Category to Total Allocated Allowance | | Percent of Loans in Each Category to Total Loans | Allowance for Loan Losses | | Percent of Allowance in Category to Total Allocated Allowance | | Percent of Loans in Each Category to Total Loans 
+ | (Dollars in thousands) | 
+Construction, land and development | $ | 93 | | 2.10 | % | 1.25 | % | $ | 197 | | 8.31 | % | 2.74 | %
+One- to four-family owner occupied residential | | 228 | | 5.17 | | 44.50 | | | 276 | | 11.64 | | 46.50 | 
+One- to four-family non-owner occupied residential | | 399 | | 9.03 | | 8.73 | | | 388 | | 16.36 | | 7.48 | 
+Multifamily | | 74 | | 1.67 | | 22.71 | | | 81 | | 3.41 | | 21.55 | 
+Commercial real estate | | 3,431 | | 77.63 | | 17.00 | | | 1,198 | | 50.43 | | 15.61 | 
+Commercial and industrial | | 56 | | 1.27 | | 0.54 | | | 2 | | 0.08 | | 0.15 | 
+Consumer and installment | | 139 | | 3.13 | | 5.27 | | | 232 | | 9.77 | | 5.97 | 
+Total allocated allowance | | 4,420 | | 100.00 | % | 100.00 | % | | 2,374 | | 100.00 | % | 100.00 | %
+Unallocated | | 62 | | | | | | | 212 | | | | | 
+Total | $ | 4,482 | | | | | | $ | 2,586 | | | | | 
+
+ 
+17
+
+ 
+
+
+Investment Activities
+ 
+General. The goals of our investment policies are to provide liquidity, manage interest-rate risk, maximize our rate of return and manage asset quality diversification. Subject to loan demand and our interest rate risk analysis, we will increase the balance of our investment securities portfolio when we have excess liquidity.
+ 
+All of our investment securities are held by Equitable Investment Corp., a Nevada corporation that is a wholly-owned subsidiary of The Equitable Bank. Like many Wisconsin financial institutions, we established a Nevada subsidiary to hold our investment securities due to favorable state tax treatment. Although the favorable tax treatment is no longer applicable, we maintain the structure because of the expertise provided by the investment manager. Equitable Investment Corp.’s investment policy was adopted by its board of directors (consisting primarily of executive officers of The Equitable Bank) and is reviewed annually by its board of directors. Equitable Investment Corp.’s current investment policy permits, with certain limitations, investments in: U.S. Treasury obligations; securities issued by U.S. government agencies or government sponsored enterprises including mortgage-backed securities and collateralized mortgage obligations issued by Fannie Mae, Ginnie Mae and Freddie Mac; state and municipal obligations and bonds; money market funds and certificates of deposit; and corporate debt and securities.
+ 
+Because Equitable Investment Corp. is our wholly owned subsidiary, we have incorporated Equitable Investment Corp.’s investment policy into our policies, and we have adopted general guidelines with respect to the types of investments that can be made by Equitable Investment Corp., including targeted guidelines on amounts of municipal investments, agency securities, collateralized mortgage obligations and corporate debt.
+ 
+At June 30, 2019, our investment portfolio consisted primarily of obligations issued by states and political subdivisions, and Federal Home Loan Bank of Chicago stock. At June 30, 2019, we owned $2.1 million of Federal Home Loan Bank of Chicago stock. As a member of Federal Home Loan Bank of Chicago, we are required to purchase stock in the Federal Home Loan Bank of Chicago, which stock is carried at cost and classified as restricted equity securities.
+ 
+The following table sets forth the amortized cost and estimated fair value of our available for sale securities portfolio at the dates indicated. At the dates indicated, we did not hold any securities as held to maturity.
+ 
+
+ | At June 30, | | At | 
+-------------------------------------------------+-----------------+--------+-----------------------+--
+ | 2019 | | 2018 | | | September 30, 2017 
+ | Amortized Cost | | Estimated Fair Value | | | Amortized Cost | | Estimated Fair Value | Amortized Cost | | Estimated Fair Value | 
+ | (In thousands) | 
+Obligations of states and political subdivisions | $ | 18,720 | | $ | 18,878 | | $ | 19,847 | $ | 19,426 | | $ | 20,621 | $ | 20,643
+Mortgage-backed securities | | 1,065 | | | 1,106 | | | 1,162 | | 1,158 | | | 7 | | 7 
+Certificates of deposit | | 555 | | | 558 | | | 330 | | 322 | | | — | | — 
+Total | $ | 20,340 | | $ | 20,542 | | $ | 21,339 | $ | 20,906 | | $ | 20,628 | $ | 20,650
+
+ 
+As of June 30, 2019, we had no securities of issuers that exceeded 10% of our total equity as of that date.
+ 
+18
+
+ 
+
+Portfolio Maturities and Yields. The composition and maturities of the investment securities portfolio at June 30, 2019, are summarized in the following table. Maturities are based on the final contractual payment dates, and do not reflect the effect of scheduled principal repayments, prepayments, or early redemptions that may occur. All of our securities at June 30, 2019, were taxable securities.
+
+ | One Year or Less | | More than One Year through Five Years | | More than Five Years through Ten Years | | More than Ten Years | Total | 
+--------------------------------------+------------------------+-------+---------------------------------------+------+----------------------------------------+---+------------------------+----------------+-----
+ | Amortized Cost | | Weighted Average Yield | | Amortized Cost | | Weighted Average Yield | Amortized Cost | | | Weighted Average Yield | | | Amortized Cost | Weighted Average Yield | | Amortized Cost | | Fair Value | | Weighted Average Yield
+ | (Dollars in thousands) | 
+U.S. Government sponsored enterprises | $ | 1,228 | | 2.25 | % | $ | 9,871 | | 2.47 | % | | $ | 6,971 | | 2.91 | % | $ | 650 | | 3.63 | % | $ | 18,720 | $ | 18,878 | 2.87 | %
+Mortgage-backed securities | | — | | — | | | 510 | | 3.07 | % | | | 555 | | 3.08 | % | | — | | — | | | 1,065 | | 1,106 | 3.08 | %
+Certificates of deposit | | — | | — | | | 555 | | 2.64 | % | | | — | | — | | | — | | — | | | 555 | | 558 | 2.64 | %
+Total | $ | 1,228 | | 2.25 | % | $ | 10,936 | | 2.51 | % | | $ | 7,526 | | 2.92 | % | $ | 650 | | 3.63 | % | $ | 20,340 | $ | 20,542 | 2.85 | %
+
+ 
+19
+
+ 
+
+Sources of Funds
+ 
+General. Deposits have traditionally been our primary source of funds for use in lending and investment activities. We also use borrowings to supplement cash flow needs, lengthen the maturities of liabilities for interest rate risk purposes and to manage the cost of funds, and have increased our use of borrowings in recent periods. In addition, we receive funds from scheduled loan payments, investment maturities, loan prepayments, retained earnings and income on earning assets. While scheduled loan payments and income on earning assets are relatively stable sources of funds, deposit inflows and outflows can vary widely and are influenced by prevailing interest rates, market conditions and levels of competition.
+Deposits. Our deposits are generated primarily from our primary market area. We offer a selection of deposit accounts, including savings accounts, checking accounts, certificates of deposit and individual retirement accounts. Deposit account terms vary, with the principal differences being the minimum balance required, the amount of time the funds must remain on deposit and the interest rate. Interest rates paid, maturity terms, service fees and withdrawal penalties are established on a periodic basis. Deposit rates and terms are based primarily on current operating strategies and market rates, liquidity requirements, rates paid by competitors and growth goals.
+ 
+We rely upon personalized customer service, long-standing relationships with customers, a thorough and user-friendly internet website, and the favorable image of The Equitable Bank in the community to attract and retain deposits. We also seek to obtain deposits from our commercial loan customers.
+ 
+The flow of deposits is influenced significantly by general economic conditions, changes in money market and other prevailing interest rates and competition. The ability to attract and maintain deposits and the rates paid on these deposits, has been and will continue to be significantly affected by market conditions.
+ 
+The following table sets forth the distribution of total deposits by account type at the dates indicated.
+ 
+
+ | At June 30, | | | | | | 
+------------------------------------------+------------------------+---------+---------+--------+-----------------------+--------+--
+ | 2019 | | 2018 | | At September 30, 2017
+ | Amount | | Percent | | Average Rate | Amount | | Percent | | Average Rate | | Amount | Percent | | Average Rate | 
+ | (Dollars in thousands) | 
+Non-interest bearing accounts | $ | 28,914 | | 12.33 | % | 0.00 | % | $ | 16,125 | | 6.60 | % | — | % | $ | 16,407 | 6.30 | % | — | %
+Interest-bearing demand | | 48,500 | | 20.67 | | 0.04 | % | | 48,403 | | 19.80 | | 0.06 | % | | 47,151 | 18.10 | | 0.06 | %
+Interest-bearing savings and NOW accounts | | 70,386 | | 30.01 | | 0.08 | % | | 81,998 | | 33.54 | | 0.09 | % | | 85,315 | 32.75 | | 0.09 | %
+Certificates of deposit | | 86,761 | | 36.99 | | 1.80 | % | | 97,937 | | 40.06 | | 1.26 | % | | 111,638 | 42.85 | | 0.95 | %
+Total | $ | 234,561 | | 100.00 | % | 0.70 | % | $ | 244,463 | | 100.00 | % | 0.54 | % | $ | 260,511 | 100.00 | % | 0.45 | %
+
+ 
+20
+
+ 
+
+As of June 30, 2019, the aggregate amount of all our certificates of deposit in amounts greater than or equal to $250,000 was $9.3 million. The following table sets forth the maturity of these certificates as of June 30, 2019.
+ 
+
+ | At June 30, 2019 | 
+-------------------------------+--------------------+------
+ | (In thousands) | 
+Maturity Period: | | 
+Three months or less | $ | 1,524
+Over three through six months | | 512 
+Over six through twelve months | | 717 
+Over twelve months | | 6,573
+Total | $ | 9,326
+
+Borrowings. As of June 30, 2019, we had a master contract agreement with the Federal Home Loan Bank of Chicago pursuant to which we could borrow $73.7 million. At June 30, 2019, we had Federal Home Loan Bank of Chicago advances totaling $44.2 million. In addition, we have a $5.0 million line of credit with U.S. Bank. No amount was outstanding on this line of credit at June 30, 2019.
+ 
+The following table sets forth information concerning balances and interest rates on borrowings at the dates and for the periods indicated.
+ 
+
+ | At or For the Year Ended June 30, | | | At or For the Nine Months Ended June 30, | | | At or For the Year Ended September 30,
+----------------------------------------------------------------------------+-----------------------------------+--------+---+------------------------------------------+---+--------+---------------------------------------
+ | 2019 | | | 2018 | | | 2017 | | 2017 | 
+ | (Dollars in thousands) | 
+Balance outstanding at end of period | $ | 44,200 | | | $ | 46,000 | | $ | 6,500 | | $ | 22,700 | 
+Weighted average interest rate at the end of period | | 2.49 | % | | | 1.92 | % | | 1.20 | % | | 1.21 | %
+Maximum amount of borrowings outstanding at any month end during the period | $ | 61,700 | | | $ | 46,000 | | $ | 6,500 | | $ | 22,700 | 
+Average balance outstanding during the period | $ | 46,756 | | | $ | 29,758 | | $ | 1,678 | | $ | 4,625 | 
+Weighted average interest rate during the period | | 2.47 | % | | | 1.59 | % | | 0.89 | % | | 1.14 | %
+
+ 
+21
+
+ 
+
+Subsidiary Activities
+ 
+Equitable Investment Corp. is The Equitable Bank’s only active subsidiary. Equitable Investment Corp. is a Nevada corporation that holds all of the investment securities of The Equitable Bank.
+Personnel
+ 
+As of June 30, 2019, we had 93 full-time employees and 23 part-time employees. Our employees are not represented by any collective bargaining group. Management believes that we have good working relations with our employees.
+TAXATION
+ 
+The Equitable Bank, TEB MHC and TEB Bancorp, Inc. are subject to federal and state income taxation in the same general manner as other corporations, with some exceptions discussed below. The following discussion of federal and state taxation is intended only to summarize material income tax matters and is not a comprehensive description of the tax rules applicable to TEB MHC, TEB Bancorp, Inc. and The Equitable Bank.
+ 
+Our federal and state tax returns have not been audited for the past five years.
+ 
+Federal Taxation 
+ 
+Method of Accounting. For federal income tax purposes, The Equitable Bank currently reports its income and expenses on the accrual method of accounting and uses a tax year ending September 30 for filing its federal income tax returns. TEB Bancorp, Inc. and The Equitable Bank intend to file a consolidated federal income tax return. The Small Business Protection Act of 1996 eliminated the use of the mutual savings bank bad debt reserve method of calculating the tax return bad debt deduction. For taxable years beginning after 1995, The Equitable Bank has been subject to the same bad debt reserve rules as commercial banks. It currently utilizes the specific charge-off method under Section 582(a) of the Internal Revenue Code.
+Minimum Tax. For tax years beginning before 2018, the Internal Revenue Code imposed an alternative minimum tax (“AMT”) at a rate of 20% on a base of regular taxable income plus certain tax preferences, less an exemption amount, referred to as “alternative minimum taxable income.” The alternative minimum tax is payable to the extent tax computed this way exceeds tax computed by applying the regular tax rates to regular taxable income. Net operating losses can, in general, offset no more than 90% of alternative minimum taxable income. Prior payments of alternative minimum tax create AMT credits that may be used to offset as credits against regular tax liabilities in future years. In addition, these AMT credits are refundable for any taxable year beginning after 2017 and before 2021 in an amount equal to 50% (100% in the case of taxable years beginning in 2021) of the excess of the minimum tax credit for the taxable year over the amount of the credit allowable for the year against regular tax liability. As of June 30, 2019, The Equitable Bank has $61,000 of minimum tax credit carryforward to utilize in the future. The credit is not subject to expiration.
+Net Operating Loss Carryovers. For losses originated in taxable years beginning before 2018, a financial institution may generally carry back federal net operating losses to the preceding two taxable years and forward to the succeeding 20 taxable years. At June 30, 2019, The Equitable Bank had approximately $32.7 million of federal net operating loss carryforwards.
+Capital Loss Carryovers. A corporation cannot recognize capital losses in excess of capital gains generated. Generally, a financial institution may carry back capital losses to the preceding three taxable years and forward to the succeeding five taxable years. Any capital loss carryback or carryover is treated as a short-term capital loss for the year to which it is carried. As such, it is grouped with any other capital losses for the year to which it is carried and is used to offset any capital gains. Any unutilized loss carryforward remaining after the five-year carryover period is not deductible. At June 30, 2019, The Equitable Bank had no capital loss carryovers.
+ 
+22
+
+ 
+
+Corporate Dividends. TEB Bancorp, Inc. may generally exclude from its income 100% of dividends received from The Equitable Bank as a member of the same affiliated group of corporations.
+State Taxation
+ 
+As a Maryland business corporation, TEB Bancorp, Inc. is required to file an annual report with and pay franchise taxes to the state of Maryland.
+ 
+TEB MHC and TEB Bancorp, Inc. are subject to the Wisconsin corporate franchise (income) tax.  The State of Wisconsin imposes a corporate franchise tax of 7.9% on the combined taxable income of the members of a consolidated income tax group.
+ 
+In general, Wisconsin net business losses may be carried forward to the succeeding 20 taxable years. However, losses originated in taxable years beginning before 2009 may be carried forward to tax years beginning before 2032. At June 30, 2019, The Equitable Bank had approximately $47.5 million of Wisconsin net business loss carryforwards.
+ 
+SUPERVISION AND REGULATION
+ 
+General
+ 
+As a state savings bank, The Equitable Bank is subject to examination, supervision and regulation, primarily by the WDFI and by the Federal Deposit Insurance Corporation. The state and federal systems of regulation and supervision establish a comprehensive framework of activities in which The Equitable Bank may engage and is intended primarily for the protection of depositors and the Federal Deposit Insurance Corporation’s Deposit Insurance Fund, and not for the protection of security holders.
+ 
+The Equitable Bank is also regulated to a lesser extent by the Board of Governors of the Federal Reserve System, or the “Federal Reserve Board,” which governs the reserves to be maintained against deposits and other matters. In addition, The Equitable Bank is a member of and owns stock in the Federal Home Loan Bank of Chicago, which is one of the 11 regional banks in the Federal Home Loan Bank System.
+ 
+As a bank holding company, TEB Bancorp, Inc. is subject to examination and supervision by, and be required to file certain reports with, the Federal Reserve Board. TEB Bancorp, Inc. is also subject to the rules and regulations of the Securities and Exchange Commission under the federal securities laws, and certain state securities laws.
+ 
+Set forth below are certain material regulatory requirements that are applicable to The Equitable Bank and TEB Bancorp, Inc. This description of statutes and regulations is not intended to be a complete description of such statutes and regulations and their effects on The Equitable Bank and TEB Bancorp, Inc. Any change in these laws or regulations, whether by Congress or the applicable regulatory agencies, could have a material adverse impact on TEB Bancorp, Inc., The Equitable Bank and their operations.
+ 
+Consent Order
+ 
+In 2010, we entered into a Consent Order with the WDFI and the Federal Deposit Insurance Corporation, which was subsequently amended in 2012. The amended Consent Order was aimed at strengthening our management and enhancing board participation, increasing our regulatory capital and improving asset quality and our budget process. Among other things, the amended Consent Order required us to achieve, within 90 days of February 15, 2012, minimum capital ratios of (1) Tier 1 capital as a percentage of total assets (which is currently considered Tier 1 leverage capital as a percentage of total average assets under existing capital regulations) of 8.00% and (2) total capital as a percentage of risk-weighted assets (which is currently total risk-based capital as a percentage of risk-weighted assets under existing capital regulations) of 12.00%.
+ 
+The amended Consent Order was terminated by the WDFI and the Federal Deposit Insurance Corporation on June 19, 2019.
+ 
+23
+
+ 
+
+Troubled Condition Status
+ 
+The Equitable Bank was previously designated as being in “Troubled Condition” under the rules and regulations of the Federal Deposit Insurance Corporation. As a result of this designation, we were required to notify the Federal Deposit Insurance Corporation at least 30 days prior to the addition or replacement of a board member, or the employment or change in responsibilities of anyone who is, who will become, or performs the duties of a senior executive officer. Furthermore, we were required to file an application with, and receive the consent of, the Federal Deposit Insurance Corporation, prior to our entering into any agreement to pay and prior to making certain severance payments to our directors, officers and employees.
+Other Events
+ 
+On June 14, 2019, The Equitable Bank entered into a written agreement with the WDFI and the FDIC.
+ 
+At June 30, 2019, our Tier 1 leverage capital as a percentage of total average assets was 8.55% and our total risk-based capital as a percentage of risk-weighted assets was 14.01%.
+Intrastate and Interstate Merger and Branching Activities
+ 
+Wisconsin Law and Regulation. Any Wisconsin savings bank meeting certain requirements may, upon approval of the WDFI, establish one or more branch offices in the state of Wisconsin and the states of Illinois, Indiana, Iowa, Kentucky, Michigan, Minnesota, Missouri, and Ohio. In addition, upon WDFI approval, a Wisconsin savings bank may establish a branch office in any other state as the result of a merger or consolidation.
+Federal Law and Regulation.  The Interstate Banking Act permits the federal banking agencies to, under certain circumstances, approve acquisition transactions between banks located in different states, regardless of whether an acquisition would be prohibited under state law. The Interstate Banking Act, as amended, authorizes de novo branching into another state at locations at which banks chartered by the host state could establish a branch.
+Loans and Investments
+ 
+Wisconsin Law and Regulations.  Under Wisconsin law and regulation, The Equitable Bank is authorized to make, invest in, sell, purchase, participate or otherwise deal in mortgage loans or interests in mortgage loans without geographic restriction, including loans made on the security of residential and commercial property. Wisconsin savings banks also may lend funds on a secured or unsecured basis for business, commercial or agricultural purposes, provided the total of all such loans does not exceed 20% of the savings bank’s total assets, unless the WDFI authorizes a greater amount. Loans are subject to certain other limitations, including percentage restrictions based on total assets.
+ 
+Wisconsin savings banks may invest funds in certain types of debt and equity securities, including obligations of federal, state and local governments and agencies. Subject to prior approval of the WDFI, compliance with capital requirements and certain other restrictions, Wisconsin savings banks may invest in residential housing development projects. Wisconsin savings banks may also invest in service corporations or subsidiaries with the prior approval of the WDFI, subject to certain restrictions.
+ 
+Wisconsin savings banks may make loans and extensions of credit, both direct and indirect, to one borrower in amounts up to 20% of the savings bank’s capital plus an additional 5% for loans fully secured by readily marketable collateral. In addition, and notwithstanding the 20% of capital and additional 5% of capital limitations set forth above, Wisconsin savings banks may make loans to one borrower, or a related group of borrowers, for any purpose in an amount not to exceed $500,000, or to develop domestic residential housing units in an amount not to exceed the lesser of $30 million or 30% of the savings bank’s capital, subject to certain conditions. At June 30, 2019, The Equitable Bank had four borrowers with outstanding balances in excess of the loans-to-one borrower limit; such loans were originated when we had higher levels of capital, and, as such, are deemed to comply with our loans-to-one-borrower limit.
+ 
+24
+
+ 
+
+Federal Law and Regulation. Federal Deposit Insurance Corporation regulations also govern the equity investments of The Equitable Bank and, notwithstanding Wisconsin law and regulations, such regulations prohibit The Equitable Bank from making certain equity investments and generally limit The Equitable Bank’s equity investments to those that are permissible for national banks and their subsidiaries. Also, under Federal Deposit Insurance Corporation regulations, The Equitable Bank must obtain prior Federal Deposit Insurance Corporation approval before directly, or indirectly through a majority-owned subsidiary, engaging “as principal” in any activity that is not permissible for a national bank unless certain exceptions apply. The activity regulations provide that state banks that meet applicable minimum capital requirements would be permitted to engage in certain activities that are not permissible for national banks, including certain real estate and securities activities conducted through subsidiaries. The Federal Deposit Insurance Corporation will not approve an activity that it determines presents a significant risk to the Federal Deposit Insurance Corporation insurance fund. The current activities of The Equitable Bank and its subsidiaries are permissible under applicable federal regulations.
+ 
+Loans to, and other transactions with, affiliates of The Equitable Bank, such as TEB Bancorp, Inc., are restricted by the Federal Reserve Act and regulations issued by the Federal Reserve Board thereunder. See “—Transactions with Affiliates and Insiders” below.
+ 
+Lending Standards
+ 
+Wisconsin Law and Regulation.  Wisconsin law and regulations issued by the WDFI impose on Wisconsin savings banks certain fairness in lending requirements and prohibit savings banks from discriminating against a loan applicant based upon the applicant’s physical condition, developmental disability, sex, marital status, race, color, creed, national origin, religion or ancestry.
+Federal Law and Regulation. The federal banking agencies have adopted uniform regulations prescribing standards for extensions of credit that are secured by liens on interests in real estate or made for the purpose of financing the construction of a building or other improvements to real estate. Under the joint regulations adopted by the federal banking agencies, all insured depository institutions, such as The Equitable Bank, must adopt and maintain written policies that establish appropriate limits and standards for extensions of credit that are secured by liens or interests in real estate or are made for the purpose of financing permanent improvements to real estate. These policies must establish loan portfolio diversification standards, prudent underwriting standards (including loan-to-value limits) that are clear and measurable, loan administration procedures, and loan documentation, approval and reporting requirements. The real estate lending policies must reflect consideration of the Interagency Guidelines for Real Estate Lending Policies that have been adopted by the federal bank regulators.
+ 
+The Interagency Guidelines, among other things, require a depository institution to establish internal loan-to-value limits for real estate loans that are not in excess of the following supervisory limits:
+ 
+
+· | for loans secured by raw land, 65% of the value of the collateral;
+--+-------------------------------------------------------------------
+
+
+· | for land development loans (i.e., loans for the purpose of improving unimproved property prior to the erection of structures), the supervisory loan-to-value limit is 75%;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | for loans for the construction of commercial, over four-family or other non-residential property, the supervisory limit is 80%;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+· | for loans for the construction of one- to four-family properties, the supervisory limit is 85%; and
+--+----------------------------------------------------------------------------------------------------
+
+
+· | for loans secured by other improved property (e.g., farmland, completed commercial property and other income-producing property, including non-owner occupied, one- to four-family property), the supervisory limit is 85%.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+25
+
+ 
+
+Although no supervisory loan-to-value limit has been established for permanent mortgages on owner-occupied, one- to four-family or home equity loans, the Interagency Guidelines state that for any such loan with a loan-to-value ratio that equals or exceeds 90% at origination, an institution should require appropriate credit enhancement in the form of either mortgage insurance or readily marketable collateral.
+ 
+Deposits
+ 
+Wisconsin Law and Regulation.  Under Wisconsin law, The Equitable Bank is permitted to establish deposit accounts and accept deposits. The Equitable Bank’s board of directors, or its designee, determines the rate and amount of interest to be paid on or credited to deposit accounts subject to Federal Deposit Insurance Corporation limitations.
+Deposit Insurance
+ 
+Wisconsin Law and Regulation.  Under Wisconsin law, The Equitable Bank is required to obtain and maintain insurance on its deposits from a deposit insurance corporation. The deposits of The Equitable Bank are insured up to the applicable limits by the Federal Deposit Insurance Corporation.
+Federal Law and Regulation.  The Equitable Bank is a member of the Deposit Insurance Fund, which is administered by the Federal Deposit Insurance Corporation.  The Equitable Bank’s deposit accounts are insured by the Federal Deposit Insurance Corporation, generally up to a maximum of $250,000 per depositor.
+ 
+The Federal Deposit Insurance Corporation imposes deposit insurance assessment against all insured depository institutions. An institution’s assessment rate depends upon the perceived risk of the institution to the Deposit Insurance Fund, with institutions deemed less risky paying lower rates.  Currently, assessments for institutions of less than $10 billion of total assets are based on financial measures and supervisory ratings derived from statistical models estimating the probability of failure within three years.  That system was effective in 2016 and replaces a system under which each institution was assigned to a risk category.  Assessment rates (inclusive of possible adjustments) currently range from 1.5 to 30 basis points of each institution’s total assets less tangible capital.  The current scale, also effective in 2016, is a reduction from the previous range of 2.5 to 45 basis points.  The Federal Deposit Insurance Corporation may increase or decrease the range of assessments uniformly, except that no adjustment can deviate more than two basis points from the base assessment rate without notice and comment rulemaking.  The existing system represents a change, required by the Dodd-Frank Act, from the Federal Deposit Insurance Corporation’s prior practice of basing the assessment on an institution’s aggregate deposits.
+ 
+The Federal Deposit Insurance Corporation has the authority to increase insurance assessments. A significant increase in insurance premiums would have an adverse effect on the operating expenses and results of operations of The Equitable Bank. We cannot predict what deposit insurance assessment rates will be in the future.
+ 
+Insurance of deposits may be terminated by the Federal Deposit Insurance Corporation upon a finding that an institution has engaged in unsafe or unsound practices, is in an unsafe or unsound condition to continue operations or has violated any applicable law, regulation, rule, order or condition imposed by the Federal Deposit Insurance Corporation. We do not know of any practice, condition or violation that might lead to termination of deposit insurance at The Equitable Bank.
+ 
+In addition to the Federal Deposit Insurance Corporation assessments, the Financing Corporation (FICO) is authorized to impose and collect, with the approval of the Federal Deposit Insurance Corporation, assessments for anticipated payments, issuance costs and custodial fees on bonds issued by the FICO in the 1980s to recapitalize the former Federal Savings and Loan Insurance Corporation. The bonds issued by the FICO matured in 2019. For the quarter ended June 30, 2019, the annualized FICO assessment, which was the final assessment collected, was equal to 0.12 basis points of total assets less tangible capital.
+ 
+26
+
+ 
+
+Capital Requirements
+ 
+Wisconsin Law and Regulation. Wisconsin savings banks are required to maintain a minimum capital to assets ratio of 6% and must maintain total capital necessary to ensure the continuation of insurance of deposit accounts by the Federal Deposit Insurance Corporation. If the WDFI determines that the financial condition, history, management or earning prospects of a savings bank are not adequate, the WDFI may require a higher minimum capital level for the savings bank. If a Wisconsin savings bank’s capital ratio falls below the required level, the WDFI may direct the savings bank to adhere to a specific written plan established by the WDFI to correct the savings bank’s capital deficiency, as well as a number of other restrictions on the savings bank’s operations, including a prohibition on the payment of dividends. At June 30, 2019, The Equitable Bank’s net worth ratio, as calculated under Wisconsin law DFI-SB 1.03(9), was 7.9%.
+ 
+Federal Law and Regulation. Federal regulations require Federal Deposit Insurance Corporation insured depository institutions to meet several minimum capital standards:  a common equity Tier 1 capital to risk-based assets ratio of 4.5%, a Tier 1 capital to risk-based assets ratio of 6.0%, a total capital to risk-based assets of 8.0%, and a 4.0% Tier 1 capital to total assets leverage ratio.  The existing capital requirements were effective January 1, 2015 and are the result of a final rule implementing regulatory amendments based on recommendations of the Basel Committee on Banking Supervision and certain requirements of the Dodd-Frank Act.
+ 
+Common equity Tier 1 capital is generally defined as common stockholders’ equity and retained earnings.  Tier 1 capital is generally defined as common equity Tier 1 and additional Tier 1 capital.  Additional Tier 1 capital includes certain noncumulative perpetual preferred stock and related surplus and minority interests in equity accounts of consolidated subsidiaries.  Total capital includes Tier 1 capital (common equity Tier 1 capital plus additional Tier 1 capital) and Tier 2 capital.  Tier 2 capital is comprised of capital instruments and related surplus, meeting specified requirements, and may include cumulative preferred stock and long-term perpetual preferred stock, mandatory convertible securities, intermediate preferred stock and subordinated debt.  Also included in Tier 2 capital is the allowance for loan and lease losses limited to a maximum of 1.25% of risk-weighted assets and, for institutions that have exercised an opt-out election regarding the treatment of Accumulated Other Comprehensive Income (“AOCI”), up to 45% of net unrealized gains on available-for-sale equity securities with readily determinable fair market values.  Institutions that have not exercised the AOCI opt-out have AOCI incorporated into common equity Tier 1 capital (including unrealized gains and losses on available-for-sale-securities).   The Equitable Bank exercised its AOCI opt-out election. Calculation of all types of regulatory capital is subject to deductions and adjustments specified in the regulations.
+ 
+In determining the amount of risk-weighted assets for purposes of calculating risk-based capital ratios, all assets, including certain off-balance sheet assets (e.g., recourse obligations, direct credit substitutes, residual interests) are multiplied by a risk weight factor assigned by the regulations based on the risks believed inherent in the type of asset.  Higher levels of capital are required for asset categories believed to present greater risk.  For example, a risk weight of 0% is assigned to cash and U.S. government securities, a risk weight of 50% is generally assigned to prudently underwritten first lien one- to four-family residential real estate loans, a risk weight of 100% is assigned to commercial and consumer loans, a risk weight of 150% is assigned to certain past due loans and a risk weight of between 0% to 600% is assigned to permissible equity interests, depending on certain specified factors.
+ 
+In addition to establishing the minimum regulatory capital requirements, the regulations limit capital distributions and certain discretionary bonus payments to management if the institution does not hold a “capital conservation buffer” consisting of 2.5% of common equity Tier 1 capital to risk-weighted asset above the amount necessary to meet its minimum risk-based capital requirements.  The capital conservation buffer requirement was phased in beginning January 1, 2016 at 0.625% of risk-weighted assets and increased each year until fully implemented at 2.5% on January 1, 2019.
+ 
+27
+
+ 
+
+In assessing an institution’s capital adequacy, the Federal Deposit Insurance Corporation takes into consideration, not only these numeric factors, but qualitative factors as well, including the bank’s exposure to interest rate risk.  The Federal Deposit Insurance Corporation has the authority to establish higher capital requirements for individual institutions where deemed necessary due to a determination that an institution’s capital level is, or is likely to become, inadequate in light of particular circumstances.
+ 
+As a result of the recently enacted Economic Growth, Regulatory Relief, and Consumer Protection Act, the federal banking agencies are required to develop a “Community Bank Leverage Ratio” (the ratio of a bank’s tangible equity capital to average total consolidated assets) for financial institutions with assets of less than $10 billion.  A “qualifying community bank” that exceeds this ratio will be deemed to be in compliance with all other capital and leverage requirements, including the capital requirements to be considered “well capitalized” under Prompt Corrective Action statutes.  The federal banking agencies may consider a financial institution’s risk profile when evaluating whether it qualifies as a community bank for purposes of the capital ratio requirement. The federal banking agencies must set the minimum capital for the new Community Bank Leverage Ratio at not less than 8% and not more than 10%.  A financial institution can elect to be subject to this new definition.
+ 
+The Equitable Bank is “well capitalized” for regulatory capital purposes.
+ 
+Safety and Soundness Standards
+ 
+Each federal banking agency, including the Federal Deposit Insurance Corporation, has adopted guidelines establishing general standards relating to internal controls, internal audit systems, loan documentation, credit underwriting, interest rate exposure, asset growth, asset quality, earnings and compensation, fees and benefits, and information security. In general, the guidelines require, among other things, appropriate systems and practices to identify and manage the risks and exposures specified in the guidelines. The guidelines prohibit excessive compensation as an unsafe and unsound practice and describe compensation as excessive when the amounts paid are unreasonable or disproportionate to the services performed by an executive officer, employee, director, or principal shareholder.
+Prompt Corrective Regulatory Action
+ 
+Federal bank regulatory authorities are required to take “prompt corrective action” with respect to institutions that do not meet minimum capital requirements. For these purposes, the statute establishes five capital categories: well capitalized, adequately capitalized, undercapitalized, significantly undercapitalized, and critically undercapitalized. Under the regulations, as amended effective January 1, 2015 to incorporate the previously mentioned amendments to the regulatory capital requirements, a bank is deemed to be (i) “well capitalized” if it has total risk-based capital of 10.0% or more, has a Tier 1 risk-based capital ratio of 8.0% or more, has a Tier 1 leverage capital ratio of 5.0% or more and a common equity Tier 1 ratio of 6.5% or more, and is not subject to any written capital order or directive; (ii) “adequately capitalized” if it has a total risk-based capital ratio of 8.0% or more, a Tier 1 risk-based capital ratio of 6.0% or more, a Tier 1 leveraged capital ratio of 4.0% or more and a common equity Tier 1 ratio of 4.5% or more, and does not meet the definition of “well capitalized”; (iii) “undercapitalized” if it has a total risk-based capital ratio that is less than 8.0%, a Tier 1 risk-based capital ratio that is less than 6.0%, a Tier 1 leverage capital ratio that is less than 4.0% or a common equity Tier 1 ratio of less than 4.5%; (iv) “significantly undercapitalized” if it has a total risk-based capital ratio that is less than 6.0% and a Tier 1 risk-based capital ratio that is less than 4.0% or a common equity Tier 1 ratio of less than 3.0%; and (v) “critically undercapitalized” if it has a ratio of tangible equity to total assets that is equal to or less than 2.0%.
+ 
+Federal law and regulations also specify circumstances under which a federal banking agency may reclassify a well-capitalized institution as adequately capitalized and may require an institution classified as less than well capitalized to comply with supervisory actions as if it were in the next lower category (except that the Federal Deposit Insurance Corporation may not reclassify a significantly undercapitalized institution as critically undercapitalized).
+ 
+28
+
+ 
+
+The Federal Deposit Insurance Corporation may order savings banks that have insufficient capital to take corrective actions. For example, a savings bank that is categorized as “undercapitalized” is subject to growth limitations and is required to submit a capital restoration plan, and a holding company that controls such a savings bank is required to guarantee that the savings bank complies with the restoration plan. A “significantly undercapitalized” savings bank may be subject to additional restrictions. Savings banks deemed by the Federal Deposit Insurance Corporation to be “critically undercapitalized” would be subject to the appointment of a receiver or conservator.
+ 
+The Equitable Bank is considered “well capitalized” for regulatory capital purposes.
+ 
+Dividends
+ 
+Under Wisconsin law and applicable regulations, a Wisconsin savings bank that meets its regulatory capital requirements may declare dividends on capital stock based upon net profits, provided that its paid-in surplus equals its capital stock. In addition, prior WDFI approval is required before dividends exceeding 50% of net profits for any calendar year may be declared and before a stock dividend may be declared out of retained earnings.
+ 
+The Federal Deposit Insurance Corporation has the authority to prohibit The Equitable Bank from paying dividends if, in its opinion, the payment of dividends would constitute an unsafe or unsound practice in light of the financial condition of The Equitable Bank. Institutions may not pay dividends if they would be “undercapitalized” following payment of the dividend within the meaning of the prompt corrective action regulations.
+ 
+Liquidity and Reserves
+ 
+Wisconsin Law and Regulation. Under WDFI regulations, all Wisconsin savings banks are required to maintain a certain amount of their assets as liquid assets, consisting of cash and certain types of investments. The exact amount of assets a savings bank is required to maintain as liquid assets is set by the WDFI, but generally ranges from 4% to 15% of the savings bank’s average daily balance of net withdrawable accounts plus short-term borrowings (the “Required Liquidity Ratio”). At June 30, 2019, The Equitable Bank’s Required Liquidity Ratio was 8%, and The Equitable Bank was in compliance with this requirement. In addition, 50% of the liquid assets maintained by a Wisconsin savings bank must consist of “primary liquid assets,” which are defined to include securities issued by the United States Government, United States Government agencies or the state of Wisconsin or a subdivision thereof, and cash. At June 30, 2019, The Equitable Bank was in compliance with this requirement.
+Federal Law and Regulation. Under federal law and regulations, The Equitable Bank is required to maintain sufficient liquidity to ensure safe and sound banking practices. Regulation D, promulgated by the Federal Reserve Board, imposes reserve requirements on all depository institutions, including The Equitable Bank, which maintain transaction accounts or non-personal time deposits. Checking accounts, NOW accounts, Super NOW checking accounts, and certain other types of accounts that permit payments or transfers to third parties fall within the definition of transaction accounts and are subject to Regulation D reserve requirements, as are any non-personal time deposits (including certain money market deposit accounts) at a savings institution. For 2019, a depository institution is required to maintain average daily reserves equal to 3% on the first $124.2 million of transaction accounts, plus 10% of that portion of total transaction accounts in excess of $124.2 million. The first $16.3 million of otherwise reservable balances (subject to adjustment by the Federal Reserve Board) is exempt from the reserve requirements. Savings institutions have authority to borrow from the Federal Reserve’s “discount window,” but Federal Reserve policy generally requires savings institutions to exhaust all other sources before borrowing from the Federal Reserve. As of June 30, 2019, The Equitable Bank met its Regulation D reserve requirements.
+ 
+29
+
+ 
+
+Transactions with Affiliates and Insiders
+ 
+Wisconsin Law and Regulation. Under Wisconsin law, a savings bank may not make a loan to a person owning 10% or more of its stock, an affiliated person (including a director, officer, the spouse of either and a member of the immediate family of such person who is living in the same residence), agent, or attorney of the savings bank, either individually or as an agent or partner of another, except as under the rules of the WDFI and regulations of the Federal Deposit Insurance Corporation. In addition, unless the prior approval of the WDFI is obtained, a savings bank may not purchase, lease or acquire a site for an office building or an interest in real estate from an affiliated person, including a shareholder owning more than 10% of its capital stock, or from any firm, corporation, entity or family in which an affiliated person or 10% shareholder has a direct or indirect interest.
+Federal Law and Regulation.  Sections 23A and 23B of the Federal Reserve Act govern transactions between an insured savings bank, such as The Equitable Bank, and any of its affiliates, including TEB Bancorp, Inc. The Federal Reserve Board has adopted Regulation W, which comprehensively implements and interprets Sections 23A and 23B, in part by codifying prior Federal Reserve Board interpretations under Sections 23A and 23B.
+ 
+An affiliate of a savings bank is any company or entity that controls, is controlled by or is under common control with the savings bank. A subsidiary of a savings bank that is not also a depository institution or a “financial subsidiary” under federal law is not treated as an affiliate of the savings bank for the purposes of Sections 23A and 23B; however, the Federal Deposit Insurance Corporation has the discretion to treat subsidiaries of a savings bank as affiliates on a case-by-case basis. Sections 23A and 23B limit the extent to which a savings bank or its subsidiaries may engage in “covered transactions” with any one affiliate to an amount equal to 10% of the savings bank’s capital stock and surplus, and limit all such transactions with all affiliates to an amount equal to 20% of such capital stock and surplus. The term “covered transaction” includes the making of loans, purchase of assets, issuance of guarantees and other similar types of transactions. Most loans and other extensions of credit by a savings bank to any of its affiliates must be secured by collateral in amounts ranging from 100% to 130% of the loan amounts, depending on the type of collateral. In addition, any affiliate transactions by a savings bank must be on terms that are substantially the same, or at least as favorable, to the savings bank as those that would be provided to a non-affiliate, and be consistent with safe and sound banking practices.
+ 
+A savings bank’s loans to its executive officers, directors, any owner of more than 10% of its stock (each, an insider) and any of certain entities affiliated with any such person (an insider’s related interest) are subject to the conditions and limitations imposed by Section 22(h) of the Federal Reserve Act and the Federal Reserve Board’s Regulation O thereunder. Under these restrictions, the aggregate amount of the loans to any insider and the insider’s related interests may not exceed the loans-to-one-borrower limit applicable to national banks (which is generally 15% of capital and surplus). Aggregate loans by a savings bank to its insiders and insiders’ related interests in the aggregate may not exceed the savings bank’s unimpaired capital and unimpaired surplus. With certain exceptions, loans to an executive officer, other than loans for the education of the officer’s children and certain loans secured by the officer’s primary residence, may not exceed the greater of $25,000 or 2.5% of the savings bank’s unimpaired capital and unimpaired surplus, but in no event more than $100,000. Regulation O also requires that any proposed loan to an insider or a related interest of that insider be approved in advance by a majority of the board of directors of the savings bank, with any interested director not participating in the voting, if such loan, when aggregated with any existing loans to that insider and the insider’s related interests, would exceed either $500,000 or the greater of $25,000 or 5% of the savings bank’s unimpaired capital and surplus. Generally, such loans must be made on substantially the same terms as, and follow credit underwriting procedures that are no less stringent than, those that are prevailing at the time for comparable transactions with other persons and must not present more than a normal risk of collectability.
+ 
+An exception to the requirement for non-preferable terms is made for extensions of credit made pursuant to a benefit or compensation plan of a bank that is widely available to employees of the savings bank and that does not give any preference to insiders of the bank over other employees of the bank. For a description of The Equitable Bank’s employee loan program for full-time employees, see “Management—Transactions with Related Persons.”
+ 
+30
+
+ 
+
+Transactions Between Bank Customers and Affiliates
+ 
+Wisconsin savings banks, such as The Equitable Bank, are subject to the prohibitions on certain tying arrangements. Subject to certain exceptions, a savings bank is prohibited from extending credit to or offering any other service to a customer, or fixing or varying the consideration for such extension of credit or service, on the condition that such customer obtain some additional service from the institution or certain of its affiliates or not obtain services of a competitor of the institution.
+Examinations and Assessments
+ 
+The Equitable Bank is required to file periodic reports with and is subject to periodic examinations by the WDFI and the Federal Deposit Insurance Corporation.  Federal regulations require annual on-site examinations for all depository institutions except certain well-capitalized and highly rated institutions with assets of less than $1 billion, which are examined every 18 months.  Recent legislation extended the asset threshold for the 18-month examination cycle to $3 billion of assets. The Equitable Bank is required to pay examination fees and annual assessments to fund its supervision.
+Customer Privacy
+ 
+Under Wisconsin and federal law and regulations, savings banks, such as The Equitable Bank, are required to develop and maintain privacy policies relating to information on its customers, restrict access to and establish procedures to protect customer data. Applicable privacy regulations further restrict the sharing of non-public customer data with non-affiliated parties if the customer requests.
+Community Reinvestment Act
+ 
+Under the Community Reinvestment Act, The Equitable Bank has a continuing and affirmative obligation consistent with its safe and sound operation to help meet the credit needs of its entire community, including low- and moderate-income neighborhoods. The Community Reinvestment Act does not establish specific lending requirements or programs for financial institutions nor does it limit an institution’s discretion to develop the types of products and services that it believes are best suited to its particular community, consistent with the Community Reinvestment Act. The Community Reinvestment Act requires the Federal Deposit Insurance Corporation, in connection with its examination of The Equitable Bank, to assess The Equitable Bank’s record of meeting the credit needs of its community and to take that record into account in the Federal Deposit Insurance Corporation’s evaluation of certain applications by The Equitable Bank. For example, the regulations specify that a bank’s Community Reinvestment Act performance will be considered in its expansion (e.g., branching or merger) proposals and may be the basis for approving, denying or conditioning the approval of an application. As of the date of its most recent regulatory examination, The Equitable Bank was rated “satisfactory” with respect to its Community Reinvestment Act compliance.
+Federal Home Loan Bank System
+ 
+The Federal Home Loan Bank System, consisting of 11 Federal Home Loan Banks, is under the jurisdiction of the Federal Housing Finance Board. The designated duties of the Federal Housing Finance Board are to supervise the Federal Home Loan Banks; ensure that the Federal Home Loan Banks carry out their housing finance mission; ensure that the Federal Home Loan Banks remain adequately capitalized and able to raise funds in the capital markets; and ensure that the Federal Home Loan Banks operate in a safe and sound manner.
+ 
+The Equitable Bank, as a member of the Federal Home Loan Bank of Chicago, is required to acquire and hold shares of capital stock in the Federal Home Loan Bank of Chicago in specified amounts. The Equitable Bank is in compliance with this requirement with an investment in Federal Home Loan Bank of Chicago stock of $2.1 million at June 30, 2019.
+ 
+31
+
+ 
+
+Among other benefits, the Federal Home Loan Banks provide a central credit facility primarily for member institutions. It is funded primarily from proceeds derived from the sale of consolidated obligations of the Federal Home Loan Bank System. It makes advances to members in accordance with policies and procedures established by the Federal Housing Finance Board and the board of directors of the Federal Home Loan Bank of Chicago. At June 30, 2019, The Equitable Bank had $44.2 million in advances from the Federal Home Loan Bank of Chicago.
+ 
+Other Regulations
+ 
+Interest and other charges collected or contracted for by The Equitable Bank are subject to state usury laws and federal laws concerning interest rates. The Equitable Bank’s operations are also subject to federal laws applicable to credit transactions, such as the:
+
+· | Truth-In-Lending Act, governing disclosures of credit terms to consumer borrowers;
+--+-----------------------------------------------------------------------------------
+
+
+· | Home Mortgage Disclosure Act, requiring financial institutions to provide information to enable the public and public officials to determine whether a financial institution is fulfilling its obligation to help meet the housing needs of the community it serves;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Equal Credit Opportunity Act, prohibiting discrimination on the basis of race, creed or other prohibited factors in extending credit;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Fair Credit Reporting Act, governing the use and provision of information to credit reporting agencies;
+--+--------------------------------------------------------------------------------------------------------
+
+
+· | Fair Debt Collection Act, governing the manner in which consumer debts may be collected by collection agencies;
+--+----------------------------------------------------------------------------------------------------------------
+
+
+· | Truth in Savings Act; and
+--+--------------------------
+
+
+· | rules and regulations of the various federal agencies charged with the responsibility of implementing such federal laws.
+--+-------------------------------------------------------------------------------------------------------------------------
+
+ 
+The operations of The Equitable Bank also are subject to the:
+ 
+
+· | Right to Financial Privacy Act, which imposes a duty to maintain confidentiality of consumer financial records and prescribes procedures for complying with administrative subpoenas of financial records;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Electronic Funds Transfer Act and Regulation E promulgated thereunder, which govern automatic deposits to and withdrawals from deposit accounts and customers’ rights and liabilities arising from the use of automated teller machines and other electronic banking services; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Check Clearing for the 21st Century Act (also known as “Check 21”), which gives “substitute checks,” such as digital check images and copies made from that image, the same legal standing as the original paper check; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | The USA PATRIOT Act, which requires savings associations to, among other things, establish broadened anti-money laundering compliance programs, and due diligence policies and controls to ensure the detection and reporting of money laundering. Such required compliance programs are intended to supplement existing compliance requirements that also apply to financial institutions under the Bank Secrecy Act and the Office of Foreign Assets Control regulations.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+32
+
+ 
+
+Holding Company Regulation
+ 
+General. TEB Bancorp, Inc. and TEB MHC are bank holding companies within the meaning of the Bank Holding Company of 1956. As such, TEB Bancorp, Inc. and TEB MHC are registered with the Federal Reserve Board and be subject to the regulation, examination, supervision and reporting requirements applicable to bank holding companies. In addition, the Federal Reserve Board has enforcement authority over TEB Bancorp, Inc., TEB MHC and its non-savings institution subsidiaries. Among other things, this authority permits the Federal Reserve Board to restrict or prohibit activities that are determined to be a serious risk to the subsidiary savings institution.
+Permissible Activities. A bank holding company is generally prohibited from engaging in non-banking activities, or acquiring direct or indirect control of more than 5% of the voting securities of any company engaged in non-banking activities. One of the principal exceptions to this prohibition is for activities found by the Federal Reserve Board to be so closely related to banking or managing or controlling banks as to be a proper incident thereto. Some of the principal activities that the Federal Reserve Board has determined by regulation to be so closely related to banking are: (i) making or servicing loans; (ii) performing certain data processing services; (iii) providing discount brokerage services; (iv) acting as fiduciary, investment or financial advisor; (v) leasing personal or real property; (vi) making investments in corporations or projects designed primarily to promote community welfare; and (vii) acquiring a savings and loan association whose direct and indirect activities are limited to those permitted for bank holding companies.
+ 
+The Gramm-Leach-Bliley Act of 1999 authorized a bank holding company that meets specified conditions, including being “well capitalized” and “well managed,” to opt to become a “financial holding company” and thereby engage in a broader array of financial activities than previously permitted. Such activities can include insurance underwriting and investment banking.
+ 
+Capital. Bank holding companies are subject to consolidated regulatory capital requirements, which have historically been similar to, though less stringent than, those of the Federal Deposit Insurance Corporation for The Equitable Bank. The Dodd-Frank Act, however, required the Federal Reserve Board to promulgate consolidated capital requirements for depository institution holding companies that are no less stringent, both quantitatively and in terms of components of capital, than those applicable to institutions themselves. Consolidated regulatory capital requirements identical to those applicable to the subsidiary banks apply to bank holding companies; as is the case with institutions themselves, the capital conservation buffer was phased in between 2016 and 2019. However, the Federal Reserve Board has provided a “Small Bank Holding Company” exception to its consolidated capital requirements, and recent legislation and the related issuance of regulations by the Federal Reserve Board has increased the threshold for the exception to $3.0 billion.
+Source of Strength. The Federal Reserve Board has issued regulations requiring that all bank holding companies serve as a source of strength to their subsidiary depository institutions by providing financial, managerial and other support in times of an institution’s distress.
+Dividends and Stock Repurchases. The Federal Reserve Board has issued a policy statement regarding the payment of dividends by holding companies. In general, the policy provides that dividends should be paid only out of current earnings and only if the prospective rate of earnings retention by the holding company appears consistent with the organization’s capital needs, asset quality and overall supervisory financial condition. Separate regulatory guidance provides for prior consultation with Federal Reserve Bank staff concerning dividends in certain circumstances such as where the company’s net income for the past four quarters, net of dividends previously paid over that period, is insufficient to fully fund the dividend or the company’s overall rate or earnings retention is inconsistent with the company’s capital needs and overall financial condition. The ability of a bank holding company to pay dividends may be restricted if a subsidiary savings bank becomes undercapitalized.
+ 
+The regulatory guidance also states that a bank holding company should consult with Federal Reserve Bank supervisory staff prior to redeeming or repurchasing common stock or perpetual preferred stock if the bank holding company is experiencing financial weaknesses or the repurchase or redemption would result in a net reduction, at the end of a quarter, in the amount of such equity instruments outstanding compared with the beginning of the quarter in which the redemption or repurchase occurred.
+ 
+33
+
+ 
+
+There is a separate requirement that a bank holding company give the Federal Reserve Board prior written notice of any purchase or redemption of then outstanding equity securities if the gross consideration for the purchase or redemption, when combined with the net consideration paid for all such purchases or redemptions during the preceding 12 months, is equal to 10% or more of the company’s consolidated net worth. The Federal Reserve Board may disapprove such a purchase or redemption if it determines that the proposal would constitute an unsafe and unsound practice, or would violate any law, regulation, Federal Reserve Board order or directive, or any condition imposed by, or written agreement with, the Federal Reserve Board. There is an exception to this approval requirement for well-capitalized bank holding companies that meet certain other conditions.
+ 
+These regulatory policies may affect the ability of TEB Bancorp, Inc. to pay dividends, repurchase shares of common stock or otherwise engage in capital distributions.
+ 
+Waivers of Dividends by TEB MHC.   TEB Bancorp, Inc. may pay dividends on its common stock to public stockholders. If it does, it is also required to pay dividends to TEB MHC, unless TEB MHC elects to waive the receipt of dividends. Current Federal Reserve Board policy restricts a mutual holding company that is regulated as a bank holding company from waiving the receipt of dividends paid by its subsidiary holding company. Accordingly, it is unlikely that TEB MHC would be able to waive the receipt of dividends paid by TEB Bancorp, Inc.
+ 
+Change in Control Regulations
+ 
+Under the Change in Bank Control Act, no person, or group of persons acting in concert, may acquire control of a bank holding company unless the Federal Reserve Board has been given 60 days’ prior written notice and not disapproved the proposed acquisition. The Federal Reserve Board considers several factors in evaluating a notice, including the financial and managerial resources of the acquirer and competitive effects. Control, as defined under the applicable regulations, means the power, directly or indirectly, to direct the management or policies of the company or to vote 25% or more of any class of voting securities of the company. Acquisition of more than 10% of any class of a bank holding company’s voting securities constitutes a rebuttable presumption of control under certain circumstances, including where, as is the case with TEB Bancorp, Inc., the issuer has registered securities under Section 12 of the Securities Exchange Act of 1934.
+ 
+In addition, federal regulations provide that no company may acquire control (as defined in the Bank Holding Company Act) of a bank holding company without the prior approval of the Federal Reserve Board. Any company that acquires such control becomes a “bank holding company” subject to registration, examination and regulation by the Federal Reserve Board.
+ 
+Federal Securities Laws
+ 
+TEB Bancorp, Inc.’s common stock is registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934. TEB Bancorp, Inc. is subject to the information, proxy solicitation, insider trading restrictions and other requirements under the Securities Exchange Act of 1934.
+Emerging Growth Company Status
+ 
+The JOBS Act, which was enacted in 2012, has made numerous changes to the federal securities laws to facilitate access to capital markets. Under the JOBS Act, a company with total annual gross revenues of less than $1.07 billion during its most recently completed fiscal year qualifies as an “emerging growth company.” TEB Bancorp, Inc. qualifies as an emerging growth company under the JOBS Act.
+ 
+34
+
+ 
+
+An “emerging growth company” may choose not to hold stockholder votes to approve annual executive compensation (more frequently referred to as “say-on-pay” votes) or executive compensation payable in connection with a merger (more frequently referred to as “say-on-golden parachute” votes). An emerging growth company also is not subject to the requirement that its auditors attest to the effectiveness of the company’s internal control over financial reporting, and can provide scaled disclosure regarding executive compensation; however, TEB Bancorp, Inc. will also not be subject to the auditor attestation requirement or additional executive compensation disclosure so long as it remains a “non-accelerated filer” and a “smaller reporting company,” respectively, under Securities and Exchange Commission regulations (generally less than $75 million and $250 million, respectively, of voting and non-voting equity held by non-affiliates). Finally, an emerging growth company may elect to comply with new or amended accounting pronouncements in the same manner as a private company, but must make such election when the company is first required to file a registration statement. TEB Bancorp, Inc. has elected to comply with new or amended accounting pronouncements in the same manner as a private company.
+ 
+A company loses emerging growth company status on the earlier of: (i) the last day of the fiscal year of the company during which it had total annual gross revenues of $1.07 billion or more; (ii) the last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the company pursuant to an effective registration statement under the Securities Act of 1933; (iii) the date on which such company has, during the previous three-year period, issued more than $1.07 billion in non-convertible debt; or (iv) the date on which such company is deemed to be a “large accelerated filer” under Securities and Exchange Commission regulations (generally, at least $700 million of voting and non-voting equity held by non-affiliates).
+ 

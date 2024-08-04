@@ -1,0 +1,532 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+Our mission is to develop highly accurate, easy to administer, non-invasive molecular diagnostic tests to improve the standard of care for cancer diagnosis by better meeting the needs of patients, physicians and payers. Our current focus is developing DetermaVu™, a non-invasive molecular lung cancer confirmatory diagnostic that can be administered to patients as a blood test. DetermaVu™ utilizes proprietary sets of gene expression markers to help confirm whether suspicious lung nodules detected through Low Dose Computed Tomography (“LDCT”) scans, x-rays or other imaging are likely to be benign or malignant. 
+ 
+Molecular diagnostics such as DetermaVu™ are assays that identify a disease by studying molecules such as proteins, DNA, and RNA in a tissue or fluid. DetermaVu™ is based on our proprietary Immune System Interrogation approach that examines the body’s immune system response to a specific disease by measuring differential RNA expression in patients with the disease versus patients without the disease. In the future, we may study whether our technology and Immune System Interrogation approach could have applications in other types of cancer or other diseases.
+ 
+During January 2019 we completed an R&D Validation study of DetermaVu™ that demonstrated the accuracy of the DetermaVu™ assay in detecting lung cancer. The R&D Validation study demonstrated a sensitivity of 90% (95% CI 82%-95%) and specificity of 75% (95% CI 68%-81%) of DetermaVu™ on a prospectively collected cohort of 250 patient blood samples that were blinded to laboratory operators. Sensitivity is the percentage of malignant nodules that are correctly identified and specificity is the percentage of benign nodules correctly identified with correct identification in our study confirmed by biopsy results or serial imaging. A 95% confidence interval or “CI” suggests that there is a 95% chance that final test performance will be within the stated range. Notably, we obtained these results without including any clinical factors such as nodule size in our proprietary DetermaVu™ algorithm.
+ 
+We have successfully completed our R&D Validation study and we are now conducting Analytic Validation to establish the performance characteristics of the DetermaVu™ assay system. If Analytic Validation is successfully completed, we will conduct a CLIA Laboratory Validation study to demonstrate that the full DetermaVu™ assay system when utilized in our CLIA diagnostic laboratory, run by our CLIA staff on analytically validated instrumentation, provides the same results on clinical samples as those obtained in our R&D Validation study. Additional information about the stages of development of DetermaVu™ can be found below under “Development of DetermaVu™ -- The Development Pathway and Milestones.”
+ 
+Our goals for DetermaVu™ are to:
+ 
+
+● | Reduce unnecessary and risky biopsy procedures, 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Lower the cost of care through the avoidance of more expensive diagnostic procedures such as invasive biopsies, 
+● | Improve the quality of life for cancer patients by reducing the anxiety associated with non-definitive diagnoses, and 
+● | Improve health outcomes through earlier detection of lung cancer and avoidance of unnecessary invasive procedures and resulting complications. 
+
+ 
+Our strategic focus is to develop diagnostic tests that support clinicians in areas of high unmet clinical need, and in particular cancer detection. We have prioritized our efforts on DetermaVu™ and lung cancer because we believe that the early detection of lung cancer is one of the greatest unmet needs in diagnostics. Our scientific approach is to measure the immune system’s response to disease and as such we believe that it may prove promising in other cancers and other disease areas.
+ 
+Additional Information
+ 
+We were incorporated in September 2009 in the state of California. Our principal executive offices are located at 1010 Atlantic Avenue, Suite 102, Alameda, California 94501. Our telephone number is (510) 775-0515. Our website is www.oncocyte.com. Information contained on, or that can be accessed through, our website, is not, and shall not be deemed to be, incorporated into or be considered a party of this Report.
+ 
+DetermaVu™ is a trademark of OncoCyte Corporation.
+ 
+We are an “emerging growth company” as defined in the Jumpstart Our Business Startups Act of 2012. We will remain an “emerging growth company” until the earliest of (i) the last day of the fiscal year in which we have total annual gross revenues of $1.0 billion or more; (ii) the last day of our fiscal year following the fifth anniversary of the first sale of our common equity securities pursuant to an effective registration statement under the Securities Act of 1933, as amended (the “Securities Act”); (iii) the date on which we have issued more than $1.0 billion in nonconvertible debt during the previous three years; or (iv) the date on which we are deemed to be a large accelerated filer under the rules of the Securities and Exchange Commission, or the SEC. We refer to the Jumpstart Our Business Startups Act of 2012 herein as the “JOBS Act,” and references herein to “emerging growth company” shall have the meaning associated with it in the JOBS Act.
+ 
+
+4
+-
+
+
+As an emerging growth company, we may take advantage of specified reduced disclosure and other requirements that are otherwise applicable, in general, to public companies that are not emerging growth companies. These provisions include:
+ 
+
+● | Reduced disclosure about our executive compensation arrangements; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | No non-binding shareholder advisory votes on executive compensation or golden parachute arrangements; and 
+● | Exemption from the auditor attestation requirement in the assessment of our internal control over financial reporting. 
+
+ 
+We may take advantage of these exemptions for up to five years or such earlier time that we are no longer an emerging growth company.
+ 
+DetermaVu™ Lung Cancer Diagnostic Test 
+ 
+DetermaVu™ measures biomarkers of the immune system’s response to cancer to differentiate between suspicious and likely benign lung nodules in early stage lung cancer. Specifically, DetermaVu™ has been designed for use in patients with lung nodules ranging from 5 mm to 30 mm in size detected initially in a LDCT scan or incidentally through other imaging. Clinical data points, such as lung nodule size, provide a significant amount of the diagnostic power for liquid biopsy lung cancer tests developed by other companies. In the case of the size of lung nodules, larger nodules are more frequently malignant. Since we are not using any clinical data, only biomarkers, in our DetermaVu™ algorithm, we believe DetermaVu™ has the potential to provide a significant benefit as a confirmatory diagnostic tool for aiding early lung cancer detection, by providing physicians with significant biologic information about lung nodules as small as 5 mm in size that is not currently available without the use of DetermaVu™.
+ 
+Need and Market for DetermaVu™
+ 
+Based on substantial unmet needs, large markets, and data generated thus far from patient serum (blood) screening, we have focused our efforts on biomarkers associated with lung cancer. The DetermaVu™ lung cancer development program is our highest priority for early 2019. Our development approach is based on utilizing detectable amounts of cancer-associated biomarkers in patients with early-stage disease. We intend to initially develop and market DetermaVu™ in the United States before seeking regulatory approvals required to market the test in other countries.
+ 
+We believe that the relative ease of administering a liquid biopsy diagnostic test like DetermaVu™; cost savings due to the elimination of unnecessary costly and invasive surgical biopsy procedures; and potential earlier detection of disease will make liquid biopsy diagnostic tests useful as routine tests that could be performed in men and women of any age and at any desired frequency in conjunctions with normal screening and monitoring procedures to detect lung or other cancers.
+ 
+Lung cancer is a primary cause of cancer-related death, in part because there is no effective diagnostic test to screen patients for lung cancer at an early stage without reliance on an invasive biopsy if nodules are detected by a LDCT scan. The United States Preventive Services Task force (“USPSTF”) guidelines recommend LDCT scans for patients at high risk for lung cancer. LDCTs have been shown to detect lung cancer early but the annual lung cancer screening guidelines are relatively recent and are still in the process of being adopted. If successful, our tests will help physicians to reduce diagnosis uncertainty and unnecessary down-stream procedures such as biopsies resulting from indeterminate LDCT screens.
+ 
+Indeterminate results may occur in two ways: from LDCT screening of high risk lung cancer patients; and from incidental scans of patients performed for other reasons, such as x-rays for broken ribs. DetermaVuTM , may be used to help clinicians manage pulmonary nodules that are detected through either route. We expect that DetermaVu™ would be used for patients with indeterminate lung nodules in the 5 mm to 30 mm range to help clinicians triage patients for follow-up procedures such as biopsies, if DetermaVu™ indicates a high likelihood that a malignancy is present.
+ 
+USPSTF guidelines suggest that up to 6.8 million Americans who fit the criteria of 30 pack-year smokers may benefit from annual lung cancer screens. Actual potential patient population estimates will vary over time. In addition to the nodules that will be detected through lung cancer screening, it has been estimated in a published study that there are more than 4.8 million chest scans yearly in the United States and approximately a third of those patients have lung nodules. See Graphic 1.
+
+
+
+5
+-
+
+Graphic 1:
+ 
+DetermaVuTM Market Opportunity
+ 
+
+Research has shown that although nodule size is a strong predictor of malignancy, it is not always accurate. Overall, nodules that are sent to biopsy have a malignancy rate of between 1.7% for nodules 7 mm to 10 mm and 41% for nodules greater than 30 mm, meaning that for every cancer that is found in a biopsy there are many false positives (see percent cancer in graphic 1). At the same time, even smaller nodules, in the 5 mm to 7 mm size range, may be cancer that could remain undiagnosed if a biopsy is not performed. This would suggest that the number of biopsies performed each year could be significantly reduced by a molecular diagnostic that could classify nodules as probably benign or probably malignant, because it helps clinicians better manage patients with lung nodules in a wide range of sizes. See Graphic 2.
+Graphic 2
+ 
+Nodule Size by Prevalence
+ 
+
+NLST investigators NEJM 2013 (numbers do not add to 100% due to missing data)
+
+
+
+6
+-
+
+Current Standard of Care
+ 
+The current standard of care for diagnosing lung cancer in high risk patients is LDCT scanning. USPSTF guidelines recommend annual LDCTs for patients at high risk for lung cancer. The USPSTF was created in 1984 as an independent, volunteer panel of national experts in prevention and evidence-based medicine. The USPSTF works to improve the health of all Americans by making evidence-based recommendations about clinical preventive services such as screenings, counseling services, and preventive medications.
+ 
+The guidelines, released in December of 2013, recommend annual LDCT scans for all Americans aged 55 to 80 years old who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years. A 30 pack-year smoking history is defined as the number of cigarette packs smoked per day times the number of years smoked. A 30 pack-year patient would include the following types of patients:
+ 
+
+● | Person who has smoked a pack a day (20 cigarettes) for 30 years; 
+--+----------------------------------------------------------------------------------------------------------
+● | Person who has smoked 15 cigarettes a day for 40 years; or 
+● | Person who has smoked 40 cigarettes a day for 15 years. 
+
+ 
+These guidelines were driven by a need to improve the standard of care for diagnosing lung cancer. Currently, the survival rate for lung cancer is very low – only 18.6% of people are still alive five years after a lung cancer diagnosis. Due to that low survival rate lung cancer is projected to kill 154,000 Americans in 2018 according to information from the the American Cancer Society. See Graphic 3.
+ 
+Graphic 3
+ 
+5 Year Survival Rates 
+ Three Largest Cancer Types
+ 1975 to 2010
+
+
+The lung cancer survival rate has not increased as fast as the survival rate for other cancers in the last 30 years. The low probability of surviving lung cancer is driven by the late diagnosis – with more than half of all patients diagnosed after the point that the cancer has spread. The poor survival rate for lung cancer was one of the drivers for the development of the USPSTF guidelines. Annual screening with LDCTs is projected to increase the probability of detecting lung cancer in earlier stages such as Stage I where it is treatable and where survival rates could be significantly improved. The number of Stage I patients has been projected to almost double as LDCT becomes part of the high risk patients’ annual check-ups.
+ 
+However, the earlier detection of lung cancer will not come without risks. LDCTs are highly sensitive imaging procedures and they result in many false positives. About one out of every four high risk patients have been shown to have a nodule detected by LDCT as was seen in the National Lung Study Trial (NLST). However, the vast majority of the patients with suspicious nodules assessed in the NLST (96%) did not have cancer.
+ 
+
+7
+-
+
+
+In addition to the nodules that will be detected through lung cancer screening, it has been estimated in a published study that there were more than 4.8 million chest scans yearly in the United States and approximately a third of those patients had lung nodules. Patients whose nodules are detected through screening present a diagnostic challenge to clinicians, especially patients with nodules in the intermediate range of 5 millimeters to 30 millimeters. Many of those patients will end up being referred for risky downstream procedures including bronchoscopies, needle biopsies and surgery.
+ 
+These invasive procedures have been shown, in a study published in 2013, to result in morbidity and mortality including:
+ 
+
+● | 0.5 to 1% mortality and 
+--+---------------------------------------------------------------------------------------------------------
+● | 4-20% major complications (CHEST 2013; 143(5)(Suppl):e93S-120S) 
+
+ 
+A more recent study published in 2019 found higher rates of adverse events associated with lung cancer screening. This study focused on community practices and may be more reflective of the overall healthcare market than other studies that only looked at patients enrolled in clinical trials. The overall complication rate for this analysis was 22% for patients 55 to 65 years of age, and 24% for Medicare eligible patients. JAMA Intern Med. 2019;179(3):324-332
+ 
+In order to provide better guidance for physicians in managing lung nodules, the American College of Radiology developed the Lung CT Screening Reporting and Data System (LungRADS). LungRADS was developed to be a quality assurance tool designed to: standardize lung cancer screening reporting and management recommendations; reduce confusion in lung cancer screening interpretation; and facilitate outcome monitoring.
+ 
+At a high level, LungRADS divides nodules for clinical management into three categories. For patients with nodules less than 5 mm, no follow-up procedures are recommended; while patients with nodules greater than 5 mm have follow-up procedures. In the case of nodules that are 5 to 7 mm, watchful waiting or serial imaging is recommended. Watchful waiting is the process where an individual is monitored through a series of follow-up scans to see if a nodule grows over time. A patient can be brought back quarterly or semi-annually to monitor if the nodule is growing. Typically, when a nodule has not grown for one to two years, the nodule is considered to be benign. Patients in the third category, with nodules over 8 mm, are often recommended for more invasive procedures, such as bronchoscopic biopsy, needle biopsy, open biopsy or video assisted thoracoscopic surgery. See Graphic 4.
+ 
+
+We are developing DetermaVu™ to provide physicians with a non-invasive blood test that could be used to determine whether nodules are more likely to be benign or malignant regardless of size, so that uncertainty as to the presence of cancer before biopsy and the number of unnecessary biopsies can be reduced. Many studies have shown that physicians often elect not to follow LungRADS guidelines for the evaluation of lung nodules and may biopsy nodules smaller than 8 mm in size to avoid the risk of allowing cancer to go undiagnosed at an earlier stage. OncoCyte sponsored marketing research conducted in 2016 found that in a sample of 180 physicians approximately one out of four nodules in the range of 5 mm to 7 mm were biopsied. Guidelines would suggest a serial LDCT follow-up scan rather than a biopsy for nodules in that size range based on the lower incidence of cancer associated with nodules in that size range. The incidence of biopsy increased with nodule size, as would be expected, to slightly more than one out of two for 8 mm to 10 mm nodules and approximately three out of four for 10 mm and larger nodules.
+ 
+
+8
+-
+
+
+We expect that physicians who follow the LungRADS guidelines may initially adopt the use a confirmatory diagnostic like DetermaVu™ in their practice initially for testing patients with nodules of 8 mm or larger because those nodules are statistically more likely to be malignant than smaller nodules, but we see an opportunity for DetermaVu™ in testing patients with nodules in 5 mm to 7 mm size range as well based on the incidence of physicians electing to biopsy those nodules. Ultimately, one of our goals for DetermaVu™ is to change the current standard of care by encouraging physicians to use DetermaVu™ as a confirmatory test for guidance in making patient care recommendations, regardless of the size of the nodules detected by a LDCT or other scan. See Graphic 1 above. Patients with a result indicating the low likelihood of a malignancy would be advised to return periodically for follow-up imaging; while patients with a result indicating a higher likelihood of malignancy may be candidates for a biopsy or closer monitoring, potentially resulting in cancer detection at an earlier stage when treatment is more likely to result in a better outcome for the patient. The impact to the practice of medicine of a diagnostic like this could be that unnecessary biopsies could be minimized, so that patients with a very low risk of lung cancer would be spared the biopsy procedure and the healthcare system would be spared the cost. See Graphic 5.
+ 
+Graphic 5
+ 
+Use of DetermaVu™ in the Lung Nodule Standard of Care
+ 
+
+Development of DetermaVu™
+ 
+In developing DetermaVu™ we are testing blood samples from patients who were at risk for lung cancer, based on having positive or suspicious results from LDCT or other imaging scans and who have confirmed diagnoses through pathology or serial LDCT imaging. We then assess gene expression patterns in those blood samples to determine whether gene expression can distinguish between patients who likely have lung cancer and those who likely do not. We are validating DetermaVu™ on both screened patients, where nodules were found at the time of a lung cancer screening, and patients who had their nodules incidentally detected through alternative screening procedures such as chest x-ray or LDCT scans ordered for a different medical reason.
+ 
+Our clinical trials began through work we sponsored at The Wistar Institute of Anatomy and Biology (“Wistar”). Wistar investigators and OncoCyte have assessed gene expression patterns in blood cells of patients with imaging detected nodules to differentiate malignant lung nodules from patients with non-malignant lung nodules. We have also been carrying out our own clinical trials.
+ 
+During January 2019 we completed an R&D Validation study of DetermaVu™ that demonstrated the accuracy of the DetermaVu™ assay in detecting lung cancer. The R&D Validation study demonstrated a sensitivity of 90% (95% CI 82%-95%) and specificity of 75% (95% CI 68%-81%) of DetermaVu™ on a prospectively collected cohort of 250 patient blood samples that were blinded to laboratory operators. Sensitivity is the percentage of malignant nodules that are correctly identified and specificity is the percentage of benign nodules correctly identified with correct identification in our study confirmed by biopsy results or serial imaging. A 95% confidence interval or “CI” suggests that there is a 95% chance that final test performance will be within the stated range. Notably, we obtained these results without including any clinical factors such as nodule size in our proprietary DetermaVu™ algorithm.
+ 
+
+9
+-
+
+
+We have successfully completed our R&D Validation study and we are now conducting Analytic Validation to establish the performance characteristics of the DetermaVu™ assay system. If Analytic Validation is successfully completed, we will conduct a CLIA Laboratory Validation study to demonstrate that the full DetermaVu™ assay system when utilized in our CLIA diagnostic laboratory, run by our CLIA staff on analytically validated instrumentation, provides the same results on clinical samples as those obtained in our R&D Validation Study.
+ 
+The Development Pathway and Milestones
+ 
+2019 Diagnostic Development Milestones
+ 
+During 2019 we will work to achieve the following milestones relating to the development and commercialization of DetermaVuTM.
+ 
+
+● | Complete CLIA Laboratory Validation study, which is progress on the date of this Report 
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+● | Conduct Clinical Validation study 
+● | Commence commercialization of DetermaVu™ 
+● | Prepare DetermaVu™ dossier for draft Medicare Local Coverage Decision 
+● | Prepare to commence Clinical Utility studies which we expect may take up to 3 years to complete 
+
+ 
+Achieving the commercialization and reimbursement milestones will require building a commercial team, which may include sales, marketing, market access, customer support and medical affairs personnel. We may also enter into joint venture, co-marketing, or similar arrangements with a diagnostic or pharmaceutical company that already has an established marketing force.
+ 
+The Stages of Development
+ 
+We expect that our diagnostic tests for cancer, including DetermaVu™, will primarily be laboratory developed tests or “LDTs” that we will conduct in our clinical or CLIA laboratory. In general, these tests will go through a series of stages of development prior to commercialization: Research, Assay Development, R&D Validation studies, Analytic Validation, CLIA Laboratory Validation study, and Clinical Validation studies. The following graph illustrates the development pathway. Although the pathway diagram shows the development process as linear, in practice certain stages of the process may be conducted concurrently rather than sequentially or portions of certain stages may overlap. This general development flow may be customized for each specific diagnostic test, depending on the circumstances and requirements for that individual test system. An additional stage, Clinical Utility studies, will also be conducted after commencement of the marketing of a diagnostic test. See Graphic 6.
+
+10
+--
+
+Graphic 6
+ 
+Diagnostic Development Stages
+ 
+
+Research: The first stage of the development of a LDT is the research stage. In the research stage of a molecular diagnostic such as DetermaVu™, biological markers are analyzed to determine if specific markers that are differentially expressed in certain diseases are absent or present in blood samples. We are developing blood tests that differentiate malignant patient samples from benign patient samples by looking at differences in the amount of specific analytes expressed in whole blood from cancer patients compared to patients who are cancer free. For our DetermaVu™ lung cancer test, the analytes we are looking at are specific mRNA expressed in whole blood. If we elect to pursue other cancer types, we may look at other analytes including proteins or miRNA. The objective of this phase of the development process is to delineate promising biomarkers, for further development and verification, before proceeding to validation work.
+ 
+Assay Development: The second stage is Assay Development. In this stage the best performing analytes (mRNA, miRNA, or protein biomarkers) are combined with all of the processes needed to create an assay system. The assay system includes the sample collection methods, sample processing and extractions, biomarker assay methods, and the mathematical “algorithm” required to provide a clinical test result for a sample. The optimal combination and weighting of biomarkers in an algorithm to be used in the final diagnostic are determined through bioinformatics which may be combined with machine learning software strategies that also reflect the biomarker contributions to and reliability within the algorithm. The end result of assay development is an assay system, including a “defined” algorithm, the performance of which has been verified on clinical samples from the targeted ‘intended use’ population. The test system, including the algorithm, can be further optimized during the R&D Validation phase.
+ 
+R&D Validation: The third stage is the R&D Validation stage, which is intended to determine the best set biomarkers to use in the algorithm and the expected accuracy of the diagnostic test. These studies are carried out in our R&D laboratories and consist of two areas of study.
+ 
+
+● | Assay System Reproducibility: During Assay System Reproducibility various critical aspects of diagnostic laboratory procedures are studied and tested to assure that the laboratory can produce consistent, reliable results. Multiple lots of reagents used in the laboratory are tested to determine whether lot to lot differences lead to differences in test results. Procedures for the collection of blood or other biological samples from patients, the handling and storage of those samples, and the manner in which the samples are shipped to our diagnostic testing laboratory, are studied to assure that acceptable procedures are followed and that any variations in the procedures that can occur do not affect the diagnostic test results. Samples are studied for the stability of the biomarkers when the samples are subjected to various conditions that could be encountered throughout the total process of handling and shipping the samples, in order to define the conditions under which the clinical results for the sample will not change, since any changes will lead to a different and erroneous result being reported by the lab. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Algorithm Optimization and Lock: The Algorithm Optimization work that leads to an algorithm lock is usually customized to the needs of the specific test. In the case of DetermaVu™, we are employing a statistical method referred to as cross-validation where the algorithm is optimized on a subset of the clinical samples and then tested on the remaining untested samples. This process of optimizing the algorithm on a subset of samples and then testing on the remaining samples is repeated multiple times. Cross-validation is one of the methods for verifying the algorithm performance that leads to a ‘lock’ on the algorithm. 
+● | R&D Validation: The Algorithm obtained in Algorithm Optimization is tested to establish performance on a set of prospectively collected blood samples. 
+
+
+11
+--
+
+
+Analytical Validation. The fourth stage Analytical Validation is conducted in our CLIA laboratory and is based on the CLSI (Clinical and Laboratory Standards Institute) Guidelines. These guidelines cover testing for matters such as limits of quantitation, precision, reproducibility, and interfering substances. When completed, Analytical Validation establishes the performance characteristics of the assay system for subsequent testing in the CLIA laboratory.
+ 
+CLIA Laboratory Validation: In the fifth stage CLIA Laboratory Validation, our CLIA lab will assay patient samples previously tested during the R&D Validation stage. This study is to demonstrate that the full assay system utilized in our CLIA lab, run by our CLIA staff and on the analytically validated instrumentation, provides the same results on clinical samples as those obtained in the R&D Validation stage.
+ 
+Clinical Validation. The sixth stage is a Clinical Validation study, where additional new clinical samples will be assayed in a blinded manner in our CLIA lab. Our CLIA lab will perform assays on these blinded samples and the performance of the full assay system will be assessed against clinical diagnosis to show how our diagnostic test is likely to perform in clinical practice.
+ 
+Clinical Utility: The final phase of the diagnostic pathway is Clinical Utility studies that occur after the diagnostic test is commercially available for use. These studies are important for driving adoption of a newly developed diagnostic test and obtaining coverage and reimbursement from payers such as Medicare, Medicaid, third party commercial insurers, health maintenance organizations (“HMOs”), and large corporations that self-insure. Clinical Utility studies analyze the improvement in patient health outcomes associated with a diagnostic test. The outcomes of these studies can also be used to understand the health economics, including the cost effectiveness, of the new diagnostic. Clinical Utility studies compare the treatment choices and outcomes of patients who received the test results versus those who did not receive the test results. The results of this phase may be published in peer review journals and are generally compiled in dossiers to share with managed care groups, including both public and commercial payers.
+ 
+Types of Diagnostic Use
+ 
+Cancer diagnostics may have as many as five different types of intended uses depending on whether the cancer has been diagnosed; has recurred or is in remission; and the stage of the cancer. These intended uses include:
+
+● | Screening diagnostics could replace or be used as an alternative to existing screening procedures. Lung cancer screening is currently being done through the use of LDCT scans for high risk patients who meet the guideline requirements. A diagnostic could be developed that could be used as an alternative to the annual LDCT scan. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Confirmatory diagnostics could be used in conjunction with a current standard of care screening procedure. For example, our DetermaVu could be used in conjunction with LDCT to confirm a suspicious nodule by yielding a secondary or confirming suspicious versus benign result. In the case of a benign result, the patient would not need additional invasive biopsy procedures to determine the presence of cancer. In the case of a suspicious result, additional procedures, such as a biopsy, would be highly warranted. 
+● | Prognostic or risk predictors could be used by physicians to determine if a patient is at high risk of a cancer recurrence and may be a candidate for closer monitoring or for adjuvant therapies. 
+● | Diagnostics for targeted therapeutics, often referred to as companion diagnostics, could be used by physicians to help determine an optimal therapy for a specific patient. An example of this would be PDL-1 and Keytruda. 
+● | Recurrence diagnostics could be used for patients who had previously been diagnosed with cancer but are currently in remission. These diagnostics could potentially catch recurrence before cancer growth appears on a follow-up imaging. 
+
+
+12
+--
+
+
+Currently we are focused on diagnostics to detect early stage lung cancer due to the market opportunity associated with these types of diagnostics. We are presently focused on confirmatory diagnostics, which we feel will have the largest market opportunity with the greatest barriers to entry. We believe that the confirmatory diagnostic market for lung cancer, like the recurrence risk predictor market, has high barriers to entry and an absence of a strong commercial leader. See Graphic 7. The barriers to entry include:
+ 
+
+● | Research and development expertise: Development of a confirmatory diagnostic necessitates developing a scoring algorithm and the detection of multiple analytes to differentiate those patients who have the disease from those who do not. DetermaVu™ is being developed to distinguish a benign nodule or mass from a suspicious nodule or mass. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Clinical relationships: Relationships with larger cancer centers are required to produce the thousands of samples needed for the full continuum of trials from proof of concept to clinical validation of the diagnostic test. 
+● | Medical community input: Key Opinion Leaders’ feedback from nationally recognized thoracic and pulmonary expert clinicians is needed to determine whether the intended test is likely to be accepted and used by physicians in clinical practice. 
+
+Graphic 7:
+ 
+
+About Our CLIA Diagnostic Laboratory
+ 
+We expect that DetermaVu™ will be regulated under the Clinical Laboratory Improvements Amendment (“CLIA”) as a laboratory diagnostic test or “LDT” and will not be regulated as an in vitro diagnostic test or IVD” that will be subject to approval by the United States Food and Drug Administration (the “FDA”) and through the European Directive on in vitro diagnostics in the European Union. See “Government Regulation” below.
+ 
+We have established a CLIA certified, California state licensed, clinical laboratory in Alameda, California. The laboratory is fully operational with state of the art equipment and staffed with experienced and highly skilled licensed clinical laboratory scientists. We have implemented a quality assurance program designed to ensure regulatory compliance and accurate, timely test results. The CLIA certification and California state license are accepted by forty-five other states as proof of quality and good standing in order to do accept diagnostic test samples from patients in states outside of California and we have obtained the Pennsylvania, Maryland, and Rhode Island state clinical laboratory permits and plan on submitting for a license from the State of New York in the next 2 years. Florida no longer requires an individual state clinical license or permit in order to perform diagnostic tests for Florida residents.
+ 
+Competition
+ 
+Our industry is highly competitive and characterized by rapid technological change. Key competitive factors in our industry include, among others, the ability to successfully complete clinical studies, the ability to obtain any required regulatory approval, average selling prices of competing tests, CLIA laboratory capacity and costs, intellectual property and patent rights, and sales and marketing capabilities. We are an early stage company with a limited operating history and many of our competitors have substantially more resources than we do, including financial, technical and sales resources. In addition, many of our competitors have more experience than we have in the development and commercialization of diagnostics. We are also competing with academic institutions, governmental agencies and private organizations that are conducting research in the field of diagnostics. Our competition will be determined in part by the potential indications for which our lead diagnostic test candidates are developed and ultimately marketed. Additionally, the timing of market introduction of diagnostic tests or of competitors’ tests may be an important competitive factor. Accordingly, we expect that important competitive factors will be the speed with which we can complete pivotal validation and utility studies of DetermaVu™ and commercialize the test, including obtaining Medicare reimbursement approval.
+
+13
+--
+
+
+Currently OncoCyte is aware of three direct competitors who are developing or have commercially available blood-based lung cancer diagnostic tests. Biodesix, Inc. product BDX-XL2 and MagArray, Inc. product Reveal are lung cancer tests based on their technologies that utilize clinical factors and blood proteins. OncoImmune, Inc. offers its Early CDT® tests for lung cancer and liver cancer using autoimmune antibodies. A fourth company has a test but it is used downstream from where the OncoCyte test will be used and so is not competitive. Veracyte has developed Percepta®, a tissue based product for indeterminate bronchoscopies.
+ 
+Licensed Technology from Wistar
+ 
+We have entered into a License Agreement with Wistar that entitles us to use certain patents, know-how and data belonging to Wistar.
+ 
+Licenses Granted
+ 
+Under the License Agreement, we have obtained an exclusive, worldwide license under certain patents, and under certain know-how and data (“Technical Information”) belonging to Wistar, for use in the field of molecular diagnostics for lung cancer, including confirmatory, companion and recurrence diagnostics for any type of lung cancer with detection through whole blood, fractionated blood, plasma, serum and/or other biological samples (the “Licensed Field”). We have the right to grant sublicenses of the licensed patents and Technical Information subject to certain conditions.
+Royalties, License Fees and Other Payment Obligations
+ 
+We have paid Wistar an initial license fee and will pay Wistar royalties on “net sales” of licensed products,” as those terms are defined in the License Agreement. The royalty rates will range from 3% to 5% depending upon the amount of cumulative net sales. The amount of royalties payable to Wistar will be reduced by the amount of any royalties that we must pay to any third parties on the sale of the licensed products, but subject to a maximum reduction of 50%. Our obligation to pay royalties to Wistar will terminate on a licensed product-by-licensed product and country-by-country basis until the later of (i) the date a valid claim of a licensed patent covering the licensed product no longer exists, or (ii) the tenth (10th) anniversary of the first commercial sale of the licensed product in each country.
+ 
+We have agreed to pay Wistar a minimum annual royalty each year, which in each case will be credited against total royalties due on net sales of licensed products during the year in which the minimum royalty is paid. We will also be obligated to pay Wistar an annual license maintenance fee in the mid-five figures.
+ 
+We have agreed to pay Wistar a portion of any non-royalty sublicensing income that we may receive from the sub-licensee. Non-royalty sublicensing income will include any consideration received from a sub-licensee for granting the sublicense, but excluding royalties, the fair market value of any equity or debt securities sold to a sub-licensee, and any payments received from a sub-licensee for any related research we conduct for the sub-licensee.
+ 
+We also have agreed to pay Wistar (a) milestone payments upon the occurrence of certain milestone events in the development and commercialization of a licensed product, and (b) all past or ongoing costs incurred or to be incurred by Wistar, including government fees and attorneys’ fees, in the course of prosecuting the licensed patents.
+ 
+Other Obligations
+ 
+We have agreed to use commercially reasonable diligent efforts, directly or through sub-licensees, to develop and commercialize licensed products. We have agreed that we or a sub-licensee will commence commercial sale of a licensed product by a specified date. If sales of a licensed product do not commence by the specified date, we may purchase up to three one-year extensions of the deadline by paying Wistar a designated fee for the applicable extension. OncoCyte has agreed to purchase additional extensions.
+ 
+We have agreed to indemnify Wistar and its trustees, managers, officers, agents, employees, faculty, affiliated investigators, personnel and staff, from and against certain claims and liabilities related to the License Agreement and the development, manufacture and sale of licensed products, excluding liabilities that result from or arise out of an indemnified party’s gross negligence or willful misconduct.
+ 
+Termination of the License Agreement
+ 
+Wistar has the right to terminate the License Agreement, subject to certain notice and cure periods and force majeure delays in certain cases, if any of the following occur: (a) we fail to pay any amount payable to Wistar; (b) we materially breach any covenant or agreement or any continuing representation or warranty contained in the License Agreement; (c) we become subject to certain bankruptcy or insolvency events, (d) we dissolve or cease operations, (e) we or any of our affiliates or sub-licensees or affiliates of any our sub-licensees challenges the validity, patentability, scope, construction, enforceability, non-infringement, or Wistar’s ownership of any issued patent comprising the licensed patents, or assists any third party in any such challenge; or (f) we fail to fulfill our product development and commercialization diligence obligations and related performance milestones.
+ 
+
+14
+--
+
+
+We have the right to terminate the License Agreement with or without cause, upon the passage of a specified period of time after giving Wistar written notice of termination.
+ 
+Wistar’s Retained Rights to Certain Proposed Products
+ 
+Wistar has reserved the right to (i) make, use, practice and further develop the licensed patents and Technical Information for educational, research, and other internal purposes; (ii) grant to any academic, government, research or non-profit institution or organization the right to make, use and practice the licensed patents or Technical Information for non-commercial research and educational purposes; and (iii) grant licenses under the Licensed Patents or Technical Information to any party for any field, product, service or territory other than the licensed products in the Licensed Field.
+ 
+In addition, if Wistar determines to develop or has developed an actual or potential licensed product that is for an application, product, sub-field or indication in the Licensed Field, but for which Wistar reasonably believes a licensed product is not being actively developed or commercialized by us or by our affiliates or sub-licensees, Wistar may give us notice of the proposed product. If we timely inform Wistar of our election to develop the proposed product, and if we successfully negotiate a development plan and milestones for the proposed product, we will be entitled to develop the proposed product as a licensed product under the License Agreement. If we do not elect to develop the proposed product or do not reach agreement with Wistar for a development plan and milestones for the proposed product, Wistar may exclude the proposed product from our license under the License Agreement and may develop the proposed product itself or grant licenses to third parties under the licensed patents and Technical Information for the development and commercialization of the proposed product.
+ 
+Facilities
+ 
+Under a Shared Facilities and Services Agreement (the “Shared Facilities Agreement”) with BioTime, we have use of laboratory and office space at BioTime’s facility in Alameda, California. BioTime has leased approximately 30,795 square feet of office and laboratory space in two buildings located in Alameda and is providing us use of space for a CLIA diagnostic laboratory.
+Materials
+ 
+There is a limited number of manufacturers of molecular diagnostic testing equipment and related chemical reagents necessary for the provision of our diagnostic tests. Additionally, the chemical reagents used with the diagnostic testing equipment we chose are available only from the equipment manufacturer. This situation poses a risk to us. After encountering inconsistent results using diagnostic testing equipment and reagents from one manufacturer, we switched to diagnostic testing equipment from a different manufacturer. If issues were to arise with the diagnostic testing equipment or reagents we are using causing us to acquire different diagnostic testing equipment again, we would need to conduct additional R&D Validation studies, Analytic Validation, and CLIA Laboratory Validation studies to determine whether our previous test results can be reproduced using the new equipment. If similar issues were to arise after commercialization of a diagnostic test, we could experience a disruption for a period of time in providing the diagnostic tests to patients and we would lose revenues and potentially market share as a result.
+Marketing
+ 
+Following the clinical validation of our DetermaVu™ diagnostic test, we intend to market our diagnostic test directly to health care providers working in the areas of pulmonary disease and lung cancer. These health care providers will collect blood samples or send patients to laboratories to have blood or other biological samples collected. These samples, also referred to as liquid biopsies, will be sent to our CLIA laboratory in California, either by the health care provider or the laboratory who drew the specimen. The sample will be run through an assay and a gene expression classifier at our laboratory to determine a binary result, either benign or suspicious. That result will be presented to the physician ordering the procedure in a standardized report.
+ 
+We plan to ramp up sales and marketing teams for DetermaVu™. Over time, we plan to continue to grow our sales, market access and marketing organizations to increase the awareness and utilization of our diagnostic tests and to prepare for potential additional diagnostic test launches.
+ 
+We may also explore a range of other commercialization options in order to reduce our capital needs and the risks associated with the timelines and uncertainty for attaining the Medicare and commercial reimbursement approvals that will be essential for the successful commercialization of DetermaVu™ and any other diagnostic tests that we may develop. Those alternative arrangements could include marketing arrangements with other diagnostic or pharmaceutical companies through which we might receive a royalty on sales, or through which we might form a joint venture to market DetermaVu™ or to develop and market other tests and share in net revenues.
+ 
+
+15
+--
+
+Market Access – Reimbursement
+ 
+Billing, Coverage, and Reimbursement for Diagnostic tests
+ 
+Revenues from our clinical laboratory testing will be derived from several different sources. Depending on the billing arrangement, the instruction of the ordering physician, and applicable law, parties that may reimburse us for our services include:
+
+● | Third-party payers that provide coverage to the patient, such as an insurance company, a managed care organization, or a governmental payer program; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Physicians or other authorized parties, such as hospitals or independent laboratories, that order the testing service or otherwise refer the testing services to us; or
+● | Patients in cases where the patient has no insurance, has insurance that partially covers the testing, or owes a co-payment, co-insurance, or deductible amount. 
+
+
+
+Until DetermaVu™, or any other new cancer diagnostic test that we may develop, is accepted by Medicare or private third party payers for reimbursement, we will have to market the test to physicians on a patient pay basis, meaning that the patient may need to pay the full cost of the test. In the absence of reimbursement by a health insurance plan or Medicare, patients who would be candidates for the use of our diagnostic tests may decline to use our tests, and physicians may be reluctant to prescribe our tests, due to the cost of the test to the patients. Because of this patient cost factor, revenues from any new cancer test that we market will experience slow growth until the test is approved for reimbursement by larger payer plans which cover many patients.
+ 
+Medicare
+ 
+For lung cancer diagnostics, Medicare or CMS reimbursement approval is critical. CMS relies on a network of Medicare Administrative Contractors (“MACs”) to make Local Coverage Decisions approving a diagnostic test for reimbursement. The Molecular Diagnostics Services (“MolDx”) Program was developed by Palmetto GBA (the previous MAC for California) to identify and establish coverage and reimbursement for molecular diagnostics tests. The program has developed guidelines for the level of evidence of efficacy required to be obtained through clinical trials. Palmetto, which contracted with CMS to administer the MolDx, issues Local Coverage Determinations that affect coverage, coding, and billing of many molecular diagnostic tests and the current MAC for California, Noridian Healthcare Solutions, LLC, has adopted the coverage policies from Palmetto. MACs also serve as the primary operational contact between the Medicare Fee-For-Service program, for paying Medicare claims, and approximately 1.5 million health care providers enrolled in the program.
+ 
+LDTs that have been approved for reimbursement by CMS are generally reimbursed under the Medicare Clinical Laboratory Fee Schedule (“CLFS”). From time to time, Congress has revised the Medicare statute and the formulas it establishes for the CLFS. The payment amounts under the Medicare fee schedules are important because they will determine the amount of reimbursement for a diagnostic under Medicare, and those payment amounts are also often used as a basis for payment amounts set by other governmental and private third-party payers. For example, state Medicaid programs are prohibited from paying more than the Medicare fee schedule limit for clinical laboratory services furnished to Medicaid recipients.
+ 
+The Protecting Access to Medicare Act of 2014 (“PAMA”), establishes a market-based pricing methodology for laboratory test. Two categories of tests are established under PAMA: clinical diagnostic lab tests (“CDLT”) and advanced diagnostic lab tests (“ADLT”). ADLTs are CDLTs furnished by a single laboratory, not sold for use by other entities, and meeting at least one of the following criteria:
+ 
+
+● | Analysis of multiple biomarkers of DNA, RNA or proteins combined with a unique algorithm to yield a single patient-specific result;
+--+------------------------------------------------------------------------------------------------------------------------------------
+● | Cleared or approved by the FDA; or 
+● | Meets other similar criteria established by the Secretary of Health and Human Services. 
+
+
+16
+--
+
+
+The law establishes that CLFS prices will be equal to the weighted median rates paid by private payers. However, CDLT prices are adjusted every three years whereas ADLT prices are adjusted annually. The other difference between the two types of tests is the establishment of the initial price. For CDLTs, the price paid for the first three years is established by CMS through a gap-fill methodology. For ADLTs, the price paid for the first 9 months is the test’s list price and if the list price is greater than 130% of the weighted median private payer price, CMS will recoup the difference from the laboratory through a payment claw back. It is not known at this point if DetermaVu™ will be classified as a CDLT or ADLT. The gap-fill pricing methodology for CDLTs represents a significant short-term risk because pricing under the gap-fill methodology can vary significantly.
+ 
+Congress has proposed on several occasions to impose a 20% coinsurance charge on patients for CDLTs reimbursed under CLFS, which would require us to bill patients for these amounts. Because of the relatively low reimbursement for many CDLTs, in the event that Congress enacts such legislation, the cost of billing and collecting for CDLTs would often exceed the amount receivable from the patient.
+ 
+Medicare occasionally establishes coverage prior to the completion and publication of a clinical utility study of the diagnostic. As a consequence, it may be possible to obtain Medicare coverage prior to the completion of our DetermaVu™ clinical utility study and publication of the results. There are a number of examples of this with respect to lung cancer diagnostics. In 2017, Noridian, the (MAC for the JE jurisdiction that includes California) issued Local Coverage Decisions or LCDs for a number of diagnostics while evidence was still under development. This included Veracyte’s Percepta, which received a decision in May of 2017, and Integrated Diagnostics Xypresys, which received a LCD in October of 2017.
+ 
+Private Third Party Payers
+ 
+In addition to seeking Medicare reimbursement approval, we will seek reimbursement approval from private payers such as health insurance companies and HMOs. Private payers generally will determine whether to approve a LDT for reimbursement based on the published results of clinical validity and clinical utility studies. Obtaining private payer medical coverage generally takes twelve to twenty-four months from the time that sufficient evidence is published establishing clinical utility. We have shown our clinical protocol designs to payers, much like many therapeutic companies share their clinical utility designs with the FDA, for feedback. We previewed our clinical protocol designs with ten payers that represent over 77 million covered lives late in 2017 and received favorable feedback on the design of our studies, the number of our studies, and the primary and secondary endpoints. From this interaction, we believe that if we are successful in meeting the endpoints of our clinical utility studies, we will receive favorable coverage decisions by some large payers.
+ 
+Reimbursement rates paid by private third-party payers can vary based on whether the provider is considered to be an “in-network” provider, a participating provider, a covered provider, an “out-of-network” provider or a non-participating provider. These definitions can vary among payers. An in-network provider usually has a contract with the payer or benefits provider. This contract governs, among other things, service-level agreements and reimbursement rates. In certain instances, an insurance company may negotiate an in-network rate for our testing. An in-network provider may have rates that are lower per test than those that are out-of-network, and that rate can vary widely. Rates vary based on the payer, the testing type and often the specifics of the patient’s insurance plan. If a laboratory agrees to contract as an in-network provider, it generally expects to receive quicker payment and access to additional covered patients. However, it is likely that we will initially be considered an “out-of-network” or non-participating provider by payers who cover the vast majority of patients until we can negotiate contracts with the payers.
+ 
+We cannot predict whether, or under what circumstances, payers will reimburse for patients for our tests. Full or partial denial of coverage by payers, or reimbursement at inadequate levels, would have a material adverse impact on our business and on market acceptance of our tests.
+ 
+Billing and Collection 
+ 
+Where there is a private or governmental third-party payer coverage policy in place, we will bill the payer and the patient in accordance with the established policy. Our efforts in obtaining reimbursement based on individual claims, including pursuing appeals or reconsiderations of claims denials, could take a substantial amount of time, and bills may not be paid for many months, if at all. Furthermore, if a third-party payer denies coverage after final appeal, payment may not be received at all.
+ 
+Where there is no coverage policy in place, we will pursue reimbursement on a case-by-case basis. In some cases, if not prohibited by law or regulation, we may bill physicians, hospitals and other laboratories directly for the services that they order. However, laws and regulations in certain states prohibit laboratories from billing physicians or other purchasers for testing that they order. Some states may allow laboratories to bill physicians directly but may prohibit the physician and, in some cases, other purchasers from charging more than the purchase price for the services, or may allow only for the recovery of acquisition costs, or may require disclosure of certain information on the invoice. An increase in the number of states that impose similar restrictions could adversely affect us by encouraging physicians to perform laboratory services in-house or by causing physicians to refer services to other laboratories that are not subject to the same restrictions.
+ 
+
+17
+--
+
+Patents and Trade Secrets 
+ 
+We rely primarily on patents and contractual obligations with employees and third parties to protect our proprietary rights. We have sought, and intend to continue to seek, appropriate patent protection for important and strategic components of our proprietary technologies by filing patent applications in the U.S. and certain foreign countries. There can be no assurance that any of our patents will guarantee protection or market exclusivity for our diagnostic tests and diagnostic test candidates. We may also use license agreements both to access technologies developed by other companies and universities and to convey certain intellectual property rights to others. Our financial success will be dependent in part on our ability to obtain commercially valuable patent claims and to protect our intellectual property rights and to operate without infringing upon the proprietary rights of others.
+ 
+Our diagnostic patent portfolio includes two patent families owned by us with claims directed to compositions of matter and methods useful for detection of breast and lung cancers using specific biomarkers or a panel of specific biomarkers. Patents are pending in the United States, with projected expiration dates ranging from 2033 to 2039.
+ 
+We have also obtained an exclusive license from Wistar to certain pending patent applications in the field of molecular diagnostics for lung cancer. The pending claims are directed to compositions of matter and methods useful for detection of lung cancer using specific biomarkers or a panel of specific biomarkers, with projected expiration dates ranging from 2028 to 2039. Patents covered by the exclusive license have issued in the United States, Canada and India and are pending in the United States, Australia, Brazil. Canada, China, Europe, India, Israel, Japan, Mexico, New Zealand, Russia, Saudi Arabia, Singapore, South Korea, and the United Arab Emirates. Those patents are projected to expire in 2028 - 2029.
+ 
+In addition to relying on patents, we will rely on trade secrets, know-how, and continuing technological advancement to maintain our competitive position. We have entered into intellectual property, invention, and non-disclosure agreements with our employees, and it is our practice to enter into confidentiality agreements with our consultants. There can be no assurance, however, that these measures will prevent the unauthorized disclosure or use of our trade secrets and know-how, or that others may not independently develop similar trade secrets and know-how or obtain access to our trade secrets, know-how, or proprietary technology.
+ 
+General Risks Related to Obtaining and Enforcing Patent Protection
+ 
+Our patents and patent applications are directed to compositions of matter, formulations, methods of use and/or methods of manufacturing. The patent positions of pharmaceutical and biotechnology companies, including ours, are generally uncertain and involve complex legal and factual questions. Our business could be negatively impacted by any of the following:
+
+● | The claims of any patents that are issued may not provide meaningful protection, may not provide a basis for commercially viable diagnostic tests or may not provide us with any competitive advantages;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Our patents may be challenged by competitors or other third parties and if the third parties are successful in their challenge they could use the patented inventions to compete with us; 
+● | Others may have patents that relate to our technology or business that may prevent us from marketing our diagnostic test candidates unless we are able to obtain a license to those patents; 
+● | Patent applications to which we have rights may not result in issued patents and the information disclosed in those applications could be used by our competitors; and 
+● | We may not be successful in developing additional proprietary technologies that are patentable. 
+
+
+
+In addition, others may independently develop similar or alternative technologies, duplicate any of our technologies and, if patents are licensed or issued to us, design around the patented technologies licensed to or developed by us. Moreover, we could incur substantial costs in litigation if we have to defend ourselves in patent lawsuits brought by third parties or if we initiate such lawsuits.
+ 
+
+18
+--
+
+
+The United States Supreme Court’s decisions in Mayo Collaborative Services v. Prometheus Laboratories, Inc. and Association for Molecular Pathology v. Myriad Genetics may limit our ability to obtain patent protection on diagnostic methods that merely recite a correlation between a naturally occurring event and a diagnostic outcome associated with that event. Our cancer diagnostic tests are based on the presence of certain genetic markers for a variety of cancers. In Mayo Collaborative Services v. Prometheus Laboratories, Inc., the Supreme Court ruled that patent protection is not available for the use of a mathematical correlation of the presence of a well-known naturally occurring metabolite as a means of determining proper drug dosage. The claims in the contested patents that were the subject of that decision were directed to measuring the serum level of a drug metabolite and adjusting the dosing regimen of the drug based on the metabolite level. The Supreme Court said that a patent claim that merely claimed a correlation between the blood levels of a drug metabolite and the best dosage of the drug was not patentable subject matter because it did no more than recite a correlation that occurs in nature.
+ 
+In Association for Molecular Pathology v. Myriad Genetics, the Supreme Court ruled that the discovery of the precise location and sequence of certain genes, mutations of which can dramatically increase the risk of breast and ovarian cancer, was not patentable. Knowledge of the gene location and sequences was used to determine the genes’ typical nucleotide sequence, which, in turn, enabled the development of medical tests useful for detecting mutations in these genes in a particular patient to assess the patient’s cancer risk. But the mere discovery of an important and useful gene did not render the genes patentable as a new composition of matter.
+ 
+Also, in Ariosa Diagnostics, Inc. v. Sequenom, Inc., the Federal Circuit ruled that a method for detecting a paternally inherited nucleic acid of fetal origin performed on a maternal serum or plasma sample from a pregnant female was not patent eligible subject matter under the framework set forth in Mayo Collaborative Services v. Prometheus Laboratories, Inc. The court examined the elements of the claim to determine whether the claim contained an inventive concept sufficient to transform the claimed naturally occurring phenomenon into a patent eligible application and found that the method steps did not support patentability because they used conventional amplification and detection techniques. Although the claims can be distinguished from the claims at issue in Mayo Collaborative Services v. Prometheus Laboratories, Inc., the court was bound by the language of the Supreme Court decision to hold Sequenom’s claims unpatentable.
+ 
+While the cases discussed above are instructive, the United States Patent and Trademark Office (the “USPTO”) has issued interim guidelines in light of the Supreme Court decisions indicating that process claims having a natural principle as a limiting step will be evaluated to determine if the claim includes additional steps that practically apply the natural principle such that the claim amounts to significantly more than the natural principle itself. Because the diagnostic tests that we are developing combine an innovative methodology with newly discovered compositions of matter, we are hopeful that this Supreme Court decision will not preclude the availability of patent protection for our diagnostic tests.
+ 
+The USPTO has also issued a Subject Matter Eligibility Update to provide further guidance in determining subject matter eligibility. The Subject Matter Eligibility Update includes new Subject Matter Eligibility Examples for the Life Sciences. These examples provide favorable exemplary subject matter eligibility analysis of hypothetical claims covering diagnostic tests and claims drawn from case law. This update from the USPTO does not change our opinion on our ability to obtain meaningful patent protection.
+ 
+There is a risk that any patent applications that we file and any patents that we hold or later obtain could be challenged by third parties and declared invalid or infringing of third party claims. A patent interference proceeding may be instituted with the USPTO when more than one person files a patent application covering the same technology, or if someone wishes to challenge the validity of an issued patent filed before March 16, 2013. At the completion of the interference proceeding, the USPTO will determine which competing applicant is entitled to the patent, or whether an issued patent is valid. Patent interference proceedings are complex, highly contested legal proceedings, and the USPTO’s decision is subject to appeal. This means that if an interference proceeding arises with respect to any of our patent applications, we may experience significant expenses and delay in obtaining a patent, and if the outcome of the proceeding is unfavorable to us, the patent could be issued to a competitor rather than to us. In addition to interference proceedings, the USPTO can reexamine issued patents at the request of a third party seeking to have the patent invalidated. Currently an inter partes review proceeding will allow third parties to challenge the validity of an issued patent where there is a reasonable likelihood of invalidity. This means that patents owned or licensed by us may be subject to re-examination and may be lost if the outcome of the re-examination is unfavorable to us.
+ 
+Post Grant Review under the America Invents Act makes available opposition-like proceedings in the United States. As with the USPTO interference proceedings, Post Grant Review proceedings will be very expensive to contest and can result in significant delays in obtaining patent protection or can result in a denial of a patent application. Also, a derivation proceeding may be instituted by the USPTO or an inventor alleging that a patent or application was derived from the work of another inventor.
+ 
+Oppositions to the issuance of patents may be filed under European patent law and the patent laws of certain other countries. As with the USPTO interference proceedings, these foreign proceedings can be very expensive to contest and can result in significant delays in obtaining a patent or can result in a denial of a patent application.
+ 
+The enforcement of patent rights often requires litigation against third party infringers, and such litigation can be costly to pursue. Even if we succeed in having new patents issued or in defending any challenge to issued patents, there is no assurance that our patents will be comprehensive enough to provide us with meaningful patent protection against our competitors.
+ 
+
+19
+--
+
+
+In addition to patents, we rely on trade secrets, know-how, and continuing technological advancement to maintain our competitive position. The molecular diagnostics that we are developing use gene expression classifiers or algorithms, which are mathematical models that weight the biomarkers to produce a score. We will treat the mathematical models as trade secrets. We have entered into intellectual property, invention, and non-disclosure agreements with our employees, and it is our practice to enter into confidentiality agreements with our consultants. There can be no assurance, however, that these measures will prevent the unauthorized disclosure or use of our trade secrets and know-how, or that others may not independently develop similar trade secrets and know-how or obtain access to our trade secrets, know-how, or proprietary technology.
+ 
+Government Regulation 
+ 
+CLIA--Clinical Laboratory Improvement Amendments of 1988 and State Regulation
+ 
+As a provider of laboratory testing on human specimens for the purpose of disease diagnosis, prevention, or treatment, we are required to hold certain federal, state, and local licenses, certifications and permits to conduct our business. In 1988, Congress enacted CLIA, which established quality standards for all laboratories that provide testing services to ensure the accuracy, reliability and timeliness of patient test results regardless of where the test is performed.
+ 
+Under CLIA, a laboratory is defined as any facility that performs laboratory testing on specimens derived from humans for the purpose of providing information for the diagnosis, prevention or treatment of disease, or the impairment of, or assessment of health of human beings. Because we meet this definition, CLIA requires that we hold a certificate applicable to the complexity of the categories of testing we perform and that we comply with certain standards. Laboratories performing high complexity testing are required to meet more stringent requirements than laboratories performing less complex tests. CLIA regulations require clinical laboratories like our laboratory to comply with various operational, personnel, facilities administration, quality, and proficiency testing requirements intended to ensure that testing services are accurate, reliable and timely. CLIA certification is a prerequisite for reimbursement eligibility for services provided to state and federal health care program beneficiaries. CLIA is user-fee funded. Therefore, all costs of administering the program must be covered by the regulated facilities, including certification and survey costs.
+ 
+FDA Regulation of Diagnostic Tests
+ 
+We believe our diagnostic tests will be classified as LDTs and consequently be governed under the CLIA regulations, as administered by CMS, as well as by applicable state laws.
+ 
+Historically, the FDA has exercised enforcement restraint with respect to most LDTs and has not required laboratories that offer LDTs to comply with FDA requirements for medical devices, such as registration, device listing, quality systems regulations, premarket clearance or premarket approval, and post-market controls.
+ 
+In recent years, however, the FDA has stated it intends to end its policy of enforcement restraint and begin regulating certain LDTs as medical devices. In October 2014, the FDA issued two draft guidance documents, entitled “Framework for Regulatory Oversight of Laboratory Developed Tests (LDTs)” and “FDA Notification and Medical Device Reporting for Laboratory Developed Tests (LDTs)”, respectively, that set forth a proposed risk-based regulatory framework that would apply varying levels of FDA oversight to LDTs.
+ 
+In January 2017, the FDA issued a Discussion Paper on LDTs (“Discussion Paper”), which proposes a risk based approach to LDT oversight focusing on new and significantly modified high and moderate risk LDTs. However, low risk LDTs, LDTs for rare diseases, traditional LDTs, LDTs intended solely for public health surveillance, certain LDTs used in CLIA certified labs, and LDTs intended solely for forensic use would not be expected to comply with premarket review, quality systems, and registration and listing requirements unless necessary to protect public health. With respect to the post-market surveillance of LDTs, the FDA’s Discussion Paper recommends that laboratories initially report serious adverse events for all tests except the exempted categories of tests, which include LDTs intended for public health surveillance, some stem cell/tissue/organ transplantation LDTs, and LDTs intended solely for forensic use. The Discussion Paper notes that while the report neither represents the formal position of the FDA and nor is it a final version of the LDT guidance documents published in 2014, it is hoped that its publication will continue to advance further public disclosure. The FDA has indicated that it does not intend to modify its policy of enforcement restraint until the draft guidance documents are finalized.
+ 
+Based on guidance set forth in the Discussion Paper, the proposed legislation, and FDA’s comments on such legislation, FDA premarket review of new and significantly modified LDTs could be phased-in in the near future, however, to date no firm time commitments have been set. Nonetheless, the FDA may decide to regulate certain LDTs on a case-by-case basis at any time.
+ 
+
+20
+--
+
+
+FDA regulations could also require, among other things, additional clinical studies and submission of a premarket notification or filing a Premarket Approval (“PMA”) application with the FDA. For example, LDTs with the same intended use as a cleared or approved companion diagnostic are defined in FDA’s draft guidance as “high-risk LDTs (Class III medical devices)” for which premarket review would be required. This may include the use of our LDTs for screening patients for cancer.
+ 
+Since 2017, legislators have been working to advance a draft of the Diagnostic Accuracy and Innovation Act (“DAIA”) to serve as a basis for creating new regulatory framework for LDTs. In August 2018, the FDA suggested changes to DAIA and addressed the need for a new regulatory framework that would require new tests to undergo FDA review to demonstrate they are analytically and clinically valid. The FDA’s changes to the bill included proposals related to premarket approval, provisional approval, and a precertification program, and made explicit its authority to revoke approval, request raw data, and take corrective action against test developers in order to protect the public health.  In December 2018 the FDA Commissioner and the Director of the Center for Devices and Radiological Health (CDRH) expressed significant concerns regarding disparities between some LDTs and in vitro diagnostics that have been reviewed and cleared or approved by FDA. Responding to the FDA’s DAIA comments, in December 2018 legislators proposed a draft bill called the Verifying Accurate, Leading-edge IVCT Development (VALID) Act, which features a precertification program. The term IVCT refers to in vitro clinical tests, a new category that was introduced in DAIA, and comprises both test kits and lab-developed tests. As proposed, the VALID Act includes precertification proposed by the FDA, a process through which diagnostic developers could receive premarket approval or clearance for one test representative of a group of tests using the same technology and have other elements in common. Approval of that representative test would precertify other tests in the group and allow the lab to launch them without premarket review. The FDA estimates that between 40 and 50% of tests would qualify for precertification. We cannot predict whether the VALID Act as proposed, or any modified version of the VALID Act, will be enacted into law.
+ 
+California State Laboratory Licensing
+ 
+In addition to federal certification requirements of laboratories under CLIA, we are required to maintain licensure under California law for our laboratory in Alameda, California. The California law includes standards for the day-to-day operation of a clinical reference laboratory, including the training and skills required of personnel and quality control. In addition, California laws mandate proficiency testing, which involves testing of specimens that have been specifically prepared for the laboratory. Our diagnostic laboratory was certified by the state of California during 2017. If we do not meet the requirements of California laws, the California Department of Health Services (“DHS”) may suspend, restrict or revoke our license to operate our laboratory, assess substantial civil money penalties, or impose specific corrective action plans.
+Other State Laboratory Licensing
+ 
+Some states require licensure of out-of-state laboratories that accept specimens from those states. Our laboratories will need to pass various state inspections in order to get licensed to provide LDTs in each of state that requires licensure. All states except five states accept federal CLIA certification and state of residence licensure as proof of quality and good standing in order to perform diagnostic tests. The five exceptions are Florida, Maryland, Rhode Island, Pennsylvania and New York. We have already obtained the Pennsylvania state clinical laboratory permit and the licenses required by Maryland and Rhode Island. Florida no longer requires an individual state clinical license or permit in order to perform diagnostic tests for Florida residents. We plan to file to obtain the license required by New York.
+In Vitro Diagnostics
+ 
+In the future, we may elect to develop IVDs, which are regulated by the FDA as medical devices. Medical devices marketed in the United States are subject to the regulatory controls under CLIA, the Federal Food, Drug, and Cosmetic Act, and regulations adopted by the FDA. Some requirements, known as premarket requirements, apply to medical devices before they are marketed, and other requirements, known as post-market requirements, apply to medical devices after they are marketed.
+ 
+The particular premarket requirements that must be met to market a medical device in the United States will depend on the classification of the device under FDA regulations. Medical devices are categorized into one of three classes, based on the degree of risk they present. Devices that pose the lowest risk are designated as Class I devices; devices that pose moderate risk are designated as Class II devices and are subject to general controls and special controls; and the devices that pose the highest risk are designated as Class III devices and are subject to general controls and premarket approval.
+ 
+A premarket submission to the FDA will be required for some Class I devices, most Class II devices; and all Class III devices. Most Class I and some Class II devices are exempt from premarket submission requirements. Some Class I and most Class II devices may be marketed after a 510(k) premarket notification, while a more extensive PMA is required to market Class III devices.
+ 
+
+21
+--
+
+
+Until regulatory requirements suggested by the FDA or required by any new legislation are phased in, our initial confirmatory diagnostics will not require FDA filing before launch. Since the tests are being developed as LDTs, the regulatory pathway that we will be following is the CLIA certification and inspection pathway.
+ 
+If the new requirements are phased in or if we elect to develop IVDs, our future screenings diagnostics may require a 510(k) submission or a PMA. In a 510(k) submission, the device sponsor must demonstrate that the new device is “substantially equivalent” to a predicate device in terms of intended use, technological characteristics, and performance testing. A 510(k) requires demonstration of substantial equivalence to another device that is legally marketed in the United States. Substantial equivalence means that the new device is at least as safe and effective as the predicate. A device is substantially equivalent if, in comparison to a predicate it (a) has the same intended use as the predicate and has the same technological characteristics as the predicate; or (b) has the same intended use as the predicate, has different technological characteristics, and the information submitted to FDA does not raise new questions of safety and effectiveness, and is demonstrated to be at least as safe and effective as the legally marketed predicate device.
+ 
+A claim of substantial equivalence does not mean the new and predicate devices must be identical. Substantial equivalence is established with respect to intended use, design, energy used or delivered, materials, chemical composition, manufacturing process, performance, safety, effectiveness, labeling, biocompatibility, standards, and other characteristics. A device may not be marketed in the United States until the submitter receives a letter declaring the device substantially equivalent. If the FDA determines that a device is not substantially equivalent, the applicant may resubmit another 510(k) with new data, or request a Class I or II designation through the FDA’s de novo process that allows a new device without a valid predicate to be classified into Class I or II if it meets certain criteria, or file a reclassification petition, or submit a PMA.
+ 
+A new 510(k) submission is required for changes or modifications to an existing approved device, where the modifications could significantly affect the safety or effectiveness of the device or the device is to be marketed for a new or different indication for use.
+ 
+A PMA for Class III devices is the most stringent type of premarket submission. Before the FDA approves a PMA, the sponsor must provide valid scientific evidence demonstrating reasonable assurance of safety and effectiveness for the device’s intended use.
+ 
+Health Insurance Portability and Accountability Act
+ 
+Under the Health Insurance Portability and Accountability Act (“HIPAA”), the Department of Health and Human Services (“HHS”) has issued regulations to protect the privacy and security of protected health information. HIPAA also regulates standardization of data content, codes and formats used in health care transactions and standardization of identifiers for health plans and providers. Penalties for violations of HIPAA regulations include civil and criminal penalties.
+ 
+CMS and the Office of Civil Rights issued a final rule in February 2014 to amend both the HIPAA and CLIA regulations. The final rule amended the HIPAA privacy rule to remove the CLIA laboratory exceptions, and as a result, HIPAA-covered laboratories are now required to provide individuals, upon request, with access to their completed test reports. Under the 2014 rule, CLIA laboratories and CLIA-exempt laboratories may provide copies of a patient’s completed test reports that, using the laboratory’s authentication process, can be identified as belonging to that patient. These changes to the CLIA regulations and the HIPAA Privacy Rule are intended to provide individuals with a greater ability to access their health information. CLIA laboratories must create and maintain policies, procedures, and other documentation necessary to inform patients of the right to access laboratory test reports and how to exercise that right.
+ 
+Physician Referral Prohibitions
+ 
+Under a federal law directed at “self-referral,” commonly known as the Stark Law, there are prohibitions, with certain exceptions, on Medicare and Medicaid payments for laboratory tests referred by physicians who personally, or through a family member, have a “financial relationship”—including an investment or ownership interest or a compensation arrangement—with the clinical laboratory performing the tests. Several Stark Law exceptions are relevant to arrangements involving clinical laboratories, including: (1) fair market value compensation for the provision of items or services; (2) payments by physicians to a laboratory for clinical laboratory services; (3) certain space and equipment rental arrangements that satisfy certain requirements, and (4) personal services arrangements that satisfy certain requirements. The laboratory cannot submit claims to the Medicare Part B program for services furnished in violation of the Stark Law, and Medicaid reimbursements may be at risk as well. Penalties for violating the Stark Law include the return of funds received for all prohibited referrals, fines, civil monetary penalties and possible exclusion from the federal health care programs. Many states have comparable laws that are not limited to Medicare and Medicaid referrals.
+
+22
+--
+
+Corporate Practice of Medicine
+ 
+A number of states, including California, do not allow business corporations to employ physicians to provide professional services. This prohibition against the “corporate practice of medicine” is aimed at preventing corporations such as us from exercising control over the medical judgments or decisions of physicians. The state licensure statutes and regulations and agency and court decisions that enumerate the specific corporate practice rules vary considerably from state to state and are enforced by both the courts and regulatory authorities, each with broad discretion. If regulatory authorities or other parties in any jurisdiction successfully assert that we are engaged in the unauthorized corporate practice of medicine, we could be required to restructure our contractual and other arrangements. In addition, violation of these laws may result in sanctions imposed against us and/or the professional through licensure proceedings, and we could be subject to civil and criminal penalties that could result in exclusion from state and federal health care programs.
+Federal and State Fraud and Abuse Laws
+ 
+A variety of federal and state laws prohibit fraud and abuse. These laws are interpreted broadly and enforced aggressively by various state and federal agencies, including CMS, the Department of Justice, the Office of Inspector General for HHS, and various state agencies. In addition, the Medicare and Medicaid programs increasingly use a variety of contractors to review claims data and to identify improper payments as well as fraud and abuse. These contractors include Recovery Audit Contractors, Medicaid Integrity Contractors and Zone Program Integrity Contractors. In addition, CMS conducts Comprehensive Error Rate Testing audits, the purpose of which is to detect improper Medicare payments. Any overpayments identified must be repaid unless a favorable decision is obtained on appeal. In some cases, these overpayments can be used as the basis for an extrapolation, by which the error rate is applied to a larger universe of claims, and which can result in even higher repayments.
+ 
+The federal Anti-Kickback Statute prohibits, among other things, knowingly and willfully offering, paying, soliciting, receiving, or providing remuneration, directly or indirectly, to induce or in return for either the referral of an individual, or the furnishing, recommending, or arranging for the purchase, lease or order of any health care item or service reimbursable, in whole or in part, under a federal health care program. The definition of “remuneration” has been broadly interpreted to include anything of value, including gifts, discounts, credit arrangements, payments of cash, ownership interests and providing anything at less than its fair market value. Recognizing that the Anti- Kickback Statute is broad and may technically prohibit many innocuous or beneficial arrangements within the health care industry, the Office of Inspector General for HHS has issued a series of regulatory “safe harbors.” These safe harbor regulations set forth certain requirements that, if met, will assure immunity from prosecution under the federal Anti-Kickback Statute. Although full compliance with these provisions ensures against prosecution under the federal Anti-Kickback Statute, the failure of a transaction or arrangement to fit within a specific safe harbor does not necessarily mean that the transaction or arrangement is illegal or that prosecution under the federal Anti-Kickback Statute will be pursued.
+ 
+HIPAA also created new federal crimes, including health care fraud and false statements relating to health care matters. The health care fraud statute prohibits knowingly and willfully executing a scheme to defraud any health care benefit program, including private third-party payers. A violation of this statute is a felony and may result in fines, imprisonment or exclusion from federal health care programs, such as the Medicare and Medicaid programs. The false statements statute prohibits knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for health care benefits, items or services. A violation of this statute is a felony and may result in fines, imprisonment or exclusion from federal health care programs.
+ 
+Many states have laws similar to the federal laws described above, and state laws may be broader in scope and may apply regardless of payer.
+ 
+Additionally, the U.S. Foreign Corrupt Practices Act (“FCPA”) prohibits U.S. corporations and their representatives from offering, promising, authorizing or making payments to any foreign government official, government staff member, political party or political candidate in an attempt to obtain or retain business abroad. The scope of the FCPA includes interactions with certain healthcare professionals in many countries. Other countries have enacted similar anti-corruption laws and/or regulations.
+ 
+Other Regulatory Requirements
+ 
+Our laboratory will be subject to federal, state and local regulations relating to the handling and disposal of regulated medical waste, hazardous waste and biohazardous waste, including chemical, biological agents and compounds, blood samples and other human tissue. Typically, we will use outside vendors who are contractually obligated to comply with applicable laws and regulations to dispose of such waste. These vendors will be licensed or otherwise qualified to handle and dispose of such waste.
+ 
+The Occupational Safety and Health Administration has established extensive requirements relating to workplace safety for health care employers, including requirements to develop and implement programs to protect workers from exposure to blood-borne pathogens by preventing or minimizing any exposure through needle stick or similar penetrating injuries.
+ 
+Employees
+As of December 31, 2018, we employed 12 persons on a full-time basis. Four of our full-time employees hold Ph.D. degrees in one or more fields of science.
+ 
+
+23
+--
+

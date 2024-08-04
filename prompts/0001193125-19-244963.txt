@@ -1,0 +1,519 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+ WVS Financial Corp. (WVS, the Company, us or we) is the parent holding company of West View Savings Bank (West View or the Savings Bank). The Company was organized in July 1993 as a Pennsylvania-chartered unitary bank holding company and acquired 100% of the common stock of the Savings Bank in November 1993. 
+ West View Savings Bank is a Pennsylvania-chartered, FDIC-insured stock savings bank conducting business from six offices in the North Hills suburbs of Pittsburgh. The Savings Bank converted from the mutual to the stock form of ownership in November 1993. The Savings Bank had no subsidiaries at June 30, 2019. 
+ Lending Activities 
+ General. At June 30, 2019, the Companys net portfolio of loans receivable totaled $90.6 million, as compared to $84.7 million at June 30, 2018. Net loans receivable comprised 25.5% of the Companys total assets at June 30, 2019, as compared to 24.0% at June 30, 2018. Net loans were 61.9% of the Companys deposits at June 30, 2019 as compared to 58.4% at June 30, 2018. The principal categories of loans in the Companys portfolio are single-family and multi-family residential real estate loans, commercial real estate loans, construction loans, consumer loans, land acquisition and development loans and commercial loans. Substantially all of the Companys mortgage loan portfolio consists of conventional mortgage loans, which are loans that are neither insured by the Federal Housing Administration (FHA) nor partially guaranteed by the Department of Veterans Affairs (VA). Historically, the Companys lending activities have been concentrated in single-family residential and land development and construction loans secured by properties located in its primary market area of northern Allegheny County, southern Butler County and eastern Beaver County, Pennsylvania. 
+ All of the Companys mortgage loans are secured by properties located in Pennsylvania. Moreover, substantially all of the Companys non-mortgage loan portfolio consists of loans made to residents and businesses located in the Companys primary market area. 
+ Federal regulations impose limitations on the aggregate amount of loans that a savings institution can make to any one borrower, including related entities. The permissible amount of loans-to-one borrower follows the national bank standard for all loans made by savings institutions, which generally does not permit loans-to-one borrower to exceed 15% of unimpaired capital and surplus. Loans in an amount equal to an additional 10% of unimpaired capital and surplus also may be made to a borrower if the loans are fully secured by readily marketable securities. At June 30, 2019, the Savings Banks limit on loans-to-one borrower was approximately $4.9 million. The Companys general policy has been to limit loans-to-one borrower, including related entities, to $2.0 million although this general limit may be exceeded based on the merit of a particular credit. At June 30, 2019, the Companys five largest loans or groups of loans-to-one borrower, including related entities, ranged from an aggregate of $1.5 million to $4.4 million. The $4.4 million group of loans-to-one borrower was secured by real estate located in the Companys primary market area and investments pledged by the borrower. Related outstanding disbursed principal balances on the Companys five largest loans or group of loans-to-one borrower, including related entities, ranged from an aggregate of $0.5 million to $4.4 million. The remainder of the groups of loans-to-one borrower are secured primarily by real estate located in the Companys primary market area. Included in this range are undisbursed loan proceeds (i.e. loans in process) ranging from $0 to $1.0 million. 
+ 
+3 
+
+
+ Loan Portfolio Composition. The following table sets forth the composition of the Companys net loans receivable portfolio by type of loan at the dates indicated. 
+ 
+
+ | At June 30, | 
+ | 2019 | | | 2018 | | 2017 | | 2016 | | 2015 | 
+ | Amount | | | % | | Amount | | % | | Amount | | | % | | | Amount | % | | Amount | | | %
+ | (Dollars in Thousands) | 
+Real estate loans: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Single-family | $ | 76,789 | | | 84.73 | % | $ | 72,237 | | | 85.31 | % | | $ | 65,153 | | 84.13 | % | $ | 49,411 | | | 76.34 | % | $ | 28,620 | | 61.76 | %
+Multi-family | | 3,123 | | | 3.44 | | | 3,390 | | | 4.00 | | | | 3,653 | | 4.71 | | | 3,961 | | | 6.12 | | | 6,084 | | 13.13 | 
+Commercial | | 3,727 | | | 4.11 | | | 3,482 | | | 4.11 | | | | 2,033 | | 2.63 | | | 1,592 | | | 2.46 | | | 3,395 | | 7.33 | 
+Construction | | 2,907 | | | 3.21 | | | 1,769 | | | 2.09 | | | | 1,866 | | 2.41 | | | 4,783 | | | 7.39 | | | 3,032 | | 6.54 | 
+Land acquisition and development | | 694 | | | 0.77 | | |  | | |  | | | | 462 | | 0.60 | | | 666 | | | 1.03 | | | 653 | | 1.41 | 
+Total real estate loans | | 87,240 | | | 96.26 | | | 80,878 | | | 95.51 | | | | 73,167 | | 94.48 | | | 60,413 | | | 93.34 | | | 41,784 | | 90.17 | 
+Consumer loans: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Home equity | | 2,859 | | | 3.15 | | | 3,038 | | | 3.59 | | | | 3,292 | | 4.25 | | | 2,702 | | | 4.18 | | | 3,092 | | 6.67 | 
+Other | | 112 | | | 0.13 | | | 125 | | | 0.15 | | | | 139 | | 0.18 | | | 150 | | | 0.23 | | | 211 | | 0.46 | 
+Total consumer loans | | 2,971 | | | 3.28 | | | 3,163 | | | 3.74 | | | | 3,431 | | 4.43 | | | 2,852 | | | 4.41 | | | 3,303 | | 7.13 | 
+Commercial loans | | 418 | | | 0.46 | | | 633 | | | 0.75 | | | | 841 | | 1.09 | | | 1,456 | | | 2.25 | | | 1,251 | | 2.70 | 
+Obligations (other than securities and leases) of states and political subdivisions | |  | | |  | | |  | | |  | | | |  | |  | | |  | | |  | | |  | |  | 
+ | | 90,629 | | | 100.00 | % | | 84,674 | | | 100.00 | % | | | 77,439 | | 100.00 | % | | 64,721 | | | 100.00 | % | | 46,338 | | 100.00 | %
+Less: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Net deferred loan origination costs (fees) | | 507 | | | | | | 469 | | | | | | | 434 | | | | | 312 | | | | | | 129 | | | 
+Allowance for loan losses | | (548 | ) | | | | | (468 | ) | | | | | | (418 | ) | | | | (360 | ) | | | | | (304 | ) | | 
+Net loans receivable | $ | 90,588 | | | | | $ | 84,675 | | | | | | $ | 77,455 | | | | $ | 64,673 | | | | | $ | 46,163 | | | 
+
+ Contractual Maturities. The following table sets forth the scheduled contractual maturities of the Companys loans and mortgage-backed securities at June 30, 2019. The amounts shown for each period do not take into account loan prepayments and normal amortization of the Companys loan portfolio. 
+
+ | Real Estate Loans | | | | | | | | | | | 
+ | Single-family | | Multi-family | | | Commercial | | Construction | Landacquisitionanddevelopment | | Consumerloans | | | Commercialloans | | Obligations(other thansecuritiesand leases)of states &politicalsubdivisions | Mortgage-backedsecurities | | Total | 
+ | (Dollars in Thousands) | 
+Amounts due in: | | | | | | | | | | | | | | | | | | | | | | | | | 
+One year or less | $ | 20 | | $ |  | | $ |  | $ | 1,287 | | $ |  | | $ | 1,676 | $ |  | | $ |  | $ |  | $ | 3,242 
+After one year through five years | | 1,618 | | | 65 | | | 382 | | 472 | | | 694 | | | 255 | | 16 | | |  | | 137 | | 1,650 
+After five years | | 75,151 | | | 3,058 | | | 3,345 | | 1,148 | | |  | | | 1,040 | | 402 | | |  | | 108,194 | | 195,639
+Total (1) | $ | 76,789 | | $ | 3,123 | | $ | 3,727 | $ | 2,907 | | $ | 694 | | $ | 2,971 | $ | 418 | | $ |  | $ | 108,331 | $ | 200,531
+Interest rate terms on amounts due after one year: | | | | | | | | | | | | | | | | | | | | | | | | | 
+Fixed | $ | 73,978 | | $ | 323 | | $ | 920 | $ | 1,148 | | $ | 694 | | $ | 928 | $ |  | | $ |  | $ |  | $ | 72,833 
+Adjustable | | 2,791 | | | 2,800 | | | 2,807 | | 472 | | |  | | | 367 | | 402 | | |  | | 108,331 | | 124,356
+Total | $ | 76,769 | | $ | 3,123 | | $ | 3,727 | $ | 1,620 | | $ | 694 | | $ | 1,295 | $ | 402 | | $ |  | $ | 108,331 | $ | 197,189
+
+
+(1) | Does not include adjustments relating to the allowance for loan losses, accrued interest, deferred fee income or expense, and unearned discounts.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4 
+
+
+ Scheduled contractual principal repayments do not reflect the actual maturities of loans. The average maturity of loans is substantially less than their average contractual terms because of prepayments and due-on-sale clauses. The average life of mortgage loans tends to increase when current mortgage loan rates are substantially higher than rates on existing mortgage loans and, conversely, decrease when rates on existing mortgages are substantially higher than current mortgage loan rates (due to refinancings of adjustable-rate and fixed-rate loans at lower rates). 
+ The Company has from time to time renewed commercial real estate loans and speculative construction (single-family) loans due to slower than expected sales of the underlying collateral. Commercial real estate loans are generally renewed at a contract rate that is the greater of the market rate at the time of the renewal or the original contract rate. Loans secured by speculative single-family construction or developed lots are generally renewed for an additional twelve month term with monthly payments of interest. Subsequent renewals, if necessary, are generally granted for an additional twelve month term; principal amortization is required. Land acquisition and development loans are generally renewed for an additional twelve month term with monthly payments of interest. 
+ At June 30, 2019, the Company had no construction loans that have been rolled over. 
+ Origination, Purchase and Sale of Loans. Applications for residential real estate loans and consumer loans are accepted at all of the Companys offices. Applications for commercial real estate loans are taken only at the Companys Franklin Park office. Loan applications are primarily attributable to existing customers, builders, walk-in customers and referrals from both real estate loan brokers and existing customers. 
+ All processing and underwriting of real estate and commercial business loans is performed solely at the Companys loan division at the Franklin Park office. The Company believes this centralized approach to approving such loan applications allows it to process and approve such applications faster and with greater efficiency. The Company also believes that this approach increases its ability to service the loans. The Savings Banks Director of Retail Lending and the Savings Banks President have lending authorities ranging from $5 thousand (unsecured loans) to $300 thousand (loans secured by first mortgage liens). With the approval of the Savings Banks President, the joint lending authorities range from $25 thousand (unsecured), $500 thousand (loans secured by non-real estate collateral), $1.5 million (first mortgages), $750 thousand (second mortgages) and $2 million on commercial and secured builder lines of credit. All loan applications are required to be ratified by the Companys Loan Committee, comprised of both outside directors and management, which meets at least monthly. 
+ Historically, the Company originated substantially all of the loans retained in its portfolio. Substantially all of the residential real estate loans originated by the Company have been under terms, conditions and documentation which permit their sale to the Fannie Mae and other investors in the secondary market. The Company has held most of the loans it originates in its own portfolio until maturity, due, in part, to competitive pricing conditions in the marketplace for origination by nationwide lenders and portfolio lenders. The Company has not originated sub-prime, no documentation or limited documentation loans. 
+ The Company has been more aggressive in purchasing single-family loans to augment its own originations of such loans. All of the loans purchased were single-family whole loans in its primary market area or the greater Pittsburgh Metropolitan Statistical Area (MSA). All purchased loans meet or exceed the Companys underwriting criteria. 
+ The Company requires that all purchased loans be underwritten in accordance with its underwriting guidelines and standards. The Company reviews loans, particularly scrutinizing the borrowers ability to repay the obligation, the appraised value and the loan-to-value ratio. The Company services substantially all of its purchased loans. Loan participations purchased or sold by the Company may be serviced by either the Company or the seller as mutually agreed on a deal by deal basis. At June 30, 2019, $154 thousand or 0.2% of the Companys net loans receivable were being serviced for the Company by others. 
+ 
+5 
+
+
+ The following table shows origination, purchase and sale activity of the Company with respect to loans on a consolidated basis during the periods indicated. 
+ 
+
+ | At or For the Year Ended June 30, | 
+ | 2019 | | | 2018 | | | 2017
+ | (Dollars in Thousands) | 
+Net loans receivable beginning balance | $ | 84,675 | | | $ | 77,455 | | $ | 64,673 | 
+Real estate loan originations | | | | | | | | | | 
+Single-family (1) | | 2,474 | | | | 2,960 | | | 5,022 | 
+Multi-family | |  | | | |  | | |  | 
+Commercial | | 788 | | | | 1,625 | | | 870 | 
+Construction | | 2,158 | | | | 1,300 | | | 2,521 | 
+Land acquisition and development | | 694 | | | |  | | | 726 | 
+Total real estate loan originations | | 6,114 | | | | 5,885 | | | 9,139 | 
+Home equity | | 490 | | | | 369 | | | 661 | 
+Other | | 7 | | | | 4 | | |  | 
+Total loan originations | | 6,611 | | | | 6,258 | | | 9,800 | 
+Disbursements against available credit lines: | | | | | | | | | | 
+Home equity | | 816 | | | | 1,296 | | | 1,376 | 
+Commercial | |  | | | |  | | |  | 
+Total originations | | 7,427 | | | | 7,554 | | | 11,176 | 
+Real estate loan purchases | | | | | | | | | | 
+Single-family (2) | | 11,497 | | | | 11,127 | | | 13,692 | 
+Less: | | | | | | | | | | 
+Loan principal repayments | | 11,161 | | | | 12,100 | | | 12,860 | 
+Transferred to real estate owned | |  | | | |  | | |  | 
+Change in loans in process | | 1,891 | | | | (623 | ) | | (710 | )
+Other, net (3) | | (41 | ) | | | (16 | ) | | (64 | )
+Net increase | | 5,913 | | | | 7,220 | | | 12,782 | 
+Net loans receivable ending balance | $ | 90,588 | | | $ | 84,675 | | $ | 77,455 | 
+
+
+(1) | Consists of loans secured by one-to-four family properties and single-family construction loans.
+----+-------------------------------------------------------------------------------------------------
+
+
+(2) | Substantially all loans purchased were within the Savings Banks primary market area or the greater Pittsburgh MSA.
+----+--------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Includes reductions for net deferred loan origination fees and the allowance for loan losses.
+----+----------------------------------------------------------------------------------------------
+
+ 
+6 
+
+
+ Real Estate Lending Standards. All financial institutions are required to adopt and maintain comprehensive written real estate lending policies that are consistent with safe and sound banking practices. These lending policies must reflect consideration of the Interagency Guidelines for Real Estate Lending Policies (Guidelines) adopted by the federal banking agencies in December 1992. The Guidelines set forth uniform regulations prescribing standards for real estate lending. Real estate lending is defined as an extension of credit secured by liens on interests in real estate or made for the purpose of financing the construction of a building or other improvements to real estate, regardless of whether a lien has been taken on the property. 
+ The policies must address certain lending considerations set forth in the Guidelines, including loan-to-value (LTV) limits, loan administration procedures, underwriting standards, portfolio diversification standards, and documentation, approval and reporting requirements. These policies must also be appropriate to the size of the institution and the nature and scope of its operations, and must be reviewed and approved by the Board of Directors at least annually. The LTV ratio framework, with an LTV ratio being the total amount of credit to be extended divided by the appraised value of the property at the time the credit is originated, must be established for each category of real estate loans. If not a first lien, the lender must combine all senior liens when calculating this ratio. The Guidelines, among other things, establish the following supervisory LTV limits: raw land (65%); land development (75%); construction (commercial, multi-family and non-residential) (80%); improved property (85%); and one-to-four family residential (owner-occupied) (no maximum ratio; however any LTV ratio in excess of 90% should require appropriate mortgage insurance or readily marketable collateral). Consistent with its conservative lending philosophy, the Companys LTV limits are generally more restrictive than those in the Guidelines: raw land (60%); land development (70%); construction (commercial - 75%; multi-family - 75%; speculative residential - 75%); 1  2 family residential properties (80%); multi-family residential (75%); and commercial real estate (75%). 
+ Single-Family Residential Real Estate Loans. Historically, savings institutions such as the Company have concentrated their lending activities on the origination of loans secured primarily by first mortgage liens on existing single-family residences. At June 30, 2019, $76.8 million or 84.7% of the Companys total loan portfolio consisted of single-family residential real estate loans, substantially all of which are conventional loans. The increase of $4.6 million in single-family residential real estate loans during fiscal 2019 was primarily the result of originations and loan purchases in excess of pay downs on single-family residential real estate loans. During fiscal 2015, the Company began to purchase single-family loans to augment its own originations. Single-family loan purchases totaled $11.5 million in fiscal 2019, and $11.1 million in fiscal 2018. Substantially all of the loans purchased were in the greater Pittsburgh MSA. Single-family loan originations totaled $2.5 million and decreased $486 thousand or 16.4% during the fiscal year ended June 30, 2019, when compared to fiscal 2018. The Company continued to actively originate single-family loans in order to make single-family loans available to the public and in order to generate interest income. All single-family loans originated were maintained on the Companys balance sheet. The Company continued to offer shorter duration consumer, home equity, construction loans, land acquisition and development loans and commercial loans. 
+ The Company historically has originated fixed-rate loans with terms of up to 30 years. Although such loans are originated with the expectation that they will be maintained in the portfolio, these loans are originated generally under terms, conditions and documentation that permit their sale in the secondary market. The Company also makes available single-family residential adjustable-rate mortgages (ARMs), which provide for periodic adjustments to the interest rate, but such loans have never been as widely accepted in the Companys market area as the fixed-rate mortgage loan products. The ARMs currently offered by the Company have up to 30-year terms and an interest rate, which adjusts in accordance with one of several indices. 
+ At June 30, 2019, approximately $74.0 million or 96.3% of the single-family residential loans in the Companys loan portfolio consisted of loans with fixed rates of interest. Although these loans generally provide for repayments of principal over a fixed period of 15 to 30 years, it is the Companys experience that because of prepayments and due-on-sale clauses, such loans generally remain outstanding for a substantially shorter period of time. 
+ 
+7 
+
+
+ The Company is permitted to lend up to 100% of the appraised value of real property securing a residential loan; however, if the amount of a residential loan originated or refinanced exceeds 90% of the appraised value, the Company is required by state banking regulations to obtain private mortgage insurance on the portion of the principal amount that exceeds 75% of the appraised value of the security property. Prior to the global financial crisis experienced during fiscal 2009 and continuing throughout fiscal 2014, and pursuant to underwriting guidelines adopted by the Board of Directors, private mortgage insurance (PMI) was obtained on residential loans for which loan-to-value ratios exceed 80% according to the following schedule: loans exceeding 80% but less than 90% - 25% coverage; loans exceeding 90% but less than 95% - 30% coverage; and loans at 95% through 100% - 35% coverage. Since the beginning of the global financial crisis of fiscal 2009, the major PMI companies were downgraded by the rating agencies with respect to financial capacity and claims payment ability. Accordingly, the Board of Directors amended the Companys underwriting guidelines to preclude the use of PMI until the PMI companies regained their financial footing. Effective July 1, 2014, the Board of Directors amended the Companys underwriting guidelines to permit the use of PMI. Generally the Company does not make loans in excess of 95% of the appraised value of real property even with PMI. No loans are made in excess of 80% of appraised value without PMI. 
+ Property appraisals on the real estate and improvements securing the Companys single-family residential loans are made by independent appraisers approved by the Board of Directors. Appraisals are performed in accordance with federal regulations and policies. The Company obtains title insurance policies on most of the first mortgage real estate loans originated. If title insurance is not obtained or is unavailable, the Company obtains an abstract of title and a title opinion. Borrowers also must obtain hazard insurance prior to closing and, when required by the United States Department of Housing and Urban Development, flood insurance. Borrowers may be required to advance funds, with each monthly payment of principal and interest, to a loan escrow account from which the Company makes disbursements for items such as real estate taxes, homeowners and mortgage insurance premiums as they become due. 
+ Multi-Family Residential and Commercial Real Estate Loans. The Company originates mortgage loans for the acquisition and refinancing of existing multi-family residential and commercial real estate properties. At June 30, 2019, $3.1 million or 3.4% of the Companys total loan portfolio consisted of loans secured by existing multi-family residential real estate properties, which represented a decrease of $267 thousand or 7.9% from June 30, 2018. The decrease in multi-family loans during fiscal 2019 was attributable to principal repayments. 
+ At June 30, 2019, $3.7 million or 4.1% of the Companys loan portfolio consisted of loans secured by existing commercial real estate properties, which represented an increase of $245 thousand or 7.0% from June 30, 2018. The increase in commercial real estate loans during fiscal 2019 was attributable to loan originations. The Company has not emphasized commercial real estate lending due to the substantial growth in its lower risk single-family owner occupied loan portfolio. However, the Company will make commercial real estate loans to existing, or seasoned new, customers. 
+ The majority of the Companys multi-family residential loans are secured primarily by 5 to 20 unit apartment buildings, while commercial real estate loans are secured by office buildings and small retail establishments. These types of properties constitute the majority of the Companys commercial real estate loan portfolio. The Companys multi-family residential and commercial real estate loan portfolio consists primarily of loans secured by properties located in its primary market area. 
+ Although terms vary, multi-family residential and commercial real estate loans generally are amortized over a period of up to 15 years (although some loans amortize over a 20 year period) and mature in 5 to 15 years. The Company will originate these loans either with fixed or adjustable interest rates which generally is negotiated at the time of origination. Loan-to-value ratios on the Companys commercial real estate loans are currently limited to 75% or lower. As part of the criteria for underwriting multi-family residential and commercial real estate loans, the Company generally imposes a debt coverage ratio (the ratio of net cash from operations before payment of the debt service to debt service) of at least 125%. If the borrower has insufficient stand-alone financial capacity, the Savings Bank will either obtain personal guarantees on its multi-family residential and commercial real estate loans from the principals of the borrower and, if these cannot be obtained, to impose more stringent loan-to-value, debt service and other underwriting requirements. 
+ Construction Loans. The Company may from time to time engage in the origination of loans to construct primarily single-family residences, and, to a much lesser extent, loans to acquire and develop real estate for construction of residential properties. These construction lending activities generally are limited to the Companys primary market area. At June 30, 2019, construction loans amounted to approximately $2.9 million or 3.2% of the Companys total loan portfolio, which represented an increase of $1.1 million or 64.3% from June 30, 2019. The increase was principally due to higher volumes of owner occupied construction permanent loans in the Companys primary market area. Generally it takes about nine to eighteen months to complete the construction cycle and to convert from a construction to a permanent loan. As of June 30, 2019, the Companys portfolio of construction loans consisted primarily of loans for the construction of single-family residential real estate. There were $2.2 million of construction loan originations during the fiscal year ended June 30, 2019, as compared to $1.3 million in construction loan originations in fiscal 2018. Purchases of single family construction loans totaled $3.8 million in fiscal 2019, and $500 thousand in fiscal 2018. Substantially all of the loans purchased were in the greater Pittsburgh area. Management continues to monitor housing starts both locally and nationally. 
+ 
+8 
+
+
+ Upon application, credit review and analysis of personal and corporate financial statements, the Company may grant local builders lines of credit up to designated amounts. These credit lines may be used for the purpose of construction of speculative residential properties. In some instances, lines of credit will also be granted for purposes of acquiring finished residential lots and developing speculative residential properties thereon. Such lines generally have not exceeded $1.0 million. As of June 30, 2019, there were no lines of credit granted to builders. Once approved for a construction line, a builder or developer must still submit plans and specifications and receive the Companys authorization, including an appraisal of the collateral satisfactory to the Company, in order to begin utilizing the line for a particular project. As of June 30, 2019, the Company had $694 thousand of land development loans. 
+ Speculative construction loans generally have maturities of 18 months with payments being made monthly on an interest-only basis. Thereafter, the permanent financing arrangements will generally provide for either an adjustable or fixed interest rate, consistent with the Companys policies with respect to residential and commercial real estate financing. 
+ The Company intends to maintain its involvement in construction lending within its primary market area. Such loans afford the Company the opportunity to increase the interest rate sensitivity of its loan portfolio. Commercial real estate and construction lending is generally considered to involve a higher level of risk as compared to single-family residential lending, due to the concentration of principal in a limited number of loans and borrowers and the effects of general economic conditions on real estate developers and managers. Moreover, a construction loan can involve additional risks because of the inherent difficulty in estimating both a propertys value at completion of the project and the estimated cost (including interest) of the project. The nature of these loans is such that they are generally more difficult to evaluate and monitor. In addition, speculative construction loans to a builder are not necessarily pre-sold and thus pose a greater potential risk to the Company than construction loans to individuals on their personal residences. Depending upon local real estate market conditions, the Company may begin to apply more stringent underwriting criteria on new construction loans and renewals. Specifically, the Company may reduce its overall portfolio of construction loans through alteration, reduce loan to value ratios to below 75%, or require a higher credit profile of guarantors. 
+ The Company has attempted to minimize the foregoing risks by, among other things, limiting the extent of its commercial real estate lending generally and by limiting its construction lending to primarily residential properties. In addition, the Company has adopted underwriting guidelines which impose stringent loan-to-value, debt service and other requirements for loans which are believed to involve higher elements of credit risk, by generally limiting the geographic area in which the Company will do business to its primary market area and by working with builders with whom it has established relationships. 
+ Consumer Loans. The Company offers consumer loans, although such lending activity has not historically been a large part of its business. At June 30, 2019, $3.0 million or 3.3% of the Companys total loan portfolio consisted of consumer loans, which represented a decrease of $192 thousand or 6.1% from June 30, 2018. The decrease was primarily attributable to repayments on such loans in excess of originations. The consumer loans offered by the Company include home equity loans, home equity lines of credit, loans secured by deposit accounts, personal loans, and education loans. Approximately 96.2% of the Companys consumer loans are secured by real estate and are primarily obtained through existing and walk-in customers. 
+ The Company will originate either a fixed-rate, fixed term home equity loan, or a home equity line of credit with a variable rate. At June 30, 2019, approximately 31.7% of the Companys home equity loans were at a fixed rate for a fixed term. Although there have been a few exceptions with greater loan-to-value ratios, substantially all of such loans are originated with a loan-to-value ratio which, when coupled with the outstanding first mortgage loan, does not exceed 80%. 
+ Commercial Loans. At June 30, 2019, $418 thousand or 0.5% of the Companys total loan portfolio consisted of commercial loans, which include loans secured by accounts receivable, marketable investment securities, business inventory and equipment, and similar collateral, a decrease of $215 thousand from $633 thousand of commercial loans at June 30, 2018. The decrease during fiscal 2019 was principally due to principal repayments. The Company may continue to selectively develop this line of business in order to increase interest income and to attract compensating deposit account balances. 
+ 
+9 
+
+
+ Loan Fee Income. In addition to interest earned on loans, the Company may receive income from fees in connection with loan originations, loan modifications, late payments, prepayments and for miscellaneous services related to its loans. Income from these activities varies from period to period with the volume and type of loans made and competitive conditions. 
+ The Companys loan origination fees are generally calculated as a percentage of the amount borrowed. Loan origination and commitment fees and all incremental direct loan origination costs are deferred and recognized over the contractual remaining lives of the related loans on a level yield basis. Discounts and premiums on loans purchased are accreted and amortized in the same manner. In accordance with ASC Topic 310, the Company has recognized $(60) thousand, $(64) thousand and $(47) thousand of deferred loan fees (costs) during fiscal 2019, 2018 and 2017, respectively, in connection with loan refinancings, payoffs and ongoing amortization of outstanding loans. Loans previously originated with lower or no loan origination fees will reduce the recognition of associated deferred fee balances while loans originated with higher loan origination fees will increase the recognition of associated deferred fee balances. The Company pays premiums on loans purchased. Purchase premiums are amortized to expense over the life of the loan. 
+ Non-Performing Loans, Real Estate Owned, Troubled Debt Restructurings and Potential Problem Loans. When a borrower fails to make a required payment on a loan, the Company attempts to cure the deficiency by contacting the borrower and seeking payment. Contacts are generally made on the fifteenth day after a payment is due. In most cases, deficiencies are cured promptly. If a delinquency extends beyond 15 days, the loan and payment history is reviewed and efforts are made to collect the loan. While the Company generally prefers to work with borrowers to resolve such problems, when the account becomes 90 days delinquent, the Company may institute foreclosure or other proceedings, as necessary, to minimize any potential loss. 
+ Loans are placed on non-accrual status when, in the judgment of management, the probability of collection of interest is deemed to be insufficient to warrant further accrual. When a loan is placed on non-accrual status, previously accrued but unpaid interest is deducted from interest income. The Company normally does not accrue interest on loans past due 90 days or more. The Company may continue to accrue interest if, in the opinion of management, it believes it will collect principal and interest in full on the loan. 
+ Real estate acquired by the Company as a result of foreclosure or by deed-in-lieu of foreclosure is classified as real estate owned until it is sold. When property is acquired, it is recorded at the lower of cost or fair value at the date of acquisition. Any subsequent write-down, if necessary, is charged to the allowance for losses on real estate owned. All costs incurred in maintaining the Companys interest in the property are capitalized between the date the loan becomes delinquent and the date of acquisition. After the date of acquisition, all costs incurred in maintaining the property are expensed and costs incurred for the improvement or development of such property are capitalized. 
+ Potential problem loans are loans where management has some doubt as to the ability of the borrower to comply with present loan repayment terms. 
+ 
+10 
+
+
+ The following table sets forth the amounts and categories of the Companys non-performing assets, troubled debt restructurings and potential problem loans at the dates indicated. 
+ 
+
+ | At June 30, | 
+ | 2019 | | | 2018 | | | 2017 | | 2016 | | 2015 | 
+ | (Dollars in Thousands) | 
+Non-accruing loans: | | | | | | | | | | | | | | | | 
+Real estate: | | | | | | | | | | | | | | | | 
+Single-family | $ | 225 | | | $ | 235 | | $ | 246 | | $ | 254 | | $ | 260 | 
+Commercial | |  | | | |  | | |  | | |  | | | 49 | 
+Multi-family | |  | | | |  | | |  | | |  | | |  | 
+Construction | |  | | | |  | | |  | | |  | | |  | 
+Land Acquisition and Development | |  | | | |  | | |  | | |  | | |  | 
+Consumer | |  | | | |  | | |  | | |  | | |  | 
+Commercial loans and leases | |  | | | |  | | |  | | |  | | |  | 
+Total non-accrual loans | | 225 | | | | 235 | | | 246 | | | 254 | | | 309 | 
+Accruing loans greater than 90 days delinquent | |  | | | |  | | |  | | |  | | |  | 
+Total non-performing loans | $ | 225 | | | $ | 235 | | $ | 246 | | $ | 254 | | $ | 309 | 
+Real estate owned | |  | | | |  | | |  | | |  | | |  | 
+Total non-performing assets | $ | 225 | | | $ | 235 | | $ | 246 | | $ | 254 | | $ | 309 | 
+Troubled debt restructurings | $ |  | | | $ |  | | $ |  | | $ |  | | $ | 49 | 
+Potential problem loans | $ |  | | | $ |  | | $ |  | | $ |  | | $ |  | 
+Total non-performing loans and potential problem loans and troubled debt restructurings as a percentage of net loans receivable | | 0.25 | % | | | 0.28 | % | | 0.32 | % | | 0.39 | % | | 0.67 | %
+Total non-performing assets to total assets | | 0.06 | % | | | 0.07 | % | | 0.07 | % | | 0.08 | % | | 0.09 | %
+Total non-performing assets, troubled debt restructurings and potential problem loans as a percentage of total assets | | 0.06 | % | | | 0.07 | % | | 0.07 | % | | 0.08 | % | | 0.09 | %
+
+ The $10 thousand decrease in non-performing assets during the twelve months ended June 30, 2019 was primarily attributable to the repayment of principal on the Companys one single-family residential non-accrual loan. 
+ The Company had one non-accrual single-family real estate loan totaling approximately $225 thousand at June 30, 2019. The loan is collateral dependent and in various stages of collection. 
+ At June 30, 2019 and 2018, the Company had no loans that it considered to be impaired. 
+ During fiscal 2019, 2018 and 2017, approximately $15 thousand, $15 thousand and $15 thousand, respectively, of interest would have been recorded on loans accounted for on a non-accrual basis and troubled debt restructurings if such loans had been current according to the original loan agreements for the entire period. These amounts were not included in the Companys interest income for the respective periods. The amount of interest income on loans accounted for on a non-accrual basis that was included in income during the same periods amounted to approximately $15 thousand, $21 thousand and $17 thousand, respectively. 
+ Allowances for Loan Losses. The allowance for loan losses (ALLL) is established through provisions for loan losses charged against income. Loans deemed to be uncollectible are charged against the allowance account. Subsequent recoveries, if any, are credited to the allowance. The allowance is maintained at a level believed adequate by management to absorb estimated potential loan losses. Managements determination of the adequacy of the allowance is based on periodic evaluations of the loan portfolio considering past experience, current economic conditions, composition of the loan portfolio and other relevant factors. This evaluation is inherently subjective, as it requires material estimates that may be susceptible to significant change. 
+ 
+11 
+
+
+ The FDICs Revised Interagency Policy Statement on the Allowance for Loan and Lease Losses provides that an institution must maintain an ALLL at a level that is appropriate to cover estimated credit losses on individually evaluated loans determined to be impaired, as well as estimated credit losses inherent in the remainder of the loan and lease portfolio, and is consistent with generally accepted accounting principles (GAAP). The revised policy statement updates the previous guidance that describes the responsibilities of the board of directors, management, and bank examiners regarding the ALLL, factors to be considered in the estimation of the ALLL, and the objectives and elements of an effective loan review system. 
+ Federal regulations require that each insured savings institution classify its assets on a regular basis. In addition, in connection with examinations of insured institutions, federal examiners have authority to identify problem assets and, if appropriate, classify them. There are three classifications for problem assets: substandard, doubtful and loss. Substandard assets have one or more defined weaknesses and are characterized by the distinct possibility that the insured institution will sustain some loss if the deficiencies are not corrected. Doubtful assets have the weaknesses of those classified as substandard with the added characteristic that the weaknesses make collection or liquidation in full on the basis of currently existing facts, conditions and values questionable, and there is a high possibility of loss. An asset classified as loss is considered uncollectible and of such little value that continuance as an asset of the institution is not warranted. Another category designated asset watch is also utilized by the Savings Bank for assets which do not currently expose an insured institution to a sufficient degree of risk to warrant classification as substandard, doubtful or loss. Assets classified as substandard or doubtful require the institution to establish general allowances for loan losses. If an asset or portion thereof is classified as loss, the insured institution must either establish specific allowances for loan losses in the amount of 100% of the portion of the asset classified loss, or charge-off such amount. General loss allowances established to cover possible losses related to assets classified substandard or doubtful may be included in determining an institutions regulatory capital, while specific valuation allowances for loan losses do not qualify as regulatory capital. 
+ The Companys general policy is to internally classify its assets on a regular basis and establish prudent general valuation allowances that are adequate to absorb losses that have not been identified but that are inherent in the loan portfolio. The Company maintains general valuation allowances that it believes are adequate to absorb losses in its loan portfolio that are not clearly attributable to specific loans. The Companys general valuation allowances are within the following general ranges: (1) 0% to 5% of assets subject to special mention; (2) 5.00% to 100% of assets classified substandard; and (3) 50% to 100% of assets classified doubtful. Any loan classified as loss is charged-off. To further monitor and assess the risk characteristics of the loan portfolio, loan delinquencies are reviewed to consider any developing problem loans. Based upon the procedures in place, considering the Companys past charge-offs and recoveries, and assessing the current risk elements in the portfolio, management believes that the allowance for loan losses at June 30, 2019 is adequate. 
+ The allowance for loan losses at June 30, 2019 increased $80 thousand to $548 thousand, from $468 thousand at June 30, 2018. The increase in the allowance for loan losses was primarily attributable to increases in the following ALLL loan segments: 1-4 family - $49 thousand, construction - $22 thousand and land acquisition and development - $10 thousand, which were partially offset by modest decreases in other loan categories. Changes to the ALLL during the fiscal year ended June 30, 2019 in all segments were primarily dependent upon changes in the associated loan balances. During the fiscal year ended June 30, 2019, the Company also increased its ALLL reserve factors due to increases in associated loan balances and qualitative factors for the following loan segment: 1  4 family residential real estate loans. 
+ The Company believes that the loan loss reserve levels are prudent and warranted at this time due to the slowing rate of growth of the national economy. The changes in prior years reflected a number of factors, the most significant of which were the changes in the Companys level of performing loans, non-performing assets and the industry trend towards greater emphasis on the allowance method of providing for loan losses. 
+ 
+12 
+
+
+ 
+Loan Segment | 06/30/2019 Factor | 06/30/2018 Factor | 06/30/2017 Factor
+1-4 Family Permanent | 0.50% | 0.46% | 0.43% 
+1-4 Family Construction | 0.75% | 0.75% | 0.75% 
+Multi-Family - Permanent | 0.55% | 0.55% | 0.55% 
+Multi-Family - Construction | 1.00% | 1.00% | 1.00% 
+
+ The following table summarizes changes in the Companys allowance for loan losses and other selected statistics for the periods indicated. 
+ 
+
+ | At June 30, | 
+ | 2019 | | | 2018 | | | 2017 | | 2016 | | 2015 | 
+ | (Dollars in Thousands) | 
+Average net loans | $ | 87,256 | | | $ | 80,726 | | $ | 72,120 | | $ | 56,974 | | $ | 35,240 | 
+Allowance balance (at beginning of period) | $ | 468 | | | $ | 418 | | $ | 360 | | $ | 304 | | $ | 234 | 
+Provision for loan losses | | 80 | | | | 50 | | | 58 | | | 56 | | | 70 | 
+Charge-offs: | | | | | | | | | | | | | | | | 
+Real estate: | | | | | | | | | | | | | | | | 
+Single-family | |  | | | |  | | |  | | |  | | |  | 
+Multi-family | |  | | | |  | | |  | | |  | | |  | 
+Commercial | |  | | | |  | | |  | | |  | | |  | 
+Construction | |  | | | |  | | |  | | |  | | |  | 
+Land acquisition and development | |  | | | |  | | |  | | |  | | |  | 
+Consumer: | | | | | | | | | | | | | | | | 
+Home equity | |  | | | |  | | |  | | |  | | |  | 
+Education | |  | | | |  | | |  | | |  | | |  | 
+Other | |  | | | |  | | |  | | |  | | |  | 
+Commercial loans and leases | |  | | | |  | | |  | | |  | | |  | 
+Total charge-offs | |  | | | |  | | |  | | |  | | |  | 
+Recoveries: | | | | | | | | | | | | | | | | 
+Real estate: | | | | | | | | | | | | | | | | 
+Single-family | |  | | | |  | | |  | | |  | | |  | 
+Multi-family | |  | | | |  | | |  | | |  | | |  | 
+Commercial | |  | | | |  | | |  | | |  | | |  | 
+Construction | |  | | | |  | | |  | | |  | | |  | 
+Land acquisition and development | |  | | | |  | | |  | | |  | | |  | 
+Consumer: | | | | | | | | | | | | | | | | 
+Home equity | |  | | | |  | | |  | | |  | | |  | 
+Education | |  | | | |  | | |  | | |  | | |  | 
+Other | |  | | | |  | | |  | | |  | | |  | 
+Commercial loans and leases | |  | | | |  | | |  | | |  | | |  | 
+Total recoveries | |  | | | |  | | |  | | |  | | |  | 
+Net loans charged-off | |  | | | |  | | |  | | |  | | |  | 
+Allowance balance (at end of period) | $ | 548 | | | $ | 468 | | $ | 418 | | $ | 360 | | $ | 304 | 
+Allowance for loan losses as a percentage of total loans receivable | | 0.58 | % | | | 0.55 | % | | 0.54 | % | | 0.56 | % | | 0.65 | %
+Net loans charged-off (recovered) as a percentage of average net loans | | 0.00 | % | | | 0.00 | % | | 0.00 | % | | 0.00 | % | | 0.00 | %
+Allowance for loan losses to non-performing loans | | 243.56 | % | | | 199.15 | % | | 169.92 | % | | 141.73 | % | | 98.38 | %
+Net loans charged-off (recovered) to allowance for loan losses | | 0.00 | % | | | 0.00 | % | | 0.00 | % | | 0.00 | % | | 0.00 | %
+Recoveries to charge-offs | | 0.00 | % | | | 0.00 | % | | 0.00 | % | | 0.00 | % | | 0.00 | %
+
+ 
+13 
+
+
+ The following table presents the allocation of the allowances for loan losses by loan category at the dates indicated. 
+ 
+
+ | At June 30, | 
+ | 2019 | | 2018 | | 2017 | | 2016 | 2015 | 
+ | | | % ofTotalLoansby | | | | % ofTotalLoansby | | | | % ofTotalLoansby | | | | % ofTotalLoansby | | | | % ofTotalLoansby
+ | Amount | | Category | | Amount | | Category | Amount | | | Category | | | Amount | Category | | Amount | | Category 
+ | (Dollars in Thousands) | 
+Real estate loans: | | | | | | | | | | | | | | 
+Single-family | $ | 405 | | 84.73 | % | $ | 356 | | 85.31 | % | | $ | 305 | | 84.13 | % | $ | 222 | | 76.34 | % | $ | 125 | 61.76 | %
+Multi-family | | 17 | | 3.44 | | | 18 | | 4.00 | | | | 20 | | 4.71 | | | 22 | | 6.12 | | | 30 | 13.13 | 
+Commercial | | 37 | | 4.11 | | | 35 | | 4.11 | | | | 20 | | 2.63 | | | 16 | | 2.46 | | | 34 | 7.33 | 
+Construction | | 46 | | 3.21 | | | 24 | | 2.09 | | | | 30 | | 2.41 | | | 57 | | 7.39 | | | 63 | 6.54 | 
+Land acquisition and development | | 10 | | 0.77 | | |  | | 0.00 | | | | 5 | | 0.60 | | | 7 | | 1.03 | | | 9 | 1.41 | 
+Unallocated | |  | | 0.00 | | |  | | 0.00 | | | |  | | 0.00 | | |  | | 0.00 | | |  | 0.00 | 
+Total real estate loans | | 515 | | 96.26 | | | 433 | | 95.51 | | | | 380 | | 94.48 | | | 324 | | 93.34 | | | 261 | 90.17 | 
+Consumer loans: | | | | | | | | | | | | | | 
+Home equity | | 30 | | 3.15 | | | 31 | | 3.59 | | | | 34 | | 4.25 | | | 27 | | 4.18 | | | 34 | 6.67 | 
+Other | |  | | 0.13 | | |  | | 0.15 | | | |  | | 0.18 | | | 2 | | 0.23 | | | 3 | 0.46 | 
+Unallocated | |  | | 0.00 | | |  | | 0.00 | | | |  | | 0.00 | | |  | | 0.00 | | |  | 0.00 | 
+Total consumer loans | | 30 | | 3.28 | | | 31 | | 3.74 | | | | 34 | | 4.43 | | | 29 | | 4.41 | | | 37 | 7.13 | 
+Commercial loans: | | | | | | | | | | | | | | 
+Commercial loans | | 3 | | 0.46 | | | 4 | | 0.75 | | | | 4 | | 1.09 | | | 7 | | 2.25 | | | 6 | 2.70 | 
+Unallocated | |  | | 0.00 | | |  | | 0.00 | | | |  | | 0.00 | | |  | | 0.00 | | |  | 0.00 | 
+Total commercial loans | | 3 | | 0.46 | | | 4 | | 0.75 | | | | 4 | | 1.09 | | | 7 | | 2.25 | | | 6 | 2.70 | 
+Obligations (other than securities and leases) of states and political subdivisions | |  | |  | | |  | |  | | | |  | |  | | |  | |  | | |  |  | 
+ | $ | 548 | | 100.00 | % | $ | 468 | | 100.00 | % | | $ | 418 | | 100.00 | % | $ | 360 | | 100.00 | % | $ | 304 | 100.00 | %
+
+ In accordance with generally accepted accounting principles, the Company maintains a separate reserve for off-balance sheet items. At June 30, 2019, this reserve totaled $32 thousand. 
+ The allowance for loan losses is based on estimates, and actual losses will vary from current estimates. Management believes that the granularity of the homogenous pools and the related historical loss ratios and other qualitative factors, as well as the consistency in the application of assumptions, result in an ALLL that is representative of the risk found in the components of the portfolio at any given time. 
+ Management believes that the reserves it has established are adequate to cover potential losses in the Companys loan portfolio. However, future adjustments to these reserves may be necessary, and the Companys results of operations could be adversely affected if circumstances differ substantially from the assumptions used by management in making its determinations in this regard. 
+ 
+14 
+
+
+ Private-Label Collateralized Mortgage Obligations. The following table sets forth information with respect to the Companys private-label collateralized mortgage obligations (CMO) portfolio as of June 30, 2019. At the time of purchase, all of our private-label CMOs were rated in the highest investment category by at least two ratings agencies. 
+
+ | | At June 30, 2019 | 
+ | | Rating | | BookValue | | FairValue(1) | Life toDateImpairmentRecordedin Earnings
+Cusip # | Security Description | S&P | | Moodys | | Fitch | (in thousands) 
+126694CP1 | CWHL SER 21 A11 | | N/A | | Caa2 | | D | $ | 507 | $ | 498 | $ | 214
+126694KF4 | CWHL SER 24 A15 | | NR | | N/A | | D | | 289 | | 286 | | 146
+126694MP0 | CWHL SER 26 1A5 | | NR | | N/A | | D | | 87 | | 92 | | 38 
+ | | | | | | | | $ | 883 | $ | 876 | $ | 398
+
+ For a detailed discussion of the Companys mortgage-backed securities, including our private-label collateralized mortgage obligations, please see Managements Discussion and Analysis of Financial Condition and Results of Operations, Investments, in the Companys 2019 Annual Report included as Exhibit 13. 
+ Investment Securities 
+ The Company may invest in various types of securities, including corporate debt (including U.S. dollar denominated foreign debt) and equity securities, U.S. Government and U.S. Government agency obligations, securities of various federal, state and municipal agencies, FHLB stock, commercial paper, bankers acceptances, federal funds and interest-bearing deposits with other financial institutions. The Companys investment activities are directly monitored by the Companys Finance Committee under policy guidelines adopted by the Board of Directors. In recent years, the general objective of the Companys investment policy has been to manage the Companys interest rate sensitivity gap and generally to increase interest-earning assets. 
+ The following tables set forth the amortized cost and fair values of the Companys investment securities portfolio at the dates indicated. 
+ 
+
+ | 2019 | | 2018 | | | 2017
+Investment Securities Available for Sale at June 30, | (Dollars in Thousands) | 
+Corporate debt securities | $ | 104,760 | | $ | 104,316 | | $ | 92,576 
+Foreign debt securities (2) | | 26,583 | | | 22,878 | | | 14,474 
+Obligations of states and political subdivisions | | 1,330 | | | 1,630 | | | 1,330 
+Total amortized cost | $ | 132,673 | | $ | 128,824 | | $ | 108,380
+Total estimated fair value | $ | 132,780 | | $ | 128,811 | | $ | 108,449
+Investment Securities Held to Maturity at June 30, | | | | | | 
+Corporate debt securities | $ |  | | $ | 1,061 | | $ | 2,698 
+U.S. Government agency securities | |  | | | 625 | | | 625 
+Obligations of states and political subdivisions | | 3,995 | | | 4,495 | | | 5,355 
+ | | 3,995 | | | 6,181 | | | 8,678 
+FHLB stock | | 7,010 | | | 7,161 | | | 7,062 
+Total amortized cost | $ | 11,005 | | $ | 13,342 | | $ | 15,740 
+Total estimated fair value | $ | 11,090 | | $ | 13,286 | | $ | 15,877 
+
+ At June 30, 2019, the Company had no securities classified as trading investment securities. 
+ 
+
+(1) | Fair value estimate provided by the Companys independent third party valuation consultant, unless otherwise noted.
+----+--------------------------------------------------------------------------------------------------------------------
+
+
+(2) | U.S. dollar-denominated investment-grade corporate bonds of large foreign issuers.
+----+-----------------------------------------------------------------------------------
+
+ 
+15 
+
+
+ The following table sets forth information with respect to the investment securities, comprised solely of corporate debt obligations, owned by the Company at June 30, 2019 which had a carrying value greater than 10% of the Companys stockholders equity at such date, other than securities issued by the United States Government and United States Government agencies and corporations. All corporate securities owned by the Company, including those shown below, have been assigned an investment grade rating by at least two national rating services. 
+ 
+
+Name of Issuer | Carrying Value | | Market Value | 
+ | (Dollars in Thousands) | 
+American Express | $ | 4,825 | | $ | 4,825
+Daimler Finance | | 4,815 | | | 4,815
+Bank of America | | 4,813 | | | 4,813
+AT&T | | 4,797 | | | 4,797
+Ebay, Inc. | | 4,757 | | | 4,757
+Capital One | | 4,719 | | | 4,719
+Verizon Communications, Inc. | | 4,568 | | | 4,568
+General Motors | | 4,550 | | | 4,550
+UBS Group Funding | | 4,529 | | | 4,529
+Citizens | | 4,514 | | | 4,514
+Citigroup | | 4,366 | | | 4,366
+Regions Bank | | 4,060 | | | 4,060
+Goldman Sachs | | 4,033 | | | 4,033
+Wells Fargo | | 4,033 | | | 4,033
+Hyundai Capital America | | 3,924 | | | 3,924
+
+ For a detailed discussion of the Companys Investment Securities, please see Managements Discussion and Analysis of Financial Condition and Results of Operations, Investments, in the Companys 2019 Annual Report included as Exhibit 13. 
+ 
+16 
+
+
+ Sources of Funds 
+ The Companys principal source of funds for use in lending and for other general business purposes has traditionally come from deposits obtained through the Companys home and branch offices. Funding is also derived from FHLB advances, FRB short-term borrowings, other short-term borrowings, amortization and prepayments of outstanding loans and MBS and from maturing investment securities. 
+ Deposits. Current deposit products include regular savings accounts, demand accounts, negotiable order of withdrawal (NOW) accounts, money market deposit accounts and certificates of deposit ranging in terms from 90 days to 10 years. The Companys deposit products also include Individual Retirement Account certificates (IRA certificates). In order to attract new and lower cost core deposits, the Company continued to promote a no minimum balance, free checking account product and Internet Banking. The Companys local deposits are obtained primarily from residents of northern Allegheny, southern Butler and eastern Beaver counties, Pennsylvania. The Company utilizes various marketing methods to attract new customers and savings deposits, including print media advertising and direct mailings. 
+ The Company has drive-up banking facilities and automated teller machines (ATMs) at its McCandless, Franklin Park, Bellevue and Cranberry Township offices. The Company also has an ATM machine at its West View Office. The Company participates in the PULSE® and CIRRUS® ATM networks. The Company also participates in an ATM program called the Freedom ATM AllianceSM. The Freedom ATM AllianceSM allows West View Savings Bank customers to use other Pittsburgh area Freedom ATM AllianceSM affiliates ATMs without being surcharged and vice versa. The Freedom ATM AllianceSM was organized to help smaller local banks compete with larger national banks that have larger ATM networks. 
+ The Company has been competitive in the types of accounts and in interest rates it has offered on its deposit products and continued to price its savings products nearer to the market average rate as opposed to the upper range of market offering rates. The Company has continued to emphasize the retention and growth of core deposits, particularly demand deposits. Financial institutions generally, including the Company, have experienced a certain degree of depositor disintermediation to other investment alternatives. Management believes that the degree of disintermediation experienced by the Company has not had a material impact on overall liquidity. 
+ The Company may periodically utilize wholesale deposits, including brokered certificates of deposit, in order to rebalance its short-term liability structure, and to partially finance its holdings of investment securities. The use of wholesale deposits also allowed the Company to better match its corporate bond maturities and cash-flows from its CMO securities. At June 30, 2019, the Company had brokered certificates of deposits totaling $10.5 million as compared to $9.3 million at June 30, 2018. In general, brokered deposits are considered to be more sensitive to changes in market interest rates and may be more likely to leave the Savings Bank than core deposits. 
+ The following table sets forth the net deposit flows of the Company during the periods indicated. 
+ 
+
+ | Year Ended June 30, | 
+ | 2019 | | 2018 | | | 2017
+ | (Dollars in Thousands) | 
+Increase (decrease) before interest credited | $ | 556 | | $ | (672 | ) | $ | 3,766
+Interest credited | | 856 | | | 406 | | | 245 
+Net deposit increase (decrease) | $ | 1,412 | | $ | (266 | ) | $ | 4,011
+
+ 
+17 
+
+
+ The following table sets forth maturities of the Companys certificates of deposit of $100,000 or more at June 30, 2019, by time remaining to maturity. 
+ 
+
+ | Amounts | 
+ | (Dollars in Thousands) | 
+Three months or less | $ | 11,438
+Over three months through six months | | 688 
+Over six months through twelve months | | 1,705 
+Over twelve months | | 1,949 
+ | $ | 15,780
+
+ The following table sets forth the average balances of the Companys deposits and the average rates paid thereon for the past three years. Average balances were derived from daily average balances. 
+ 
+
+ | At June 30, | 
+ | 2019 | | 2018 | | 2017 
+ | Amount | | Rate | | Amount | | Rate | Amount | | | Rate | 
+ | (Dollars in Thousands) | 
+Regular savings and club accounts | $ | 43,987 | | 0.05 | % | $ | 44,673 | | 0.04 | % | | $ | 46,041 | 0.04 | %
+Interest-earning checking accounts | | 23,718 | | 0.02 | | | 23,406 | | 0.02 | | | | 22,472 | 0.02 | 
+Money market deposit accounts | | 20,223 | | 0.09 | | | 21,792 | | 0.09 | | | | 23,034 | 0.09 | 
+Certificate of deposit accounts | | 44,970 | | 1.81 | | | 36,526 | | 1.00 | | | | 34,071 | 0.59 | 
+Escrows | | 1,555 | | 0.00 | | | 1,378 | | 0.00 | | | | 1,213 | 0.00 | 
+Total interest-bearing deposits and escrows | | 134,453 | | 0.64 | | | 127,775 | | 0.32 | | | | 126,831 | 0.19 | 
+Non-interest-bearing checking accounts | | 23,301 | | 0.00 | | | 20,650 | | 0.00 | | | | 21,213 | 0.00 | 
+Total deposits and escrows | $ | 157,754 | | 0.54 | % | $ | 148,425 | | 0.27 | % | | $ | 148,044 | 0.17 | %
+
+ For a detailed discussion of the Companys deposits, please see Managements Discussion and Analysis of Financial Condition and Results of Operations, Deposits, in the Companys 2019 Annual Report included as Exhibit 13. 
+ Borrowings. For a detailed discussion of the Companys borrowings and asset and liability management activities, please see Managements Discussion and Analysis of Financial Condition and Results of Operations, Borrowed Funds and Quantitative and Qualitative Disclosures about Market Risk, in the Companys 2019 Annual Report included as Exhibit 13. 
+Competition 
+ The Company faces significant competition in attracting deposits. Its most direct competition for deposits has historically come from commercial banks and other savings institutions located in its market area. The Company also faces additional significant competition for investors funds from other financial intermediaries. The Company competes for deposits principally by offering depositors a variety of deposit programs, competitive interest rates, convenient branch locations, hours and other services. 
+ The Companys competition for real estate loans comes principally from mortgage banking companies, other savings institutions, commercial banks and credit unions. The Company competes for loan originations primarily through the interest rates and loan fees it charges, the efficiency and quality of services it provides borrowers, referrals from real estate brokers and builders, and the variety of its products. Factors which affect competition include the general and local economic conditions, current interest rate levels and volatility in the mortgage markets. 
+ Employees 
+ The Company had 24 full-time employees and 15 part-time employees as of June 30, 2019. The Company considers its relationship with its employees to be good and none of these employees is represented by a collective bargaining agent. 
+ 
+18 
+
+
+ REGULATION AND SUPERVISION 
+ 2018 Regulatory Reform. In May 2018 the Economic Growth, Regulatory Relief and Consumer Protection Act (the Act), was enacted to modify or remove certain financial reform rules and regulations, including some of those implemented under the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act). While the Act maintains most of the regulatory structure established by the Dodd-Frank Act, it amends certain aspects of the regulatory framework for small depository institutions with assets of less than $10 billion and for large banks with assets of more than $50 billion. Many of these changes could result in meaningful regulatory relief for community banks such as the Savings Bank. 
+ The Act, among other matters, expands the definition of qualified mortgages which may be held by a financial institution and simplifies the regulatory capital rules for financial institutions and their holding companies with total consolidated assets of less than $10 billion by instructing the federal banking regulators to establish a single Community Bank Leverage Ratio of between 8 and 10 percent. Any qualifying depository institution or its holding company that exceeds the community bank leverage ratio will be considered to have met generally applicable leverage and risk-based regulatory capital requirements and any qualifying depository institution that exceeds the new ratio will be considered to be well capitalized under the prompt corrective action rules. The Act also expands the category of holding companies that may rely on the Small Bank Holding Company and Savings and Loan Holding Company Policy Statement (the HC Policy Statement) by raising the maximum amount of assets a qualifying holding company may have from $1 billion to $3 billion. This expansion also excludes such holding companies from the minimum capital requirements of the Dodd-Frank Act. In addition, the Act includes regulatory relief for community banks regarding regulatory examination cycles, call reports, the Volcker Rule (proprietary trading prohibitions), mortgage disclosures and risk weights for certain high-risk commercial real estate loans. 
+ It is difficult at this time to predict when or how any new standards under the Act will ultimately be applied to us or what specific impact the Act and the yet-to-be-finalized implementing rules and regulations will have on community banks. 
+ The Company 
+ General. The Company, as a bank holding company, is subject to regulation and supervision by the Federal Reserve Board and by the Pennsylvania Department of Banking and Securities (the Department). The Company is required to file annually a report of its operations with, and is subject to examination by, the Federal Reserve Board and the Department. 
+ BHCA Activities and Other Limitations. The Bank Holding Company Act of 1956, as amended (BHCA) prohibits a bank holding company from acquiring direct or indirect ownership or control of more than 5% of the voting shares of any bank, or increasing such ownership or control of any bank, without prior approval of the Federal Reserve Board. The BHCA also generally prohibits a bank holding company from acquiring any bank located outside of the state in which the existing bank subsidiaries of the bank holding company are located unless specifically authorized by applicable state law. 
+ The BHCA also prohibits a bank holding company, with certain exceptions, from acquiring more than 5% of the voting shares of any company that is not a bank and from engaging in any business other than banking or managing or controlling banks. Under the BHCA, the Federal Reserve Board is authorized to approve the ownership of shares by a bank holding company in any company, the activities of which the Federal Reserve Board has determined to be so closely related to banking or to managing or controlling banks as to be a proper incident thereto. In making such determinations, the Federal Reserve Board is required to weigh the expected benefit to the public, such as greater convenience, increased competition or gains in efficiency, against the possible adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interest or unsound banking practices. 
+ 
+19 
+
+
+ The Federal Reserve Board has by regulation determined that certain activities are closely related to banking within the meaning of the BHCA. These activities include operating a mortgage company, finance company, credit card company, factoring company, trust company or savings association; performing certain data processing operations; providing limited securities brokerage services; acting as an investment or financial advisor; acting as an insurance agent for certain types of credit-related insurance; leasing personal property on a full-payout, non-operating basis; providing tax planning and preparation services; operating a collection agency; and providing certain courier services. The Federal Reserve Board also has determined that certain other activities, including real estate brokerage and syndication, land development, property management and underwriting of life insurance not related to credit transactions, are not closely related to banking and a proper incident thereto. 
+ Limitations on Transactions with Affiliates. Transactions between savings banks and any affiliate are governed by Sections 23A and 23B of the Federal Reserve Act. An affiliate of a savings bank includes any company or entity which controls the savings bank or that, is controlled by a company that controls the savings bank. In a holding company context, the parent holding company of a savings bank (such as the Company) and any companies which are controlled by such parent holding company are affiliates of the savings bank. Generally, Section 23A (i) limits the extent to which the savings bank or its subsidiaries may engage in covered transactions with any one affiliate to an amount equal to 10% of such banks capital stock and surplus, and contains an aggregate limit on all such transactions with all affiliates to an amount equal to 20% of such capital stock and surplus. Section 23B applies to covered transactions as well as certain other transactions and requires that all transactions be on terms substantially the same, or at least favorable, to the bank or subsidiary as those provided to a non-affiliate. The term covered transaction includes the making of loans to, purchase of assets from, issuance of a guarantee to an affiliate and similar transactions. Section 23B transactions also apply to the provision of services and the sale of assets by a savings bank to an affiliate. 
+ In addition, Sections 22(h) and (g) of the Federal Reserve Act place restrictions on loans to executive officers, directors and principal stockholders. Under Section 22(h), loans to a director, an executive officer and to a greater than 10% stockholder of a savings bank, and certain affiliated interests of either, may not exceed, together with all other outstanding loans to such person and affiliated interests, the savings banks loans to one borrower limit (generally equal to 15% of the banks unimpaired capital and surplus). Section 22(h) also requires that loans to directors, executive officers and principal stockholders be made on terms substantially the same as offered in comparable transactions to other persons and also requires prior board approval for certain loans. In addition, the aggregate amount of extensions of credit by a savings bank to all insiders cannot exceed the banks unimpaired capital and surplus. Furthermore, Section 22(g) places additional restrictions on loans to executive officers. 
+ Capital Requirements. The Federal Reserve Board has adopted capital adequacy guidelines pursuant to which it assesses the adequacy of capital in examining and supervising a bank holding company and in analyzing applications to it under the BHCA. The Federal Reserve Board capital adequacy guidelines for the Company, on a consolidated basis, are similar to those imposed on Savings Bank by the Federal Deposit Insurance Corporation. See The Savings Bank  Capital Requirements. Moreover, certain of the bank holding company capital requirements promulgated by the Federal Reserve Board in 2013 became effective as of January 1, 2015. Those requirements establish four minimum capital ratios that the Company had to comply with as of the dates described in capital requirements section referenced above. However, in May 2015, amendments to the HC Policy Statement became effective which increased the asset threshold to qualify to utilize the provisions of the HC Policy Statement from $500 million to $1.0 billion and increased to $3 million as a result of the 2018 Act. Bank holding companies which are subject to the BHC Policy Statement are not subject to compliance with the regulatory capital requirements until they hold $3.0 billion or more in assets. As a consequence, as of June 30, 2018, the Company was not required to comply with the requirements set forth below until such time that its consolidated total assets equal $3.0 billion or more or if the Federal Reserve Board determines that the Company is no longer deemed to be a small bank holding company. However, if the Company had been subject to the requirements, it would have been in compliance with such requirements. 
+ Commitments to Affiliated Institutions. Under Federal Reserve Board policy, the Company is expected to act as a source of financial strength to the Savings Bank and to commit resources to support the Savings Bank in circumstances when it might not do so absent such policy. This policy was incorporated into the Federal Deposit Insurance Act as part of legislation enacted in 2010. No regulations implementing that provision have been promulgated. 
+ 
+20 
+
+
+ The Savings Bank 
+ General. The Savings Bank is subject to extensive regulation and examination by the Department and by the FDIC, which insures its deposits to the maximum extent permitted by law, and is subject to certain requirements established by the Federal Reserve Board. The federal and state laws and regulations which are applicable to banks regulate, among other things, the scope of their business, their investments, their reserves against deposits, the timing of the availability of deposited funds and the nature and amount of and collateral for certain loans. The laws and regulations governing the Savings Bank generally have been promulgated to protect depositors and not for the purpose of protecting stockholders. 
+ Insurance of Accounts. The deposits of the Savings Bank are insured to the maximum extent permitted by the Deposit Insurance Fund and are backed by the full faith and credit of the U.S. Government. The Dodd-Frank Act permanently increased deposit insurance on most accounts from $100,000 to $250,000. As insurer, the Federal Deposit Insurance Corporation is authorized to conduct examinations of, and to require reporting by, insured institutions. It also may prohibit any insured institution from engaging in any activity determined by regulation or order to pose a serious threat to the Federal Deposit Insurance Corporation. 
+ The Dodd-Frank Act raises the minimum reserve ratio of the Deposit Insurance Fund 1.15% to 1.35% and requires the Federal Deposit Insurance Corporation to offset the effect of this increase on insured institutions with assets of less than $10 billion (small institutions). In March 2016, the Federal Deposit Insurance Corporation adopted a rule to accomplish this by imposing a surcharge on larger institutions commencing when the reserve ratio reaches 1.15% and ending when it reaches 1.35%. The reserve ratio reached 1.15% effective as of June 30, 2016. The surcharge period began effective July 1, 2016 and ended on September 30, 2018 when the reserve ratio reached 1.36%. Small institutions will receive credits for the portion of their regular assessments that contributed to growth in the reserve ratio between 1.15% and 1.35%. The credits will apply to reduce regular assessments by 2.0 basis points for quarters when the reserve ratio is at least 1.38%. 
+ Effective July 1, 2016, the Federal Deposit Insurance Corporation adopted changes that eliminated its risk-based premium system. Under the new premium system, the Federal Deposit Insurance Corporation assesses deposit insurance premiums on the assessment base of a depository institution, which is its average total assets reduced by the amount of its average tangible equity. For a small institution (one with assets of less than $10 billion) that has been federally insured for at least five years, effective July 1, 2016, the initial base assessment rate ranges from 3 to 30 basis points, based on the institutions CAMELS composite and component ratings and certain financial ratios; its leverage ratio; its ratio of net income before taxes to total assets; its ratio of nonperforming loans and leases to gross assets; its ratio of other real estate owned to gross assets; its brokered deposits ratio (excluding reciprocal deposits if the institution is well capitalized and has a CAMELS composite rating of 1 or 2); its one year asset growth ratio (which penalizes growth adjusted for mergers in excess of 10%); its loan mix index (which penalizes higher risk loans based on historical industry charge off rates). The initial base assessment rate is subject to downward adjustment (not below 1.5%) based on the ratio of unsecured debt the institution has issued to its assessment base, and to upward adjustment (which can cause the rate to exceed 30 basis points) based on its holdings of unsecured debt issued by other insured institutions. Institutions with assets of $10 billion or more are assessed using a scorecard method. 
+ In addition, all institutions with deposits insured by the Federal Deposit Insurance Corporation are required to pay assessments to fund interest payments on bonds issued by the Financing Corporation, a mixed-ownership government corporation established to recapitalize the predecessor to the Deposit Insurance Fund. The assessment rate is adjusted quarterly. Final assessment was on March 29, 2019. 
+ The Federal Deposit Insurance Corporation may terminate the deposit insurance of any insured depository institution if it determines after a hearing that the institution has engaged or is engaging in unsafe or unsound practices, is in an unsafe or unsound condition to continue operations, or has violated any applicable law, regulation, order or any condition imposed by an agreement with the Federal Deposit Insurance Corporation. It also may suspend deposit insurance temporarily during the hearing process for the permanent termination of insurance, if the institution has no tangible capital. If insurance of accounts is terminated, the accounts at the institution at the time of the termination, less subsequent withdrawals, shall continue to be insured for a period of six months to two years, as determined by the Federal Deposit Insurance Corporation. Management is aware of no existing circumstances which would result in termination of the Savings Banks deposit insurance. 
+ 
+21 
+
+
+ Regulatory Capital Regulations. In July of 2013 the respective U.S. federal banking agencies issued final rules implementing Basel III and the Dodd-Frank Act capital requirements that were fully-phased in on a global basis on January 1, 2019. The regulations establish a new tangible common equity capital requirement, increase the minimum requirement for the current Tier 1 risk-weighted asset (RWA) ratio, phase out certain kinds of intangibles treated as capital and certain types of instruments and change the risk weightings of certain assets used to determine required capital ratios. Provisions of the Dodd-Frank Act generally require these capital rules to apply to bank holding companies and their subsidiaries. The new common equity Tier 1 capital component requires capital of the highest quality  predominantly composed of retained earnings and common stock instruments. For community banks, such as the Savings Bank, a common equity Tier 1 capital ratio of 4.5% became effective on January 1, 2015. The capital rules also increased the current minimum Tier 1 capital ratio from 4.0% to 6.0% beginning on January 1, 2015. In addition, in order to make capital distributions and pay discretionary bonuses to executive officers without restriction, an institution must also maintain greater than 2.5% in common equity attributable to a capital conservation buffer were phased in from January 1, 2016 until January 1, 2019. The rules also increase the risk weights for several categories of assets, including an increase from 100% to 150% for certain acquisition, development and construction loans and more than 90-day past due exposures. The new capital rules maintain the general structure of the prompt corrective action rules, but incorporate the new common equity Tier 1 capital requirement and the increased Tier 1 RWA requirement into the prompt corrective action framework. 
+ Bank holding companies are generally subject to statutory capital requirements, which were implemented by certain of the new capital regulations described above that became effective on January 1, 2015. However, the HC Policy Statement exempts certain small bank holding companies like the Company with less than $3 billion in assets from those requirements provided that they meet certain conditions. 
+ The FDIC has promulgated regulations and adopted a statement of policy regarding the capital adequacy of state-chartered banks which, like the Savings Bank, are not members of the Federal Reserve System. Current Federal Deposit Insurance Corporation capital standards require these institutions to satisfy a common equity Tier 1 capital requirement, a leverage capital requirement and a risk-based capital requirement. The common equity Tier 1 capital component generally consists of retained earnings and common stock instruments and must equal at least 4.5% of risk-weighted assets. Leverage capital, also known as core capital, must equal at least 3.0% of adjusted total assets for the most highly rated state-chartered non-member banks and savings banks. Core capital generally consists of common stockholders equity (including retained earnings). An additional cushion of at least 100 basis points is required for all other institutions, which effectively increases their minimum Tier 1 leverage ratio to 4.0% or more. Under the Federal Deposit Insurance Corporations regulations, the most highly-rated banks are those that the Federal Deposit Insurance Corporation determines are strong banking organization and are rated composite 1 under the Uniform Financial Institutions Rating System. Under the risk-based capital requirement, total capital (a combination of core and supplementary capital) must equal at least 8.0% of risk-weighted assets. The Federal Deposit Insurance Corporation also is authorized to impose capital requirements in excess of these standards on individual institutions on a case-by-case basis. 
+ In determining compliance with the risk-based capital requirement, a savings bank is allowed to include both core capital and supplementary capital in its total capital, provided that the amount of supplementary capital included does not exceed the savings banks core capital. Supplementary capital generally consists of general allowances for loan losses up to a maximum of 1.25% of risk-weighted assets, together with certain other items. In determining the required amount of risk-based capital, total assets, including certain off-balance sheet items, are multiplied by a risk weight based on the risks inherent in the type of assets. The risk weights range from 0% for cash and securities issued by the U.S. Government or unconditionally backed by the full faith and credit of the U.S. Government to 100% for loans (other than qualifying residential loans weighted at 50%) and repossessed assets. 
+ Savings banks must value securities available for sale at amortized cost for regulatory capital purposes. This means that in computing regulatory capital, savings banks should add back any unrealized losses and deduct any unrealized gains, net of income taxes, on debt securities reported as a separate component of capital, as defined by generally accepted accounting principles. 
+ 
+22 
+
+
+ At June 30, 2019, the Savings Bank exceeded all of its regulatory capital requirements, with Total risk-based capital, Tier I risk-based capital, Common equity Tier I capital, and Tier I leverage (to average total assets) ratios of 17.42%, 17.11%, 17.11% and 9.15%, respectively. 
+ Any savings bank that fails any of the capital requirements is subject to possible enforcement actions by the Federal Deposit Insurance Corporation. Such actions could include a capital directive, a cease and desist order, civil money penalties, the establishment of restrictions on the institutions operations, termination of federal deposit insurance and the appointment of a conservator or receiver. 
+ The Savings Bank is also subject to more stringent Department capital guidelines. Although not adopted in regulation form, the Department utilizes capital standards requiring a minimum of 6% leverage capital and 10% risk-based capital. The components of leverage and risk-based capital are substantially the same as those defined by the FDIC. 
+ Prompt Corrective Action. The following table shows the amount of capital associated with the different capital categories set forth in the prompt corrective action regulations. 
+ 
+
+Capital Category | Total Risk-based Capital | Tier 1 Risk-based Capital | CommonEquity Tier 1Capital | Tier 1LeverageCapital
+Well capitalized | 10% or more | 8% or more | 6.5% or more | 5% or more 
+Adequately capitalized | 8% or more | 6% or more | 4.5% or more | 4% or more 
+Undercapitalized | Less than 8% | Less than 6% | Less than 4.5% | Less than 4% 
+Significantly undercapitalized | Less than 6% | Less than 5% | Less than 2.5% | Less than 3% 
+
+ In addition, an institution is critically undercapitalized if it has a ratio of tangible equity to total assets that is equal to or less than 2.0%. Under specified circumstances, a federal banking agency may reclassify a well capitalized institution as adequately capitalized and may require an adequately capitalized institution or an undercapitalized institution to comply with supervisory actions as if it were in the next lower category (except that the Federal Deposit Insurance Corporation may not reclassify a significantly undercapitalized institution as critically undercapitalized). 
+ An institution generally must file a written capital restoration plan which meets specified requirements within 45 days of the date that the institution receives notice or is deemed to have notice that it is undercapitalized, significantly undercapitalized or critically undercapitalized. A federal banking agency must provide the institution with written notice of approval or disapproval within 60 days after receiving a capital restoration plan, subject to extensions by the agency. An institution which is required to submit a capital restoration plan must concurrently submit a performance guaranty by each company that controls the institution. In addition, undercapitalized institutions are subject to various regulatory restrictions, and the appropriate federal banking agency also may take any number of discretionary supervisory actions. 
+ At June 30, 2019, the Savings Bank was deemed a well capitalized institution for purposes of the prompt corrective regulations and as such is not subject to the above mentioned restrictions. The newly promulgated capital requirements described above also will impact the prompt corrective action rules. 
+ Volcker Rule Regulations 
+ Regulations adopted by the federal banking agencies to implement the provisions of the Dodd-Frank Act that are commonly referred to as the Volcker Rule became effective on April 1, 2014 with full compliance being phased in over a period that ended on July 21, 2015. The regulations contain prohibitions and restrictions on the ability of financial institutions holding companies and their affiliates to engage in proprietary trading and to hold certain interest in, or to have certain relationships with, various types of investment funds, including hedge funds and private equity funds. Recently promulgated federal regulations exclude from the Volcker Rule restrictions community banks with $10 billion or less in total consolidated assets and total trading assets and liabilities of five percent or less of total consolidated assets. The Company qualifies for the exclusion from the Volcker Rule restrictions. 
+ 
+23 
+
+
+ Miscellaneous 
+ The Savings Bank is subject to certain restrictions on loans to the Company, on investments in the stock or securities thereof, on the taking of such stock or securities as collateral for loans to any borrower, and on the issuance of a guarantee or letter of credit on behalf of the Company. In addition, there are various limitations on the distribution of dividends to the Company by the Savings Bank. 
+ The foregoing references to laws and regulations which are applicable to the Company and the Savings Bank are brief summaries thereof which do not purport to be complete and which are qualified in their entirety by reference to such laws and regulations. 
+ CRITICAL ACCOUNTING POLICIES 
+ The Companys consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles and follow general practices within the commercial banking industry. Application of these principles requires management to make estimates, assumptions, and judgments that affect the amounts reported in the financial statements. These estimates, assumptions, and judgments are based upon the information available as of the date of the financial statements. 
+ The most significant accounting policies followed by the Company are presented in the Summary of Significant Accounting Policies. These policies, along with the other disclosures presented in the Notes to Consolidated Financial Statements, provide information about how significant assets and liabilities are valued in the financial statements and how those values are determined. Management has identified the other-than-temporary impairment of securities, allowance for loan losses, and the fair value of financial instruments as the accounting areas that require the most subjective and complex estimates, assumptions and judgments and, as such, could be the most subject to revision as new information becomes available. 
+ Securities are evaluated periodically to determine whether a decline in their value is other-than-temporary. Management utilizes criteria such as the magnitude and duration of the decline, in addition to the reasons underlying the decline, to determine whether the loss in value is other-than-temporary. The term other-than-temporary is not intended to indicate that the decline is permanent, but indicates that the prospect for a near-term recovery of value is not necessarily favorable, or that there is a lack of evidence to support a realizable value equal to or greater than the carrying value of the investment. Once a decline in value is determined to be other-than-temporary, the value of the security is reduced and a corresponding charge to earnings is recognized. 
+ As previously noted in the section entitled Allowance for Loan Losses, management performs an analysis to assess the adequacy of its allowance for loan losses. This analysis encompasses a variety of factors including: the potential loss exposure for individually reviewed loans, the historical loss experience, the volume of nonperforming loans (i.e., loans in nonaccrual status or past due 90 days or more), the volume of loans past due, any significant changes in lending or loan review staff, an evaluation of current and future local and national economic conditions, any significant changes in the volume or mix of loans within each category, a review of the significant concentrations of credit, and any legal, competitive, or regulatory concerns. 
+ The Company groups financial assets and financial liabilities measured at fair value in three levels based on the markets in which the assets and liabilities are traded and the reliability of the assumptions used to determine fair value. Level I valuations are obtained from readily available pricing sources for market transactions involving identical assets or liabilities. Level II valuations are for instruments that trade in less active dealer or broker markets and incorporate values obtained for identical or comparable instruments. Level III valuations are derived from other valuation methodologies, including discounted cash flow models and similar techniques, and not based on market exchange, dealer, or broker traded transactions. Level III valuations incorporate certain assumptions and projections in determining the fair value assigned to each instrument. 
+ 
+24 
+
+
+ FEDERAL AND STATE TAXATION 
+ General. The Company and the Savings Bank are subject to the generally applicable corporate tax provisions of the Internal Revenue Code of 1986 (the Code), as well as certain provisions of the Code which apply to thrift and other types of financial institutions. The following discussion of tax matters is intended only as a summary and does not purport to be a comprehensive description of the tax rules applicable to the Company and the Savings Bank. 
+ Fiscal Year. The Company currently files a consolidated federal income tax return on the basis of the calendar year ending on December 31. 
+ Method of Accounting. The Company maintains its books and records for federal income tax purposes using the accrual method of accounting. The accrual method of accounting generally requires that items of income be recognized when all events have occurred that establish the right to receive the income and the amount of income can be determined with reasonable accuracy and that items of expense be deducted at the later of (1) the time when all events have occurred that establish the liability to pay the expense and the amount of such liability can be determined with reasonable accuracy or (2) the time when economic performance with respect to the item of expense has occurred. 
+ Bad Debt Reserves. Historically under Section 593 of the Code, thrift institutions such as the Savings Bank, which met certain definitional tests primarily relating to their assets and the nature of their business, were permitted to establish a tax reserve for bad debts and to make annual additions within specified limitations which may have been deducted in arriving at their taxable income. The Savings Banks deduction with respect to qualifying loans, which are generally loans secured by certain interests in real property, may currently be computed using an amount based on the Savings Banks actual loss experience (the experience method). 
+ The Small Business Job Protection Act of 1996, adopted in August 1996, generally (1) repealed the provision of the Code which authorized use of the percentage of taxable income method by qualifying savings institutions to determine deductions for bad debts, effective for taxable years beginning after 1995, and (2) required that a savings institution recapture for tax purposes (i.e. take into income) over a six-year period its applicable excess reserves. For a savings institution such as West View which is a small bank, as defined in the Code, generally this is the excess of the balance of its bad debt reserves as of the close of its last taxable year beginning before January 1, 1996, over the balance of such reserves as of the close of its last taxable year beginning before January 1, 1988. Any recapture would be suspended for any tax year that began after December 31, 1995, and before January 1, 1998 (thus a maximum of two years), in which a savings institution originated an amount of residential loans which was not less than the average of the principal amount of such loans made by a savings institution during its six most recent taxable years beginning before January 1, 1996. The Companys supplemental bad debt reserve of approximately $3.8 million is not subject to recapture. 
+ The above-referenced legislation also repealed certain provisions of the Code that only apply to thrift institutions to which Section 593 applies: (1) the denial of a portion of certain tax credits to a thrift institution; (2) the special rules with respect to the foreclosure of property securing loans of a thrift institution; (3) the reduction in the dividends received deduction of a thrift institution; and (4) the ability of a thrift institution to use a net operating loss to offset its income from a residual interest in a real estate mortgage investment conduit. The repeal of these provisions did not have a material adverse effect on the Companys financial condition or operations. 
+ Tax Cuts and Jobs Act of 2017. In December 2017, the President signed the Tax Cuts and Jobs Act of 2017 (the Tax Act), which, among other things, reduced the corporate tax rate from 34% to 21%. As a result, under GAAP, the Company recorded an immediate write-down of its net deferred tax assets of $133 thousand and recorded a charge to earnings in the quarter ended December 31, 2017. 
+ Audit by IRS. The Companys consolidated federal income tax returns for taxable years through December 31, 2015, have been closed for the purpose of examination by the Internal Revenue Service. 
+ State Taxation. The Company is subject to the Pennsylvania Corporate Net Income Tax. The Pennsylvania Corporate Net Income Tax rate is 9.99% and is imposed on the Companys unconsolidated taxable income for federal purposes with certain adjustments. 
+ 
+25 
+
+
+ The Savings Bank is taxed under the Pennsylvania Mutual Thrift Institutions Tax Act (enacted on December 13, 1988, and amended in July 1989) (the MTIT), as amended to include thrift institutions having capital stock. Pursuant to the MTIT, the Savings Banks current tax rate is 11.5%. The MTIT exempts the Savings Bank from all other taxes imposed by the Commonwealth of Pennsylvania for state income tax purposes and from all local taxation imposed by political subdivisions, except taxes on real estate and real estate transfers. The MTIT is a tax upon net earnings, determined in accordance with generally accepted accounting principles (GAAP) with certain adjustments. The MTIT, in computing GAAP income, allows for the deduction of interest earned on state and federal securities, while disallowing a percentage of a thrifts interest expense deduction in the proportion of those securities to the overall investment portfolio. Net operating losses, if any, thereafter can be carried forward three years for MTIT purposes. 
+ 

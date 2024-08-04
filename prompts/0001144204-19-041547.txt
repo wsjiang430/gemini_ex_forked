@@ -1,0 +1,1173 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1: BUSINESS
+ 
+Organization and Nature of Business
+ 
+NanoViricides, Inc. (the “Company,” “we,” or “us”) was incorporated in Nevada on April 1, 2005. Our corporate offices are located at 1 Controls Drive, Shelton, Connecticut 06484 and our telephone number is (203) 937-6137. Our Website is located at http://www.Nanoviricides.com. We do not incorporate by reference into this Annual Report the information on or accessible through our website, and you should not consider it part of this Annual Report. 
+ 
+On September 25, 2013, the Company’s common stock began trading on the New York Stock Exchange American under the symbol, “NNVC”.
+ 
+We are a development stage company with several drugs in various stages of pre-clinical development, including late stage IND-enabling non-clinical studies. We have no customers, products or revenues to date, and may never achieve revenues or profitable operations.
+ 
+The Company’s primary focus is bringing its topical treatment for shingles into human clinical trials first, which we believe is our most advanced drug indication. Shingles is caused by reactivation of VZV (Varicella-Zoster Virus), which causes chickenpox in children. Several additional indications in the HerpeCide™ program, including skin creams for the treatment of “genital ulcers” (HSV-2), and for the treatment of “cold sores” (HSV-1”) are expected to follow the shingles candidate into clinical development. In addition, the Company has drug candidates in development against severe influenzas (including bird flu), HIV, Dengue, Ebola/Marburg and other viruses at different preclinical stages. According to a 2014 market report prepared by Jain PharmaBiotech (“Jain”), entitled “Antiviral Thereapeutics, Technologies, Markets & Companies,” the overall market size for our potential drugs is estimated to be between $40~65 Billion by 2023. This broad pipeline is enabled by our unique post-immunotherapeutic “bind-encapsulate-destroy” technology platform.
+
+
+
+Page 3 of 87
+------------
+
+ 
+
+We are a development-stage company with the goal of commercializing special purpose nanomedicine for anti-viral drugs based on a novel, first-in-class mechanism. The Company's novel nanoviricide® class of drug candidates are designed to specifically attack enveloped virus particles, on the same sites that they use to bind to cells and dismantle them. Our unique biomimetic approach promises that a virus cannot escape our nanoviricide drugs due to mutations, if the virus-binding ligands perform as designed.
+ 
+The Company’s drug candidates are licensed from TheraCour Pharma, Inc., (“TheraCour®”), and are developed by TheraCour for the Company on the basis of several patents, patent applications, provisional patent applications, and other proprietary intellectual property held by TheraCour. Unlike usual pharma industry licenses that are specified for single chemical entities or for groups of similar chemical entities, our licenses are specified for the vertical application field of use, thereby providing us with a large universe of diverse development candidates under the same umbrella. The Company has exclusive licenses from TheraCour for drug candidates derived from and based on TheraCour’s technologies for several viruses. In 2005, the Company obtained a license from TheraCour for the treatment of the following human viral diseases: Human Immunodeficiency Virus (HIV/AIDS), Influenza including Asian Bird Flu Virus (INF), Herpes Simplex Virus (HSV-1 and HSV-2), Hepatitis C Virus (HCV), Hepatitis B Virus (HBV), and Rabies. Thereafter, on February 15, 2010, the Company entered into an Additional License Agreement with TheraCour granting the Company the exclusive licenses for technologies developed by TheraCour for the additional virus types for Dengue viruses (DENV), Japanese Encephalitis (JEV), West Nile Virus (WNV), viruses causing viral Conjunctivitis (a disease of the eye) and Ocular Herpes Keratitis, and Ebola/Marburg viruses. While herpes simplex viruses were already specified as licensed previously, the term “ocular herpes keratitis” was added to this additional license agreement at the specific request of the Company for clarity only. In addition, the Company is currently negotiating a license from TheraCour for non-simplex herpes viruses, in particular, for VZV (shingles, chicken pox virus). TheraCour has developed a lead indication for the treatment of VZV shingles exclusively for the Company at the Company’s request and with funds paid by the Company. The Company has conducted a valuation for the shingles and PHN (“postherpetic neuralgia”) indications. The Company and TheraCour have executed a Memorandum of Understanding on the general terms of the Licensing Agreement for VZV. A definitive agreement is currently being negotiated by the parties. To date, TheraCour has not withheld any licenses for antiviral nanomedicines that NanoViricides has asked for, and we anticipate that the VZV license will be executed shortly.
+ 
+The Company retains worldwide exclusive rights to commercially develop, commercialize, and marketthe licensed products. The Company pays TheraCour for the R&D work asked to be performed by the Company to develop these drugs, their chemistries, formulations, and manufacturing processes, substantially at cost, with a certain fee as specified in the license agreements. The Company may perform initial developmental testing by itself and through third parties, such as academic labs, government institutions, contract research organizations, for safety and effectiveness, among other tests. The Company may perform further IND-enabling advanced pre-clinical studies using third parties, such as contract research organizations, usually on clinical drug candidates. The Company expects to perform human clinical trials using contract research organizations with expertise in such clinical trials. The Company intends to sponsor the drugs for commercialization activities and obtain the rights of commerce under various regulatory authorities for its own use.
+ 
+The Company focuses its research and clinical programs on specific anti-viral therapeutics and is seeking to add to its existing portfolio of products through its internal discovery and clinical development programs and through an in-licensing strategy. To date, the Company has not commercialized any product.
+ 
+The Company’s objectives are to create the best possible anti-viral nanoviricides and then subject these compounds to rigorous laboratory and animal testing towards US FDA and international regulatory approvals. Our long-term research efforts are aimed at augmenting the nanoviricides that we currently have in development with additional therapeutic agents to produce further improved anti-viral agents in the future. We believe that many viral infections that are at present untreatable or incurable would be curable using such an advanced approach.
+ 
+The Nanoviricide® Platform Technology
+ 
+NanoViricides, Inc. is engaged in the application of nanomedicine technologies to the complex issues of viral diseases. The nanoviricide® technology enables direct attacks at multiple points on a virus particle. It is believed that such attacks would lead to the virus particle becoming ineffective at infecting cells. Antibodies in contrast attack a virus particle at only a maximum of two attachment points per antibody. In addition, the nanoviricide technology also simultaneously enables attacking the rapid intracellular reproduction of the virus by incorporating one or more active pharmaceutical ingredients (APIs) within the core of the nanoviricide. The nanoviricide technology is the only technology in the world, to the best of our knowledge, that is capable of both (a) attacking extracellular virus thereby breaking the reinfection cycle, and simultaneously (b) disrupting intracellular production of the virus, thereby enabling complete control of a virus infection.
+ 
+Our anti-viral therapeutics, that we call “nanoviricides®” are designed to look to the virus like the native host cell surface to which it binds. Since these binding sites for a given virus do not change despite mutations and other changes in the virus, we believe that our drug candidates will be broad-spectrum, i.e. effective against most if not all strains, types, or subtypes, of a given virus, provided the virus-binding portion of the nanoviricide is engineered appropriately.
+ 
+This powerful platform technology has enabled us to develop several drug candidates against a large number of different viruses that could be further improved into clinical drug candidates, thus building a very broad drug pipeline that may lead to exponential growth of the Company upon the approval of our first drug candidate.
+ 
+It is important to realize that the flexible nanoviricides nanomedicines show substantial advantages over hard sphere nanoparticles in this antiviral drug application. Hard sphere nanomaterials such as dendritic materials (dendrimers), nanogold shells, silica, gold or titanium nanospheres, polymeric particles (such as PLA-PLGA, others), etc., were never designed to be capable of completely enveloping and neutralizing the virus particle.
+ 
+
+Page 4 of 87
+------------
+
+ 
+
+Nanoviricides are designed to work by binding to and eliminating virus particles from the blood stream, just as antibodies do, only potentially much better. Treating a patient that has a viral infection with a nanoviricide against that virus is expected to result in reduction in viremia. Reduction in viremia is an important goal in diseases caused by all viral infections. Nanoviricides are designed to accomplish this using a “Bind-Encapsulate-Destroy” strategy to eliminate the free virus.
+ 
+A Nanoviricide is constructed by chemically attaching a ligand designed to bind to a virus particle, to a polymeric material that forms a flexible nanomicelle by self-assembly. If antibodies are known to affect a viral disease, it is possible to construct a nanoviricide against it, and there can be a general expectation of some success, depending upon the ligand chosen. We can choose a ligand from any of a number of chemical classes, including small chemicals, peptides, or antibody fragments or even whole antibodies.
+ 
+A nanoviricide is made by chemically covalently linking a “nanomicelle” - a globular polymeric micelle with pendant lipid chains inside, to one or more different small chemical ligands designed to mimic the cellular receptor to which the virus binds. In addition, the nanoviricide can carry additional active pharmaceutical ingredients (APIs), which may be chosen to affect the intracellular virus life cycle. Thus, the nanoviricide platforms enables construction of complete virus-killing nanomachines that block the virus from entering the cell as well as that block further production of the virus inside the cell.
+ 
+Attacking the “Achilles Heel” of the Virus- Unchanging Ability of the Virus to Bind to Its Cognate Receptor on Cell
+ 
+We strive hard to develop virus-binding small chemical ligands mimic the cognate cellular receptor of the virus, using rational design and molecular modeling strategies and our internal, accumulated expertise. This is the receptor to which a virus binds to gain entry into the human cell. Some viruses use more than one, different, receptors. The nanoviricide® platform technology allows use of different ligands on the same nanoviricide drug to be able to attack such difficult viruses.
+ 
+It would be very difficult for a virus to become resistant to a nanoviricide that mimics the virus’ cellular receptor. This is because, no matter how much a virus mutates or changes, its binding to the cellular receptor does not change. If the virus does not bind to the nanoviricide efficiently, it would likely have lost its ability to bind to the cellular receptor efficiently as well, resulting in an attenuated version with limited pathogenicity.
+ 
+Beyond Antibodies or “Post-Immunotherapeutic” Approach: A Nanoviricide in Its Design is a Nanomachine Built to Destroy Viruses
+ 
+A nanoviricide exposes a very high density of virus binding sites on its surface, in contrast to a human cell. Thus, a virus would be more likely to be captured by the nanoviricide than to bind to a cell. Once bound to the virus, it is thought that the nanoviricide would wrap itself around the virus, and the interior lipidic chains of the nanoviricide would merge into the lipid envelope of an enveloped virus, thus destabilizing the virus. This attack is expected to result in loss of the viral glycoproteins that it uses to bind to cell and to fuse with the cell membrane, thus rendering the virus particle non-infectious. In contrast, for an antibody to be successful as a drug, as many as ten to fifteen antibodies must bind to saturate the virus surface. The resulting antibody-virus complex then may be subject to the complement protein system in the bloodstream, or it may bind to antibody-receptors on human immune cells. Thus the human immune system needs to be functional for an antibody to be effective as a “drug”. In a sense, antibodies only “flag” the virus particle as foreign.
+ 
+Almost any virus that causes pathology in humans is able to do so because it has developed intelligent and complicated pathways for disabling the human immune system at one or more points. This may be one of the reasons why many antiviral antibodies fail in the field use. Additionally, viruses readily escape antibodies by mutations. Such viral escape from antibodies has been witnessed in almost every viral epidemic, be it HIV/AIDS, Influenza pandemic of 2009, or the Ebola epidemic of 2014-15. In contrast, a nanoviricide would complete the job of making the virus particle non-infectious, without any help from the human immune system.
+ 
+
+Page 5 of 87
+------------
+
+Broad-Spectrum Nanoviricide Drug Candidates
+ 
+A nanoviricide is generally “broad-spectrum” in the sense that it would be effective against all viruses that use the same cellular receptor, binding to the same site on that cellular receptor.
+ 
+Formulation is Inherent in the Design Aspect of a Nanoviricide 
+ 
+Since declaring our clinical candidate, namely NV-HHV-101 formulated as a skin cream for topical treatment of shingles rash, further development of this drug towards scale-up, formulation, and cGMP-like manufacture has already been accomplished in a relatively rapid manner. Formulation development for novel drugs in normal pharmaceutical paradigm often takes years. However, in the nanoviricide approach, the nanomicelle polymeric backbone itself takes care of the formulation aspects. The nanomicelle is designed to optimize the drug for its intended route of administration, be it injectable, skin cream, eye drops, or even oral. Thus, no specific or extensive formulation development is expected to be required after clinical candidate declaration.
+ 
+We have previously manufactured multi-kilogram quantities of the final drug product for shingles cGLP Safety/Toxicology studies that are required for filing an IND. 
+ 
+Uniform Polymer Nature Enables Nanomedicine Manufacturing Quality Assurance
+ 
+A major problem in the field of nanomedicines has been that most nanomedicines have been found to be notoriously difficult to manufacture in a consistent manner from batch to batch. This is because of the complexity inherent in making large molecules, and the very nature of polymer and particle making processes.
+ 
+The nanoviricide technology has been designed from the ground up to enable consistent manufacture and control. Thus, the nanoviricide backbone is a homopolymer of a single repeating unit or monomer, and not a block copolymer. In addition, the nanoviricide polymer is designed to dynamically and naturally self-assemble into micelles in a solution. Also, the virus-binding ligands are chemically attached to the polymer. The extent of attachment can be assessed by analytical techniques that we have developed and continue to develop as needed. Further we use specialized techniques in the polymer processing to minimize any contamination with endotoxins or other foreign particles. The final nanoviricide solutions can be sterile filtered using standard membrane filtration processes. The resulting solutions can be concentrated in a non-contaminating environment in our Process Scale-Up Lab or our cGMP-capable Manufacturing Facility.
+ 
+Thus the nanoviricides platform has been designed from the ground up to enable simplifications in processes and analyses that need to be implemented in order to develop robust, reproducible, and scalable processes.
+ 
+Our BSL-2 Certified Virology Lab 
+ 
+We have a BSL-2 (Biological Safety Level 2) certification from the State of Connecticut for our Virology suite at the Shelton campus. This suite comprises three individual virology workrooms, enabling us to work on several different viruses and strains at the same time. This facility is designed only for cell culture studies on viruses, and no animal studies can be conducted at any of our own facilities.
+ 
+We are able to perform drug efficacy and safety studies in cell cultures for multiple different viruses at the same time in this facility, in isolated lab rooms.
+ 
+The Company’s Virologist. Dr. Friedrich, has previously performed drug screening of hundreds of candidates against several viruses including alphaviruses, bunyaviruses, and filoviruses (namely, Ebola and Marburg, which are BSL-4), to discover potential therapeutics, while he was at the United States Army Medical Research Institute of Infectious Diseases (USAMRIID). Brian has also worked extensively on Flaviviruses, specifically West Nile Virus, while at University of Texas Medical Branch (UTMB). He has also worked on HIV as part of his PhD thesis. Dengue viruses, and the Zika virus belong to the Flavivirus family. 
+ 
+We have now developed in-house cell culture screening capability for developing drug candidates against VZV, HSV-1 and HSV-2, as well as influenzas and HIV, among others. This capability has substantially strengthened our drug development programs. We believe that this internal screening enables speedy evaluation of a much larger number of candidates than external collaborations allow. We believe this has significantly improved our ability to find highly effective ligands and performing structure-activity-relationship studies of the same in a short time period.
+ 
+
+Page 6 of 87
+------------
+
+cGMP Manufacturing Facility
+ 
+Manufacturing of drug products for sale, as well as for late stage clinical trials is required to be performed in FDA-registered cGMP manufacturing facilities. Manufacture of drugs for earlier stage clinical trials as well as for IND-enabling GLP Safety/Toxicology studies needs to be performed in a c-GMP-compliant manner.
+ 
+We believe we are one of the very few small pharmaceutical drug innovators that possess their own cGMP or cGMP-capable manufacturing facility. With our Shelton, Connecticut campus and pilot-scale cGMP-capable manufacturing facility, we believe we are in a position to advance our drug candidates into clinical trials, produce the pre-clinical “tox package” batches, and the clinical drug substance batches.
+ 
+We believe that this facility will be capable of scaling to the quantity of product needed for initial market introduction and revenue generation from our first drug when approved. We have already performed production of kilogram-scale batches of drug substance and multi-kg scale batches of drug product at this facility successfully. We believe this scale is sufficient for clinical trials, and, depending upon final dosage level, this scale may be sufficient for initial market entry.
+ 
+State of the Company – Drug Development Programs – Focus on HerpeCide™ Program
+
+During the fiscal year ending June 30, 2019, we have focused our efforts primarily on the HerpeCide program. We are developing drugs against three indications in this program in parallel at present, namely, HSV-1 “cold sores” (orolabial herpes and recurrent herpes labialis or RHL), HSV-2 “genital ulcers”, and VZV shingles. We are developing topical treatments (skin creams or lotions) for these three indications. All of the drug candidates in these three leading indications comprise common chemistry features and are based on the same family of ligands and polymers, enabling efficient parallel development. Our parallel development of these indications maximizes return on investment and shareholder value. Of these, the shingles indication program has advanced to the level of IND-enabling Safety/Toxicology studies (i.e. “Tox Package” studies). We are currently advancing it towards an IND filing. We believe that the other two indications will advance to an IND stage in the very near future.
+
+
+Our HerpeCide™ program has matured towards multiple drug indications. Besides the three indications listed above, modifications of the same drug candidates are anticipated to be developed into (iv) Eye Drops to treat ocular (i.e. external eye) Herpes Keratitis (HK) caused by HSV-1 or HSV-2, and possibly (v) Intra-Ocular injections to treat viral Acute Retinal Necrosis (vARN) caused by herpes viruses, primarily VZV, shingles (varicella zoster virus) and HSV-2, a cause of blindness.
+ 
+ In addition, we believe that the shingles drug candidate may be eligible for the PHN indication as well. PHN clinical studies are long and expensive, and we plan to advance the candidate for this indication only after its shingles indication clinical trials are completed. Further, the same drug candidate is expected to work against chickenpox in children. Chickenpox remains a sporadic epidemic disease despite vaccines.
+ 
+Expansion to additional indications is likely, as we perform further studies. It is likely that some of these drug candidates with variations may be able to address diseases caused by the remaining human herpes viruses, namely EBV, HCMV, HHV-6A, HHV-6B, and HHV-7. Such expansions would enable maximization of return on investment (ROI) and maximization of shareholder value.
+ 
+Including the HerpeCide program explained above, we currently have eight different drug development programs, attesting to the strength of our platform technology. We have chosen to focus strategically on our HerpeCide™ program indications and drug candidates that are expected to result in a robust franchise with drug approvals against a number of different herpes virus indications.
+ 
+
+Page 7 of 87
+------------
+
+ 
+
+Pharmaceutical drug development is an expensive and long duration proposition. Management’s plan is to develop each of our nanoviricides to the necessary stage(s) and then engage into licensing or co-development relationships with other pharmaceutical companies. Such licensing or co-development relationships may entail upfront payments, milestones payments, cost sharing, and eventual revenue sharing, including royalties on sales. There is no guarantee that we will be able to negotiate agreements that are financially beneficial to the Company. As and when needed, management plans to continue to raise additional funds for our continuing drug development efforts from public markets. 
+ 
+We believe we are one of the very few small pharmaceutical drug innovators that possess their own cGMP or cGMP-capable manufacturing facility. With our Shelton, Connecticut campus and pilot-scale cGMP-capable manufacturing facility, we are in a position to advance our drug candidates into clinical trials, produce the pre-clinical “tox package” batches, and the clinical drug substance batches.
+ 
+The Company’s cGMP-capable pilot-scale manufacturing facility in Connecticut may enable initial market entry for some of our products upon approval, allowing the Company to grow into a stand-alone Pharma company, in addition to a potential licensing strategy for success. The Company thus continues to minimize risk to investors by improving the potential for success.
+ 
+While we have continued to make significant progress in advancing our HerpeCide program drug pipeline, we have also had to curtail our programs and slow down drug development towards the clinic due to fiscal constraints. In particular, R&D staffing at our affiliates has been reduced significantly, by about 40% in the last few years. This is expected to have the effect of lengthening our timeline to begin human clinical trials.
+ 
+The HerpeCide™ Program is Now Our Top Priority – Shingles is Lead Indication moving into IND-enabling “Tox Package” Studies 
+ 
+During the fiscal year ended June 30, 2019, we have met several milestones towards developing our first drug for regulatory approval:
+ 
+
+• | We declared a clinical candidate, namely NV-HHV-101, for the treatment of shingles rash in third quarter of calendar year 2018.
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We developed manufacturing processes for the drug substance at kilogram scale.
+--+-------------------------------------------------------------------------------
+
+
+• | We designed and developed the final formulation of the drug substance for use as a skin cream. Of note, we achieved formulation development in a short time frame of about six weeks. This attests to the capabilities of nanoviricides platform technology wherein formulation considerations are taking into account as an inherent design aspect, thereby saving time in the formulation phase. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We manufactured the NV-HHV-101 drug substance as well as the formulated drug products at different concentrations, as required for the first portion of the IND-enabling Safety/Toxicology studies, namely, non-GLP Safety/Toxicology studies.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We engaged BASi, Evansville, IN, to perform the IND-enabling Safety/Toxicology ("Tox Package") studies. BASi is a well-known CRO specializing in these pre-clinical IND-enabling studies.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The non-GLP Safety/Toxicology studies began towards the end of December 2018. These studies were successfully completed around March 2019.
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We filed a pre-IND application for shingles rash treatment using topical skin cream, NV-HHV-101, soon after the non-GLP studies report was available to us.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We received favorable comments from the US FDA regarding our drug development plan for NV-HHV-101 into initial human clinical trials, around end of May 2019.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We developed and implemented cGMP-compliant manufacturing processes.
+--+---------------------------------------------------------------------
+
+
+• | We manufactured a cGMP-compliant large-scale batch of approximately 1kg of NV-HHV-101 drug substance, and several kg batches of formulated drug products as needed for the ensuing GLP Safety/Toxicology study.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Page 8 of 87
+------------
+
+
+• | The GLP Safety/Tox study began at BASi around June 2019. Subsequent to the reporting period, the in-life portion of this 28-day study in different animal species has been completed successfully.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We have executed a Memorandum of Understanding regarding general terms of the license agreement from TheraCour for drugs in the VZV vertical field. A definitive agreement is being negotiated by the parties. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Subsequent to the reporting period, on August 5, 2019, we reported that the in-life portion of the GLP Safety/Toxicology studies was completed successfully. We reported that NV-HHV-101 has been found to well tolerated in the clinical observation portion of the GLP Safety/Toxicology study of NV-HHV-101 as a dermal treatment. Additional studies required for the Safety and Toxicology datasets for filing an IND are in progress.
+ 
+Thus, we have executed diligently, rapidly, and successfully, in developing our first drug candidate in pre-clinical trials towards human clinical trials in this fiscal year, despite significant resource limitations in terms of both skilled personnel and available budgets. In addition, we have continued to work on the HSV-1 and HSV-2 drug candidate developments in the background.
+
+
+In the ensuing fiscal year, we believe we will be able to meet several important milestones towards establishing human proof-of-concept for the nanoviricides platform:
+ 
+
+• | Finalize human clinical trials designs for Phase I and Phase II trials for NV-HHV-101 for topical treatment of shingles rash.
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Engage a contract Clinical Research Organization for conducting the human clinical trials.
+--+-------------------------------------------------------------------------------------------
+
+
+• | Complete the IND-enabling studies, and prepare appropriate reports.
+--+--------------------------------------------------------------------
+
+
+• | Complete manufacture of cGMP-compliant drug substance and drug products in quantities sufficient for anticipated human clinical trials as designed.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submit an IND-application to the US FDA, or an appropriate international regulatory agency.
+--+--------------------------------------------------------------------------------------------
+
+
+• | Initiate and conduct Phase I human clinical trials, to determine safety and tolerability of NV-HHV-101 in human subjects.
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+• | If possible, initiate Phase II human clinical trials to determine effectiveness of NV-HHV-101 in controlling shingles rash and to study the effectiveness of NV-HHV-101 regarding shingles pain.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+All of these studies are dependent on external collaborators providing available time slots for us. Thus, there can be delays in achieving the milestones that are beyond the Company's control.
+ 
+We also intend to continue HSV-1 and HSV-2 drug candidate developments towards the goal of declaring a clinical candidate for topical treatment of cold sores and genital ulcers, respectively.
+ 
+The Shingles Topical Treatment Drug Program
+ 
+Our most advanced drug candidate is a nanoviricide against VZV (varicella-zoster virus), the virus that causes debilitating shingles rash in adults and chickenpox in children. Its first indication is expected to be as topical treatment of shingles rash. About 500,000 to 1 million episodes of herpes zoster (shingles) occur annually in the United States alone. In spite of the new Shingrix™ vaccine, the market size for a therapeutic for shingles is estimated to be in excess of $1 billion dollars according to two consulting firms, namely BioEnsemble, LLC and NanoTech Plus LLC, in reports prepared for the Company. There is currently no approved drug against shingles, PHN or chickenpox, indicating an unmet medical need.
+Broad-Spectrum HerpeCide™ Drug Candidates Enable Additional Indications 
+ 
+The potential broad-spectrum nature of our anti-HSV drug candidates is expected to enable several anti-herpesviral indications. Thus, HSV-1 primarily affects skin and mucous membranes causing “cold sores”. HSV-2 primarily affects skin and mucous membranes leading to genital herpes. HSV-1 infection of the eye causes herpes keratitis that can lead to blindness in some cases. In addition, human herpesvirus-3 (HHV-3), aka varicella-zoster virus (VZV) causes chickenpox in children and, when reactivated in adults, causes shingles. Shingles breakouts are amenable to topical treatment, as are the HSV cold sores, genital lesions, and herpes keratitis of the eye.
+
+Page 9 of 87
+------------
+
+ 
+
+Topical treatment is expected to result in extremely high antiviral efficacy. This is because such treatment would provide higher concentrations of the antiviral at the site where the virus is manifesting at its highest levels. Highly effective topical treatments in most of these scenarios remain unmet medical needs. Most of these indications do not have satisfactory treatments at present, if any. Further, the treatment of herpes virus infections caused by acyclovir- and famciclovir- resistant mutants is currently an unmet medical need.
+ 
+With additional indications in the diseases caused by viruses in the herpes virus family, it is likely that our HerpeCide program could expand into a much broader product pipeline than currently anticipated. We anticipate that many of these new drugs would be variations on our current drug candidates. It is therefore expected that the incremental cost of drug development for such additional indications could be substantially smaller than the cost of developing drugs against other viruses in our portfolio.
+ 
+Progress in Identifying Clinical Lead Drug Candidates against the Four HerpeCide Program Indications 
+ 
+Previously, in August 2015, we obtained confirmatory animal studies data on our then current lead anti-herpes virus drug candidate from TransPharm, LLC. The data confirmed the results earlier obtained in Professor Ken Rosenthal’s Lab at the NorthEast Ohio Medical Center (NEOMED). In both studies, dermal topical treatment with our anti-HSV drug candidate led to 85~100% survival in mice lethally infected with the zosteriform, neurotropic, clinically derived and relevant strain, namely HSV-1 H129. In contrast, all of the untreated mice had severe clinical morbidity and none of the untreated mice survived. These studies established this drug candidate as a viable, effective potential drug. Professor Rosenthal has since retired from NEOMED and is now Professor of Biomedical Sciences at the College of Medicine, Roseman University of Health Sciences, Summerlin, NV.
+ 
+We have developed additional variations of the ligand used in this older herpecide drug candidate using molecular modeling and rational design strategies. The new ligands appear to have substantially improved effectiveness and with a similar level of safety as did the prior tested ligand. We are now performing studies on chemical covalent conjugates of these ligands with different “nanomicelle” polymer backbones. We are performing a set of studies to identify the lead clinical candidates for the different herpes virus indications based on these new nanoviricides.
+ 
+We have found in preclinical studies that the nanoviricides drug candidates developed against herpes HSV-1 and HSV-2 are also effective against the shingles virus, namely the Varicella Zoster Virus (VZV), also called HHV-3 (human herpesvirus-3) in cell culture studies in house. These data were presented at the American Society of Virology 2017 annual meeting held in June 2017 at Madison, WI. Additional studies have continued to demonstrate strong effectiveness as the development progresses.
+ 
+We have also found in preclinical studies that the shingles treatment nanoviricides drug candidates were highly effective in VZV infection studies using human skin-patch organ culture (SOC) model. We have repeatedly found strong effectiveness in the SOC studies using different variations of the drug candidates aimed at establishing the final clinical drug candidate. These studies were performed in the Professor Jennifer Moffat Lab at the Upstate Medical Center in SUNY, Syracuse, NY. The Moffat group presented some of these data at the 31st International Conference on Antiviral Research held in Porto, Portugal, on June 10-15, 2018.
+
+
+At present, there is no well-established animal model of shingles infection, while animal models have been developed to test for shingles vaccines. We are employing the human skin explant-based SOC model for evaluation of drugs against VZV infection, in lieu of animal studies. This model is expected to be more relevant than an animal model. It is particularly suited for a topical drug such as ours. We believe that these human skin-patch SOC model experimental data will be sufficient to establish the effectiveness of a nanoviricide drug candidate to pursue further in human clinical studies.
+ 
+
+Page 10 of 87
+-------------
+
+ 
+
+Our developmental drug candidates for shingles treatment were also found to have a good safety profile in a preliminary rat safety/toxicology study, as we reported in April 2018. No clinically observable adverse safety and toxicology effects were seen in this study of the Company’s optimized topical dermal drug candidates based on multiple parameters evaluated. There were no adverse effects on the skin at the treatment sites. Equally importantly, the results of the non-GLP safety and toxicology study showed that there were no overall observable systemic effects either. There were no observable direct effects on the primary organ function whether the drug was administered to the skin or administered systemically. This includes liver and kidney function. This is important as the liver and kidneys are major organs involved in drug toxicity. Dermal topical treatment of rats with formulated drug candidates was evaluated in this study as a primary objective, since skin is the primary breakout site of HSV-1, HSV-2, and VZV infections. Additionally, the same drug candidates as formulated for systemic delivery were employed to evaluate potential systemic safety/toxicological effects. We now also report herein that there were no observable changes in the histo-pathological study (tissue structure) of a panel of organs including the brain, heart, liver, lungs, spleen, kidney, intestines, uterus, testis, as well as skin upon treatment with the tested drug candidates. The study was conducted by AR Biosystems of Beverly, MA. 
+
+
+Of note, the drug candidates tested in this safety/toxicology study have previously shown broad-spectrum effectiveness against alphaherpesviruses, i.e. HSV-1, HSV-2, and VZV.
+ 
+These results are consistent with the positive findings in a model of VZV (the shingles virus) infection of human skin in which no safety or toxicology concerns have been observed, further demonstrating the safety of these drug candidates. The drug candidates have shown strong effectiveness in these shingles virus studies as well, as previously reported. Further, these candidates have demonstrated strong anti-viral activities against HSV-1, HSV-2, and VZV in cell culture studies using multiple cell lines.
+ 
+These results have enabled the identification and declaration of a clinical drug candidate in the HerpeCide program. We have taken this candidate, namely NV-HHV-101, into IND-enabling studies, towards human clinical trials. The first indication we intend for treatment with this drug is the topical treatment of shingles rash.
+ 
+The Company’s drug candidates in HerpeCide™ program are being developed for direct topical application on the affected areas to control the infections. Direct topical application enables delivery of the highest possible concentrations of the active substance directly at the site of infection. This allows for maximal clinical effectiveness, while at the same time minimizing side effects that are seen with systemic therapy (such as oral drugs or injectables).
+ 
+This dermal drug development workload is expected to be significantly shorter than the studies for ocular, injectable, or oral drugs. We anticipate filing an IND once the report of these IND-enabling studies is available.
+ 
+Topical treatment of herpes virus infections is important because herpes viruses become latent in neuronal cells or in ganglia and cause periodic localized breakouts that appear as skin rashes and lesions. Systemic drug treatment results in side effects because of the high systemic drug concentrations that need to be achieved and the large drug quantities that must be administered. Since the virus remains mostly localized in the area of the rash and connected nerve apparatus, using high concentrations of drugs delivered in small quantities topically would allow maximizing the effectiveness while minimizing side effects. 
+
+
+Since these nanoviricides are designed to attack the virus directly, we believe that human clinical studies should reflect the success of the preclinical studies.
+ 
+We are also continuing to work on developing relevant chemical identification and characterization assays, physicochemical and biochemical characterization assays, and chemical process optimization studies, as part of the CMC (Chemistry, Manufacture and Controls) section of the Investigational New Drug (IND) Application for the shingles drug. We believe this drug will be our first candidate into human clinical trials. 
+ 
+
+Page 11 of 87
+-------------
+
+HerpeCide Program Collaborations and Program Update 
+ 
+We have engaged in several collaborations to help us finalize clinical candidates and develop IND-enabling pre-clinical data in our various programs this year. Notably, we have continued collaborations with the CORL at the University of Wisconsin for HSV-1 and HSV-2, with focus on small animal models for ocular and dermal diseases.
+ 
+In addition, we have a continuing relationship with Bio-Analytical Systems, Inc. (“BASi”), Indiana, a CRO for GLP and non-GLP safety/toxicology (“Tox Package”) studies. Further, we continue to engage Biologics Consulting Group (BCG), Virginia, for advice and help with regulatory affairs.
+ 
+We also have a collaboration with the Campbell Lab at the University of Pittsburgh for in vitro cell culture models of various ocular viruses including many adenovirus and herpes virus strains, as well as animal models for ocular herpes keratitis (HK) and adenoviral epidemic keratoconjunctivitis (EKC).
+ 
+In addition, we have continued our agreement with SUNY Upstate Medical University for the testing of the Company’s nanoviricides® drug candidates against varicella zoster virus (VZV), i.e. the shingles virus. This research is being performed in the laboratory of Dr. Jennifer Moffat.
+ 
+Initially, Dr. Moffat conducted cell culture studies i.e. in vitro studies. Upon finding that the nanoviricides drug candidates were effective against VZV in cell cultures, Dr. Moffat advanced the studies to the ex vivo human skin-patch organ culture (SOC) model studies stage, wherein our drug candidates are being evaluated against VZV infection of human skin patches.
+ 
+Dr. Moffat has extensive experience in varicella zoster virus (VZV) infection and antiviral agent discovery. The goal of these studies is to help select a clinical drug development candidate for toxicology and safety evaluation intended for clinical trials for the treatment of shingles in humans. 
+ 
+VZV is restricted to human tissue and only infects and replicates in human tissue. The ex vivo studies are continuing to evaluate the efficacy of the Company’s nanoviricides to inhibit VZV in human skin organ cultures. Dr. Moffat has developed the human skin organ culture VZV infection model for the evaluation of therapeutics. This model is a good representative model of natural VZV infection in humans as well as an important model for evaluating antiviral activity, because it demonstrates behavior similar to the skin lesions caused by VZV in human patients.
+ 
+Dr. Moffat is an internationally recognized expert on varicella zoster virus, and her research has focused on the pathogenesis and treatment of infection by this virus. The National Institute of Health has recognized this VZV model via a contract with Dr. Moffat’s lab for evaluating antiviral compounds against VZV. Dr. Moffat is the director of two research core facilities at SUNY Upstate: the Center for Humanized Mouse Models and In vivo Imaging.
+ 
+The Company has established a direct relationship with the Moffat lab, without NIH as an intermediary.
+ 
+In addition, Dr. Brian Friedrich, Senior Virologist of the Company continues to perform extensive antiviral cell culture studies against VZV, HSV-1 and HSV-2 using multiple cell lines and multiple strains of the viruses, in our BSL-2+ anti-viral cell culture laboratory in Shelton, CT.
+ 
+Dr. Friedrich presented a poster entitled “Novel Nanoviricides® Highly Effective Against Varicella Zoster Virus in Cell Culture” at the 36th Annual Meeting of the American Society of Virology (ASV) on June 26th, 2017. The ASV Meeting was hosted and held at the University of Wisconsin-Madison, from June 24th to 28th, 2017 (https://extensionconferencecenters.uwex.edu/asv2017/).
+ 
+The two active nanoviricide® candidates presented therein inhibited VZV up to 5x better than acyclovir-sodium (the current standard of care), and completely inhibited VZV protein production/infection in cell culture studies. These results indicate a very high level of anti-VZV effectiveness. The nanoviricide candidates were non-cytotoxic even at the highest doses in all cell lines tested. Thus it should be possible to administer very high concentrations of the drug locally on the skin without any deleterious effects.
+ 
+
+Page 12 of 87
+-------------
+
+ 
+
+Importantly, the data presented demonstrated that the anti-viral activity of a nanoviricide is driven by the virus-specific ligand attached to it. Thus, two of the nanoviricide drug candidates were highly effective against VZV, whereas a third one was not as effective. All three ligands were derived by in silico computer-aided drug design based on known structures of HSV glycoprotein binding to the cellular receptor, namely the herpes virus entry mediator (HVEM), and thus were expected to be active against herpes simplex viruses, and only some of them were anticipated to be active against all alphaherpesviruses. VZV is an alphaherpesvirus. This has once again demonstrated the validity of our scientific drug development approach.
+ 
+On July 10, 2017, the Company announced the results of initial testing of our anti-herpes drug candidates in the ex vivo human skin patch “SOC” model performed by Dr. Moffat.
+ 
+The anti-shingles nanoviricides® drug candidates achieved dramatic reduction in infection of human skin by the varicella-zoster virus (VZV), the shingles virus in this study. These findings corroborate the previously reported findings of inhibition of VZV infection of human cells in culture. The antiviral effect of certain nanoviricide drug candidates was substantially greater than the effect of the standard positive control of cidofovir added into media. Even more remarkably, the effect of these nanoviricides drug candidates was equivalent to a topical formulation of 1% cidofovir applied directly onto the skin patch. A topical skin cream containing 2% cidofovir is clinically used in very severe cases of shingles. However, the cytotoxicity of cidofovir is known to cause ulceration of the skin to which it is applied, followed by natural wound healing.
+ 
+Additional studies have continued at Dr. Moffat lab with small variations on the drug candidates and have led to the identification of a clinical drug candidate. These studies have continued to demonstrate excellent efficacy of our nanoviricide drug candidates against the VZV virus infection. Dr. Moffat presented some of the data at the 31st International Conference on Antiviral Research held June 11 - June 15, 2018 in Porto, Portugal.
+ 
+Shingles and Associated Pain, Postherpetic Neuralgia (PHN)
+ 
+Shingles is caused by re-activation of the chickenpox virus that most humans acquire in childhood. The chickenpox vaccine for children is a live, attenuated virus (LAV). The LAV is not as pathogenic as the wild-type virus. However, this means the virus is present in the vaccinated individual, but remains suppressed by the immune system. In both vaccinated and unvaccinated persons, re-activation occurs when the immune system is suppressed which may be simply because of stress, advanced age, or some other immune modifying circumstances including immune-compromise due to organ transplants or other diseases. Generally, humans in the age range of 50-60 are more prone to shingles, with next reactivation occurring about 10~15 years later. There is a shingles vaccine approved for adults age 60 and above which is also available for adults younger than that.
+ 
+Acyclovir-based oral drugs, such as valacyclovir (Valtrex®), are available as systemic therapy for shingles. Intravenous acyclovir is also employed for treatment of various VZV indications. However, VZV is substantially less sensitive to (val)acyclovir than is HSV-1. Thus the oral drug generally does not result in optimal level of the active drug at the site of VZV viral production, and does not result in significant control of the pathology. The antiviral drugs may be given for a period of 14 days or longer, with as much as 5g of dose per day, due to poor efficacy. In some indications, the treatment has been continued for a year or so. Thus, there is an unmet need for developing anti-VZV antivirals with high efficacy and safety.
+ 
+A Phase 3 clinical study comparing FV-100 to valacyclovir for PHN and shingles was terminated by ContraVir Pharma. FV-100 is a nucleoside analog with an extremely restricted activity range. A helicase/primase inhibitor, ASP2151, was found to be non-inferior to valacyclovir in a shingles clinical study. Astellas has suspended its development due to serious side effects in some healthy volunteers. A drug with a novel mechanism of action such as our nanoviricides should be promising.
+ 
+Most adults with shingles recover in about 15~30 days from the shingles rash. While the rash is unsightly, its stinging pain is often the debilitating pathology that leads to lost workdays and other effects. Further, 65~70% of patients develop postherpetic neuralgia, or PHN, a stinging, debilitating pain that lasts more than 30 days, and, in some patients, may last for years.
+ 
+
+Page 13 of 87
+-------------
+
+ 
+
+It is generally believed that PHN results from damage to the local nerve endings and nerve cells caused by the uncontrolled production of the shingles virus. However, VZV has been found to be present in at least 75% of PHN cases in a study, indicating a role for antivirals in controlling PHN. We believe that an effective therapy, such as our nanoviricide against VZV, which blocks progression of the virus to infect new cells and thereby limits further production of virus, would minimize the damage to nerve endings and nerve cells caused by the virus. We believe that this would minimize the occurrence, severity, and time period of PHN, in addition to having significant effects on the severity of shingles rash, lesions, and healing time.
+ 
+In light of this we have conducted an animal study regarding the effect of our nanoviricide drug candidates against shingles on neuropathic pain in a classical animal model of pain (without VZV infection). On August 7, 2018, subsequent to the reporting period, we reported that our anti-Shingles drug candidates were effective in ameliorating pain sensations in an animal model of abnormal pain. In this animal study, topical treatment with the nanoviricides® anti-VZV compounds significantly reduced the measures of abnormal pain sensations in a rat model of neuropathic pain. The study was conducted at AR Biosystems in Tampa FL. A characteristic excruciating pain is a debilitating pathology of shingles presentation. Thus a direct pain-reducing effect of the Company’s anti-shingles drug candidates would be very important in ameliorating the pathology of shingles, in addition to the already demonstrated significant antiviral effect.
+ 
+We believe that a skin cream would be the best form of treatment to provide rapid control of the virus and shingles lesions patch expansion, since the shingles outbreak remains highly localized. A skin cream would afford much greater local exposure of drug to virus compared to a systemic oral or injectable treatment.
+ 
+An effective therapy for patients with severe shingles continues to be an unmet need.
+ 
+HSV-1, HSV-2, Ocular Herpes Keratitis 
+ 
+We believe that a skin cream for the control of HSV-1 “cold sores” (herpes labialis, and recurrent herpes labialis or RHL) is another drug candidate that may be close to entering human clinical trials. We have already achieved strong success in animal studies against HSV-1, as discussed above.
+ 
+We believe that we will be able to successfully develop a drug candidates for Ocular Herpes Keratitis (HK) as well. It is caused by HSV-1 or HSV-2 infection of the external eye. We are developing this drug as topical eye drops or eye lotion, in order to achieve maximum local drug effect while minimizing systemic exposure. We plan on testing these drug candidates against adenoviruses as well, to determine if the same drug would also be effective against epidemic keratoconjunctivitis (EKC, the severe “pink eye” disease). If the same drug works against herpes virus and adenovirus infections of the eye, we expect this drug may cover almost 99% of all external eye viral pathologies.
+
+
+We also believe that we will be able to develop a drug against HSV-2 genital herpes. We plan on developing a skin cream for this indication, to maximize local effectiveness.
+ 
+Viral Acute Retinal Necrosis (v-ARN)
+ 
+The Company is also exploring additional indications of its anti-herpes drug candidates which is expected to broaden the pipeline and require limited development work. In particular, certain eye diseases of the retina have been causatively linked to herpes viruses. For example, most cases of viral Acute Retinal Necrosis (ARN), a disease that leads to severe loss of vision and can lead to blindness, have been linked to VZV and HSV-2, with some also associated with HSV-1 or CMV infection of the eye. It is believed that, HSV-2 ARN in children and adolescents may result from undiagnosed and asymptomatic neonatal HSV-2 infection, which has reactivated several years later from latency in a cranial nerve and entered the retina. Currently, intravenous followed by oral acyclovir derivatives daily for several months to years and sometimes intravitreal (into the eye) foscarnet injections are therapeutically employed with limited effectiveness, establishing the potential of effective antiviral therapy to avoid blindness as well as multiple surgeries related to retinal detachment. A highly effective antiviral that can be injected into the eye infrequently and provides sustained antiviral therapeutic effect over a long period of time for ARN is an unmet medical need.
+
+Page 14 of 87
+-------------
+
+ 
+
+Neonatally acquired herpes virus infections, even when asymptomatic, are thought to have led to ARN as late as age 22. There are approximately 2,500 cases per year of diagnosed neonatal herpes virus infections in the USA.
+ 
+cGMP Manufacture 
+ 
+We have already manufactured our lead drug candidate, NV-HHV-101, in a cGMP-compliant manner at this facility for the IND-enabling GLP Safety/Toxicology study. The drug substance, or active pharmaceutical ingredient (API) was produced at approximately 1kg-scale. Drug products, i.e. different dose levels of the skin cream, were made at scales of 3-5kg batches.
+ 
+The FluCide™ Program
+ 
+We intend to re-engage the FluCide program once the HerpeCide drug candidates enter human clinical trials, resource permitting. Previously, we had achieved industry-leading effectiveness levels demonstrating as high as 1,000-fold viral load reduction in a lethal animal model of influenza infection with multiple strains of influenza. We were developing an injectable drug candidate for treatment of severely ill patients, and an oral drug candidate for the treatment of out-patients.
+
+
+DengueCide™
+ 
+We intend to reengage the DengueCide program if and when non-dilutive funding such as research grants become available to us. At present we have not applied for any grants for this program.
+ 
+HIVCide™
+ 
+We intend to re-engage the HIVCide program once the HerpeCide drug candidates enter human clinical trials, resource permitting. Previously, the drug candidates in the HIVCide™ program were found to have effectiveness equal to that of a triple drug HAART cocktail therapy in the standard humanized SCID-hu Thy/Liv mouse model. Moreover, the nanoviricides were long acting. Viral load suppression continued to hold for more than four weeks after stopping HIVCide treatment. The Company believes that this strong effect and sustained effect together indicate that HIVCide can be developed as a single agent that would provide “Functional Cure” from HIV/AIDS. The Company believes that substantially all HIV virus can be cleared upon HIVCide treatment, except the integrated viral genome in latent cells. This would enable discontinuation of treatment until HIV reemerges from the latent reservoir, which may be several months without any drugs. Moreover, the Company believes that this therapy would also minimize the chances of HIV transmission. The Company is currently optimizing the anti-HIV drug candidates. These drug candidates are effective against both the R5 and X4 subtypes of HIV-1 in cell cultures. The Company believes that these drug candidates are “broad-spectrum”, i.e. they are expected to be effective against most strains and mutants of HIV, and therefore escape of mutants from our drugs is expected to be minimal. Certain anti-HIV nanoviricides have already been demonstrated that appear to provide extended viral load suppression for as long as 30 days or more even after stopping the drug, in animal studies. Given the chronic nature of HIV/AIDS, such a drug that has long sustained effect is expected to provide significant benefits to the patient. We believe once a week dosing is possible. Anti-HIV drug development is both expensive and slow because of the nature of the animal studies that require SCID mice whose immune system is destroyed and then replaced by surgically implanting and growing human immune system tissues in the mouse body. Due to our limited resources, HIVCide development is further hampered.
+
+
+EKC
+ 
+The Company is developing broad-spectrum eye drops that are expected to be effective against a majority of the viral infections of the external eye. Most of these viral infections are from adenoviruses or from herpes viruses. The Company has shown excellent efficacy of its drug candidates against EKC (adenoviral epidemic keratoconjunctivitis) in an animal model. If feasible, we are planning to merge the anti-EKC drug development program and the ocular Herpes Keratitis drug development program, to develop a single drug that is effective against both diseases, i.e. effective against both adenoviruses and herpes viruses. This work is in research stage. 
+
+Page 15 of 87
+-------------
+
+Other Drug Programs: Ebola, Rabies and others
+ 
+In addition, the Company also has research programs against Rabies virus, Ebola and Marburg viruses, and others. We will not be undertaking socially important programs such as the development of an anti-Zika virus drug candidate, or continuation of our efforts in developing anti-Ebola drug candidate, unless non-dilutive funding for such efforts becomes available. At present we have not applied for any grants for these programs.
+ 
+To date, the Company does not have any commercialized products. The Company continues to add to our existing portfolio of products through our internal discovery and clinical development programs and also seeks to do so through an in-licensing strategy.
+ 
+Thus, this year, we have further focused our programs and prioritized them in order to advance our first drug candidate into the clinic in the fastest possible path.
+ 
+Safety and Toxicology Studies 
+ 
+As part of the IND-enabling development of our topical skin cream for treatment of shingles rash, we have performed a substantial amount of safety and toxicology studies. We performed non-GLP safety toxicology studies in a rat model with two of the development stage candidates first. Both candidates were extremely well tolerated and no adverse events occurred. This, along with efficacy studies in the Human Skin Organ Culture model of Dr. Moffat, led us to identify a clinical candidate, namely, NV-HHV-101. We have performed IND-enabling non-GLP Safety Toxicology studies of this clinical candidate in multiple animal species. NV-HHV-101 was well tolerated at all dosages tested and none of the parameters tested were affected. Based upon these results, a GLP Safety/Toxicology study of dermal treatment in mini-pigs has been commissioned. These safety results are in agreement with histopathological observations in the human skin organ culture model studies.
+ 
+We previously performed initial safety-toxicology screening of an optimized FluCide® drug candidate in a GLP-like toxicology study in rats, as an injectable drug. We reported that a good safety profile was observed for this drug candidate in rats at the end of January 2015. These results are in agreement with the previously reported results of a non-GLP toxicology study in mice. These study results also support the Company’s positive findings in animal models of infection with different influenza A virus strains in which no safety or toxicology concerns were observed. The Company has previously reported that many of its FluCide candidates demonstrated extremely high anti-influenza activity in those models. These results are extremely important since they indicate that FluCide continues to look very promising as one of the most advanced candidates in the Company’s drug development pipeline.
+ 
+We believe that these safety/toxicology results are also applicable to other drug candidates as well in the sense that they have established the safety of the polymer backbones that we have employed. The polymer is made up of PEG (polyethylene glycol) chains put together into a single polymer chain with ligands and pendant lipids substantially uniformly attached at the connector points. This enables the nanoviricide to be substantially non-immunogenic. PEG chain attachment or PEGylation is a widely used technique for rendering antibodies and other drugs substantially non-immunogenic.
+ 
+Successful preliminary safety study in an animal model has cleared the way for us to begin IND-enabling safety/toxicology study for our shingles treatment drug candidate, as described earlier.
+ 
+Clinical and Regulatory Strategy 
+ 
+We have engaged Biologics Consulting Group, a well-known group of regulatory consultants, to advise us on the regulatory pathways, and the studies required for the IND applications for the various disease indications.
+ 
+At present, our anti-VZV drug candidate is in IND-enabling development stage, and is expected to enter human clinical trials once the current GLP Safety/Toxicology and related IND-enabling studies are completed.
+ 
+
+Page 16 of 87
+-------------
+
+ 
+
+The other HerpeCide™ program drug candidates are expected to follow into clinical development, as the necessary additional safety and efficacy studies in cell culture and animal models are performed. We depend upon external collaborators for animal safety and efficacy studies, limiting the speed of our drug development work. While we seek collaborators and providers that have animal models that may be predictive of efficacy in human clinical trials, pharmaceutical drug development relies on what is available and what is doable rather than this gold standard. Newly implemented animal models require validation studies to establish how reproducibly they can discriminate between placebo and drugs that are known to work in the clinic, when such drugs are available. In many cases, we have to rely upon research level animal models that have not yet established such robustness. Nevertheless, we can continue to use such models to obtain preliminary indications for drug candidate refinements.
+ 
+We believe that the efficacy we have observed of our anti-VZV drug candidates in the ex vivo Human Skin patch Organ Culture “SOC” model in the Moffat Lab is a strong indicator that these drug candidates are worthy of clinical development. There is no well-established animal model for shingles at present. As such we assume that these datasets will be sufficient for filing an IND.
+ 
+With the non-GLP Safety/Toxicology data, and our Chemistry, Manufacture and Controls (CMC) manufacturing dataset, we filed a pre-IND application with the US FDA for NV-HHV-101 as a topical treatment for shingles rash.
+ 
+On June 3, 2019, the Company reported that the US FDA (the Agency) has generally agreed in its pre-IND response that the plan of drug development presented by the Company to the FDA is generally adequate at this time. The Company received the response on May 23, 2019.
+ 
+In particular, the Agency agreed that the Company’s strategy for drug substance and drug product acceptance criteria is adequate. The Agency further agreed that the IND-enabling non-clinical studies proposed by the Company are generally adequate. The US FDA also said that the proposed design of the IND-opening human clinical studies appears reasonable at this time.
+ 
+The FDA made valuable suggestions in the pre-IND response. The additional non-clinical studies recommended by the Agency are generally consistent with the Company’s planned IND-enabling non-clinical studies. The Company has discussed the Agency’s comments and suggestions in detail with its regulatory consultants from Biologics Consulting Group, VA, and has continued the pre-clinical development program accordingly.
+ 
+We believe that our existing cGMP-capable manufacturing facilities are sufficient for the production of drug products for human clinical studies.
+ 
+Large Market Sizes – The Company Targets an Overall Anti-Viral Drug Market Size that Exceeds $40B
+ 
+The current market size for drugs for the treatment of different herpes simplex infections is estimated to be approximately $2~4 billion. The current market size for the treatment of shingles is estimated to be approximately $500 million to $1billion. We believe that when an effective topical treatment is introduced, the market size is likely to expand substantially, as it has for several drugs in the antivirals, oncology, and other areas.
+ 
+The approximate market size for severe cases of shingles may be approximately one billion dollars. Severe cases of shingles may lead to hospitalization in several thousand cases in the USA every year. In addition, shingles appearing on the face may reach the eye and may cause significant vision issues. The outpatient treatment market size for shingles at present is limited, because of the limited effectiveness of existing drugs. An effective drug could expand this market into billions of dollars globally. A new two-dose shingles vaccine called Shingrix® has recently been introduced. However, due to the severe side effects in a significant percentage of persons taking this vaccine at its first dose, compliance as well as market penetration may be limited. The supplies of this vaccine are limited at present. Shingles is not seen as a life-threatening or life-modifying disease, the use of vaccines is limited, and may continue to be limited, especially if an effective drug is developed.
+
+
+In addition, the estimated market size for an effective anti-Influenza drug is expected to be in tens of billions of dollars. The current estimate of anti-influenza drug market size is approximately $4 billion. The current market size for anti-HIV treatments is in excess of $20 billion. Other drugs in our pipeline, taken together, are estimated to be several billion dollars in market sizes.
+ 
+
+Page 17 of 87
+-------------
+
+ 
+
+Our focus at present is on the topical treatments for different herpes virus infections in the HerpeCide program, as listed elsewhere in this report. We plan on re-engaging our Influenza and HIV programs when sufficient funding and skilled human resources are available.
+ 
+Our Campus in Shelton, CT 
+ 
+We believe we are one of a few bio-pharma companies with its own cGMP-capable manufacturing facility. The multi-kilogram production scale of our facility would enable the potential for NanoViricides to become a fully integrated pharmaceutical company (“FIPCO"), organically growing by generating revenues from initial market entry, if our first drug is approved for marketing by appropriate regulatory authorities. As an example, a similar transition from R&D to FIPCO at Alexion (stock symbol: ALXN) led to a significant upswing in the market value of that company.
+ 
+With the large R&D labs, Analytical labs, the Bio labs, the Process Scale-Up production facility, and the cGMP-capable manufacturing facility established at our Shelton campus, we are in a much stronger position than ever to move our drug development programs into the clinic rapidly. These capabilities have enabled the rapid progress of our first drug candidate from development cycles through clinical drug candidate declaration to IND-enabling non-GLP and GLP Safety/Toxicology studies over the past two years.
+ 
+Process Scale-Up Production Capability 
+ 
+The Process Scale-up area is available and operational at scales of 200g to 2kg per step for different chemical synthesis and processing steps as required. It comprises reactors and process vessels on chassis or skids, ranging from 1L to 30L capacities, as needed. Many of the reactors or vessels have been designed by us for specific tasks.
+cGMP Production Capability 
+ 
+Our versatile, customizable cGMP-capable manufacturing facility is designed to support the production of multiple kilograms-scale quantities of any of our nanoviricides drugs. In addition, it is designed to support the production of the drug in any formulation such as injectable, oral, skin cream, eye drops, lotions, etc. The production scale is designed so that clinical batches for Phase I, Phase II, and Phase III can be made in this facility. The clean room suite contains areas suitable for the production of sterile injectable drug formulations, which require special considerations.
+ 
+We believe that the production scale is sufficient for initial market entry of the current drugs in the HerpeCide program.
+ 
+This cGMP-capable facility can handle multiple reactors on chassis of up to 75L capacities.
+ 
+At present, we move operations to our cGMP-capable manufacturing facility from the Process Scale-up facility as the operational steps are developed to the level needed for moving them into the cGMP facility. This requires the development of draft-level Standard Operating Procedures, training, and drill-through of operations. We now have a functional Quality Assurance and Quality Control Department.
+ 
+Resource Considerations
+ 
+We have lost approximately 40% of our personnel in the Chemistry and Engineering through attrition over the last few years and have not replaced them with new hires. The remaining staff is busy developing our pre-clinical HerpeCide programs.
+
+Page 18 of 87
+-------------
+
+ 
+
+Given the limited financing, we have not been able to attract the necessary talent for replacing the lost staff and for building out the additional independent departments such as QA/QC. We have been working with our extremely versatile and multi-talented team, in a task-serialized fashion, over the last several years. While the versatility of the team has enabled us to develop and establish most of the required quality assays and methods, we are severely limited in our abilities to develop the multiple programs wherein we have already obtained pre-clinical successful results. Also, we will need to add skilled staff before engaging into drug production for Phase 2 and Phase 3 human clinical trials.
+
+
+We operate in a completely novel area of medicines, which is broadly described as polymeric-micelle based drug conjugates and complex nanomedicines. Our technologies are also completely novel, and unmatched in the industry. As such, we anticipate a longer training period for new employees than for normal small chemical or biological drugs. We need talented personnel with specialized training. With the extreme difficulties in hiring foreigners due to immigration requirements, there is only a severely limited talent pool that may be available or accessible to us.
+ 
+We employ the same team that developed the small-scale synthesis chemistry for translation of those chemical syntheses into clinical-scale processes, and also to perform the related chemical engineering, quality control, quality assurance, and regulatory tasks along the way. Because of the small size of our scientific staff, this results in significant serialization of efforts. However, the personnel cost, as well as the time and expense cost of transfer of knowledge and training of a separate dedicated team is avoided because the same expert scientists who have developed the chemistries are also involved in scaling them up into process scale. To enable such extensive multi-tasking, we have a continuous training program in place, with both formal and informal components. We believe that this approach helps us keep drug development costs as low as possible.
+ 
+Our BSL-2 Certified Virology Lab 
+ 
+We have established several different types of assays for screening of candidates against VZV, HSV-1 and HSV-2 in our BSL-2+ Virology lab. We believe that having developed the internal capabilities for cell culture testing of our ligands and nanoviricides against a variety of viruses has substantially strengthened our drug development programs. We believe that this internal screening enables speedy evaluation of a much larger number of candidates than external collaborations allow. This has significantly improved our ability of finding highly effective ligands and performing structure-activity-relationship studies of the same in a short time period.
+ 
+We have the ability to work on multiple types of viruses or multiple virus strains at the same time, as this facility comprises three independent virological rooms. We also have the capability for performing HIV screening assays based on cell culture in house now, once we re-engage that program. We also have the ability to perform limited anti-influenza drug screening assays in cell culture in house.
+ 
+It is now possible for us to implement several other cell culture-based assays for many different viruses. These capabilities are expected to enable rapid drug development once we re-engage the drug development efforts in areas beyond the HerpeCide program again.
+
+
+We do not have the facilities for performing animal model studies for any of our programs. We depend upon external collaborators for such studies.
+ 
+Manufacturing Requirements of Some of Our Drug Candidates 
+ 
+The HerpeCide program drug product batch requirements are estimated to be fairly modest because of the topical nature of treatment. In consultation with BASi and BCG, we had estimated a batch size of approximately 1kg drug substance to be sufficient for the “Tox Package” (i.e. safety and toxicology) studies of our dermal topical shingles drug candidate. NV-HHV-101 drug substance manufactured at approximately 1kg scale in a cGMP-compliant manner and formulated into drug products at different concentrations at scales of up to 5kg was manufactured for the GLP Safety/Toxicology studies in our facility. Performing the manufacture in house has saved us a significant amount of money, possibly in tens of millions of dollars, as well as in time, possibly at least one year.
+
+Page 19 of 87
+-------------
+
+ 
+
+We are estimating that a ~500g batch will be more than sufficient for initial Phase-I human clinical studies as well. Our current estimate for a Phase 2a human clinical efficacy study is also in the range of a ~500g batch requirement. We already have the facilities for producing up to 1kg per batch or more.
+ 
+As we move our drug candidates into clinical studies, we plan to perform further scale-up studies. In the current facility, we may be able to manufacture about 20kg to 50kg of cGMP API (active pharmaceutical ingredient) annually. Depending upon the drug’s potency and indication, this production size may fetch modest revenues of around $50M to $500M, depending upon the cost metrics, enabling profitable market entry. Such initial commercialization would allow the Company to turn itself into a stand-alone fully integrated pharmaceutical company, by enabling capital formation for larger scale manufacturing facilities and fueling further growth.
+ 
+Patents, Trademarks, Proprietary Rights: Intellectual Property 
+ 
+The nanomedicine technologies licensed from TheraCour serve as the foundation for our intellectual property. NanoViricides holds a worldwide exclusive license to certain technology for several drugs with specific targeting mechanisms for the treatment of the following human viral diseases: Human Immunodeficiency Virus (HIV/AIDS), Hepatitis B Virus (HBV), Hepatitis C Virus (HCV), Rabies, Herpes Simplex Virus (HSV-1 and HSV-2), Influenza and Asian Bird Flu Virus. The Company has entered into an Additional License Agreement with TheraCour granting NanoViricides the exclusive licenses for technologies developed by TheraCour for the additional virus types: Dengue viruses, Japanese Encephalitis virus, West Nile Virus, Viruses causing viral Conjunctivitis (a disease of the eye) and Ocular Herpes, and Ebola/Marburg viruses.
+ 
+On September 1, 2005, the Company entered into a Material License Agreement, (the “License Agreement”) with TheraCour. Initially, TheraCour granted the Company an exclusive license for technologies developed by TheraCour for six virus types: HIV, HCV, Herpes Simplex Virus (HSV-1 and HSV-2), Rabies, Asian (bird) flu and Influenza. In consideration for obtaining this exclusive license, we agreed: (1) that TheraCour can charge its costs (direct and indirect) plus no more than 30% of certain costs as a development fee and such development fees shall be due and payable in periodic installments as billed; (2) to pay $25,000 per month for usage of lab supplies and chemicals from existing stock held by TheraCour; (3) to pay the greater of $2,000 or actual costs, for other general and administrative expenses incurred by TheraCour on our behalf; (4) to make royalty payments of 15% (calculated as a percentage of net sales of the licensed drugs) to TheraCour; (5) that TheraCour shall retain the exclusive right to develop and manufacture the Licensed Products, exclusively for NanoViricides, and unless such license is terminated, will not develop or synthesize the Licensed Products for its own sake or for others; and (6) to pay an advance payment equal to twice the amount of the previous months invoice to be applied as a prepayment towards expenses. TheraCour may terminate the License upon a material breach by us as specified in the agreement. However, the Company has the opportunity to cure the breach within 90 days of receipt of notice to terminate the License. On February 15, 2010, the Company approved an Additional License Agreement with TheraCour. Pursuant to the exclusive Additional License Agreement, in consideration for the issuance of 2,000,000 shares of the Company’s Series A Preferred Stock, (the “Series A Preferred”), the Company was granted exclusive license, under the same terms as the original License Agreement, for technologies, developed by TheraCour, for the development of drug candidates for the treatment of Dengue viruses, Ebola/Marburg viruses, Japanese Encephalitis, viruses causing viral Conjunctivitis (a disease of the eye) and Ocular Herpes. In 2015 TheraCour stopped billing the Company and the Company stopped paying for the $25,000 per month usage fee for prior existing materials, by mutual agreement. There was no amendment to the license contract effected for this purpose.
+
+
+These licenses are not limited to underlying patents, but also include the know-how, trade secrets, and other important knowledge base that is utilized for developing the drugs and making them successful.
+ 
+In addition, these extremely broad licenses are not limited to some specific chemical structures but comprise all possible structures that we could deploy against the particular virus, based on the licensed technologies. Further, the licenses are held by NanoViricides for worldwide use. The licenses can revert only in the case of a default by NanoViricides. The terms of default are such that, effectively, TheraCour would be able to take the licenses back only in the event that NanoViricides files bankruptcy or otherwise declares insolvency and the inability to conduct its business.
+
+
+The Company has entered into a Memorandum of Understanding with TheraCour, whereby, upon the request of the Company, TheraCour will initiate discovery and development for drug candidates for a new virus or indication upon such request. If the resulting drug candidates are worthy of further drug development, NanoViricides may determine that it should enter into a licensing agreement with TheraCour. In such a case, NanoViricides would obtain an independent asset valuation for the asset(s) to be licensed from a party experienced in such valuations. NanoViricides and TheraCour would thereafter negotiate the terms of compensation for the new license agreement. However, there can be no assurance that an agreement for licenses for new viruses will be entered into on terms that are favorable to NanoViricides. We believe this process has been extremely beneficial for NanoViricides, since this process saves NanoViricides from the cost of acquiring and paying for licenses that it may not want to pursue further. At present, TheraCour has licensed the Company HSV-1 and HSV-2, but has not licensed the VZV area, nor has it licensed any of the remaining herpes viruses. The licenses granted by TheraCour are for entire sets of pathologies that the licensed virus is a causative agent for. The licenses are not for single drug entities, although that is the customary mode in the Pharmaceutical industry. Thus, these are very broad licenses and enable NanoViricides to pursue a number of indications as well as develop drug candidates with different characteristics as is best suited for the indications, without having to license the resulting drugs separately.
+ 
+Patents and other proprietary rights are essential for our operations. If our drugs are protected by a properly designed and enforceable patent, it can be more difficult for our competitors to use our technology to create competitive products and more difficult for our competitors to obtain a patent that prevents us from using technology we create. As part of our business strategy, in conjunction with TheraCour, a company controlled by our founder and the holder of the patents underlying our licensed technology, we actively seek patent protection both in the United States and internationally and intend to file additional patent applications, when appropriate, to cover improvements in our compounds, products and technology. We also rely on trade secrets, internal know-how, technological innovations and agreements with third parties to develop, maintain and protect our competitive position. Our ability to be competitive will depend on the success of this strategy.
+ 
+The Company believes that our drugs by themselves may be eligible for patent protection. The Company, in conjunction with TheraCour, plans on filing patent applications for protecting these drugs when we have definitive results from in vitro or in vivo studies that enable further drug development and IND application filing.
+ 
+The Company has licenses to key patents, patent applications and rights to proprietary and patent-pending technologies related to our compounds, products and technologies (see Table 1), but we cannot be certain that issued patents will be enforceable or provide adequate protection or that pending patent applications will result in issued patents.
+ 
+
+Page 20 of 87
+-------------
+
+Table 1: Intellectual Property, Patents, and Pending Patents Licensed by the Company
+ 
+
+Patent or Application | Date of Issue/ Application | US Expiry Date | International | Owners 
+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------+--------------------------+--------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------
+US6,521,736 (Certain specific amphiphilic polymers). | Issued: Feb 18, 2003 | Feb 18, 2020 | N/A | TheraCour Pharma and Univ. of Massachusetts, Lowell. [Nonexclusive license from TheraCour Pharma].
+PCT/US06/01820 (SOLUBILIZATION AND TARGETED DELIVERY OF DRUGS WITH SELF-ASSEMBLING AMPHIPHILIC POLYMERS). | Applied: Jan 19, 2006 PCT U.S. Issuance: May 8, 2012. | October 2028 (estimated) | Applications are in various prosecution stages. Fifty-two of these have been issued or validated | TheraCour Pharma, Inc. [Exclusive License]. 
+PCT/US2007/001607 SELF-ASSEMBLING AMPHIPHILIC POLYMERS AS ANTIVIRAL AGENTS | Applied: Jan 22, 2007 | Ca. 2029(estimated) | Applications are in various prosecution stages. Nine of these have been issued or validated | TheraCour Pharma, Inc. [Exclusive License]. 
+
+ 
+We have previously announced certain important issuances of patents on the TheraCour® technology underlying our Nanoviricides® drugs. A fundamental patent on the polymeric micelles composition, structure and uses was issued in the USA with substantially broad claims. This validates the novelty of our approach as well as our leadership position in the nanomedicines based on polymeric micelle technologies. This patent application has so far been issued, granted, and/or validated, with substantially similar broad claims as 52 different patents in different countries and multi-country intellectual property organizations. A fundamental patent on which the nanoviricides® technology is based (US Patent No. 8,173,764) for “Solubilization and Targeted Delivery of Drugs with Self-Assembling Amphiphilic Polymers” was issued on May 8, 2012. The patent term is expected to last through October 1, 2028, including anticipated extensions in compensation for time spent in clinical trials. This US Patent has been allowed with a very broad range of claims to a large number of families of chemical structure compositions, pharmaceutical compositions, methods of making the same, and uses of the same. The disclosed structures enable self-assembling, biomimetic nanomedicines. NanoViricides, Inc. holds exclusive, perpetual, worldwide licenses to these technologies for a broad range of antiviral applications and diseases. The other national and regional counterparts of the international Patent Cooperation Treaty (“PCT”) application number PCT/US06/01820, which was filed in 2006, have issued as a Singapore National Patent Publication, a South African patent, and also as an ARIPO regional patent, an OAPI regional patent (covering Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Republic of Congo, Cote d’Ivoire, Equatorial Guinea, Gabon, Guinea, Guinea Bissau, Mali, Mauritania, Niger, Senegal, and Togo). It has also issued as a granted patent in New Zealand, China, Mexico, Japan, Australia, Canada, several countries in Europe, Hong Kong, Indonesia, Israel, Korea, Malaysia, Philippines, Pakistan, and Vietnam among others. Estimated expiry dates range nominally from 2026 to 2027, prior to accounting for various extensions available in different regions and countries. Additional issuances are continuing in Europe, and in several other countries around the world.
+ 
+
+Page 21 of 87
+-------------
+
+ 
+
+Another fundamental patent application on the antivirals developed using the polymeric micelles has so far been issued, granted, and/or validated, with substantially broad claims as well, as 9 different patents. The counterparts of the international PCT application PCT/US2007/001607 have issued as a granted patent in ARIPO, Australia, China, Japan, Mexico, New Zealand, OAPI, South Africa, and Korea to date. Additional issuances are expected in Europe, USA, and in several other countries around the world. This patent application teaches antivirals based on the TheraCour polymeric micelle technologies, their broad structures and compositions of matter, pharmaceutical compositions, methods of making the same, and their uses. The nominal expiry dates are expected to range from 2027 to 2029. Further patent prosecution in several other regions and countries is continuing.
+ 
+A total of at least, 61 patents have been issued globally, on the basis of the two international PCT patent families that cover the fundamental aspects of the platform technology we license from TheraCour. Additional patent grants are expected to continue as the applications progress through prosecution processes. All of the resulting patents have substantially broad claims.
+ 
+These patents have nominal expiry dates in 2026 to 2029. The dates can be further extended in several countries and regions for the additional allowances due to the regulatory burden of drug development processes, or other local considerations, such as licensing to a local majority held company. Many countries allow up to five years extension for regulatory delays.
+ 
+No patent applications have been filed for the actual drug candidates that we intend to develop as drugs as of now. We intend to file the patent application for HerpeCide before entering human clinical trials. The estimated expiry date for the HerpeCide patents, if and when issued, would be no earlier than 2039-2040.
+ 
+Of the patents and technologies licensed, the Company believes that it will not be using the intellectual property, compositions of matter, or other aspects described and secured under the US Patent No. US 6,521,736. The Company believes that this patent describes an inferior technology compared to the technology in the later patent filings of Dr. Diwan. This patent, the Company believes, discloses prototype materials that served to establish the proof of principles developed by Dr. Anil Diwan, the Company’s President and co-founder, whether such materials were possible to create and whether such materials would indeed be capable of encapsulation of pharmaceutically relevant compounds. The Company believes that the new and novel compositions disclosed in the new patent applications, No. PCT/US06/01820, and No. PCT/US2007/001607, and additional proprietary intellectual property provide the necessary features that enable the development of nanoviricides. The Company believes that no other published literature materials or existing patents are capable of providing all of the necessary features for this development, to the best of our knowledge. However, the Company has no knowledge of the extensive active internal developments at a number of companies in the targeted therapeutics area.
+ 
+TheraCour may obtain patents for the compounds many years before we obtain marketing approval for them. Because patents have a limited life, which may begin to run prior to the commercial sale of the related product, the commercial value of the patent may be limited. However, we may be able to apply for patent term extensions, based on delays experienced in marketing products due to regulatory requirements. There is no assurance we would be able to obtain such extensions. The Company controls the research and work TheraCour performs on its behalf and no costs may be incurred without the prior authorization or approval of the Company.
+ 
+Patents relating to pharmaceutical, biopharmaceutical and biotechnology products, compounds and processes such as those that cover our existing compounds, products and processes and those that we will likely file in the future, do not always provide complete or adequate protection. Future litigation or reexamination proceedings regarding the enforcement or validity of our licensor, TheraCour’s existing patents or any future patents, could invalidate TheraCour’s patents or substantially reduce their protection. In addition, the pending patent applications and patent applications filed by TheraCour, may not result in the issuance of any patents or may result in patents that do not provide adequate protection. As a result, we may not be able to prevent third parties from developing the same compounds and products that we have developed or are developing. In addition, certain countries do not permit enforcement of these patents, and manufacturers are able to sell generic versions of our products in those countries.
+ 
+
+Page 22 of 87
+-------------
+
+ 
+
+We also rely on unpatented trade secrets and improvements, unpatented internal know-how and technological innovation. In particular, a great deal of our material manufacturing expertise, which is a key component of our core material technology, is not covered by patents but is instead protected as a trade secret. We protect these rights mainly through confidentiality agreements with our corporate partners, employees, consultants and vendors. These agreements provide that all confidential information developed or made known to an individual during the course of their relationship with us will be kept confidential and will not be used or disclosed to third parties except in specified circumstances. In the case of employees, the agreements provide that all inventions made by the individual while employed by us will be our exclusive property. We cannot be certain that these parties will comply with these confidentiality agreements, that we have adequate remedies for any breach, or that our trade secrets will not otherwise become known or be independently discovered by our competitors.
+ 
+Trademarks
+ 
+The Company currently has no registered trademarks.
+
+
+Presentations and Conferences
+ 
+The Company continues its efforts at connecting with additional investors and presenting in investor-oriented business conferences. Some of these are listed below.
+ 
+Our collaborator, the Moffat group at Upstate Medical Center, SUNY, Syracuse, NY, presented a poster entitled describing the effectiveness on nanoviricide candidates against VZV virus in a human skin patch organ culture (“SOC”) model of shingles, at the 31st International Conference on Antiviral Research held June 11 - June 15, 2018 in Porto, Portugal.
+ 
+The Company presented a poster entitled “Novel Nanoviricides® Highly Effective Against Varicella Zoster Virus in Cell Culture” at the 36th Annual Meeting of the American Society of Virology (ASV) on June 26, 2017. The ASV Meeting was hosted and held at the University of Wisconsin-Madison, from June 24th to 28th, 2017 (https://extensionconferencecenters.uwex.edu/asv2017/). Dr. Brian Friedrich, Senior Virologist of the Company, presented the Company’s work on the evaluation of nanoviricides drug candidates for effectiveness against the shingles virus (Varicella Zoster Virus, VZV, aka Human HerpesVirus-3 or HHV-3) in this poster.
+ 
+The Company gave an oral presentation on the “Effect of NanoViricide Anti-viral Agents in a Mouse Model of Acute Retinal Necrosis”, at the 51st Annual Meeting of the Ocular Microbiology and Immunology Group (OMIG) held at the Astor Crowne Plaza Hotel in New Orleans, LA, on November 10, 2017. Both tested nanoviricide candidates were effective in decreasing viral load by about 2 to 3 logs at day 3 and demonstrated significant positive clinical effects on controlling HSV-2 G infection in the mouse eye. The study was conducted in Dr. Brandt Lab at the CORL, University of Wisconsin, Madison, WI.
+ 
+
+Page 23 of 87
+-------------
+
+ 
+
+Previously, on February 22, 2016, the Company announced that information on its novel proprietary anti-virus platform technology has been published in the book “Handbook of Clinical Nanomedicine, Vol. 1. Nanoparticles, Imaging, Therapy, and Clinical Applications”, a CRC Press publication. The chapter entitled “Nanoviricides: Targeted Anti-Viral Nanomaterials” provides an in-depth presentation of the NanoViricides platform technology, evidence for how nanoviricides® are believed to act plus dramatic results of nanoviricides specifically targeting certain viral diseases, such as Influenza. 
+ 
+Glossary of Terms
+ 
+Nano - When used as a prefix for something other than a unit of measure, as in “nanoscience,” nano means relating to nanotechnology, or on a scale of nanometers (one billionth of a meter or greater).
+Viricide - An agent that reliably deactivates or destroys a virus.
+ 
+Nanoviricide ® – An agent that is made by attaching ligands against a certain virus or family of viruses to a nanomicelle based on the Company’s patent-pending and proprietary technologies.
+Ligand - A short peptide or chemical molecule fragment that has been designed to specifically recognize one particular type of virus.
+ 
+Micelle - an aggregate of molecules in a solution, such as those formed by detergents.
+ 
+Nanomicelle - A term coined to describe the micelles formed from the backbone polymer of a nanoviricide sans attached ligands.
+ 
+Pendant polymeric micelles - A polymeric micelle forms from a polymer whose chemical constitution is such that even a single chain of the polymer forms a micelle. A pendant polymer is a polymer that has certain units in its backbone that extend short chains branched away from the backbone. Pendant Polymeric Micelles therefore are polymeric micelle materials that are a class of pendant polymers, and naturally form exceptionally well-defined, self-assembling, globular micelles with a core-shell architecture.
+Mutations - The ability (of a virus) to change its genetic structure to avoid the body’s natural defenses. Mutant viruses are created from a parent virus strain through a process of natural selection under pressure as it replicates in a host.
+ 
+P-Value - In statistical hypothesis testing, the p-value is the probability of obtaining a result at least as extreme as that obtained, assuming that the null hypothesis is true; wherein the truth of the null hypothesis states that the finding was the result of chance alone. The fact that p-values are based on this assumption is crucial to their correct interpretation. The smaller the p-value, the greater is the probability that the observed study results and the comparison control are distinct, and therefore that the study results are not a result of chance alone.
+ 
+More technically, the p-value of an observed value observed of some random variable T used as a test statistic is the probability that, given that the null hypothesis is true, T will assume a value as or more unfavorable to the null hypothesis as the observed value observed. “More unfavorable to the null hypothesis” can in some cases mean greater than, in some cases less than and in some cases further away from a specified center value.
+ 
+Investigational New Drug Application (Investigational New Drug (“IND”) - The process of licensure of a new drug in the US goes through several steps. A simplified explanation of these steps is as follows. Initially a Company may file a pre-IND application to seek meetings with the FDA for guidance on work needed for filing an IND application. The Company obtains data on the safety and effectiveness of the drug substance in various laboratory studies including cell cultures and animal models. The Company also obtains data on chemical manufacturing of the drug substance. These and certain additional data are used to create an IND that the Company files with the FDA. After the FDA approves an IND application, the Company may conduct human clinical studies. A Phase I human clinical trial is designed typically to evaluate safety of the drug and maximum permissible dosage level. A Phase II human clinical trial that follows is designed to evaluate effectiveness of the drug against the disease in a small cohort of patients. A Phase III human clinical trial thereafter is designed to evaluate effectiveness and safety in larger groups of patients, often at multiple sites. The Company may then submit an NDA (New Drug Application) with the data collected in the clinical trials. The FDA may approve the NDA. Once the NDA is approved, the Company can sell the drug in the USA. European countries have similar processes under the European Medicines Agency (EMA). Other countries have similar processes.
+
+Page 24 of 87
+-------------
+
+SAR: Structure-Activity-Relationship study. When an initial lead drug compound is found that has activity, further studies on drug compounds obtained by suitably modifying it are performed with the goal of improving efficacy, safety, or both. Such studies are called SAR studies.
+The Company’s Drug Pipeline 
+ 
+Over the first several years of our operations, we continued to work on different viruses every year, creating a broad pipeline of drug candidates. This provided a validation for our novel technologies. In addition, we were pursuing non-dilutive drug development and partnering opportunities such as government grants and contracts as well as partnering with other non-governmental agencies, or medium and large pharmaceutical companies.
+ 
+We had realized that the current pharmaceutical industry contract manufacturing operations (CMOs) do not have the expertise in our kinds of nanomedicines. We therefore acquired the cGMP-capable nanomedicines drug development and manufacturing facility from Inno-Haven LLC in 2014 at cost. Dr. Anil Diwan, our co-founder, had established Inno-Haven LLC to acquire and develop lab facilities appropriate for his work. On December 31, 2014, the Company entered into and consummated an Agreement for the Purchase and Sale of this cGMP-compliant pilot manufacturing and lab facility and property located in Shelton, Connecticut. The purchase price of the facility was comprised solely of the repayment of the direct costs of the seller, Inno-Haven, LLC incurred in acquiring and renovating the property and the facility plus Inno- Haven’s closing costs in connection with the sale.
+ 
+We were able to drive our drug development programs towards regulatory approval processes only after this modern facility for nanomedicines synthesis, characterization, scale-up, and cGMP-like production became available. The facility became substantially operational at the end of December 2015. Since then, we have engaged in activities necessary for filing an IND (Investigational New Drug application) with the US FDA or another international regulatory agency to begin Phase I human clinical trials of our first drug candidate.
+ 
+We chose our HerpeCide drug program, and in particular, skin cream for topical treatment of pathologies caused by herpes simplex viruses as our lead program based on regulatory requirements, resource requirements, commercial opportunity, ROI maximization opportunities, and other considerations. We had developed certain broad-spectrum ligands based on molecular modeling for binding to herpes simplex virus and potentially interfere with this virus’ binding to its human cell entry receptor, namely HVEM (“herpes virus entry mediator”). The nanoviricides designed using these ligands have shown broad-spectrum activity in cell cultures against multiple HSV strains and both HSV-1 and HSV-2. Our early drug candidates have also shown substantial effectiveness in an animal model of HSV-1 skin disease (for HSV-1 “cold sores” treatment). Additionally, we found that the same drug candidates also demonstrated effectiveness against VZV, the cause of shingles in adults and chickenpox in children.
+ 
+This has led to our new strategy for drug development with the goal of entering our first drug candidate into human clinical trials at the earliest possible timeframe. Table 2 below summarizes our drug development programs, specific disease indications we plan on developing against, and the priority for each drug in the development pipeline.
+ 
+
+Page 25 of 87
+-------------
+
+Table 2. NanoViricides Drug Products in Development
+
+
+
+Program | Drug | Virus | Indication | Development Stage | Priority 
+---------------------------------+-----------------------------------------------------+-------------------------------+-------------------------------------------------------+----------------------------------------------------------------------------------------------+-------------------------------------------------------
+I | HerpeCide™ Dermal Topical and Eye Drops | 1a | Varicella-Zoster Virus (VZV) | Shingles | IND-Enabling | A
+1b | PHN | Advanced Preclinical | C 
+1c | Chickenpox | Advanced Preclinical | C 
+2a | HSV-1 | Herpes “Cold Sores” | Advanced Preclinical | B 
+2b | Recurrent Herpes Labialis (RHL) | Advanced Preclinical | C 
+3 | HSV-2 | Genital Herpes | Preclinical | B 
+4 | HSV-1, HSV-2 | Ocular Herpes Keratitis (HK) | Preclinical | C 
+HerpeCide™ IntraOcular Injection | 5 | VZV, HSV-2, HSV-1 | viral Acute Retinal Necrosis (vARN) | Preclinical | C 
+II | FluCide™ Broad-Spectrum Anti-Influenza nanoviricide | 6 | All Influenza A | Injectable FluCide™ for hospitalized patients | Advanced Preclinical Pre-IND Meeting held with US FDA | D
+7 | All Influenza A | Oral Flucide™ for outpatients | Advanced Preclinical Pre-IND Meeting held with US FDA | D 
+III | Nanoviricide Eye Drops | 8 | Adenoviruses, HSV-1 | Eye Drops for Viral Diseases of the External Eye | Preclinical | E
+IV | DengueCide™ | 9 | Dengue viruses, all types | Broad-Spectrum nanoviricide against all types of Dengue viruses | Preclinical | F
+V | HIVCide ™ | 10 | HIV/AIDS | Escape-resistant Anti-HIV nanoviricide | Preclinical | D
+VI | Other Nanoviricides Drug Projects | - | Ebola/Marburg, Rabies, MERS, Others | Broad-Spectrum nanoviricide drugs against different viruses and indications | R&D | F
+VII | HerpeCide™ Program Expansion Drug Projects | - | Possible EBV, HCMV, HHV-6A, HHV-6B, HHV7, KSHV | Broad-Spectrum nanoviricide drugs against different herpes viruses for different indications | R&D | F
+VIII | Long Term Projects | - | Various | Technologies for Cures for Persistent Viral Diseases | R&D | F
+
+ 
+The Company currently has drug candidates for more than eight different indications in various stages of development in the HerpeCide program alone. Of these, the skin cream for the topical dermal treatment of shinglesrash (VZV) has advanced into IND-enabling GLP Safety/Toxicology studies, having completed candidate optimization through rapidly performed human skin organ culture assays in Professor Jennifer Moffat's lab at the SUNY Syracuse Upstate Medical Center. We believe that the Skin Cream for the dermal topical treatment of HSV-1 cold sores and the skin cream for the dermal topical treatment of HSV-2 genital ulcers are expected to rapidly mature towards human clinical trials in short succession after the clinical VZV drug candidate, namely NV-HHV-101. We have expanded the HerpeCide program to include additional indications for which we are developing drugs that are the same as or simple modifications of the existing drug candidates in the HerpeCide program, generally with a different formulation due to a different delivery pathway. This enables us to maximally leverage current R&D while expanding our drug pipeline and potential market and making a greater impact on patient lives. We are currently negotiating a license agreement for VZV with TheraCour. We have executed a memorandum of understanding (MoU) with TheraCour on the general terms of this license. A definitive license agreement is currently being negotiated between the parties, although there can be no assurance that the final agreement will be on terms that are at least as favorable to us as the terms in the executed MoU.
+ 
+Given the limited financing available to the Company, and given the large development costs associated with FluCide, HIVCide and other drug programs, we believe that these drug candidates will follow later because of the significant development work that needs to be performed in pre-clinical studies against a number of different influenza virus strains and subtypes.
+ 
+
+Page 26 of 87
+-------------
+
+ 
+
+Management’s beliefs are based on results of pre-clinical cell culture studies, ex vivo tissue-based studies (e.g. human skin patch oran culture model), and in vivo animal studies using small animals
+ 
+The Company is scaling up the production of its nanoviricide drug candidates for skin cream against VZV as shingles treatment. Subsequent to the reporting period, we have commissioned our first large-scale batch synthesis program for making sufficient quantities of a drug candidate for the ensuing IND-enabling Safety/Toxicology studies. In preliminary safety/toxicology studies, our shingles drug candidates were found to be extremely safe. As a result, the “Tox Package” program is being designed for maximum feasible dose, increasing the required quantities.
+ 
+HerpeCide - We have declared the clinical candidate, NV-HHV-101, for the shingles indication, and have advanced it into IND-enabling non-GLP and GLP Safety/Toxicology studies. In addition, we continue to conduct studies for optimizing the anti-HSV ligands in animal studies for the other disease indications listed in Table 2. We believe we will be able to successfully advance the optimized drug candidates into an IND and human clinical trials. We are developing anti-herpes virus drugs against several different indications at present, namely, (1) skin cream for topical treatment of shingles, chickenpox, and PHN (VZV), (2) skin cream for treating herpes labialis (“cold sores”) and recurrent herpes labialis (RHL) (HSV-1), (3) Eye drops for Herpes Keratitis treatment, (4) skin cream for genital herpes (HSV-2) treatment, and (5) intravitreal injection for Viral Acute Retinal Necrosis (viral ARN, wherein causative agents are mostly VZV, HSV-2, HSV-1 or other viruses). We have continued to expand the HerpeCide program to include additional indications to take full advantage of the development synergies. We have expanded this program to include topical treatment of shingles and were able to very quickly bring this indication to the status of our most advanced program. This has been possible because of the extremely high synergy between the different HerpeCide drug programs, and because of the extremely high effectiveness of our nanoviricides drug candidates we observed against VZV both in cell cultures and in an ex vivo human skin patch organ culture (“SOC”) model. We continue to harness additional synergies in the HerpeCide program. For example, viral Acute Retinal Necrosis (vARN) is a pathology that leads to severely reduced vision, and can lead to blindness. Research and clinical lab testing have identified that a large proportion of cases are linked to herpes viruses. Of these, a majority of cases are caused by HSV-2 or VZV. Thus, reformulating our topical drug candidates against HSV-2 and VZV for intravitreal treatment of ARN caused by these viruses presents an exciting opportunity. Successful treatment would result in significant patient benefits as well as a significant commercial opportunity. Since vARN is a relatively rare disease, with only a few hundred new cases per year diagnosed in the USA, we believe it should be eligible for the “orphan drug” incentive programs. In addition, we could potentially supply the patient pool with commercial drug product from our existing facility alone, without having to invest in or develop additional commercial large scale manufacturing facilities.
+ 
+An intravitreal injection requires significantly increased burden in manufacturing, because it requires sterile manufacturing. In addition, it may require a longer Safety/Toxicology program than the skin topical treatments, if it is found to release the drug into systemic circulation. Our FluCide and HIVCide drug candidates are also injectables and require sterile manufacturing and extensive Safety/Toxicology studies because of systemic delivery (compared to dermal topical drugs that may not have systemic availability). While we do have sterile API and Drug Product Manufacturing Capabilities, the CMC program, QA/QC program, and production timelines for injectable drugs are significantly more burdensome and therefore more time-consuming than topical formulations such as dermal topical formulations or external eye drops/gels.
+ 
+All of the above HerpeCide programs share substantial common drug manufacturing processes and chemicals. Some of these may be the same drugs with different formulations to account for different routes of administration. Thus, these programs are strategically developing in parallel to maximize return on investment, (ROI) and therefore shareholder value. These programs are our current development focus and have been given priority ratings of A, B, and C. The priority ratings may change as a program develops. We have seen this happen with the newly introduced shingles program which quickly moved to priority A due to rapid development, even ahead of our HSV-1 and HSV-2 drug candidates.
+ 
+
+Page 27 of 87
+-------------
+
+ 
+
+The HerpeCide indications listed in Table 2 alone represent a market size opportunity of over $3B to $5B. After introduction of the new Shingrix™ vaccine for shingles, and existing vaccines, the market size for shingles treatment is still estimated to be in the range of a billion dollars, and that for shingles+PHN treatment is estimated to be in the tens of billions dollar range.
+
+
+FluCide. We are developing injectable flucide for severely ill hospitalized patients and oral flucide for out-patients. We achieved industry leading 1,000X reduction in viral load in lethally infected animal model studies previously. This program is on hold due to resource limitations.
+ 
+HIVCide is our first announced drug project against HIV-I. Our first HIV drug to be developed is a targeted nanoviricide against HIV and is engineered with specific recognition ligands that allow multiple-point binding to inactivate HIV virus in the bloodstream. We have previously demonstrated in the standard SCID-hu Thy-Liv humanized mouse model a strong effectiveness of our drug candidates, leading us to believe that a “Functional Cure” with our drug candidate as a single agent is possible. We are also working towards a complete cure of HIV, which requires elimination of the latent virus HIV DNA copies. The nanoviricide nanomedicines platform is the only platform to the best of our knowledge that has the capabilities required for enabling such a true cure. This program is on hold due to funding limitations.
+ 
+Nanoviricide Eye Drops - We previously undertook a new project and have already designed a ligand, made a nanoviricide drug, and completed successful animal studies that indicate significant preliminary efficacy and safety of a drug candidate against the severe pink eye disease caused by adenoviruses called epidemic keratoconjunctivitis (EKC). We have expanded the indication to include HSV, another cause of viral eye diseases. We designed new broad-spectrum ligands expected to be active against all HSV types and strains, as well as retaining the previously observed activity features against adenoviruses and created new nanoviricide drug candidates. We have already tested these against HSV in cell cultures.
+ 
+DengueCide - We obtained an orphan drug designation from the US FDA for our lead drug candidate in this program. This program is assigned Priority Level F and will be activated if sufficient resources become available.
+ 
+Further, there are several additional indications under the HerpeCide program that we can continue to expand into, which would maximize return on investment and shareholder value, as we make further progress into the clinic with our first drug.
+ 
+The Company believes it has a strong and growing drug pipeline to take us several years into the future. The Company already has technologies in development that we hope may yield even better drugs against various diseases as the drugs we are developing now approach their product end of lifecycle. In particular, we are working on longer term research projects for the purpose of eliminating persistent viruses, thus providing true cures for many intractable diseases such as HIV/AIDS, Herpes, Shingles, Epstein-Barr Virus, among others.
+
+
+Additionally, we had demonstrated the potential for developing highly effective drugs against Dengue viruses, Ebola/Marburg viruses, and others, in cell culture and/or animal studies.
+ 
+It should be noted that all of our studies to date were preliminary. Thus, the evidence we have developed is indicative, but not considered confirmative, of the capabilities of the nanoviricides technology’s potential. With the success of these preliminary studies, the Company has decided to perform further pre-clinical studies that validate safety and efficacy of its materials and its various anti-viral drugs. We are advancing our drug candidates into IND-enabling “Tox Package” studies, as they mature through animal model efficacy and preliminary safety studies. Management intends to use capital and debt financing to enable the completion of these goals.
+ 
+With the limited financial resources we currently have, we have now focused all our efforts on the HerpeCide program, and more specifically, on taking our first clinical drug candidate, NV-HHV-101 into human clinical trials. We continue to work on the other programs whenever feasible given our resource constraints. We intend to engage into those programs more fully at a later date if funding is available.
+ 
+The overall market size addressed by our programs can be estimated at $20 billion to $40 billion, according to research reports prepared by Jain PharmaBiotech and Nanotech Plus, LLC. Of this, the market size for a highly effective shingles treatment has been estimated by Nanotech Plus in excess of one billion dollars, after taking into account the recent introduction of the new Shingrix® vaccine (GSK). The overall market size for the HerpeCide program is estimated at over $5 billion based on published market reports from Jain PharmaBiotech in 2014.
+
+
+
+Page 28 of 87
+-------------
+
+Drug Development Plan
+ 
+The Company intends to perform the regulatory filings and own all the regulatory licenses for the drugs it is currently developing. The Company will develop these drugs in part via subcontracts to TheraCour Pharma, Inc. (“TheraCour”), the exclusive source for these nanomaterials. With sourcing of materials from TheraCour, the Company prefers to manufacture these drugs in our own facility. However, the Company may manufacture these drugs under subcontract arrangements with external manufacturers that carry the appropriate regulatory licenses and have appropriate capabilities. The Company intends to distribute these drugs via subcontracts with distributor companies or in partnership arrangements. The Company plans to market these drugs either on its own or in conjunction with marketing partners. The Company also plans to actively pursue co-development, as well as other licensing agreements with other pharmaceutical companies. Such agreements may entail up-front payments, milestone payments, royalties, and/or cost sharing, profit sharing and many other instruments that may bring early revenues to the Company. Such licensing and/or co-development agreements may shape the manufacturing and development options that the Company may pursue. The Company has received significant interest from certain pharmaceutical companies for potential licensing or co-development of some of our drug candidates. However, none of these distributor or co-development agreements is in place at the current time.
+Manufacturing
+ 
+Manufacturing of Research Materials
+ 
+Nanomaterials that form the basis of our nanoviricide drugs are produced for research by TheraCour at our facilities in Shelton, Connecticut, under our licensing agreements with TheraCour.
+Manufacturing of Drugs
+ 
+The Company intends to manufacture Dermal Topical anti-HSV-1, anti-HSV-2, and anti-VZV drug candidates and drugs, as well as anti-HSV Eye Drops/Gels, Injectable and Oral FluCide, HIVCide, DengueCide, RabiCide as well as other drugs for pre-clinical animal studies and human clinical studies, in facilities owned by the Company, through human clinical trials of each of the clinical drug candidates. Our cGMP-capable manufacturing facility in Shelton, CT has sufficient capacity for supply of the pre-clinical and clinical batches needed for all of our drug candidates as and when they are anticipated to be needed. The Company may go to a cGMP third party provider for the final fill-and-finish of the clinical drug products if necessary.
+ 
+With recent successes in production scale-up, the Company believes that it now has sufficient capacity at the Shelton cGMP-capable manufacturing facility to enable market-entry of our first drugs upon approval, potentially enabling the Company to build itself into a fully integrated pharmaceutical company ("FIPCO"), which could provide substantial shareholder value. We note as a risk factor that there is no guarantee that the Company can take its drug candidates successfully through clinical trials, and if it does, that it can obtain marketing approval, and if it does, that it can market the drugs successfully. For our future commercial products, we will need to develop additional manufacturing capabilities and establish additional third-party suppliers to manufacture sufficient quantities of our product candidates to undertake clinical trials and to manufacture sufficient quantities of any products that are approved for commercial sale. If we are unable to develop manufacturing capabilities internally or contract for large scale manufacturing with third parties on acceptable terms for our future antiviral products, our ability to conduct large-scale clinical trials and meet customer demand for commercial products would be adversely affected.
+
+
+
+Page 29 of 87
+-------------
+
+ 
+
+We believe that the technology we use to manufacture our products and compounds is proprietary. For our products, we may have to disclose all necessary aspects of this technology to contract manufacturers to enable them to manufacture the products and compounds for us. We plan to have discussions with manufacturers under non-disclosure and non-compete agreements that are intended to restrict them from using or revealing this technology, but we cannot be certain that these manufacturers will comply with these restrictions. In addition, these manufacturers could develop their own technology related to the work they perform for us that we may need to manufacture our products or compounds. We could be required to enter into an agreement with that manufacturer if we wanted to use that technology ourselves or allow another manufacturer to use that technology. The manufacturer could refuse to allow us to use their technology or could demand terms to use their technology that are not acceptable.
+ 
+We believe that we are in compliance with all material environmental regulations related to the manufacture of our products.
+ 
+Competition
+ 
+Our products in development target a number of diseases and conditions that include several different kinds of viral infections. There are many commercially available products for many of these diseases and a large number of companies and institutions are spending considerable amounts of money and other resources to develop additional products to treat these diseases. Most of these companies have substantially greater financial and other resources, larger research and development staffs, and extensive marketing and manufacturing organizations. When and if we are able to successfully develop products, they would compete with existing products based primarily on:
+
+· | efficacy; 
+--+--------------------------------------------
+· | safety; 
+· | tolerability; 
+· | acceptance by doctors; 
+· | patient compliance; 
+· | patent protection; 
+· | ease of use; 
+· | price; 
+· | insurance and other reimbursement coverage;
+· | distribution; 
+· | marketing; and 
+· | adaptability to various modes of dosing. 
+
+ 
+There are several drugs in the market that effectively control HSV cold sores and genital herpes lesions in most patients. These include the nucleoside analogues idoxuridine, vidarabine, acyclovir, famciclovir, ganciclovir, and derivatives. However, their efficacy is limited or toxicities are high. Brincidofovir, based on the toxic drug cidofovir, is in development by Chimerix, but certain clinical trials involving brincidofovir have failed to meet the desired end points. Foscarnet is also used for VZV and ARN, but its toxicity is high. FV-100 was in clinical development against VZV, but these clinical developments appear to have been abandoned. In addition, pritelivir, antibodies, and some other drugs are in advanced stages of development against HSV-1 or HSV-2. A gamma globulin was recently approved.
+ 
+The prevalence of herpes simplex virus type 1 (HSV-1) and HSV-2 is 47.8% and 11.9%, respectively, for individuals aged 14 to 49 years, and increases with age, in the USA, according to CDC. HSV-2 causes a more severe disease that also has significant social costs to the patient. In spite of the existing drugs, both HSV-1 and HSV-2 cause lifelong infection that continues to reactivate at different rates in different patients. Thus, in spite of several existing drugs that are already generic, the market size for a highly effective drug is estimated to be in tens of billions of dollars for each of HSV-1 and HSV-2 treatments.
+ 
+There are currently no approved drugs for the treatment of diseases caused by VZV, namely, shingles, PHN, and chickenpox. Valcyclovir or other acyclovir-class drugs are often prescribed orally but have little effect on shingles. Cidofovir is used in extreme cases of shingles, but it is highly toxic, limiting benefit of the drug, limiting drug dosage and causing significant side effects. Several pain relievers are being developed to treat shingles pain and also the PHN pain. Thus, a safe and effective treatment against VZV is an unmet medical need.
+ 
+There are currently no approved drugs for the treatment of viral diseases of the external eye.
+ 
+
+Page 30 of 87
+-------------
+
+ 
+
+The current approved drugs for influenza include the neuraminidase inhibitors Tamiflu, Relenza, and Peramivir, anti-influenza drugs that are sold by Roche, Glaxo SmithKline (GSK), and BioCryst partners, respectively. In addition, M2 channel inhibitors, generic drugs include amantadine and rimantadine, both oral tablets that only inhibit the replication of the influenza A virus. There is significant viral resistance to the approved M2 channel inhibitors especially in the US. Several companies are developing anti-influenza drugs at present. Small chemical classes include neuraminidase inhibitors, M2-channel inhibitors, and RDRP inhibitors, among others. There are also monoclonal, polyclonal, and mixed antibodies, as well as enzymes as drugs in development. Xofluza, developed by Shionogi Pharma (Japan) is approved in Japan and recently in the USA, licensed by Roche/Genentech. It is an influenza endonuclease inhibitor. It appears to be substantially more effective than existing drugs in reducing viral load and viral shedding, but did not have any effect on the length of the influenza disease course.
+ 
+There are a growing number of anti-HIV drugs being sold or in advanced stages of clinical development. Companies with HCV and HIV products include Gilead, Bristol-Myers Squibb Company (BMS), Roche, Boehringer Ingelheim, Merck & Co., Inc. (Merck), in addition to several other pharmaceutical and biotechnology firms.
+ 
+Currently there are two accepted methods of rabies prophylaxis: rabies vaccines and rabies immune globulin, manufactured by many foreign and multinational manufacturers including Aventis Pasteur and Chiron (acquired by Novartis). These accepted methods would be the standard against which our new anti-rabies drug in development will be judged.
+ 
+In order to compete successfully, we must develop proprietary positions in patented drugs for therapeutic markets. Our products, even if successfully tested and developed, may not be adopted by physicians over other products and may not offer economically feasible alternatives to other therapies.
+ 
+Government Regulation
+ 
+Our operations and activities are subject to extensive regulation by numerous government authorities in the United States and other countries. In the United States, drugs are subject to rigorous regulation by the United States Food and Drug Administration (“FDA”). The Federal Food, Drug and Cosmetic Act and other federal and state statutes and regulations govern the testing, manufacture, safety, effectiveness, labeling, storage, record keeping, approval, advertising and promotion of our products. As a result of these regulations, product development and the product approval process is very expensive and time consuming.
+ 
+Regulation by governmental authorities in the United States and other countries is a significant factor in our research and development and will be a significant factor in the manufacture and marketing of our proposed products. The nature and extent to which such regulation applies to us will vary depending on the nature of any products we may develop. Governmental authorities, including the FDA and comparable regulatory authorities in other countries, regulate the design, development, testing, manufacturing, safety, efficacy, labeling, storage, record-keeping, advertising, promotion and marketing of pharmaceutical products, including drugs and biologics, under the Federal Food, Drug, and Cosmetic Act, or FFDCA, and its implementing regulations, and, for biologics, under the Public Health Service Act, or PHSA, and its implementing regulations. Non-compliance with applicable requirements can result in fines and other judicially imposed sanctions, including product seizures, import restrictions, injunctive actions and criminal prosecutions of both companies and individuals. In addition, administrative remedies can involve requests to recall violative products; the refusal of the government to enter into supply contracts; or the refusal to approve pending product approval applications until manufacturing or other alleged deficiencies are brought into compliance. The FDA also has the authority to cause the withdrawal of approval of a marketed product or to impose labeling restrictions. The process of obtaining approvals and the subsequent compliance with appropriate statutes and regulations require the expenditure of substantial time and money, and there can be no guarantee that approvals will be granted.
+ 
+
+Page 31 of 87
+-------------
+
+FDA Approval Process
+ 
+The FDA must “license” a drug before it can be sold in the United States. Other countries have similar regulatory processes, and most are being harmonized under the ICH guidelines. As of the date of this filing, the FDA has approved other nano-particulate drugs including Emend® by Merck and Rapamune® by Wyeth, as well as others. The general process for FDA approval is as follows:
+Preclinical Testing
+ 
+The process required by the FDA before a drug or biological product may be marketed in the United States generally involves the following:
+ 
+
+• | Completion of preclinical testing of new pharmaceutical or biological products, generally conducted in the laboratory and in animal studies in accordance with GLP standard, and applicable requirements for the humane use of laboratory animals or other applicable regulations to evaluate the potential efficacy and safety of the product candidate;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Submission of the results of these studies to the FDA as part of an Investigational New Drug application, which must become effective before clinical testing in humans can begin; 
+• | Manufacturing of investigational medicine under cGMP standard; 
+• | Performance of adequate and well-controlled human clinical trials according to GCPs and any additional requirements for the protection of human research patients and their health information, to establish the safety and efficacy of the product candidate for its intended use; 
+• | Submission to the FDA of a new drug application, or NDA, for any new chemical entity drug we seek to market that includes substantive evidence of safety, purity, and potency, or safety and effectiveness from results of nonclinical testing and clinical trials; 
+• | Satisfactory completion of an FDA inspection of the manufacturing facility or facilities where the product is produced, packaged and distributed, to assess compliance with cGMPs, to assure that the facilities, methods and controls are adequate to preserve the product’s identity, strength, quality and purity; 
+• | Potential FDA audit of the nonclinical study and clinical trial sites that generated the data in support of the NDA; and 
+• | FDA review and approval of the NDA. 
+
+Clinical Trials
+ 
+If the FDA accepts the investigational new drug application, we study the drug in human clinical trials to determine if the drug is safe and effective. These clinical trials involve a time-consuming and costly three-phase process that often overlap, can take many years to compile and are very expensive. These three phases, which are themselves subject to considerable regulation, are as follows:
+
+· | Phase 1. The drug is given to a small number of healthy human subjects or patients to test for safety, dose tolerance, pharmacokinetics, metabolism, distribution and excretion.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 2. The drug is given to a limited patient population to determine the effect of the drug in treating the disease, the best dose of the drug, and the possible side effects and safety risks of the drug.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 3. If a compound appears to be effective and safe in Phase 2 clinical trials, Phase 3 clinical trials are commenced to confirm those results. Phase 3 clinical trials are long-term, involve a significantly larger population, are conducted at numerous sites in different geographic regions and are carefully designed to provide reliable and conclusive data regarding the safety and benefits of a drug. It is not uncommon for a drug that appears promising in Phase 2 clinical trials to fail in the more rigorous and reliable Phase 3 clinical trials.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Page 32 of 87
+-------------
+
+ 
+
+If we believe that the data from the Phase 3 clinical trials show an adequate level of safety and effectiveness, we will file a new drug application (NDA) with the FDA seeking approval to sell the drug for a particular use. The FDA will review the NDA and often will hold a public hearing where an independent advisory committee of expert advisors asks additional questions regarding the drug. This committee makes a recommendation to the FDA that is not binding on the FDA but is generally followed. If the FDA agrees that the compound has met the required level of safety and effectiveness for a particular use, it will allow us to sell the drug in the United States for that use. It is not unusual, however, for the FDA to reject an application because it believes that the drug is not safe enough or effective enough or because it does not believe that the data submitted is reliable or conclusive.
+ 
+At any point in this process, the development of a drug could be stopped for a number of reasons including safety concerns and lack of treatment benefit. We cannot be certain that any clinical trials that we are currently conducting or any that we conduct in the future, will be completed successfully or within any specified time period. We may choose, or the FDA may require us, to delay or suspend our clinical trials at any time if it appears that the patients are being exposed to an unacceptable health risk or if the drug candidate does not appear to have sufficient treatment benefit.
+ 
+The FDA may also require us to complete additional testing, provide additional data or information, improve our manufacturing processes, procedures or facilities or may require extensive post-marketing testing and surveillance to monitor the safety or benefits of our product candidates if it determines that our new drug application does not contain adequate evidence of the safety and benefits of the drug. In addition, even if the FDA approves a drug, it could limit the uses of the drug. The FDA can withdraw approvals if it does not believe that we are complying with regulatory standards or if problems are uncovered or occur after approval.
+ 
+United States Review and Approval Process
+ 
+After the completion of clinical trials of a product candidate, FDA approval of a NDA must be obtained before commercial marketing of the product. The NDA must include results of product development, laboratory and animal studies, human trials, information on the manufacture and composition of the product, proposed labeling and other relevant information as well as a significant user fee. The FDA may grant deferrals for submission of data, or full or partial waivers. The testing and approval processes require substantial time and effort and there can be no assurance that the FDA will accept the NDA for filing and, even if filed, that any approval will be granted on a timely basis, if at all.
+ 
+The FDA may refuse to file any NDA that it deems incomplete or not properly reviewable at the time of submission and may request additional information. Once the submission is accepted for filing, the FDA reviews the NDA to determine, among other things, whether the proposed product is safe, potent, and/or effective for its intended use, and has an acceptable purity profile, and whether the product is safe and effective for its intended use, and in each case, whether the product is being manufactured in accordance with cGMP or GTP, if applicable. During the product approval process, the FDA also will determine whether a Risk Evaluation and Mitigation Strategy, or REMS, is necessary to assure the safe use of the product. If the FDA concludes a REMS is needed, the sponsor of the NDA must submit a proposed REMS. The FDA will not approve a NDA without a REMS, if required.
+ 
+Notwithstanding the submission of relevant data and information, the FDA may ultimately decide that the NDA does not satisfy its regulatory criteria for approval and deny approval via a letter detailing such deficiencies. Data obtained from clinical trials are not always conclusive and the FDA may interpret data differently than we interpret the same data. If the FDA denies an application, the applicant may either resubmit the NDA, addressing all of the deficiencies identified by the FDA, or withdraw the application.
+ 
+
+Page 33 of 87
+-------------
+
+Expedited FDA Review Programs
+ 
+The FDA has four program designations -Fast Track, Breakthrough Therapy, Accelerated Approval, and Priority Review - to facilitate and expedite development and review of new drugs to address unmet medical needs in the treatment of serious or life-threatening conditions.
+ 
+The Fast Track program that is intended to expedite or facilitate the process for reviewing new drug products that treat a serious condition and fill an unmet medical need. Fast Track designation applies to the combination of the product and the specific indication for which it is being studied. In Fast Track, the FDA may consider for “rolling review” of sections of the IND on a rolling basis before the complete application is submitted. Once a drug receives Fast Track designation, early and frequent communication between the FDA and a drug company is encouraged throughout the entire drug development and review process. The frequency of communication assures that questions and issues are resolved quickly, often leading to earlier drug approval and access by patients.
+ 
+The FDA may also accelerate the approval of a designated drug through the Breakthrough Therapy designation by expediting the development and review of drugs that are intended to treat a serious condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over available therapy on one or more clinically significant endpoints. If the FDA designates a drug as a breakthrough therapy, the drug is eligible for all Fast Track designation features, intensive guidance on an efficient drug development program, potentially beginning at Phase 1 and organizational commitment involving senior managers regarding the development of the drug to ensure that the development program and the design of the clinical trials is as efficient as practicable.
+ 
+The Accelerated Approval designation allows the FDA to approve a product based on an effect on a surrogate or intermediate endpoint that is reasonably likely to predict a product’s clinical benefit and generally requires the manufacturer to conduct required post-approval confirmatory trials to verify the clinical benefit.
+ 
+The Priority Review designation means that the FDA’s goal is to take action on the IND within six months, compared to ten months under standard review.
+ 
+Fast Track designation, Priority Review, Accelerated Approval and Breakthrough Therapy designations do not change the standards for approval but may expedite the development or approval process.
+ 
+Orphan Drug Designation
+ 
+The Orphan Drug Act provides granting special status to drugs or biological products for rare diseases and conditions affecting fewer than 200,000 persons. The first developer to receive FDA marketing approval for an orphan drug is entitled to a seven-year exclusive marketing period in the United States for that product where the FDA will not approve another version of the same product. However, a drug that the FDA considers to be clinically superior to, or different from, another approved orphan drug, even though for the same indication, may also obtain approval in the United States during the seven-year exclusive marketing period. In addition, if the holder of the orphan drug designation cannot assure the availability of sufficient quantities of their orphan drugs to meet the needs of patients, the FDA could also grant approval to another product.
+United States Post-Approval Requirements
+ 
+Any products for which we receive FDA approvals are subject to continuing regulation by the FDA, including, among other things, record-keeping requirements, reporting of adverse experiences with the product, providing the FDA with updated safety and efficacy information, product sampling and distribution requirements, and complying with FDA promotion and advertising requirements, which include, among others, standards for direct-to-consumer advertising, restrictions on promoting products for uses or in patient populations that are not described in the product’s approved uses, known as off-label use, limitations on industry-sponsored scientific and educational activities and requirements for promotional activities involving the internet.
+ 
+In addition, quality control and manufacturing procedures must continue to conform to applicable manufacturing requirements after approval to ensure the long-term stability of the product. We rely, and expect to continue to rely, on third parties for the production of some, or all, clinical and commercial quantities of our products in accordance with cGMP and GTP regulations, as applicable. Manufacturers and other entities involved in the manufacture and distribution of approved products are required to register their establishments with the FDA and certain state agencies and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with cGMP, GTP and other laws.
+ 
+
+Page 34 of 87
+-------------
+
+ 
+
+The FDA also may require post-marketing testing, known as Phase 4 testing, and surveillance to monitor the effects of an approved product. Discovery of previously unknown problems with a product or the failure to comply with applicable FDA requirements can have negative consequences, including adverse publicity, judicial or administrative enforcement, warning letters from the FDA, mandated corrective advertising or communications with doctors, and civil or criminal penalties, among others. Also, new government requirements, including those resulting from new legislation, may be established, or the FDA’s policies may change, which could delay or prevent regulatory approval of our product candidates under development.
+ 
+Foreign Regulatory Review and Approval
+ 
+Whether or not FDA approval has been obtained, approval of a product by comparable regulatory authorities in other countries will be necessary prior to commencement of marketing the product in such countries. The regulatory authorities in each country may impose their own requirements and may refuse to grant an approval, or may require additional data before granting it, even though the relevant product has been approved by the FDA or another authority. As with the FDA, the regulatory authorities in the European Union, China and other developed countries have lengthy approval processes for pharmaceutical products. The process for gaining approval in particular countries varies, but generally follows a similar sequence to that described for FDA approval.
+ 
+In the European Union, there is a centralized approval procedure that authorizes marketing of a product in all countries in the European Union (which includes most major countries in Europe). If this procedure is not used, under a decentralized system, an approval in one country of the European Union can be used to obtain approval in another country of the European Union under a simplified application process at present. After approval under the centralized procedure, pricing and reimbursement approvals are also required in most countries. These procedures are undergoing revision and modification at present. We have never received approval for a product in the European Union to date.
+ 
+Other Health Care Laws
+ 
+In the event any of proposed products are ever approved for marketing, we may also be subject to healthcare regulation and enforcement by the federal government and the states and foreign governments where we may market our product candidates, if approved. These laws include, without limitation, state and federal anti-kickback, fraud and abuse, false claims, physician sunshine and privacy and security laws and regulations.
+ 
+In addition to obtaining FDA approval for each drug, we obtain FDA approval of the manufacturing facilities for any drug we sell, including those of companies who manufacture our drugs for us as well as our own and these facilities are subject to periodic inspections by the FDA. The FDA must also approve foreign establishments that manufacture products to be sold in the United States and these facilities are subject to periodic regulatory inspection.
+ 
+We are also subject to other federal, state and local regulations regarding workplace safety and protection of the environment. We use hazardous materials, chemicals, viruses and various radioactive compounds in our research and development activities and cannot eliminate the risk of accidental contamination or injury from these materials. Any misuse or accidents involving these materials could lead to significant litigation, fines and penalties.
+ 
+A Note on US FDA Priority Review Vouchers
+ 
+The Food and Drug Administration Amendments Act of September 2007 authorizes the FDA to award a priority review voucher to any company that the FDA has determined is eligible for priority approval process for a treatment for a neglected tropical disease. The priority review voucher can be traded to another company in a manner similar to carbon (emissions) credit vouchers. The recipient company can save as much as six months on their drug review process, and it is anticipated that they would be willing to trade in vouchers with cash benefits to the company developing drugs against neglected tropical diseases. The regulation became effective as of September 30, 2008.
+
+Page 35 of 87
+-------------
+
+ 
+
+Economists at Duke University, who proposed the voucher concept in 2006, have calculated that reduction of the FDA approval time from 18 to six months could be worth more than $300 million to a company with a top-selling drug with a net present value close to $3 billion. At this level, the voucher would be expected to offset the substantial investment and risk required for discovery and development of a new treatment for a neglected tropical disease. (David B. Ridley, Henry G. Grabowski and Jeffrey L. Moe, “Developing Drugs For Developing Countries”, Health Affairs, 25, no. 2 (2006): 313-324; doi: 10.1377/hlthaff.25.2.313; © 2006 by Project Hope. and ( http://blogs.cgdev.org/globalhealth/2007/10/fda_priority_review.php ). Some of the PRVs have been “sold” for as much as $250M or so recently.
+ 
+While there is no indication whether NanoViricides, Inc. can obtain priority review vouchers for its drugs against neglected tropical diseases, the high efficacies of our drug candidates lead us to believe that this may be possible. FDA awards priority review status on the basis of several criteria. NanoViricides, Inc. is currently working on several neglected tropical diseases, including Dengue fever viruses, rabies, Ebola/Marburg viruses, among others. Of these, Dengue viruses are explicitly included in the list under this Public Law, and the remaining viruses are eligible for similar treatment according to the language in the Public Law, at the discretion of the Secretary of Health (Food and Drug Administration Amendments Act of 2007, P.L. 110–85, Sept. 27, 2007, http://www.fda.gov/oc/initiatives/fdaaa/PL110-85.pdf ). The Zika virus was added to this list recently.
+ 
+Time Schedules, Milestones and Development Costs
+ 
+In the ensuing fiscal year, we hope to meet several important milestones towards establishing human proof-of-concept for the nanoviricides platform:
+ 
+
+• | Finalize human clinical trials designs for Phase I and Phase II trials for NV-HHV-101 for topical treatment of shingles rash.
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Engage a contract Clinical Research Organization for conducting the human clinical trials.
+--+-------------------------------------------------------------------------------------------
+
+
+• | Complete the IND-enabling studies and prepare appropriate reports.
+--+-------------------------------------------------------------------
+
+
+• | Complete manufacture of cGMP-compliant drug substance and drug products in quantities sufficient for anticipated human clinical trials as designed.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submit an IND-application to the US FDA, or an appropriate international regulatory agency.
+--+--------------------------------------------------------------------------------------------
+
+
+• | Initiate and conduct Phase I human clinical trials, to determine safety and tolerability of NV-HHV-101 in human subjects.
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+• | If possible, initiate Phase II human clinical trials to determine effectiveness of NV-HHV-101 in controlling shingles rash and to study the effectiveness of NV-HHV-101 regarding shingles pain.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+All of these studies are dependent on external collaborators providing available time slots for us. Thus, there can be delays in achieving the milestones that are beyond the Company's control.
+ 
+Management is actively exploring additional required funding through debt or equity financing pursuant to its plan. There is no assurance that the Company will be successful in obtaining sufficient financing on terms acceptable to the Company to fund continuing operations. Management believes that as a result of the management plan, the Company’s existing resources and access to the capital markets will permit the Company to fund planned operations and expenditures. However, the Company cannot provide assurance that its plans will not change or that changed circumstances will not result in the depletion of its capital resources more rapidly than it currently anticipates. We have estimated approximately $500,000 for initiation of Phase I clinical trials. The total cost of Phase I and Phase IIa trials will be significantly more. We will need to raise additional funds so that we do not run out of money, and to support continued program development through Phase II studies at least and revenue realization.
+ 
+In addition to the shingles program milestones listed above, we will continue to advance the HSV-1 and HSV-2 skin cream drug candidates towards IND-enabling studies. Additional HerpeCide drug indications (See Table 2) will be advanced as opportunities become available, depending upon available resources (fiscal and manpower). We plan on continuing the work in the FluCide program albeit at a slow rate, with a view towards obtaining a drug development partnership or other external sources of funding for this program. We plan on continuing internal development of the HIVCide program at a slow rate. Other programs are currently heavily deprioritized and will be further developed if appropriate opportunities present themselves.
+ 
+
+Page 36 of 87
+-------------
+
+Drug Development Status
+ 
+The Company has limited experience with pharmaceutical drug development. Thus, our budget estimates are not based on experience, but rather based on advice given by our associates and consultants. As such these budget estimates may not be accurate. In addition, the actual work to be performed is not known at this time, other than a broad outline, as is normal with any scientific work. As further work is performed, additional work may become necessary or change in plans or workload may occur. Such changes may have an adverse impact on our estimated budget. Such changes may also have an adverse impact on our projected timeline of drug development.
+ 
+The work-plan we have developed for the next twelve months is expected to enable us to file an investigational new drug application (IND) late in fiscal year 2019 possibly around last quarter of calendar year 2019, given our dependence on external collaborators for the studies and study reports. Management is actively exploring additional required funding through debt or equity financing pursuant to its plan. There is no assurance that the Company will be successful in obtaining sufficient financing on terms acceptable to the Company to fund continuing operations. Management believes that as a result of the management plan, the Company’s existing resources and access to the capital markets will permit the Company to fund planned operations and expenditures. However, the Company cannot provide assurance that its plans will not change or that changed circumstances will not result in the depletion of its capital resources more rapidly than it currently anticipates. , We will therefore need to raise capital. Our work-plan is extremely dependent on external factors, collaborations, and unanticipated delays can occur. We have, in the past, experienced unanticipated delays in construction, post-construction modifications, and equipment set-up at our new Shelton facility that cumulatively effectively delayed our work-plan towards IND filing of our first drug candidate by more than 24 months. We are now experiencing extreme staffing constraints as well as financing constraints. We note as a risk factor that these resource constraints may cause further delays in our estimated timelines, unless we are successful at raising additional funds and at attracting and retaining highly skilled employees with specific skill-sets.
+ 
+We have taken on the most important risk in nanomedicines, that of enabling cGMP manufacture, with consistent product from batch to batch, "head on" so to speak. Having established critical quality parameters in our manufacturing processes ahead of cGMP scale-up, we believe that we have minimized the risk related to manufacturing capabilities.
+ 
+During the scale up and optimization of our production level operations, we continue to work on a number of different polymer backbones (“nanomicelles”) and several antiviral ligands in order to make sure that different formulation and pharmacokinetic-pharmacodynamic (PK-PD) needs can be met during the PK-PD programs for our various drug candidates. While this loads up our initial activities, it is expected to minimize the risk for further drug development towards IND or regulatory filings by making available backup drug candidates with different PK-PD profiles.
+ 
+This work-plan is expected to reduce certain risks of drug development. We believe that this coming year’s work-plan will lead us to obtain certain information about the safety and efficacy of our VZV clinical drug candidate in animal models in IND-enabling GLP Safety/Toxicology studies that are in progress and have so far been successful. We believe these data will enable us to file an Investigational New Drug (“IND”) application. We believe that in the coming fiscal year we will be able to perform Phase I human clinical trials and obtain valuable information on the safety and tolerability of our VZV clinical drug candidate in humans, towards the goal of performing Phase II efficacy human clinical trials. If our studies are not successful, we will have to develop additional drug candidates and perform further studies, or further advance our other programs, for example HSV-1 or HSV-2 drug candidates, into human clinical trials. If our studies are successful, we would be more confident in further developing our HerpeCide as well as other program drug candidates and may be in a position to re-engage our highly valuable drug programs including HIVCide and FluCide.
+ 
+We believe that coming year's work plan will establish our entire nanoviricides nanomedicines platform as a viable platform technology for developing highly safe and effective antiviral drugs. We believe that this should be a value inflection point.
+ 
+
+Page 37 of 87
+-------------
+
+ 
+
+Management intends to use equity-based and debt financing, as required, to fund the Company’s operations and to raise additional capital for conducting human clinical trials as we advance our pipeline towards IND stage. Management also intends to pursue non-diluting funding sources such as government grants and contracts as well as licensing agreements with other pharmaceutical companies. There can be no assurance that the Company will be able to obtain the additional financial resources necessary to fund its anticipated obligations over the next year.
+ 
+The Company is considered to be a development stage company and will continue in the development stage until generating revenues from the sales of its products or services.
+ 
+Our Collaborations and Service Contract Agreements
+ 
+Our development model is to employ collaborations and service contract relationships with renowned academic labs, government labs, as well as service contracts with external service providers in order to minimize our capital requirements.
+ 
+All of our agreements provide for the evaluation of Nanoviricides® substances created and provided by the Company to the Laboratory (or Collaborator). In general, the Laboratory is compensated for certain material and personnel costs for these evaluations. The evaluations involve in vitro and in vivo scientific studies at the Laboratory using their established protocols. In some cases, the Company provides scientific input regarding certain modifications to their protocols as may be needed. The Laboratory returns the results and data to the Company. The Laboratory is allowed to publish the results after allowing time for the Company to protect intellectual property (IP) as needed. The Company sends nanoviricides as well as positive control (i.e. known therapeutics) and negative control (i.e. known not to work) compounds as needed in a fully formulated, ready to use form, to the Laboratory. All IP related to the nanoviricide materials, their formulations and reformulations, and their usage, rests with the Company. Any IP developed by the Laboratory regarding their own know-how, such as laboratory tests and protocols, their modifications, etc. rests with the Laboratory. Joint inventions are treated as per applicable US Laws.
+ 
+The Company tries to choose the scientific laboratories with the most appropriate facilities and know-how relating to a particular field for the evaluation of an antiviral agent developed by the Company. The Company also tries to work with more than one laboratory for the evaluation of an antiviral agent developed by the Company. The Company also tries to work with more than one laboratory for a given group of viruses whenever possible. We seek to improve confidence by obtaining independent datasets for corroboration of the efficacy and safety of the nanoviricides we develop. In addition, the Company tries to minimize dependence on a particular Laboratory for the development of any specific drug candidate in our product pipeline.
+ 
+To date, the Company has engaged in non-GLP Efficacy and Safety evaluations in both in vitro (cell culture models) and in vivo (animal models) of our different nanoviricides® research materials and drug candidates at different laboratories.
+ 
+Our current relationships are summarized below:
+ 
+For Herpes Virus Infections, Shingles, and for Viral Diseases of the Eye (Adenoviruses, Herpesviruses - Epidemic Kerato-conjunctivitis (EKC), Herpes Keratitis, viral Acute Retinal Necrosis (vARN)):
+ 
+
+1. | The Moffat Lab at SUNY Upstate Medical Center, Syracuse, NY.
+---+-------------------------------------------------------------
+2. | The CORL at the University of Wisconsin, Madison, WI 
+
+For Influenza Viruses:
+ 
+
+1. | The Webster Lab at St Jude Children’s Hospital, TN
+---+---------------------------------------------------
+
+ 
+For IND-enabling non-GLP and cGLP Safety/Toxicology Studies:
+ 
+
+1. | AR Biosystems, Inc., Odessa, FL (non-GLP studies) 
+---+-------------------------------------------------------------------------------------------------
+2. | Bio-Analytical Services, Inc., MI, (“BASi”) – IND-Enabling non-GLP and GLP “Tox Package” studies
+
+
+Page 38 of 87
+-------------
+
+For Regulatory Pathway and Business Development:
+ 
+
+1. | Biologics Consulting Group (BCG), Alexandria, Virginia (FDA regulatory pathway)
+---+--------------------------------------------------------------------------------
+2. | Bio-Ensemble, LLC, NJ (Business Development) 
+
+ 
+Consulting Agreement with Bio-Ensemble, LLC, NJ (BEL)
+ 
+In September 2017, we signed a consulting agreement with BEL and its Principal, Dr. Carolyn Myers. The scope is evaluation of the business opportunity for VZV virus field of drug development, and structuring new license agreements with TheraCour keeping in mind the express intent of the Company of sublicensing its drug candidates to other Mid Pharma and Big Pharma partners. Dr. Myers is a pharma industry veteran with over 25 years of experience in business development. Her experience spans from leading roles in small to big pharma in business development, obtaining partnering opportunities and performing deals from startups and small pharma side, to evaluating hundreds of technology and licensing proposals and performing partnering, collaboration, and outright purchase deals from the big pharma side.
+ 
+Regulatory Consulting and Advisory Agreement with Biologics Consulting Group, VA (BCG).
+ 
+In July 2011 we signed an agreement with Biologics Consulting Group to help us with our regulatory strategy and filings. Several of the members of the BCG faculty had experience working as part of the US FDA. BCG helps us with the US FDA regulatory pathway strategies, applications processes, and with the development of applications as well as drug development program strategies, as needed.
+ 
+Safety/Toxicology Studies Agreement with Bio-Analytical Services, Inc. (BASi), MI
+ 
+In September 2014, we signed an agreement with BASi. BASi is a pre-clinical contract services organization that specializes in cGLP and GLP-like safety and toxicological testing of drug candidates and preparation of the “Tox Package” section of an IND application. BASi performed a GLP-like preliminary safety and toxicology study in which there were no significant compound related adverse events found. Our safety and toxicology studies for FluCide are being conducted by BASi for submission with an IND application. BASi will also perform the safety toxicology studies for the anti-herpes nanoviricide drug candidates in our HerpeCide program. We have signed a Master Services Agreement with Bio-Analytical Services, Inc., MI, (“BASi”) to perform cGLP and GLP-like safety and toxicological studies that are necessary for filing an IND for each of our drugs.
+ 
+AR Biosystems, Inc., Odessa, FL
+ 
+We do not have a Master Services Agreement with AR Bio. From time to time, we discuss certain non-GLP studies, and if suitable, engage this CRO as needed.
+ 
+VZV (HHV-3) Nanoviricides Efficacy Evaluation Agreement with the Moffat Lab at the SUNY Upstate Medical Center, Syracuse, NY.
+ 
+In October 2016, we entered into an agreement with SUNY Upstate Medical University for the testing of its nanoviricides® drug candidates against varicella zoster virus, i.e. the shingles virus. The research will be performed in the laboratory of Dr. Jennifer Moffat and will include in vitro, ex vivo and possibly in vivo studies. Dr. Moffat has extensive experience in varicella zoster virus (VZV) infection and antiviral agent discovery. The goal of these studies is to help select a clinical drug development candidate for toxicology and safety evaluation intended for clinical trials for the treatment of shingles in humans.
+ 
+VZV is restricted to human tissue and only infects and replicates in human tissue. The in vitro studies will evaluate the effectiveness of the Company’s nanoviricides antiviral agents against VZV infection of certain human cells in culture.
+ 
+The ex vivo studies will evaluate the efficacy of the Company’s nanoviricides to inhibit VZV in human skin organ cultures. Dr. Moffat has developed the human skin organ culture VZV infection model for the evaluation of therapeutics. This model is a good representative model of natural VZV infection in humans as well as an important model for evaluating antiviral activity, because it demonstrates behavior similar to the skin lesions caused by VZV in human patients.
+ 
+
+Page 39 of 87
+-------------
+
+ 
+
+Dr. Moffat is an internationally recognized expert on varicella zoster virus, and her research has focused on the pathogenesis and treatment of infection by this virus. The National Institutes of Health has recognized this VZV model via a contract with Dr. Moffat’s lab for evaluating antiviral compounds against VZV. Dr. Moffat is the director of two research core facilities at SUNY Upstate: the Center for Humanized Mouse Models and In vivo Imaging.
+ 
+The Company has established a direct relationship with the Moffat lab, without NIH as an intermediary.
+ 
+On July 10, 2017, the Company announced the results of successful initial testing of our anti-herpes drug candidates in the ex vivo human skin patch organ culture (“SOC”) model performed by Dr. Moffat.
+ 
+The anti-shingles nanoviricides® drug candidates achieved dramatic reduction in infection of human skin by the varicella-zoster virus (VZV), the shingles virus in this study. These findings corroborate the previously reported findings of inhibition of VZV infection of human cells in culture. The antiviral effect of certain nanoviricide drug candidates was substantially greater than the effect of the standard positive control of cidofovir added into media. Even more remarkably, the effect of these nanoviricides drug candidates was equivalent to a topical formulation of 1% cidofovir applied directly onto the skin patch. A topical skin cream containing 2% cidofovir is clinically used in very severe cases of shingles. However, the cytotoxicity of cidofovir is known to cause ulceration of the skin to which it is applied, followed by natural wound healing.
+ 
+We have continued our work with the Moffat Lab, initially for optimization of the drug candidates and chemistries, and recently, driving towards clinical drug candidate selection.
+ 
+With these results that corroborate findings in cell culture studies in both our lab and Dr. Moffat’s Lab, we believe that the anti-shingles topical drug candidate is worthy of advancing into further IND-enabling pre-clinical development i.e. safety/toxicology studies.
+ 
+We believe that the VZV drug candidate program is now our most advanced program to advance into Safety/Toxicology studies that are needed for an IND filing and human clinical trials. However, at present, we do not have a license from TheraCour to develop and commercialize drugs against VZV License negotiations are now in progress.
+ 
+HSV-1 and HSV-2 Nanoviricides Efficacy Evaluation Agreement with the Collaborative Ophthalmic Research Laboratories (CORL) at the University of Wisconsin, Madison, WI.
+ 
+In January 2016, we signed an agreement with CORL. Under this agreement, CORL will perform evaluation of efficacy of our nanoviricides drug candidates in cell culture assays as well as in small animal studies towards the goal of filing an IND application for ocular Herpes Keratitis, and possibly for Recurrent Herpes Labialis (RHL, “cold sores”).
+ 
+This agreement has been extended to include drug and research material efficacy evaluation studies in animal models of viral Acute Retinal Necrosis (vARN), and in animal models of HSV-2 genital ulcer. The studies will be performed in the laboratory of Dr. Curtis Brandt, an expert in herpes simplex virus infections and in evaluating anti-viral agents.
+ 
+Research and Development Agreement with Professor Ken Rosenthal’s laboratory at the Northeastern Ohio Medical University (NEOMED, formerly called NEOUCOM)
+ 
+On May 13, 2010, the Company announced that it had signed a research and development agreement with Professor Ken Rosenthal’s laboratory at the Northeastern Ohio Medical University (NEOMED). Pursuant to the terms of this Agreement, Professor Rosenthal and NEOMED will evaluate the effectiveness of nanoviricides drug candidates against Herpes Simplex Viruses, HSV-1 and HSV-2, in both cell culture and animal models. The focus of this evaluation will be the development of drug candidates against herpes skin infections (oral and genital herpes). Dr. Ken Rosenthal is a professor of microbiology, immunology and biochemistry at NEOMED. He is a leading researcher in the field of herpes viruses. His laboratory has developed an improved mouse model of skin-infection with HSV to follow the disease progression. This model has been shown to provide highly uniform and reproducible results. A uniform disease pattern including onset of lesions and further progression to zosteriform lesions is observed in all animals in this model. This uniformity makes it an ideal model for comparative testing of various drug candidates, which, the Company believes, can be expected to lead to a broad-spectrum anti-HSV antiviral treatment capable of attacking both HSV-1 and HSV-2.
+ 
+
+Page 40 of 87
+-------------
+
+ 
+
+On August 16, 2010, the Company reported that its anti-Herpes drug candidates demonstrated significant efficacy in the recently completed cell culture studies in Dr. Rosenthal Lab at NEOMED.  Several of the anti-Herpes nanoviricides® demonstrated a dose-dependent maximal inhibition of Herpes virus infectivity in a cell culture model. Almost complete inhibition of the virus production was observed at clinically usable concentrations. These studies employed the H129 strain of herpes simplex virus type 1 (HSV-1).  H129 is an encephalitic strain that closely resembles a clinical isolate; it is known to be more virulent than classic HSV-1 laboratory strains. The H129 strain will be used in subsequent animal testing of nanoviricides. Since then the Company was optimizing formulations for use in the dermal HSV-1 H129c infection animal model in the Rosenthal lab. The Company also continued to further optimize the anti-herpes nanoviricides. Our herpes program was run at a lower priority than other programs until recently. In April 2015, after only 4 cycles of SAR (Structure-Activity-Relationship based improvements), our anti-herpes nanoviricides demonstrated strong effectiveness in the lethal HSV-1 H129c dermal infection model in the Rosenthal Lab at NEOMED. Treatment with certain nanoviricides caused significant improvements in the clinical observations and led to >85% survival of the infected animals, wherein 100% of the untreated animals died within 10 days. In August 2015, the Company reported that these results were reproduced in dermal animal model at Transpharm, with 100% of the nanoviricides treated animals surviving.
+
+
+Professor Rosenthal retired in December 2014, continued his laboratory and our R&D through April 2015, and has closed the lab thereafter. He is now Professor at Roseman University of Health Sciences College of Medicine, NV. He continues as Professor Emeritus at Northeast Ohio Medical University (NEOMED). However, his laboratory is no longer active.
+ 
+The HSV-1 topical treatment drug candidates in the HerpeCide program have thus advanced to the lead identification stage. This program is now assigned second priority, following the top priority of the VZV program, primarily because the regulatory development of anti-VZV drug candidate was projected to occur much more rapidly than that of the anti-HSV-1 drug candidate.
+ 
+Anti-Influenza Drug Development Agreement with the Webster Lab at St Jude Children’s Hospital, Memphis, TN
+ 
+In May 2016, we signed an agreement with the Webster Lab at St. Jude Children’s Hospital. Under this Agreement, the Webster Lab will evaluate nanoviricide drug candidates in cell culture studies against a large number of Influenza viruses to optimize the efficacy and broad-spectrum for a clinical development candidate. Variations on the previously selected ligand in NV-INF-1 and NV-INF-2 will be performed if necessary.
+ 
+The testing of these candidates for anti-influenza activity will be performed in the laboratory of Dr. Elena Govorkova in collaboration with Dr. Robert G. Webster and will include both in vitro and in vivo studies. They have extensive experience in influenza virus infections with a large number of different influenza strains, and in anti-viral agents discovery. The overall objective of these studies will be to help select clinical drug development candidates for the treatment of influenza virus in humans, using both the injectable and oral administration routes. Injectable administration is preferable for hospitalized patients that are extremely sick, while oral administration is preferred for outpatients.
+ 
+The most optimal candidate will then be evaluated against a wide variety of Influenza viruses in small animal efficacy studies with a goal of obtaining data for an IND submission for Injectable FluCide drug candidate for severely ill hospitalized patients, and also for Oral FluCide drug candidate for outpatients with Influenza.
+ 
+The Influenza program has been relegated to lower priority levels due to (a) our belief that the topical drug candidates in the HerpeCide program would reach the clinic faster and would also have much more rapid clinical development pathway than FluCide, (b) the rapid expansion in breadth of the HerpeCide program pipeline that has occurred due to efficacy of closely related drug candidates against different viruses in the Herpes family and against different indications, and (c) extreme resource constraints in terms of both available skilled manpower and available financing for driving our programs.
+ 
+
+Page 41 of 87
+-------------
+
+ 
+
+Nevertheless, we believe that FluCide has strong market potential, and therefore we are keeping this program active albeit with limited resource allocation, which has slowed down the program significantly.
+ 
+Master Services Agreement, dated August 31, 2009, by and between Southern Research Institute (“Southern”) and NanoViricides, Inc.
+ 
+The term of this agreement was three years from its execution. The Company agrees to supply necessary quantities of its products in order for Southern to complete specific studies as to the efficacy and safety of the Company’s compounds. The Company shall pay charges associated with each task order and provide payment in the amount and as indicated therein. Under this agreement, Southern will estimate the work load and invoices for additional task orders, subject to the Company’s agreement on costs.
+ 
+The Company’s anti-HIV drug testing in cell cultures is performed at the Southern Research Institute in Frederick, MD.
+ 
+Significant Alliances and Related Parties
+ 
+TheraCour Pharma, Inc.
+ 
+Pursuant to an Exclusive License Agreement we entered into with TheraCour Pharma, Inc., (TheraCour), the Company was granted exclusive licenses for technologies developed by TheraCour for the virus types: Human Immunodeficiency Virus (HIV/AIDS), Influenza including Asian Bird Flu Virus, Herpes Simplex Virus (HSV-1 and HSV-2), Hepatitis C Virus (HCV), Hepatitis B Virus (HBV), and Rabies. The Company has entered into an Additional License Agreement with TheraCour granting the Company the exclusive licenses for technologies developed by TheraCour for the additional virus types for Dengue viruses, Japanese Encephalitis virus, West Nile Virus, Viruses causing viral Conjunctivitis (a disease of the eye) and Ocular Herpes, and Ebola/Marburg viruses.
+ 
+In consideration for obtaining these exclusive licenses, we agreed: (1) that TheraCour can charge its costs (direct and indirect) plus no more than 30% of a specified portion of certain direct costs as a Development Fee and such development fees shall be due and payable in periodic installments as billed; (2) the greater of $2,000 or actual costs monthly, whichever is higher, for other general and administrative expenses incurred by TheraCour on our behalf; (3) make royalty payments (calculated as a percentage of net sales of the licensed drugs) of 15% to TheraCour; (4) TheraCour retains the exclusive right to develop and manufacture the licensed drugs. TheraCour will manufacture the licensed drugs exclusively for NanoViricides, and unless such license is terminated, will not manufacture such product for its own sake or for others; and (5) TheraCour may request and NanoViricides, Inc. will pay an advance payment (refundable) equal to twice the amount of the previous month’s invoice to be applied as a prepayment towards expenses. TheraCour may terminate the license upon a material breach by us as specified in the agreement. However, we may avoid such termination if within 90 days of receipt of such termination notice we cure the breach.
+ 
+Development costs and other costs charged by TheraCour for the years ended June 30, 2019, 2018 and 2017 were $3,119,863, $3,176,977, and $3,368,919 respectively. At June 30, 2019, $823,783 was due to TheraCour.
+ 
+No royalties are due TheraCour from the Company’s inception through June 30, 2019.
+ 
+TheraCour is affiliated with the Company through Anil Diwan, President, who is a director of the corporation, and owns approximately 90 % of the capital stock of TheraCour Pharma, Inc., which itself owns approximately 11.94% of the Common Stock of the Company at June 30, 2019.
+ 
+TheraCour owns 9,419,170 shares of the Company’s outstanding Common Stock and 2,000,000 shares of the Company’s Series A Preferred Stock at June 30, 2019.
+ 
+
+Page 42 of 87
+-------------
+
+Employees
+ 
+As of August 15, 2019, the Company had approximately seventeen employees, including those at TheraCour. The Company considers its relationship with its employee to be stable. In addition, most of the business activities of the Company including accounting and legal work and business development are provided by subcontractors and consultants. Further, the Company has subcontracted nanomaterials research and development (“R&D”) to TheraCour under the license agreement with TheraCour. TheraCour currently has a staff of approximately ten, most of who are scientists with PhD or advanced degrees and experience. The Company has subcontracted its animal studies to various contract research organizations, government institutes, academic labs, and private institutions. Some of the Company’s R&D work was performed by agencies in Vietnam. In the future, the Company anticipates having additional service providers. We believe that we have good relations with our employees and subcontractors.
+Reports to Security Holders
+ 
+As of November 2006, upon filing of its Form 10-SB and listing on the FINRA OTC Bulletin Board, the Company became subject to the reporting obligations of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These obligations include filing an annual report under cover of Form 10-K, with audited financial statements, unaudited quarterly reports on Form 10-Q and the requisite proxy statements with regard to annual shareholder meetings. The public may read and copy any materials the Company files with the Securities and Exchange Commission (the “Commission”) at the Commission’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the Commission at 1-800-SEC-0030. The Commission maintains an Internet site (www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file electronically with the Commission. Information about the Company is also available on its Web site at www.nanoviricides.com. Information included on the Web site is not part of this Form 10-K.
+ 
+Further, the Company’s common stock has been listed on the NYSE MKT (a US national exchange) since September 25, 2013. The NYSE-American Exchange requires additional corporate governance, financial and reporting requirements. NYSE MKT has changed its name to “NYSE American” in July 2017.
+ 
+Website
+ 
+Our website address is www.nanoviricides.com.
+ 
+We intend to make available through our website, all of our filings with the Commission and all amendments to these reports as soon as reasonably practicable after filing, by providing a hyperlink to the EDGAR website containing our reports.
+Our Contact Information
+ 
+Our principal executive offices are currently located at 1 Controls Drive, Shelton, Connecticut 06484 and our telephone number is (203) 937-6137 (voice mail). We can be contacted by email at info@nanoviricides.com.
+ 
+Description of Property
+ 
+The Company’s principal executive offices are located at 1 Controls Drive, Shelton, CT, and include approximately 18,000 square feet of office, laboratory, and cGMP-capable drug manufacturing space. These facilities are fully owned by the Company. There is no mortgage on these facilities.
+ 
+We subcontract the laboratory research and development work to TheraCour Pharma, Inc., under the License Agreement with TheraCour. Management believes that the space is sufficient for the Company to monitor the developmental progress at its subcontractors.
+ 
+
+Page 43 of 87
+-------------
+
+Legal Proceedings
+ 
+From time to time, we are a party to legal proceedings arising in the ordinary course of business. We are not currently a party to any other legal proceedings that we believe could have a material adverse effect on financial condition or results of operations.

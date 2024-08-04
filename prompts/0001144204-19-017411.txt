@@ -1,0 +1,89 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1: | BUSINESS
+--------+---------
+
+Our Company
+ 
+Ideal Power Inc. was formed in Texas on May 17, 2007 and converted to a Delaware corporation on July 15, 2013. Unless otherwise stated or the context otherwise requires, the terms "Ideal Power," "we," "us," "our" and the "Company" refer to Ideal Power Inc.
+ 
+Until recently, we were primarily focused on the design, marketing and sale of electrical power conversion products using our proprietary technology called Power Packet Switching Architecture™, or PPSA™. PPSA™ is a power conversion technology that improves upon existing power conversion technologies in key product metrics, such as size and weight while providing built-in isolation and bi-directional and multi-port capabilities. PPSA™ utilizes standardized hardware with application specific embedded software. Our products were designed to be used in both on-grid and off-grid applications with a focus on solar + storage, microgrid and stand-alone energy storage applications. The principal products of the Company were 30-kilowatt power conversion systems, including 2-port and multi-port products.
+ 
+On April 16, 2018, we realigned into two operating divisions: Power Conversion Systems, to continue the commercialization of our PPSA™ technology, and B-TRAN, to develop our Bi-directional bi-polar junction TRANsistor (B-TRAN™) solid state switch technology.
+ 
+On January 2, 2019, our Board of Directors approved a strategic shift to focus on the commercialization of our B-TRAN™ technology and a plan to suspend further power converter system, or PPSA™, development and sales while we located a buyer for our power conversion systems division and PPSA™ technology. We have classified our PPSA™ business as held for sale and now shows this business as a discontinued operation in our financial statements.
+ 
+To date, operations have been funded primarily through the sale of common stock. Total revenue generated from inception to date as of December 31, 2018 amounted to $14.8 million with approximately $12.3 million of that revenue from discontinued operations and the remainder from grant revenue for bi-directional power switch development. We did not have revenue from continuing operations in the years ended December 31, 2018 and 2017. We may pursue additional research and development grants, if and when available, to further develop and/or improve our technology.
+ 
+Industry Background
+ 
+A semiconductor material is a substance that, as its name suggests, is characterized for "conducting" electricity easily, while at the same time, working as an insulator to prevent the flow of electricity. By using semiconductors, it becomes possible to perform rectification for the one-directional flow of electricity, amplification for increasing electrical signals, and switching to open and close the flow of electricity.
+ 
+Power semiconductors possess a structure that is different from regular semiconductors, enabling them to handle high voltages and large currents without damage. Failures may occur due to a rise in temperatures resulting from heat generated from handling large amounts of power. Therefore, methods have been developed to reduce the amount of power semiconductor loss, which is the cause of the heat generation, while also effectively releasing the generated heat to the outside.
+ 
+Power semiconductors are mostly used in power conversion such as in changing voltages and frequencies, as well as changing DC to AC and AC to DC. Power semiconductors play an indispensable role in accurately driving motors from low to high speeds, controlling the voltage and flow of electricity in electric and hybrid vehicles, supplying power grids with power generated from solar cells with less power loss, and providing a stable source of electricity to various home appliances and electrical equipment. In recent years, there has been a greater demand for energy-savings and power consumption reductions, and as a result, the need for power semiconductors that minimize power loss has been increasing.
+ 
+Power semiconductors are solid-state devices that act as a switch without any mechanical movement. Solid-state devices are completely made from a solid material, typically silicon, and their flow of charges is confined within this sold material. The term solid-state is often used to show a difference with the earlier technologies of vacuum and gas-discharge tube devices and also to exclude the conventional electro-mechanical devices such as relays, switches, hard drives and other devices with moving part. Solid-state switches are typically more efficient due to lower losses during power processing.
+ 
+
+4
+-
+
+ 
+
+The $12 billion global power semiconductor market may be categorized by component, material, end-use and geography. Based on component, the market includes power metal-oxide semiconductor field-effect transistors (“MOSFETs”), thyristors, rectifiers, bipolar junction transistors, insulated gate bipolar transistors (“IGBTs”) and power diodes. With respect to material, the power semiconductor market is bifurcated into silicon/germanium, silicon carbide and gallium nitride.
+ 
+The end-use market is classified into automotive, industrial, renewable energy, telecommunication, consumer electronics, aerospace & defense, healthcare and others. Among these, automotive electronics accounts for significant consumption of power semiconductors. The number of semiconductors in vehicles has surged with the rising adoption of electric vehicles, plug-in electric vehicles, and hybrid electric vehicles. Further, the advent of drive-by-wire or x-by-wire technologies have led to a rise in number of electric components in vehicles over mechanical vehicle parts. This rise helps reduce vehicle weight which is directly related to improved fuel efficiency and reduced vehicular emissions. The heavy consumption of power semiconductors across several end use markets such as industrial, automotive, consumer electronics and renewable energy is a key growth driver of the power semiconductor market.
+ 
+The telecommunications market is also a significant end-user of power semiconductors. This segment displays demand for radio frequency (“RF”) power amplifiers and IGBTs among others. With the launch of 5G, we believe the demand for power semiconductors is likely to increase.
+ 
+Geographically, Asia Pacific accounts for the leading consumption of power semiconductors among other key regions. The region is also one of the leading exporters of power semiconductors in the world. The growth in the region is mainly attributed to China, which is the leading automotive and passenger vehicle market in the world. China is currently the leading consumer of power semiconductors. Furthermore, demand for power semiconductors is increasing from renewable energy sectors in the region. 
+ 
+Europe and North America are also leading consumers of power semiconductors among others in the global market.
+ 
+Leading players in the global power semiconductor market include Infineon Technologies AG, Texas Instruments, ON Semiconductor, Fuji Electric Co. Ltd., ST Microelectronics N.V., Mitsubishi Electric Group, Semikron International GmbH, and Toshiba Corporation. While these companies are potential competitors, they are also potential licensees for our B-TRAN™ technology as there is not, to our knowledge, a high-efficiency bi-directional design available in the market.
+ 
+Our Technology
+ 
+To further improve the performance of our bi-directional PPSA™ technology and products, we identified the need for a true bi-directional power switch and applied for and, in 2012, received a grant from the U.S. Department of Energy’s Advanced Research Projects Agency-Energy (“ARPA-E”) to develop a bi-directional solid-state power switch. At the outset, our efforts under the ARPA-E grant were focused on the development of, including the manufacturing process development for, a bi-directional insulated gate bipolar transistor (“BD-IGBT”). Although work on BD-IGBTs had previously been done by others in research labs, it was a technology that had not yet been commercialized.
+ 
+Our PPSA™-based products incorporate multiple IGBTs, which are power switches used in the process to convert power from one current form to another. IGBTs switch power in only one direction (DC to AC or AC to DC) and require the use of a blocking diode to prevent power from flowing back through the system. To enable our PPSA™ products to perform bi-directional power conversion, for each IGBT and diode used in our products, we were required to include a second IGBT and diode. These additional components have slight voltage drops that affect the electrical efficiency of our products and generate heat that must be dissipated. To eliminate the need to utilize four devices to create one bi-directional switch and to improve the performance of bi-directional switching, a true bi-directional switch is necessary. While we initially focused on the development of a BD-IGBT under the ARPA-E grant, we shifted our focus under the grant to the development of a new, highly efficient power switch called a bi-directional bipolar transistor, or B-TRAN™, that we believe will allow us to substitute one B-TRAN™ for two pairs of IGBTs and diodes used in PPSA™ products but, more importantly, is a potential replacement for conventional power switches in the broader power semiconductor market. The B-TRAN™ leverages many of the same processing steps we had developed for the BD-IGBT while also providing us with certain key advantages including patentability and higher efficiency compared to a BD-IGBT.
+ 
+Based on third-party device software simulations and initial prototype testing, we believe that the B-TRANs™ can significantly improve electrical efficiency in power converters and many other power conversion applications. The higher efficiency would substantially reduce the heat generated by the operation of products utilizing this technology. As a result, products incorporating B-TRANs™ will require less space for heat dissipation which would enable increased power density, or power per pound, and reduce material costs.
+ 
+
+5
+-
+
+ 
+
+In 2016, one of our semiconductor fabricators successfully tested single-sided B-TRAN™ silicon dies and the results were consistent with third-party simulations that predict significant performance and efficiency improvements over conventional power switches such as silicon-controlled rectifiers (“SCRs”), IGBTs and MOSFETs. In the second half of 2017, we shifted our focus to de-risking the proof of concept phase of the B-TRAN™ development timeline, as this phase of development was taking longer than anticipated due to the complexity of manufacturing complicated, two-sided power semiconductor devices. To facilitate this, we engaged a second semiconductor fabricator, on a parallel path, to produce a less complex to manufacture B-TRAN™ on an accelerated schedule for proof of concept and initial testing. In the first quarter of 2018, we successfully confirmed the proof of concept of double-sided B-TRAN™ prototypes, validating the ability to make B-TRAN™ semiconductor power switches using conventional silicon semiconductor fabrication equipment and processes. Test results on the standard double-sided prototypes measured B-TRAN™ electrical losses at less than 40% that of conventional power switches such as silicon IGBTs.
+ 
+In the second quarter of 2018, a domestic semiconductor fabricator was qualified and engaged for development runs on the standard version of the B-TRAN™. As a result, we now have the next run of devices with two fabricators in process. These runs incorporate the results of prior runs and testing into the B-TRAN™ design and their manufacturing process. With the double-sided transistor behavior and low conduction losses confirmed and corrections and improvements in the manufacturing process implemented, the next goal is the completion of the fabrication of prototype engineering samples for engineering evaluation and evaluation by potential customers and partners. These samples will include a packaging design based on our previous work and a driver. We have completed the first design for the driver with a prototype driver already built and tested for basic functionality. The coupling of device samples with a driver will form the basis of an intelligent module required for potential customer and partner evaluation.
+ 
+Business Strategy & Target Markets
+ 
+Once we have completed the fabrication of engineering samples for engineering evaluation and evaluation by potential customers and partners, we intend to engage potential partners for our B-TRAN™ utilizing a licensing model.
+ 
+Potential target markets for B-TRAN™ devices include, but are not limited to, electric and hybrid vehicles electronic controls, industrial motor drives, direct current-based distribution and transmission switches and controls and renewable energy and energy storage system power converters. We are currently in the process of fully developing our commercialization strategy for our B-TRAN™ technology.
+ 
+Intellectual Property
+ 
+We rely on a combination of patents, laws that protect intellectual property, confidentiality procedures, and contractual restrictions with our employees and others, to establish and protect our intellectual property rights. As of December 31, 2018, we had 32 US and nine foreign issued patents on our B-TRAN™ technology as well as over 30 additional pending U.S. and international patent applications on our B-TRAN™ technology. We expect to continue to build our patent estate for our bi-directional switch technology and other technological developments that broaden the scope of our technology platform.
+Competition
+ 
+We will compete against well-established incumbent power semiconductor device suppliers, including companies that already operate at a large scale in the single-sided (uni-directional) power switch market with IGBTs and MOSFETs. We expect that these power semiconductor device providers will base their products on current technologies serving the uni-directional power switch market, although we continue to monitor the competitive landscape for offerings or potential offerings based on new technologies. To date, we are not aware of any offerings or potential offerings based on a true high efficiency bi-directional design other than our potential products based on our B-TRAN™ technology. 
+Employees
+ 
+As of February 28, 2019, we had 7 employees, all of whom are full-time employees. None of these employees are covered by a collective bargaining agreement, and we believe our relationship with our employees is good.
+Government Regulation
+ 
+Government approval is not required for us to license our B-TRAN™ technology. However, government support for certain of our potential target markets including electric and hybrid vehicles, renewable energy, grid storage, electric vehicle charging infrastructure and improved grid resiliency, may impact the size and growth rate of these potential target markets.
+
+6
+-
+
+Available Information
+ 
+Our Internet address is www.idealpower.com and our investor relations website is located at ir.idealpower.com. We make available free of charge on our investor relations website under the heading “SEC Filings” our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports as soon as reasonably practicable after such materials are electronically filed with (or furnished to) the SEC. We also make available on our website, our corporate governance documents, including our code of conduct and ethics. Information contained on our website is not incorporated by reference into this Annual Report on Form 10-K. In addition, the public may read and copy materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site, www.sec.gov, that includes filings of and information about issuers that file electronically with the SEC.
