@@ -1,0 +1,281 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+(a) GENERAL DEVELOPMENT OF BUSINESS
+ 
+Communications Systems, Inc. (herein collectively referred to as “CSI,” “our,” “we” or the “Company”) is a Minnesota corporation organized in 1969 that operates directly and through its subsidiaries located in the United States (U.S.) and the United Kingdom (U.K.). CSI is principally engaged through its Transition Networks, Inc. (“Transition Networks” or “Transition”) subsidiary and business unit in the manufacture and sale of core media conversion products, Ethernet switches, and other connectivity and data transmission products, and through its Suttle, Inc. (“Suttle”) subsidiary and business unit in the manufacture and sale of connectivity infrastructure products for broadband and voice communications. Through its JDL Technologies, Inc. (“JDL Technologies” or “JDL”) business unit, CSI provides technology solutions including virtualization, managed services, wired and wireless network design and implementation, and hybrid cloud infrastructure and deployment. Through its Net2Edge Limited (“Net2Edge”) U.K.-based business unit, the Company develops, manufactures and sells products that enable telecommunications carriers to connect legacy networks to high-speed services.
+ 
+The Company maintains a website at www.commsystems.com. Our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our periodic reports on Form 8-K (and any amendments to these reports) are available free of charge by linking from our website to the Securities and Exchange Commission website.
+ 
+(b) FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS
+ 
+The Company classifies its businesses into the following four segments:
+ 
+● | Transition Networks designs and markets media conversion products, Ethernet switches, and other connectivity and data transmission products; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Suttle manufactures connectivity infrastructure products for broadband and voice communications; 
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | JDL Technologies is an IT managed services provider and value-added reseller; and 
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+● | Net2Edge develops, manufactures and sells products to transmit packetized voice and data across networks and between copper-wired and fiber optic equipment. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Non-allocated general and administrative expenses are separately accounted for as “Other” in the Company’s segment reporting. Intersegment revenues are eliminated upon consolidation. Further information regarding these segments, including customer and industry concentration, is set forth in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in Note 11 of the Notes to Consolidated Financial Statements under Item 8.
+ 
+(c) NARRATIVE DESCRIPTION OF BUSINESS
+ 
+(1) Information Regarding Business Segments
+ 
+(i) Transition Networks, Inc. 
+ 
+Transition Networks, Inc., based in Minnetonka, Minnesota, designs, assembles and markets media converters, NIDs, network interface cards (NICs), Ethernet switches, Small Form Factor Pluggable modules (SFP), and other connectivity products under the Transition Networks brand name. Transition sells its products through distributors, resellers, integrators, and original equipment manufacturers (“OEMs”). These media converters, NIDs, and Ethernet Switch products allow network operators to transmit voice and data across networks and between copper-wired and fiber-optic equipment. Sales by Transition Networks were $36,470,000 in 2018 compared to $38,541,000 in 2017. International sales accounted for 15% of Transition’s sales, or $5,411,000 in 2018, compared to $7,280,000, or 19% of Transition’s sales in 2017.
+ 
+ 2
+
+ 
+
+Products
+ 
+Transition Networks designs, assembles and sells media converter devices, NIDs, Ethernet switches and other connectivity products that enable customers to transmit voice and data across networks and between systems using different types of media (for example, between copper and fiber). These products assist customers in resolving challenges in the areas of bandwidth constraints, security risks, and distance limitations as networks extend from local area to wide area networks and adapt to ever increasing end-user demands. As enterprise networks continue to change and evolve, our solutions enable customers to both integrate fiber optics into their existing infrastructure as their networks grow, and to extend advanced data services to their customers at remote locations, including supporting wireless networks and backhaul requirements. Many of our products incorporate features to perform advanced levels of fault management and diagnostics to troubleshoot fiber optic and copper network infrastructure. Our growing Power-over-Ethernet (PoE) products support remote devices such as cameras and wireless access points by passing electrical power along with data on Ethernet cabling, eliminating the need for local power in hard-to-reach locations.
+ 
+Transition Networks products support a wide variety of protocols, including: 10 Gigabit Ethernet, Gigabit Ethernet, Fast Ethernet, Ethernet, T1/E1, T3/E3, DS1/DS3, RS232, RS485, OC3, OC12, among others. Transition Networks develops product hardware and software internally, and expenses the related costs as they are incurred. In connection with the sale of its hardware products, Transition Networks provides its customers with a variety of software management options including Network Management System (NMS) software for providing superior provisioning and monitoring of its Ethernet switches and other managed devices. Transition has been developing and marketing Ethernet-based networking products for over 30 years. Transition Networks continues to develop products that address the enterprise, service provider, industrial, government, and security markets. Increasingly, Transition Networks Power-over-Ethernet products are used in smart building environments, intelligent transportation applications, and in security and surveillance networks.
+ 
+Manufacturing and Sources of Supply
+ 
+Transition Networks uses contract manufacturers to manufacture its products in different geographical locations, in addition to OEM partners through which the Company sources product and markets under its own name. In 2018, 65% of the total value of Transition Networks’ products was manufactured in or sourced from Asia, 27% was manufactured in the US, and the remaining 8% was produced in Mexico. Offshore sources of supply are subject to certain risks, including political risk.
+ 
+Markets and Marketing
+ 
+Transition Networks’ products are used in a broad array of markets including federal government, enterprise, service provider, industrial, security and surveillance markets. Transition Networks has a broad customer base that uses its products in a variety of applications.
+ 
+The line of Ethernet switches (both POE and non-POE) is used in last-mile access, backhaul, wiring closets and at end-user stations. These are sold into security networks, intelligent transportation applications, smart buildings, corporate enterprise networks and other Internet of Things applications domestically and abroad. The media conversion product line is used in several applications. The ION and Point System™ chassis-based modular systems are used primarily in telecommunications closets for high-density applications or when multiple protocols need to be supported. Stand-alone media converters are used typically at customer premises or for lower density applications. The Carrier Ethernet NID line of products addresses the high quality access requirements for both business services and wireless backhaul data communications and telecommunications applications.
+ 
+Marketing primarily consists of direct marketing using a sales force, tradeshows, trade magazine advertising, on-line advertising, website, email, social media and public relations activities. Transition Networks also provides and participates in advertising and cooperative marketing campaigns with distribution partners.
+ 
+ 3
+
+ 
+
+The “Transition Networks” brand name is important to the Company’s business. The Company believes the Transition Networks name is well known in the marketplace and with trade advertising.
+ 
+Research and Development
+ 
+Transition Networks develops products for the federal government, enterprise, service provider, security and industrial markets. This includes developing converters for emerging protocols and existing protocols in new markets, as well as new industry standards. Some of these products include remote management devices built on the IEEE® 802.3AH, 802.3AG, ITU-T Y.1731 standards, Metro Ethernet Forum (MEF)® standards, and Power Over Ethernet devices based on the IEEE® 802.3AF and IEEE® 802.3AT standards. Some design efforts are paced by the development of critical components such as integrated circuits and optical transceivers.
+ 
+Research and development consists primarily of designing, prototyping, and testing of equipment and supplies associated with developing new products and enhancing existing products. Research and development costs are expensed when incurred and were $2,664,000 in 2018 compared to $2,454,000 in 2017.
+ 
+Transition Networks’ conducts its research and development operations in the United States, at its Minnetonka, Minnesota headquarters location. While this U.S. location has primary engineering and product development responsibility, Transition Networks occasionally uses third party design services and Original Design Manufacturers (“ODM”) to support specific product design requirements.
+ 
+Competition
+ 
+Transition Networks faces strong competition across its entire product line. A large number of competitors exist for high volume products in the Fast Ethernet and Gigabit Ethernet families, as well as the NIDs. Low-cost competitors from China and Taiwan are strongest in (i) Asian, (ii) European, Middle Eastern, and African (“EMEA”) and (iii) South American markets. Transition Networks also faces new competitors as it enters new markets for industrial products, security market, and higher performance devices for the service provider market.
+Order Book
+ 
+Outstanding customer orders for Transition Networks products were approximately $1,470,000 at March 1, 2019 and $2,607,000 at March 1, 2018. Transition Networks orders are fulfilled on a relatively short-term basis and therefore the Company does not consider the order book as a significant indicator of longer term future results.
+(ii) Suttle, Inc. 
+ 
+Suttle, based in Minnetonka, Minnesota, manufactures and markets a broad range of products that support broadband and telephone service under the Suttle brand name in the United States and internationally. Products are deployed in the last mile of the carrier network as well as inside the premise/enterprise to meet the unique needs of hybrid/fiber/copper networks. The Company’s customer-oriented approach provides right-sized solutions that leverage existing infrastructure and protect investments as markets and technologies grow and change. With over 100 years of knowledge and experience, Suttle is a reliable partner, delivering innovative, flexible, easy-to-use solutions, lower cost of ownership, and solid customer support. The Company manufactures 71% of its products at its plant in Hector, Minnesota. The other 29% are purchased from offshore contract manufacturers. Segment sales were $23,410,000 in 2018 and $32,384,000 in 2017.
+Products
+ 
+Suttle’s products include Structured Cabling Products (enclosure systems to support premise distribution of broadband and other connectivity networks), FTTx Products (fiber optic management and connectivity solutions for access and premise networks), Modular Connecting Products (connecting products for copper telecommunications networks) and DSL Products (products that support broadband connectivity to copper networks).
+ 
+ 4
+
+ 
+
+Products for the Edge of the Network:
+ 
+Suttle’s solutions for the last mile of the carrier’s network, i.e. the “Edge,” are designed to operate in challenging environments yet be easily accessible, extend the life of the existing network, enhance data speeds, and prevent loss of bandwidth at the point of use.
+ 
+Suttle products are designed to work indoor and outdoor and feature flexibility and scalability in real world applications for both copper and fiber networks. Suttle’s FutureLinkTM solutions offer a range of products, including terminals, as well as patch-and-splice and splitter enclosures.
+ 
+Products for the Connected Home/Business:
+ 
+Suttle sells service distribution products for cost-effective solutions using existing and new structured wiring. These products reduce installation time and labor costs, and increase the provider’s return on investment. In addition to reducing a service provider’s up-front costs, Suttle’s high throughput solutions help eliminate potential bottlenecks to “future-proof” the installation, reducing future costs.
+ 
+Suttle’s MediaMAXTM brand products enable reliable brownfield and greenfield inside premise connectivity to meet the increasing demand for wired and wireless high-speed service throughout the home and business. Designed to optimize installation cost while maximizing coverage and bandwidth at the point of use for multiple deployment topologies, this brand includes a premise connectivity and distribution system, featuring plastic modular enclosures and tool-less, snap-in modules to minimize wireless interference. MediaMAXTM brand products replace Suttle’s SOHOTM brand products, which had been Suttle’s primary premise distribution products for approximately the last 10 years.
+ 
+Another key feature of the MediaMAX brand products is installation cost and time saving tool-less technology available in jacks and modules. Rounding out the inside the premise/enterprise offering are faceplates and wall plates that accommodate hybrid/fiber, copper and coax connections for higher speed, tool-less connectivity and lower cost of ownership.
+ 
+Markets and Marketing 
+ 
+Suttle markets its outside plant and premise distribution products globally to telecommunications companies, service providers, residential builders, and low-voltage installers through distributors and the Company’ sales staff. Suttle has a solid history of offering long-term solutions to some of the largest global providers by understanding customers’ needs and providing innovative solutions coupled with strong customer support. Suttle reaches its targeted customers through a variety of marketing media including trade shows, associations, advertising, social media, and the Suttle website, SuttleSolutions.com, which emphasizes our focus on end-to-end customer oriented solutions for communication service providers.
+Customers 
+ 
+Suttle’s customers include telephone, CATV, internet service providers, residential builders and contractors as well as enterprise networks. The Company’s major telephone company customers include AT&T, CenturyLink and Verizon. Suttle serves these major telephone companies directly by Suttle’s sales staff and through a select group of distributors. Sales (including DSL) to the major telephone companies, as a group, both directly and through distribution, represented 83% of Suttle’s sales in 2018 and 90% in 2017.
+ 
+Other customers include smaller telephone companies, electrical/low-voltage contractors, home builders, and a nationwide network of distributors. Suttle serves these customers primarily through distributors, but also directly through its sales staff. Sales to cable customers and OEMs are made through Suttle’ nationwide network of distributors and through Suttle’s sales staff. Sales to OEMs and other distributors were 9% of Suttle’s sales in 2018 and 8% in 2017. Sales to international customers and other customers represented 8% of Suttle’s sales in 2018 and 2% in 2017.
+ 
+Competition
+ 
+Suttle encounters strong competition in all its product lines and competes primarily on the basis of the broad lines of products offered, product performance, quality, price, delivery, and customer support. Some distributors of Suttle’s products also market products for one or more of Suttle’s competitors.
+ 
+ 5
+
+ 
+
+Manufacturing and Sources of Supply 
+ 
+Suttle manufactures its products using plastic or metal parts, wire sub-assemblies, fasteners, brackets, electronic circuit boards, and other components, most of which are fabricated by Suttle. There are multiple sources of supply for the materials and components and Suttle is not dependent upon any single supplier. Although Suttle has not generally experienced significant problems in obtaining its required supplies, from time to time it experiences spot shortages and longer order lead times are required from its offshore suppliers.
+ 
+Research and Development 
+ 
+Suttle continually seeks to understand the needs of its customers and both develops new products for evolving customer requirements and enhances existing products to improve its existing product line. For competitive reasons, including duplication of its designs by foreign apparatus manufacturers, Suttle has adopted a policy to seek patent protection on innovative new products. Suttle filed five patent applications in 2016, filed two patent applications in 2017, and did not file for any patent applications in 2018.
+ 
+Research and development consists primarily of designing, prototyping, and testing of equipment and supplies associated with developing new products and enhancing existing products. Research and development costs are expensed when incurred and were $244,000 in 2018 compared to $528,000 in 2017.
+ 
+Suttle and Suttle Solutions are important trademarks. Suttle supports these brand names by trade advertising and believes they are well known in the marketplace. Other important trademarks include FutureLinkTM brand for the last mile and MDU solutions; MediaMAXTM panels, modules, jacks and wall plates; SpeedStarTM for passive premise connectivity; and CorroShield® brand gel that prevents network corrosion.
+
+
+Order Book 
+ 
+Suttle manufactures its products both on a make-to-order basis and on the basis of customer forecasts. Outstanding customer orders at March 1, 2019 were approximately $1,985,000 compared to approximately $2,849,000 at March 1, 2018. New orders are generally filled within 60 days. Suttle does not believe its order book is a significant indicator of longer term future results.
+ 
+(iii) JDL Technologies, Inc.
+ 
+JDL Technologies, Inc., based in Fort Lauderdale, Florida, is a managed service provider and value-added reseller supplying information technology (“IT”) solutions focused on (a) IT managed services, which include (i) network design, deployment and integration; (ii) cloud hosted and virtualized services; and (iii) remote support and management from our managed services operation center and (b) project revenue which includes IT services project engagements. JDL’s 2018 sales were $5,134,000 compared to 2017 sales of $11,210,000. Project revenue totaled $3,005,000 in 2018 or 59% of JDL sales compared to $8,532,000 in 2017 or 76% of JDL sales. Managed service revenues decreased to $2,129,000 in 2018 from $2,678,000 in 2017.
+ 
+Markets and Marketing
+ 
+JDL differentiates itself from its competitors by continuously adapting to changes in available IT services, ensuring it continues to provide new and innovative solutions to its clients and prospective clients. This ensures JDL remains well qualified to help clients with their use of technology and IT resources to meet business objectives and regulatory requirements.
+ 
+JDL partners with clients to provide complete support for their information technology environments, from servers to software applications, from the network-level down to the desktop level. Under a typical managed services agreement, JDL maintains corporate IT, resolves issues, supports the client’s user community, and adds value to the client’s business by enabling the client to focus on its core competencies. JDL’s key avenues for delivering on this commitment—and its competitive advantages—include JDL’s on-premise managed services operations center and secure, state-of-the-art hosted datacenter. The managed services operations center leverages the best available tools, applications, practices and resources to deliver a consistent, quality customer experience. JDL holds the MSP Trustmark credential from CompTIA and is a member of the MSP Alliance. 
+ 
+ 6
+
+ 
+
+JDL’s portfolio of technology solutions reflects the regular introduction of new technologies and delivery methodologies and the increasing demand among businesses for innovative solutions to strengthen their competitive edge and address prevailing IT challenges. With its team of professionally certified engineers, more than 250 years of technical experience, and talented leadership, JDL Technologies develops IT solutions that effectively meet these demands. To sustain its leading-edge position, JDL also maintains robust partnerships with strategic manufacturers and is a 3CX VoIP Gold Partner, HP Enterprise Gold Partner, Microsoft Partner, eMDs Solution Provider and Citrix Solutions Service Provider.
+ 
+Customers
+ 
+In 2018, JDL Technologies aggressively targeted its primary vertical markets, healthcare and commercial business, through its JDL HealthTechTM and JDL TechWatchTM brands.
+ 
+Healthcare:
+ Under the JDL HealthTech brand, JDL continues to serve as a trusted partner to its healthcare clients, offering an array of services that address HIPAA Security Rule and Privacy Rule compliance requirements, including its flagship cloud-based service, HIPAA FastTrack. JDL’s managed services practice supports clients ranging from single-office providers, to multi-location regional specialists, to their regulated suppliers and business associates.
+Commercial:
+ JDL Technologies provides support and service to a diverse commercial client set under its JDL TechWatch brand. In 2018, JDL placed increased emphasis on an expanded set of security solutions layered on top of its Cloud Based IT Managed Services. This enabled JDL to provide an even more secure total solution that included security awareness testing and training of client end users which is increasingly important as threats to an organizations security are focused more and more on end users as the weakest link.
+Education:
+ JDL Technologies continues to support a multi-year project to provide wireless network services and datacenter upgrades for several hundred public K-12 schools in Florida. The education vertical remains an important element of JDL’s overall market strategy.
+Products and Services
+ 
+As a managed service provider and value-added reseller, JDL Technologies specializes in delivering technology solutions that free organizations to focus on the strategic business activities critical to their financial success. JDL’s technology solutions encompass an extensive range of networking, virtualization, cloud and infrastructure services, most of which are available under JDL managed services contracts. As technology continues its move to the cloud, JDL aggressively markets its portfolio of cloud-based service offerings to healthcare and commercial business. Its HIPAA FastTrack and Security FastTrack services, available in the JDL Cloud powered by Citrix, have won awards for product innovation, just as JDL Technologies has been recognized in the industry as a leading Managed Service Provider. JDL engineers are trained and certified in the newest cloud and other technology solutions.
+Managed Services: 
+ JDL Technologies continues to refine its Managed Services offering as the industry matures taking it from a traditional remote management model to a hosted service offering that grants JDL greater control, enables tighter service level agreements and increases margins. JDL serves a diverse base of clients with locations throughout the United States, offering managed service programs designed specifically for the healthcare and commercial markets. These robust programs meet HIPAA compliance standards and, while the majority of clients are supported remotely, independent of geographic borders, JDL is also able to provide on-site network management and help desk support for key enterprise clients in the South Florida and Atlanta, Georgia markets. JDL’s managed services include network management, availability assurance, event alerting and incident management services; server, workstation, mobile device and other asset management services; security services including software patching, firewall, antivirus, antimalware and intrusion detection and prevention services; help desk support for client users; SIP trunking, voice over IP and office management services; migration, conversion and vendor management; and technical consulting services and training.
+ 
+ 7
+
+ 
+
+Cloud Solutions:
+ With widespread adoption of cloud solutions on the rise, JDL continues to focus on these solutions as our growth potential. Wireless as a service, infrastructure as a service, and Citrix as a service (sold as JDL FastTrack) are among JDL’s the most successful cloud offerings, with others including backup, storage, voice over IP, firewall and email as cloud or hosted services. The benefits to clients are numerous and include vertical and horizontal scalability, internal bandwidth conservation, and simplification of IT management within client organizations, while JDL benefits from substantial economies of scale and standardization. All JDL cloud offerings are billable as monthly recurring revenue under its managed service model, and JDL is committed to bringing the benefits of cloud services to all clients.
+Network Services: 
+ JDL’s roots are in network services, and these services remain central to its role as a managed service provider and value-added reseller. The JDL team has extensive experience and professional certifications in assessing, designing and implementing wired and wireless networks as well as entire technology infrastructures. Networking services also include network infrastructure as a service, network design and deployment, network and endpoint security, network tuning and device installation/configuration services.
+Virtualization:
+ Using virtualization across an organization’s IT environment delivers greater agility, mobility and efficiency. JDL’s virtualization engineers assess, design, deploy, and manage virtualization programs that are designed to ensure user access to any workload, anytime, anywhere, on any device. JDL’s virtualization services encompass desktops, servers, applications, storage, and any combination thereof, including connectivity and software licensing. As JDL clients continue to adopt virtualization, they experience the economies of scale, reduced capital requirements, enhanced security, and disaster recovery protections that are inherent in virtualized environments.
+Competition
+ 
+The Managed Services Market continues to promise significant growth over the next several years, making it a highly competitive industry. In response to these pressures, JDL’s focus is to quickly adapt to the changing needs of its clients through the adoption and productizing of new IT Service technologies as they become available. An example of this would be the addition of several security services to the JDL portfolio in 2018 including end user phish training and assessment services, system vulnerability testing and Multifactor Authentication tools for securing application access. By ensuring JDL continuously evaluates the services we offer with a focus on the changing market, we are able to provide a better range of services to our clients and prospects while increasing their reliance upon us as their IT service provider.
+Order Book 
+ 
+Outstanding customer orders and contracts for JDL products and services were approximately $1,203,000 at March 1, 2019 and $1,344,000 at March 1, 2018. The Company does not consider current outstanding orders and contracts as a significant indicator of longer term future results.
+ 
+(iv) Net2Edge
+ 
+Net2Edge Limited, based in Basingstoke, Hampshire, United Kingdom, designs, manufactures and markets Carrier Ethernet based Network Access Devices and software under the Liberator™ brand name. Net2Edge™ uses a direct sales model and also markets its products through approved partners and integrators. Net2Edge’s physical products allow network operators to transmit packetized voice and data across networks and between copper-wired and fiber-optic equipment. Sales by Net2Edge were $1,700,000 in 2018 and $1,079,000 in 2017.
+ 
+Products
+ 
+Net2Edge designs, assembles and sells Ethernet based switches based around the international MEF standards. Those products range from legacy over packet interfaces such as Serial, TDM or ISDN and Native Ethernet from 1G to 10G. Net2Edge targets these products at telecommunications service providers as Network Interface Devices. By design, the products transmit data from the subscriber enterprise to the provider edge, usually a router. The products are sophisticated, carrying multiple services with definable quality of service metrics over fiber optic paths. These products assist in resolving challenges in the areas of bandwidth constraints, security risks, and distance limitations as networks extend from local area to wide area networks and adapt to ever increasing end-user demands. As enterprise networks continue to change and evolve, our solutions enable customers to integrate multiple services into their existing infrastructure. All Net2Edge products incorporate features for performing advanced levels of fault management and automated provisioning minimizing the administrative burden of the operator.
+ 
+ 8
+
+ 
+
+Net2Edge products support a wide variety of protocols, including: 10 Gigabit Ethernet, Gigabit Ethernet, Fast Ethernet, Ethernet, T1/E1, DS3, Circuit Emulation Services (TDM or ISDN over Ethernet or IP), RS232, RS485, OC3, OC12, GFast and more. Net2Edge develops product hardware and software internally, and expenses the related costs as they are incurred.
+ 
+Manufacturing and Sources of Supply
+ 
+Net2Edge uses contract manufacturers to manufacture its products in the UK. Because some of Net2Edge’s offshore sources of supply are subject to risks, including political, communication and logistic risk, when possible, Net2Edge takes steps to ensure it has multiple suppliers to ensure business continuity.
+ 
+Markets and Marketing
+ 
+Net2Edge products are used in a broad array of market sectors including the Government, Enterprise, Utility, Industrial, and Surveillance markets. Net2Edge has a growing international customer base outside the United Kingdom and customers use its products in a variety of applications.
+ 
+Net2Edge’s marketing primarily consists of direct marketing using a sales force, tradeshows, trade magazine advertising, on-line advertising, website, email, social media, and public relations activities. Net2Edge also participates in advertising and cooperative marketing campaigns with its partners.
+ 
+The Company’s “Net2Edge” brand name is important to its business. The Company regularly supports this brand name by trade advertising and intends for it to become well known in the marketplace.
+ 
+Research and Development
+ 
+Net2Edge develops products for the service provider market including products for emerging protocols and existing protocols in new markets, as well as new industry standards. These products include remote management devices built on the IEEE® 802.3AH, 802.3AG, ITU-T Y.1731 standards, Metro Ethernet Forum (“MEF”)® and MEF 2.0 standards. Some design efforts are paced by the development of critical components such as integrated circuits, System On Chip (“SOC”) silicon and optical transceivers.
+ 
+Research and development consists primarily of designing, prototyping, testing equipment and supplies associated with enhancing existing products and developing new products. Research and development costs are expensed when incurred and were $878,000 in 2018 and $657,000 in 2017.
+ 
+Net2Edge conducts its research and development operations out of its Basingstoke, United Kingdom headquarters location. While this UK location has primary engineering and product development responsibility, Net2Edge will occasionally use third party design services and ODMs to support specific product design requirements.
+ 
+Competition
+ 
+Net2Edge faces strong competition across its entire product line. A large number of competitors exist for high volume products. There are low cost competitors from China and Taiwan and established competitors from the USA and Canada.
+ 
+ 9
+
+ 
+
+Order Book
+ 
+Outstanding customer orders for Net2Edge products were approximately $1,105,000 at March 1, 2019 and $1,031,000 at March 1, 2018. Net2Edge orders are fulfilled on a relatively short-term basis and therefore the Company does not consider the order book as a significant indicator of longer term future results.
+(2) Employment Levels
+ 
+As of March 1, 2019 the Company employed 241 people. Of this number, 94 were employed by Suttle, 88 by Transition Networks, Inc., 23 by JDL Technologies, Inc., 19 by Net2Edge in the U.K., and 17 corporate general and administrative positions.
+(3) Executive Officers of Registrant
+ 
+The executive officers of the Company and their ages at March 1, 2019 are set forth below. See Item 9B of this Form 10-K for additional information on the Company’s management.
+
+Name | | Age | | Position1
+------------------+----+-----+-----------------------------------------------------------------------------+----------
+Roger H.D. Lacey | 68 | | Executive Chairman of the Company’s Board and Chief Executive Officer2 
+Mark D. Fandrich | 57 | | Group Business President, Treasurer and Chief Financial Officer 3 
+Scott Otis | 57 | | Group Business President & General Manager, Transition Networks, Inc. 4 
+Scott Fluegge | 49 | | President and General Manager, JDL Technologies, Inc 5 
+Kristin A. Hlavka | 37 | | Corporate Controller 6 
+
+
+1 | Additional footnotes indicate when officers began serving in their current capacity. Executive officers serve at the pleasure of the Board of Directors. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2 | Mr. Lacey has served as the Company’s Chief Executive Officer since February 2015 and has served as the Executive Chairman of the Company’s Board of Directors since December 2018. Additional information about Mr. Lacey’s background will be contained in the 2019 Proxy Statement. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3 | Mr. Fandrich was appointed Chief Financial Officer in August 2016, and effective January 1 2019, was named Group President of the Suttle and JDL Technologies business segments. From July 2015 to August 2016, he served as Vice President of Finance of Suttle, Inc. From April 2004 to July 2015, he was Corporate Controller for The Bergquist Company, a global supplier of thermal interface material. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4 | Mr. Otis was appointed General Manager of Transition Networks in September 2013, and effective January 1, 2019, was named Group President of the Transition Networks and Net2Edge operating segments. From December 2010 to June 2011 he served as Vice President, Operations - Professional Services for TE Connectivity, Inc. Prior to December 2010, he was the Vice President, Marketing and Business Development – ADC Professional Services. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5 | Mr. Fluegge was appointed Vice President and General Manager of JDL Technologies in December 2011, and was named President and General Manager in September 2013. Prior to this, he was the Vice President of Workload Automation at GSS AMERICA / GSS INFOTECH / INFOSPECTRUM CONSULTING. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 10
+
+ 
+
+
+6 | Ms. Hlavka was appointed Corporate Controller in May 2011. From July 2008 to April 2011, she served as the Assistant Corporate Controller. Prior to July 2008, she was an auditor for Deloitte and Touche LLP. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(d) FINANCIAL INFORMATION ABOUT FOREIGN AND DOMESTIC OPERATIONS AND EXPORT SALES
+ 
+Financial information about domestic and foreign operations and export sales may be obtained by reference to Note 11 of the “Notes to Consolidated Financial Statements” under Item 8 herein.

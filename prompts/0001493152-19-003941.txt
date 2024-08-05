@@ -1,0 +1,374 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+ 
+Forward-Looking Statements
+ 
+This annual report contains forward-looking statements. Forward-looking statements are projections of events, revenues, income, future economic performance or management’s plans and objectives for future operations. In some cases, forward-looking statements can be identified by the use of terminology such as “may”, “should”, “expect”, “plan”, “anticipate”, “believe”, “estimate”, “predict”, “potential” or “continues” or the negative of these terms or other comparable terminology. Examples of forward-looking statements made in this annual report include or may include, among others, statements about:
+ 
+
+● | our proposed plan of operations; 
+--+---------------------------------------------------------------------------
+● | our financial and operating objectives and strategies to achieve them; 
+● | the costs and timing of our services; 
+● | our use of available funds; 
+● | our capital and funding requirements; and 
+● | our other financial or operating performances. 
+
+ 
+The material assumptions supporting these forward-looking statements include, among other things:
+ 
+
+● | our future growth potential, results of operations, future prospects and opportunities; 
+--+--------------------------------------------------------------------------------------------
+● | execution of our business strategy; 
+● | there being no material variations in current regulatory environments; 
+● | our operating expenses, including general and administrative expenses; 
+● | our ability to obtain any necessary financing on acceptable terms; 
+● | timing and amount of capital expenditures; 
+● | retention of skilled personnel; 
+● | continuation of current tax and regulatory regimes; and 
+● | general economic and financial market conditions. 
+
+ 
+Although management considers these assumptions to be reasonable based on information currently available to it, they may prove to be incorrect.
+ 
+These forward-looking statements are only predictions and involve known and unknown risks, uncertainties and other factors, including:
+ 
+
+● | inability to efficiently manage our operations; 
+--+-----------------------------------------------------------------------------------
+● | general economic and business conditions; 
+● | our negative operating cash flow; 
+● | our ability to obtain additional financing; 
+● | our ability to collect outstanding loans; 
+● | increases in capital and operating costs; 
+● | general cryptocurrency risks; 
+● | technological changes and developments in the blockchain and cryptocurrencies; 
+● | risks relating to regulatory changes or actions; 
+● | competition for blockchain platforms and technologies; and 
+● | other factors discussed under the section entitled “Risk Factors”, 
+
+ 
+any of which may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Further, although we have attempted to identify factors that could cause actual results, levels of activity, performance or achievements to differ materially from those described in forward-looking statements, there may be other factors that cause results, levels of activity, performance or achievements not to be as anticipated, estimated or intended.
+ 
+
+-3-
+---
+
+ 
+
+While these forward-looking statements and any assumptions upon which they are based are made in good faith and reflect management’s current judgment regarding the direction of our business, actual results may vary, sometimes materially, from any estimates, predictions, projections, assumptions or other future performance suggested herein. Accordingly, readers should not place undue reliance on forward-looking statements. Except as required by applicable law, including the securities laws of the United States and Canada, we do not intend to update any of the forward-looking statements to conform these statements to actual results. All forward-looking statements in this annual report are qualified by this cautionary statement.
+ 
+All financial information contained herein is shown in United States dollars unless otherwise stated. Our financial statements are prepared in accordance with United States generally accepted accounting principles. Unless otherwise stated, “$” refers to United States dollars.
+ 
+In this annual report, unless otherwise specified, all references to “shares” refer to shares of common stock in the capital of our company.
+ 
+As used in this annual report, the terms “we”, “us”, “the Company”, “our” and “ICOx” mean ICOx Innovations Inc. and its wholly-owned subsidiaries, ICOx USA, Inc. (formerly AppCoin Innovations (USA) Inc.), Cathio, Inc., and sBetOne, Inc., unless otherwise specified.
+ 
+Corporate Overview
+ 
+We were incorporated under the laws of the State of Nevada on July 20, 2010 under the name “Redstone Literary Agents, Inc.”. Following incorporation, we commenced the business of representing authors to publishers.
+ 
+Upon the resignation of Mary Wolf as an officer of our company on August 28, 2014, we ceased pursuing the business of representing authors to publishers and sought new business opportunities.
+ 
+In July 2017, we decided to operate a new business of providing services for blockchain and cryptocurrency technologies and incorporated a Nevada subsidiary, ICOx USA, Inc. (formerly AppCoin Innovations (USA) Inc.) on August 1, 2017.
+ 
+Effective August 17, 2017, we completed a merger with our wholly-owned subsidiary, AppCoin Innovations Inc., a Nevada corporation, which was incorporated solely to effect a change in our name. As a result, we changed our name from “Redstone Literary Agents, Inc.” to “AppCoin Innovations Inc.”.
+ 
+Effective February 14, 2018, we completed a merger with our wholly-owned subsidiary, ICOx Innovations Inc., a Nevada corporation, which was incorporated solely to effect a change in our name. As a result, we changed our name from “AppCoin Innovations Inc.” to “ICOx Innovations Inc.”.
+ 
+On November 19, 2018, we incorporated a new Delaware subsidiary, GN Innovations, Inc., to provide blockchain technology opportunities to the sports and entertainment industry by working with large and well-established brands. Effective December 5, 2018, we changed the name of this subsidiary to “GN1, Inc.” and effective February 6, 2019, we changed the name of this subsidiary to “sBetOne, Inc.”.
+ 
+On November 28, 2018, we incorporated a new Delaware subsidiary, Cathio, Inc., to provide blockchain technology opportunities to the Catholic community.
+ 
+Recent Developments
+ 
+On December 29, 2017, the Company signed a master service agreement with Ryde, a company in which there is a common director. The agreement was amended on March 15, 2018, pursuant to which the Company changed the scope of services to provide Ryde with the services in connection with Ryde’s development of an image rights management and protection platform (the “Platform”) using blockchain technology, including (i) the business development and technical services, (ii) the business launch services and (iii) the post-business launch support services. The business services agreement with Ryde provides that the fees for the services provided in connection with the development and launch of the Platform (the business development and technical services and business launch services) were deemed earned on the date of execution of the business services agreement. The Company has waived Ryde’s requirement to pay the $250,000 fixed fee in connection with the business development and technical services as a concession. The Company has recognized the business development and technical service fee of $500,000 during the year end December 31, 2017, paid in January 2018 by Ryde upon the completion of its first round of pre-ICO fundraising. Also, as a condition for entering into the loan agreement, Ryde entered into the amendment no. 2, dated as of July 9, 2018, to the business service agreement dated December 29, 2017 as amended as of March 15, 2018, with our company. Pursuant to the amendment no. 2, the Company and Ryde agreed that each party will be responsible for its respective expenses and agreed not to charge any out of pocket expenses to the other party unless expressly approved by the other party in advance in writing.
+
+-4-
+---
+
+ 
+
+In consideration for the 2018-19 Services, Ryde agreed to pay a fixed fee of $1,100,000, which is deemed earned as of October 1, 2018, under the agreement, but is not due and payable until Ryde closes on the sale of Simple Agreements for Future Tokens (“SAFTs”), equity, or token financings, joint venture financings, or any of its affiliates, in a minimum aggregate amount of $12,000,000, including closings occurring prior to October 1, 2018. For financial reporting purposes, the work fee and additional fee are deemed earned on the date of the financing for a minimum aggregate amount of $12,000,000. In consideration for the 2020 Monthly Services fees, Ryde agreed to pay a monthly fee of $35,000 at the beginning of each month commencing January 1, 2020. All fees and other amounts paid to the Company with respect to the Company’s services provided prior to the amendment no. 3 have been earned in connection with the prior services and will not be credited against any of the above fees or other amounts due under the amendment no. 3.
+ 
+In addition, the amendment no. 3 provides for additional fees for the 2018-19 Services relating to success of Ryde’s business, including the engagement of an investment banker and certain financing milestones and additional fees and milestone fees relating to the achievements of certain net revenues and creation of a business relationship that increases the value of Ryde. The Company will not provide any services related to any financings to be conducted by Ryde. The Company will also receive 20 million tokens based upon 100 million tokens issued, which number will be increased on a pro rata basis, if at any time, Ryde issues more than 100 million tokens (the “Token Fee”). The Token Fee has been previously earned and will be issued in connection with the first release of any tokens to any party.
+ 
+However, if the business services agreement is terminated before December 31, 2019, (a) the fee for the 2018-19 Services will be immediately due in full (but only if the foregoing $12,000,000 financing is closed either before or after the termination date), (b) any additional fees and milestone fees earned will be immediately paid in full (if the condition precedent/milestones are achieved), (c) the Token Fee will be immediately transferred to the Company, and (d) any future adjustment in the number of tokens issued by Ryde, to over 100,000,000, will result in the immediately issuance to our company of 20% of such additional tokens.
+ 
+The amendment no. 3 provides that the business services agreement will continue until December 31, 2020 unless earlier terminated by either party, provided, however, the term of the 2020 Monthly Services will automatically renew for successive one-year periods after December 31, 2020, which renewal term can be terminated by either party with 30 days advanced written notice. The amendment no. 3 also provides that the Company may terminate the business services agreement upon the provision of 30 days written notice to Ryde. Ryde may terminate the business services agreement after December 31, 2019, upon the provision of 30 days written notice to the Company. If the Company or Ryde provides such notice, the Company or Ryde, as applicable, may immediately terminate the business services agreement and the Company will be entitled to no further compensation except for any fees earned prior to the date of the termination and other fees discussed above, which are due regardless of such early termination.
+ 
+The Company has agreed that Ryde will not be responsible for any out-of-pocket expenses incurred by the Company in connection with the performance of the services. In addition, the Company has agreed to pay, and otherwise be financially responsible for (including through the reimbursement of disbursements made by Ryde and its affiliates), (i) all legal costs and expenses incurred by Ryde, the Company and any of their affiliates in connection with the Ryde Offering; (ii) all business and travel expenses incurred by Ryde, the Company and any of their affiliates in connection the Ryde Offering; and (iii) all fees and expenses incurred by Ryde in connection with its conversion of cryptocurrencies into US dollars in connection with the Ryde Offering, including bank, exchange and other similar fees and expenses. Ryde will have the right to deduct any such amounts from the fees otherwise payable by it to the Company and apply such deducted amounts to the payments to the Company.
+ 
+The Company’s chairman and one of its directors, Cameron Chell, is a director, officer and an indirect shareholder of Business Instincts Group Inc. which owns 10% of the common stock of Ryde and he is also a director, officer and indirect shareholder of Blockchain Merchant Group, Inc. which owns 2.5% of the common stock of Ryde and the Company owns 7.5% of the common stock of Ryde. Mr. Chell is also a director, chairman, and officer of Ryde. Mr. Elliott is a former officer of Ryde. Our chief financial officer, Swapan Kakumanu, is also the chief financial officer of Ryde.
+ 
+
+-5-
+---
+
+ 
+
+Our first client, Ryde, has entered into a licensing partnership agreement with Eastman Kodak Company, which announced the launch of the KODAKOne blockchain platform and KODAKCoin initial coin offering. We are providing the services relating to the KODAKOne blockchain platform and the KODAKCoin initial coin offering pursuant to a business services agreement dated December 29, 2017, as amended as of March 15, 2018 with Ryde.
+ 
+On October 19, 2018, the Company, through its wholly-owned subsidiary, ICOx USA, Inc. (“ICOx USA”), entered into a master services agreement with BitRail, LLC (“BitRail”) to develop a blockchain-based payment processing application allowing the purchase and sale of cryptocurrencies (the “Payment Processing Application”) to be operated by BitRail Holdings, Inc. (“BitRail Holdings”), a company formed by BitRail.
+ 
+Under the terms of the master services agreement, ICOx USA initially agreed to provide the services relating to the development of a web-based payment processing platform enabled by blockchain for the purchase and use of cryptocurrencies. The fee for these services will be provided at ICOx USA’s cost plus approved expenses, up to a maximum of $2,000,000. In addition, BitRail agreed that it will be responsible for paying all expenses charged by third parties to ICOx USA or BitRail relating to the master services agreement.
+ 
+In addition, BitRail agreed to immediately form BitRail Holdings to conduct and operate the Payment Processing Application and the parties agreed that BitRail Holdings will initially have a board of five directors or managers, as applicable, three of which will be appointed by BilRail and two of which will be appointed by ICOx USA. In addition, the parties agreed that BitRail Holdings will issue warrants to ICOx USA allowing it to acquire up to 20% of ownership of BitRail Holdings for total consideration of $1, which warrants may be exercised by ICOx USA at any time in the future.
+ 
+Either ICOx USA or BitRail may terminate the master services agreement or any statement of work to be negotiated by the parties upon the provision of 30 days written notice to the other party, upon receipt of which, the non-terminating party may elect to immediately terminate the master services agreement or applicable statement of work. Upon such termination, ICOx USA will be entitled to no further compensation except for (i) any fees earned and out-of-pocket expenses incurred prior to the termination and (ii) any other amounts or consideration as set forth in any statement of work which are to be paid upon or regardless of such termination.
+ 
+On February 1, 2019, we, through our wholly-owned subsidiary, ICOx USA, entered into a master services agreement dated effective January 21, 2019 with FreedomCoin, LLC to develop a stable coin cryptocurrency named FreedomCoin to be used as a currency for purchasing goods and services.
+ 
+Under the terms of the master services agreement, ICOx USA initially agreed to provide the services relating to the development of a stable coin cryptocurrency named FreedomCoin. The fee for these services will be provided at ICOx USA’s cost plus approved expenses, and delivered via approved vendors and within written quarterly budgets approved in advance by FreedomCoin, LLC, up to a maximum of $2,000,000. In addition, FreedomCoin, LLC agreed that it will be responsible for paying all expenses charged by third parties to ICOx USA or FreedomCoin, LLC relating to the master services agreement.
+ 
+In addition, the parties agreed that FreedomCoin, LLC will initially have a board of five directors or managers, as applicable, three of which will be appointed by FreedomCoin, LLC and two of which will be appointed by ICOx USA. In addition, the parties agreed that FreedomCoin, LLC will issue warrants to ICOx USA allowing it to acquire up to 20% of ownership of FreedomCoin, LLC for total consideration of US$1, which warrants may be exercised by ICOx USA at any time in the future.
+ 
+Either ICOx USA or FreedomCoin, LLC may terminate the master services agreement or any statement of work to be negotiated by the parties upon the provision of 30 days written notice to the other party, upon receipt of which, the non-terminating party may elect to immediately terminate the master services agreement or applicable statement of work. Upon such termination, ICOx USA will be entitled to no further compensation except for (i) any fees earned and out-of-pocket expenses incurred prior to the termination and (ii) any other amounts or consideration as set forth in any statement of work which are to be paid upon or regardless of such termination. ICOx USA will also retain the warrants held.
+ 
+
+-6-
+---
+
+Description of Business
+ 
+Overview
+ 
+Our business is a services and development business that provides a turnkey set of services for companies to develop and integrate blockchain and cryptocurrency technologies into their business operations. We anticipate that we will enable companies to focus on their core competencies while providing the necessary resources and expertise to execute a strategy that will enable companies to integrate new blockchain plus cryptocurrency technologies into their business operations. Our plan is to be compensated on a fee-for-services model, technology licensing model and a reoccurring transaction revenue model. We may accept tokens, coins or equity in payment for our services to the extent permitted under applicable law.
+Blockchain Technology
+ 
+Blockchain is a continuously growing list of records called blocks, which are linked and secured using cryptography. Each block contains typically a hash pointer as a link to a previous block, a timestamp and transaction data. By design, blockchains are inherently resistant to modification of the data. Functionally, a blockchain can serve as an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks and a collusion of the network majority.
+ 
+Blockchains are secure by design and are an example of a distributed computing system and decentralization can be achieved with a blockchain. This makes blockchains potentially suitable for the recording of events, medical records and other record management activities, such as identity management, documenting provenance, digital asset registration and transaction processing.
+ 
+Initial Coin Offerings and Cryptocurrency
+ 
+A cryptocurrency is a digital asset – often referred to as a coin or token – that is used as a medium of exchange using cryptography and decentralized control via a blockchain to secure the transaction and to control the creation of additional units of the currency.
+ 
+We may receive fees from initial coin offering proceeds, in a combination of cash and tokens, coins or equity, to the extent permitted under applicable law. For any cryptocurrencies received, we intend to hold cryptocurrencies on our balance sheet and to sell them from time to time via regulated trading exchanges, to the extent permitted under applicable law. We are not involved in the issuance of cryptocurrencies or mining or other related technical cryptocurrency production.
+ 
+Principal Services
+ 
+We plan to generate revenue through the following services:
+ 
+
+1. | Business Development and Technical Services 
+---+------------------------------------------------
+
+
+● | Business modeling and scoping and development; 
+--+-----------------------------------------------------------------------------------------------------------------------------
+● | Advisory services surrounding token models, and token incentivisation; 
+● | Advisory services surrounding cryptoeconomics creating networks, and utility of tokens; 
+● | Assistance & sourcing of technical guidance surrounding creation of working model from conceptual framework; and 
+● | Assistance & sourcing of guidance surrounding creation of company application for token usage, storage and transferring. 
+
+
+2. | Blockchain and Technology Program Management 
+---+-------------------------------------------------
+
+
+● | Product vision and road-mapping; 
+--+----------------------------------------------------
+● | Program development and project management; and 
+● | Product development and testing. 
+
+
+-7-
+---
+
+
+3. | Customer Development 
+---+--------------------------------------------------------------
+
+
+● | Customer discovery and scoping (not including any distribution or marketing related services, or assistance regarding the offer or sale of any tokens or coins); and 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Product commercialization and support. 
+
+
+4. | Business Launch Services 
+---+-----------------------------
+
+
+● | Public relations & business development plans and strategies maximizing physical and digital outreach (not including any distribution or marketing related services, or assistance regarding the offer or sale of any tokens or coins); 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Initial community development & management strategy; 
+● | Establish digital/social media presence (not including any distribution or marketing related services, or assistance regarding the offer or sale of any tokens or coins); 
+● | Whitepaper preparation and continued iterative reviews; 
+● | Due diligence report; 
+● | White labeled investor web wallet; 
+● | Website infographics and design; 
+● | Smart contract creation, sourcing, conceptualization and high-level specifications; 
+● | Provide sourcing, guidance and assistance where required to engineering team surrounding the development of token wallet; and 
+● | Specifications of platform website, and database backend built to collect user information. 
+
+
+5. | Post-Business Launch Support Services 
+---+------------------------------------------
+
+
+● | Public relations to support (not including any distribution or marketing related services, or assistance regarding the offer or sale of any tokens or coins); 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Community development and management; and 
+● | General support. 
+
+ 
+We do not intend to find or make referrals to, or otherwise solicit, or assist in any way in the solicitation of, investors for investment in our clients’ coin offerings, act as a placement agent for the sale of our clients’ coins, or otherwise engage in any activity that would require us to register under Section 15(b) of the Securities Exchange Act of 1934, or similar provisions under state law.
+ 
+Sales and Marketing
+ 
+We intend to implement our sales and marketing plan to attract new clients to our blockchain consulting business as follows:
+ 
+
+● | Maintain an online presence through our website and social media channels by utilizing video, written content and social implementations to create awareness; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Sponsorship of cryptocurrency and blockchain related events; 
+● | Speaking engagements at industry conferences; 
+● | Direct sales channel management programs including both inbound and outbound programs and client referrals; and 
+● | Public relations campaigns. 
+
+Dependence on Few Customers
+ 
+As of March 26, 2019, we have three clients which have engaged us to build out their business models, technology strategy, market entry strategy, and capital structure, which includes a blockchain platform launch. However, we have several potential customers in our sales pipeline.
+
+-8-
+---
+
+Competition
+ 
+We are in a novel business of providing services for companies to develop and integrate blockchain and cryptocurrency technologies into their business operations. We compete with the following competitors:
+
+● | The Argon Group 
+--+--------------------
+
+ 
+The Argon Group (“Argon”) is an investment bank with a focus on digital finance and cryptocurrency and token-based capital markets. Argon provides financial advisory, placement, and technology services to companies seeking to raise equity, debt, and non-dilutive capital. Argon develops technical placement solutions, including digital tokens powered by advanced smart contracts, which Argon operates through a digital asset placement platform called TokenHub.com.
+ 
+
+● | CoinLaunch
+--+-----------
+
+ 
+CoinLaunch recently announced the first end-to-end initial coin offering platform that allows anyone to build, deploy and monetize compliant ICOs through a web-based service. The platform focuses on three groups of cryptocurrency users: ICO creators, funders and promoters. The company provides a Coin Creator that enables users to create their own Ethereum-based ICO. CoinLaunch’s integrated cryptocurrency funding system enables backers to fund various campaigns using a built-in crypto-payment gateway. It also includes an affiliate and referral system that tracks and manages all aspects of the promotion of ICO campaigns. The platform facilitates the payment of referrals using a CoinLaunch Token, which then can be used to purchase ICOs offered on the platform or redeemed for other cryptocurrencies. The platform includes an integrated compliance system that allows for any vetted ICOs to comply with various local regulations, including know-your-client and anti-money laundering regulations.
+ 
+
+● | CoinList
+--+---------
+
+ 
+CoinList uses screens and selects blockchain companies. In August 2017, CoinList facilitated the token sale for blockchain-based data storage network Filecoin. CoinList also offers as part of its service a white-labeled compliance infrastructure stack. Purpose-built for token sales, ComplyAPI provides companies with SEC Rule 506 investor accreditation and know-your-client and anti-money laundering compliance due diligence through a simple integration and API.
+ 
+
+● | ConsenSys
+--+----------
+
+ 
+ConsenSys is a venture production studio building decentralized applications and various developer and end-user tools for blockchain ecosystems, primarily focused on Ethereum. The ConsenSys “hub” coordinates, incubates, accelerates and spawns “spoke” ventures through development, resource sharing, acquisitions, investments and the formation of joint ventures. These spokes benefit from foundational components built by ConsenSys that enable new services and business models to be built on the blockchain. In addition to the development of internal projects and consulting work, ConsenSys is engaged in the identification, development and acquisition of talent and projects on an ongoing basis.
+ 
+
+● | SaftLaunch
+--+-----------
+
+ 
+SaftLaunch.com offers a service for companies seeking to issue an ICO or raise funds through a SAFT agreement, including a proprietary know-your-client and anti-money laundering compliance solution that positions it to co-invest into early stage projects in the pre-ICO phase.
+ 
+
+● | Science
+--+--------
+
+ 
+Science is launching a bitcoin-related incubation program and claims to be the first ICO incubator to enter the market.
+ 
+
+● | Token Funder 
+--+-----------------
+
+ 
+Token Funder has created a “smart token asset management platform” or STAMP to facilitate blockchain based securities being crowdfunded. STAMP intends to, among other things, provide token and coin management and governance services for issuers and, subject to any regulatory approvals and/or exemptive relief required, provide for certain transferability of tokens and coins to ensure that a particular token or coin can achieve the access or use function for which it has been principally created.
+ 
+
+-9-
+---
+
+
+● | TokenMarket
+--+------------
+
+ 
+TokenMarket is a full service ICO provider. Its service offerings include:
+ 
+
+○ | ICO Launchpad, a service for organizing a “crowdsale” with a high quality blockchain industry network, expertise and tools with tradeable digital tokens; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+○ | A token and cryptocurrency database to aid investment decisions with extensive insight whereby its clients can follow ICO calendar and individual assets to be alerted about market opportunities ahead of time, and 
+○ | Storage and management of a client’s digital assets in a TokenMarket wallet, which is secured with two-factor authentication. 
+
+
+● | Polymath
+--+---------
+
+ 
+Polymath simplifies the legal process of creating and selling security tokens. It makes a new token standard, the ST20, and enforces government compliance. Only a “list of authorized investors and their Ethereum wallet addresses” can hold ST20 tokens. In order to launch a legally compliant token, Polymath platform brings together issuers, legal delegates, smart contract developers, know-your-client verification, and a decentralized exchange. All transactions on the Polymath platform take place using the native POLY token.
+ 
+
+● | IBM
+--+----
+
+ 
+With thousands of technical experts, IBM is moving quickly into enterprise blockchain and claims the leading blockchain for business platform. This is primarily B2B focused work.
+ 
+Many of our current and potential competitors may have greater brand recognition, longer operating histories, larger customer bases and significantly greater financial, marketing and other resources than we do. Accordingly, these competitors may be able to spend greater amounts on product development, marketing and distribution. This advantage could enable our competitors to acquire larger market share and develop and offer more competitive products and services. Such competition could adversely impact our ability to attain the financing necessary for us to develop our business plan. In the face of competition, we may not be successful in sufficient market share to make our business profitable.
+ 
+Intellectual Property and Technology
+ 
+We do not currently own any intellectual property. We intend to aggressively assert our rights under trade secret, patents, trademark and copyright laws to protect any intellectual property that we create, including product design, product research and concepts and recognized trademarks. These rights may be protected through the acquisition of patents and trademark registrations, the maintenance of trade secrets, the development of trade dress, and, where appropriate, litigation against those who are, in our opinion, infringing these rights.
+ 
+We may initiate claims or litigation against third parties for infringement of our proprietary rights or to establish the validity of our proprietary rights. In addition, while we are not aware that our services or proprietary rights infringe the proprietary rights of third parties, we may receive notices from third parties asserting that we have infringed their patents, trademarks, copyrights or other intellectual property rights. Any such claims could be time-consuming, result in costly litigation, cause service stoppages or lead us to enter into royalty or licensing agreements rather than disputing the merits of such claims. An adverse outcome in litigation or similar proceedings could subject us to significant liabilities to third parties, require expenditure of significant resources to develop non-infringing technology, require disputed rights to be licensed from others, or require us to cease operating our business, any of which could have a material adverse effect on our business, operating results and financial condition.
+ 
+As we have just begun our new business, we have devoted no substantial efforts to research and development within the last two fiscal years.
+ 
+
+-10-
+----
+
+Government Regulation
+ 
+Current and future legislation and rulemaking and other regulatory developments, including interpretations released by a regulatory authority, may impact the manner in which bitcoins or other cryptocurrency is viewed or treated for classification and clearing purposes. In particular, bitcoins and other cryptocurrency may not be excluded from the definition of “security” by regulatory rulemaking or interpretation requiring registration of all transactions, unless an exemption is available, including transacting in bitcoin or cryptocurrency amongst owners, and require registration of trading platforms as “exchanges” such as Coinsquare. We cannot be certain as to how future regulatory developments will impact the treatment of bitcoins and other cryptocurrencies under the law. If we determine not to comply with such additional regulatory and registration requirements, we may seek to cease certain of our operations or be subjected to fines, penalties and other governmental action. Any such action may adversely affect an investment in us. Such circumstances would have a material adverse effect on our ability to continue as a going concern or to pursue this segment at all, which would have a material adverse effect on our business, prospects or operations and potentially the value of any cryptocurrencies we hold or expect to acquire for our own account and harm investors.
+ 
+We intend to comply with any applicable anti-money laundering or know your customer rules relating to tokens imposed by the SEC and Canadian securities regulators.
+ 
+Investment Company Act of 1940 Considerations
+ 
+We intend to conduct our operations so that we do not fall within, or are excluded from the definition of an “investment company” under the Investment Company Act of 1940.
+ 
+Under Section 3(a)(1)(A) of the Investment Company Act of 1940, a company is deemed to be an “investment company” if it is, or holds itself out as being, engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting or trading in securities. We believe that we will not be considered an investment company under Section 3(a)(1)(A) of the Investment Company Act of 1940 because we will not engage primarily or hold ourselves out as being engaged primarily in the business of investing, reinvesting or trading in securities. Rather, our new business is a services and development business that provides a turnkey set of services for companies to develop and integrate blockchain and cryptocurrency technologies into their business operations.
+ 
+Under Section 3(a)(1)(C) of the Investment Company Act of 1940, a company is deemed to be an “investment company” if it is engaged, or proposes to engage, in the business of investing, reinvesting, owning, holding or trading in securities and owns or proposes to acquire “investment securities” having a value exceeding 40% of the value of our company’s total assets (exclusive of U.S. Government securities and cash items) on an unconsolidated basis, which we refer to as the “40% test.” We intend to monitor our holdings and conduct operations so that on an unconsolidated basis we will comply with the 40% test. Nevertheless, because we may accept tokens, coins or equity in payment for our services, to the extent permitted under applicable law, we may acquire “investment securities” having a value exceeding 40% of the value of our company’s total assets (exclusive of U.S. government securities and cash items) on an unconsolidated basis. In that case, we intend to rely on a safe harbor exemption from the Investment Company Act of 1940 for so-called “transient investment companies.”
+ 
+Consistent with the “transient investment company” safe harbor, we will have to reduce our holdings of “investment securities to not more than 40% of our total assets as soon as is reasonably possible and in any event within one year from the earlier of (i) the date on which we own securities and/or cash having a value exceeding 50% of the value of our company’s total assets on either a consolidated or unconsolidated basis or (ii) the date on which we own or propose to acquire “investment securities” having a value exceeding 40% of the value of our company’s total assets (exclusive of U.S. government securities and cash items) on an unconsolidated basis. This reduction could be attempted in a number of ways, including the disposition of securities and the acquisition of other assets that would not constitute investment securities for purposes of the Investment Company Act of 1940. If we are required to sell securities, we may sell them sooner than we otherwise would, the sales may be at depressed prices, and we may never realize anticipated benefits from, or may incur losses on, those investments. We may not be able to sell some investments due to contractual or legal restrictions or the inability to locate a suitable buyer. We may also incur tax liabilities when we sell our assets. If we decide to try to acquire additional assets that would not constitute investment securities, we may not be able to identify and acquire suitable assets. If these steps do not achieve a sufficient reduction in our holdings of investment securities within the prescribed period, we will be forced to liquidate some of our securities holdings and invest the proceeds in U.S. government securities and cash items, with a potential loss.
+ 
+Because we can rely on the “transient investment company” safe harbor only once during any three-year period, we may not accept tokens, coins or equity in payment for our services during the period that this safe harbor is not available.
+ 
+
+-11-
+----
+
+ 
+
+If we become obligated to register our company as an investment company, we would have to comply with a variety of substantive requirements under the Investment Company Act of 1940 imposing, among other things:
+ 
+
+● | limitations on capital structure; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | restrictions on specified investments; 
+● | prohibitions on transactions with affiliates; and 
+● | compliance with reporting, record keeping, voting, proxy disclosure and other rules and regulations that would significantly change our operations. 
+
+ 
+If we were required to register our company as an investment company but failed to do so, we would be prohibited from engaging in our business, and criminal and civil actions could be brought against us. In addition, our contracts would be unenforceable unless a court required enforcement, and a court could appoint a receiver to take control of us and liquidate our business, all of which would have a material adverse effect on us.
+ 
+Employees
+ 
+As at March 26, 2019, we have three executive officers, Bruce Elliott, who is our president, Michael Blum, who is our chief operating officer, secretary, and treasurer, and Swapan Kakumanu, who is our chief financial officer, and no employees. Our management oversees all responsibilities in the areas of corporate administration, business development, and research. We also employ consultants on an as-needed-basis to provide specific expertise in areas of product design and development and other business functions including marketing and accounting. We intend to expand our current management to retain skilled directors, officers, and employees with experience relevant to our business focus.

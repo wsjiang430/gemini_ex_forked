@@ -1,0 +1,680 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+We are a clinical and preclinical stage oncology focused RNAi nanoparticle drug development company utilizing a novel technology that achieves systemic delivery for target specific protein inhibition for any gene product that is over-expressed in disease. Our drug delivery and antisense technology, called DNAbilize®, is a platform that uses P-ethoxy, which is a deoxyribonucleic acid (DNA) backbone modification that is intended to protect the DNA from destruction by the body’s enzymes when circulating in vivo, incorporated inside of a neutral charged lipid bilayer. We believe this combination allows for high efficiency loading of antisense DNA into non-toxic, cell-membrane-like structures for delivery of the antisense drug substance into cells. In vivo, the DNAbilize® delivered antisense drug substances are systemically distributed throughout the body to allow for reduction or elimination of proteins in blood diseases and solid tumors. DNAbilize® is a registered trademark of the Company.
+ 
+Using DNAbilize® as a platform for drug development and manufacturing, we currently have three antisense drug candidates in development to treat at least five different cancer disease indications. Our lead drug candidate, prexigebersen (pronounced prex” i je ber’ sen), is in the efficacy portion of a Phase 2 clinical trial for acute myeloid leukemia (“AML”) in combination with low-dose cytarabine (“LDAC”) and in combination with decitabine. On March 6, 2019, we announced intended amendments to this Phase 2 clinical trial to, among other things, add prexigebersen in combination with decitabine for myelodysplastic syndrome (“MDS”) and close prexigebersen in combination with LDAC. In addition, preclinical efficacy studies are underway for triple combination prexigebersen, decitabine and Venclexta in AML. Prexigebersen is also being studied in the safety portion of a Phase 2a clinical trial for chronic myeloid leukemia (“CML”) in combination with dasatinib. Prexigebersen was shown to enhance chemotherapy efficacy in preclinical solid tumor models, and we intend to file an Investigational New Drug (“IND”) application for prexigebersen in solid tumors in 2019. 
+ 
+Our second drug candidate, Liposomal Bcl-2 (“BP1002”), targets the protein Bcl-2, which is responsible for driving cell survival in up to 60% of all cancers. We are currently preparing an IND application for BP1002 in addition to completing additional IND enabling studies. We intend to initiate a Phase 1 clinical trial of BP1002 in refractory/relapsed lymphoma and chronic lymphocytic leukemia (“CLL”) patients once we receive approval from the U.S. Food and Drug Administration (“FDA”).
+ 
+Our third drug candidate, Liposomal Stat3 (“BP1003”), targets the Stat3 protein and is currently in preclinical development in a pancreatic patient derived tumor model. Preclinical models have shown BP1003 to successfully penetrate pancreatic tumors and to significantly enhance the efficacy of standard frontline treatments. Our lead indication for BP1003 is pancreatic cancer due to the severity of this disease and the lack of effective, life-extending treatments. We intend to initiate IND enabling studies of BP1003 in 2019.
+ 
+Our DNAbilize® technology-based products are available for out-licensing or partnering. We intend to apply our drug delivery technology template to new disease-causing protein targets as a means to develop new nanoparticle antisense RNAi drug candidates. We have a new product identification template in place to define a process of scientific, preclinical, commercial and intellectual property evaluation of potential new drug candidates for inclusion into our drug product development pipeline. As we expand, we will look at indications where a systemic delivery is needed and antisense RNAi nanoparticles can be used to slow, reverse or cure a disease, either alone or in combination with another drug. On July 19, 2017, we announced that the United States Patent and Trademark Office (“USPTO”) issued a notice of allowance for claims related to DNAbilize®, including its use in the treatment of cancers, autoimmune diseases and infectious diseases.
+ 
+We have certain intellectual property as the basis for our current drug products in clinical development, prexigebersen, BP1002 and BP1003. We are developing RNAi antisense nanoparticle drug candidates based on our own patented technology to treat cancer and autoimmune disorders where targeting a single protein may be advantageous and result in reduced patient adverse effects as compared to small molecule inhibitors with off-target and non-specific effects. We have composition of matter and method of use intellectual property for the design and manufacture of antisense RNAi nanoparticle drug products.
+ 
+Our pipeline for development of antisense therapeutics is set forth in the table below:
+ 
+4
+
+
+Figure 1. Bio-Path Pipeline for Development of Therapeutics
+ 
+
+* Received orphan drug designation from the U.S. FDA for AML and CML and from the European Medicines Agency (EMA) for AML
+ 
+Ribonucleic acid (RNA) is a biologically significant type of molecule consisting of a chain of nucleotide units. Each nucleotide consists of a nitrogenous base, a ribose sugar and a phosphate. Although similar in some ways to DNA, RNA differs from DNA in a few important structural details. RNA is transcribed from DNA by enzymes called RNA polymerases and is generally further processed by other enzymes. RNA is central to protein synthesis. DNA carries the genetic information of a cell and consists of thousands of genes. Each gene serves as a recipe on how to build a protein molecule. Proteins perform important tasks for the cell functions or serve as building blocks. The flow of information from the genes determines the protein composition and thereby the functions of the cell.
+ 
+The DNA is situated in the nucleus of the cell, organized into chromosomes. Every cell must contain the genetic information and the DNA is therefore duplicated before a cell divides (replication). When proteins are needed, the corresponding genes are transcribed into RNA (transcription). The RNA is first processed so that non-coding parts are removed (processing) and is then transported out of the nucleus (transport). Outside the nucleus, the proteins are built based upon the code in the RNA (translation).
+ 
+Our basic drug development concept is to block expression of proteins that cause disease. RNA is essential in the process of creating proteins. We intend to develop drugs and drug delivery systems that work by delivering short strands of DNA material (antisense DNA) that block the production of proteins associated with disease (Figure 2).
+ 
+5
+
+
+Figure 2.
+ 
+
+Antisense DNA therapeutics is the field of designing short DNA sequences that are complementary to an RNA for a protein of interest with the intention of inhibiting the production of the targeted protein. The DNA will find the matching RNA and form a complex. The complexed RNA will not have access to the protein-making machinery, which prevents the cell from translating it into a protein. Thus, protein production is turned off and levels of the targeted protein are reduced in the cell. This gene-specific process of controlling protein expression has led to great interest in using antisense DNA to shut off the production of proteins involved in disease. Antisense therapeutics have been in development for over 20 years; however, there have been many challenges to antisense therapeutics that have prevented or reduced the successful distribution and transfer of DNA into cells. Of all delivery methods in use today, we believe only DNAbilize® has the potential to overcome the most common challenges associated with antisense therapeutics.
+ 
+Challenges associated with antisense therapeutics generally fall into two categories: (i) maintaining the stability of the DNA inside of the body as it is transported to the target cell and (ii) achieving efficient delivery and transfer of the DNA into the cell. DNA stability in the blood and lymphatic system is a challenge because of the abundance of enzymes present in human body fluids. Enzymes called nucleases will digest DNA into nonfunctional fragments making them too small to hybridize effectively to the correct RNA and block the protein machinery.
+ 
+Efforts to overcome the stability challenges led to the development of DNA structural backbone chemistries that block nuclease digestion so that DNA can remain in circulation long enough to reach the target cell. The most popular modification employed is called phosphorothioate in which an oxygen atom in the DNA is replaced with a sulfur atom. This switch alters the DNA’s structure so that enzymes can no longer break down the DNA. However, DNA that contains sulfur has two major drawbacks. First, it has been shown to cause liver toxicity because, as pure DNA that contains sulfur is circulated through the body, it is rapidly cleared by and accumulates in the liver. Second, sulfur also induces significant toxicity in the form of life threatening bleeding and clotting complications.
+ 
+While the development and use of phosphorothioate was a step forward in allowing for progress of in vivo studies, the amount of antisense drug product that can be delivered is severely limited. Consequently, doses at the level needed for true therapeutic success are not possible. Accordingly, stabilizing the DNA backbone through the use of phosphorothioate has prevented the successful use of antisense therapeutics to treat patients at a therapeutic level without causing significant amounts of toxicity. Alternative approaches have since been developed that reduce the number of sulfur groups in the antisense molecule; however, these methods still contain sulfur, and toxicity will always remain a concern. The P-ethoxy modification used in our DNAbilize® technology is completely sulfur free.
+ 
+The second category of challenges to the development of successful antisense therapeutics is achieving efficient delivery and transfer of a DNA molecule across a lipid based cell membrane. Cell membranes have a negative charge on the surface. DNA is also negatively charged. When the pure DNA is delivered to the cell surface, the similar charges repel each other, and uptake of the DNA into the cell is very inefficient. Accordingly, the DNA containing antisense drug products will not be delivered in an amount that will have a therapeutic effect.
+ 
+Efforts to overcome the efficient delivery and transfer challenges led to the exploration of lipid-based carriers for transfer of DNA containing antisense drug products through the lipid bilayer to mimic the lipid cell membrane. Encapsulating the DNA inside a neutral charged lipid bilayer facilitates the delivery and transfer of DNA into the cell to be fluid and gentle. Research initially focused on cationic lipids because they have an overall positive charge, which would be attracted to the negative charge of the cell membrane. It was thought that this would enhance uptake and delivery of DNA.
+ 
+6
+
+
+Research did, in fact, confirm that cationic liposomes are capable of transferring DNA inside of cells at a higher efficiency than with no delivery liposomes; however, it was found that cationic lipids have major drawbacks in therapeutics. These include absorption of serum proteins while the complexes are circulating in the blood. Absorption of charged serum proteins leads to lipid reorganization, aggregation or disassociation, resulting in poor efficiency of transfer of DNA into cells and non-specific toxicity to cell membranes. DNAbilize® overcomes this challenge as well by encapsulating the DNA in a neutral lipid-based liposome, which is a lipid membrane without surface charge. The lipid particles can circulate through the blood without interacting with charged serum proteins, reaching target cells to transfer intact DNA without toxic effects.
+ 
+We believe the DNAbilize® technology is a first in class approach that overcomes the challenges associated with both DNA stabilization and lipid-based delivery. We believe that the combination of the protected DNA using P-ethoxy to modify the DNA structure with the neutral lipid membrane is the ideal approach for antisense DNA therapeutics. While many companies have focused research on either the DNA stabilization problem or the lipid delivery problem, we are not aware of any company that has developed improvements in both areas. DNAbilize® is truly a stand-alone platform because, based on our current research, it allows for high doses of drug products to be delivered throughout the entire body while minimizing toxicity. This allows our research and development efforts to focus on drug targets rather than on indications because the DNAbilize® system should not be limited in what types of indications it can treat. As such, we believe that DNAbilize® represents the first ever antisense therapeutic approach that can successfully treat hematological and systemic diseases of the blood and lymph.
+ 
+Because of our unique ability to address unmet needs in hematological malignancies, our lead drug candidates focus in this area. Our lead drug candidate, prexigebersen, targets the protein Grb2, a bridging protein between activated and mutated cellular kinases and the proteins involved in cell proliferation, and in particular, Ras protein. When mutations occur that activate these kinases, the cell proliferates uncontrollably, via Grb2, and this results in disease. Inhibition of Grb2 interrupts this pathway and shuts off growth signals.
+ 
+Prexigebersen is in a Phase 2 clinical trial for AML in combination with frontline therapy LDAC in elderly and induction therapy ineligible patients or patients who have decided to forego intensive induction therapy because of their age or fragile health. The multi-site trial is being conducted at leading cancer centers, among them are Weill Medical College of Cornell University, Baylor Scott &White Health, The University of Kansas, New Jersey Hematology Oncology Associates, West Virginia University/Mary Babb Randolph Cancer Center and MD Anderson Cancer Center (“MD Anderson”).
+ 
+ On April 3, 2018, we released the interim data from Stage 1 of the Phase 2 clinical trial for AML in combination with LDAC. The prexigebersen and LDAC combination therapy was well-tolerated and showed early anti-leukemic activity in nearly 50% of evaluable AML patients, including four patients with complete remission (“CR”) and four with stable disease. On August 27, 2018, we announced that we commenced Stage 2 of the Phase 2 clinical trial for AML and added a cohort of patients to be treated with a combination of prexigebersen and decitabine, another AML frontline therapy. On March 6, 2019, we announced updates to the interim analysis from Stage 1 of the Phase 2 clinical trial. We announced that the efficacy profile improved to where 11 (65%) of the 17 evaluable patients had a response, including five (29%) who achieved CR, including one complete remission with incomplete hematologic recovery (“CRi”) and one morphologic leukemia free state, and six (35%) stable disease responses, including two patients who had greater than a 50% reduction in bone marrow blasts. The efficacy data from the 17 evaluable patients was very favorable compared to the reported CR, CRp (complete remission with incomplete platelet recovery) and CRi rates of 7 to 13% with LDAC treatment alone. Importantly, through investigation by the principal investigators, it was observed that 68% of patients were secondary AML patients, a difficult class to treat. On March 6, 2019, we also announced intended amendments to this Phase 2 clinical trial to, among other things, add prexigebersen in combination with decitabine for MDS and close prexigebersen in combination with LDAC.
+ 
+In addition to the Phase 2 trial for AML, a Phase 1b/2a clinical trial, which is the safety portion of the Phase 2 clinical trial, of prexigebersen for the treatment of CML in accelerated and blast phase patients is open for enrollment. The trial is being conducted at MD Anderson as a potential salvage therapy for accelerated and blast phase CML patients. Two cohorts of three evaluable patients each will be enrolled to evaluate two doses (60 mg/ m2 and 90 mg/ m2) of prexigebersen in combination with the front-line treatment dasatinib.
+ 
+Our second drug candidate, BP1002, targets the protein Bcl-2. Bcl-2 is an anti-apoptotic member of the Bcl-2 family of proteins that regulate cell death. Amplified expression of Bcl-2 protein is associated with numerous lymphomas. The chromosomal translocation t(14;18) is the defining genetic hallmark of follicular lymphoma. The t(14;18) moves the Bcl-2 gene from chromosome 18 into the heavy chain immunoglobin locus on chromosome 14, resulting in uncontrolled high level expression of Bcl-2 protein. Overexpression of Bcl-2 results in deregulated cell survival in affected cells. We are currently preparing an IND application for BP1002 in addition to completing additional IND enabling studies. We intend to initiate a Phase 1 clinical trial of BP1002 in patients with refractory/relapsed lymphoma and CLL once we receive approval from the FDA. The clinical trial would evaluate the safety of BP1002 in several dose escalating cohorts to determine a maximum tolerated dose and a recommended Phase 2 dose.
+ 
+7
+
+
+Our third drug candidate, BP1003, targets the Stat3 protein and is currently in preclinical development in a pancreatic patient-derived tumor model. Preclinical models have shown BP1003 to successfully penetrate pancreatic tumors and to significantly enhance the efficacy of standard frontline treatments. We intend to initiate IND enabling studies of BP1003 in 2019.
+ 
+Strategy
+ 
+Our strategy is to develop our lead candidates, prexigebersen, BP1002 and BP1003, for multiple indications where the pathways involving Grb2, Bcl-2 and Stat3, respectively, are utilized to promote cancer growth, survival, angiogenesis and tumor surveillance evasion. Using DNAbilize® technology, we plan to develop therapeutics to a wide range of diseases and disorders independently and in partnership with others. The key elements of our strategy include:
+
+(1) | Develop prexigebersen for treatment of AML, MDS and CML in combination with frontline therapies. The Phase 1 clinical trial demonstrated an excellent safety profile of prexigebersen in patients with relapsed/refractory AML, CML or MDS. Moving forward with AML, the area of highest need, we announced in November 2016, the commencement of the Phase 2 trial of prexigebersen in combination with LDAC in AML patients. Eligible patients include de novo elderly ineligible for induction therapy or patients who have decided to forego intensive induction therapy because of their age or fragile health. We released the initial interim data analysis of Stage 1 of the Phase 2 AML study in April 2018, and the updated data in March 2019. In August 2018, we announced the addition of a prexigebersen and decitabine combination cohort to the Phase 2 AML study. On March 6, 2019, we announced a revised clinical program intended for prexigebersen in AML. Part of this revised program includes the intended inclusion of high risk MDS patients in the prexigebersen and decitabine combination cohort and the closure of the prexigebersen and LDAC combination cohort in the ongoing Phase 2 AML study. In addition, preclinical efficacy studies are underway for triple combination prexigebersen, decitabine and Venclexta in AML. On December 29, 2017, we announced the initiation of the safety portion of the Phase 2a clinical trial for blast and accelerated phase CML patients with prexigebersen in combination with dasatinib. 
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Develop prexigebersen for treatment of solid tumors. Preclinical studies, in collaboration with leaders in the field of ovarian and breast cancer at MD Anderson, have been conducted to assess the efficacy of prexigebersen in solid tumors. Research show that prexigebersen enhances the efficacy of frontline therapy in ovarian cancer models. The filing of an IND for a Phase 1 prexigebersen trial in solid tumors, such as ovarian and endometrial cancer, is expected in 2019.
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Develop BP1002 for lymphoma and CLL. We have completed initial IND enabling studies and filed these in a briefing package with the FDA. The FDA requested additional studies be prepared for submission of an IND to start a Phase 1 trial in refractory/relapsed lymphoma that will include multiple types of lymphoma, such as diffuse large B-cell lymphoma (“DLBCL”), follicular lymphoma (“FL”), mantle cell lymphoma (“MCL”), CLL, small lymphocytic lymphoma (“SLL”), peripheral T-cell lymphoma (“PTCL”), cutaneous T-cell lymphoma (“CTCL”), marginal zone lymphoma, Hodgkin lymphoma, and Waldenströms macroglobulinemia. It is expected that this will be a multi-site, open-label, dose-escalating trial involving between 15-30 patients. The filing of the IND to open the Phase 1 trial is expected in 2019. 
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | Develop BP1003 for pancreatic cancer and solid tumors. Our third drug candidate, BP1003, targets the Stat3 protein and is currently in preclinical development for solid tumors, including pancreatic cancer. Previous preclinical models have shown BP1003 to successfully penetrate pancreatic tumors and to significantly enhance the efficacy of standard frontline treatments. Bio-Path intends to initiate IND enabling studies of BP1003 in 2019.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | Expand DNAbilize® to evaluate targets beyond cancer. We plan to apply the DNAbilize® delivery technology template to new protein targets that meet scientific, preclinical and commercial criteria and file new patents on these targets. We expect that these efforts will include collaboration with scientific key opinion leaders in the field of study and include developing drug candidates for diseases other than cancer. On July 19, 2017, we announced that the USPTO issued a notice of allowance for claims related to DNAbilize®, including its use in the treatment of cancers, autoimmune diseases and infectious diseases.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+8
+
+
+
+(6) | Establish DNAbilize® as the antisense drug delivery method of choice by forming partnerships with pharmaceutical and academic clinical research labs. We plan to utilize our business and scientific expertise to identify potential partners and initiate a wide-ranging, proactive licensing program that will include co-development of specific liposomal antisense drug candidates, licensing the delivery template for outside development of one or more liposomal antisense drug candidates or an out-license of a partially developed drug for final development and marketing.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Overview of Drug Candidates and Delivery Technology
+ 
+The historical perspective of cancer treatments has been the use of drugs that affect the entire body. Advances in the past decade have shifted to treating the tumor tissue itself. One of the main strategies in these developments has been targeted therapy, involving drugs that are targeted to block the expression of specific disease-causing proteins while having little or no effect on other healthy tissue. We believe that nucleic acid drug products, specifically antisense, are a promising field of targeted therapy. Development of antisense, however, has been limited by the lack of a suitable method to deliver antisense drugs to the diseased cells with high uptake into the cell without causing toxicity. Our currently licensed DNAbilize® neutral-lipid based liposome technology is designed to overcome these limitations. Studies conducted at MD Anderson have shown a 10-fold to 30-fold increase in tumor cell uptake with this technology compared to other delivery methods. In addition, to date, no adverse effects attributed to the study drug have been observed in our clinical trials for leukemia.
+ 
+Antisense DNA therapeutics of the past have not adequately addressed the issues of toxicity and poor distribution and uptake. Without a lipid carrier, the majority of antisense DNA delivered intravenously is deposited in the liver and does not reach therapeutic levels in other organs in the body. Hence, antisense therapeutics have predominantly focused on diseases of the liver for which delivery of drugs is easy. Below is a table of antisense therapeutics we are aware of that are currently in clinical trials.
+    Table 1. Antisense or Anti-MiR drugs FDA Approved or in Clinical Trials*
+ 
+
+Nucleic Acid Modification | Drug | Targeted Gene | Clinical Status | Indications 
+--------------------------+---------------+--------------------+------------------+------------------------------
+Backbone Modifications | | | | 
+Phosphorothioate | Vitravene | Cytomegalovirus | Approved | CMV retinitis 
+P-ethoxy | Prexigebersen | Grb2 | Phase 2 | Leukemia 
+Sugar Modifications | | | | 
+Morpholino | Eteplirsen | Dystrophin exon 51 | Approved | Duchenne Myotonic dystrophy 
+Morpholino | AVI-7100 | Influenza virus | Phase 1 | Influenza 
+2’- methoxy-O-ethyl | Mipomersen | Apolipoprotein B | Approved | Familial hypercholesterolemia
+ | Nusinersen | SMN1 | Approved | Spinal muscular atrophy 
+
+
+Lipid System | Natural Components | Potential toxicity 
+-----------------------+----------------------------------+--------------------
+SNALP | Cholesterol, Phosphatidylcholine | Cationic lipid, PEG
+Lipidoid | Cholesterol | PEG 
+LPH | Cholesterol, hyaluronic acid | DOTAP, PEG 
+Neutral lipid particle | DOPC lipid | None 
+
+ 
+*This table represents examples of antisense drugs and lipid delivery systems. It is not meant to be exhaustive.
+    Lipid delivery approaches using cationic lipids, which enhance the uptake of charged antisense DNA molecules into cells as compared to no lipid, still do not efficiently transfer antisense DNA into cells due to serum protein interactions and subsequent cell toxicity. The antisense field has attempted to work around these issues by either avoiding a delivery method completely, or by utilizing polyethylene glycol (PEG) as a carrier of DNA into cells. PEG showed promise in extending the time of circulation of antisense DNA in vivo and avoiding clearance by the liver. However, adverse effects have been demonstrated by PEG carriers, including hypersensitivity, activation of blood clotting, embolism and anaphylaxis. To date, the only known lipid delivery method that has not shown any adverse effects in clinical trials is the neutral lipid method utilized by DNAbilize®.
+ 
+9
+
+
+PREXIGEBERSEN
+ 
+Prexigebersen is targeted at the protein Grb2. Antisense inhibition of Grb2 interrupts the signals between mutated and activated receptors that connect to a well-known cancer associated switch called Ras protein. Inhibition of Grb2 does not cause cell death and thus does not result in adverse events typically observed with receptor inhibitors or Ras pathway inhibitors. We believe that prexigebersen has the potential to be an ideal combination for any number of cancer therapeutics where the Ras pathway is aberrantly activated and patient fitness is a major concern.
+ 
+We have completed our Phase 1 clinical trials for prexigebersen for indications of AML, CML, MDS and Acute Lymphoblastic Leukemia (“ALL”). We are currently prioritizing our efforts on AML, MDS and CML and have begun the Phase 2/Phase 2a clinical trials for these indications.  In addition, preclinical efficacy studies are underway for triple combination prexigebersen, decitabine and Venclexta in AML. Priorities for additional indications, including solid tumors, are expected to be addressed in the future as the results of our clinical and preclinical work progress.
+ 
+Indications for Acute Myeloid Leukemia (AML), Myelodysplastic Syndrome (MDS) and Chronic Myelogenous Leukemia (CML)
+ 
+AML – Background and Common Treatments. AML is the rapid accumulation of immature myeloid cells in the blood, resulting in a drop of the other cell types such as red blood cells and platelets. The expansion of immature monocytes leaves the patient unable to fight infection. If AML is left untreated, it usually results in death within three months. AML incidence increases with age, with more than 50% of the cases in people age 60 or older. AML is the most common acute leukemia in adults, and the National Cancer Institute estimates that approximately 20,000 new cases occur each year (Figure 3). The cure rate is between 5 to 15% in older adults, and those who cannot receive the standard course of chemotherapy have an average survival rate of five to ten months. The frontline low-intensity therapies for elderly AML patients are LDAC, decitabine or azacytidine (the latter two drugs are DNA hypomethylating agents). In November of 2018, the FDA approved Venclexta (a Bcl-2 inhibitor) for the newly diagnosed AML patients aged 75 years and older or adults who cannot be treated with intensive induction chemotherapy. Venclexta is used in combination with LDAC, decitabine or azacytidine. Mutation in the Bcl-2 binding domain, which reduces Venclexta’s ability to bind to Bcl-2, has been linked with Venclexta resistance in CLL patients. Such Venclexta resistance may also occur in AML patients. AML remains an area of high unmet need for both the relapsed and the de novo elderly population who are typically ineligible for induction therapy.
+
+Figure 3. Basic Statistics for AML
+ 
+
+MDS – Background and Common Treatments. MDS is a bone marrow disease, characterized by a reduced number of mature blood cells. MDS is diagnosed in about 15,000 people in the United States (“U.S.”) yearly. MDS patients are stratified into different risk groups. Higher risk MDS patients have a survival of less than two years and, if untreated, can evolve into secondary AML. Secondary AML patients are often older and treated with DNA hypomethylating agents. Higher risk MDS and secondary AML patients who have progressed from DNA hypomethylating agents have very poor prognosis. Novel treatment strategies for these patients are needed.
+ 
+10
+
+
+CML – Background and Common Treatments. CML is characterized by expansion in the blood and bone marrow of mature myeloid cells and their precursors. It can show no symptoms and is often detected during a routine blood test. If left untreated, after several years it will progress to an accelerated phase and eventually blast crisis where it becomes an acute leukemia. With the introduction of drugs such as Gleevec, the life expectancy of patients treated in the chronic phase has been significantly improved, and only 1 to 1.5% of patients ever go into blast crisis. However, for those patients who do progress into blast crisis, there are currently few treatment options. Myeloid cells in blast crisis have accumulated genetic abnormalities that resist traditional treatment methods that kill leukemic cells. Patients in blast crisis have an average survival rate of seven to eleven months. New treatments for this critical population are necessary.
+ 
+Figure 4. Basic Statistics for CML
+ 
+
+Prexigebersen Development and Treatment for AML, MDS and CML. Our lead liposome delivered antisense drug candidate, prexigebersen, has been clinically tested in patients having AML, CML, MDS and ALL in a Phase 1 trial. During the Phase 1 trial, 80% of the evaluable patients had refractory/relapsed AML, having failed at least 6 prior therapies. In our study, 83% of patients showed decreased circulating blasts and anti-leukemic activity and eight patients stabilized for extended treatments.
+ 
+Phase 1 Clinical Trials
+ 
+The Phase 1 clinical trial was a dose-escalating study to determine the safety and tolerance of escalating doses of prexigebersen. The study determined an optimal biologically active dose for further development. The pharmacokinetics of prexigebersen in patients from the study was evaluated. In addition, patient blood samples from the trial were tested using a new assay developed by us to measure down-regulation of the target protein, the critical scientific data that demonstrated the delivery technology does in fact successfully deliver the antisense drug substance to the cell and across the cell membrane into the interior of the cell where expression of the target protein is blocked. The clinical trial was conducted at MD Anderson.
+ 
+The original IND granted by the FDA in March 2010 allowed us to proceed with a Phase 1 clinical trial having five cohorts culminating in a maximum dose of 50 mg/m2. However, in November 2012, we announced that since there had been no evidence of significant toxicity from treatment of patients with prexigebersen, we requested the FDA to allow higher dosing in patients. The principal investigator for the clinical trial, in consultation with our management team, advised us that with the absence of any real toxicity barriers, we should continue to evaluate higher doses of prexigebersen. The absence of significant toxicity provided a significant opportunity for us to test higher doses in patients in order to find a dose that provides maximum potential benefit and duration of anti-leukemia effect. These actions were approved and a revised protocol was submitted allowing higher dosing. We announced in October 2014 that we completed Cohort 6, successfully treating three patients at a dose 90 mg/m2. There has been no evidence of significant toxicity from treatment of patients with prexigebersen in our Phase 1 clinical trial.
+ 
+An important outcome for the Phase 1 clinical trial is the ability to assess for the first time the performance of our delivery technology platform in human patients. We have developed two new assays to be able to provide scientific proof of concept of the delivery technology. The first involves a novel detection method for the drug substance in blood samples that will be used to assess the pharmacokinetics of the drug. The second involves a method to measure down-regulation of the target protein in a patient blood sample that was achieved. The latter measurement will provide critical proof that DNAbilize® neutral liposome delivery technology delivered the drug substance to the cell and was able to transport it across the cell membrane into the interior to block cellular production of the Grb2 protein.
+ 
+11
+
+
+In this regard, in August 2013 we announced that our DNAbilize® liposomal delivery technology achieved a major milestone in the development of antisense therapeutics based on a scientific assay confirming that treating patients with our drug candidate prexigebersen inhibits the Grb2 disease-causing target protein in patients with blood cancers (Figure 7). Inhibition of the disease-causing protein has the effect of down regulating the disease. This will allow for prexigebersen to be used potentially in combination with current frontline treatments. This discovery also points to the potential use of a liposomal antisense treatment as a standalone treatment to transform and manage a disease that has a disease-causing protein as a chronic disorder. This accomplishment is a potentially significant breakthrough for antisense therapeutics, whose development, to date, as a class of therapeutics has been severely limited by a lack of a systemic delivery mechanism that can safely distribute the drug throughout the body and deliver the antisense drug substance across the cell membrane into the interior of the cell. Further, we expect that scientific proof of principle for DNAbilize® may lead to licensing and business development opportunities, supporting our business model.
+ 
+The principal investigator for the Phase 1 clinical trial is a leading expert in the treatment of CML, AML, MDS and ALL. Because the results of the first trial produced unexpected and clinically interesting results in some patients, the principal investigator prepared an abstract of the results of the first cohort that was accepted for presentation at the ASH annual meeting in December 2011. Results that demonstrated potential anti-leukemia benefits in treated patients were included in the presentation. Subsequently, in fall 2013 the principal investigator prepared an abstract of updated information on the results of the clinical trial through Cohort 5, which was accepted for presentation at the ASH annual meeting in December 2013. Highlights (which have been updated to include patients from Cohort 6) of the presentation prepared by the principal investigator for the meeting included:
+ 
+Data from the Phase 1 Clinical Trial
+ 
+
+· | Among 20 evaluable patients, 15 demonstrated anti-leukemia activity with reduction in peripheral or bone marrow blasts from baseline.
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Five patients demonstrated transient improvement and/or stable disease, three of whom received a total of five cycles each.
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+· | Two patients, in addition to achieving market blast percentage declines, also experienced transient improvements in leukemia cutis lesions.
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Disease Stabilization in MDS and AML
+ 
+
+· | Two patients with MDS, a 53-year-old male and a 72-year-old female, both achieved disease stabilization and continued therapy for five cycles before disease progression.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | A 54-year-old HIV positive male with AML achieved stable disease and marked reduction in peripheral blasts, continuing therapy for five cycles before disease progression (Figure 5).
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Figure 5. AML Patient with HIV Demonstrated Reduction of Peripheral Blasts and Sustained Improvement Over 5 Cycles of Treatment
+ 
+
+
+End of C = end of the cycle of treatment
+----------------------------------------
+
+ 
+12
+
+
+Experience in CML-Blast Phase
+ 
+
+· | Patient with myeloid blast crisis of CML.
+--+------------------------------------------
+
+
+· | Prior therapies consisted of: imatinib, dasatinib, nilotinib, DCC-2036, cytarabine + fludarabine + dasatinib + gemtuzumab, PHA-739358, clofarabine + dasatinib.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Upon start of prexigebersen, patient showed a significant reduction in white blood cell (WBC) blasts from 81% to 5%, but due to leptomeningeal disease progression discontinued therapy before full cycle (Figure 6).
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Figure 6. Prexigebersen Monotherapy Reversed Blast Phase Crisis in a Patient in the Phase 1 Clinical Trial for Prexigebersen
+ 
+
+Inhibition of Target Grb2 Protein
+ 
+
+· | Grb2 levels were compared to baseline prior to treatment.
+--+----------------------------------------------------------
+
+
+· | By end of treatment, prexigebersen decreased Grb2 in 10 out of 12 samples (83%) tested (average reduction 50%).
+--+----------------------------------------------------------------------------------------------------------------
+
+
+· | Phosphorylated ERK (pERK, extracellular signal related kinase), a protein downstream of the Ras protein, was decreased in 58% of samples.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+13
+
+
+Figure 7. Grb2 Protein and Downstream pERK are
+ Downregulated in Prexigebersen Treated Patient’s Cells
+ 
+Grb2 levels decreased in 10 out of 12 patient samples by end of treatment (EOT)
+ pErk levels decreased in 7 of 12 patient samples by EOT
+ 
+
+Subject | Prexigebersen (mg/m2) | Cohort | Grb2 Decrease (EOT) | | | pERK Decrease (EOT)
+--------+-----------------------+--------+---------------------+----+---+--------------------
+22 | 20 | 3 | | 57 | % | | 0 | %
+23 | 20 | 3 | | 28 | % | | 45 | %
+24 | 20 | 3 | | 47 | % | | 35 | %
+25 | 40 | 4 | | 54 | % | | 91 | %
+26 | 40 | 4 | | 0 | % | | 0 | %
+27 | 40 | 4 | | 34 | % | | 27 | %
+28 | 60 | 5 | | 30 | % | | 54 | %
+29 | 60 | 5 | | 65 | % | | 0 | %
+30 | 60 | 5 | | 43 | % | | 47 | %
+31 | 90 | 6 | | 0 | % | | 0 | %
+32 | 90 | 6 | | 91 | % | | 63 | %
+34 | 90 | 6 | | 40 | % | | 0 | %
+
+ 
+The Phase 1 clinical trial is typically ended when a maximum tolerated dose (“MTD”) is encountered. However, due to the lack of toxicity of the drug, a MTD was not observed. As a result, an optimal biological dose was determined and we completed Cohort 6 of our Phase 1 clinical trial. It is noted, however, that the lack of toxicity is a major advantage for the drug candidate prexigebersen since it allows higher levels of drug to be administered to the patient, increasing the potential therapeutic benefit.
+ 
+In April 2015, we received orphan drug designation by the FDA for prexigebersen in AML. Orphan drug status provides Bio-Path with seven years of exclusivity after receiving formal marketing approval, as well as additional development incentives. The FDA grants this designation to certain drugs that target diseases affecting fewer than 200,000 people in the U.S. In October 2016, prexigebersen received orphan drug designation for AML in the European Union (“E.U.”) from the European Medicines Agency (“EMA”). To receive orphan drug designation from the EMA, a therapy must be intended for the treatment of a life-threatening or chronically debilitating rare condition with a prevalence of less than five in 10,000 in the E.U. Orphan drug designation provides incentives designed to facilitate development, including fee reductions for protocol assistance, scientific advice and importantly, may provide up to ten years of market exclusivity in the E.U. following product approval.
+ 
+Phase 2 Clinical Trials
+ 
+On February 9, 2015, we announced that we began enrollment into the combination therapy Phase 1b clinical trial for prexigebersen in patients with AML. The combination therapy Phase 1b clinical trial consisted of two dosing cohorts of prexigebersen (60 mg/m2 and 90 mg/m2) to test the safety profile of treating AML patients with prexigebersen in combination with LDAC. Patients ineligible for intensive induction therapy are currently treated only with LDAC.
+ 
+On October 9, 2015, we announced the completion of Cohort 7, the first dosing cohort of the Phase 1b clinical trial, consisting of a 60 mg/m2 dose of prexigebersen in combination with LDAC. On March 3, 2016, we announced the completion of Cohort 8, the second dosing cohort of the Phase 1b clinical trial, consisting of a 90 mg/m2 dose of prexigebersen in combination with LDAC. On June 6, 2016, we announced that data from Cohort 7 and Cohort 8 of the Phase 1b clinical trial combination therapy of prexigebersen and LDAC showed no dose limiting toxicities. Of the six evaluable patients from the Phase 1b clinical trial, four patients completed more than two cycles of treatment, three patients achieved CR and two patients had over 50% decrease in bone marrow blast counts (Figure 8). Pharmacokinetics of prexigebersen demonstrated a half-life at 60 mg/m2 of 30 hours, significantly better than the 90 mg/m2 dose. The final analysis of these data, along with the demonstrated reductions in bone marrow blasts, suggested that 60 mg/m2 is the appropriate dose for use in the Phase 2 trial. Administratively, this required Bio-Path to substantially revise documents for the Phase 2 trial with the 60 mg/m2 dose and resubmit for approvals with the FDA and site Institutional Review Boards, which delayed the commencement of the Phase 2 trial.
+ 
+14
+
+
+Figure 8. Five out of six patients in cohorts 7 and 8 receiving the combination prexigebersen + LDAC have greater than 50% decrease in bone marrow blasts
+ 
+
+A summary of the clinical trial results for the Phase 1 monotherapy for indications of AML, CML, MDS and ALL, and Phase 1b combination therapy for prexigebersen for indications of AML is shown in Table 2 below. The first six cohorts, patients 001 to 034, were treated in the Phase 1 clinical trial using prexigebersen as a monotherapy. The seventh cohort, patients 035, 037 and 038, were treated in our Phase 1b clinical trial evaluating the combination therapy of 60 mg/m2 prexigebersen. The eighth cohort, patients 039, 040 and 041, were treated with combination therapy of 90 mg/m2.
+ 
+15
+
+
+Table 2. Summary Cohorts 1-8 Prexigebersen Clinical Trial Phase 1 and 1B
+ 
+
+ | | Peripheral or bone marrow blast % | | 
+---------+-----------+-----------------------------------+-------+--------
+Patients | Diagnosis | Baseline | Nadir | Off- Tx | Reason Discontinued | Cycles Completed
+1 | CML | 51 | No | 97 | DLT | <1 
+6 | AML | 15 | 2 | 5 | PD | 5 
+7 | MDS | 8 | 4 | 6 | PD | 5 
+10 | AML | 23 | 10 | 10 | PD | 1 
+11 | CML | 7 | No | 50 | PD | 1 
+14 | AML | 48 | 5 | 21 | PD | 1 
+15 | AML | 54 | 31 | 72 | PD | 1 
+20 | AML | 76 | 5 | 63 | PD | 1 
+21 | AML | 71 | 43 | 74 | PD | 2 
+22 | AML | 1 | 0 | 1 | PD | 2 
+23 | MDS | NE | NE | NE | PD | 1 
+24 | MDS | 0 | 0 | 0 | PD | 5 
+25 | AML | 10 | 3 | 19 | PD | 2 
+26 | AML | 11 | No | 80 | PD | 1 
+27 | AML | 93 | No | 97 | PD | 1 
+28 | AML | 96 | 93 | 98 | PD | 1 
+29 | AML | 35 | 7 | 24 | PD | 1 
+30 | AML | 51 | 17 | 82 | PD | 1 
+31 | AML | 17 | No | 17 | PD | 1 
+32 | AML | 24 | 22 | 22 | PD | 2 
+34 | AML | 66 | ND | ND | PD | 1 
+35 | AML | 17 | 2 | 2 | CRi | 1 
+37 | AML | 25 | 33 | ND | PD | 1 
+38 | AML | 23 | 2 | 3 | CR | 5 
+39 | AML | 36 | 16 | 58 | SD | 3 
+40 | AML | 31 | 2 | 2 | CR | 3 
+41 | AML | 18 | 9 | 14 | SD | 3 
+
+ 
+Nadir: the lowest point, Off-TX: off treatment, No: no reduction in blasts, DLT: dose limiting toxicity, PD: progressive disease, NE: not enough sample to evaluate, ND: not done, CR: complete remission with incomplete hematologic recovery, CR: complete remission, SD: stable disease
+ 
+With the completion of Cohort 8, the Phase 1b trial has been completed. Results from the Phase 1b clinical trial demonstrated it is safe to add prexigebersen, which appears to yield better response rates in this AML patient population. On November 2, 2016, we announced that the first patient in the efficacy portion of the Phase 2 trial was dosed. The full trial design includes approximately 54 evaluable patients with an interim analysis to be performed after 19 patients are treated with the combination. The multi-site trial is being conducted at leading cancer centers, among them are Weill Medical College of Cornell University, Baylor Scott & White Health, The University of Kansas, New Jersey Hematology Oncology Associates, West Virginia University/Mary Babb Randolph Cancer Center, and MD Anderson. On August 27, 2018, we announced that we added a cohort of patients to be treated with a combination of prexigebersen and decitabine, another AML frontline therapy
+ 
+16
+
+
+To date, 33 patients have been pre-screened for the efficacy portion of the Phase 2 trial, 30 patients have been enrolled and 17 patients have been deemed evaluable. We released the initial interim data analysis of 17 patients in April 2018 and updated data in March 2019. On March 6, 2019, we announced that the updated data showed that 11 (65%) of the 17 evaluable patients had a response, including five (29%) who achieved CR, including one CRi and one morphologic leukemia free state, and six (35%) stable disease responses, including two patients who had greater than a 50% reduction in bone marrow blasts. The efficacy data from the 17 evaluable patients was very favorable compared to the reported CR, CRp and CRi rates of 7 to 13% with LDAC treatment alone. Importantly, through investigation by the principal investigators, it was observed that 68% of patients were secondary AML patients, a difficult class to treat.
+ 
+Results to date have shown prexigebersen, with its efficacy and excellent safety profile, to be an effective combination candidate with frontline therapy. We believe the recent approval of the frontline therapy Venclexta provides an opportunity for combining prexigebersen with the Venclexta and decitabine combination for the treatment of de novo AML patients. On March 6, 2019, we announced a revised clinical program intended for prexigebersen in AML, which is generally summarized below:
+ 
+
+· | Expand the existing prexigebersen and decitabine combination Phase 2 AML cohort to include untreated high risk MDS patients.
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+· | Add a new cohort of prexigebersen and decitabine combination in refractory/relapsed patients (AML and high risk MDS).
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+· | Close the prexigebersen and LDAC combination Phase 2 AML cohort.
+--+-----------------------------------------------------------------
+
+
+· | Determine the safety of the triple combination prexigebersen, decitabine and Venclexta in refractory/relapsed AML and high risk MDS patients.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | If we observe a successful safety assessment, we intend to initiate two AML registration-directed cohorts of the triple combination prexigebersen, decitabine and Venclexta in separate patient populations, including untreated patients (AML plus high risk MDS), and refractory/relapsed patients (AML plus high risk MDS).
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In addition to the Phase 2 trial for AML, on December 29, 2017, we announced the initiation of our Phase 1b/2a clinical trial, which is the safety portion of the Phase 2 clinical trial, of prexigebersen for the treatment of CML in accelerated and blast phase patients. The trial is being conducted at MD Anderson as a potential salvage therapy for accelerated and blast phase CML patients. Two cohorts of three evaluable patients each will be enrolled to evaluate two doses (60 mg/m2 and 90 mg/m2) of prexigebersen in combination with the front-line treatment dasatinib.
+ 
+Development of new therapeutics for AML, high risk MDS and CML in blast crisis can meet currently unmet needs for patients who have very few treatment options due to age, fitness or treatment-resistance of advanced genetically unstable cells. Elderly patients unfit to receive a stem cell transplant or induction therapy face a likelihood of relapse to a more resistant leukemia. Prexigebersen and DNAbilize® technology offer new hope for achieving remission for fragile populations. We believe that the combination of prexigebersen with frontline chemotherapy can provide a way to treat cancer without added toxicity so that the patient can remain under treatment long enough to reach complete remission.
+ 
+ Indications for Solid Tumors (e.g., Ovary, Breast, Colon, Thyroid, and Head and Neck Cancers)
+ 
+Cancers of ovary, breast, colon, thyroid, and head and neck are solid tumors which utilize the same Grb2 signaling pathways as leukemias. It has been proposed that prexigebersen may have clinical efficacy in these indications due to the overlapping similarity of the cancer mechanisms.
+ 
+Ovarian cancer is one of the most common type of gynecologic malignancies, with 50% of all cases occurring in women older than 65 years. It is the fifth most frequent cause of cancer death in women. In the U.S., 22,240 new cases and 14,070 deaths from ovarian cancer are expected in 2019. Around 70% of patients diagnosed with ovarian cancer will have a recurrence. Recurrent ovarian cancer is treatable but rarely curable. The average duration of survival after recurrence of ovarian cancer is less than 2 years. The 5-year survival rate for patients with recurrent ovarian cancer following standard salvage chemotherapy treatment is less than 10%. Given the poor outcomes of treatment for ovarian cancer, novel drug treatments are urgently needed.
+ 
+Prexigebersen Development and Treatment for ovarian cancer. There have been reports demonstrating that Grb2 is overexpressed in ovarian tumors, and that Grb2 is essential to transducing various oncogenic signals in ovarian tumors. Thus, Grb2 may be a novel potential therapeutic target for ovarian cancer, and prexigebersen may provide clinical benefit against ovarian cancer. Preclinical experiments were conducted in collaboration with leaders in the field of ovarian cancer at MD Anderson. An abstract of the preclinical study was presented in the 2018 American Association for Cancer Research (AACR) Annual Meeting. Prexigebersen effectively penetrated ovarian tumors and decreased target Grb2 protein level in preclinical ovarian tumor models. Prexigebersen was demonstrated to reduce ovarian tumor burden both as a monotherapy and in combination with paclitaxel, a standard of care therapy for patients with advanced ovarian cancer. Bio-Path plans to file an IND for a Phase 1 clinical trial of prexigebersen and paclitaxel in patients diagnosed with recurrent ovarian or endometrial cancer in 2019. We believe that the observations that we learned from the prexigebersen clinical studies in leukemia will help us increase the speed of progress for prexigebersen in solid tumor clinical studies.
+ 
+17
+
+
+Indications for Triple Negative Breast Cancer (TNBC) and Inflammatory Breast Cancer (IBC)
+ 
+TNBC and IBC – Background and Common Treatments. Approximately 15 to 20% of breast cancers fall into the category of triple-negative. TNBC tumors do not express estrogen receptors, progesterone receptors, and low human epidermal growth factor receptor 2 (HER2). These negative indicators mean that the growth of the cancer is not supported by the hormones estrogen and progesterone, or by the presence of HER2 receptors. Therefore, TNBC does not respond to hormonal therapy or therapies that target HER2 receptors. In addition, TNBC tumors are very aggressive. IBC often presents as TNBC and is a rare and very aggressive disease in which cancer cells block lymph vessels in the skin of the breast. This type of breast cancer is called “inflammatory” because the breast often looks swollen and red, or “inflamed.” IBC accounts for 2 to 5% of all breast cancers. IBC tumors are very aggressive and are frequently hormone receptor negative, which means hormone therapies may not be effective. The five-year survival rate for IBC is approximately 40% versus approximately 87% for all breast cancers combined, making IBC a priority area for development of new treatments. The current treatment regimen includes radiation, chemotherapy and surgery. A lack of targeted treatments for these types of breast cancer has led to development of new therapeutics currently in clinical trials. Because of the aggressiveness of these cancers, a systemic treatment is needed. Prexigebersen represents a systemic treatment that targets an important pathway for TNBC and IBC cell growth and has potential to be integral for the treatment of these diseases.
+ 
+Prexigebersen Development and Treatment for TNBC and IBC. In July 2013, we announced that we were initiating preclinical testing of prexigebersen for TNBC and IBC. Our plan is to develop prexigebersen as a targeted therapy against TNBC and IBC. Our treatment goals are two-pronged: the first is to develop prexigebersen as a tumor reduction agent in combination with other approved drugs in preoperative settings for TNBC and IBC patients, and the second is to develop prexigebersen as a drug to treat and control or eliminate cancer metastasis in TNBC and IBC patients. Both of these treatment goals address high need situations for patients.
+ 
+BP1002
+ 
+BP1002, also known by its scientific name as Liposomal Bcl-2, is our second liposome delivered antisense drug candidate. BP1002 is intended to target the lymphoma, CLL and certain solid tumor markets. Clinical targets for BP1002 include lymphoma, breast cancer, colon cancer, prostate cancer and leukemia. We believe that BP1002 has the potential to treat 40 to 60% of solid tumors.
+ 
+Bcl-2 is a protein that is involved in regulating apoptosis, or programmed cell death. Apoptosis is a physiologic mechanism of cell turnover by which cells actively commit suicide in response to aberrant external signals. Over-expression of Bcl-2 prevents the induction of apoptosis in response to cellular insults such as treatment with chemotherapeutic agents. Bcl-2 is over-expressed in more than 90% of FL due to a chromosomal rearrangement and is the key factor in the initiation of this malignancy. Bcl-2 is also overexpressed in a wide variety of solid tumors. For example, Bcl-2 over-expression has been associated with the progression of prostate cancer from hormone dependence to hormone independence and may contribute to the relative drug resistant phenotype typically observed in hormone independent prostate cancer.
+ 
+Non-Hodgkin’s Lymphomas –Background and Common Treatments. In the U.S., approximately 74,200 new cases and 19,970 deaths from non-Hodgkin’s lymphoma (“NHL”) are expected in 2019. Approximately 40% of NHLs are indolent lymphomas such as FL and approximately 60% are the more aggressive lymphomas such as DLBCL. A consensus on front-line treatment for FL has not been established as many factors are taken into account in the treatment approach (e.g., age, stage of disease, cell surface markers). Rituximab is a treatment of choice for the majority of lymphomas and is typically used in combination with other chemotherapy agents or as a maintenance treatment.
+ 
+BP1002 – Development and Treatment for FL, and other sub-types of lymphoma. On December 22, 2014, we announced that we initiated development of BP1002 as a treatment for FL and DLBCL. We are currently preparing an IND application for BP1002 in addition to completing additional IND enabling studies. We intend to initiate a Phase 1 clinical trial of BP1002 in refractory/relapsed lymphoma patients once we receive approval from the FDA. The clinical trial will evaluate the safety of BP1002 in several dose escalating cohorts to determine a maximum tolerated dose and/or a recommended Phase 2 dose. We anticipate that the Phase 1 trial will be open to refractory/relapsed patients with FL and other sub-types of NHL (including DLBCL, MCL, CLL, SLL, PTCL, CTCL, marginal zone lymphoma), Hodgkin lymphoma, and Waldenströms macroglobulinemia (Figure 9).
+ 
+18
+
+
+Figure 9. Non-Hodgkin’s Lymphoma Types and Prevalence
+ 
+
+BL = Burkitt’s lymphoma; CLL = chronic lymphocytic leukemia; DLBCL = diffuse large B-cell lymphoma; FL = follicular lymphoma; MALT = mucosa-associated lymphoid tissue; MCL = mantle cell lymphoma; NK = natural killer; SLL = small lymphocytic lymphoma.
+Source: http://www.medscape.org/viewarticle/725127
+ 
+Treatments of varying efficacy exist for FL and DLBCL; however, due to the wide variety of subtypes of this disease, a frontline approach is lacking. Bcl-2 is over-expressed in 85% of FL patients due to a translocation between chromosomes 18 and 14, a hallmark of the disease. Therapies that directly and specifically block or inhibit protein synthesis of Bcl-2 could be transformative in this indication. Previous attempts at a Bcl-2 antisense by Genta Inc. and ProNAi failed to show an improvement in remission or overall survival rates. The Genta antisense was a phosphorothioate DNA with dose-limiting toxicity and it also did not have a lipid delivery mechanism to aid in prevention of clearance by the liver, reducing the levels of antisense reaching diseased cells. The ProNAi antisense was administered with an anionic, pH-tunable liposome. The drug was tolerable but its low response rate in DLBCL patients in a Phase 2 study prompted the company to discontinue further clinical development. We believe that BP1002 overcomes the failures of previous antisense attempts at inhibiting Bcl-2. With BP1002, more drug substance can reach the lymphoma cells so that the cancer cells can be treated with a safe and therapeutically relevant dose. The small molecule Bcl-2 inhibitor Venclexta was approved by the FDA in June 2018 for the treatment of patients with CLL and SLL who have received at least one prior therapy. However, treatment with Venclexta can lead to the development of drug resistance, resulting in disease recurrence. One of the proposed mechanisms of Venclexta resistance is an acquired mutation in Bcl-2, which reduces Venclexta’s ability to bind and inhibit Bcl-2. Because BP1002 activity is based on blocking the Bcl-2 messenger RNA and BP1002 targets Bcl-2 at a site different from Venclexta, we expect BP1002 to overcome such Venclexta resistance mechanism and be an effective approach for patients who have relapsed from Venclexta. We believe BP1002 provides a new tool for cancer treatment for not just lymphomas, but also many cancers for which Bcl-2 expression is driving cell survival. The introduction of a new, non-toxic, and specific Bcl-2 inhibitor could be a major advance in cancer therapeutics.
+ 
+19
+
+
+BP1003
+ 
+BP1003 is our third liposome delivered antisense drug candidate. BP1003 is a DNAbilize® RNAi nanoparticle containing antisense DNA targeting Stat3, whose constitutive activity is associated with a poorer survival outcome for cancer patients, including those of pancreatic adenocarcinoma (PDAC). We hypothesized that the natural lipid delivery vesicle would have unique characteristics that would allow for penetration of the fibrotic stroma to reach the PDAC cells. Our preclinical work demonstrated that BP1003 was successful in crossing the scar tissue matrix and delivering antisense drug into the tumor tissue. Subsequent studies evaluating the combination of BP1003 with gemcitabine, a frontline therapy for advanced PDAC patients, suggest that the regimen has synergistic anti-tumor effects. We intend to initiate IND enabling studies of BP1003 in 2019.
+ 
+Stat3 expression has been associated with increased severity of disease and poor survival in numerous cancers including approximately 82 to 100% of pancreatic tumors, 80% of non-small cell lung cancers (NSCLC), 82% of prostate tumors, 77% of cervical cancers, 50% of breast cancers, 57% of colon cancers and 97% of Stage 3 and 4 ovarian cancers. We believe that a therapeutic that shuts down the Stat3 protein can have significant clinical impact for all solid tumors that express Stat3.
+ 
+Our lead indication for BP1003 is pancreatic cancer due to the severity of this disease and the lack of effective, life-extending treatments. PDAC is a cancer of the exocrine cells of the pancreas. In the U.S. in 2019, approximately 57,000 people will be diagnosed with PDAC, and approximately 46,000 (80%) will die from the disease. Less than 9% of PDAC patients would survive beyond 5 years. It is projected that in the next 10 to 15 years, PDAC will become the second most lethal cancer behind lung cancer. This is due to rapid advancements that have been made in the treatment of other cancers, as well as the rise of type 2 diabetes, a risk factor for development of PDAC.
+ 
+Because most people have advanced PDAC at the time of diagnosis, survival rates are very low. Typical survival for a metastatic or advanced patient is only 6 to 9 months from diagnosis. Treatment of this disease is hampered by the location of the pancreas, which is difficult to reach with conventional therapies and the fibrotic nature of the tumors, which protects them from penetration by chemotherapeutics. We believe a novel and unconventional therapeutic is needed to overcome these barriers to treatment.
+ 
+While competition for therapeutics that target the Stat3 pathway exist, the competition for specific Stat3 inhibitors is very small. Most compounds under development target the pathway upstream of Stat3 or inhibit Stat1 and Stat5 in addition to Stat3 and thus induce serious toxic side effects. For example, Ionis Pharmaceuticals, Inc. has developed an antisense DNA-based Stat3 inhibitor called IONIS-STAT3-2.5Rx. It is being evaluated in clinical trials by AstraZeneca under the name AZD9150 for solid tumors, squamous carcinoma of the head and neck and DLBCL. However, due to the toxicity of the DNA chemistry, thrombocytopenia continues to limit the systemic delivery and efficacy of such compounds for the treatment of cancer. We believe BP1003 avoids these complications.
+ 
+The competitive landscape for clinical trials treating advanced and metastatic pancreatic cancer patients in the U.S. is slim (Figure 10). Most candidates are fraught with serious side effects that can make completion of therapy a challenge for this fragile patient population. We believe that the excellent safety profile of the DNAbilize® chemistry, the novel lipid formula that allows for penetration of the tumor stroma, and the ability to target a single protein with precision, makes BP1003 an ideal candidate for combination with the frontline treatments to extend survival while maintaining quality of life for the patient.
+ 
+Figure 10. U.S. Clinical Trials for Advance Metastatic PDAC Patients in Combination with Frontline Treatments
+ 
+
+20
+
+
+DNAbilize®
+ 
+DNAbilize® technology is available for out-licensing. We intend to apply our drug delivery technology template to new disease-causing protein targets as a means to develop new liposomal antisense drug candidates. A new product identification template was recently approved that defines a process of scientific, preclinical, commercial and intellectual property evaluation of potential new drug candidates for inclusion into our drug product development pipeline. A significant amount of capital is expected to be allocated to in-license promising protein targets that can be developed as new liposomal antisense drug candidates. As we expand, we will look at indications where a systemic delivery is needed and antisense can be used to slow, reverse or cure a disease, either alone or in combination with another drug. On July 19, 2017, we announced that the USPTO issued a notice of allowance for claims related to DNAbilize®, including its use in the treatment of cancers, autoimmune diseases and infectious diseases.
+ 
+We are interested in pursuing a wide-ranging, proactive licensing program to include co-development of specific liposomal antisense drug candidates, sub-licensing our delivery template for outside development of liposomal antisense drug candidates or out-licensing a partially-developed drug candidate for final development and marketing.
+ 
+Research and Development
+ 
+Our research and development expense primarily consists of third-party clinical and preclinical development activities, salaries and benefits expense and stock-based compensation. As we advance and expand our pipeline of drug candidates, we anticipate our research and development expenses will continue to increase in conjunction with these activities. Research and development expenses incurred for the years ended December 31, 2018 and 2017, were $4.6 million and $5.5 million, respectively.
+Manufacturing
+ 
+We do not own or operate, and currently have no plans to establish, any manufacturing facilities. Accordingly, we have no ability to internally manufacture the drug candidates that we need to conduct our clinical trials. For the foreseeable future, we expect to continue to rely on third-party manufacturers and other third parties to produce, package and store sufficient quantities of our drug candidates and any future drug candidates for use in our clinical trials. We have entered into agreements with third-party manufacturers for the manufacture of our drug requirements, including agreements for the manufacture of prexigebersen for use in our Phase 2 clinical trials in AML and CML, a development agreement for BP1002 and an agreement for the manufacture of BP1002 for use in our planned Phase 1 clinical trial. However, we may face various risks and uncertainties in connection with our reliance on third-party manufacturers, as discussed in “Item 1A. Risk Factors” of this Annual Report on Form 10-K under the heading “Risks Related to Manufacturing Our Drug Candidates.” If the FDA or other regulatory agencies approve any of our drug candidates for commercial sale, we expect that we would continue to rely, at least initially, on third-party manufacturers to produce commercial quantities of such approved drug candidates. However, we may in the future elect to manufacture certain of our drug candidates in our own manufacturing facilities. If we do so, we will require substantial additional funds and need to recruit qualified personnel in order to build or lease and operate any manufacturing facilities.
+Sales and Marketing
+ 
+We currently do not have any commercial drug products or an organization for the sales and marketing of pharmaceutical products. In order to successfully commercialize any drug candidates that may be approved in the future by the FDA or comparable foreign regulatory authorities, we must build our sales and marketing capabilities or make arrangements with third parties to perform these services. For certain drug candidates in selected indications where we believe that an approved product could be commercialized by a specialty sales force that calls on a limited but focused group of physicians, we may commercialize these products ourselves. However, in therapeutic indications that require a large sales force selling to a large and diverse prescribing population, we may enter into arrangements with other companies for commercialization. If we are unable to establish adequate sales, marketing and distribution capabilities, whether independently or with third parties, we may not be able to generate product revenue and may not become profitable.
+Intellectual Property
+ 
+Patents, trademarks, trade secrets, technology, know-how and other proprietary rights are important to our business. Our success depends in large part on our ability to obtain and maintain patent protection both in the U.S. and in other countries for our drug candidates and on our ability to operate without infringing the proprietary rights of third parties. Our ability to protect our drug candidates from unauthorized or infringing use by third parties depends in substantial part on our ability to obtain and maintain valid and enforceable patents.
+ 
+21
+
+
+We rely on trade secrets to protect our technology, especially where we do not believe patent protection is appropriate or obtainable. However, trade secrets are difficult to protect. In order to protect our proprietary technology and processes, we also rely in part on confidentiality and intellectual property assignment agreements with our corporate partners, employees, consultants, outside scientific collaborators, sponsored researchers and other advisors. These agreements may not effectively prevent disclosure of confidential information nor result in the effective assignment to us of intellectual property, and may not provide an adequate remedy in the event of unauthorized disclosure of confidential information or other breaches of the agreements. In addition, others may independently discover our trade secrets and proprietary information, and in such case we could not assert any trade secret rights against such party. To the extent that we enter into out-license and in-license agreements in the future, our success will depend in part on the ability of our licensors to obtain, maintain and enforce patent protection for their intellectual property, in particular, any patents to which we secure exclusive rights.
+ 
+We have expanded our intellectual property portfolio by filing patent applications that are applicable to our technology and business strategy. Our patent portfolio currently includes an issued patent (No. 9,744,187) in the U.S. that covers the manufacturing method, formulation and antisense composition for new targets in preclinical development, a patent pending for combinations of antisense drugs with frontline therapeutics, and four additional pending patents for composition and methods of use of specific drug targets. We announced on July 19, 2017 that the USPTO issued a notice of allowance for claims related to DNAbilize®, including its use in the treatment of cancers, autoimmune diseases and infectious diseases. There can be no assurances that patents related to our existing patent applications or applications we may file in the future will be issued or that any issued patents will provide meaningful protection for our drug candidates, which could materially and adversely affect our competitive business position, business prospects and financial condition.
+ 
+In the U.S., individual patents extend for varying periods of time depending on the date of filing of the patent application or the date of patent issuance. Generally, patents issued in the U.S. are effective for 20 years from the earliest non-provisional filing date. In addition, a patent term can sometimes be extended to recapture a portion of the term effectively lost during the FDA’s regulatory review period; however, the restoration period cannot be longer than five years, and the total patent term cannot exceed 14 years following FDA approval.
+ 
+Employees
+ 
+We currently employ 8 full-time employees. We also have contractual relationships with additional professionals who perform certain medical officer, regulatory and drug development duties. We believe relations with such professionals and employees are good.
+Competition
+ 
+We are engaged in segments of the pharmaceutical and biotechnology industry that are highly competitive and characterized by rapid and significant technological change. Many large pharmaceutical and biotechnology companies, academic and research institutions, governmental agencies and other public and private research organizations are pursuing the development of novel drugs that target AML, MDS, CML, lymphoma, ovarian and breast cancer, solid tumors, and other cancers generally. We face, and expect to continue to face, intense and increasing competition as new products enter the market and advanced technologies become available. Our competitors may discover, develop or commercialize products or other novel technologies that are more effective, safer or less costly than our drug candidates. Our competitors may also obtain FDA or other regulatory approval for their products more rapidly than we may obtain approval for our drug candidates.
+ 
+Many of our competitors have:
+ 
+
+· | significantly greater capital, technical and human resources than we have and may be better equipped to discover, develop, manufacture and commercialize drug candidates;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | more experience in drug discovery, development and commercialization, obtaining regulatory approvals and manufacturing and marketing pharmaceutical products;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | drug candidates that have been approved or are in late-stage clinical development; and/or
+--+------------------------------------------------------------------------------------------
+
+
+· | collaboration arrangements in our target markets with leading companies and research institutions.
+--+---------------------------------------------------------------------------------------------------
+
+ 
+Mergers and acquisitions in the pharmaceutical and biotechnology industry may result in even more resources being concentrated among a smaller number of our competitors. Smaller or early stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel, establishing clinical trial sites and patent registration for clinical trials, and acquiring technologies complementary to, or necessary for, our drug candidates and programs.
+ 
+22
+
+
+Competitive products and technological developments may render our drug candidates noncompetitive or obsolete before we can recover the expenses of developing and commercializing our drug candidates. Furthermore, the development of new treatment methods and/or the widespread adoption or increased utilization of any vaccine for the diseases we are targeting could render our drug candidates noncompetitive, obsolete or uneconomical. If we successfully develop and obtain approval for any of our drug candidates, we will face competition based on the safety and effectiveness of our drug candidates, the timing of their entry into the market in relation to competitive products in development, the availability and cost of supply, marketing and sales capabilities, reimbursement coverage, price, patent position and other factors. If we successfully develop drug candidates but those drug candidates do not achieve and maintain market acceptance, our business will not be successful.
+ 
+Government Regulation
+ 
+Overview
+ 
+Government authorities in the U.S., at the federal, state and local level, and other countries extensively regulate, among other things, the research, development, testing, manufacture, labeling, record keeping, packaging, promotion, storage, advertising, distribution, marketing and export and import of products such as those we are developing. The nature and extent to which such regulations will apply to us will vary depending on the nature of any drug candidates we develop. We anticipate that all of our drug candidates will require regulatory approval by governmental agencies prior to commercialization. This process and subsequent compliance with appropriate federal, state, local, and foreign statutes and regulations will require the expenditure of substantial time and financial resources.
+U.S. Drug Development Process
+ 
+In the U.S., drugs are subject to rigorous regulation by the FDA under the Federal Food, Drug and Cosmetic Act (the “FDCA”), and implementing regulations, as well as other federal and state statutes. Failure by us or our collaborators to comply with the applicable U.S. requirements at any time during the drug candidate development process, approval process or after approval, may subject us to administrative or judicial sanctions. These sanctions could include the FDA’s refusal to approve pending applications, license suspension or revocation, withdrawal of an approval, a clinical hold, warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, civil penalties or criminal prosecution. Any agency or judicial enforcement action could have a material adverse effect on us.
+ 
+The process required by the FDA before a new drug may be marketed in the U.S. generally involves the following:
+ 
+
+· | completion of preclinical laboratory tests, animal studies and formulation studies according to FDA’s Good Laboratory Practice regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission of an IND, which must become effective before human clinical trials may begin and which must include approval by an institutional review board at each clinical site before the trials are initiated;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | performance of adequate and well-controlled human clinical trials according to FDA’s Good Clinical Practice (“GCP”) regulations to establish the safety and efficacy of the proposed drug for its intended use;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission to, and acceptance by, the FDA of a new drug application (an “NDA”);
+--+--------------------------------------------------------------------------------
+
+
+· | completion of an FDA inspection of the manufacturing facility or facilities at which the drug is produced to assess compliance with current Good Manufacturing Practice (“cGMP”) regulations to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | FDA review and approval of the NDA.
+--+------------------------------------
+
+ 
+23
+
+
+Pre-Approval Studies
+ 
+Once a drug candidate is identified for development, it enters the preclinical testing stage. Preclinical tests include laboratory evaluations of drug candidate chemistry, toxicity and formulation, as well as animal studies. Prior to beginning human clinical trials, an IND sponsor must submit an IND to the FDA, which includes submitting the results of the preclinical tests, together with manufacturing information and analytical data. Some preclinical or nonclinical testing may continue even after the IND is submitted. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA, within the 30-day time period, raises concerns or questions about the conduct of the trial. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. Even after the 30-day time period, the FDA may impose a clinical hold on ongoing clinical trials. If the FDA imposes a clinical hold, clinical trials cannot commence or recommence without FDA authorization and then only under terms authorized by the FDA. The IND application process may be extremely costly and substantially delay the development of our drug candidates for certain indications. Moreover, positive results of preclinical tests will not necessarily indicate positive results in subsequent clinical trials in humans. The FDA may require additional animal testing after an initial IND application is approved and prior to Phase 3 trials.
+ 
+Clinical trials involve the administration of the IND to volunteers or patients under the supervision of one or more qualified investigators in accordance with FDA’s GCP regulations. Clinical trials must be conducted under protocols detailing the objectives of the trial and the safety and effectiveness criteria to be evaluated. Each protocol must be submitted to the FDA as part of the IND. Further, an institutional review board at each institution participating in the clinical trial must review and approve each protocol before any clinical trial commences at that institution. All research subjects must provide informed consent, and informed consent information must be submitted to the institutional review board for approval prior to initiation of the trial. Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently if adverse events or other certain types of other changes occur.
+ 
+Human clinical trials are typically conducted in three sequential phases that may overlap or be combined:
+ 
+
+· | Phase 1: The drug candidate is initially introduced into human subjects or patients with the disease and tested for safety, dosage tolerance, absorption, metabolism, distribution and excretion. In the case of some drug candidates for severe or life-threatening diseases, the initial human testing is often conducted in patients.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 2: Involves studies in a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the drug candidate for specific targeted diseases and to determine dosage tolerance and optimal dosage.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 3: Clinical trials are undertaken to further evaluate dosage, clinical efficacy and safety in an expanded patient population, typically at geographically dispersed clinical study sites. These studies are intended to establish the overall risk-benefit ratio of the drug candidate and provide, if appropriate, an adequate basis for product labeling.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Phase 1, Phase 2 and Phase 3 testing may not be completed successfully within any specified period, if at all. The FDA or an institutional review board or the sponsor may suspend a clinical trial at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk.
+ 
+Concurrent with clinical trials, companies usually complete additional animal studies and must also develop additional information about the chemistry and physical characteristics of the drug candidate and finalize a process for manufacturing the product in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the drug candidate and, among other requirements, the manufacturer must develop methods for testing the identity, strength, quality and purity of the final drug. Additionally, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the drug candidate does not undergo unacceptable deterioration over its shelf life.
+ 
+Our business model relies on developing drug candidates through Phase 2a and either entering into out-license agreements with pharmaceutical licensee partners who will be responsible for post-Phase 2 clinical testing and working with the FDA on necessary regulatory submissions resulting in approval of new drug applications for commercialization, or internally developing a drug candidate through commercialization.
+ 
+Approval Process
+ 
+After successful completion of the required clinical trials, an NDA is generally submitted, which is required before marketing of the product may begin in the U.S. The NDA must include the results of drug development, preclinical studies and clinical studies, together with other detailed information, including information on the chemistry, manufacture and composition of the drug. The FDA has 60 days from its receipt of the NDA to review the application to ensure that it is sufficiently complete for substantive review before accepting it for filing and may request additional information rather than accept an NDA for filing. If additional information is requested, the NDA must be resubmitted. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The submission of an NDA is also subject to the payment of user fees, which may be waived under certain limited circumstances.
+ 
+24
+
+
+The FDA reviews an NDA that has been accepted for filing to determine, among other things, whether a product is safe and effective for its intended use. The approval process for an NDA is lengthy and the FDA may refuse to approve an NDA if the applicable regulatory criteria are not satisfied or may require additional clinical or other data and information. Even if such data and information is submitted, the FDA may ultimately decide that the NDA does not satisfy the criteria for approval. The FDA may also refer applications for drug candidates which present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendation of an advisory committee. Before approving an NDA, the FDA will also inspect the facility or facilities where the product is manufactured to determine whether its manufacturing is cGMP-compliant to assure and preserve the product’s identity, strength, quality, purity and stability.
+ 
+There are various programs that are intended to expedite the development and review of drug candidates, and/or provide for approval on the basis of surrogate endpoints, including Fast Track, breakthrough therapy, priority review and accelerated approval. Even if a drug candidate qualifies for one or more of these programs, the FDA may later decide that the drug candidate no longer meets the conditions for qualification or that the time period for FDA review or approval will not be shortened. Generally, drug candidates that may be eligible for these programs are those for serious or life-threatening conditions, those with the potential to address unmet medical needs or those that offer meaningful benefits over existing treatments.
+ 
+Fast Track is a process designed to facilitate the development, and expedite the review of drug candidates to treat serious diseases and fill an unmet medical need. Breakthrough therapy requires preliminary clinical evidence that demonstrates the drug candidate may have substantial improvement on at least one clinically significant endpoint over available therapy. A breakthrough therapy designation conveys all of the Fast Track program features, as well as more intensive FDA guidance on an efficient drug development program. Priority review is designed to give drug candidates that offer major advances in treatment or provide a treatment where no adequate therapy exists an initial review within six months as compared to a standard review time of 10 months. Although Fast Track, breakthrough therapy and priority review do not affect the standards for approval, the FDA will attempt to facilitate early and frequent meetings with a sponsor of a Fast Track designated drug candidate and expedite review of the application for a drug candidate designated for priority review. Accelerated approval provides an earlier approval of drugs to treat serious diseases and that fill an unmet medical need based on a surrogate endpoint, which is a laboratory measurement or physical sign used as an indirect or substitute measurement representing a clinically meaningful outcome. As a condition of approval, the FDA may require that a sponsor of a product receiving accelerated approval perform post-marketing clinical trials.
+ 
+If the FDA evaluations of the application and the manufacturing facilities are favorable, the FDA may issue an approval letter or an “approvable” letter. An approvable letter will usually contain a number of conditions that must be met in order to secure final approval of the NDA and authorization of commercial marketing of the drug for certain indications. An approval letter authorizes commercial marketing of the drug with specific prescribing information for a specific indication. As a condition of NDA approval, the FDA may require post-approval testing, including Phase 4 trials, and surveillance to monitor the drug’s safety or efficacy and may impose other conditions, including labeling or distribution restrictions which can materially impact the potential market and profitability of the drug. Once granted, product approvals may be withdrawn if compliance with regulatory standards is not maintained or problems occur after the product reaches the market. The FDA may also refuse to approve the NDA or issue a “not approvable” letter outlining the deficiencies in the submission and often requiring additional testing or information.
+ 
+To date, we have not submitted a marketing application for any drug candidate to the FDA or any foreign regulatory agency, and none of our drug candidates have been approved for commercialization in any country. We have limited experience in conducting and managing the clinical trials necessary to obtain regulatory approvals, including approval by the FDA. The time required to complete clinical trials and for the FDA’s review processes is uncertain and typically takes many years. Our analysis of data obtained from preclinical and clinical activities is subject to confirmation and interpretation by regulatory authorities, which could delay, limit or prevent regulatory approval. We may also encounter unanticipated delays or increased costs due to government regulation from future legislation or administrative action or changes in FDA policy during the period of product development, clinical trials, and FDA regulatory review.
+ 
+25
+
+
+Timing to Approval
+ 
+We estimate that it generally takes 10 to 15 years or possibly longer to discover, develop and bring to market a new pharmaceutical product in the U.S. as outlined below:
+
+Phase: | Objective: | Estimated Duration:
+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------
+Discovery | Lead identification and target validation. | 2 to 4 years 
+Preclinical | Initial toxicology for preliminary identification of risks for humans; gather early pharmacokinetic data. | 1 to 2 years 
+Phase 1 | Test for safety, dosage tolerance, absorption, metabolism, distribution and excretion. | 1 to 2 years 
+Phase 2 | Identify possible adverse effects and safety risks; preliminarily evaluate the efficacy of the drug candidate for specific targeted diseases; determine dosage tolerance and optimal dosage. | 2 to 4 years 
+Phase 3 | Further evaluate dosage, clinical efficacy and safety in an expanded patient population, typically at geographically dispersed clinical study sites; establish the overall risk-benefit ratio of the drug candidate and provide, if appropriate, an adequate basis for product labeling. | 2 to 4 years 
+FDA approval | Approval by the FDA to sell and market the drug for the approved indication. | 6 months to 2 years
+
+ 
+A drug candidate may fail at any point during this process. Animal and other non-clinical studies typically are conducted during each phase of human clinical trials.
+ 
+Our business model is primarily focused on the preclinical to Phase 2a interval. This greatly reduces the time frame for us from in-license of a new, preclinical stage drug candidate to be developed to out-licensing to a pharmaceutical partner.
+ 
+Post-Approval Studies
+ 
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory standards is not maintained or if problems occur after the product reaches the market. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further FDA review and approval. In addition, the FDA may require testing and surveillance programs to monitor the effect of approved products that have been commercialized, and the FDA has the power to prevent or limit further marketing of a product based on the results of these post-marketing programs.
+ 
+Any drug products manufactured or distributed by us pursuant to FDA approvals are subject to continuing regulation by the FDA, including, among other things:
+ 
+
+· | record-keeping requirements;
+--+-----------------------------
+
+
+· | reporting of adverse experiences with the drug;
+--+------------------------------------------------
+
+
+· | providing the FDA with updated safety and efficacy information;
+--+----------------------------------------------------------------
+
+
+· | drug sampling and distribution requirements;
+--+---------------------------------------------
+
+
+· | notifying the FDA and gaining its approval of specified manufacturing or labeling changes;
+--+-------------------------------------------------------------------------------------------
+
+
+· | complying with certain electronic records and signature requirements; and
+--+--------------------------------------------------------------------------
+
+
+· | complying with FDA promotion and advertising requirements.
+--+-----------------------------------------------------------
+
+ 
+Drug manufacturers and their subcontractors are required to register their establishments with the FDA and some state agencies, and are subject to periodic unannounced inspections by the FDA and some state agencies for compliance with cGMP and other laws.
+ 
+26
+
+
+We rely, and expect to continue to rely, on third parties for the production of clinical quantities of our drug candidates. Future FDA and state inspections may identify compliance issues at the facilities of our contract manufacturers that may disrupt production or distribution, or require substantial resources to correct.
+ 
+From time to time, legislation is drafted, introduced and passed in Congress that could significantly change the statutory provisions governing the approval, manufacturing and marketing of products regulated by the FDA. In addition, FDA regulations and guidance are often revised or reinterpreted by the agency in ways that may significantly affect our business and our drug candidates. It is impossible to predict whether legislative changes will be enacted, or FDA regulations, guidance or interpretations changed or what the impact of such changes, if any, may be.
+ 
+Foreign Regulations
+ 
+Whether or not we obtain FDA approval for a drug candidate, we must obtain the requisite approvals from regulatory authorities in non-U.S. countries prior to the commencement of clinical trials or marketing of our products in those countries. Certain countries outside of the U.S. have a process that requires the submission of a clinical trial application (“CTA”), much like an IND, prior to the commencement of human clinical trials. In the E.U., for example, a CTA must be submitted to the competent national health authority and to independent ethics committees in each country in which a company intends to conduct clinical trials. Once the CTA is approved in accordance with a country’s requirements, clinical trial development may proceed in that country.
+ 
+The requirements and process governing the conduct of clinical trials, product licensing, pricing and reimbursement vary from country to country, but typically takes several years and requires significant resources. In all cases, the clinical trials must be conducted in accordance with GCP and other applicable regulatory requirements.
+ 
+To obtain regulatory approval of an investigational drug under E.U. regulatory systems, we must submit a marketing authorization application. This application is similar to the NDA in the U.S., with the exception of, among other things, country-specific document requirements. Drugs can be authorized in the E.U. by using (i) the centralized authorization procedure, (ii) the mutual recognition procedure, (iii) the decentralized procedure or (iv) national authorization procedures.
+ 
+The EMA implemented the centralized procedure for the approval of human drugs to facilitate marketing authorizations that are valid throughout the E.U. This procedure results in a single marketing authorization granted by the European Commission that is valid across the E.U., as well as in Iceland, Liechtenstein and Norway. The centralized procedure is compulsory for certain human drugs including those that are: (i) derived from biotechnology processes, such as genetic engineering, or (ii) contain a new active substance indicated for the treatment of certain diseases.
+ 
+Reimbursement
+ 
+Sales of pharmaceutical products depend in significant part on the availability of third-party reimbursement, which is time consuming and expensive. Reimbursement may not be available or sufficient to allow us to sell our future products, if any, on a competitive and profitable basis.
+ 
+The passage of the Medicare Prescription Drug and Modernization Act of 2003 (the “MMA”) imposed requirements for the distribution and pricing of prescription drugs for Medicare beneficiaries, which may affect the marketing of our future products, if any. The MMA also introduced a reimbursement methodology, part of which went into effect in 2004, and a prescription drug plan, which went into effect on January 1, 2006. While the MMA applies only to drug benefits for Medicare beneficiaries, private payors often follow Medicare coverage policy and payment limitations in setting their own payment rates. Any reduction in payment that results from the MMA may result in a similar reduction in payments from non-governmental payors.
+ 
+In addition, in some foreign countries, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the E.U. provides options for its member states to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. A member state may approve a specific price for the medicinal product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal product on the market.
+ 
+27
+
+
+There have been and we expect that there will continue to be frequent federal and state proposals to impose governmental pricing controls or cost containment measures for prescription drugs. While we cannot predict whether such legislative or regulatory proposals will be adopted, the adoption of such proposals could have a material adverse effect on our business, financial condition and profitability. For example, the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Affordability Reconciliation Act of 2010, contains provisions that may reduce the profitability of drugs, including, for example, increased rebates for drugs sold to Medicaid programs, extension of Medicaid rebates to Medicaid managed care plans, mandatory discounts for certain Medicare Part D beneficiaries and annual fees based on pharmaceutical companies’ share of sales to federal health care programs. Even if favorable coverage and reimbursement status is attained for one or more of our drug candidates for which we receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future.
+ 
+Other Regulations
+ 
+Pursuant to the Drug Price Competition and Patent Term Restoration Act of 1984, known as the Hatch-Waxman Act, under certain conditions a sponsor may be granted marketing exclusivity for a period of five years following FDA approval. During this period, third parties would not be permitted to obtain FDA approval for a similar or identical drug through an Abbreviated NDA, which is the application form typically used by manufacturers seeking approval of a generic drug. The Hatch-Waxman Act also permits a patent extension term of up to five years as compensation for patent term lost during product development and the FDA regulatory review process. However, patent extension cannot extend the remaining term of a patent beyond a total of 14 years. The patent term restoration period is generally one-half the time between the effective date of an IND and the submission date of an NDA, plus time of active FDA review between the submission date of an NDA and the approval of that application. Only one patent applicable to an approved drug is eligible for the extension and it must be applied for prior to expiration of the patent and within 60 days of the approval of the NDA.
+ 
+Prexigebersen previously received orphan drug designations for the treatment of CML in the U.S. Orphan designation is available to drugs intended to treat, diagnose or prevent a rare disease or condition that affects fewer than 200,000 people in the U.S. at the time of application for orphan designation. Orphan drug designation must be requested before submitting an application for marketing authorization. Orphan designation qualifies the sponsor of the product for a tax credit and marketing incentives. The first sponsor to receive FDA marketing approval for a drug with an orphan designation is entitled to a seven-year exclusive marketing period in the U.S. for that product for that indication and, typically, a waiver of the prescription drug user fee for its marketing application. However, a drug that the FDA considers to be clinically superior to, or different from, the approved orphan drug, even though for the same indication, may also obtain approval in the U.S. during the seven-year exclusive marketing period. Orphan drug exclusive marketing rights may also be lost if the FDA later determines that the request for designation was materially defective or if the manufacturer is unable to assure sufficient quantity of the drug.
+ 
+In October 2016, prexigebersen also received orphan drug designation for AML in the E.U. from the EMA. To receive orphan drug designation from the EMA, a therapy must be intended for the treatment of a life-threatening or chronically debilitating rare condition with a prevalence of less than five in 10,000 in the E.U. Orphan drug designation provides incentives designed to facilitate development, including fee reductions for protocol assistance, scientific advice and importantly, may provide up to ten years of market exclusivity in the E.U. following product approval.
+ 
+There is no guarantee that any of our other drug candidates will receive orphan drug designation or that, even if such drug candidate is granted such status, the drug candidate’s clinical development and regulatory approval process will not be delayed or will be successful.
+ 
+Pharmaceutical companies are also subject to various federal and state laws pertaining to health care “fraud and abuse,” including anti-kickback laws and false claims laws. Anti-kickback laws make it illegal for any entity or person to solicit, offer, receive, or pay any remuneration in exchange for, or to induce, the referral of business, including the purchase or prescription of a particular drug. False claims laws prohibit anyone from knowingly and willingly presenting, or causing to be presented, for payment to third party payors, including Medicare and Medicaid, claims for reimbursed drugs or services that are false or fraudulent, claims for items or services not provided as claimed, or claims for medically unnecessary items or services.
+ 
+Company History and Available Information
+ 
+The Company was incorporated in May 2000 as a Utah corporation. In February 2008, Bio-Path Subsidiary completed a reverse merger with the Company, which at the time was traded over the counter and had no current operations. The prior name of Company was changed to Bio-Path Holdings, Inc. and the directors and officers of Bio-Path Subsidiary became the directors and officers of Bio-Path Holdings, Inc. On March 10, 2014, our common stock ceased trading on the OTCQX and commenced trading on the Nasdaq Capital Market under the ticker symbol “BPTH.” Effective December 31, 2014, we changed our state of incorporation from Utah to Delaware through a statutory conversion pursuant to the Utah Revised Business Corporation Act and the Delaware General Corporation Law.
+ 
+28
+
+
+On February 8, 2018, we effected a reverse stock split of our outstanding shares of common stock at a ratio of 1-for-10, and our common stock began trading on the split-adjusted basis on the Nasdaq Capital Market at the commencement of trading on February 9, 2018. In addition, as described above, on January 17, 2019, we effected a reverse stock split of our outstanding shares of common stock at a ratio of 1-for-20, and our common stock began trading on the split-adjusted basis on the Nasdaq Capital Market at the commencement of trading on January 18, 2019. All common stock share and per share amounts in this Annual Report on Form 10-K have been adjusted to give effect to both the 1-for-10 reverse stock split and the 1-for-20 reverse stock split, retrospectively.
+ 
+Our principal executive offices are located at 4710 Bellaire Boulevard, Suite 210, Bellaire, Texas 77401, and our telephone number is (832) 742-1357. Our Internet address is www.biopathholdings.com. We are not including the information contained in our website as part of, or incorporating it by reference into, this Annual Report on Form 10-K. We make available free of charge through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such materials with, or furnish it to, the SEC. We also make available on our website our Corporate Governance Guidelines; the charters for our Audit Committee, Nominating/Corporate Governance Committee and Compensation Committee; our Employee Code of Business Conduct and Ethics, which applies to all of our employees, including our executive officers; and our Code of Business Conduct and Ethics for Members of the Board of Directors. All such information is also available in print and free of charge to any of our stockholders who request it. In addition, we intend to disclose on our website any amendments to, or waivers from, our codes of business conduct and ethics that are required to be publicly disclosed pursuant to rules of the SEC.
+ 

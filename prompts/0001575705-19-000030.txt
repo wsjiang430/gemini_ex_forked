@@ -1,0 +1,181 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ 
+AgEagle Aerial Systems Inc. (“AgEagle,” “the Company,” “we,” “our” or “us”) was created to pioneer, innovate and advance aerial imaging data collection and analytics technologies capable of addressing the impending food and environmental sustainability crises that threaten our planet. Our daily efforts are focused on delivering the metrics, tools and strategies necessary to define and implement intelligent sustainability and precision farming solutions that solve important problems confronting the agricultural industry. Since our founding in 2010, we have been intent on becoming a trusted partner to major food manufacturers and precision growers seeking to adopt and support productive agricultural approaches to better farming practices which limit the impact on our natural resources, reduce reliance on inputs and materially increase crop yields and profits.
+Our Unmanned Aerial Vehicles Business
+ 
+We design, produce, distribute and support technologically-advanced small unmanned aerial systems (UAVs or drones) that we offer for sale commercially to the precision agriculture industry. Additionally, we recently announced a new service offering using our leased UAVs and associated data processing services for the sustainable agriculture industry.
+ 
+Our first commercially available product was the AgEagle Classic which was followed shortly thereafter by the RAPID System. As we improved and matured our product, we launched the RX-60 and subsequently our current product, the RX-48. The success we have achieved with our legacy products, which we believe has carried over into the continued improvement of the RX-60 and RX-48, stems from our ability to invent and deliver advanced solutions utilizing our proprietary technologies and trade secrets that help farmers, agronomists and other precision agricultural professionals operate more effectively and efficiently. Our core technological capabilities, developed over five years of research and innovation, include a lightweight laminated shell that allows the UAV platform to perform under challenging flying conditions, a camera with a Near Infrared (NIR) filter, a rugged foot launcher (RX-60), and high-end software that automates drone flights and provides geo-referenced data.
+ 
+4
+
+
+Our UAV is an advanced fixed wing drone. Its design is based upon the years of experience our management has with aircraft and composite parts construction. All of our UAVs are electrically powered, weigh approximately six pounds fully loaded, are capable of flying over approximately 400 acres (roughly 60 minutes of airtime) per flight from their launch location, and are configured to carry a camera with our NIR filter that uses near infrared images to capture crop data. We believe that these characteristics make our UAVs well suited for providing a complete aerial view of a farmer’s field to help precisely identify crop health and field conditions faster than any other method available.
+ 
+Our UAVs were initially specifically designed to help farmers increase profits by pinpointing areas where nutrients or chemicals need to be applied, as opposed to traditional widespread land application processes, thus decreasing input costs, reducing the amount of chemicals applied and potentially increasing yields. Our products were designed for busy agriculture professionals who do not have the time to process images on their computers, which some of our competitors require. The software can automatically take pictures from the camera, stitch the photos together through the cloud, and deliver a geo-referenced, high quality aerial map to the user’s desktop or tablet device using specialty precision agriculture software such as SST Software, SMS Software or most other agricultural software solutions. The result is a prescription or zone map that can then be used in a field computer that is typically found in a sprayer or applicator designed to drive through fields to precisely apply the amount of nutrients or chemicals required to continue or restore the production of healthy crops.
+ 
+In addition to UAV sales, in late 2018, we introduced a new drone-leasing program, alleviating farmers and agribusinesses from significant upfront costs associated with purchasing a drone, while also relieving them from ongoing drone maintenance and support requirements. Additionally, the new program provides the option of engaging a trained AgEagle pilot to operate the drone and manage the entire image collection process, creating a truly turnkey aerial imagery capture solution for our customers.
+ 
+Research and development activities are integral to our business and we follow a disciplined approach to investing our resources to create new technologies and solutions.
+ 
+Acquisition of Agribotix
+ 
+On August 28, 2018, we closed the transactions contemplated by the Asset Purchase Agreement (the “Purchase Agreement”) dated July 25, 2018 with AgEagle Aerial, Inc., a wholly-owned subsidiary of the Company; Agribotix, LLC, a Colorado limited liability company (“Agribotix” or the “Seller”); and the other parties named therein. Pursuant to the Purchase Agreement, we acquired all right, title and interest in and to all assets owned by Agribotix and utilized in their business of providing integrated agricultural drone solutions and drone-enabled software technologies and services for precision agriculture, except for certain excluded assets as set forth in the Purchase Agreement. At closing, we also assumed certain commitments under various third-party contracts pursuant to the terms of the Purchase Agreement.
+ 
+We believe that purchasing Agribotix’s primary product, FarmLens™, will benefit us and our shareholders by developing important vertically integrated products and services. FarmLens is a subscription cloud analytics service that processes data, primarily collected with a drone such as ours, and makes such data actionable by farmers and agronomists. FarmLens is currently sold by us as a subscription service and offered either standalone or in a bundle with drone platforms manufactured by leading drone providers like AgEagle, DJI and senseFly.
+ 
+The FarmLens platform extends our reach as a business through key partnerships with, and direct integration into offerings by leading agricultural companies, including John Deere and The Climate Corporation, a subsidiary of Bayer. In October 2018, AgEagle announced that we were expanding on Agribotix’s existing partnership with The Climate Corporation’s FieldView™ platform, enabling farmers to share images from FarmLens to their FieldView accounts and compare them alongside other valuable metrics, including planting and yield data. To date, Agribotix has processed agricultural imagery for approximately 1.3 million acres of crops and analyzed data for over 50 different crop types from over 50 countries around the world.
+ 
+In December 2018, we unveiled our plans to develop a FarmLens Mobile app, extending the numerous benefits of the FarmLens platform to mobile devices. The FarmLens Mobile app will be commercially launched toward the end of the second quarter 2019 and available for download on any iPhone, iPad or Android device.
+ 
+5
+
+
+Our Sustainability Platform
+ 
+The negative impact of agriculture on both the environment and society has been widely documented with unsustainable farming practices serving to confound land conversion and habitat loss, wasteful water consumption, soil erosion and degradation, pollution and climate change. It has been reported that agricultural production is believed to be responsible for 70% of river and stream pollution from chemicals, silt and animal waste (source: Food and Agriculture Organization of the United Nations). Moreover, agriculture is the largest consumer of the Earth’s available freshwater: 70% of withdrawals from watercourses and groundwater are for agricultural usage, three times more than 50 years ago. By 2050, the global water demand of agriculture is estimated to increase by a further 19% due to irrigational needs (source: GlobalAgriculture.org).
+ 
+Left unchecked, many believe that farming practiced without care presents the greatest global threat to species and ecosystems, especially given that demand for more food - and healthier food - is rising exponentially. According to the World Resources Institute, our planet will need 70 percent more food to feed a global population of 9.6 billion by 2050. In view of looming environmental and social crises facing our planet, both consumer packaged goods companies and their supply chain partners recognize the need ​to accelerate their shift towards greater transparency in their sustainability practices and policies as they assume greater responsibility for mitigating the use of chemicals in crop production and preserving natural resources.
+ 
+We believe AgEagle to be the nation’s first drone-based aerial imagery company to utilize leading-edge data capture technology and customized analytics solutions to help promote and proactively support corporate and farming sustainability initiatives. In support of our efforts to promote our sustainability platform, in October 2018 we became a corporate partner of the Cool Farm Alliance (CFA), a non-profit organization promoting sustainability in the agriculture industry. Through the CFA’s Cool Farm Tool, businesses can utilize farming data to collaborate and develop sustainability metrics that provide the necessary insights to decrease their impact on the environment. By combining AgEagle’s technological capabilities and the unique data we can collect with the knowledge and expertise of the CFA team, we see an opportunity to measurably contribute to the establishment of a gold industry standard for sustainable agriculture.
+ 
+In November 2018, we announced an agreement with one of the largest specialty crop producers in North America as our first customer on our sustainability platform and drone leasing program for the 2019 crop season. As part of the agreement, we are providing access to UAVs equipped with sensors for the growing season, along with access to data connected devices for farms covering thousands of acres in the United States. We are also setting up a network of soil moisture monitoring devices with rain gauges and soar sensors to provide in-depth data analytics at the field level. All of this is expected to culminate in a sustainability dashboard and scorecard that will provide data to assess and affirm soil health, water utilization efficiency and pest and disease control; which will, in turn, aid this specialty crop producer in showcasing its sustainability efforts and results to its customers and supply chain partners. 
+
+Our Growth Strategy
+ 
+We intend to grow our business by achieving greater market penetration of the growing precision agriculture marketplace; by promoting our new service targeting the sustainable agriculture marketplace for the 2019 growing season; and by creating new, easier to use and higher value products that position AgEagle as a leading innovator and trusted solutions provider in the markets we serve. We may also elect to pursue additional opportunities in other industries outside of agriculture and its related areas.
+ 
+Key components of our growth strategy include the following:
+ 
+
+● | Build a strong worldwide distribution network to offer a best-in-class precision agriculture platform. We believe we can establish our flying wing product and systems as leading technologies in the precision agriculture marketplace. We will work to identify and establish relationships with dealers and customers in key agricultural regions worldwide, which will help make it possible for every farmer in those markets to have access to the AgEagle platform. Potential distributors are spread across six continents, covering a majority of the world’s major regions including the U.S., Canada, South America, Eastern and Western Europe, Southeast Asia and Oceania. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+6
+
+
+
+● | Launch and market our new UAV-based monitoring service for large food manufacturers desiring to achieve and maintain optimal sustainability practices on their farms. We are in the process of launching a new service for the 2019 growing season targeted towards large food manufacturers that are being pressured by consumers to create food products with less chemicals that are more sustainably sourced. We believe our current technology, combined with other available third-party platforms/solutions via a well-defined modern RESTful API, will allow us to offer a product to these food manufacturers that will serve to accelerate business growth faster than if we just focused on growth opportunities within the precision agriculture marketplace. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Continue to explore partnerships with companies that can expand our offerings. We intend to expand our product offerings by building relationships and partnerships with companies that have vertical, synergistic technologies. In addition, other technology alliances may include the acquisition or development of other electronics, software, sensors or more advanced aerial platforms. We are constantly meeting and in discussions with groups that could fill these roles and collaborate with us on new development ideas. 
+● | Support and expand our University Drone Program. Subsequent to the end of 2018, we introduced our new University Drone Program providing for AgEagle’s aerial imaging collection and data processing systems to be purchased and utilized by colleges and universities to enhance the curriculum of their agriculture technology departments – including in precision ag, agronomy, plant science and mapping, among other related study areas. In January 2019, we announced that both Arkansas State University-Newport (ASU) and Modesto Junior College (MJC) in California have teamed with our Company to provide students with hands-on training and experience properly operating drones, creating digital aerial maps through the AgEagle FarmLens platform, and using data collected to achieve sustainable farming objectives. We believe that our University Drone Program not only represents a new revenue channel for us, but it will serve as a powerful brand-building opportunity for AgEagle among those who are studying to become commercial growers, agronomists and precision and sustainability ag experts and specialists. 
+● | Deliver new and innovative solutions in the precision agriculture space. Our research and development efforts are the foundation of our Company, and we intend to continue investing in our own innovations, pioneering new and enhanced products and solutions that enable us to satisfy our customers – both in response to and in anticipation of their needs. We believe that by investing in research and development, we can be a leader in delivering innovative products that address market needs within our current target markets, enabling us to create new opportunities for growth. 
+● | Pursue the expansion of the AgEagle platform of products and solutions into other industries besides agriculture. We may investigate and pursue opportunities outside of agriculture as we continue to expand and grow the AgEagle platform. We are confident in the UAV products and solutions we offer today and believe that these products and solutions could provide other industries the same kind of optimization we are currently providing the agriculture industry. These industries have yet to be identified by the AgEagle team but may include verticals such as land surveying and scanning, insurance, inspections and search and rescue. 
+
+Competitive Strengths
+ 
+We believe the following attributes and capabilities provide us with long-term competitive advantages:
+ 
+
+● | Proprietary Technology and Trade Secrets - We believe our unique design and in-house manufacturing of key aerospace components differentiates our product in the market place. We are confident that our UAVs are industry-leading in durability due to the lightweight laminated shell of the wing, which is made using a proprietary manufacturing process innovated over five years of research and development. This process, which hardens the material used to build the shell, allows the UAV to perform in harsh weather conditions (with wind speeds up to 30 miles per hour) and bring itself to an unassisted landing, all at a total weight of about six pounds. This design is an important trade secret, and we have non-disclosure agreements with our employees in order to keep it unique to our Company. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+7
+
+
+
+● | Product has Global Appeal - We believe that our technology addresses a need for better data in the agriculture industry worldwide. Given our global distribution platform, we believe that we are well-positioned for our advanced products to be effectively marketed and sold to farmers worldwide. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Increased Margins for Farmers - We believe our UAVs will directly enhance margins for our customers by reducing the amount of nutrients and chemicals needed to manage their farms. The software equipped on our UAVs deliver a high-quality aerial map upon completion of the flight, allowing the user to accurately identify the specific areas that are malnourished. This software is compatible with precision applicator tractors, which assist users in applying a precise amount of nutrients in only the areas it is needed. 
+● | Increased Transparency for Food Manufacturers - We believe our UAVs and the data platform we continue to advance present us a unique opportunity to be one of the first companies to offer major food manufacturers a way to connect to the sustainable efforts being made by the farmers from whom they purchase ingredients for their food products. This would allow food manufacturers to confidently claim their food products are made with less chemicals on their packaging and in their marketing. 
+● | Empower Customers Through Our Self-Serve Platform - Our UAVs are specially designed to provide users with a portable and easy to operate device, which can be controlled with a hand-held unit or tablet. Through our FarmLens™ platform, users will be able to plan and track an efficient flight path for their UAV. The UAVs are equipped with a camera and NIR filter whose images provide a holistic aerial view of the fields, along with meaningful data that is uploaded and delivered to the user within a very short time frame. As a result, this platform allows users to quickly detect any issues in their crops, which enables them to address such issues in a timely manner before any damage, or further damage, may affect their crops. 
+● | All Manufacturing of our Products is Completed in the United States - As of today, we manufacture all of our products at our manufacturing facility in Neodesha, Kansas, which allows us to avoid many of the potential difficulties that may arise if our manufacturing facilities were otherwise located outside the U.S. In addition, all our UAVs are designed and assembled here in the U.S. 
+
+Government Regulation
+ 
+Our products are subject to regulations of the FAA. On June 21, 2016, the FAA announced it had finalized the first operational rules for routine commercial use of small Unmanned Aerial Systems (UAS), which for purposes of the regulations are unmanned aircraft weighing less than 55 pounds that are conducting non-hobbyist operations. UAS operators-for-hire will have to pass a written test and be vetted by the TSA, but no longer need to be airplane pilots as current law requires. The rules went into effect on August 20, 2016. Among other things, the new regulations require
+
+● | preflight inspection by the remote pilot in command; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | minimum weather visibility of three miles from the control station; 
+● | visual line-of-sight to the aircraft from the pilot and person manipulating the controls; 
+● | prohibit flying the aircraft over any persons not directly participating in the operation, not under a covered structure or not inside a covered stationary vehicle; 
+● | daylight or civil twilight operations (30 minutes before official sunrise to 30 minutes after official sunset, local time); 
+
+ 
+8
+
+
+
+● | maximum groundspeed of 100 mph (87 knots); and 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | maximum altitude of 400 feet above ground level or, if higher than 400 feet above ground level, the aircraft must remain within 400 feet of a structure. 
+
+ 
+The new regulations also establish a remote pilot in command position. A person operating a small unmanned aircraft must either hold a remote pilot airman certificate with a small unmanned aircraft system rating or be under the direct supervision of a person who does hold a remote pilot certificate (remote pilot in command). A pilot’s license is no longer required. To qualify for a remote pilot certificate, a person must: demonstrate aeronautical knowledge by either passing an initial aeronautical knowledge test at an FAA-approved knowledge testing center; or hold a part 61 pilot certificate other than student pilot, complete a flight review within the previous 24 months, and complete a small UAS online training course provided by the FAA. The person must also be vetted by the TSA and be at least 16 years old. Applicants will obtain a temporary remote pilot certificate upon successful completion of TSA security vetting. The FAA anticipates that it will be able to issue a temporary remote pilot certificate within 10 business days after receiving a completed remote pilot certificate application.
+ 
+The regulations do not require the use of a visual observer. In addition, FAA airworthiness certification is not required. However, the remote pilot in command must conduct a preflight check of the small UAS to ensure that it is in a condition for safe operation.
+ 
+Most of the restrictions can be waived by the FAA if the applicant demonstrates that his or her operation can safely be conducted under the terms of a certificate of waiver. The FAA maintains an online portal where a company or individual can apply for a certificate of waiver.
+ 
+Manufacturing
+ 
+As of today, we manufacture all of our products at our manufacturing facility in Neodesha, Kansas. We believe our current facilities are sufficient to adapt to our growth plans for the next two to three years and we have no current plans to expand our manufacturing capabilities.
+Suppliers
+ 
+Currently, we have strong relationships established with companies that provide many of the parts and services necessary to construct our advanced fixed wing and newly introduced UAVS drones, such as Botlink, MicaSense and 3DR. As our Company grows, we expect to pursue additional supplier relationships from which we can source cheaper and better supplies to stay ahead of the needs of the market.
+ 
+Our flight planning and photo stitching software is provided by Pix4D and flight planning is QGroundControl an open source application. We have worked closely with software partners to optimize their software to work with our platform. We consider our relationships with Pix4D to be good; however, a loss of this relationship would have a short-term adverse effect on our product offerings and results of operations, as we look to an alternative provider for our photo stitching software.
+ 
+Revenue Mix
+ 
+The table below reflects our revenue for the periods indicated by product mix
+ 
+
+ | For the Year Ended December 31,
+-------------------+--------------------------------
+Type | 2018 | | 2017
+Product Sales | | 87 | % | 100 | %
+Subscription Sales | | 13 | % | — | 
+
+ 
+9
+
+
+Research and Development
+ 
+Research and development activities are part of our business and we follow a disciplined approach to investing our resources to create new technologies and solutions. A fundamental part of this approach is a well-defined screening process that helps us identify commercial opportunities that support current desired technological capabilities in the precision agriculture space. Our research includes the expansion of our wing products, providing for developing a portfolio of UAVs, as well as other solutions to problems with which agriculture professionals struggle.
+Risks Relating to Our Business
+ 
+Our business is subject to numerous risks and uncertainties, including those highlighted in the section titled “Risk Factors” found in Item 1A within this Annual Report on Form 10-K. Some of these risks include, but are not limited to, risks associated with:
+
+● | our need for additional funding; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | our ability to protect our intellectual property rights; 
+● | rapid technological changes in the industry; 
+● | governmental policies and regulations regarding our industry; 
+● | our ability to maintain strong relationships with our customers, suppliers and distributors; and 
+● | worldwide and domestic economic trends and financial market conditions, including an economic decline in the agricultural industry. 
+
+Organizational History
+ 
+On March 26, 2018, our predecessor company, EnerJex Resources, Inc. (“EnerJex”), a Nevada company, consummated the transactions contemplated by the Agreement and Plan of Merger (the “Merger Agreement”), dated October 19, 2017, pursuant to which AgEagle Merger Sub, Inc., a Nevada corporation and a wholly-owned subsidiary of EnerJex, merged with and into AgEagle Aerial Systems Inc., a privately held company organized under the laws of the state of Nevada (“AgEagle Sub”), with AgEagle Sub surviving as a wholly-owned subsidiary of EnerJex (the “Merger”). In connection with the Merger, EnerJex changed its name to AgEagle Aerial Systems Inc. (the “Company, “we,” “our,” or “us”) and AgEagle Sub changed its name to “Eagle Aerial, Inc.”
+ 
+Prior to the Merger, EnerJex was formerly known as Millennium Plastics Corporation (“Millennium) and was incorporated in the State of Nevada on March 31, 1999. In August 2006, Millennium acquired Midwest Energy, Inc., a Nevada corporation pursuant to a reverse merger. After such merger, Midwest Energy became a wholly-owned subsidiary, and as a result of such merger, the former Midwest Energy stockholders controlled approximately 98% of our outstanding shares of Common Stock. Midwest then changed its name to EnerJex Resources, Inc., (“EnerJex”) in connection with this merger, and in November 2007, it changed the name of Midwest Energy (one of our wholly-owned subsidiaries) to EnerJex Kansas, Inc. (“EnerJex Kansas”). All of its operations conducted prior to this merger were through EnerJex Kansas, Inc., Black Sable Energy, LLC, a Texas limited liability company (“Black Sable”) and Black Raven Energy, Inc. a Nevada corporation (“Black Raven”). Our leasehold interests were held in our wholly-owned subsidiaries Black Sable, Working Interest, LLC, EnerJex Kansas and Black Raven.
+ 
+On July 25, 2018, we entered into an Asset Purchase Agreement (the “Purchase Agreement”) with Eagle Aerial Systems, Inc., our wholly-owned subsidiary; Agribotix, LLC, a Colorado limited liability company (“Agribotix” or the “Seller”); and the other parties named therein. Pursuant to the Purchase Agreement, we acquired, on August 28, 2018, the closing date of such transaction, all right, title and interest in and to all assets owned by the Seller utilized in the Seller’s business of providing integrated agricultural drone solutions and drone-enabled software technologies and services for precision agriculture, except for certain excluded assets as set forth in the Purchase Agreement (the “Purchased Assets”). At closing, we assumed certain liabilities under various third-party contracts pursuant to the terms of the Purchase Agreement.
+ 
+10
+
+
+Our Headquarters
+ 
+Our principal executive offices are located at 117 S. 4th Street, Neodesha, Kansas 66757 and our telephone number is 316-202-2076. Our website address is www.ageagle.com. The information contained on, or that can be accessed through, our website is not a part of this Annual Report. We have included our website address in this Annual Report solely as an inactive textual reference.
+Employees
+ 
+As of December 31, 2018, we employed 5 full-time and 1 part-time employee.
+ 
+Intellectual Property
+ 
+We currently have a registered trademark on the AgEagle and FarmLens name and logo. We also plan to file provisional patents on certain aspects of our current and future technology. Finally, we consider our UAV manufacturing process to be a trade secret and have non-disclosure agreements with current employees to protect those and other trade secrets held by the Company.
+Where You Can Find Additional Information
+ 
+The Company is subject to the reporting requirements under the Exchange Act. The Company files with, or furnishes to, the SEC quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports and will furnish its proxy statement. These filings are available free of charge on the Company’s website, wwwageagle.com, shortly after they are filed with, or furnished to, the SEC. The SEC maintains an Internet website, www.sec.gov, which contains reports and information statements and other information regarding issuers.

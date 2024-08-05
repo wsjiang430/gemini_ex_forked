@@ -1,0 +1,694 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+We are a clinical-stage immuno-oncology company specializing in the development and commercialization of novel cell-based immunotherapies and innovative peptide-based vaccines for the treatment of hematological malignancies and solid tumor indications. Our MultiTAA T cell technology is based on the selective expansion of non-engineered, tumor-specific T cells that recognize tumor associated antigens (“TAA” i.e. tumor targets) and kill tumor cells expressing those targets. Once infused into patients, this population of T cells recognizes multiple tumor targets to produce broad spectrum anti-tumor activity. Because we do not genetically engineer our T cells, when compared to current engineered chimeric antigen receptor (“CAR”) and T cell receptor (“TCR”)-based approaches, our products are significantly less expensive to manufacture and appear to be markedly less toxic, and yet are associated with meaningful clinical benefit. As a result, we believe our portfolio of T cell therapies has a compelling therapeutic product profile, as compared to current gene-modified CAR and TCR-based therapies. In addition, our Folate Receptor Alpha program (TPIV200) for breast and ovarian cancers and our HER2/neu program (TPIV100/110) are in Phase II clinical trials. In parallel, we are developing a proprietary nucleic acid-based antigen expression technology named PolyStart™ to improve the ability of the immune system to recognize and destroy diseased cells.
+ 
+Immuno-oncology, which utilizes a patient’s own immune system to combat cancer, is one of the most actively pursued areas of research by biotechnology and pharmaceutical companies today. Interest and excitement about immunotherapy are driven by compelling efficacy data in cancers with historically bleak outcomes, and the potential to achieve a cure or functional cure for some patients. Harnessing the power of the immune system is an important component of fighting cancerous cells in the body. Our MultiTAA T cell therapy platform identifies and selects effectively all T cells that are specific for any peptide from the antigens that we target (e.g., WT1, MAGE-A4, PRAME, Survivin, NY-ESO-1, and SSX2). Our in-vitro manufacturing process promotes proliferation of very rare cancer-killing T cells and augments their anti-tumor properties to provide benefit to patients following their infusion. By using the multi-antigen targeted approach, our proprietary technology can kill heterogeneous tumor cell populations more effectively than single-antigen targeted approaches, thereby reducing the likelihood of tumor escape and potentially increasing the durability of a patient’s response to therapy.
+ 
+We believe that our therapy presents a promising innovation in immuno-oncology. Our therapy has been developed through our collaboration with the Cell and Gene Therapy Center at Baylor College of Medicine (“BCM”) founded by Malcolm K. Brenner, M.D., Ph.D., a recognized pioneer in immuno-oncology. Our cell therapy founders include Drs. Malcolm Brenner M.D., Ph.D., Ann Leen, Ph.D., Juan Vera, M.D., Helen Heslop, M.D., DSc (Hon) and Cliona Rooney, Ph.D., who all have significant experience in this field. Dr. James P. Allison, Dr. Malcom K. Brenner, Dr. Helen E. Heslop, Dr. Cliona M. Rooney and Dr. Padmanee Sharma serve on our Scientific Advisory Board.
+ 
+Our Strategy
+ 
+Our goal is to be the leader in the development and commercialization of transformative immunotherapies for the treatment of hematological malignancies and solid tumors. We will be developing a portfolio of highly-differentiated T cell therapies utilizing our MultiTAA platform that has the potential to significantly disrupt the current cell therapy landscape, while substantially improving survival and quality of life for patients with cancers.
+ 
+Key elements of our strategy include:
+ 
+·   Expedite clinical development, regulatory approval, and commercialization of our lead product candidates.
+ 
+Based on results in the Phase I clinical trials conducted at BCM, we plan to advance our lead product candidates into Phase II clinical trials and facilitate the initiation of company-sponsored clinical trials in post-transplant acute myeloid leukemia (AML) and in other tumor types based on emerging data. We expect to finalize our first clinical trial protocol by end of second quarter of 2019.
+ 
+We plan to initiate a Phase II clinical trial in post-transplant AML in the second half of 2019 and in other tumor types based on emerging data in the future. We anticipate that product manufacturing in support of those clinical trials will be conducted at BCM’s Good Manufacturing Practices (“GMP”) cell manufacturing facility.
+ 
+
+1
+-
+
+ 
+
+In 2019, we expect to begin the technology transfer process and begin the planning and implementation of additional GMP manufacturing capacity capable of supporting our manufacturing needs with respect to pivotal trials. If the results of our Phase II studies are positive, we will explore potential avenues to achieve regulatory approval for the use of our products in these indications, including any potential avenues for obtaining accelerated approval. The U.S. Food and Drug Administration (“FDA”) may grant accelerated approval for product candidates used to treat serious conditions that fill an unmet medical need based on a surrogate or intermediate endpoint. We believe that an accelerated approval strategy may be warranted given the limited options available for patients with post-transplant AML. However, if the FDA grants accelerated approval, confirmatory trials will be required by the FDA.
+ 
+·   Continue collaboration with our partners and increase our internal research and development activities to improve and develop adoptive cell therapy technologies.
+ 
+We finalized a strategic alliance with BCM, in which we will sponsor selected research at the institution in support of our technology. In conjunction with this strategic alliance, BCM will conduct selected Phase I/II clinical trials using our technology. If data from these early clinical trials appear positive, we will consider the therapeutic and commercial potential for such therapies to be advanced as new products for us.
+ 
+In addition, we plan to use BCM facilities to enable the process development and manufacturing required to support the Phase II clinical trials of our product candidates. Outside of our relationship with BCM, we will invest in our own research and development and chemistry, manufacturing and controls (“CMC”) capabilities to enhance our ability to conduct process development to optimize our manufacturing process, product quality and commercial scalability.
+ 
+We believe that the G-Rex® (G-Rex® is a registered trademark of Wilson Wolf Manufacturing Corporation (“Wilson Wolf:”)) based manufacturing process we have in place is highly robust and scalable, and we will continue to invest resources in further refining the manufacturing process to create a product with highly attractive commercial attributes. We plan to engage Wilson Wolf (a company controlled by John Wilson, a director of the Company) to further customize the G-Rex® to optimally match our manufacturing requirements and to develop a scalability plan to drive efficiencies for a commercial product.
+ 
+·   Invest in our platform to maximize the beneficial outcomes for cancer patients.
+ 
+We plan to explore new product opportunities by expanding and/or customizing the antigens we target to expand the indications in which our products may be used, including solid tumors or other hematologic malignancies. Additionally, our research and development efforts may include the exploration of dosing and/or frequency of product administration and the relationship of these factors with potential therapeutic benefit.
+ 
+·   Leverage our relationships with our founding institutions, scientific founders and other scientific advisors.
+ 
+Our world-renowned scientific founders and scientific advisors have made seminal contributions to major discoveries in the field of immuno-oncology, and have significant experience in oncology, immunology and cell therapy. We intend to significantly leverage the knowledge, experience and advice of our scientific founders and advisors, as well as the institutional expertise of BCM, the Mayo Foundation and our other major institutional partners, to advance our therapies through the clinic and into commercialization.
+ 
+We are in the process of evaluating the peptide vaccine therapeutic products and programs to determine the future strategy and the proper allocation of our resources to best maximize stockholder value. In conjunction with this evaluation process we may de-emphasize or terminate certain of our therapeutic products or programs. Such strategic review and evaluations are to be a priority and an important part of our ongoing operations.
+ 
+MultiTAA T Cell Products
+ 
+Multi Tumor-Associated Antigen (“MultiTAA”) Approach
+ 
+Cancers are heterogeneous in their expression of antigens. Tumors generally consist of individual cancer cells expressing different antigens, and each of those antigens can be present at a different level that can change over time. Therapies targeting only a single antigen are vulnerable to evolutionary escape mechanisms.
+
+2
+-
+
+ 
+
+
+Even if the single-antigen specific therapy can eliminate all the tumor cells expressing the targeted antigen, the residual tumor cells that do not express that antigen may survive and expand. In addition, tumor cells may also downregulate or mutate the targeted antigen, thus becoming invisible to the T cell therapy. Both phenomena create a transformed tumor that is impervious to that therapy. This process is referred to as antigen-negative tumor immune escape. Our solution to the problem of tumor heterogeneity was to develop T cell products that simultaneously attack multiple tumor-expressed antigens and thereby enable more complete initial tumor targeting, thus minimizing the subsequent opportunity for the cancer to engage escape mechanisms. Data suggest this strategy may be responsible for recruitment and activation of unique cancer-killing cells from the patient’s own immune repertoire to participate in cancer eradication, further minimizing the possibility for tumor cell escape.
+ 
+
+Our proprietary MultiTAA T cell platform may have meaningful advantages over CAR and TCR-engineered cell therapy approaches. Compared to current gene-modified T cell therapies, our programs are characterized by the following:
+ 
+·   Demonstrated clinical benefit, without the need for lymphodepletion before infusion:   In BCM’s Phase I lymphoma study, we saw complete responses (“CRs”) in six of its evaluable patients, including three CRs in patients with diffuse large B-cell lymphoma (“DLBCL”). We believe it is significant that no patient with a CR has subsequently relapsed with disease, whereas typically 30% or more of patients with CR in reported CAR-T studies relapse within one year. In patient results to date, observed therapeutic responses appear to be highly durable, with some patients being relapse-free beyond five years.
+ 
+·   Non-gene-modified:   Unlike CAR-T and TCR approaches, our therapy requires no genetic modification of T cells, a costly and complex process that significantly complicates the manufacturing of a patient product. We believe our therapy can be manufactured at a fraction of the cost of a gene-modified T cell product.
+ 
+·   Low incidence rate of adverse events:   In 78 patients treated to date, BCM has seen only one grade III adverse reaction possibly related to its therapy. This appears favorable compared to published CD19 CAR-T studies, wherein up to 95% of patients had associated grade III or higher adverse events during treatment. There have been no cases of cytokine-release syndrome (“CRS”), or related serious adverse events (“SAEs”) in patients treated with our therapy to date.
+ 
+
+3
+-
+
+ 
+
+·   Capable of addressing a broad repertoire of cancer cells:   While CAR-T and TCR therapies generally target a single epitope, our manufacturing process selects T cells that are specific for multiple peptides derived from several targeted antigens. Deep gene sequencing of the clinical products shows that a typical patient dose usually consists of approximately 4,000 unique T cell clonotypes targeting up to five different tumor-associated antigens. The five antigen targets can be recognized by a very wide range of T cells, facilitating robust killing of targeted cancer cells.
+ 
+·   Appears to drive endogenous immune responses:   We see evidence of “epitope spreading” in the treated patients, meaning that the therapy is potentially inducing an enhanced response by the patient’s own T cells (specific for an expanded set of tumor-associated antigens beyond those targeted by the infused product). BCM’s correlative analyses show expansion of endogenous T cells, other than those present in our product, in the months following the infusion of our product. This phenomenon, also known as “antigen spreading,” is potentially important in generating a durable response for a patient, because it enables the killing of tumors that do not express any of the antigens initially targeted by our product.
+ 
+Peptide Vaccine Products and Technologies in Development
+ 
+In contrast to standard therapies for cancer treatment including surgery, radiation therapy and chemotherapy that target both cancer cells and normal cells, we are also developing vaccines that precisely target breast and ovarian cancers. We are currently developing three core technology platforms:
+ 
+1) an exclusively licensed peptide-based vaccine (composition and methods of use) for the treatment of breast cancers that overexpress Human Epidermal Growth Factor Receptor 2 (HER2/neu) (TPIV100/110),
+ 
+(2) an exclusively licensed peptide-based vaccine (composition and methods of use) for treating breast and ovarian cancers that overexpress Folate Receptor Alpha (TPIV200), and
+ 
+(3) a wholly-owned nucleic acid-based vaccine (composition and methods of use) technology (PolyStart™) for treatment of various cancers or infectious disease.
+ 
+Our peptide vaccines are derived from naturally processed T cell antigens and are potentially effective standalone therapies but may also enhance the efficacy of other immunotherapy approaches such as CAR-T cell therapies and PD-1 inhibitors, for example, as well as our own MultiTAA T cell therapies.
+ 
+The status of our development of other products and technologies is set forth in the table below:
+ 
+
+Product/Candidate | Description | Application | Status 
+-------------------------------------------+------------------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------
+TPIV100/110 HER2/neu Breast Cancer Vaccine | Peptide Vaccine | Treatment of HER2/neu+ Breast Cancer | Phase I trial completed Phase I(b) trial to start in 2019 (TPIV100) Phase I/II to start in 2019 (TPIV110) 
+TPIV200 Folate Receptor Alpha Vaccine | Peptide Vaccine | Treatment of Folate Receptor Alpha+/Triple-Negative Breast and Ovarian Cancer | Phase I trial completed Multiple Phase II trials started in 2016 and 2017 and enrollment completed in 2018
+PolyStart™ | Nucleic acid expression technology | Broad Application to “Prime”- and- “Boost” | Preclinical 
+
+
+4
+-
+
+Background and History of Cancer Immunotherapies
+ 
+Despite advances in options for treatment, cancer continues to be one of the main causes of death in developed countries. Historically, cancer therapy has been constrained to surgery, radiation, and chemotherapy. More recently, advances in the understanding of the immune system’s role in cancer surveillance have led to immunotherapy becoming an important treatment approach. Cancer immunotherapy began with treatments that nonspecifically activated the immune system and had limited efficacy and/or significant toxicity. In contrast, newer immunotherapy treatments can activate specific, potent immune cells, leading to improved safety and efficacy. Within the immunotherapy category, treatments have included vaccines, cytokine therapies, antibody therapies, and adoptive cell therapies.
+ 
+In 1996, Dr. Dana Leach, Dr. Matthew Krummel and Dr. James Allison reported that monoclonal antibodies (“mAbs”) blocking CTLA-4 could treat tumors in animal models. Subsequently, mAbs that targeted CTLA-4 and PD-1 became known as “immune checkpoint inhibitors” (“ICIs”). Immune checkpoints are a means by which cancer cells inhibit or turn down the body’s immune response to cancer. By interfering with these cloaking mechanisms, ICIs have shown an ability to activate T cells, shrink tumors, and improve patient survival. Recent clinical data from checkpoint inhibitors such as ipilimumab, nivolumab and pembrolizumab have confirmed both the validity of this approach and the importance of T cells as promising tools for the treatment of cancer.
+ 
+Despite these many advances, there persists a significant unmet need in cancer therapeutics. We believe that the use of human cells as a therapeutic modality to re-engage the immune system will be the next significant advancement in the treatment of cancer. These cellular therapies may avoid the long-term side effects associated with current treatments and have the potential to be effective regardless of the type of previous treatments patients have experienced.
+ 
+T Cell Therapy Overview
+ 
+The field of adoptive cell transfer (“ACT”) is currently comprised primarily of CAR and TCR engineered T cells and has emerged from principles of basic immunology to become a paradigm-shifting clinical immunotherapy. T cell therapy has evolved as one of the most promising branches of immunotherapy. T cell immunotherapy involves the infusion of immune cells into a patient. Immune cells used for immunotherapy treatments can either be collected from the patient (autologous) or harvested from a donor (allogeneic). The cells are retrieved and either genetically modified to express tumor-specific CARs or TCRs or mixed with specific antigens. The cells are then cultured to proliferate and the proliferated cells are infused into the patient. Upon infusion, the cells can target and eliminate cancerous cells. Unlike chemotherapy, which is unable to distinguish between healthy and malignant cells, T cells produced for immunotherapy can selectively attack cancer cells that express the target antigen(s). This leads to a more effective treatment platform with fewer side effects. Some of these infused T cells may remain in the body for long periods of time, providing immunological memory, thus leading to longer and more durable responses.
+ 
+TCRs and CARs have distinct signaling properties and antigen sensitivities. TCRs recognize peptide fragments from proteins expressed either inside the cell or on the cell surface, which are presented to T cells via a major histocompatibility complex (“MHC”). CARs are programmed to recognize a specific cell surface protein. Because CARs are specific for a single antigen, or more precisely a single epitope within the single antigen, they are very narrowly focused and come with limitations. When a CAR-T cell product is applied to a specific antigen of a heterogeneous disease, CAR-T cells may leave behind tumor cells that do not express the target antigen, which can lead to tumor relapse due to immune escape.
+ 
+Our approach is to avoid genetic engineering by relying upon the native T cell receptor, which has evolved over millions of years to provide T cells with an exquisite capacity to recognize and kill cancer cells. Use of the native T cell receptor is the bedrock of our versatile immunotherapy, which is intended to provide a cost-effective and non-toxic strategy to target multiple tumor antigens and lead to durable responses. The process entails expanding tumor-specific T cells from patients (autologous), or a patient’s hematopoietic stem cell donor (allogeneic). This is achieved by in vitro manipulation consisting of co-culturing a patient’s or donor’s antigen presenting cells with patient (or donor) peripheral blood mononuclear cells (“PBMCs”), respectively. As a source of antigen, we use overlapping peptide libraries spanning each of several immunogenic target antigens that are typically associated with certain types of cancer. These peptides are 15 amino acids in length, overlapping by 11 amino acids and span the entire length of each of the target antigens. This typical footprint of peptides allows us to induce both CD4+ (helper) and CD8+ (cytotoxic) T cells. Following manufacture, these cells are frozen and stored for later infusion. Once infused, the natural characteristics of T cells take over and the T cells multiply in quantity, forming an army of T cells that kill the targeted cancer cells.
+ 
+
+5
+-
+
+Process Development and Manufacturing
+ 
+We are advancing two MultiTAA T cell products through clinical development:(a) Mixed Antigen Peptide Pool (“MAPP”) T cells currently used for patients with lymphoma, multiple myeloma (“MM”) and selected solid tumors, is an autologous product that targets the NY-ESO-1, PRAME, MAGE-A4, Survivin and SSX2 antigens; and (b) Leukemia Antigen Peptide Pool (“LAPP”) T cells, currently used for patients with AML, is an allogeneic product targeting the WT1, NY-ESO-1, PRAME, and Survivin antigens using the blood of the stem cell donor as a source of the cells used for therapy. While the blood source and the antigens for stimulation differ between the LAPP and the MAPP products, the manufacturing process for each product is otherwise identical.
+ 
+In the manufacturing process, blood is drawn from either the individual patient (in the case of the autologous MAPP T cells) or from the allogeneic stem cell transplant donor (in the case of the allogeneic LAPP T cells). Although the T cells that are selected and expanded by our process exist in a patient’s circulating blood, these T cells are often present at very low frequencies. Researchers at BCM believe that these T cells are adversely affected by the suppressive tumor microenvironment. It is a well-accepted concept that cancers not only evade immune detection but often actively suppress the function of the human immune system. Our manufacturing and culturing process is intended to (i) identify the T cells specific for the antigens that we intend to target, (ii) restore these T cells to functionality with respect to their anti-tumor capability and (iii) expand the population of those T cells specific for our targets to achieve the required patient dose.
+ 
+After blood is drawn, PBMCs are isolated and cryopreserved. Sufficient numbers of cryopreserved PBMCs are taken to be used to manufacture a patient-specific product. These cells are placed inside a G-Rex® manufacturing device or standard plasticware and combined with an experimentally optimized mix of GMP-grade cytokines that is used to restore and enhance the functional capability of the cultured T cells.
+ 
+In addition, libraries of overlapping peptides (“pepmix”) spanning the target antigens are combined and added to the cell culture. Each peptide within the pepmix represents a small segment of a target antigen, which a T cell might recognize. Each library represents the entire protein sequence of a target antigen, with each peptide in the pepmix overlapping significantly with the peptides adjacent to it within the antigen’s protein sequence. This overlapping structure allows us to isolate, activate and expand any T cell that is specific for any segment of the antigens that we target in the unique genetic background of every patient.
+ 
+The G-Rex® is a cell culture device manufactured by Wilson Wolf used by many cell therapy developers, both in commercial and academic settings. The device allows a user to introduce cells, media and other reagents into a cell culture chamber, which has a gas-permeable membrane at its bottom. The cells settle on this gas-permeable membrane through which oxygen and carbon dioxide are exchanged (i.e. the cells can breathe at the base of the device), while nutrients required for cell expansion are obtained from the medium above the cells. This system allows for the highly robust growth of cells in culture, by providing them with superior access to oxygen and nutrients. Cells manufactured in the device grow efficiently without need for agitation by a technician, scientist or automated system.
+ 
+Inside the G-Rex® or the regular plasticware, PBMCs are co-cultured with antigen-presenting cells that have been exposed to the stimulating pepmixes. This results in the selective expansion of T cells that specifically recognize the target antigens. At the end of the manufacturing process, the resulting product is a mix of helper (CD4+) and cytotoxic (CD8+) T cells that recognize the antigens we are targeting.
+ 
+Once cell manufacturing is complete, the product is tested for identity, sterility, phenotype, and safety before it is released for infusion into a patient. Sampling of product indicates that, on average, approximately 4,000 different T cell clonotypes are present in a typical 5-antigen-specific patient product.
+ 
+Upon release of the final patient product, the cells are frozen and transported to the site where the cells will be administered. The standard dose for patients with lymphoma, AML or myeloma ranges from 5 – 20 million cells per meter squared (compared to typical doses of 10 – 40 million cells per adult patient). These cell doses represent a significantly smaller dose of cells, when compared to CAR-T or TCR therapies. As a result, our therapy requires only a very small infusion volume that can be administered to patients within minutes at an outpatient center. Due to the low incidence of adverse events with our therapies, patients do not need to be hospitalized and monitored overnight. Instead, the patients are evaluated for any immediate infusion-related reactions and can then usually be discharged within two hours.
+ 
+
+6
+-
+
+
+7
+-
+
+Clinical-stage MultiTAA T Cell Therapy
+ 
+
+ 
+
+(1) Baylor College of Medicine
+ 
+Our MAPP and LAPP product candidates identify and select for substantially all T cells that are specific for any peptide derived from the targeted antigens, thereby recognizing and killing heterogeneous tumors more effectively than single-antigen targeted approaches. These product candidates are currently in Phase I clinical trials for lymphoma, AML/myelodysplastic syndromes (“MDS”), and multiple myeloma (“MM”) at BCM and each of these programs is ready for initiation of Phase II. BCM has also initiated Phase I trials in acute lymphocytic leukemia (“ALL”), breast and pancreatic cancers.
+ 
+In lymphoma, MAPP T cell therapy is currently in a Phase I trial that has treated 15 patients with active disease (“lymphoma active group”), of which all 15 patients had follow-up date beyond 3 months post-infusion, and 17 patients in remission (“lymphoma adjuvant group”). No SAEs or CRS have been observed in any of these patients.
+ 
+Of the 15 patients in the lymphoma active group, 6 patients demonstrated a complete response, 3 patients had durable stable disease and 6 patients had transient disease stabilization (range 3 – 9 months). None of the complete responder patients has subsequently progressed after receiving MAPP T cells. The duration of response for the complete responder patients ranged from 5 months to over 5 years (ongoing). Of the 17 patients in the lymphoma adjuvant group, 15 patients were in a continuing complete response, at the time of data cutoff. The duration of response for these patients ranged from 3 to over 48 months.
+ 
+In post-transplant AML, a setting where currently the only available alternative therapy is a donor lymphocyte infusion (“DLI”), we have seen significant therapeutic benefit for patients, without causing graft-versus-host disease (“GVHD”) — a frequent side effect of DLIs. LAPP T cell therapy is currently in a Phase I trial that has treated 6 patients with active disease (“AML/MDS active group”) after allogeneic hematopoietic stem cell transplant (“HSCT”), and 13 patients in remission after HSCT (“AML/MDS adjuvant group”), of which 11 patients were evaluable. One patient had a transient elevation in liver enzymes. Otherwise there were no possibly/probably related SAEs, nor episodes of CRS.
+ 
+
+8
+-
+
+ 
+
+Of the 6 evaluable patients in the AML/MDS active group, 1 patient demonstrated a complete response which was durable for 13 months, 1 patient demonstrated a partial response that enabled that patient to receive a second allogeneic stem cell transplant, and 2 additional patients, who did not meet partial response criteria, experienced disease stabilization enabling a 2-month delay to next-line therapy. Two patients were non-responsive to MultiTAA therapy and progressed with relapsed/refractory disease. One patient demonstrated ongoing stable disease. The duration of response for the complete or partial response patients ranged from 7 to 11 months. Overall survival ranged from 4 to 21 months after T cell infusions. Of the 11 evaluable patients in the AML/MDS adjuvant group, 9 patients demonstrated a continued complete response. The duration of response for these patients ranged from 6 weeks to 2.5 years. Two patients saw local relapse in the central nervous system, but in both cases these patients were successfully treated with local therapy alone. One patient saw extramedullary relapse and was subsequently treated in the active disease arm of the trial, generating a CR that was durable for 13 months. One patient relapsed 8 months after receiving MultiTAA T cells but following a second allogeneic stem cell transplant this patient remains alive in relapse 1.5 years following his initial T cell infusion.
+ 
+MAPP T cell therapy is also being evaluated at BCM in a Phase I/II trial for patients with MM. One arm of this trial assessed patients who received MAPP T cells more than 90 days after an autologous stem cell transplant (“ASCT”), while a second arm assessed patients who received MAPP T cells within 90 days of ASCT. We have not seen a meaningful difference in response rates or durability between the two arms and intend to standardize future trials based upon a protocol wherein patients will receive MAPP T cells immediately post ASCT.
+ 
+Of the patients evaluated in the MM trial, there were 10 patients with residual active disease, 8 of whom were evaluable with greater than 3 months of available follow-up date. Of these evaluable patients, 1 patient demonstrated complete response and 3 patients demonstrated partial responses. The duration of response ranged from 6 to 29 months. Additionally, there were 8 patients treated in remission after ASCT and all were evaluable. Seven of the 8 patients remain in continuing complete remission. The duration of response for these patients ranged from 6 to 22 months.
+ 
+BCM Exclusive License Agreement
+ 
+On March 16, 2018, we entered into an exclusive license agreement (the “BCM License Agreement”) with BCM, under which we received a worldwide, exclusive license to BCM’s rights in and to certain intellectual property rights including European patent EP 2470644 (estimated expiration date August 24, 2030) to develop and commercialize MultiTAA product candidates in exchange for an initial issuance of equity in the Company and future royalties and milestone payments.
+ 
+Exclusive license to BCM’s Subject Technology:
+ 
+1. “Generation of CTL Lines with Specificity Against Multiple Tumor Antigens or Multiple Viruses”
+ 
+2. “Pepmixes to Generate Multiviral CTLs with Broad Specificity”
+ 
+3. “Immunogenic Antigen Identification from a Pathogen and Correlation to Clinical Efficacy”
+ 
+In partial consideration for the exclusive rights granted under the BCM License Agreement, prior to the Merger, Marker Cell issued shares of Marker Cell common stock to BCM valued at approximately $5.0 million at the time of issuance. Such initial equity issuance was exchanged into merger consideration of 1,490,813 shares of our common stock and warrants to acquire 540,643 shares of our common stock. Additional consideration includes a royalty paid on net sales by us to BCM according to the royalty schedule in the BCM License Agreement. The royalty fee schedule is based on aggregate net sales in four different ranges: (1) less than $500M, (2) $500M to $1.0B, (3) $1.0B and over, and (4) $2.0B and over. The corresponding royalty percentages range from 0.65% to 5.0% - increasing in proportion to the aggregate net sales. The royalty fee may be reduced in the event that we must pay additional royalties with respect to third-party owned patent rights or technology necessary for the use, manufacture or sale of a licensed product. We also agreed to pay BCM one-time milestone payments upon the occurrence of nine particular milestones relating to completion of the first dosing in clinical trials for a first and second distinct product, receipt of approval from the FDA, and hitting certain net sales goals. Under the agreement, we may be obligated to make aggregate milestone payments of up to $64.85 million. We are also responsible for sublicensing fees. In addition, under the BCM License Agreement, we are responsible for reimbursing BCM for patent-related expenses. We will be responsible for filing, prosecuting and maintaining all patent applications and patents included in the licensed patent rights and all such related legal costs incurred after the date of the BCM License Agreement, except such legal costs shall be reduced on a pro-rata basis on a patent or patent application basis should BCM license such patent or patent application in additional fields of use to any third party.
+
+9
+-
+
+ 
+
+In addition, upon a liquidity event (as defined in the BCM License Agreement) of the Company, BCM will receive a liquidity incentive payment of 0.5% of the liquidity event proceeds (as defined in the BCM License Agreement) received by us or our stockholders in the liquidity event.
+ 
+We have agreed to indemnify BCM and certain persons affiliated with BCM against claims and liabilities directly or indirectly related to or arising out of the design, process, manufacture or use by any third party of the licensed products, even though such claims and liabilities result in whole or in part from the negligence of the BCM indemnified parties or are based upon doctrines of strict liability or product liability, but not claims or liabilities arising from the gross negligence or intentional misconduct of any such BCM indemnified parties.
+ 
+Unless terminated sooner, the license will expire on a licensed product-by-product basis and country by country basis, on the later of (i) the date of expiration of the last valid claim of patent rights to expire that covers the sale of such licensed product in such country, or (ii) the first date following the tenth anniversary of the first commercial sale of first licensed product by us in such country. After such expiration, but not termination, the licenses granted to us shall survive and become a perpetual, paid-in-full license in such country with respect to such licensed product.
+ 
+We have the right in our sole discretion to terminate the BCM License Agreement upon 60 days’ written notice to BCM. BCM has the right to terminate the agreement upon material default or failure of us of our overall obligation to perform any of the terms, covenants or provisions of the license agreement, including failure to make timely payment, taken as a whole, and which default or failure remains uncured thirty days after written notice from BCM of such material default or failure to correct such default or failure. Notwithstanding the foregoing, if a material default or failure is not susceptible to cure within the 30-day cure period, BCM’s right to terminate shall be suspended if, and for so long as, (i) we have provided BCM with a written plan that is reasonably calculated to effect a cure, (ii) such plan is reasonably acceptable to BCM, in its sole but reasonable discretion, and (iii) we commit to and do carry out such plan; provided, however, that, unless mutually agreed to by the parties in such plan, such suspension of BCM’s right to terminate shall not extend beyond 60 days after the original cure period. In addition, either party’s right to terminate the license agreement shall be tolled for so long as dispute resolution procedures are being pursued by the allegedly breaching party in good faith, and if it is finally and conclusively determined that the allegedly breaching party is in material breach, then the breaching party shall have the right to cure within 30 days after such determination. BCM also has the right to terminate the agreement if we shall (i) become involved in insolvency, dissolution, bankruptcy or receivership proceedings affecting the operation of our business, (ii) make an assignment of all or substantially all of our assets for the benefit of creditors, or (iii) if a receiver or trustee is appointed for us and we shall, after the expiration of 30 days following any of the enumerated events, are unable to secure a dismissal, stay or other suspension of such proceedings.
+ 
+In the event of termination of the BCM License Agreement, but not expiration, all rights to the subject technology and patent rights thereunder shall revert to BCM, except to the extent necessary to exercise any surviving right or license thereunder. We may sell any licensed products actually in its possession at the effective date of termination, provided that we continue to pay to BCM royalties on all such sales in accordance with the license agreement and otherwise complies with the terms of the license agreement and sells all such licensed products within six months after the effective date of the termination.
+ 
+On November 16, 2018, in furtherance of the BCM License Agreement and as contemplated by the terms thereof, we entered into a Sponsored Research Agreement (“SRA”) with BCM, which provided for the conduct of research for us by credentialed personnel at BCM’s Center for Cell and Gene Therapy. Each of Dr. Vera and Dr. Leen also serve as our Chief Development Officer and Chief Scientific Officer, respectively. The SRA has a four-year term and the research is to be supervised at BCM by co-investigators Dr. Vera and Dr. Leen. Pursuant to the SRA, we have agreed to pay BCM up to $256,272 for years one and two under the SRA with $76,882 paid up front and $153,764 paid in equal monthly installments over two years. Payments for years three and four are to be covered by an amendment
+ 
+We will need to enter into additional agreements with BCM with respect to (i) a strategic alliance to advance pre-clinical research, early stage clinical trials, and Phase II clinical trials with respect to our product candidates, as well as continued access to our clinical data, and (ii) product manufacturing and support, including personnel and space at the institution for the foreseeable future.
+ 
+
+10
+--
+
+Mayo Foundation for Medical Education and Research Relationships
+ 
+We have exclusively licensed the intellectual property for our TPIV100/110 HER2/neu breast cancer vaccine and TPIV200 folate receptor alpha vaccine product candidates from the Mayo Foundation for Medical Education and Research (the “Mayo Foundation”).
+ 
+As part of our business strategy, we establish business relationships, including collaborative arrangements with other companies and medical research institutions to assist in the clinical development of certain of our drugs and drug candidates and to provide support for our research programs.
+ 
+Below is a brief description of our significant business relationships and collaborations and related license agreements with Mayo Foundation that expand our pipeline and provide us with certain rights to existing and potential new products and technologies.
+ 
+On May 26, 2010, we signed a Technology Option Agreement with the Mayo Foundation in Rochester, Minnesota, for the evaluation of HER2/neu peptide epitopes as antigens for a breast cancer vaccine. The agreement grants us an exclusive worldwide option to become the exclusive licensee of the technology after completion of Phase I clinical trials.
+ 
+Following approval of the IND by the FDA in July 2011, we executed a Sponsored Research Agreement with the Mayo Foundation for the clinical trial.
+ 
+Mayo Patent & Know-How License:
+ 
+On March 25, 2012, we entered into a Patent & Know-How License Agreement with the Mayo Foundation pursuant to which we acquired certain intellectual property rights from the Mayo Foundation for the development and commercialization of certain products, methods and processes property relating to a proprietary HER2/neu technology.
+ 
+The Mayo Foundation granted us a license (with a right to sublicense) on a worldwide basis to make, sell and use products for prophylactic and therapeutic use. This license is an exclusive license for products that are based on the intellectual property and non-exclusive for products that are based on Mayo Foundation know–how and materials. The intellectual property licensed includes U.S. patents 9,814,767 (estimated expiration date February 15, 2033) and 10,117,919 (estimated expiration date February 15, 2033) and European patent 2814836 (estimated expiration date February 15, 2033).
+ 
+Under this agreement, and subject to certain exceptions, we are responsible for, among other things, developing the technology under the Patent Rights to bring Licensed Products (as defined in the agreement) to market and costs of filing, prosecution and maintenance of the Patent Rights. Mayo Foundation controls the prosecution and maintenance of the Patent Rights in consultation with us.
+ 
+The Mayo Foundation granted this license in exchange for an upfront payment of $250,000 that we paid in three installments. In addition to the upfront payment, we are to pay an annual license maintenance fee, milestone fees, royalty fees (which will be subject to a minimum annual royalty fee once royalty fees are due), and a $500,000 diligence fee had a Phase I clinical trial for a Licensed Product not been initiated prior to the fifth anniversary of the agreement and a $2,000,000 diligence fee if we fail to initiate a Phase II clinical trial for a Licensed Product prior to the eighth anniversary of the agreement.
+ 
+We have agreed to indemnify and hold Mayo Foundation harmless from any damages caused as a result of (i) the practice or exercise of any rights and assignments granted by the agreement by or on behalf of us, any affiliate, or any sub-licensee; (ii) research, development, design, manufacture, distribution, use, sale, importation, exportation or other disposition of Licensed Products; (iii) our, any affiliates, or any sub-licensee’s act or omission; and (iv) third party suits for patent infringement involving a Licensed Product.
+ 
+The term of this agreement runs from March 25, 2012 until the date of the last to expire of the Valid Claims (as defined in the agreement), provided that Mayo Foundation may terminate the agreement if, among other matters, (i) 45 days after providing us with notice of a material breach of this agreement, we fail to cure such breach, (ii) we fail to initiate a Phase III clinical trial for a Licensed Product prior to the tenth anniversary of the agreement, and (iii) we cease to conduct business in the normal event of operations or become insolvent or bankrupt. We may voluntarily terminate the agreement at any time upon written notice to Mayo Foundation.
+ 
+
+11
+--
+
+Mayo HER2/neu License:
+ 
+On May 4, 2016, we entered into a License and Assignment Agreement with Mayo Foundation (“Mayo Foundation HER2/neu License”) pursuant to which we acquired certain intellectual property rights from the Mayo Foundation for the development and commercialization of certain products, methods and processes property relating to any cancer indication in which the HER2/neu antigen is overexpressed. The Mayo Foundation HER2/neu License resulted from our exercise of an option that was issued pursuant to a Technology Option Agreement that we entered into with the Mayo Foundation on May 25, 2010.
+ 
+The Mayo Foundation granted us a license (with a right to sublicense) on a worldwide basis to make, sell and use products for therapeutic use against breast, ovarian, lung and any other cancers that overexpress HER2/neu antigens. This license is an exclusive license for products that are based on the intellectual property and non-exclusive for products that are based on Mayo Foundation know–how and materials. The intellectual property licensed includes European patent 2215111 (estimated expiration date October 30, 2028).
+ 
+Under the Mayo Foundation HER2/neu License, and subject to certain exceptions, we are responsible for, among other things, developing the technology under the Patent Rights to bring Licensed Products (both as defined in the Mayo Foundation HER2/neu License) to market and costs of filing, prosecution and maintenance of the Patent Rights. Mayo Foundation has sole control over the protection, defense, enforcement, maintenance abandonment and other handling of the Know-How (as defined in the Mayo Foundation HER2/neu License) and Materials (as defined in the Mayo Foundation HER2/neu License).
+ 
+The Mayo Foundation granted this license in exchange for an initial payment of $300,000. The Mayo Foundation assigned to us IND # 14749, and we assumed all responsibility and liability for this investigational new drug application. In addition to the initial payment, we are to pay an annual license maintenance fee, milestone fees and royalty fees (which will be subject to a minimum annual royalty fee once royalty fees are due).
+ 
+We have agreed to indemnify and hold Mayo Foundation harmless from any damages caused as a result of (i) the practice or exercise of any rights and assignments granted by the agreement by or on behalf of us or any sub-licensee; (ii) research, development, design, manufacture, distribution, use, sale, importation, exportation or other disposition of Licensed Products; (iii) our or any sub-licensee’s act or omission, including negligence or willful misconduct; and (iv) third party suits for patent infringement involving a Licensed Product.
+ 
+The term of this agreement runs from May 4, 2016 until the date of our last obligation to make payments under the agreement, provided that Mayo Foundation may terminate the agreement if, among other matters, (i) 30 days after providing us with notice of a material breach of this agreement, we fail to cure such breach, (ii) 90 days after providing us with written notice, we fail to meet either of the following diligence events (a) initiate a Phase II clinical trial for a Licensed Product prior to the second anniversary of the agreement and, once initiated, keep current on all of our Phase II funding obligations and (b) initiate a Phase IIB or III clinical trial for a Licensed Product prior to the fifth anniversary of the agreement, (iii) we fail to make a sale of a Licensed Product by May 4, 2026, and (iv) we cease to conduct business in the normal event of operations or become insolvent or bankrupt. We may voluntarily terminate the agreement at any time upon written notice to Mayo Foundation.
+ 
+Mayo Folate Receptor Alpha License:
+ 
+On July 21, 2015, we entered into a License and Assignment Agreement with Mayo Foundation (“Mayo Foundation FRa License”) pursuant to which we acquired certain intellectual property rights from the Mayo Foundation for the development and commercialization of certain products, methods and processes property relating to a Folate Receptor Alpha immunotherapeutic vaccine comprised of a set of unique peptide epitopes targeting breast, lung and ovarian cancer. The Mayo Foundation FRa License resulted from our exercise of an option that we acquired from Ayer Special Situations Fund I, LP (“Ayer”) that was issued pursuant to a Technology Option Agreement that Ayer entered into with the Mayo Foundation on March 18, 2014.
+
+12
+--
+
+ 
+
+The Mayo Foundation granted us a license (with a right to sublicense) on a worldwide basis to make, sell and use products for therapeutic use against breast, ovarian, lung and other cancers that express Folate Receptor Alpha. This license is an exclusive license for products that are based on the intellectual property and non-exclusive for products that are based on Mayo Foundation know–how and materials. The intellectual property that is licensed includes US patents 8,486,412 (estimated expiration date April 3, 2029), 8,858,952 (estimated expiration date March 10, 2031), 9,243,033 (July 10, 2027) and 9,915,646 (estimated expiration date June 1, 2027).
+ 
+Under the Mayo Foundation FRa License, and subject to certain exceptions, we are responsible for, among other things, developing the technology under the Patent Rights to bring Licensed Products (both as defined in the Mayo Foundation FRa License) to market and costs of filing, prosecution and maintenance of the Patent Rights. Mayo Foundation has sole control over the protection, defense, enforcement, maintenance abandonment and other handling of the Know-How (as defined in the Mayo Foundation FRa License) and Materials (as defined in the Mayo Foundation FRa License).
+ 
+The Mayo Foundation granted this license in exchange for an initial upfront payment of $350,000. The Mayo Foundation assigned to us IND # 14546, and we assumed all responsibility and liability for this investigational new drug application. In addition to the initial upfront payment, we are to pay additional upfront payments, an annual license maintenance fee, milestone fees and royalty fees (which will be subject to a minimum annual royalty fee once royalty fees are due).
+ 
+We have agreed to indemnify and hold Mayo Foundation harmless from any damages caused as a result of (i) the practice or exercise of any rights and assignments granted by the Mayo Foundation FRa License by or on behalf of us or any sub-licensee; (ii) research, development, design, manufacture, distribution, use, sale, importation, exportation or other disposition of Licensed Products; (iii) our or any sub-licensee’s act or omission, including negligence or willful misconduct; and (iv) third party suits for patent infringement involving a Licensed Product.
+ 
+The term of this agreement runs from July 21, 2015 until the date of our last obligation to make payments under this agreement, provided that the Mayo Foundation may terminate this agreement if, among other matters, (i) 30 days after providing us with notice of a material breach of this agreement, we fail to cure such breach, (ii) 90 days after providing us with written notice, we fail to meet either of the following diligence events (a) initiate a Phase II clinical trial for a Licensed Product prior to the 2nd anniversary of the Mayo Foundation FRa License and, once initiated, keep current on all of our Phase II funding obligations and (b) initiate a Phase IIB or III clinical trial for a Licensed Product prior to the 5th anniversary of the Mayo Foundation FRa License, (iii) we fail to make a sale of a Licensed Product by July 21, 2025 and (iv) we cease to conduct business in the normal event of operations or become insolvent or bankrupt. We may voluntarily terminate the Mayo Foundation FRa License at any time upon written notice to Mayo Foundation.
+ 
+Intellectual Property
+ 
+Our commercial success will depend in part on our ability to obtain and maintain patent and other proprietary protection for our technology, inventions, improvements, and know-how related to the business; to defend and enforce proprietary rights, including any patents that we may own in the future; to preserve the confidentiality of our trade secrets and other intellectual property; to obtain and maintain licenses to use intellectual property owned by third parties; and to operate without infringing the valid and enforceable patents and other proprietary rights of third parties. Our ability to stop third parties from making, using, selling, offering to sell, or importing our products may depend on the extent to which we have rights under valid and enforceable patents or trade secrets that cover these activities — in other words, the rights obtained under exclusive license arrangements such as those pursuant to our BCM License Agreement and our Mayo Foundation licenses. With respect to both licensed and company-owned intellectual property, we cannot be sure that patents will be granted with respect to any of our pending patent applications or with respect to any patent applications filed in the future, nor can we be sure that any of our existing patents or any patents that may be granted in the future will be commercially useful in protecting our commercial products and methods of manufacturing the same.
+ 
+To achieve this objective, a strategic focus for us has been to identify and license key patents and patent applications that serve to enhance our intellectual property and technology position. Currently, all of our MultiTAA intellectual property rights are licensed from BCM. Our intellectual property portfolio currently includes patent applications having: (1) claims directed to methods of generating multi-antigen specific T cell products; and (2) claims directed to therapeutic uses of such multi-antigen specific T cell products. We believe our patent portfolio, together with our efforts to develop and patent next-generation technologies, provides us with a substantial intellectual property position. However, the area of patent and other intellectual property rights in biotechnology is an evolving one with many risks and uncertainties. 
+ 
+
+13
+--
+
+Patents
+ 
+Patents and other proprietary rights are vital to our business operations. We protect our technology through various United States and foreign patent filings and maintain trade secrets that we own. Our policy is to seek appropriate patent protection both in the United States and abroad for our proprietary technologies and product candidates. An enforceable patent with appropriate claim coverage can provide an advantage over competitors who may seek to employ similar approaches to develop therapeutics, and so the future commercial success of products, and therefore our future success, will be in part dependent on our intellectual property strategy. The information provided in this section should be reviewed in the context of the information disclosed elsewhere in this annual report under “Risk Factors”. We reassess the value of each patent at the time maintenance fees are due, and in cases where maintaining the patent is judged to be of no significant strategic value, we decline to pay the maintenance fee.
+ 
+There can be no assurance that our patents, and any patents that may be issued or licensed to us in the future, will afford protection against competitors with similar technology. In addition, no assurances can be given that the patents issued or licensed to us will not be infringed upon or designed around by others or that others will not obtain patents that we would need to license or design around. If the courts uphold existing or future patents containing broad claims over technology used by us, the holders of such patents could require us to obtain licenses to use such technology. Patent coverage may also vary from country to country based on the scope of available patent protection. There are also opportunities to obtain an extension of patent coverage for a product in certain countries, which adds further complexity to the determination of patent life.
+ 
+We currently have a number of issued and pending patents covering composition of matter of our PolyStart™ technology including: U.S. 9,364,523 (estimated expiration date March 17, 2035); U.S. 9,655,956 (estimated expiration date March 17, 2035); U.S. 9,988,643 (estimated expiration date March 17, 2035); and U.S. 10,030,252 (estimated expiration date March 17, 2035)
+ 
+The effect of the issued United States patents is that they provide us with patent protection for the claims covered by the patents. While the expiration of a product patent normally results in a loss of market exclusivity for the covered product or product candidate, commercial benefits may continue to be derived from: (i) later-granted patents on processes and intermediates related to the most economical method of manufacture of the active ingredient of such product; (ii) patents relating to the use of such product; (iii) patents relating to novel compositions and formulations; and (iv) in the United States and certain other countries, market exclusivity that may be available under relevant law. The effect of patent expiration on our product candidates also depends upon many other factors such as the nature of the market and the position of the product in it, the growth of the market, the complexities and economics of the process for manufacture of the active ingredient of the product and the requirements of new drug provisions of the Federal Food, Drug and Cosmetic Act or similar laws and regulations in other countries.
+ 
+Our pending patent applications cover a range of technologies, including specific embodiments and applications for treatment of various medical indications, improved application methods and adjunctive utilization with other therapeutic modalities. The coverage claimed in a patent application can be significantly reduced before the patent is issued. Accordingly, we do not know whether any of the applications we will acquire, or license will result in the issuance of patents, or, if any patents are issued, whether they will provide significant proprietary protection or will be challenged, circumvented or invalidated. Because unissued U.S. patent applications are maintained in secrecy for a period of eighteen months and U.S. patent applications filed prior to November 29, 2000 are not disclosed until such patents are issued, and since publication of discoveries in the scientific or patent literature often lags behind actual discoveries, we cannot be certain of the priority of inventions covered by pending patent applications. Moreover, we may have to participate in opposition proceedings in a foreign patent office, or for United States patent applications filed before March 16, 2013, in interference proceedings declared by the United States Patent and Trademark Office “USPTO”) to determine priority of invention, or in United States inter partes review or post-grant review procedures, any of which could result in substantial cost to us, even if the eventual outcome is favorable to us. There can be no assurance that the patents, if issued, would be held valid by a court of competent jurisdiction. An adverse outcome could subject us to significant liabilities to third parties, require disputed rights to be licensed from third parties or require us to cease using such technology.
+ 
+We have patents and patent applications in other countries, as well as in the European Patent Office that we believe provide equivalent or comparable protection for our product candidates in jurisdictions internationally that we consider to be key markets. Because of the differences in patent laws and laws concerning proprietary rights, the extent of protection provided by U.S. patents or proprietary rights owned by us may differ from that of their foreign counterparts.
+ 
+
+14
+--
+
+Trade Secrets
+ 
+We also rely on trade secrets and know-how relating to our proprietary technology and product candidates, continuing innovation, and in-licensing opportunities to develop, strengthen and maintain our proprietary position in the field of immuno-oncology. However, trade secrets can be difficult to protect. We also plan to rely on regulatory protection afforded through orphan drug designations, data exclusivity, market exclusivity and patent term extensions when available, as well as contractual agreements with our academic and commercial partners.
+ 
+We require each of our employees, consultants and advisors to execute a confidentiality agreement upon the commencement of any employment, consulting or advisory relationship with us. Each agreement provides that all confidential information developed or made known to the individual during the course of the relationship will be kept confidential and not be disclosed to third parties except in specified circumstances. In the case of employees, the agreements provide that all inventions conceived by an employee shall be our exclusive property.
+ 
+Trademarks
+ 
+We currently have pending with the USPTO applications for registration of the trademarks POLYSTART™ and “Marker Therapeutics.” We currently have the trademark “TapImmune” registered with the USPTO. We also have rights to use other names essential to our business. Federally registered trademarks have a perpetual life if they are maintained and renewed on a timely basis and used properly as trademarks, subject to the rights of third parties to seek cancellation of the trademarks if they claim priority or confusion of usage. We regard our trademarks and other proprietary rights as valuable assets and believe they have significant value to us.
+ 
+We believe that our patents, the protection of discoveries in connection with our development activities, our proprietary products, technologies, processes and know-how and all our intellectual property are important to our business. There can be no assurance that any of our patents, licenses or other intellectual property rights will afford us any protection from competition.
+ 
+Manufacturing
+ 
+Our manufacturing strategy is to contract with BCM and other third parties to manufacture our MultiTAA-specific T cells, as well as the raw materials, our active pharmaceutical ingredients (“API”) and finished solid dose products for our peptide vaccines for clinical and ultimately commercial uses. We currently do not operate manufacturing facilities for clinical or commercial production of our drug candidates. In addition, we expect for the foreseeable future to continue to rely on third parties for the manufacture of our clinical and commercial supply of MultiTAA-specific T cells, and of the raw materials, API and finished drug product for our peptide vaccines. Of note, we anticipate that product manufacturing of MultiTAA-specific cells in support of Phase I/II clinical trials will be conducted at BCM within its GMP cell manufacturing facility.
+ 
+In this manner, we expect to continue to build and maintain our supply chain and quality assurance resources.
+ 
+Manufacturing of our Products
+ 
+Our supply chain for manufacturing raw materials, API, peptide vaccines, as well as MultiTAA-specific T cell products ready for distribution and commercialization is a multi-step process. Establishing and managing the supply chain requires a significant financial commitment and the creation and maintenance of numerous third-party contractual relationships.
+ 
+We contract with third parties to manufacture our peptide vaccines and MultiTAA-specific T cells for clinical purposes. Third-party manufacturers supply us with raw materials for the peptide vaccines, and other third-party manufacturers convert these raw materials into API or convert the API into final dosage form. For most of our peptide vaccine candidates, once our raw materials are produced, we rely on different third parties to manufacture the API, to make finished drug product and to lyophilize, package and label the finished product. While we currently have focused on single vendors for manufacturing of peptide, formulation development, and lyophilization and vialing, we have access to numerous other vendors, if required. Similarly, BCM is currently the sole manufacturer of our MultiTAA-specific T cells.
+ 
+
+15
+--
+
+ 
+
+We may not be able to obtain sufficient quantities of any of our raw materials or peptide vaccine candidates if our designated manufacturers do not have the capacity or capability to manufacture our products according to our schedule and specifications. If any of these single source suppliers become unable or unwilling to supply us with API or finished product that complies with applicable regulatory requirements, we could incur significant delays in our clinical trials which could have a material adverse effect on our business. Similarly, if BCM become unable or unwilling to manufacture our MultiTAA-specific T cells that comply with applicable regulatory requirements, we could incur significant delays in our clinical trials which could have a material adverse effect on our business.
+ 
+For our future products, we may continue contracting third-party suppliers to manufacture sufficient quantities of our peptide vaccine and MultiTAA-specific T cell candidates for clinical and commercial supply. If we are unable to contract for large scale manufacturing with third parties on acceptable terms for our future products or develop manufacturing capabilities internally, our ability to conduct large scale clinical trials and ultimately meet customer demand for commercial products will be adversely affected.
+ 
+Third-party Manufacturers
+ 
+Our third-party manufacturers are independent entities subject to their own unique operational and financial risks which are out of our control. If our third-party manufacturers fail to perform as required, this could impair our ability to deliver our products on a timely basis or cause delays in our clinical trials and applications for regulatory approval. To the extent that these risks materialize and affect their performance obligations to us, our financial results may be adversely affected.
+ 
+While we believe there are multiple third-party suppliers available to provide most of the materials and services needed to manufacture our product candidates, and proper inventory planning is required for the materials that cannot be second-sourced, there is always a risk that we may underestimate demand and that our manufacturing capacity through third-party manufacturers may not be sufficient.
+ 
+Access to Supplies and Materials
+ 
+Our third-party manufacturers need access to certain supplies and products to manufacture our drug candidates. If delivery of material from their suppliers were interrupted for any reason or if they are unable to purchase sufficient quantities of raw materials used to manufacture our drug candidates, it could significantly delay our drug candidates in development for clinical trials.
+ 
+Competition
+ 
+Our drug discovery, development and ultimate commercialization activities face, and will continue to face, intense competition from organizations such as pharmaceutical and biotechnology companies, as well as academic and research institutions and government agencies. We face significant competition from organizations, particularly fully integrated pharmaceutical companies that are pursuing pharmaceuticals which are competitive with our drug candidates. Our product candidates may compete with product candidates from a number of companies, which are developing various types of similar in vivo T-cell immunotherapies and therapeutic cancer vaccines to treat cancer, including: Advaxis Inc., Genzyme Molecular Oncology, Immune Design, Oncothyreon, Celldex, BN Immunotherapeutics, Immunocellular, SELLAS Life Sciences Group, Inc. (formerly) Galena BioPharma, Antigen Express, Transgene S. A., and Bavarian Nordic. In addition, other adoptive T-cell therapies, monoclonal antibodies and checkpoint inhibitors also provide competition in the oncology space. In these areas, competitors include Iovance, Immatics, Torque Therapeutics, AdaptImmune, Mana Therapeutics, Juno Therapeutics/Celgene/Bristol Myers Squibb, Kite Pharma/Gilead, Novartis, Roche Pharmaceuticals, Merck & Co, AstraZeneca plc and Medimmune, LLC. We believe that our non-engineered T cells therapy and our in vivo T-cell therapy approaches will be synergistic and may improve therapies being developed by these competitors.
+ 
+Many companies and institutions, either alone or together with their collaborative partners, have substantially greater financial, technical and human resources, and significantly greater experience than we do in the following:
+ 
+
+16
+--
+
+
+· | drug discovery;
+--+----------------
+
+
+· | developing products;
+--+---------------------
+
+
+· | undertaking preclinical testing and clinical trials;
+--+-----------------------------------------------------
+
+
+· | obtaining FDA and other regulatory approvals of products; and
+--+--------------------------------------------------------------
+
+
+· | manufacturing, marketing, distributing and selling products.
+--+-------------------------------------------------------------
+
+ 
+Accordingly, our competitors may succeed in obtaining patent protection, receiving FDA and other regulatory approval or commercializing products that compete with our drug candidates.
+ 
+In addition, any drug candidate that we successfully develop may compete with existing therapies that have long histories of safe and effective use. Competition may also arise from:
+ 
+
+· | other drug development technologies and methods of preventing or reducing the incidence of disease;
+--+----------------------------------------------------------------------------------------------------
+
+
+· | new small molecules; or
+--+------------------------
+
+
+· | other classes of therapeutic agents.
+--+-------------------------------------
+
+ 
+We face, and will continue to face, intense competition from other companies for collaborative arrangements with pharmaceutical and biotechnology companies, for establishing relationships with academic and research institutions and for licenses to drug candidates or proprietary technology. These competitors, either alone or with their collaborative partners, may succeed in developing products that are more effective than ours.
+ 
+Our ability to compete successfully will depend, in part, on our ability to:
+ 
+
+· | develop proprietary products;
+--+------------------------------
+
+
+· | develop and maintain products that reach the market first, are technologically superior to and/or are of lower cost than other products in the market;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | attract and retain scientific, product development and sales and marketing personnel;
+--+--------------------------------------------------------------------------------------
+
+
+· | obtain patent or other proprietary protection for our products and technologies;
+--+---------------------------------------------------------------------------------
+
+
+· | obtain required regulatory approvals; and
+--+------------------------------------------
+
+
+· | manufacture, market, distribute and sell any products that we develop.
+--+-----------------------------------------------------------------------
+
+ 
+In a number of countries, including in particular, developing countries, government officials and other groups have suggested that pharmaceutical companies should make drugs available at a low cost. In some cases, governmental authorities have indicated that where pharmaceutical companies do not do so, their patents might not be enforceable to prevent generic competition. Some major pharmaceutical companies have greatly reduced prices for their drugs in certain developing countries. If certain countries do not permit enforcement of any of our patents, sales of our products in those countries, and in other countries could be reduced by generic competition or by parallel importation of our product. Alternatively, governments in those countries could require that we grant compulsory licenses to allow competitors to manufacture and sell their own versions of our products in those countries, thereby reducing our product sales, or we could respond to governmental concerns by reducing prices for our products. In all these situations, our results of operations could be adversely affected.
+ 
+
+17
+--
+
+Government Regulation
+ 
+Our ongoing research and development activities and any manufacturing and marketing of our drug candidates are subject to extensive regulation by numerous governmental authorities in the United States and other countries. Government authorities in the United States, at the federal, state and local level, and in other countries and jurisdictions, including the European Union, extensively regulate, among other things, the research, development, testing, manufacture, quality control, approval, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing, post-approval monitoring and reporting, and import and export of pharmaceutical products. The processes for obtaining regulatory approvals in the United States and in foreign countries and jurisdictions, along with subsequent compliance with applicable statutes and regulations and other regulatory authorities, require the expenditure of substantial time and financial resources.
+ 
+The failure to comply with applicable U.S. requirements at any time during the product development process, approval process or after approval may subject an applicant and/or sponsor to a variety of administrative or judicial sanctions, including refusal by the FDA to approve pending applications, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters and other types of letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement of profits, or civil or criminal investigations and penalties brought by the FDA and the Department of Justice (“DOJ”), or other governmental entities. The government regulations below may apply to any of our product candidates or anticipated pipeline of products.
+ 
+FDA Review and Approval Process
+ 
+The regulatory review and approval process is lengthy, expensive and uncertain. The steps generally required before a drug may be marketed in the United States include:
+ 
+
+· | preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA’s Good Laboratory Practice (“GLP”) and Good Manufacturing Practice (“GMP”) regulations;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission to the FDA of an Investigational New Drug application (“IND”) for human clinical testing, which must become effective before human clinical trials may commence;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | performance of adequate and well-controlled clinical trials in three phases, as described below, to establish the safety and efficacy of the drug for each indication;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission of a New Drug Application (“NDA”) or Biologics License Application (“BLA”) to the FDA for review;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+· | random inspections of clinical sites to ensure validity of clinical safety and efficacy data;
+--+----------------------------------------------------------------------------------------------
+
+
+· | satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the drug is produced to assess compliance with current good manufacturing practices;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | FDA approval of the NDA or BLA; and
+--+------------------------------------
+
+
+· | payment of user and establishment fees, if applicable.
+--+-------------------------------------------------------
+
+ 
+Similar requirements exist within foreign agencies as well. The time required to satisfy FDA requirements or similar requirements of foreign regulatory agencies may vary substantially based on the type, complexity and novelty of the product or the targeted disease.
+ 
+Preclinical testing includes laboratory evaluation of product pharmacology, drug metabolism, and toxicity which includes animal studies, to assess potential safety and efficacy as well as product chemistry, stability, formulation, development, and testing. The results of the preclinical tests, together with manufacturing information and analytical data, are submitted to the FDA as part of an IND. An IND will automatically become effective 30 days after receipt by the FDA, unless before that time, the FDA raises safety concerns or questions about the conduct of the clinical trial(s) included in the IND, which are further parsed into hold and non-hold questions/issues. In the case of hold issues, the IND sponsor and the FDA must resolve all FDA concerns or questions before clinical trials can proceed. We cannot be sure that submission of an IND will result in the FDA allowing clinical trials to commence.
+ 
+
+18
+--
+
+ 
+
+Clinical trials involve the administration of the investigational drug to human subjects under the supervision of qualified investigators and in accordance with good clinical practices regulations covering the protection of human subjects. These regulations require all research subjects to provide informed consent. Clinical trials are conducted under protocols detailing the objectives of the study, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. Each protocol must be submitted to the FDA as part of the IND and each trial must be reviewed and approved by an Institutional Review Board (“IRB”) before it can begin.
+ 
+Clinical trials typically are conducted in three sequential phases, but the phases may overlap or be combined. Phase I usually involves the initial introduction of the investigational drug into healthy volunteers to evaluate its safety, dosage tolerance, absorption, metabolism, distribution and excretion. Phase II usually involves clinical trials in a limited patient population to evaluate dosage tolerance and optimal dosage, identify possible adverse effects and safety risks, and evaluate and gain preliminary evidence of the efficacy of the drug for specific indications. Phase III clinical trials usually further evaluate clinical efficacy and safety by testing the drug in its final form in an expanded patient population, providing statistical evidence of efficacy and safety, and providing an adequate basis for labeling. We cannot guarantee that Phase I, Phase II or Phase III testing will be completed successfully within any specified period of time, if at all. Furthermore, we, the IRB, or the FDA may suspend clinical trials at any time on various grounds, including a finding that the subjects or patients are being exposed to an unacceptable health risk.
+ 
+As a separate amendment to an IND, a clinical trial sponsor may submit to the FDA a request for a Special Protocol Assessment (“SPA”). Under the SPA procedure, a sponsor may seek the FDA’s agreement on the design and size of a clinical trial intended to form the primary basis of an effectiveness claim. If the FDA agrees in writing, its agreement may not be changed after the trial begins, except when agreed by FDA or in limited circumstances, such as when a substantial scientific issue essential to determining the safety and effectiveness of a drug candidate is identified after a Phase III clinical trial is commenced and agreement is obtained with the FDA. If the outcome of the trial is successful, the sponsor will ordinarily be able to rely on it as the primary basis for approval with respect to effectiveness. However, additional trials could also be requested by the FDA to support approval, and the FDA may make an approval decision based on a number of factors, including the degree of clinical benefit as well as safety. The FDA is not obligated to approve an NDA or BLA as a result of a SPA agreement, even if the clinical outcome is positive.
+ 
+Even after initial FDA approval has been obtained, post-approval trials or Phase IV studies, may be required to provide additional data, and will be required to obtain approval for the sale of a product as a treatment for a clinical indication other than that for which the product was initially tested and approved. Also, the FDA will require post-approval safety reporting to monitor the side effects of the drug. Results of post-approval programs may limit or expand the indication or indications for which the drug product may be marketed. Further, if there are any requests for modifications to the initial FDA approval for the drug, including changes in indication, manufacturing process, manufacturing facilities, or labeling, a supplemental NDA or BLA may be required to be submitted to the FDA.
+ 
+The length of time and related costs necessary to complete clinical trials varies significantly and may be difficult to predict. Clinical results are frequently susceptible to varying interpretations that may delay, limit or prevent regulatory approvals. Additional factors that can cause delay or termination of our clinical trials, or cause the costs of these clinical trials to increase, include:
+ 
+
+· | slow patient enrollment due to the nature of the protocol, the proximity of patients to clinical sites, the eligibility criteria for the study, competition with clinical trials for other drug candidates or other factors;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | inadequately trained or insufficient personnel at the study site to assist in overseeing and monitoring clinical trials;
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+· | delays in approvals from a study site’s IRB;
+--+---------------------------------------------
+
+
+· | longer than anticipated treatment time required to demonstrate effectiveness or determine the appropriate product dose;
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+· | lack of sufficient supplies of the drug candidate for use in clinical trials;
+--+------------------------------------------------------------------------------
+
+
+· | adverse medical events or side effects in treated patients; and
+--+----------------------------------------------------------------
+
+
+19
+--
+
+
+· | lack of effectiveness of the drug candidate being tested.
+--+----------------------------------------------------------
+
+ 
+Any drug is likely to produce some toxicities or undesirable side effects in animals and in humans when administered at sufficiently high doses and/or for sufficiently long periods of time. Unacceptable toxicities or side effects may occur at any dose level. The appearance of any unacceptable toxicity or side effect could cause us or regulatory authorities to interrupt, limit, delay or abort the development of any of our drug candidates and could ultimately prevent their marketing approval by the FDA or foreign regulatory authorities for any or all targeted indications.
+ 
+Fast Track Designation and Accelerated Approval
+ 
+The FDA’s fast track and breakthrough therapy designation programs are intended to facilitate the development and expedite the review of drug candidates intended for the treatment of serious or life-threatening conditions and that demonstrate the potential to address unmet medical needs for these conditions. Under these programs, FDA can, for example, review portions of an NDA or BLA for a drug candidate before the entire application is complete, thus potentially beginning the review process at an earlier time.
+ 
+We cannot guarantee that the FDA will grant any of our requests for fast track or breakthrough therapy designations, that any such designations would affect the time of review or that the FDA will approve the NDA or BLA submitted for any of our drug candidates, whether or not these designations are granted. Additionally, FDA approval of a fast track/breakthrough product can include restrictions on the product’s use or distribution (such as permitting use only for specified medical conditions or limiting distribution to physicians or facilities with special training or experience). Approval of such designated products can be conditioned on additional clinical trials after approval.
+ 
+The FDA is required to facilitate the development, and expedite the review, of biologics that are intended for the treatment of a serious or life-threatening disease or condition for which there is no effective treatment, and which demonstrate the potential to address unmet medical needs for the condition. Under the fast track program, the sponsor of a new biologic candidate may request that the FDA designate the candidate for a specific indication as a fast track biologic concurrent with, or after, the filing of the IND for the candidate. The FDA must determine if the biologic candidate qualifies for fast track designation within 60 days of receipt of the sponsor’s request.
+ 
+Under the fast track program and FDA’s accelerated approval regulations, the FDA may approve a biologic for a serious or life-threatening illness that provides meaningful therapeutic benefit to patients over existing treatments based upon a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments.
+ 
+In clinical trials, a surrogate endpoint is a measurement of laboratory or clinical signs of a disease or condition that substitutes for a direct measurement of how a patient feels, functions, or survives. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. A biologic candidate approved on this basis is subject to rigorous post-marketing compliance requirements, including the completion of Phase 4 or post-approval clinical trials to confirm the effect on the clinical endpoint. Failure to conduct required post-approval trials, or confirm a clinical benefit during post-marketing trials, will allow the FDA to withdraw the biologic from the market on an expedited basis. All promotional materials for biologic candidates approved under accelerated regulations are subject to prior review by the FDA.
+ 
+In addition to other benefits such as the ability to use surrogate endpoints and engage in more frequent interactions with the FDA, the FDA may initiate review of sections of a fast track product’s BLA before the application is complete. This rolling review is available if the applicant provides, and the FDA approves, a schedule for the submission of the remaining information and the applicant pays applicable user fees. However, the FDA’s time period goal for reviewing an application does not begin until the last section of the BLA is submitted. Additionally, the fast track designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process.
+ 
+
+20
+--
+
+Breakthrough Therapy Designation
+ 
+The FDA is also required to expedite the development and review of the application for approval of biological products that are intended to treat a serious or life-threatening disease or condition where preliminary clinical evidence indicates that the biologic may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints.
+ 
+Under the breakthrough therapy program, the sponsor of a new biologic candidate may request that the FDA designate the candidate for a specific indication as a breakthrough therapy concurrent with, or after, the filing of the IND for the biologic candidate. The FDA must determine if the biological product qualifies for breakthrough therapy designation within 60 days of receipt of the sponsor’s request.
+ 
+Sponsors submit the results of preclinical studies and clinical trials to the FDA as part of an NDA or BLA. NDAs and BLAs must also contain extensive product manufacturing information and proposed labeling. Upon receipt, the FDA initially reviews the NDA or BLA to determine whether it is sufficiently complete to initiate a substantive review. If the FDA identifies deficiencies that would preclude substantive review, the FDA will refuse to accept the NDA or BLA and will inform the sponsor of the deficiencies that must be corrected prior to resubmission. If the FDA accepts the submission for review (then deemed a “filing”), the FDA typically completes the NDA or BLA review within a pre-determined time frame. Under the Prescription Drug User Fee Act, the FDA agrees to review NDAs and BLAs under either a standard review or priority review. FDA procedures provide for priority review of NDAs and BLAs submitted for drugs that, compared to currently marketed products, if any, offer a significant improvement in the treatment, diagnosis or prevention of a disease. The FDA seeks to review NDAs and BLAs that are granted priority status more quickly than NDAs and BLAs given standard review status. The FDA’s stated policy is to act on 90% of priority NDAs and BLAs within eight months of receipt (or six months after filing, which occurs 60 days after NDA or BLA submission). Although the FDA historically has not met these goals, the agency has made significant improvements in the timeliness of the review process. NDA and BLA review often extends beyond anticipated completion dates due to FDA requests for additional data or clarification, the FDA’s decision to have an advisory committee review, and difficulties in scheduling an advisory committee meeting. The recommendations of an advisory committee are not binding on the FDA.
+ 
+To obtain FDA approval to market a product, we must demonstrate that the product is safe and effective for the patient population that will be treated. If regulatory approval of a product is granted, the approval will be limited to those disease states and conditions for which the product is safe and effective, as demonstrated through clinical trials. Marketing or promoting a drug for an unapproved indication is prohibited. Furthermore, approval may entail requirements for post-marketing studies or risk evaluation and mitigation strategies, including the need for patient and/or physician education, patient registries, medication or similar guides, or other restrictions on the distribution of the product. If an NDA or BLA does not satisfy applicable regulatory criteria, the FDA may deny approval of an NDA or BLA or may issue a complete response, and require, among other things, additional clinical data or analyses.
+ 
+In Canada, the Therapeutic Products Directorate and the Biologics and Genetic Therapies Directorate of Health Canada (“HC”) ensure that clinical trials are properly designed and undertaken and that subjects are not exposed to undue risk. Regulations define specific Investigational New Drug submission (“IND”) application requirements, which must be complied with before a new drug can be distributed for trial purposes. The directorates currently review the safety, efficacy and quality data submitted by the sponsor and approve the distribution of the drug to the investigator. The sponsor of the trial is required to maintain accurate records, report adverse drug reactions, and ensure that the investigator adheres to the approved protocol. Trials in humans should be conducted according to generally accepted principles of good clinical practice. Management believes that these standards provide assurance that the data and reported results are credible and accurate, and that the rights, integrity, and privacy of clinical trial subjects are protected.
+ 
+Sponsors wishing to conduct clinical trials in Phases I through III of development must apply under a 30-day default system. Applications must contain the information described in the regulations, including: a clinical trial attestation; a protocol; statements to be contained in each informed consent form that set out the risks posed to the health of clinical trial subjects as a result of their participation in the clinical trial; an investigator’s brochure; applicable information on excipients (delivery vehicles); and chemistry and manufacturing information.
+ 
+The sponsor can proceed with the clinical trial if the directorates have not objected to the sale or importation of the drug within 30 days after the date of receipt of the clinical trial application and Research Ethics Board approval for the conduct of the trial at the site has been obtained. Additional information is available on Health Canada’s website - www.hc-sc.gc.ca.
+ 
+
+21
+--
+
+ 
+
+Outside the United States and Canada, our ability to market a product is contingent upon receiving a marketing authorization from the appropriate regulatory authorities. The requirements governing the conduct of clinical trials, marketing authorization, pricing and reimbursement vary widely from country to country. At present, foreign marketing authorizations are applied for at a national level, although within the European Union (“EU”), registration procedures are available to companies wishing to market a product in more than one EU member state. If the regulatory authority is satisfied that adequate evidence of safety, quality and efficacy has been presented, a marketing authorization may be granted. This foreign regulatory approval process involves all of the risks associated with FDA approval discussed above and may also include additional risks.
+ 
+Orphan Drug Designation
+ 
+The Orphan Drug Act provides incentives to manufacturers to develop and market drugs for rare diseases and conditions affecting fewer than 200,000 persons in the United States at the time of application for orphan drug designation. The first developer to receive FDA marketing approval for an orphan drug is entitled to a seven-year exclusive marketing period in the United States for the orphan drug indication. However, a drug that the FDA considers to be clinically superior to, or different from, another approved orphan drug, even though for the same indication, may also obtain approval in the United States during the seven-year exclusive marketing period.
+ 
+Under the FDA Modernization Act of 1997, designation as a Fast Track product for a new drug or biological product means that the FDA will take such actions as are appropriate to expedite the development and review of the application for approval of such product.
+ 
+Legislation similar to the Orphan Drug Act has been enacted in other countries outside of the United States, including the EU. The orphan legislation in the EU is available for therapies addressing conditions that affect five or fewer out of 10,000 persons, are life-threatening or chronically debilitating conditions and for which no satisfactory treatment is authorized. The market exclusivity period is for ten years, although that period can be reduced to six years if, at the end of the fifth year, available evidence establishes that the product does not justify maintenance of market exclusivity.
+ 
+Disclosure of Clinical Trial Information
+ 
+Sponsors of human clinical trials of FDA-regulated products, including biological products, are required to register and disclose certain clinical trial information. Information related to the product, patient population, phase of investigation, trial sites and investigators, and other aspects of the clinical trial is then made public as part of the registration. Sponsors are also obligated to discuss the results of their clinical trials after completion. Disclosure of the results of these trials can be delayed until the new product or new indication being studied has been approved. Competitors may use this publicly available information to gain knowledge regarding the progress of development programs.
+Pediatric Information
+ 
+Under the Pediatric Research Equity Act, or PREA, NDAs or BLAs or supplements to NDAs or BLAs must contain data to assess the safety and effectiveness of the biological product for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the biological product is safe and effective. The FDA may grant full or partial waivers, or deferrals, for submission of data. Unless otherwise required by regulation, PREA does not apply to any biological product for an indication for which orphan designation has been granted.
+Additional Controls for Biologics
+ 
+To help reduce the increased risk of the introduction of adventitious agents, the Public Health Service Act (“PHSA”) emphasizes the importance of manufacturing controls for products whose attributes cannot be precisely defined. The PHSA also provides authority to the FDA to immediately suspend licenses in situations where there exists a danger to public health, to prepare or procure products in the event of shortages and critical public health needs, and to authorize the creation and enforcement of regulations to prevent the introduction or spread of communicable diseases in the United States and between states.
+
+22
+--
+
+ 
+
+After a BLA is approved, the product may also be subject to official lot release as a condition of approval. As part of the manufacturing process, the manufacturer is required to perform certain tests on each lot of the product before it is released for distribution. If the product is subject to official release by the FDA, the manufacturer submits samples of each lot of product to the FDA together with a release protocol showing a summary of the history of manufacture of the lot and the results of all manufacturer’s tests performed on the lot. The FDA may also perform certain confirmatory tests on lots of some products, such as viral vaccines, before releasing the lots for distribution by the manufacturer. In addition, the FDA conducts laboratory research related to the regulatory standards on the safety, purity, potency, and effectiveness of biological products. As with drugs, after approval of biologics, manufacturers must address any safety issues that arise, are subject to recalls or a halt in manufacturing, and are subject to periodic inspection after approval.
+ 
+Regulation of Manufacturing Process
+ 
+Even when NDA or BLA approval is obtained, a marketed product, its manufacturer and its manufacturing facilities are subject to continual review and periodic inspections by the FDA. The manufacturing process for pharmaceutical products is highly regulated and regulators may shut down manufacturing facilities that they believe do not comply with regulations. Discovery of previously unknown problems with a product, manufacturer or facility may result in restrictions on the product, manufacturer or facility, including costly recalls or withdrawal of the product from the market. Manufacturing facilities are always subject to inspection by the applicable regulatory authorities.
+ 
+We and our third-party manufacturers are subject to current Good Manufacturing Practices (“GMP”), which are extensive regulations governing manufacturing processes, including but not limited to stability testing, record-keeping and quality standards as defined by the FDA and the European Medicines Agency. Similar regulations are in effect in other countries. Manufacturing facilities are subject to inspection by the applicable regulatory authorities. These facilities, whether our own or our contract manufacturers, must be inspected before we can use them in commercial manufacturing of our related products. We or our contract manufacturers may not be able to comply with applicable GMP and FDA or other regulatory requirements. If we or our contract manufacturers fail to comply, we or our contract manufacturers may be subject to legal or regulatory action, such as suspension of manufacturing, seizure of product, or voluntary recall of product. Furthermore, continued compliance with applicable Good Manufacturing Practices will require continual expenditure of time, money and effort on the part of us or our contract manufacturers in the areas of production and quality control and record keeping and reporting to ensure full compliance.
+ 
+Post-Approval Regulation
+ 
+Any products manufactured or distributed by us pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including record-keeping requirements, reporting of adverse experiences with the drug and other reporting, advertising and promotion restrictions. The FDA’s rules for advertising and promotion require, among other things, that our promotion be fairly balanced and adequately substantiated by clinical studies, and that we not promote our products for unapproved uses. We must also submit appropriate new and supplemental applications and obtain FDA approval for certain changes to the approved product, product labeling or manufacturing process. On its own initiative, the FDA may require changes to the labeling of an approved drug if it becomes aware of new safety information that the agency believes should be included in the approved drug’s labeling. The FDA also enforces the requirements of the Prescription Drug Marketing Act (“PDMA”) which, among other things, imposes various requirements in connection with the distribution of product samples to physicians.
+ 
+In addition to inspections related to manufacturing, we may be subject to periodic unannounced inspections by the FDA and other regulatory bodies related to the other regulatory requirements that apply to marketed drugs manufactured or distributed by us. The FDA also may conduct periodic inspections regarding our review and reporting of adverse events, or related to compliance with the requirements of the PDMA concerning the handling of drug samples. When the FDA conducts an inspection, the inspectors will identify any deficiencies they believe exist in the form of a notice of inspectional observations. The observations may be more or less significant. If we receive a notice of inspectional observations, we likely will be required to respond in writing, and may be required to undertake corrective and preventive actions in order to address the FDA’s concerns.
+ 
+
+23
+--
+
+ 
+
+There are a variety of state laws and regulations that apply in the states or localities where our drug candidates may be marketed. For example, we must comply with state laws that require the registration of manufacturers and wholesale distributors of pharmaceutical products in that state, including, in certain states, manufacturers and distributors who ship products into the state even if such manufacturers or distributors have no place of business within the state. Some states also impose requirements on manufacturers and distributors to establish the pedigree of product in the chain of distribution, including some states that require manufacturers and others to adopt new technology capable of tracking and tracing product as it moves through the distribution chain. Any applicable state or local regulations may hinder our ability to market, or increase the cost of marketing, our products in those states or localities.
+ 
+The FDA’s policies may change and additional government regulations may be enacted which could impose additional burdens or limitations on our ability to market products after approval. Moreover, increased attention to the containment of health care costs in the United States and in foreign markets could result in new government regulations which could have a material adverse effect on our business. We cannot predict the likelihood, nature or extent of adverse governmental regulation which might arise from future legislative or administrative action, either in the United States or abroad.
+ 
+Marketing Exclusivity
+ 
+The FDA may grant five years of exclusivity in the United States for the approval of NDAs for new chemical entities, and three years of exclusivity for supplemental NDAs, for among other things, new indications, dosages or dosage forms of an existing drug if new clinical investigations that were conducted or sponsored by the applicant are essential to the approval of the supplemental application. Additionally, six months of marketing exclusivity in the United States is available if, in response to a written request from the FDA, a sponsor submits and the agency accepts requested information relating to the use of the approved drug in the pediatric population. The six-month pediatric exclusivity is added to any existing patent or non-patent exclusivity period for which the drug is eligible. Orphan drug products are also eligible for pediatric exclusivity if the FDA requests and the company completes pediatric clinical trials. Under the Biologics Price Competition and Innovation Act, the FDA may grant 12 years of data exclusivity for innovative biological products.
+Health Law Compliance
+ 
+In addition to FDA laws and regulations, we must also comply with various federal and state laws and regulations pertaining to healthcare “fraud and abuse” laws which govern, among other things, our relationships with healthcare providers, and organizations such as specialty pharmacies, wholesalers and group purchasing organizations relating to the marketing and pricing of prescription drug products. Such laws include, without limitation, state and federal anti-kickback, fraud and abuse, false claims, privacy and security, and physician payment sunshine laws.
+ 
+The federal Anti-Kickback Statute makes it illegal for any person or entity, including a prescription drug manufacturer (or a party acting on its behalf) to knowingly and willfully, directly or indirectly, solicit, receive, offer, or pay any remuneration that is intended to induce the referral of business, including the purchase, order, lease of any good, facility, item or service for which payment may be made under a federal healthcare program, such as Medicare or Medicaid. The term “remuneration” has been broadly interpreted to include anything of value. Several courts have interpreted the statute’s intent requirement to mean that if any one purpose of an arrangement involving remuneration is to induce referrals of federal healthcare covered business, the Anti-Kickback Statute has been violated.
+ 
+Federal false claims and false statement laws, including the federal civil False Claims Act, prohibit, among other things, any person or entity from knowingly presenting, or causing to be presented, for payment to, or approval by, federal programs, including Medicare and Medicaid, claims for items or services, including drugs, that are false or fraudulent or not provided as claimed. Entities can be held liable under these laws if they are deemed to “cause” the submission of false or fraudulent claims by, for example, providing inaccurate billing or coding information to customers, promoting a product off-label, or for providing medically unnecessary services or items.
+ 
+The federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, created additional federal criminal statutes that prohibit among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors, knowingly and willfully embezzling or stealing from a healthcare benefit program, willfully obstructing a criminal investigation of a healthcare offense, and knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services.
+ 
+
+24
+--
+
+ 
+
+HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act, or HITECH, and their implementing regulations, require certain types of individuals and entities to protect the privacy, security, and electronic exchange of certain patient data.
+ 
+The federal Physician Payments Sunshine Act requires certain manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, with specific exceptions, to report annually to the Centers for Medicare & Medicaid Services, or CMS, information related to payments or other transfers of value made to physicians and teaching hospitals, and applicable manufacturers and applicable group purchasing organizations to report annually to CMS ownership and investment interests held by the physicians and their immediate family members.
+ 
+Analogous state and foreign laws and regulations, such as state anti-kickback and false claims laws, may apply to sales or marketing arrangements and claims involving healthcare items or services reimbursed by non-governmental third-party payors, including private insurers. Additionally, we may be subject to state laws that require pharmaceutical companies to comply with the pharmaceutical industry’s voluntary compliance guidelines and the relevant compliance guidance promulgated by the federal government. Further, we may be subject to state laws that require drug manufacturers to report information related to payments and other transfers of value to physicians and other healthcare providers or marketing expenditures, as well as state and foreign laws governing the privacy and security of health information in some circumstances, many of which differ from each other in significant ways and often are not preempted by HIPAA, thus complicating compliance efforts. If our operations are found to be in violation of any of these federal, state or foreign laws or regulations, we may be subject to penalties, including without limitation, administrative or civil penalties, imprisonment, damages, fines, disgorgement, exclusion from participation in government healthcare programs, contractual damages, reputational harm, diminished profits and future earnings, or the curtailment or restructuring of our operations.
+ 
+There are also an increasing number of state laws that require manufacturers to make reports to those states on certain pricing and marketing information. Many of these laws contain ambiguities as to what is required to comply with the laws. Given the lack of clarity in laws and their implementation, our reporting actions could be subject to the penalty provisions of the state authorities.
+ 
+Healthcare Reform and Reimbursement and Pricing Controls
+ 
+There has been an increased focus on drug pricing in recent years in the United States. Although there are no direct government price controls over private sector purchases in the United States, there are rebates and other financial requirements for federal and state health care programs. The Medicare Modernization Act, enacted in December 2003, established the Medicare Part D outpatient prescription drug benefit, which is provided primarily through private entities that attempt to negotiate price concessions from pharmaceutical manufacturers. The health care reform legislation enacted in 2010, known as the Affordable Care Act, requires drug manufacturers to pay 50% of the Medicare Part D coverage gap, also known as the “donut hole,” on prescriptions for branded products filled when the beneficiary reaches this coverage. The Deficit Reduction Act of 2005 resulted in changes to the way drug prices are reported to the government and the formula using such information to calculate the required Medicaid rebates. The Affordable Care Act increased the minimum basic Medicaid rebate for branded prescription drugs from 15.1% to 23.1% and requires pharmaceutical manufacturers to pay states rebates on prescription drugs dispensed to Medicaid managed care enrollees. In addition, the Affordable Care Act increased the additional Medicaid rebate on “line extensions” (such as extended release formulations) of solid oral dosage forms of branded products, revised the definition of average manufacturer price by changing the classes of purchasers included in the calculation, and expanded the entities eligible for discounted pricing under the federal 340B drug pricing program. Current orphan drugs are excluded from the expanded 340B hospitals eligible for discounts.
+ 
+The Affordable Care Act imposes a significant annual fee on companies that manufacture or import branded prescription drug products. The fee (which is not deductible for federal income tax purposes) is based on the manufacturer’s market share of sales of branded drugs and biologics (excluding orphan drugs) to, or pursuant to coverage under, specified U.S. government programs. The Affordable Care Act also contains a number of provisions, including provisions governing the way that health care is financed by both governmental and private insurers, enrollment in federal health care programs, reimbursement changes, the increased use of comparative effectiveness research in health care decision-making, and enhancements to fraud and abuse requirements and enforcement, that are affecting existing government health care programs and will result in the development of new programs. The Affordable Care Act also contains requirements for manufacturers to publicly report certain payments or other transfers of value made to physicians and teaching hospitals. We are unable to predict the future course of federal or state health care legislation and regulations, including regulations that will be issued to implement provisions of the Affordable Care Act. The Affordable Care Act and further changes in the law or regulatory framework that reduce our revenues or increase our costs could also have a material adverse effect on our business, financial condition and results of operations and cash flows.
+ 
+
+25
+--
+
+ 
+
+Public and private health care payors control costs and influence drug pricing through a variety of mechanisms, including through negotiating discounts with the manufacturers and through the use of tiered formularies and other mechanisms that provide preferential access to certain drugs over others within a therapeutic class. Payors also set other criteria to govern the uses of a drug that will be deemed medically appropriate and therefore reimbursed or otherwise covered. Payors may require physicians to seek approval from them before a product will be reimbursed or covered, commonly referred to as prior authorization. In particular, many public and private health care payors limit reimbursement and coverage to the uses of a drug that is either approved by the FDA or appears in a recognized drug compendium. Drug compendia are publications that summarize the available medical evidence for particular drug products and identify which uses of a drug are supported or not supported by the available evidence, whether or not such uses have been approved by the FDA. For example, in the case of Medicare Part D coverage for oncology drugs, the Medicare Modernization Act, with certain exceptions, provides for Medicare coverage of unapproved uses of an FDA-approved drug if the unapproved use is reasonable and necessary and is supported by one or more citations in CMS-approved compendia, such as the National Comprehensive Cancer Network Drugs and Biologics Compendium. Different pricing and reimbursement schemes exist in other countries. For example, in the European Union, governments influence the price of pharmaceutical products through their pricing and reimbursement rules and control of national health care systems that fund a large part of the cost of such products to consumers. The approach taken varies from member state to member state. Some jurisdictions operate positive or negative list systems under which products may only be marketed once a reimbursement price has been agreed. Other member states allow companies to fix their own prices for medicines but monitor and control company profits and may limit or restrict reimbursement. The downward pressure on health care costs in general, and prescription drugs in particular, has become very intense. As a result, increasingly high barriers are being erected to the entry of new products, as exemplified by the actions of the National Institute for Clinical Excellence in the United Kingdom, which evaluates the data supporting new medicines and passes reimbursement recommendations to the government. In addition, in some countries, cross-border imports from low-priced markets (parallel imports) exert a commercial pressure on pricing within a country.
+ 
+Other Federal and State Regulatory Requirements
+ 
+The Centers for Medicare & Medicaid Services, or CMS, has issued a final rule that implements a statutory requirement under the Healthcare Reform Act that requires applicable manufacturers of drugs, devices, biologicals, or medical supplies that are covered under Medicare, Medicaid, or the Children’s Health Insurance Program, or CHIP, to begin collecting and reporting annually information on payments or transfers of value to physicians and teaching hospitals, as well as investment interests held by physicians and their immediate family members. Manufacturers had to begin collecting information in 2013, with the first reports due in 2014. On September 30, 2014, CMS posted the first round of data in searchable form on a public website. Failure to submit required information may result in civil monetary penalties.
+ 
+In addition, several states now require prescription drug companies to report expenses relating to the marketing and promotion of drug products and to report gifts and payments to individual physicians in these states. Other states prohibit various other marketing-related activities. Still other states require the posting of information relating to clinical trials and their outcomes. In addition, California, Connecticut, Nevada, and Massachusetts require pharmaceutical companies to implement compliance programs and/or marketing codes. Several additional states are considering similar proposals. Compliance with these laws is difficult and time consuming, and companies that do not comply with these state laws face civil penalties.
+ 
+Product Liability and Insurance
+ 
+We face an inherent risk of product liability as a result of the clinical testing of our product candidates and will face an even greater risk if we commercialize any products. We have not experienced any product liability claims to date. We currently carry products and clinical trial liability insurance policies. There can be no assurance that liability claims will not exceed such insurance coverage limits, which could have a materially adverse effect on our business, financial condition or results of operations or that such insurance will continue to be available on commercially reasonable terms, if at all.
+
+26
+--
+
+Human Resources
+ 
+Employees
+ 
+As of December 31, 2018, we had 11 full-time employees. Three were in research and development and eight were in finance, legal, human resources or administrative support. None of our employees is subject to a collective bargaining agreement. We consider our relationship with our employees to be good.
+Consultants
+ 
+We have consulting agreements with a number of leading academic scientists, clinicians and regulatory experts. They serve as important contacts for us throughout the broader scientific and clinical communities. They are distinguished individuals with expertise in numerous fields, including cellular biology, molecular biology, oncology, clinical, manufacturing and regulatory.
+ 
+We retain each consultant according to the terms of a consulting agreement. Under such agreements, we pay them a consulting fee and reimburse them for out-of-pocket expenses incurred in performing their services for us. In addition, some consultants hold options to purchase our common stock, subject to the vesting requirements contained in separate award agreements. Our consultants may be employed by other entities and therefore may have commitments to their employer or may have other consulting or advisory agreements that may limit their availability to us.
+ 
+Available Information
+ 
+Our website is located at www.markertherapeutics.com. We make available free of charge on our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports, as soon as reasonably practicable after we electronically file or furnish such materials to the Securities and Exchange Commission. Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K.
+
+27
+--
+

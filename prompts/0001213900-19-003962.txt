@@ -1,0 +1,210 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business 
+Overview
+ 
+We are a leading provider of digital health messaging via electronic health records (EHRs), providing a direct channel for pharmaceutical companies to communicate with healthcare providers and patients. Our cloud-based solution supports patient adherence to medications by providing real-time access to financial assistance and critical clinical information. Our network is comprised of leading EHR platforms and provides more than half a million healthcare providers with access to these benefits within their workflow at the point of care.
+2018 Company Highlights
+ 
+
+1) | Our net revenue increased to a record $21.2 million in 2018, a 75% increase over 2017. 
+---+--------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | Our net revenue was a record $6.6 million in Q4 2018, up 65% over Q4 2017. 
+---+--------------------------------------------------------------------------------------------------------------------
+
+
+3) | We up-listed to the Nasdaq Capital Market in 2018. In connection with our up-listing, we completed a 1 for 3 reverse-split of our common stock and issued additional gross equity of $9.0 million and received net proceeds of $8.2 million. 
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4) | We acquired CareSpeak Communications, a leader in interactive health messaging for improved medication adherence and care coordination in October. 
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5) | We expanded our sales team and established a strong base, which helped drive record revenues for Q3 and Q4 2018 with expected continued revenue growth in 2019 and beyond. 
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6) | We acquired new pharmaceutical manufacturers and brands for our core offerings of Financial and Brand messaging for distribution through our expanding number of channel partners. 
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+7) | We launched our own clinical messaging platform on a pilot basis in Q4 2018 with one channel partner. 
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+8) | An independent analytics firm determined that investment returns from our pharmaceutical promotions with multiple pharmaceutical brands differentiate our programs as one of the most effective digital tactics available to pharmaceutical firms. 
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+1
+
+ 
+
+Pharmaceutical Sales and Marketing Updates
+ 
+Our sales team continues to expand our business with existing clients and with new clients. We are focused on adding additional brands for existing clients, providing new solutions, expanding the utilization of our network for existing brands, and obtaining new clients.
+ 
+Additionally, we have expanded our service offerings as follows:
+ 
+
+● | Brand Messaging – In 2018, we successfully built on the banner messaging platform that we launched in 2017 and have expanded the partners using the platform. We also developed our own clinical messaging system and launched it with our first partner in late 2018. We expect both of these to expand in 2019. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Brand Support – We have designed a service to better insure that manufacturer brands are available in every ePrescribing platform available, and we have incorporated this to an overall program related to launch brands that include brand awareness messaging and financial messaging. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We also have continued to ramp up our marketing efforts as follows:
+ 
+
+● | Co-hosted a plenary session, “Addressing Medication Adherence to Improve Quality of Care,” at the 12th Annual Digital Pharma East conference. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Presented at multiple investor conferences in 2018, including: Noble Capital Markets’ 13th Annual Investor Conference, 30th Annual Roth Conference, 7th Annual LD Micro Invitational and Annual LD Micro Main Event, Roth London conference, Lake Street Investor conference, and B Riley FBR investor conference. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+With the growth of both the number of our pharmaceutical clients and brands and our distribution network, we expect our distribution of messages will continue to increase substantially in 2019.
+ 
+Operational Update
+ 
+In 2019, we plan to expand our existing network and increase physician utilization of our partner networks. We continue to work individually with our partners to improve point-of-care workflow, increase overall revenue derived from each channel and increase coupon utilization by providers who have access. We are also focused on increasing the number of physicians who have access to our service offerings. In addition to revenue growth provided by new pharma brands and network partners, we believe there is significant revenue growth potential within existing brands by better utilizing our existing partner networks and expanding our product offerings.
+ 
+We completed the integration activities related to our acquisition of CareSpeak Communications, Inc and expect revenues from these patient engagement activities to ramp up substantially in 2019.
+ 
+Technology Updates
+ 
+To support our growth, we have migrated our platform to Oracle database software and to further improve the efficiency of our system, we have moved our software to Amazon Web Services.
+ 
+We have developed our own proprietary clinical messaging system designed to expand our ability to deliver key clinical messages in addition to financial support, and we plan to integrate this within EHRs that currently do not offer this valued product to their providers. We launched this system in 2018 with one channel partner and expect to launch it with additional partners in 2019.
+ 
+As a result of our acquisition of CareSpeak Communications, Inc., we now have a 7-person tech team based in Croatia to help develop further applications throughout the organization.
+ 
+2
+
+ 
+
+Principal Products and Applications
+ 
+Our principal products and applications can be summarized as follows:
+ 
+
+● | Financial Messaging – Our integrated financial messaging platform is a revolutionary virtual “Patient Support Center” that allows doctors and staff to access a universe of sample vouchers, co-pay coupons and other patient support through their EMR and/or e-Prescribe systems. It allows them to search, print or electronically dispense directly to patients and a national network of pharmacies. Our platform eliminates the need for physicians to manage and store physical drug samples by offering a more convenient and efficient way to allocate, administer and track samples and co-pay savings for their patients. Today, nearly 60% of doctor offices ban or limit drug representatives and the samples they offer. While samples are still valuable, our solution addresses the fact that many healthcare systems and doctors are looking for an easier, more effective way to increase affordable access and adherence to their prescribed branded medications. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Brand and Clinical Messaging – Our brand messaging services include a variety of brand awareness and clinical messaging services that can be tailored to meet the needs of a brand. These messages can include brand awareness messages, reminder ads, clinical messages and unbranded messages that can be targeted by specialty, diagnostic code and other criteria. Brand messaging is highly complementary to our core financial messaging product. Historically, we have sold brand messaging based on specific products offered by our EHR partners, but we have developed our own proprietary banner messaging system, rolled this product out in 2017, and expanded it in 2018. We also developed our own clinical messaging system and launched it with our first partner in late 2018. We believe brand messaging represents a significant growth opportunity for us. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Brand Support – Our brand support is focused on educating and working with pharmaceutical manufacturers on identifying, formulating, and implementing new eRx media strategies for promoting their products. Our services include: 1) Drug File Integration - a service designed to better insure that manufacturers’ drugs are present in every ePrescribing platform available; 2) Sales Force Training – a service to educate the extended field sales force on this new integrated solution and what to look for within their client base to insure maximum exposure of their brands; and 3) Strategy Development – a service that assists pharmaceutical manufacturers in identifying and building a competitive strategy to take advantage of this new digital frontier. Currently, this activity results in less than 10% of our revenue, but represents a significant growth opportunity for us. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Patient engagement – Our patient engagement activities arose out of our acquisition of CareSpeak Communications in October 2018. Our technology solution provides digital messaging services through our cloud based Mobile Health Messenger (“MHM”) Platform. We provide interactive health messaging for improved medication adherence and care coordination. Our HIPAA-compliant, automated, mobile messaging platform allows pharmaceutical manufactures and related entities to directly engage with patients to improve regimen compliance. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Marketing and Sales
+ 
+We continue to extend our marketing efforts to build both brand and capabilities awareness in the market. As previously discussed, we continue to actively participate in industry and partner events.
+ 
+We also continue to focus on the expansion of our strategic partnership with WPP, plc. We plan to continue to increase our marketing efforts with all of our strategic partners as we continue to promote our platform primarily through:
+ 
+
+● | Industry and Partner Events; 
+--+----------------------------------------------------------------------
+
+
+● | Email Campaigns; 
+--+----------------------------------------------------------
+
+
+● | Internet Marketing; 
+--+-------------------------------------------------------------
+
+
+● | Public Relations Campaigns; 
+--+---------------------------------------------------------------------
+
+
+● | Physician Offices; 
+--+------------------------------------------------------------
+
+
+● | Direct to Consumer Marketing; 
+--+-----------------------------------------------------------------------
+
+
+● | Trade Media Advertising; 
+--+------------------------------------------------------------------
+
+
+● | Pharmacy Partners; 
+--+------------------------------------------------------------
+
+
+● | Physician Organizations and Associations; and 
+--+---------------------------------------------------------------------------------------
+
+
+● | Strategic Relationships. 
+--+------------------------------------------------------------------
+
+ 
+3
+
+ 
+
+Competition
+ 
+Our platform competes in the highly competitive pharmaceutical and healthcare digital marketing industry that is dominated by large well-known companies with established names, solid market niches, wide arrays of product offerings and marketing networks. Our financial messaging offerings compete for pharmaceutical budgets with a variety of other forms of advertising and promotion.
+ 
+Despite these overall competitors, we do not have major competition in our specific portion of the financial messaging market. We have a growing list of potential partners whom either have content that they want to deliver through our distribution engine and network, or have complementary technology and want to integrate our solution as a channel partner and thereby increase our reach to clinicians. The primary direct competitors in our space of the market are ConnectiveRx and Aptus Health. However, we believe our breadth of brands offered, extensive list of pharmaceutical clients, and the vast reach of our network give us a substantial advantage and allow us to achieve a dominant position in the marketplace.
+ 
+Intellectual Property
+ 
+In 2012, we were awarded a patent for our innovative solution (US Patent No. 8,341,015). This award was a result of our extensive research and development efforts. The awarded claims cover our ability to electronically process, display and distribute eligible prescription savings on the medications and therapies healthcare providers wish to prescribe for their patients. As part of our acquisition of CareSpeak Communications, we also acquired (US Patent No. 7,956,727) related to methods and systems for medication management.
+ 
+We use a nationally ranked intellectual property law firm to further expand and protect our intellectual property. We believe our current and expanding IP will allow us to continue being the leader in this rapidly growing space. We stand ready to prepare additional filings, as necessary, to protect our intellectual property on any forthcoming solutions that will further assist and support physicians, pharmacists and patients.
+ 
+OPTIMIZERx, CareSpeak and SampleMD are our licensed trademarks.
+ 
+Government Regulation
+ 
+Fraud and Abuse Laws
+ 
+Anti-Kickback Statutes
+ 
+The federal healthcare program Anti-Kickback Statute prohibits persons from knowingly and willfully soliciting, offering, receiving or providing remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual for, or the furnishing, arranging for or recommending a good or service for which payment may be made in whole or part under a federal healthcare program such as Medicare or Medicaid. The definition of remuneration has been broadly interpreted to include anything of value, including for example gifts, discounts, the furnishing of supplies or equipment, credit arrangements, payments of cash and waivers of payments. Several courts have interpreted the statute’s intent requirement to mean that if any one purpose of an arrangement involving remuneration is to induce referrals or otherwise generate business involving goods or services reimbursed in whole or in part under federal healthcare programs, the statute has been violated. The law contains a few statutory exceptions, including payments to bona fide employees, certain discounts and certain payments to group purchasing organizations. Violations can result in significant penalties, imprisonment and exclusion from Medicare, Medicaid and other federal healthcare programs. Exclusion of a manufacturer would preclude any federal healthcare program from paying for its products. In addition, kickback arrangements can provide the basis for an action under the Federal False Claims Act, which is discussed in more detail below. The Anti-Kickback Statute is broad and potentially prohibits many arrangements and practices that are lawful in businesses outside of the healthcare industry. Recognizing that the Anti-Kickback Statute is broad and may technically prohibit many innocuous or beneficial arrangements, the Office of Inspector General of Health and Human Services, or OIG, issued a series of regulations, known as the safe harbors, beginning in July 1991. These safe harbors set forth provisions that, if all the applicable requirements are met, will assure healthcare providers and other parties that they will not be prosecuted under the Anti-Kickback Statute. The failure of a transaction or arrangement to fit precisely within one or more safe harbors does not necessarily mean that it is illegal or that prosecution will be pursued. However, conduct and business arrangements that do not fully satisfy each applicable safe harbor may result in increased scrutiny by government enforcement authorities such as the OIG. Arrangements that implicate the Anti-Kickback Law, and that do not fall within a safe harbor, are analyzed by the OIG on a case-by-case basis. Government officials have focused recent enforcement efforts on, among other things, the sales and marketing activities of healthcare companies, and recently have brought cases against individuals or entities with personnel who allegedly offered unlawful inducements to potential or existing customers in an attempt to procure their business. Settlements of these cases by healthcare companies have involved significant fines and/or penalties and in some instances criminal pleas. In addition to the Federal Anti-Kickback Statute, many states have their own kickback laws. Often, these laws closely follow the language of the federal law, although they do not always have the same exceptions or safe harbors. In some states, these anti-kickback laws apply with respect to all payors, including commercial health insurance companies.
+ 
+4
+
+ 
+
+False Claims Laws
+ 
+Federal false claims laws prohibit any person from knowingly presenting, or causing to be presented, a false claim for payment to the federal government or knowingly making, or causing to be made, a false statement to get a false claim paid. Manufacturers can be held liable under false claims laws, even if they do not submit claims to the government, if they are found to have caused submission of false claims. The Federal Civil False Claims Act also includes whistle blower provisions that allow private citizens to bring suit against an entity or individual on behalf of the United States and to recover a portion of any monetary recovery. Many of the recent highly publicized settlements in the healthcare industry related to sales and marketing practices have been cases brought under the False Claims Act. The majority of states also have statutes or regulations similar to the federal false claims laws, which apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payor. Sanctions under these federal and state laws may include civil monetary penalties, exclusion of a manufacturer’s products from reimbursement under government programs, criminal fines and imprisonment.
+Privacy and Security
+ 
+The Health Insurance Portability and Accountability Act of 1996, or HIPAA, and the rules promulgated there under require certain entities, referred to as covered entities, to comply with established standards, including standards regarding the privacy and security of protected health information, or PHI. HIPAA further requires that covered entities enter into agreements meeting certain regulatory requirements with their business associates, as such term is defined by HIPAA, which, among other things, obligate the business associates to safeguard the covered entity’s PHI against improper use and disclosure. While not directly regulated by HIPAA, our customers or distributors might face significant contractual liability pursuant to such an agreement if the business associate breaches the agreement or causes the covered entity to fail to comply with HIPAA.  It is possible that HIPPA compliance could become a substantial regulatory burden and expense to our operations, although we do not believe that this will occur as a general website publisher.
+Employees
+ 
+As of December 31, 2018, we had 37 full-time employees, as well as contracted programmers, as needed, throughout the year.
+ 
+Subsidiaries
+ 
+We conduct our operations through our wholly-owned subsidiary, OptimizeRx Corporation, a Michigan corporation, CareSpeak Communications, Inc., a New Jersey Corporation, and CareSpeak Communications, D.O.O, a controlled foreign corporation incorporated in Croatia.
+ 
+Recent developments
+ 
+In February 2019, the Company’s Board of Directors amended the 2013 Equity Compensation Plan to increase the number of shares authorized under the plan to 2,500,000. At the same time, the Company granted 50,000 shares of restricted common stock to officers and options to purchase 67,050 shares of common stock with an exercise price of $13.06 to non-officers, both of which vest only if the Company achieves certain stretch revenue goals in 2019. In addition, the Company granted 35,500 time-based options, with the same exercise price, to new employees, and accelerated vesting to 2019 on 100,000 existing options that previously were scheduled to vest in 2020.
+ 
+5
+
+ 
+

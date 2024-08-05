@@ -1,0 +1,202 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+General
+ 
+We are engaged in the business of developing, commercializing and licensing proprietary materials, processes and technologies for the $450+ billion semiconductor industry. Our lead technology, named Mears Silicon TechnologyTM, or MST®, is a thin film of reengineered silicon, typically 100 to 300 angstroms (or approximately 20 to 60 silicon atomic unit cells) thick. MST can be applied as a transistor channel enhancement to CMOS-type transistors, the most widely used transistor type in the semiconductor industry. MST is our proprietary and patent-protected performance enhancement technology that we believe addresses a number of key engineering challenges facing the semiconductor industry. We believe that by incorporating MST, transistors can be smaller, with increased speed, reliability and energy efficiency. In addition, since MST is an additive and low-cost technology, we believe it can be deployed on an industrial scale, with machines commonly used in semiconductor manufacturing. We believe that MST can be widely incorporated into the most common types of semiconductor products, including analog, logic, optical and memory integrated circuits.
+ 
+We do not intend to design or manufacture integrated circuits directly. Instead, we intend to develop and license technologies and processes that will offer the designers and manufacturers of integrated circuits a low-cost solution to the industry’s need for greater performance and lower power consumption. Our customers and partners include or are expected to include:
+ 
+
+· | foundries, which manufacture integrated circuits on behalf of fabless manufacturers; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | integrated device manufacturers, or IDMs, which are the fully integrated designers and manufacturers of integrated circuits; 
+· | fabless semiconductor manufacturers, which are designers of integrated circuits that outsource the manufacture of their chips to foundries; 
+· | original equipment manufacturers, or OEMs, which manufacture the epitaxial, or EPI, deposition machines used to deposit semiconductor layers, such as the MST® film onto the base silicon wafer; and 
+· | electronic design automation companies, which make software tools used throughout the industry to simulate the effects of using different materials, design structures and process technologies on the performance of semiconductor products.
+
+ 
+We intend to generate revenue through licensing arrangements whereby foundries and IDMs pay us a license fee for their right to use MST technology in the manufacture of silicon wafers as well as a royalty for each silicon wafer or device that incorporates our MST technology. We also intend to enter into licensing arrangements with fabless semiconductor manufacturers pursuant to which we will charge them a royalty for each device they sell that incorporates our MST technology.
+ 
+We were organized as a Delaware limited liability company under the name Nanovis LLC on November 26, 2001. On March 13, 2007, we converted to a Delaware corporation under the name Mears Technologies, Inc. On January 12, 2016, we changed our name to Atomera Incorporated. Shares of our common stock are listed on the NASDAQ Capital Market under the symbol “ATOM”.
+ 
+
+
+
+4
+-
+
+Industry Overview
+ 
+Semiconductors, Generally
+ 
+Recent years have seen a remarkable proliferation of consumer and commercial products, especially in wireless, automotive and mobile electronic devices. The growth of the Internet and cloud computing has provided people with new ways to create, store and share information. At the same time, the increasing use of electronics in cars, buildings, appliances and other consumer products is creating a broad landscape of “smart” devices and the evolution of wearable technologies and The Internet of Things.
+ 
+These developments depend, in large part, on integrated circuits, or microchips, which are sets of electronic circuits on a single chip of semiconductor material, normally silicon. It is common for a single semiconductor chip to combine many components (processor, communications, memory, custom logic, input/output) resulting in highly complex chip designs. Transistors are the building blocks of integrated circuits and the most complex semiconductor chips today contain more than a billion transistors, each of which may have features that are much less than 1/1,000th the diameter of a human hair.
+ 
+The most widely used transistors in semiconductor chips today are based on the CMOS technology. Among its many attributes, CMOS allows for a higher density of transistors on a chip and lower power usage than non-CMOS technologies.
+ 
+The Pursuit of Increased Semiconductor Performance
+ 
+For years, the semiconductor industry was able to almost double the number of transistors it could pack into a single microchip about every two years, a rate of improvement commonly known as “Moore’s Law.” The semiconductor industry uses the term “node” to describe the minimum line width or geometry on a semiconductor chip, expressed in nanometers, or nm, for today’s technologies. Historically, the smaller the node, the smaller the transistors and the more closely they are packed together, producing chips that are denser and thus less costly on a per-transistor basis. Frequently, smaller nodes also correspond to an improvement in chip performance, making them the mile markers of Moore’s Law, with each node marking a new generation of chip-manufacturing technology.
+ 
+Until recently, the industry succeeded at maintaining the rate of improvement predicted by Moore’s Law by scaling the key transistor parameters, such as shrinking feature sizes and operating voltages, thereby allowing more transistors to be packed onto a single microchip. This trend was facilitated in large part by the development of the CMOS technologies. However, a discontinuity in the rate of improvement delivered by scaling appeared a few years ago when transistor technology reached feature sizes below 100 nanometers. The industry responded with advanced materials to supplement the ongoing geometry shrinks. Some of those materials advances included strained silicon, Silicon on Insulator and High-K/Metal Gate.
+ 
+In addition, due to the popularity of mobile devices and other electronic products, there is increasing demand for integrated circuits and systems with greater functionality and performance, reduced size, and much less power consumption as key requirements.
+ 
+The designers and manufacturers of integrated circuits and systems — our potential customers — are facing intense pressure to deliver innovative products at ever shorter times-to-market, as well as at lower prices. In other words, innovation in chip and system design today often hinges on “better, sooner and cheaper.” We believe that the semiconductor industry has accepted that moving forward in the nano-era will require adoption of new innovations that extend the scaling formula, including those based on the use of new engineered materials, a market opportunity our MST® technology seeks to address. Because shrinking geometries at the smaller nodes incurs higher capital and manufacturing costs, only limited products can take on the increased cost burden and still be economically viable. We believe these cost constraints will cause semiconductor designers and manufacturers to turn to engineered materials, like MST®, to solve this problem.
+ 
+
+
+
+5
+-
+
+ 
+
+Vertical Disaggregation of the Industry
+ 
+In trying to keep research and development costs manageable, while attempting to satisfy the demand for increasingly complex semiconductors, certain designers and manufacturers of integrated circuits have transitioned to an open innovation model in which competing companies and third-party providers actively collaborate to address performance issues through various alliances, joint ventures, and licensing of externally developed technology.
+ 
+Historically, most semiconductor companies were vertically integrated. They designed, fabricated, packaged and tested their semiconductors using internally developed software design tools and manufacturing processes and equipment. As the cost and skills required for designing and manufacturing complex semiconductors have increased, the semiconductor industry has become disaggregated, with companies concentrating on one or more individual stages of the semiconductor development and production process. This disaggregation has fueled the growth of fabless semiconductor companies, design tool vendors, semiconductor equipment manufacturers, third-party semiconductor manufacturers (or foundries), semiconductor assembly, package and test companies, and intellectual property companies that develop and license technology to others.
+ 
+While specialization has enabled greater development and manufacturing efficiency, it has also created an opportunity for IP-based companies, such as Atomera, that develop and license technology to meet fundamental, industry-wide challenges. These intellectual property companies have been able to gain broad adoption of their technology throughout the industry by working with companies within the semiconductor supply chain to evaluate and integrate their technology. Manufacturers and designers of semiconductors increasingly find it more cost-effective to license technologies from IP-based companies than internally developing processes that are not their core competence. We believe this collaboration and integration of externally developed IP benefits semiconductor companies by enabling them to bring new technology to market faster and more cost-effectively.
+ 
+Our Initial Application of Mears Silicon Technology
+ 
+The initial application of our MST will be for CMOS integrated circuits, the most widely used type of integrated circuits in the semiconductor industry. As applied to CMOS-type transistors, MST functions as a transistor channel enhancement. We believe MST has the potential to overcome the key challenges found in the implementation of next generation nano-scale semiconductor devices incorporating CMOS-type transistors, namely enhancing drive current, reducing gate leakage and reducing variability. In addition, we believe that MST has the potential to deliver these benefits through a single technology that requires relatively minor modifications to the industry standard CMOS manufacturing flow. Consequently, we believe that by incorporating MST, designers can make transistors with increased speed, reliability and energy efficiency, without significantly altering the current fabrication process or cost of production.
+
+6
+-
+
+ 
+
+As illustrated by the accompanying diagram, MST is a “silicon-on-silicon” solution that provides multiple benefits through a relatively simple modification to the standard CMOS manufacturing flow. MST improvements are delivered through our proprietary and patent-protected silicon band engineering approach that is based on the quantum mechanics of modern deep sub-micron devices. The MST film creates channels that allow electrons to flow more freely in the plane of the transistor, thereby enhancing drive current, while reducing electron flow or “leakage” in the transverse direction. Our MST film can also create more controlled doping profiles, which allow dopants to be held in the desired locations, thereby reducing variability and improving production yield.
+ 
+We believe the enhancements enabled by MST as demonstrated in simulations and on test chips, are approximately equivalent to the enhancements enabled by one-half to a full node of improvement and, therefore, extend the productive life of capital equipment and wafer fabrication facilities. The extent of MST-enabled enhancement depends on the device technology and application. We believe that MST compares favorably to other alternatives for enhancing performance of CMOS-type transistors as follows:
+ 
+
+· | Strained Silicon and Silicon-on-Insulator, or SOI: Unlike strained silicon or SOI, we believe that MST delivers multiple benefits in a single film in a cost-effective manner, including enhanced transistor drive current, reduced leakage, and reduced variability. Also, strained silicon tends to lose much of its effectiveness below 45nm, constraining its scalability, while the MST thin-film approach is expected to be scalable below 22nm. Also, based on our own research and development and third-party evaluations, we believe that MST can deliver improved cost-benefit performance, in most cases in an additive manner, compared to already successful strain technologies, such as dual stress liners and SiGe.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | High-K/Metal Gate, or HKMG: Unlike HKMG, MST is silicon-based. As a “silicon-on-silicon” solution, MST does not require new materials or equipment, which in our opinion makes it much easier and less costly to adopt than HKMG for devices not requiring ultra-thin gate dielectrics. For devices with HKMG, lab tests and simulations indicate that MST benefits transistor performance and variability in a similar manner to that observed in non-HKMG devices.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Because of its physical characteristics in the channel region of the transistor, we believe MST has the further benefit of being complementary and additive to the performance enhancing technologies noted above, making MST broadly applicable across multiple devices and process flows to meet a wide variety of customer design objectives. Given the costs of moving to more advanced technologies, we believe one of the most compelling aspects of MST is its cost/benefit profile. We believe that MST will provide a lower cost of production due to our technology’s potential to reduce die size while leveraging existing manufacturing tools, thereby providing chip makers with increased performance at all process nodes with significantly fewer disruptions to manufacturing processes and less incremental cost than other advanced technologies.
+ 
+We believe MST can improve transistor performance in a variety of device types including microprocessors; logic products; DRAM, SRAM, and other memory integrated circuits; as well as analog, radio frequency, and mixed-signal devices. We have therefore developed different MST product options that can be applied to the critical industry segments and technology nodes. As of the date of this Annual Report, we have done technology simulation work with universities and leading industry players at nodes from 180nm to 5nm. We have also simulated devices with leading industry research facilities and built and electrically verified test chips using MST in customer manufacturing facilities which have produced results that demonstrate many of the benefits described above.
+ 
+Development Partnerships
+ 
+TSI Semiconductors. In January 2017, we announced an agreement with TSI Semiconductors America LLC to provide us with engineering services in their semiconductor manufacturing facility in California. By running tests in TSI Semiconductor's facility, which we utilize to run tests on a contract basis, we are able to build and test devices that incorporate MST much more quickly than when we test in our potential customers' facilities. We believe this arrangement enables faster product development, test, and integration, and should accelerate our time to market.
+
+7
+-
+
+Synopsys. In March 2017 we announced our collaboration with Synopsys, Inc., provider of the most broadly used technology computer-aided design, or TCAD, simulation software in the semiconductor industry. Synopsys’ software now supports modeling of MST, which enables semiconductor manufacturers and designers to model the interaction of MST with other process steps. We have begun to use our modeling capabilities to demonstrate to potential customers the likely benefits of MST on the performance of a completed semiconductor device. We believe these capabilities are helping us focus integration efforts for potential customers more quickly on those areas most likely to deliver benefits, thus shortening test cycles and, we believe, accelerating the time to a license decision.
+ 
+MST Commercialization
+ 
+We do not intend to design or manufacture integrated circuits directly. Instead, we intend to develop and license technologies and processes that will offer the designers and manufacturers of integrated circuits a low-cost solution to the industry need for increased performance. Our customers and partners are expected to include foundries, integrated device manufacturers, or IDMs, fabless semiconductor manufacturers, OEMs, that manufacture epitaxial deposition, or EPI, machines, and electronic design automation software companies, such as Synopsys.
+ 
+We intend to generate revenue through licensing arrangements whereby foundries and IDMs pay us a license fee for their use of MST technology in the manufacture of silicon wafers as well as a royalty for each silicon wafer or device that incorporates our MST technology. We also intend to enter into licensing arrangements with fabless semiconductor manufacturers pursuant to which we will charge them a royalty for each device they sell that incorporates our MST technology. The IDMs and fabless semiconductor manufacturers are the primary beneficiaries of our commercialization activities, as they are producers and distributors of the integrated circuits onto which we will endeavor to incorporate our MST technology. The foundries and OEMs also play an important role in our commercialization strategy in that these parties have traditionally sought to provide new technologies to their customers, which in the case of the foundries are the fabless semiconductor manufacturers and in the case of the OEMs are the IDMs and foundries that purchase EPI machines.
+ 
+In the semiconductor industry, new technologies are vetted thoroughly and carefully by early adopters but, once proven, tend to be adopted broadly by the industry and, wherever possible, exploited for several generations until their full potential is reached. Before introducing a new technology into its fabrication process, the customer will conduct a formal and rigorous multi-phase testing process, which can range from 18 to 36 months.
+ 
+Our engagements with IDMs and fabless semiconductor manufacturers who are potential customers typically consists of the following phases:
+ 
+
+1. | Engineering Planning: In this phase we engage in a technical exchange of information under a non-disclosure agreement to understand the customer’s manufacturing process and to determine how best to integrate the deposition of MST film onto the customer’s semiconductor wafers.
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Set-up for MST Integration: We agree upon the technical evaluation details, including the expected rounds of evaluation testing, the parameters to be tested and allocation of costs. Customers provide us with wafers for our internal processing and physical characterization. Some customers work together with us to develop a TCAD model showing possible results of MST integration with their particular manufacturing process. 
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Integration. Typically, this phase includes several rounds of tests that involve building test devices on a semiconductor wafer using our MST technology within the customer’s manufacturing process flow. We have not had any customers move beyond phase three as of the date of this Annual Report. We believe that this phase will continue to be the longest in our customer engagement process due to the fact that integrating MST into a customer’s manufacturing flow frequently requires us to conduct subsequent tests based on the result of earlier test runs. This phase also requires investment of time and resources by customers. In order to progress beyond this, we must demonstrate benefits at a commercially-significant level. It is difficult for both customers and for Atomera to estimate the amount of time a customer will be in the integration phase. 
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+8
+-
+
+
+4. | Process Installation. Prior to enabling a customer to install and use MST technology on epitaxial deposition machines in their own fab, we intend to require execution of a license for use of our patents and proprietary know-how. Requiring a license at this stage is a customary and accepted practice in the semiconductor industry.
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. | Technology qualification. After installation of MST in the fab, the customer will conduct additional testing to ensure manufacturing reliability under accelerated test conditions that simulate volume production. Upon successfully completing the qualification phase, products can be built and shipped using this manufacturing process.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6. | Production. We expect that our license agreements will provide that upon commencement of sales of wafers or devices built using MST, our customer will pay us a royalty that will be a percentage of the selling price of the wafer or device, depending on the type of customer.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+While the above steps describe a typical customer engagement, we have engaged with some customers in ways that do not follow this precise order. For example, we may from time to time enter into evaluation license agreements with certain customers under which they may install MST in their fabs to run internal tests only and not for commercial use or distribution. Other potential customers may run tests on MST-treated wafers prior to further engagement with us on integration into their manufacturing process.
+ 
+Our customer engagement process is refined on an ongoing basis to meet the needs of both Atomera and our customers. In order to address customers’ concern about the requirement to pay for a full license prior to being sure they will enter into volume production with MST based products, Atomera has introduced a three-staged licensing approach. The first two stages represent a minority of the total license fee structure, thus lowering a customer’s risk until they have internalized the process and generated enough data to justify the larger licensing stages. Atomera’s three stages of licenses are: (i) the Integration stage which grants the right to integrate MST onto their products, (ii) the Manufacturing stage, which grants them the rights to manufacture in their own facilities, and (iii) the Distribution stage which grants them the right to sell products using MST.
+ 
+We believe that our success is dependent upon the adoption of our MST technology through the Distribution stage by at least one IDM, foundry, or fabless semiconductor manufacturer. As of the date of this Annual Report, MST was in the integration phase on 13 different engagements. Subject to process and subsequent product qualifications that demonstrate, in commercial scale production, the enhancements we believe our MST technology offers, including increased speed, reliability and energy efficiency, we expect to license our MST technology to one or more of these companies. We are also engaged at different stages of customer development with other potential customers.
+ 
+We are also working with OEMs on process development and equipment optimization to ensure that MST can be reliably and predictably deposited using their manufacturing tools. If their tools can successfully deposit MST, we believe they will promote the incorporation of our MST technology in the OEMs’ EPI machines as an option to their standard offering. By doing so, we believe they will simultaneously stimulate additional sales of their capital equipment and encourage more customers to adopt MST.
+ 
+Through our collaboration with Synopsys, we enable potential customers of MST to more quickly assess the potential benefits of MST to their semiconductor devices. By creating TCAD software models, we can work with manufacturers to assess which of their product types would most benefit from MST. We believe this modeling capability has shortened the time required for us to engage with new potential customers and should ultimately lead to a faster decision process by the customer regarding licensing MST.
+ 
+We market our MST technology directly to the semiconductor industry through our significant industry contacts and relationships. We also sponsor academic research and participate in industry conferences and associations. In certain foreign jurisdictions, we engage sales representatives to assist us in establishing relationships with local customers.
+ 
+
+
+
+9
+-
+
+Customers
+ 
+In September and October 2018, respectively, we entered into separate integration license agreements with Asahi Kasei Microdevices, (“AKM”), and STMicroelectronics, (“ST”), both of which are leading IDMs. Under the integration license agreements, these customers have each agreed to pay us for the right to evaluate MST technology which is integrated onto their semiconductor wafers. We deposit MST onto the customers’ wafers and the customer has the right under the license agreement to complete the manufacturing process which enables them to evaluate our technology. These agreements do not grant the customer the right to deposit MST at their site or to sell products incorporating MST. We intend that each integration license agreement will be the first of a three-stage licensing process with each of AKM and ST, to be followed by manufacturing and distribution license agreements with each of them. Those manufacturing and distribution license agreements, if executed, will allow each licensee to manufacture MST-enabled products and to sell them to their customers. We expect that the manufacturing and distribution agreements will provide for substantially larger upfront license fee payments than the integration license fees and will require the respective licensees to make royalty payments to us based on the number and sales price of MST-enabled products they sell to their customers. However, our ability to enter into royalty-based manufacturing and distribution agreements with AKM and ST will depend, in large part, on the performance of devices they build using MST and the successful integration of our MST technology on a high-volume production scale. There can be no assurance that our MST technology will deliver the performance, power or other requirements our customers seek for their products or that the integration of our technology with our customers’ manufacturing process will be successful in high volume. In addition, even if our MST technology is successfully integrated into the licensees’ products, either or both of the licensees may decide, for reasons unrelated to the price or performance of our MST technology, not to enter into manufacturing and distribution license agreements.
+Competition
+ 
+Our lead product, MST, is a proprietary and patent-protected performance enhancement technology that we believe addresses a number of key engineering challenges facing the semiconductor industry. We compete with IDMs, OEMs, foundries, fabless manufacturers of semiconductors and semiconductor IP licensing companies for the development and commercialization of technologies that improve the performance of semiconductors. Historically, when a new fabrication process proves to be a low-cost improvement to the standard fabrication process, and is additive, rather than in place of other performance technologies, it has been successfully adopted industry-wide. Good examples of such advances have been strained silicon and High-K/Metal-Gate. We believe that MST has the potential to be one of these low-cost additive technologies, in which case MST would not be subject to significant direct competition from other technologies.
+Research and Development
+ 
+The principal focus of our research and development efforts is on enabling existing and prospective customers to integrate MST into their manufacturing processes and enable them to commercialize MST-enabled semiconductor products. We also dedicate research and development resources to evolving and expanding our technology to address new process technologies in the semiconductor industry roadmap. Our research and development is conducted internally, but we work closely with third parties in the semiconductor industry to evaluate and qualify our technology for incorporation into semiconductor products and fabrication equipment. During the years ended December 31, 2018 and 2017, we incurred research and development expenses of approximately $7.3 million and $5.8 million, respectively.
+ 
+We believe that our success depends in part on our ability to achieve the following in a cost-effective and timely manner:
+ 
+
+· | develop new technologies that meet the changing needs of the semiconductor industry;
+--+-------------------------------------------------------------------------------------
+
+
+· | improve our existing technologies to enable growth into new application areas; and
+--+-----------------------------------------------------------------------------------
+
+
+· | expand our intellectual property portfolio.
+--+--------------------------------------------
+
+
+10
+--
+
+Intellectual Property Rights
+ 
+We regard the protection of our technologies and intellectual property rights as an important element of our business operations and crucial to our success. We rely primarily on a combination of patent laws, trade secret laws, confidentiality procedures, and contractual provisions to protect our proprietary technology. We require our employees, consultants, and advisors to enter into confidentiality agreements. These agreements provide that all confidential information developed or made known to the individual during the course of the individual’s relationship with us is to be kept confidential and not disclosed to third parties except under specific circumstances. In the case of our employees and certain consultants, the agreements provide that all of the technology that is conceived by the individual during the course of employment is our exclusive property. The development of our technology and many of our processes are dependent upon the knowledge, experience, and skills of key scientific and technical personnel.
+ 
+We have been granted more than 70 patents in the U.S. and more than 55 abroad. Our core patents relating to MST cover materials, physical structures and manufacturing processes. Our core patents relating to MST were filed beginning on August 22, 2003 and have grant dates beginning on December 14, 2004. Our MST patent portfolio begins to expire commencing August 22, 2023. While we believe our core patents adequately block competitors from using our MST without our approval, there can be no assurance that one or more of our core patents would survive a legal challenge to their scope, validity, or enforceability, or provide significant protection for us. The failure of our patents, or the failure of trade secret laws, to adequately protect our technology, might make it easier for our competitors to offer similar products or technologies or for our potential customers to build products with methods and materials similar to MST without paying us a license fee. In addition, patents may not issue from any of our current or future applications.
+ 
+We also hold registered trademarks in the United States for the mark “MST” and in China for the mark “Mears”. We have applied with the U.S. Patent and Trademark Office for the registration of the mark “Atomera” in the United States.
+ 
+Employees
+ 
+As of the date of this Annual Report, we employ 17 people on a full-time basis.
+ 
+Available Information
+ 
+Our website is located at www.atomera.com. The information on or accessible through our website is not part of this Annual Report on Form 10-K. A copy of this Annual Report on Form 10-K is located at the SEC’s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. The SEC also maintains an internet site that contains reports and other information regarding our filings at www.sec.gov.

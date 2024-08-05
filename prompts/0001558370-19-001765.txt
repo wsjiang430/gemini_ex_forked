@@ -1,0 +1,812 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1.  Business
+ AXT, Inc. (“AXT”, “the Company”, “we,” “us,” and “our” refer to AXT, Inc. and its consolidated subsidiaries) is a worldwide materials science company that develops and produces high-performance compound and single element semiconductor substrates, also known as wafers. Our consolidated subsidiaries produce and sell certain raw materials some of which are used in our substrate manufacturing process and some of which are sold to other companies.
+ Our substrate wafers are used when a typical silicon substrate wafer cannot meet the performance requirements of a semiconductor or optoelectronic device. The dominant substrates used in producing semiconductor chips and other electronic circuits are made from silicon. However, certain chips may become too hot or perform their function too slowly if silicon is used as the base material.  In addition, optoelectronic applications, such as LED lighting and chip-based lasers, do not use silicon substrates because they require a wave form frequency that cannot be achieved using silicon. Alternative or specialty materials are used to replace silicon as the preferred base in these situations. Our wafers provide such alternative or specialty materials. We do not design or manufacture the chips. We add value by researching, developing and producing the specialty material wafers. We have two product lines: specialty material substrates and raw materials integral to these substrates. Our compound substrates combine indium with phosphorous (indium phosphide: InP) or gallium with arsenic (gallium arsenide: GaAs). Our single element substrates are made from germanium (Ge).
+ Our raw materials include both raw gallium and purified gallium.  We use purified gallium in producing our GaAs substrates and sell both raw gallium and purified gallium in the open market to other companies for use in producing magnetic materials, high temperature thermometers, single crystal ingots, including gallium arsenide, gallium nitride, gallium antimonide and gallium phosphide ingots, and other materials and alloys.  We also produce pyrolytic boron nitride (pBN) crucibles used in the high temperature (typically in the range 500 C to 1,500 C) growth process of single crystal ingots and epitaxial layer growth in MBE (Molecular Beam Epitaxy) reactors.  We use these pBN crucibles in our own ingot growth processes and also sell them in the open market to other companies. Our substrate product group generated 79%, 80% and 81% of our revenue and our raw materials product group generated 21%, 20% and 19% for 2018, 2017 and 2016, respectively.
+        
+
+ 
+  3
+
+ 
+
+ The following chart shows our substrate products and their materials, diameters and illustrative applications and shows our raw materials group primary products and their illustrative uses and applications.  
+
+Products | | 
+Substrate Group | Wafer Diameter | Sample of Applications 
+Indium Phosphide | 2”, 3”, 4” | • Fiber optic lasers and detectors 
+(InP) | | • Passive Optical Networks (PONs) 
+ | | • Data center connectivity using light/lasers 
+ | | • Silicon photonics 
+ | | • Photonic Integrated circuits (PICs) 
+ | | • High efficiency terrestrial solar cells (CPV) 
+ | | • RF amplifier and switching 
+ | | • Infrared light-emitting diode (LEDs) motion control 
+ | | • Infrared thermal imaging 
+Gallium Arsenide | 1”, 2”, 3”, 4”, 5”, 6” | • Power amplifiers for wireless devices 
+(GaAs - semi-insulating) | | • Direct broadcast television 
+ | | • High-performance transistors 
+ | | • Satellite communications 
+ | | • High efficiency solar cells for drones and automobiles 
+Gallium Arsenide | 1”, 2”, 3”, 4”, 5", 6” | • 3-D sensing using VCSELs 
+(GaAs - semi-conducting) | | • Data center communication using VCSELs 
+ | | • High brightness LEDs 
+ | | • Lasers 
+ | | • Near-infrared sensors 
+ | | • Printer head lasers and LEDs 
+ | | • Laser machining, cutting and drilling 
+ | | • Optical couplers 
+ | | • High efficiency solar cells for drones and automobiles 
+ | | • Night vision goggles 
+Germanium | 2”, 4”, 6” | • Satellite solar cells 
+(Ge) | | • Optical sensors and detectors 
+ | | • Terrestrial concentrated photo voltaic (CPV) cells 
+ | | • Multi-junction solar cells for satellites 
+ | | • Infrared detectors 
+Raw Materials Group | | 
+4N raw gallium | | • Magnetic materials 
+ | | • High temperature thermometers 
+ | | • Low melting point alloys 
+ | | • Optical glass 
+ | | • Infrared detectors 
+6N+ purified gallium | | • Key material in single crystal ingots such as: 
+ | | - Gallium Arsenide (GaAs) 
+ | | - Gallium Nitride (GaN) 
+ | | - Gallium Antimonide (GaSb) 
+ | | - Gallium Phosphide (GaP) 
+Boron trioxide (B2O3) | | • Encapsulant in the ingot growth of III-V compound semiconductors 
+Gallium-Magnesium alloy | | • Used for the synthesis of organo-gallium compounds in epitaxial growth on semiconductor wafers 
+pyrolytic boron nitride (pBN) crucibles | | • Used when growing single-crystal compound semiconductor ingots 
+ | | • Used when growing epitaxial layers in MBE reactors 
+pBN insulating parts | | • Metal-Organic Chemical Vapour Deposition (MOCVD) reactors and organic light-emitting diode (OLED) rings
+
+     
+ 
+  4
+
+ 
+
+ We manufacture all of our products in the People’s Republic of China (PRC or China), which generally has favorable costs for facilities and labor compared with comparable facilities in the United States, Europe or Japan. Our supply chain includes partial ownership of 10 companies in China (subsidiaries/joint ventures). We believe this supply chain arrangement provides us with pricing advantages, reliable supply, market trend visibility and better sourcing lead-times for key raw materials central to manufacturing our substrates. Our subsidiaries and joint venture companies produce materials, including raw gallium (4N Ga), high purity gallium (6N Ga), arsenic, germanium, germanium dioxide, pyrolytic boron nitride (pBN) crucibles and boron oxide (B2O3). Our ownership and the ownership held by our consolidated subsidiaries in these companies range from 97% to 20%. We have board representation in all 10 of these companies. We consolidate the companies in which we have either a controlling financial interest, or majority financial interest combined with the ability to exercise substantive control over the operations, or financial decisions, of such companies. We use the equity method to account for companies in which we have smaller financial interest and have the ability to exercise significant influence, but not control, over such companies. We purchase portions of the materials produced by these companies for our own use and they sell the remainder of their production to third parties.
+     The Beijing city government is moving its offices into the area where our original manufacturing facility is currently located and is in the process of moving thousands of government employees into this area. The government has constructed showcase tower buildings and overseen the establishment of new apartment complexes, retail stores and restaurants. An amusement park is being constructed within a few miles of our facility. To create room and upgrade the district, the city instructed virtually all existing manufacturing companies, including AXT, to relocate all or some of their manufacturing lines. In 2018, we achieved every major milestone established in the relocation of our gallium arsenide and germanium production lines. We intend to secure additional permits and approvals in 2019. The new facilities give us the long-term capacity and a new level of technological sophistication in our manufacturing capabilities to support the major trends that we believe are likely to drive demand for our products in the years ahead. Our indium phosphide production line, as well as various administrative and sales functions will remain primarily at our original site in the near future. 
+     To mitigate our risks and maintain our production schedule, we are moving our gallium arsenide equipment in stages so that we will continue to produce our gallium arsenide products at our Beijing site, and then subsequently transfer increasing volume to the new sites. This approach will also minimize any disruption to our customers. We intend to complete this relocation in 2019. In 2018, we provided qualification wafers and our own internal characterization data from the new facilities to our customers. Our major customers are in the process of qualifying the wafer substrates before placing volume purchase orders for products from the new facilities. The relocation of our gallium arsenide production line requires us to continue to accurately execute our relocation plan. A failure to properly complete our relocation plan could result in disruption to our production and have a material adverse impact on our revenue, our results of operations and our financial condition. If we fail to meet the product qualification requirements of a customer, we may lose sales to that customer. Our reputation may also be damaged. Any loss of sales could have a material adverse effect on our revenue, our results of operations and our financial condition.
+     On September 24, 2018, the Trump Administration announced a list of thousands of categories of goods that will face tariffs of 10%. All of our wafer substrates are manufactured in China and for the year ended December 31, 2018, approximately 10% of our revenue was generated by sales to customers in North America, primarily in the U.S. Our inbound products to the U.S. are now subject to a 10% tariff assessed on the customs value of the goods as imported by us, effective approximately September 24, 2018. Although we do not believe the initial impact of approximately $150,000 per quarter is material, the future impact of tariffs and trade wars is uncertain. The tariffs could be increased to 25% sometime in the future. We may be required to raise prices, which may result in the loss of customers and our business, financial condition and results of operations may be materially harmed. Additionally, the Trump Administration continues to signal that it may alter trade agreements and terms between China and the United States, including limiting trade with China, and may impose additional tariffs on imports from China.
+     We were incorporated in California in December 1986 and reincorporated in Delaware in May 1998. The Company went public in 1998. We changed our name from American Xtal Technology, Inc. to AXT, Inc. in July 2000. Our principal corporate office is located at 4281 Technology Drive, Fremont, California 94538, and our telephone number at this address is (510) 438-4700. We have approximately 780 employees. In addition, our three consolidated 
+
+ 
+  5
+
+ 
+subsidiaries have, in total, approximately 300 employees. In aggregate, we and our subsidiaries have approximately 1080 employees. 
+ Industry Background
+ Certain electronic and opto-electronic applications have performance requirements that exceed the capabilities of conventional silicon substrates, also known as wafers, and often require high-performance compound wafers (mixture of two materials) or single element wafer substrates. Examples of higher performance non-silicon based wafer substrates include GaAs, InP, gallium nitride (GaN), silicon carbide (SiC) and Ge. One of the earliest broadly used alternative wafer substrates was GaAs and GaAs wafer substrates were the earliest wafer substrates we produced.
+ Semi-insulating GaAs is used to create various high speed microwave components, including power amplifier chips used in cell phones, satellite communications and broadcast television applications.  Semi-conducting GaAs substrates are used to create opto-electronic products, including high brightness light-emitting diodes (HBLEDs) that are often used to backlight wireless handsets and liquid crystal display (LCD) TVs and also used for automotive panels, signage, display and lighting applications. A new application for semi-conducting GaAs is 3-D sensing chips using VCSELs (vertical cavity surface emitting lasers) as an array of lasers on a single chip that could be used in cell phones and other devices. InP is a high performance semiconductor substrate used in broadband and fiber optic applications and data center connectivity. In recent years, InP demand has increased. Ge substrates are used in applications such as solar cells for space and terrestrial photovoltaic applications.
+ The AXT Advantages
+ We believe that we benefit from the following advantages:
+
+· | Key leadership in InP technology and revenue growth. We have invested in InP research and development for a number of years and have developed a strong base of proprietary technology that we continue to expand. There are significant barriers to entry in the InP substrate market and currently there are only three primary providers, including AXT. Further, we believe that this market will continue to expand and grow and we have been adding capacity to take advantage of this expansion. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Key provider of low defect density GaAs which can be used to make 3-D sensing chips. The deployment of 3-D sensing facial recognition technology in cell phones and other devices requires GaAs substrates with low etch pit density (“EPD”) (i.e., low defect densities). The requirement of low EPD is a barrier to entry and we believe there are a limited number of potential substrate providers that can meet this requirement, which includes AXT. Several companies in Asia are already using our low EPD wafers for development although we are not yet selling wafers into the one program that we believe is in production. However, when we qualify low EPD wafers from our new location, we believe the quality of our low EPD wafers and our ability to expand manufacturing capacity quickly will enable us to support new applications and generate additional revenue. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Proprietary process technology drives manufacturing. In our industry, the single crystal growth process and the wafer manufacturing process incorporate proprietary process technology. We have a substantial body of proprietary process technology and this creates a barrier to entry as evidenced by the small number of suppliers of InP wafers or GaAs low EPD wafers. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Low-cost manufacturing operation in China. Since 2004, we have manufactured all of our products in China, which generally has favorable costs for facilities and labor compared to costs of comparable facilities and labor in the United States, Japan or Europe. As of December 31, 2018, approximately 1,053 of our 1,080 employees (including employees at our Beijing and Dingxing facilities as well as our consolidated joint venture companies) were located in China. Our primary competitors have their major manufacturing operations in Germany or Japan. Our presence in China also enables us to closely manage our raw materials supply chain. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  6
+
+ 
+
+
+· | We are experienced at adding capacity quickly to take advantage of growing and changing market trends. In recent years, we have quickly added capacity for InP substrates, enabling us to grow that business. We believe that expansion is less difficult in China than in Japan or Germany where our major competitors are located. High volume emerging market applications may require rapid expansion and we believe we are well-positioned to respond to increased demand. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | We are the only compound semiconductor substrate supplier to have a position in raw materials. We have partial ownership of 10 companies in China that form an integral part of our supply chain. We believe our subsidiaries and joint venture companies in China provide us with a more reliable supply of, and shorter lead-times for, the raw materials central to our final manufactured products compared to third party providers. We believe that this dedicated supply chain will enable us to meet increases in demand from our customers by providing an increased volume of raw materials quickly, efficiently and cost effectively. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Our diverse product offering results in a broader range of customers and applications. We offer a diverse range of products. We are able to provide custom defined products that meet our customers’ specifications and we have the technical sales support team to engage with our customers and understand their product requirements. A significant percentage of the members of our team that engage with customers have PhDs in physics or materials science. Our product diversity gives us a greater opportunity to expand our business into new applications and markets, generating more revenue. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Enhanced revenue diversity through the sale of raw materials. Because our strategy allows our consolidated subsidiaries to also sell raw materials in the open market to third parties, approximately one fifth of our total sales are from non-substrate products, providing further diversity in our customer base and business model. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Business model unique among current competitors. We believe we are the only publicly traded company producing InP, GaAs and Ge wafer substrates. Our direct competitors are either privately owned companies or divisions within very large companies that are publicly listed in Japan. We believe the combination of access to U.S. capital markets, U.S.-based product quality standards, but China-based manufacturing and a unique strategy for the supply of many of the raw materials we need is a competitive advantage as well as an attractive business model to our customers. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+  7
+
+ 
+
+ Strategy 
+ Our goal is to become the leading worldwide supplier of high-performance compound and single element semiconductor substrates.  Key elements of our strategy include:
+ Promote our strengths in InP.  As cloud-based data centers continue to combine integrated circuits and InP-based lasers to transfer data through light, we believe there could be increased demand for InP substrates. We believe there are also other possible applications for InP substrates in the future, which could include driverless cars, 5G cell phones and infrastructure.
+ Add InP capacity and continue InP R&D.  We are continuing to add manufacturing capacity for InP to support our growth for this product line.  Our wafer substrate products often have long product life cycles and we believe the InP product life cycle could be similar to the long product life cycle of GaAs. In addition to adding manufacturing capacity, we are continuing to invest in InP crystal growth technology and wafer processing technology. For example, we are developing six-inch diameter ingots and improving the relative flatness of the wafer surface to improve performance. 
+ Position AXT to benefit from 3-D sensing applications in mobile devices.  The GaAs substrate requirements for 3-D sensing/facial recognition applications include very low defect densities or etch pitch densities. We are continuing to develop semi-conducting GaAs six-inch diameter wafers with low EPD to support such applications. 
+ Establish the ability to rapidly add GaAs capacity.  The relocation of our GaAs manufacturing lines presents a strategic opportunity to ensure our ability to increase capacity at our new site in the future should market demands justify such capacity expansion.
+ Offer diverse products, including custom products. We believe AXT has a reputation in the market for providing a broad range of products, including custom products that are supported by a team of technical sales support professionals, the majority of whom hold  advanced graduate degrees in physics or materials science. We plan to further promote this brand image as a way to differentiate ourselves in the market.  We believe this strategy will lead to a more diverse customer base.
+ Sustain manufacturing efficiencies.  We seek to continue to leverage our China-based manufacturing advantage by increasing efficiencies in our manufacturing methods, systems and processes. Our strategy is to combine the benefits of U.S.-based quality control and access to U.S. capital markets with our China-based manufacturing operations.
+ Increase productivity and seek profitability in our 10 subsidiaries/joint venture companies.  The supply and demand equation for specialty materials can be complex and volatile. Over the years, we have established or invested in 10 companies that are an integral part of our supply chain. We will continue to provide strategic support to these companies and they, in turn, will continue to be the backbone of our supply chain. We plan to work closely with these companies to increase their productivity and improve their financial performance as they continue to support our supply chain.
+ Materials of the future.  The specialty materials substrate market is dynamic and subject to continued changes and cycles.  We plan to use our deep knowledge and experience in specialty materials and wafer substrates to seek new applications for existing substrates in our portfolio and explore additional materials that may be synergistic with our knowledge base, customer needs and manufacturing lines.
+ Technology 
+ Wafers serve as a cornerstone in semiconductor device fabrication, on which integrated circuits and optical devices are fabricated. Wafers are derived from semi-conducting ingots that are grown in a cylindrical form. The diameter and length of an ingot will vary depending on the type of material and the growth process used. An ingot may be either single-crystalline (also referred to as single element) or multi-crystalline (also referred to as compound 
+
+ 
+  8
+
+ 
+elements). Single-crystalline wafers typically have better material parameters.  Depending on physical properties of the materials in a wafer, the performance of devices and circuits can be remarkably different. 
+ AXT uses its proprietary vertical gradient freeze (VGF) technology for growing single crystal Indium Phosphide (InP), Gallium Arsenide (GaAs) and Germanium (Ge) ingots. After growing the crystalline ingot, the ingot is then sliced into individual substrates or wafers.  Before specialty material wafers can be used, a thin layer of structured chemicals is grown on the surface of the substrate.  This is called an epitaxial layer.  We sell the majority of our substrates to companies that specialize in applying the epitaxial layer.  The wafers are then used to produce state-of-the-art electronic and opto-electronic devices and circuit applications.
+ InP and GaAs semi-conducting compounds are formed by combining elements from Groups III and V in the periodic table of elements, whereas Ge is a Group IV elemental material.  Each of these materials has unique properties that determine the best device and/or circuit applications.  As a result of their special high electron mobility combined with their direct ban-gap properties, both InP and GaAs wafers have enjoyed dominant roles in the production of light-emitting diodes (LEDs), solid-state lasers and power amplifiers for mobile phones, to name a few applications.  Ge wafers, on the other hand, have played a key role in the manufacturing of special solar cells known as triple junction solar cells (TJSCs) for space and terrestrial power generation.      
+ With the recent evolution in several applications, InP lasers are projected to play a dominant role in the optoelectronics arena, e.g. silicon photonics (where InP lasers are a key component) and autonomous cars (where special wavelength InP-based lasers are used for object sensing and collision avoidance). Crystal growth process technology frequently contains steps and procedures that are considered proprietary secrets held by the producer, often including methods to control the temperature within the crucible.  InP crystal growth relies on extreme pressure within the crucible.  As such it requires not only temperature control methodologies, but also pressure control and stabilization process methodologies, many of which AXT considers proprietary trade secrets.  It is this combination of variables and the required methods to control them that create a barrier to entry. We believe our long-term investment in InP research and development has resulted in a substantive body of proprietary knowledge.
+ After growing the crystalline ingot, the material is then sliced into individual substrates or wafers.  We have continued to invest in wafer processing technology covering each step in the process from sawing to edge smoothing to final cleaning and we believe we have technology and trade secrets addressing the scope of wafer processing.  One focus in our recent development programs has been on automation, particularly in cleaning the wafers.
+ Ideally, all the atoms in a wafer or substrate are arrayed in a specific periodic order.  However, sensitivities in the ingot growth process will cause some atoms to be improperly aligned and these are referred to as dislocations.  The aggregate number of dislocations in a wafer is referred to as the dislocation density.  Dislocation densities can be seen as a group of tiny marks or pits under a microscope by etching the wafer with acid and each wafer has an etch pit density or EPD.  Certain micro devices, such as the array used for 3-D sensing, require wafers with very low EPD.  AXT considers the process technology we use to achieve low EPD as proprietary process technology and we believe we are one of only a few substrate manufacturing companies that can produce low EPD wafers.
+ Products
+ We have two product lines: specialty material substrates and raw materials integral to these substrates. We design, develop, manufacture and distribute high-performance semiconductor substrates, also known as wafers. Through our subsidiaries in our supply chain, we also sell certain raw materials. InP is a high-performance semiconductor substrate used in fiber optic lasers and detectors, passive optical networks (PONs), telecommunication, metro and data center connectivity, silicon photonics, photonic ICs (PICs), terrestrial solar cell (CPV), lasers, RF amplifiers (military wireless), infrared motion control and infrared thermal imaging. We make semi-insulating GaAs substrates used in making semiconductor chips in applications such as power amplifiers for wireless devices, high-performance transistors and high efficiency solar cells for drones. Our semi-conducting GaAs substrates are used to create opto-electronic products, which include High Brightness LEDs that are often used to backlight wireless handsets and LCD TVs and for automotive, signage, display and lighting applications, as well as high power industrial lasers for material processing (welding, cutting, drilling, soldering, marking and surface modification). Our semi-conducting GaAs substrates could be 
+
+ 
+  9
+
+ 
+used to create opto-electronic products for 3-D sensing using VCSELs. Ge substrates are used in emerging applications, such as triple junction solar cells for space and terrestrial photovoltaic applications and for optical applications.
+     Substrates. We currently sell compound substrates manufactured from InP and GaAs, as well as single‑element substrates manufactured from Ge. We supply InP substrates in two-, three‑ and four-inch diameters, and Ge substrates in two-, four- and six-inch diameters. We supply both semi-insulating and semi-conducting GaAs substrates in one-, two-, three‑, four-, five- and six-inch diameters. Many of our customers require customized specifications, such as special levels of iron or sulfur dopants or a special wafer thickness.
+ Raw Materials. Our consolidated subsidiaries produce and sell certain raw materials, some of which are used in our substrate manufacturing process and some of which are sold to other companies.  Our raw materials include both raw gallium and purified gallium.  We use purified gallium to produce our GaAs substrates and sell both raw gallium and purified gallium in the open market to other companies for use in magnetic materials, high temperature thermometers and single crystal ingots, including gallium arsenide, gallium nitride, gallium antimonide, gallium phosphide and other materials and alloys.  We also produce pBN crucibles used in the high temperature (typically in the range 500 C to 1,500 C) growth process of single crystal ingots and epitaxial layer growth in MBE reactors.  We use these pBN crucibles in our own ingot growth processes and also sell them in the open market to other companies.  
+ We promote our product diversity as a way to differentiate ourselves in the market. Some competitors provide only gallium arsenide substrates. We provide gallium arsenide and also indium phosphide and germanium substrates.  Some competitors limit their wafer diameters to only a few sizes. Our wafers range from one inch to up to six inches in diameter.  We also produce substrates with customer defined specifications, which may range in thickness, smoothness or flatness and may include adding special additional materials, such as iron or sulfur. In addition to our wafers or substrates, we also generate revenue from our consolidated subsidiaries that sell raw materials.  Product diversity can mitigate some of the down cycles in our market because we are not dependent on a single product or application for revenue.    
+ Customers
+ Before specialty material wafers can be processed in a typical wafer manufacturing facility that constructs the electronic circuit, laser or optical device on a chip, a thin layer of structured chemicals is grown on the surface of the substrate.  This is called an epitaxial layer.  We sell our substrates to companies that apply the epitaxial layer, who then in turn sell the modified wafers to the wafer fabs, chip design companies, LED manufacturers and others. Some customers do both the epitaxial layer and wafer fabrication. 
+ Epitaxial layer companies that form our customer base are located in Asia, the United States and Europe.  We also sell our products to universities and other research organizations that use specialty materials for experimentation in various aspects of semi-conducting and semi-insulating applications. Our customers that purchase raw materials are located in Asia, the United States and Europe. 
+ We have at times sold a significant portion of our products in any particular period to a limited number of customers. One customer, Landmark represented 13% of our revenue for the year ended December 31, 2018. Two customers, Landmark and Osram, represented 12% and 11%, respectively, of our revenue for the year ended December 31, 2017. No customer represented more than 10% of our revenue for the year ended December 31, 2016. Our top five customers, although not the same five customers for each period, represented 35% of our revenue for each of the years ended December 31, 2018, 2017 and 2016, respectively. 
+ For each of the years ended December 31, 2018 and 2017, three customers with our consolidated subsidiaries, in aggregate, accounted for over 30% of raw material sales.  For the year ended December 31, 2016, four customers with our consolidated subsidiaries, in aggregate, accounted for over 40% of raw material sales. Our subsidiaries and joint ventures are a key strategic benefit for us as they further diversify our sources of revenue.
+
+ 
+  10
+
+ 
+
+ Manufacturing, Raw Materials and Supplies
+ We manufacture all of our products in China. We believe this location generally has favorable costs for facilities and labor compared to the United States or compared to the location of some of our competitors in Japan and Germany. 
+ We use a two-stage wafer manufacturing process.  The first stage deploys our VGF technology for the crystal growth of single element or compound element ingots in diameters currently ranging from one inch to six inches.  The growth process occurs in high temperature furnaces built using our proprietary designs. Growing the crystalline elements into cylindrical ingots takes a number of days, depending on the diameter and length of the ingot produced. The crystal growth stage utilizes AXT proprietary process technology. The second stage includes slicing or sawing the ingot into wafers or substrates, then processing each substrate to strict specifications, including grinding to reduce the thickness and then polishing, beveling the edges and cleaning each substrate.  Many of the wafer processing steps use chemical baths and properly cleaning the wafer is a critical process. The wafer processing stage also utilizes AXT proprietary process technology.
+ Wafers from each ingot will include some material that does not meet specifications or quality standards. Defects may occur as a result of inherent factors in the materials used in the crystalline growth process. They may also result from variances in the manufacturing process. We have many steps in our line that are partially or fully automated but other manufacturing steps are performed manually.  We intend to increase the level of automation, particularly in cleaning the wafers. In 2015, we purchased wafer processing equipment from Hitachi Metals to help us increase automation in our production line and, therefore, reduce variability and defects.  In addition, we secured a manufacturing license from Hitachi Metals.  This license includes detailed work instructions for using the equipment purchased and allows us to apply the licensed proprietary wafer processing technology at any step and on any form of equipment in our line. Due to potential defects, yield is a key factor in our manufacturing cost. Other key elements are the initial cost of the raw material elements, manufacturing equipment, factory loading, facilities and labor. 
+ We have 10 partially owned subsidiaries and joint ventures companies in China that form the backbone of our supply chain model. These companies provide us with reliable supply, market trend visibility, and shorter lead-times for raw materials central to our manufactured products, including gallium, gallium alloys, indium phosphide poly-crystal, arsenic, germanium, germanium dioxide, high purity arsenic, pBN and boron oxide. We believe that these subsidiaries and joint ventures have been and will continue to be advantageous in allowing us to procure materials to support our planned growth. In addition, we purchase supply parts, components and raw materials from several other domestic and international suppliers. We depend on a single or limited number of suppliers for certain critical materials used in the production of our substrates, such as quartz tubing, arsenic and polishing solutions. We generally purchase our materials through standard purchase orders and not pursuant to long-term supply contracts.
+ Sales and Marketing
+ We sell our substrate products directly to customers through our direct salesforce in the United States, China and Europe. We use independent sales representatives and distributors in Japan, Taiwan, Korea and other areas. Our direct salesforce is knowledgeable in the use of compound and single‑element substrates. Specialty material wafers are scientifically complicated. Our application engineers must work closely with customers during all stages of our wafer substrate manufacturing process, from developing the precise composition of the wafer substrate through manufacturing and processing the wafer substrate to the customer’s specifications. We believe that maintaining a close relationship with customers and providing them with engineering support improves customer satisfaction and provides us with a competitive advantage in selling. A significant percentage of the members of our technical sales support team who frequently engage with customers have PhDs in physics or materials science.
+ International Sales. International sales are a substantial part of our business. Sales to customers outside North America (primarily the United States) accounted for approximately 90%, 91% and 90% of our revenue during 2018, 2017 and 2016, respectively. The primary markets for sales of our substrate products outside of North America are to customers located in Asia and Western Europe. We occasionally receive small orders from customers located in Israel and Russia.
+
+ 
+  11
+
+ 
+
+ Our subsidiaries and joint venture companies sell specialty raw materials including 4N, 5N, 6N, 7N and 8N gallium, boron oxide, germanium, arsenic, germanium dioxide, pyrolytic boron nitride crucibles used in crystal growth, parts for MBE and parts used in manufacturing OLED rings. These subsidiaries and joint ventures have their own separate sales forces and sell directly to their own customers in addition to selling raw materials to us. 
+ Research and Development
+ To maintain and improve our competitive position, we focus our research and development efforts on designing new proprietary processes and products, improving the performance of existing products, achieving new lows in EPD, increasing yields and reducing manufacturing costs. We also conduct research and development focusing on larger diameter wafers and, in our history, we have consistently developed new products based on larger wafer diameters.  Crystal growth of specialty earth materials becomes significantly more difficult as the ingot diameter increases because a consistent temperature, and in the case of InP, consistent control of pressure, must be applied over a larger surface area.  In 2015, we acquired certain proprietary InP crystal growth technology and equipment from Crystacomm.
+ Certain micro devices, such as the array used for 3-D sensing, require GaAs wafers with very low etch pit density.  In anticipation of a growth in demand for low EPD six-inch wafers, we have focused our development efforts on increasing our yield of such wafers.  
+ Our current substrate research and development activities focus on continued development and enhancement of GaAs, InP and Ge substrates, including improved yield, enhanced surface and electrical characteristics and uniformity, greater substrate strength and increased crystal length.  In 2015, we acquired proprietary wafer processing equipment from Hitachi Metals. The Hitachi Metals purchase includes a license covering the use of the proprietary equipment and Hitachi Metals’ proprietary wafer processing technology. A particular focus of the equipment and process technology is on cleaning the wafers.  It is important to remove any residual cleaning agents from each wafer to ensure that the epitaxial growth process is not encumbered by residual chemicals on the wafer.
+ Our three consolidated subsidiaries conduct research and development, focusing on gallium alloys, gallium refinement and pyrolytic boron nitride crucibles used in high temperature crystal growth. 
+ We have assembled a multi‑disciplinary team of skilled scientists, engineers and technicians to meet our research and development objectives. Research and development expenses were $5.9 million in 2018, compared with $4.8 million in 2017 and $5.9 million in 2016. Wafer substrate research and development increased in 2018 and this increase was offset by a decrease in one of our three consolidated subsidiaries. Development work focusing on yield improvement and other matters related to our research and development efforts also occurs within regular manufacturing processes. These costs are included in our cost of revenue because it is difficult to isolate them as research and development.
+ Competition
+ The semiconductor substrate industry is characterized by narrow technological boundaries, price erosion and generally intense competition. Certain wafer substrates, such as low quality wafer substrates for consumer products using LED lighting, compete almost entirely on price.  Other products, such as InP and low EPD GaAs wafers, have fewer competitors and quality is a key competitive factor in addition to price.  We face actual and potential competition from a number of established companies who have the advantage of greater name recognition and more established relationships in the industry.  In some cases, our competitors have substantially greater financial, technical and marketing resources as they are divisions of much larger companies.  They may utilize these advantages to expand their product offerings more quickly, adapt to new or emerging technologies and changes in customer requirements more quickly, and devote greater resources to the marketing and sale of their products.  We believe a critical factor in our business is technical support extended to the customer or prospective customer and we attempt to counter possible advantages of name recognition or size with superior technical support through the use of our team of technical sales support professionals, the majority of whom hold PhDs in physics or materials science.
+
+ 
+  12
+
+ 
+
+ We believe that the primary competitive factors in the markets in which our substrate products compete are:
+
+· | quality;
+--+---------
+
+
+· | price;
+--+-------
+
+
+· | customer technical support;
+--+----------------------------
+
+
+· | performance;
+--+-------------
+
+
+· | meeting customer specifications; and
+--+-------------------------------------
+
+
+· | manufacturing capacity.
+--+------------------------
+
+  Our ability to compete in target markets also depends on factors such as:
+
+· | the timing and success of the development and introduction of new products, including larger diameter wafers, and product features by us and our competitors;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the availability of adequate sources of raw materials;
+--+-------------------------------------------------------
+
+
+· | protection of our proprietary methods, systems and process;
+--+------------------------------------------------------------
+
+
+· | protection of our products by effective use of intellectual property laws; and
+--+-------------------------------------------------------------------------------
+
+
+· | general economic conditions, which impact end markets using substrates.
+--+------------------------------------------------------------------------
+
+  A majority of our customers specialize in epitaxial growth, a complex series of chemical layers grown on top of our wafers. Typically, our customer or prospective customer has at least two qualified substrate suppliers. Qualified suppliers must meet industry‑standard specifications for quality, on-time delivery and customer support. Once a substrate supplier has qualified with a customer, price, consistent quality and current and future product delivery lead times become the most important competitive factors. A supplier that cannot meet a customer’s current lead times or that a customer perceives will not be able to meet future demand and provide consistent quality can lose market share. Our primary competition in the market for compound and single element semiconductor substrates includes Sumitomo Electric Industries (“Sumitomo”), Japan Energy (“JX”), Freiberger Compound Materials (“Freiberger”), Umicore, and China Crystal Technology Corp. (“CCTC”). We believe that at least two of our competitors are shipping high volumes of GaAs substrates manufactured using a process similar to our VGF technology. In addition, we also face competition from semiconductor device manufacturers that may use other specialty material substrates that are not GaAs, InP or Ge based materials and that are actively exploring alternative materials. For example, silicon-on-insulator (“SOI”) technology, a silicon wafer technology that produces satisfactory devices at lower cost, has been proven in the market. From 2012 to 2015, SOI technology displaced GaAs chips in key sectors, primarily the radio frequency (RF) switching function in cell phones.  
+ Because of our vertically integrated, sophisticated supply chain through our subsidiaries and joint venture companies, we believe we are the only compound semiconductor substrate supplier to offer a broad suite of raw materials. We believe this gives us a unique competitive advantage because we have greater control and stability over many of our needed materials.  Further, we believe we have some advantage in manufacturing costs. In the event of a significant increase in demand we believe our raw materials supply chain strategy and our ability to rapidly increase capacity can provide us some advantage. 
+    
+ 
+  13
+
+ 
+
+ Intellectual Property
+ Our success and the competitive position of our VGF technology depend on our ability to maintain our proprietary process technology secrets and other intellectual property protections. We rely on a combination of patents, trademark and trade secret laws, non-disclosure agreements and other intellectual property protection methods to protect our proprietary technology. We believe that, due to the rapid pace of technological innovation in the markets for our products, our ability to establish and maintain a position of technology leadership depends as much on the skills of our research and development personnel as upon the legal protections afforded our existing technologies. To protect our trade secrets, we take certain measures to ensure their secrecy, such as executing non-disclosure agreements with our employees, customers and suppliers. However, reliance on trade secrets is only an effective business practice insofar as trade secrets remain undisclosed and a proprietary product or process is not reverse engineered or independently developed.
+ In addition to proprietary process trade secrets, we also file patents. To date, we have been issued 51 patents related to our VGF products and processes; 30 in China, nine in the United States, seven in Japan, two in Taiwan, one in the European Union, one in Canada and one in South Korea. Patents have a protected life of 20 years from their filing dates. Our patents have expiration dates ranging from one expiration in 2018 to 2035.  In some cases we may consider filing divisional, continuation or continuation-in-part of the existing patents for additional claims. We have 15 patent applications pending, including 10 in China, three in the Patent Cooperation Treaty stage and two in Europe. We also have two provisional patents filed in 2018 in the United States. Furthermore, in aggregate, our three consolidated joint venture companies have been issued 53 patents in China, including 28 patents issued to Beijing BoYu Semiconductor Vessel Craftwork Technology Co. Ltd. (“BoYu”), 22 patents issued to Nanjing JinMei Gallium Co. Ltd. (“JinMei”) and 3 patents issued to Beijing JiYa Semiconductor material Co. Ltd. (“JiYa”).
+ We entered into a technology license and royalty agreement with Sumitomo, effective December 3, 2010, with a term of eight years, terminating December 31, 2018.  We, and our related companies, were granted a worldwide, nonexclusive, royalty bearing, irrevocable license to certain patents for the term of the agreement. We are reviewing a request from Sumitomo to renew this license.
+ In the normal course of business, we periodically receive and make inquiries regarding possible patent infringement. In dealing with such inquiries, it may become necessary or useful for us to obtain or grant licenses or other rights. However, there can be no assurance that such licenses or rights will be available to us on commercially reasonable terms. If we are not able to resolve or settle claims, obtain necessary licenses on commercially reasonable terms and/or successfully prosecute or defend our position, our business, financial condition and results of operations could be materially and adversely affected.
+ Environmental Regulations
+ We are subject to federal, state and local environmental and safety laws and regulations in all of our operating locations, including laws and regulations of China, such as laws and regulations related to the development, manufacture and use of our products, the use of hazardous materials, the operation of our facilities, and the use of our real property. These laws and regulations govern the use, storage, discharge and disposal of hazardous materials during manufacturing, research and development and sales demonstrations. We maintain a number of environmental, health and safety programs that are primarily preventive in nature. As part of these programs, we regularly monitor ongoing compliance. If we fail to comply with applicable regulations, we could be subject to substantial liability for clean-up efforts, personal injury, fines or suspension or be forced to cease our operations, and/or suspend or terminate the development, manufacture or use of certain of our products, the use of our facilities, or the use of our real property, each of which could have a material adverse effect on our business, financial condition and results of operations.  The regulatory landscape shifts and changes in China as that country attempts to address its environmental pollution. Because we manufacture all of our products in China, we are subject to an evolving set of regulations that could require changes in our equipment and processes and require us to obtain new permits. In 2017, China increased its focus on environmental concerns which increased pressure on manufacturing companies. During periods of severe air pollution in Beijing, manufacturing companies, including AXT, may be ordered by the local government to stop production for several days.  
+
+ 
+  14
+
+ 
+For example, in the first quarter of 2018, over 300 manufacturing companies, including AXT, were intermittently shut down by the local government for a total of ten days from February 27 to March 31, due to severe air pollution.
+ Employees
+ As of December 31, 2018, we had 781 employees, which consisted of 26 employees in our headquarters in Fremont, California, one sales professional in France and 754 employees in our factory in China. In addition, our three consolidated subsidiaries had, in total, 299 employees. In aggregate, we and our subsidiaries had 1,080 employees, of whom 886 were principally engaged in manufacturing, 141 in sales and administration and 53 in research and development. Of these 1,080 employees, 26 were located in the United States, one in France and 1,053 in China. 
+
+Most workers in China are represented by unions. As of December 31, 2018, 877 employees in China including employees of our subsidiaries were represented by unions. We have never experienced a work stoppage and we consider our relations with our employees to be good.
+ Geographical Information
+ Please see Note 14 of our Notes to Consolidated Financial Statements for information regarding our foreign operations, and see “Risks related to international aspects of our business” under Item 1A. Risk Factors for further information on risks attendant to our foreign operations and dependence. Available Information
+ Our principal executive offices are located at 4281 Technology Drive, Fremont, CA 94538, and our main telephone number at this address is (510) 438-4700. Our Internet website address is www.axt.com. Our website address is given solely for informational purposes; we do not intend, by this reference, that our website should be deemed to be part of this Annual Report on Form 10-K or to incorporate the information available at our Internet address into this Annual Report on Form 10‑K.
+ We file electronically with the Securities and Exchange Commission, or SEC, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended. We make these reports available free of charge through our Internet website as soon as reasonably practicable after we have electronically filed such material with the SEC. These reports can also be obtained from the SEC’s Internet website at www.sec.gov or at the SEC's Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+ Item 1A. Risk Factors    For ease of reference, we have divided these risks and uncertainties into the following general categories:
+
+I. | Risks related to our general business;
+---+---------------------------------------
+
+
+II. | Risks related to international aspects of our business;
+----+--------------------------------------------------------
+
+
+III. | Risks related to our financial results and capital structure;
+-----+--------------------------------------------------------------
+
+
+IV. | Risks related to our intellectual property; and
+----+------------------------------------------------
+
+
+V. | Risks related to compliance, environmental regulations and other legal matters.
+---+--------------------------------------------------------------------------------
+
+ 
+ 
+  15
+
+ 
+
+ I.           Risks Related to Our General Business
+ Silicon substrates (wafers) are significantly lower in cost compared to substrates made from specialty materials, and new silicon-based technologies could enable silicon-based substrates to replace specialty material based substrates for certain applications.
+ Historically silicon wafers or substrates are less expensive than specialty material substrates, such as those that we produce.  Electronic circuit designers will generally consider silicon first and only turn to alternative materials if silicon cannot provide the required functionality in terms of power consumption, speed, wave lengths or other specifications.  Beginning in 2011, certain applications that had previously used GaAs substrates adopted a new silicon-based technology called silicon on insulator, or SOI. SOI technology uses a silicon-insulator-silicon layered substrate in place of conventional silicon substrates in semiconductor manufacturing. SOI substrates cost less than GaAs substrates and, although their performance is not as robust as GaAs substrates in terms of power consumption, heat generation and speed, they became acceptable in mobile phones and other applications that were previously dominated by GaAs substrates.  The adoption of SOI resulted in decreased GaAs wafer demand, and decreased revenue. If SOI or new silicon-based technologies gain more widespread market acceptance, or are used in more applications, our sales of specialty material based substrates could be reduced and our business and operating results could be significantly and adversely affected. 
+ Our gross margin has fluctuated historically and may decline due to several factors.
+ Our gross margin has fluctuated from period to period as a result of increases or decreases in total revenue, shifts in the cost of raw materials, shifts in product mix, costs related to the relocation of our gallium arsenide and germanium production lines, including costs related to the hiring additional manufacturing employees at our new locations, tariffs imposed by the U.S. government, the introduction of new products, decreases in average selling prices for products, utilization of our manufacturing capacity, fluctuations in manufacturing yields and our ability to reduce product costs. These factors and other variables change from period to period and these fluctuations are expected to continue in the future. A recent example is that in the third quarter of 2018 our gross margin was 37.1% but it dropped to 26.3% in fourth quarter of 2018 as a result of several of these factors. 
+ In recent months, the prices of many of the raw materials that we use in our substrate manufacturing process have increased. Such price increases can increase our cost of revenue and reduce our gross margin.
+ Further, we do not control the prices at which our subsidiaries and other joint venture companies sell their raw material products to third parties and we do not control their production process. However, because we consolidate the results of three of these companies with our own, any reduction in their gross margins could have a significant, adverse impact on our overall gross margins. One or more of our companies has in the past sold, and may in the future sell, raw materials at significantly reduced prices in order to gain volume sales or sales to new customers. In addition, at some points in the last three years, the market price of gallium dropped below our per unit inventory cost and we incurred an inventory write down under the lower of cost or net realizable value accounting rules. In this regard, in the first quarter of 2018 our consolidated raw gallium company incurred a $295,000 charge. In such events, our gross margin is adversely impacted.
+ Underutilizing our manufacturing facilities may result in declines in our gross margins.
+ An important factor in our success is the extent to which we are able to utilize the available capacity in our manufacturing facilities. A number of factors and circumstances may reduce utilization rates, including periods of industry overcapacity, low levels of customer orders, operating inefficiencies, mechanical failures and disruption of operations due to expansion, power interruptions, fire, flood, other natural disasters or calamities or government-ordered mandatory factory shutdowns. Severe air pollution in Beijing can trigger mandatory factory shutdowns. For example, in the first quarter of 2018, over 300 manufacturing companies, including AXT, were intermittently shut down by the local government for a total of ten days from February 27 to March 31, due to severe air pollution. Further, we are increasing capacity by adding two new sites, which may reduce our utilization rate and increase our depreciation charges, at least until we de-commission part of our Beijing site. Because many portions of our manufacturing costs are relatively fixed, 
+
+ 
+  16
+
+ 
+high utilization rates are critical to our gross margins and operating results. If we fail to achieve acceptable manufacturing volumes or experience product shipment delays, our results of operations will be negatively affected. During periods of decreased demand, we have underutilized our manufacturing lines. If we are unable to improve utilization levels at our facilities during periods of decreased demand and correctly manage capacity, the fixed expense levels will have an adverse effect on our business, financial condition and results of operations. For example, in the three months ended December 31, 2018, our revenue dropped to $22.2 million and our gross margin was only 26.3%.
+ If we are unable to utilize the available capacity in or manufacturing facilities, we may need to implement a restructuring plan, which could have a material adverse effect on our revenue, our results of operations and our financial condition. For example, in 2013, we concluded that incoming orders were insufficient and that we were significantly underutilizing our factory capacity. As a result, in February 2014, we announced a restructuring plan with respect to our wholly-owned subsidiary, Beijing Tongmei Xtal Technology Co, Ltd., in order to better align manufacturing capacity with demand. Under the restructuring plan, we recorded a charge of approximately $907,000 in the first quarter of 2014. In the second quarter of 2016, we restructured the operations of Beijing JiYa Semiconductor Material Co., Ltd., one of our partially owned consolidated subsidiaries, which resulted in a reduction in force of 28 positions that were no longer required to support production and operations. 
+ If we receive fewer customer orders than forecasted or if our customers delay or cancel orders, we may not be able to reduce our manufacturing costs in the short-term and our gross margins would be negatively affected. In addition, lead times required by our customers are shrinking, which reduces our ability to forecast orders and properly balance our capacity utilization.
+ If we have low product yields, the shipment of our products may be delayed and our product cost and operating results may be adversely impacted.
+ A critical factor in our product cost is yield. Our products are manufactured using complex crystal growth and wafer processing technologies, and the number of usable wafer substrates we produce can fluctuate as a result of many factors, including:
+
+· | poor control of furnace temperature and pressure;
+--+--------------------------------------------------
+
+
+· | impurities in the materials used;
+--+----------------------------------
+
+
+· | contamination of the manufacturing environment;
+--+------------------------------------------------
+
+
+· | quality control and inconsistency in quality levels;
+--+-----------------------------------------------------
+
+
+· | lack of automation and inconsistent processing requiring manual manufacturing steps;
+--+-------------------------------------------------------------------------------------
+
+
+· | substrate breakage during the manufacturing process; and
+--+---------------------------------------------------------
+
+
+· | equipment failure, power outages or variations in the manufacturing process.
+--+-----------------------------------------------------------------------------
+
+  A current example where yield is of special concern is for our six-inch semi-conducting gallium arsenide substrates, which can be used for manufacturing opto-electronic devices in cell phones, enabling 3-D sensing.  This application requires very low defect densities, also called etch pit densities, or EPD, and our yields will be lower than the yields achieved for the same substrate when it will be used in other applications.  If we are unable to achieve the targeted quantity of low defect density substrates, then our manufacturing costs would increase and our gross margins would be negatively impacted. 
+ In addition, we may modify our process to meet a customer specification, but this can impact our yields. If our yields decrease, our revenue could decline if we are unable to produce products to our customers’ requirements. At the same time, our manufacturing costs could remain fixed, or could increase. Lower yields negatively impact our gross 
+
+ 
+  17
+
+ 
+margin. We have experienced product shipment delays and difficulties in achieving acceptable yields on both new and older products, and delays and poor yields have adversely affected our operating results. We may experience similar problems in the future and we cannot predict when they may occur, their duration or severity. 
+ If our manufacturing processes result in defects in our products making them unfit for use by our customers, our products would be rejected, resulting in compensation costs paid to our customers, and possible disqualification. This could lead to revenue loss and market share loss.
+ Risks exist in relocating our gallium arsenide manufacturing operations.
+     The Chinese government has imposed, and may impose in the future, manufacturing restrictions and regulations that require us to move part of our manufacturing operations to a different location or temporarily cease or limit manufacturing. Such relocation, or other restrictions on manufacturing, could materially and adversely impact our results of operations and our financial condition. 
+     The Beijing city government is moving its offices into the area where our original manufacturing facility is currently located and is in the process of moving thousands of government employees into this area. The government has constructed showcase tower buildings and overseen the establishment of new apartment complexes, retail stores and restaurants. An amusement park is being constructed within a few miles of our facility. To create room and upgrade the district, the city instructed virtually all existing manufacturing companies, including AXT, to relocate all or some of their manufacturing lines. In 2018, we made significant progress in the relocation of our gallium arsenide and germanium production lines and we intend to complete this relocation in 2019. 
+     The relocation of our gallium arsenide production line requires us to continue to accurately execute our relocation plan. A failure to properly complete our relocation could result in disruption to our production and have a material adverse impact on our revenue, our results of operations and our financial condition. We intend to secure additional permits and approvals in 2019. Given the fluidity and ever-increasing review of environmental and regulatory ordinances in China, there can be no assurance that these matters will be satisfactorily completed.
+     In 2018, we provided qualification wafers and our own internal characterization data from the new facilities to our customers. Our major customers are in the process of qualifying the wafer substrates before placing volume purchase orders for products from the new facilities. If we fail to meet the product qualification requirements of a customer, we may lose sales to that customer. Our reputation may also be damaged. Any loss of sales could have a material adverse effect on our revenue, our results of operations and our financial condition.
+     We expect many of the key employees who are employed at our current manufacturing facility to relocate to the new sites or commute under a program we are developing.  There can be no assurances that the key employees will relocate.  A loss of key employees or our inability to hire qualified employees could disrupt our production, which could materially and adversely impact our results of operations and our financial condition.
+     The Chinese government has in the past imposed temporary restrictions on manufacturing facilities, such as the restrictions imposed on polluting factories for the 2008 Olympics and the 2014 Asian Pacific Economic Cooperation event.  These restrictions included a shutdown of the transportation of materials and power plants to reduce air pollution. To reduce air pollution in Beijing, the Chinese government has sometimes limited the construction of new, or expansion of existing, facilities by manufacturing companies in the Beijing area or required mandatory factory shutdowns. For example, in the first quarter of 2018, over 300 manufacturing companies, including AXT, were intermittently shut down by the local government for a total of ten days from February 27 to March 31 due to severe air pollution. If the government applies similar restrictions to us or requires mandatory factory shutdowns in the future, then such restrictions or shutdowns could have an adverse impact on our results of operations and our financial condition.  Our ability to supply current or new orders could be significantly impacted. Customers could then be required to purchase products from our competitors, causing our competitors to take market share from us.
+     In addition, from time to time, the Chinese government issues new regulations, which may require additional actions on our part to comply.  On February 27, 2015, the China State Administration of Work Safety updated its list of 
+
+ 
+  18
+
+ 
+hazardous substances.  The previous list, which was published in 2002, did not restrict the materials that we use in our wafers.  The new list added gallium arsenide.  As a result of the newly published list, we were instructed to obtain a permit to continue to manufacture our gallium arsenide substrate wafers.  The Beijing municipal authority accepted our permit application in May 2015, but has not issued to us the requisite permit while we continue to execute our plan to relocate our gallium arsenide production.  If our application is denied in the future before we complete our relocation, then our gallium arsenide production could be disrupted, which could materially and adversely impact our results of operations and our financial condition.
+     Customers may require that they re-qualify our gallium arsenide wafer substrates from the new manufacturing line.
+    
+As required by the Beijing city government we are relocating gallium arsenide production so that it is not within Beijing. In 2018, we provided qualification wafers and our own internal characterization data from the new facilities to our customers. Most of our major customers will view this as a process engineering change and their internal quality control system will require them to re-qualify the wafer substrates produced at our new manufacturing site to ensure that the product characteristics still conform to their specification.  Delays in the qualification process or failures to re-qualify could result in a reduction of orders and have a material adverse effect on our revenue.
+     Global economic and political conditions, including trade tariffs and restrictions, have an impact on our business and financial condition in ways that we currently cannot predict.
+ Recent tariffs and threats of trade tariffs and restrictions between China and the United States may, in our view, create an unstable environment.  In September 2018, the Trump Administration announced a list of thousands of categories of goods that are now subject to tariffs when imported into the United States.  This pronouncement imposed 10% tariffs on our products and will have a negative impact on our operations and financial performance.  Although we do not believe the initial impact of approximately $150,000 per quarter is material, the future impact of tariffs and trade wars is uncertain.
+     Our operations and financial results depend on worldwide economic and political conditions and their impact on levels of business spending, which has deteriorated significantly in many countries and regions. Uncertainties in the political, financial and credit markets may cause our customers to postpone deliveries. Delays in the placement of new orders and extended uncertainties may reduce future sales of our products and services. The revenue growth and profitability of our business depends on the overall demand for our substrates, and we are particularly dependent on the market conditions in wireless, solid‑state illumination, fiber optics and telecommunications industries. Because the end users of our products are primarily large companies whose businesses fluctuate with general economic and business conditions, a softening of demand for products that use our substrates, caused by a weakening economy, may result in decreased revenue. Customers may find themselves facing excess inventory from earlier purchases, and may defer or reconsider purchasing products due to the downturn in their business and in the general economy. If market conditions deteriorate, we may experience increased collection times and greater write-offs, either of which could have a material adverse effect on our profitability and our cash flow.
+    
+Future tightening of credit markets and concerns regarding the availability of credit may make it more difficult for our customers to raise capital, whether debt or equity, to finance their purchases of capital equipment or of the products we sell. Delays in our customers’ ability to obtain such financing, or the unavailability of such financing, would adversely affect our product sales and revenues and, therefore, harm our business and operating results. We cannot predict the timing, duration of or effect on our business of any future economic downturn or the timing or strength of any subsequent recovery.
+ If any of our facilities are damaged by occurrences such as fire, explosion, power outage or natural disaster, we might not be able to manufacture our products.
+ The ongoing operation of our manufacturing and production facilities in China is critical to our ability to meet demand for our products. If we are not able to use all or a significant portion of our facilities for prolonged periods for any reason, we would not be able to manufacture products for our customers. For example, a fire or explosion caused by our use of combustible chemicals, high furnace temperatures or, in the case of InP, high pressure during our 
+
+ 
+  19
+
+ 
+manufacturing processes could render some or all of our facilities inoperable for an indefinite period of time. Actions outside of our control, such as earthquakes or other natural disasters, could also damage our facilities, rendering them inoperable. If we are unable to operate our facilities and manufacture our products, we would lose customers and revenue and our business would be harmed.
+ On the evening of March 15, 2017, an electrical short-circuit fire occurred at our Beijing manufacturing facility.  The electrical power supply supporting 2-inch, 3-inch and 4-inch gallium arsenide and germanium crystal growth was damaged and production in that area was stopped.  In addition, a waste water pipe was damaged resulting in a halt to wafer processing for four days until the pipe could be repaired.  We were able to rotate key furnace hardware and use some of the 6-inch capacity for smaller diameter crystal growth production to mitigate the impact of the fire and resume production. If we are unable to recover from a fire or natural disaster, our business and operating results could be materially and adversely affected.
+ Demand for our products may decrease if demand for the end-user applications decrease or if manufacturers downstream in our supply chain experience difficulty manufacturing, marketing or selling their products.
+ Our products are used to produce components for electronic and opto-electronic products. Accordingly, demand for our products is subject to the demand for end-user applications which utilize our products, as well as factors affecting the ability of the manufacturers downstream in our supply chain to introduce and market their products successfully, including:
+
+· | worldwide economic and political conditions and their impact on levels of business spending;
+--+---------------------------------------------------------------------------------------------
+
+
+· | the competition such manufacturers face in their particular industries;
+--+------------------------------------------------------------------------
+
+
+· | the technical, manufacturing, sales, marketing and management capabilities of such manufacturers;
+--+--------------------------------------------------------------------------------------------------
+
+
+· | the financial and other resources of such manufacturers; and
+--+-------------------------------------------------------------
+
+
+· | the inability of such manufacturers to sell their products if they infringe third‑party intellectual property rights.
+--+----------------------------------------------------------------------------------------------------------------------
+
+  If demand for the end-user applications for which our products are used decreases, or if manufacturers downstream in our supply chain are unable to develop, market and sell their products, demand for our products will decrease. For example, in the fourth quarter of 2018, widespread political and economic instability and trade war concerns resulted in a general slowdown and our revenue decreased significantly. Additionally, in the second half of 2016, manufacturers producing and selling passive optical network devices known as EPONs and GPONs experienced a slowdown in demand resulting in surplus inventory on hand. The slowdown persisted until late in 2017.  This resulted in a slowdown of sales of our InP substrates used in the PON market.  We expect similar cycles of strong demand followed by lower demand will occur for various InP, GaAs or Ge substrates in the future.
+ Our revenue, gross margins and profitability can be hurt if the average sales price of the various raw materials in our partially owned companies decreases.
+     Although the companies in our vertically integrated supply chain have historically made a positive contribution to our financial performance, when the average selling prices for the raw materials produced decline, this results in a negative impact on our revenue, gross margin and profitability.  For example, the average selling prices for 4N gallium and for germanium were driven down by oversupply in 2015, 2016 and 2017, and negatively impacted our financial results. In 2018, 2017 and 2016, the seven companies accounted for under the equity method of accounting contributed a loss of $1.1 million, $1.7 million and $2.0 million, respectively, to our consolidated financial statements.  There can be no assurance that the oversupply will be corrected by the market. Further, in several quarters over the past three years, one of our consolidated subsidiaries incurred a lower of cost or net realizable value inventory write down, which negatively impacted our consolidated gross margin. For example, in the first quarter of 2018, our consolidated raw gallium company incurred an inventory write-down charge of $295,000. In the first quarter of 2017, we incurred an 
+
+ 
+  20
+
+ 
+impairment charge of $313,000 against one of our partially owned companies, writing down our investment to zero value. If the pricing environment remains stressed by oversupply and our joint venture companies cannot reduce their production costs, then the reduced average selling prices of the raw materials produced by our joint venture companies will have a continuing adverse impact on our revenue, gross margins and net profit.
+     Problems incurred in our 10 partially owned joint venture companies or investment partners could result in a material adverse impact on our financial condition or results of operations.
+ We have invested in 10 partially owned subsidiaries and joint venture companies in China that produce materials, including 99.99% pure gallium (4N Ga), high purity gallium (7N Ga), arsenic, germanium, germanium dioxide, pyrolytic boron nitride (pBN) crucibles and boron oxide (B2O3). We purchase a portion of the materials produced by these companies for our use and they sell the remainder of their production to third parties. Our ownership and the ownership held by our consolidated subsidiaries in these companies range from 20% to 97%. We consolidate the companies in which we have a majority or controlling financial interest and employ equity accounting for the companies in which we have a smaller ownership interest. Several of these companies occupy space within larger facilities owned and/or operated by one of the other investment partners. Several of these partners are engaged in other manufacturing activities at or near the same facility. In some facilities, we share access to certain functions, including water, hazardous waste treatment or air quality treatment. If a partner in any of these ventures experiences problems with its operations, or deliberately withholds or disrupts services, disruptions in the operations of our companies could result, having a material adverse effect on the financial condition and results of operation in these companies, and correspondingly on our financial condition or results of operations. For example, since gallium is a by-product of aluminum, our raw gallium joint venture in China, which is housed in and receives services from an affiliated aluminum plant, could generate lower production and shipments of gallium as a result of reduced services provided by the aluminum plant. Accordingly, in order to meet customer supply obligations, our supply chain may have to source materials from another independent third party supplier, resulting in higher costs and reduced gross margin.
+ The China central government has become increasingly concerned about environmental hazards.  Air pollution is a well-known problem in Beijing and other parts of China.  In days of severe air pollution, the government has ordered manufacturing companies to stop all production.  The central government is also tightening control over hazardous chemicals and other hazardous elements such as arsenic, which is produced by two of our unconsolidated joint venture companies.  Regular use in the normal course of business of hazardous chemicals or hazardous elements or a company’s failure to meet the ever tightening standards for control of hazardous chemicals or hazardous elements could result in orders to shut down permanently, fines or other severe measures.  Any such orders directed at one of our joint venture companies could result in impairment charges if the company is forced to close its business, cease operations or incurs fines or operating losses, which would have a material adverse effect on our financial results.
+ Further, if any of our joint venture companies or investment partners with which our joint ventures share facilities is deemed to have violated applicable laws, rules or regulations governing the use, storage, discharge or disposal of hazardous chemicals, the operations of that joint venture could be adversely affected and we could be subject to substantial liability for clean-up efforts, personal injury, fines or suspension or termination of our joint venture’s operations. Employees working for our joint ventures or any of the other investment partners could bring litigation against us as a result of actions taken at the joint venture or investment partner facilities, even though we are not directly controlling those operations. While we would expect to defend ourselves vigorously in any litigation that is brought against us, litigation is inherently uncertain and it is possible that our business, financial condition, results of operations or cash flows could be affected. Even if we are not deemed responsible for the actions of the joint ventures or investment partners, litigation could be costly, time consuming to defend and divert management attention; in addition, if we are deemed to be the most financially viable of the partners, plaintiffs may decide to pursue us for damages.
+ Intense competition in the markets for our products could prevent us from increasing revenue and sustaining profitability.
+ The markets for our products are intensely competitive. We face competition for our substrate products from other manufacturers of substrates, such as Sumitomo, JX, Freiberger, Umicore, and CCTC, and from companies, such as Qorvo and Skyworks, that are actively considering alternative materials to GaAs and marketing semiconductor devices 
+
+ 
+  21
+
+ 
+using these alternative materials. We believe that at least two of our major competitors are shipping high volumes of GaAs substrates manufactured using a process similar to our VGF process technology. Other competitors may develop and begin using similar technology. Sumitomo and JX also compete with us in the InP market. If we are unable to compete effectively, our revenue may decrease and we may not maintain profitability. We face many competitors that have a number of significant advantages over us, including:
+
+· | greater name recognition and market share in the business;
+--+-----------------------------------------------------------
+
+
+· | more manufacturing experience;
+--+-------------------------------
+
+
+· | extensive intellectual property; and
+--+-------------------------------------
+
+
+· | significantly greater financial, technical and marketing resources.
+--+--------------------------------------------------------------------
+
+  Our competitors could develop new or enhanced products that are more effective than our products.
+ The level and intensity of competition has increased over the past years and we expect competition to continue to increase in the future. Competitive pressures have resulted in reductions in the prices of our products, and continued or increased competition could reduce our market share, require us to further reduce the prices of our products, affect our ability to recover costs and result in reduced gross margins and profitability.
+ In addition, new competitors have and may continue to emerge, such as a crystal growing company established by a former employee in China that is supplying semi-conducting GaAs wafers to the LED market. Competition from sources such as this could increase, particularly if these competitors are able to obtain large capital investments.
+ Cyber-attacks, system security risks and data protection issues could disrupt our internal operations and cause a reduction in revenue, increase in expenses, negatively impact our results of operation or result in other adverse consequences.
+     Like most technology companies, we could be targeted in cyber-attacks. We face a risk that experienced computer programmers and hackers may be able to penetrate our network security and misappropriate or compromise our confidential and proprietary information, potentially without being detected. Computer programmers and hackers also may be able to develop and deploy viruses, worms, and other malicious software programs that attack our information technology infrastructure. The costs to us to eliminate or alleviate cyber or other security problems, bugs, viruses, worms, malicious software programs and security vulnerabilities could be significant, and our efforts to address these problems may not be successful and could result in interruptions and delays that may impede our sales, manufacturing, distribution, accounting or other critical functions. 
+ Breaches of our security measures could create system disruptions or cause shutdowns or result in the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us.  Cyber-attacks could use fraud, trickery or other forms of deception. A cyber-attack could expose us to a risk of loss or misuse of information, result in litigation and potential liability, damage our reputation or otherwise harm our business. In addition, the cost and operational consequences of implementing further data protection measures could be significant.
+ Portions of our information technology  infrastructure might also experience interruptions, delays or cessations of service or produce errors in connection with systems integration or migration work that takes place from time to time, which may have a material impact on our business. We may not be successful in implementing new systems and transitioning data, which could cause business disruptions and be more expensive, time consuming, disruptive and resource-intensive than originally anticipated. Such disruptions could adversely impact our ability to fulfill orders and interrupt other processes. Delayed sales, lower margins or lost customers could adversely affect our financial results and reputation.
+
+ 
+  22
+
+ 
+
+ The average selling prices of our substrates may decline over relatively short periods, which may reduce our revenue and gross margins.
+ Since the market for our products is characterized by declining average selling prices resulting from various factors, such as increased competition, overcapacity, the introduction of new products and decreased sales of products incorporating our products, the average selling prices for our products may decline over relatively short time periods. We have in the past experienced, and in the future may experience, substantial period-to-period fluctuations in operating results due to declining average selling prices.  In certain years, we have experienced an average selling price decline of our substrate selling prices of approximately 5% to 10%, depending on the substrate product. It is possible that the pace of the decline of average selling prices could accelerate beyond these levels for certain products in a commoditizing market. We anticipate that average selling prices will decrease in the future in response to the unstable demand environment, price reductions by competitors, or by other factors, including pricing pressures from significant customers.  When our average selling prices decline, our revenue and gross profit decline, unless we are able to sell more products or reduce the cost to manufacture our products. We generally attempt to combat an average selling price decline by improving yields and manufacturing efficiencies and working to reduce the costs of our raw materials and of manufacturing our products. We also need to sell our current products in increasing volumes to offset any decline in their average selling prices, and introduce new products, which we may not be able to do, or do on a timely basis.
+ In order to remain competitive, we must continually work to reduce the cost of manufacturing our products and improve our yields and manufacturing efficiencies. Our efforts may not allow us to keep pace with competitive pricing pressures which could adversely affect our margins. There is no assurance that any changes effected by us will result in sufficient cost reductions to allow us to reduce the price of our products to remain competitive or improve our gross margins.
+ Defects in our products could diminish demand for our products.
+ Our wafer products are complex and may contain defects, including defects resulting from impurities inherent in our raw materials or inconsistencies in our manufacturing processes. We have experienced quality control problems with some of our products, which caused customers to return products to us, reduce orders for our products, or both. If we experience quality control problems, or experience other manufacturing problems, customers may return product for credit, cancel or reduce orders or purchase products from our competitors. We may be unable to maintain or increase sales to our customers and sales of our products could decline. Defects in our products could cause us to incur higher manufacturing costs and suffer product returns and additional service expenses, all of which could adversely impact our operating results. If new products developed by us contain defects when released, our customers may be dissatisfied and we may suffer negative publicity or customer claims against us, lose sales or experience delays in market acceptance of our new products.
+ Our substrate products have a long qualification cycle that makes it difficult to forecast revenue from new customers or for new products sold to existing customers.
+ New customers typically place orders with us for our substrate products three months to a year or more after our initial contact with them. The sale of our products is subject to our customers’ lengthy internal evaluation and approval processes. During this time, we may incur substantial expenses and expend selling, marketing and management efforts while the customers evaluate our products. These expenditures may not result in sales of our products. If we do not achieve anticipated sales in a period as expected, we may experience an unplanned shortfall in our revenue. As a result, our operating results would be adversely affected. In addition, if we fail to meet the product qualification requirements of the customer, we may not have another opportunity to sell that product to that customer for many months or even years. In the current competitive climate, the average qualification and sales cycle for our products has lengthened even further and is expected to continue to make it difficult for us to forecast our future sales accurately. We anticipate that sales of any future substrate products will also have lengthy qualification periods and will, therefore, be subject to risks substantially similar to those inherent in the lengthy sales cycles of our current substrate products.
+
+ 
+  23
+
+ 
+
+ The loss of one or more of our key substrate customers would significantly hurt our operating results.
+ From time to time, sales to one or more of our customers individually represent more than 10% of our revenue and if we were to lose a major customer the loss would negatively impact our revenue. Most of our customers are not obligated to purchase a specified quantity of our products or to provide us with binding forecasts of product purchases. In addition, our customers may reduce, delay or cancel orders. In the past, we have experienced a slowdown in bookings, significant push-outs and cancellation of orders from customers. If we lose a major customer or if a customer cancels, reduces or delays orders, our revenue would decline. In addition, customers that have accounted for significant revenue in the past may not continue to generate revenue for us in any future period. Any loss of customers or any delay in scheduled shipments of our products could cause revenue to fall below our expectations and the expectations of market analysts or investors, causing our stock price to decline.
+ The cyclical nature of the semiconductor industry may limit our ability to maintain or increase net sales and operating results during industry downturns.
+ The semiconductor industry is highly cyclical and periodically experiences significant economic downturns characterized by diminished product demand, resulting in production overcapacity and excess inventory in the markets we serve. A downturn can result in lower unit volumes and rapid erosion of average selling prices. The semiconductor industry has experienced significant downturns, often in connection with, or in anticipation of, maturing product cycles of both semiconductor companies’ and their customers’ products or a decline in general economic conditions. This may adversely affect our results of operations and the value of our business.
+ Our continuing business depends in significant part upon manufacturers of electronic and opto-electronic compound semiconductor devices, as well as the current and anticipated market demand for these devices and products using these devices. As a supplier to the semiconductor industry, we are subject to the business cycles that characterize the industry. The timing, length and volatility of these cycles are difficult to predict. The compound semiconductor industry has historically been cyclical due to sudden changes in demand, the amount of manufacturing capacity and changes in the technology employed in compound semiconductors. The rate of changes in demand, including end demand, is high, and the effect of these changes upon us occurs quickly, exacerbating the volatility of these cycles. These changes have affected the timing and amounts of customers’ purchases and investments in new technology. These industry cycles create pressure on our revenue, gross margin and net income.
+ Our industry has in the past experienced periods of oversupply and that has resulted in significantly reduced prices for compound semiconductor devices and components, including our products, both as a result of general economic changes and overcapacity. Oversupply causes greater price competition and can cause our revenue, gross margins and net income to decline. During periods of weak demand, customers typically reduce purchases, delay delivery of products and/or cancel orders for our products. Order cancellations, reductions in order size or delays in orders could occur and would materially adversely affect our business and results of operations. Actions to reduce our costs may be insufficient to align our structure with prevailing business conditions. We may be required to undertake additional cost-cutting measures, and may be unable to invest in marketing, research and development and engineering at the levels we believe are necessary to maintain our competitive position. Our failure to make these investments could seriously harm our business.
+ A significant portion of our operating expense and manufacturing costs are relatively fixed. If revenue for a particular quarter is lower than we expect, we likely will be unable to proportionately reduce our operating expenses or fixed manufacturing costs for that quarter, which would harm our operating results.  
+ If we do not successfully develop new product features and improvements and new products that respond to customer requirements, our ability to generate revenue, obtain new customers, and retain existing customers may suffer.
+ Our success depends on our ability to offer new product features, improved performance characteristics and new products, such as larger diameter substrates, low defect density substrates, thicker or thinner substrates, substrates with extreme surface flatness specifications, substrates that are manufactured with a doped crystal growth process or substrates that incorporate leading technology and other technological advances. New products must meet customer 
+
+ 
+  24
+
+ 
+needs and compete effectively on quality, price and performance. The markets for our products are characterized by rapid technological change, changing customer needs and evolving industry standards. If our competitors introduce products employing new technologies or performance characteristics, our existing products could become obsolete and unmarketable. Over time, we have seen our competitors selling more substrates manufactured using a crystal growth technology similar to ours, which has eroded our technological differentiation. 
+ The development of new product features, improved performance characteristics and new products can be a highly complex process, and we may experience delays in developing and introducing them. Any significant delay could cause us to fail to timely introduce and gain market acceptance of new products. Further, the costs involved in researching, developing and engineering new products could be greater than anticipated. If we fail to offer new products or product enhancements or fail to achieve higher quality products, we may not generate sufficient revenue to offset our development costs and other expenses or meet our customers’ requirements.
+ We have made and may continue to make strategic investments in raw materials suppliers, which may not be successful and may result in the loss of all or part of our investment.
+ We have made direct investments or investments through our subsidiaries in 10 raw material suppliers in China, which provide us with opportunities to gain supplies of key raw materials that are important to our substrate business. These affiliates each have a market beyond that provided by us. We do not have significant influence over every one of these companies and in some we have made only a strategic, minority investment. We may not be successful in achieving the financial, technological or commercial advantage upon which any given investment is premised, and we could end up losing all or part of our investment which would have a negative impact on our results of operations. In the first quarter of 2017, we incurred an impairment charge of $313,000 against one of our partially owned suppliers, writing down our investment to zero value. The significant decline in the selling prices of raw materials which began in 2015 and continued through 2017 has weakened some of these companies and their losses have negatively impacted our financial results. Further, the increasing concern and restrictions in China of hazardous chemicals and other hazardous elements could result in orders to shut down permanently, fines or other severe measures.  Any such orders directed at one of our joint venture companies could result in impairment charges if the company is forced to close its business, cease operations or incurs fines, or operating losses, which would have a material adverse effect on our financial results.
+ We purchase critical raw materials and parts for our equipment from single or limited sources, and could lose sales if these sources fail to fill our needs. 
+ We depend on a limited number of suppliers for certain raw materials, components and equipment used in manufacturing our products, including key materials such as quartz tubing, and polishing solutions. We generally purchase these materials through standard purchase orders and not pursuant to long-term supply contracts, and no supplier guarantees supply of raw materials or equipment to us. If we lose any of our key suppliers, our manufacturing efforts could be significantly hampered and we could be prevented from timely producing and delivering products to our customers. Prior to investing in our subsidiaries and joint ventures, we sometimes experienced delays obtaining critical raw materials and spare parts, including gallium, and we could experience such delays again in the future due to shortages of materials or for other reasons. Delays in receiving equipment or materials could result in higher costs and cause us to delay or reduce production of our products. If we have to delay or reduce production, we could fail to meet customer delivery schedules and our revenue and operating results could suffer.
+ We may not be able to identify or form additional complementary joint ventures.
+ We might invest in additional joint venture companies in order to remain competitive in our marketplace and ensure a supply of critical raw materials. However, we may not be able to identify additional complementary joint venture opportunities or, even once opportunities are identified, we may not be able to reach agreement on the terms of the business venture with the other investment partners. Further, geopolitical tensions and trade wars could result in government agencies blocking such new joint ventures. New joint ventures could require cash investments or cause us to incur additional liabilities or other expenses, any of which could adversely affect our financial condition and operating results.
+
+ 
+  25
+
+ 
+
+ The financial condition of our customers may affect their ability to pay amounts owed to us.
+ Some of our customers may be undercapitalized and cope with cash flow issues. Because of competitive market conditions, we may grant our customers extended payment terms when selling products to them. Subsequent to our fulfilling an order, some customers have been unable to make payments when due, reducing our cash balances and causing us to incur charges to allow for a possibility that some accounts might not be paid. We have had some customers file for bankruptcy. If our customers do not pay amounts owed to us then we will incur charges that would reduce our earnings.
+ We depend on the continuing efforts of our senior management team and other key personnel.  If we lose members of our senior management team or other key personnel, or are unable to successfully recruit and train qualified personnel, our ability to manufacture and sell our products could be harmed.
+ Our future success depends on the continuing services of members of our senior management team and other key personnel.  Our industry is characterized by high demand and intense competition for talent, and the turnover rate can be high.  We compete for qualified management and other personnel with other specialty material companies and semiconductor companies.  Our employees could leave our company with little or no prior notice and would be free to work for a competitor.  If one or more of our senior executives or other key personnel were unable or unwilling to continue in their present positions, we may not be able to replace them easily or at all, and other senior management may be required to divert attention from other aspects of the business.  The loss of any of these individuals or our ability to attract or retain qualified personnel could adversely affect our business.
+ Our results of operations may suffer if we do not effectively manage our inventory.
+ We must manage our inventory of raw materials, work in process and finished goods effectively to meet changing customer requirements, while keeping inventory costs down and improving gross margins. Although we seek to maintain sufficient inventory levels of certain materials to guard against interruptions in supply and to meet our near term needs, we may experience shortages of certain key materials. Some of our products and supplies have in the past and may in the future become obsolete while in inventory due to changing customer specifications, or become excess inventory due to decreased demand for our products and an inability to sell the inventory within a foreseeable period. This would result in charges that reduce our gross profit and gross margin. Furthermore, if market prices drop below the prices at which we value inventory, we would need to take a charge for a reduction in inventory values in accordance with the lower of cost or net realizable value valuation rule. We have in the past had to take inventory valuation and impairment charges. Any future unexpected changes in demand or increases in costs of production that cause us to take additional charges for un-saleable, obsolete or excess inventory, or to reduce inventory values, would adversely affect our results of operations. 
+ Financial market volatility and adverse changes in the domestic, global, political and economic environment could have a significant adverse impact on our business, financial condition and operating results.
+ We are subject to the risks arising from adverse changes and uncertainty in domestic and global economies. Uncertain global economic and political conditions or low or negative growth in China, Europe or the United States, along with volatility in the financial markets, increasing national debt and fiscal concerns in various regions, pose challenges to our industry. Currently China’s economy is slowing and this could impact our financial performance. In addition, tariffs, trade restrictions, trade wars and Brexit are creating an unstable environment and can disrupt or restrict commerce. Although we remain well-capitalized, the cost and availability of funds may be adversely affected by illiquid credit markets. Turbulence in U.S. and international markets and economies may adversely affect our liquidity, financial condition and profitability. Another severe or prolonged economic downturn could result in a variety of risks to our business, including:
+
+· | increased volatility in our stock price;
+--+-----------------------------------------
+
+
+· | increased volatility in foreign currency exchange rates;
+--+---------------------------------------------------------
+
+ 
+ 
+  26
+
+ 
+
+
+· | delays in, or curtailment of, purchasing decisions by our customers or potential customers;
+--+--------------------------------------------------------------------------------------------
+
+
+· | increased credit risk associated with our customers or potential customers, particularly those that may operate in industries most affected by the economic downturn; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | impairment of our tangible or intangible assets.
+--+-------------------------------------------------
+
+  In the past we experienced delays in customer purchasing decisions and disruptions in normal volume of customer orders that we believe were in part due to the uncertainties in the global economy and an adverse impact on consumer spending. During challenging and uncertain economic times and in tight credit markets, many customers delay or reduce technology purchases. Should similar events occur again, our business and operating results could be significantly and adversely affected.
+ The effect of terrorist threats and actions on the general economy could decrease our revenue.
+ Countries such as the United States and China continue to be on alert for terrorist activity. The potential near and long-term impact terrorist activities may have in regards to our suppliers, customers and markets for our products and the economy is uncertain. There may be embargos of ports or products, or destruction of shipments or our facilities, or attacks that affect our personnel. There may be other potentially adverse effects on our operating results due to significant events that we cannot foresee. Since we perform all of our manufacturing operations in China, terrorist activity or threats against U.S.‑owned enterprises are a particular concern to us.
+     II.          Risks Related to International Aspects of Our Business
+ The Chinese central government is increasingly aware of air pollution and other forms of environmental pollution and their reform efforts can impact our manufacturing, including intermittent mandatory shutdowns.
+     The Chinese central government is demonstrating strong leadership to improve air quality and reduce environmental pollution.  These efforts have impacted manufacturing companies through mandatory shutdowns, increased inspections and regulatory reforms.  In the fourth quarter of 2017, many manufacturing companies in the greater Beijing area, including AXT, were instructed by the local government to cease most manufacturing for several days until the air quality improved.  In the first quarter of 2018, from February 27 to March 31 over 300 manufacturing companies were again intermittently shut down by the local government for a total of ten days, or 30 percent of the remaining calendar days, due to severe air pollution.  Our shipments were delayed and our revenue for the quarter was negatively impacted.  We expect that mandatory factory shutdowns will occur in the future.  If the frequency of such shutdowns increases, especially at the end of a quarter, or if the total number of days of shutdowns prevents us from producing enough wafers to ship, then these shutdowns will have a material adverse effect on our manufacturing output, revenue and factory utilization.  We are currently relocating our gallium arsenide and germanium manufacturing and are adding capacity at our new sites.  We believe these efforts will mitigate our exposure to mandatory factory shutdowns.  However, until the majority of our relocation is completed and our new facilities are in volume production, there is no mitigation of the risk of mandatory factory shutdowns.   Each of our ten raw material supply chain companies could also be impacted by environmental related orders from the central government.
+     Enhanced trade tariffs, import restrictions, export restrictions, Chinese regulations or other trade barriers may materially harm our business.
+ All of our wafer substrates are manufactured in China and in 2018, approximately 10% of our revenue was generated by sales to customers in North America, primarily in the U.S.  In September 2018, the Trump Administration announced a list of thousands of categories of goods that will face tariffs of 10%.  Our inbound products to the U.S. are subject to a 10% tariff assessed on the customs value of the goods as imported by us, effective approximately September 24, 2018.  Although we do not believe the initial impact of approximately $150,000 per quarter is material, the future impact of tariffs and trade wars is uncertain.  The tariffs could be increased to 25% in the future.  We may be required to raise prices, which may result in the loss of customers and our business, financial condition and results of operations 
+
+ 
+  27
+
+ 
+may be materially harmed.  Additionally, the Trump Administration continues to signal that it may alter trade agreements and terms between China and the United States, including limiting trade with China, and may impose additional tariffs on imports from China.  It is possible that our business could be adversely impacted by retaliatory trade measures taken by China or other countries in response to existing or future tariffs, which could cause us to raise prices or make changes to our operations, which could materially harm our business, financial condition and results of operations.  Further, the continued threats of tariffs and other trade restrictions could have a generally disruptive impact on the global economy and, therefore, negatively impact our sales.
+     In addition, we may incur increases in costs and other adverse business consequences, including loss of revenue or decreased gross margins, due to changes in tariffs, import or export restrictions, further trade barriers, or unexpected changes in regulatory requirements.  For example, in July 2012, we received notice of retroactive value-added taxes (VATs) levied by the tax authorities in China, which applied for the period from July 1, 2011 to June 30, 2012. We expensed the retroactive VATs of approximately $1.3 million in the quarter ended June 30, 2012, which resulted in a decrease in our gross margins.  These VATs will continue to negatively impact our gross margins for the future quarters.  Given the relatively fluid regulatory environment in China and the United States, there could be additional tax or other regulatory changes in the future. Any such changes could directly and materially adversely impact our financial results and general business condition.
+     We derive a significant portion of our revenue from international sales, and our ability to sustain and increase our international sales involves significant risks.
+ Approximately 90% of our revenue is from international sales. We expect that sales to customers outside the United States, particularly sales to customers in Japan, Taiwan and China, will continue to represent a significant portion of our revenue. Therefore, our revenue growth depends significantly on the expansion of our international sales and operations.
+ All of our manufacturing facilities and most of our suppliers are also located outside the United States. Managing our overseas operations presents challenges, including periodic regional economic downturns, trade balance issues, threats of trade wars, varying business conditions and demands, political instability, variations in enforcement of intellectual property and contract rights in different jurisdictions, differences in the ability to develop relationships with suppliers and other local businesses, changes in U.S. and international laws and regulations, including U.S. export restrictions, fluctuations in interest and currency exchange rates, the ability to provide sufficient levels of technical support in different locations, cultural differences and perceptions of U.S. companies, shipping delays and terrorist acts or acts of war, among other risks. Many of these challenges are present in China, which represents a large potential market for semiconductor devices. Global uncertainties with respect to: (i) economic growth rates in various countries; (ii) sustainability of demand for electronic products; (iii) capital spending by semiconductor manufacturers; (iv) price weakness for certain semiconductor devices; (v) changing and tightening environmental regulations; (vi) political instability in regions where we have operations and (vii) trade wars may also affect our business, financial condition and results of operations.
+ Our dependence on international sales involves a number of risks, including:
+
+· | changes in tariffs, import restrictions, export restrictions, or other trade barriers;
+--+---------------------------------------------------------------------------------------
+
+
+· | unexpected changes in regulatory requirements;
+--+-----------------------------------------------
+
+
+· | longer periods to collect accounts receivable;
+--+-----------------------------------------------
+
+
+· | foreign exchange rate fluctuations;
+--+------------------------------------
+
+
+· | changes in export license requirements;
+--+----------------------------------------
+
+
+· | political and economic instability; and
+--+----------------------------------------
+
+ 
+ 
+  28
+
+ 
+
+
+· | unexpected changes in diplomatic and trade relationships.
+--+----------------------------------------------------------
+
+  Most of our sales are denominated in U.S. dollars, except for sales to our Chinese customers which are denominated in renminbi and our Japanese customers which are denominated in Japanese yen. We also have some small sales denominated in Euro. Increases in the value of the U.S. dollar could increase the price of our products in non-U.S. markets and make our products more expensive than competitors’ products in these markets.
+ We are subject to foreign exchange gains and losses that materially impact our income statement.
+     We are subject to foreign exchange gains and losses that materially impact our statement of operations.  For example, in 2017 we incurred a loss of $602,000.
+     The functional currency of our wholly owned Chinese subsidiary and our partially owned joint venture companies is the Chinese renminbi, the local currency. We can incur foreign exchange gains or losses when we pay dollars to one of our China-based companies or a third party supplier in China.  Similarly, if a company in China pays renminbi into one of our bank accounts transacting in dollars the renminbi will be converted to dollars and we can incur a foreign exchange gain or loss.  Hedging renminbi will be considered in the future but it is complicated by the number of companies involved, the diversity of transactions and restrictions imposed by the banking system in China.  
+     Sales to Japanese customers are denominated in Japanese yen.  This subjects us to fluctuations in the exchange rates between the U.S. dollar and the Japanese yen and can result in foreign exchange gains and losses. This has been problematic in the past and, therefore, we instituted a foreign currency hedging program dealing with yen which has mitigated the problem.  
+     Joint venture companies in China bring certain risks.
+     Since our wholly owned subsidiaries and all of our partially owned companies reside in China, their activities could subject us to a number of risks associated with conducting operations internationally, including:
+
+· | unexpected changes in regulatory requirements that may limit our ability to manufacture, export the products of these companies or sell into particular jurisdictions or impose multiple conflicting tax laws and regulations;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the imposition of tariffs, trade barriers and duties;
+--+------------------------------------------------------
+
+
+· | difficulties in managing geographically disparate operations;
+--+--------------------------------------------------------------
+
+
+· | difficulties in enforcing agreements through non-U.S. legal systems;
+--+---------------------------------------------------------------------
+
+
+· | political and economic instability, civil unrest or war;
+--+---------------------------------------------------------
+
+
+· | terrorist activities that impact international commerce;
+--+---------------------------------------------------------
+
+
+· | difficulties in protecting our intellectual property rights, particularly in countries where the laws and practices do not protect proprietary rights to as great an extent as do the laws and practices of the United States;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | changing laws and policies affecting economic liberalization, foreign investment, currency convertibility or exchange rates, taxation or employment; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | nationalization of foreign‑owned assets, including intellectual property.
+--+--------------------------------------------------------------------------
+
+ 
+ 
+  29
+
+ 
+
+ Uncertainty regarding the United States’ foreign policy under the current administration could disrupt our business.
+     We manufacture our substrates in China and, in 2018, approximately 90% of our sales were to customers located outside of the United States.  Further, we have partial ownership of 10 companies in China as part of our supply chain.  The United States’ current foreign policy could create uncertainty and caution in the international business community, resulting in possible disruptions in manufacturing, import/export, trade tariffs, sales, investments or other business activity.  Such disruptions could have an adverse impact on our financial performance.
+         If China places restrictions on freight and transportation routes and on port of entry and departure this could result in shipping delays or increased costs for shipping.
+     In August 2015, there was an explosion at the Port of Tianjin, China.  As a result of this incident the government placed restrictions on importing certain materials and on freight routes used to transport these materials.  We experienced some modest disruption from these restrictions.  If the government were to place additional restrictions on the transportation of materials, then our ability to transport our raw materials or products could be limited and result in manufacturing delays or bottlenecks at shipping ports, affecting our ability to deliver products to our customers. During periods of such restrictions, we may increase our stock of critical materials (such as arsenic, gallium, and other chemicals) for use during the period that these restrictions are likely to last, which will increase our use of cash and increase our inventory level. Any of these restrictions could materially and adversely impact our results of operations and our financial condition.
+ Our operating results depend in large part on continued customer acceptance of our substrate products manufactured in China and continued improvements in product quality.
+ We manufacture all of our products in China, and source most of our raw materials in China. We have in the past experienced quality problems with our China‑manufactured products. Our previous quality problems caused us to lose market share to our competitors, as some of our customers reduced their orders until our wafer surface quality was as good and as consistent as that offered by our competitors and instead allocated their requirements for compound semiconductor substrates to our competitors. If we are unable to continue to achieve customer qualifications for our products, or if we are unable to control product quality, customers may not increase purchases of our products, our China facilities will become underutilized, and we will be unable to achieve revenue growth. 
+ Changes in China’s political, social, regulatory or economic environments may affect our financial performance.
+ Our financial performance may be affected by changes in China’s political, social, regulatory or economic environments. The role of the Chinese central and local governments in the Chinese economy is significant. Chinese policies toward hazardous materials, including arsenic, environmental controls, air pollution, economic liberalization, laws and policies affecting technology companies, foreign investment, currency exchange rates, taxation structure and other matters could change, resulting in greater restrictions on our ability to do business and operate our manufacturing facilities in China. We have observed a growing fluidity and tightening of regulations concerning hazardous materials, other environmental controls and air pollution.  The Chinese government could revoke, terminate or suspend our operating licenses for reasons related to environmental control over the use of hazardous materials, air pollution, labor complaints, national security and similar reasons without compensation to us. In days of severe air pollution the government has ordered manufacturing companies to stop all production.  For example, in the fourth quarter of 2017 many manufacturing companies in the greater Beijing area, including AXT, were instructed by the local government to cease most manufacturing for several days until the air quality improved. In the first quarter of 2018, from February 27 to March 31 over 300 manufacturing companies, including us, were again intermittently shut down by the local government for a total of ten days due to severe air pollution.  Our shipments were delayed and our revenue for the quarter was negatively impacted. We expect that mandatory factory shutdowns will occur in the future. Any failure on our part to comply with governmental regulations could result in the loss of our ability to manufacture our products.  Further, any imposition of surcharges or any increase in Chinese tax rates or reduction or elimination of Chinese tax benefits could hurt our financial results.
+
+ 
+  30
+
+ 
+
+ An important example of some of these factors is seen in a change underway in Beijing.  The Beijing city government is moving its offices into the area where our original manufacturing facility is currently located and is in the process of moving thousands of government employees into this area. To create room and upgrade the district, the city instructed virtually all existing manufacturing companies, including AXT, to relocate all or some of their manufacturing lines. In 2018, AXT made significant progress in the relocation of our gallium arsenide and germanium production lines and we intend to complete this relocation in 2019. 
+     The relocation of our gallium arsenide production line requires us to continue to accurately execute our relocation plan. A failure to properly complete our relocation could result in disruption to our production and have a material adverse impact on our revenue, our results of operations and our financial condition. We intend to secure additional permits and approvals in 2019. Given the fluidity and ever-increasing review of environmental and regulatory ordinances in China, there can be no assurance that these matters will be satisfactorily completed.
+     Further, our major customers are in the process of qualifying the wafer substrates from the new sites before placing volume purchase orders for products from the new facilities. If we fail to meet the product qualification requirements of a customer, we may lose sales to that customer. Our reputation may also be damaged. Any loss of sales could have a material adverse effect on our revenue, our results of operations and our financial condition.
+     Our international operations are exposed to potential adverse tax consequence in China.
+     Our international operations create a risk of potential adverse tax consequences.  Taxes on income in our China-based companies are dependent upon acceptance of our operational practices and intercompany transfer pricing by local tax authorities as being on an arm's length basis. Due to inconsistencies among taxing authorities in application of the arm's length standard, transfer pricing challenges by tax authorities could, if successful, materially increase our consolidated income tax expense. We are subject to tax audits in China and an audit could result in the assessment of additional income tax against us.  This could have a material adverse effect on our operating results or cash flows in the period or periods for which that determination is made and could result in increases to our overall tax expense in subsequent periods.  Various taxing agencies in China are increasingly focused on tax reform and other legislative action to increase tax revenue. In addition to risks regarding income tax we have in the past been retroactively assessed value added taxes (“VAT” or sales tax) and such VAT assessments could occur again in the future.
+ If there are power shortages in China, we may have to temporarily close our China operations, which would adversely impact our ability to manufacture our products and meet customer orders, and would result in reduced revenue.
+ In the past, China has faced power shortages resulting in power demand outstripping supply in peak periods. Instability in electrical supply has caused sporadic outages among residential and commercial consumers causing the Chinese government to implement tough measures to ease the energy shortage. If further problems with power shortages occur in the future, we may be required to make temporary closures of our operations or of our subsidiary and joint venture operations. We may be unable to manufacture our products and would then be unable to meet customer orders except from finished goods inventory on hand. As a result, our revenue could be adversely impacted, and our relationships with our customers could suffer, impacting our ability to generate future revenue. In addition, if power is shut off at any of our facilities at any time, either voluntarily or as a result of unplanned brownouts, during certain phases of our manufacturing process including our crystal growth phase, the work in process may be ruined and rendered unusable, causing us to incur costs that will not be covered by revenue, and negatively impacting our cost of revenue and gross margins.
+ An outbreak of a contagious disease such as Ebola, Severe Acute Respiratory Syndrome (SARS) or the Avian Flu may adversely impact our manufacturing operations and some of our key suppliers and customers.
+ Any reoccurrence of SARS or an outbreak of a contagious disease, such as Avian Flu or Ebola, may cause us to temporarily close our manufacturing operations. Similarly, if one or more of our key suppliers is required to close for an extended period, we might not have enough raw material inventories to continue manufacturing operations. In addition, 
+
+ 
+  31
+
+ 
+while we possess management skills among our China staff that enable us to maintain our manufacturing operations with minimal on-site supervision from our U.S.‑based staff, our business could also be harmed if travel to or from China and the United States is restricted or inadvisable. If our manufacturing operations were closed for a significant period, we could lose revenue and market share, which would depress our financial performance and could be difficult to recapture. Finally, if one of our key customers is required to close for an extended period, we might not be able to ship product to them, our revenue would decline and our financial performance would suffer.
+ III.         Risks Related to Our Financial Results and Capital Structure
+ We may utilize our cash balances for relocation, expansion, or to offset a business downturn resulting in the decline of our existing cash, cash equivalents and investment balances, and if we need additional capital, those funds may not be available on acceptable terms, or at all.
+ Our liquidity is affected by many factors including, among others, the relocation of our gallium arsenide manufacturing operations, the extent to which we pursue on-going capital expenditures, the acquisition and build out of the sites at Dingxing and Kazuo, the level of our production, the level of profits or losses, and other factors related to the uncertainties of the industry and global economies. Our relocation expenditures and any negative cash flow effects of these other factors will draw down our cash reserves, which could adversely affect our financial condition, reduce our value and possibly impinge our ability to raise debt and equity funding in the future, at a time when we might need to raise additional cash or elect to raise additional cash. Accordingly, there can be no assurance that events will not require us to seek additional capital or, if required, that such capital would be available on terms acceptable to us, if at all. 
+ Unpredictable fluctuations in our operating results could disappoint analysts or our investors, which could cause our stock price to decline.
+ We have experienced, and may continue to experience, significant fluctuations in our revenue, gross margins and earnings. Our quarterly and annual revenue and operating results have varied significantly in the past and may vary significantly in the future due to a number of factors, including:
+
+· | our ability to develop, manufacture and deliver high quality products in a timely and cost-effective manner;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+· | disruptions during the relocation of our gallium arsenide product line;
+--+------------------------------------------------------------------------
+
+
+· | disruptions in manufacturing if air pollution or another environmental hazard causes the government to order work stoppages;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+· | fluctuation of our manufacturing yields;
+--+-----------------------------------------
+
+
+· | decreases in the prices of our or our competitors’ products;
+--+-------------------------------------------------------------
+
+
+· | fluctuations in demand for our products;
+--+-----------------------------------------
+
+
+· | the volume and timing of orders from our customers, and cancellations, push-outs and delays of customer orders once booked;
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+· | decline in general economic conditions or downturns in the industry in which we compete;
+--+-----------------------------------------------------------------------------------------
+
+
+· | expansion of our manufacturing capacity;
+--+-----------------------------------------
+
+
+· | expansion of our operations in China;
+--+--------------------------------------
+
+
+· | limited availability and increased cost of raw materials;
+--+----------------------------------------------------------
+
+ 
+ 
+  32
+
+ 
+
+
+· | costs incurred in connection with any future acquisitions of businesses or technologies; and
+--+---------------------------------------------------------------------------------------------
+
+
+· | increases in our expenses, including expenses for research and development.
+--+----------------------------------------------------------------------------
+
+  Due to these factors, we believe that period-to-period comparisons of our operating results may not be meaningful indicators of our future performance.
+ A substantial percentage of our operating expenses are fixed, and we may be unable to adjust spending to compensate for an unexpected shortfall in revenue. As a result, any delay in generating revenue could cause our operating results to fall below the expectations of market analysts or investors, which could also cause our stock price to decline.
+ If our operating results and financial performance do not meet the guidance that we have provided to the public, our stock price may decline.
+ We provide public guidance on our expected operating and financial results.  Although we believe that this guidance provides our stockholders, investors and analysts with a better understanding of our expectations for the future, such guidance is comprised of forward-looking statements subject to the risks and uncertainties described in this report and in our other public filings and public statements.  Our actual results may not meet the guidance we have provided.  If our operating or financial results do not meet our guidance or the expectations of investment analysts, our stock price may decline.
+ We have adopted certain anti-takeover measures that may make it more difficult for a third party to acquire us.
+ Our board of directors has the authority to issue up to 800,000 shares of preferred stock in addition to the outstanding shares of Series A preferred stock and to determine the price, rights, preferences and privileges of those shares without any further vote or action by the stockholders. The rights of the holders of common stock will be subject to, and may be adversely affected by, the rights of the holders of any preferred stock that may be issued in the future. The issuance of shares of preferred stock could have the effect of making it more difficult for a third party to acquire a majority of our outstanding voting stock. We have no present intention to issue additional shares of preferred stock.
+ Provisions in our restated certificate of incorporation and amended and restated bylaws may have the effect of delaying or preventing a merger, acquisition or change of control, or changes in our management, which could adversely affect the market price of our common stock. The following are some examples of these provisions:
+
+· | the division of our board of directors into three separate classes, each with three-year terms;
+--+------------------------------------------------------------------------------------------------
+
+
+· | the right of our board to elect a director to fill a space created by a board vacancy or the expansion of the board;
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+· | the ability of our board to alter our amended and restated bylaws; and
+--+-----------------------------------------------------------------------
+
+
+· | the requirement that only our board or the holders of at least 10% of our outstanding shares may call a special meeting of our stockholders.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+  Furthermore, because we are incorporated in Delaware, we are subject to the provisions of Section 203 of the Delaware General Corporation Law. These provisions prohibit us from engaging in any business combination with any interested stockholder (a stockholder who owns 15% or more of our outstanding voting stock) for a period of three years following the time that such stockholder became an interested stockholder, unless:
+
+· | 662/3% of the shares of voting stock not owned by the interested stockholder approve the merger or combination, or
+--+-------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  33
+
+ 
+
+
+· | the board of directors approves the merger or combination or the transaction which resulted in the stockholder becoming an interested stockholder.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Our common stock may be delisted from The Nasdaq Global Select Market, which could negatively impact the price of our common stock and our ability to access the capital markets.
+ Our common stock is listed on The Nasdaq Global Select Market. The bid price of our common stock has in the past closed below the $1.00 minimum per share bid price required for continued inclusion on The Nasdaq Global Select Market under Marketplace Rule 5450(a). If the bid price of our common stock remains below $1.00 per share for thirty consecutive business days, we could be subject to delisting from the Nasdaq Global Select Market.
+ Any delisting from The Nasdaq Global Select Market could have an adverse effect on our business and on the trading of our common stock. If a delisting of our common stock were to occur, our common stock would trade in the over-the-counter market and be quoted on a service such as those provided by OTC Markets Group, Inc. Such alternatives are generally considered to be less efficient markets, and our stock price, as well as the liquidity of our common stock, may be adversely impacted as a result. Delisting from The Nasdaq Global Select Market could also have other negative results, including the potential loss of confidence by customers, suppliers and employees, the loss of institutional investor interest and fewer business development opportunities, as well as the loss of liquidity for our stockholders.
+ Our ability to use our net operating loss carryforwards and certain other tax attributes may be limited. 
+     As of December 31, 2018, we had U.S. federal net operating loss carryforwards of approximately $64.3 million and state net operating loss carryforwards of approximately $0.3 million, which begin expiring in varying amounts from 2022 if unused. Under Sections 382 and 383 of the Internal Revenue Code of 1986, as amended, if a corporation undergoes an “ownership change,” the corporation’s ability to use its pre-change net operating loss carryforwards and other pre-change tax attributes, such as research tax credits, to offset its post-change income and taxes may be limited.  In general, an “ownership change” occurs if there is a cumulative change in our ownership by “5% shareholders” that exceeds 50 percentage points over a rolling three-year period.  Similar rules may apply under state tax laws.  We might have undergone prior ownership changes, and we may undergo ownership changes in the future, which may result in limitations on our net operating loss carryforwards and other tax attributes.  Any such limitations on our ability to use our net operating loss carryforwards and other tax attributes could adversely impact our business, financial condition and results of operations.
+     IV.         Risks Related to Our Intellectual Property
+ Intellectual property infringement claims may be costly to resolve and could divert management attention.
+ Other companies may hold or obtain patents on inventions or may otherwise claim proprietary rights to technology necessary to our business. The markets in which we compete are comprised of competitors that in some cases hold substantial patent portfolios covering aspects of products that could be similar to ours. We could become subject to claims that we are infringing patent, trademark, copyright or other proprietary rights of others. We have in the past been involved in lawsuits alleging patent infringement, and could in the future be involved in similar litigation. For example, we entered into a settlement agreement with Sumitomo in 2011 to settle its claim of patent infringement, which resulted in AXT paying them royalties.
+ If we are unable to protect our intellectual property, including our non-patented proprietary process technology, we may lose valuable assets or incur costly litigation.
+ We rely on a combination of patents, copyrights, trademarks, trade secrets and trade secret laws, non-disclosure agreements and other intellectual property protection methods to protect our proprietary technology. We believe that our internal, non-patented proprietary process technology methods, systems and processes are a valuable and critical element of our intellectual property. We must establish and maintain safeguards to avoid the theft of these processes. Our ability to establish and maintain a position of technology leadership also depends on the skills of our development personnel.  
+
+ 
+  34
+
+ 
+Despite our efforts to protect our intellectual property, third parties can develop products or processes similar to ours. Our means of protecting our proprietary rights may not be adequate, and our competitors may independently develop similar technology, duplicate our products or design around our patents. We believe that at least two of our competitors ship GaAs substrates produced using a process similar to our VGF process. Our competitors may also develop and patent improvements to the VGF technology upon which we rely, and thus may limit any exclusivity we enjoy by virtue of our patents or trade secrets.
+ It is possible that pending or future United States or foreign patent applications made by us will not be approved, that our issued patents will not protect our intellectual property, or that third parties will challenge our ownership rights or the validity of our patents. In addition, the laws of some foreign countries may not protect our proprietary rights to as great an extent as do the laws of the United States and it may be more difficult to monitor the use of our intellectual property. Our competitors may be able to legitimately ascertain non-patented proprietary technology embedded in our systems. If this occurs, we may not be able to prevent the development of technology substantially similar to ours.
+ We may have to resort to costly litigation to enforce our intellectual property rights, to protect our trade secrets or know-how or to determine their scope, validity or enforceability. Enforcing or defending our proprietary technology is expensive, could cause us to divert resources and may not prove successful. Our protective measures may prove inadequate to protect our proprietary rights, and if we fail to enforce or protect our rights, we could lose valuable assets.
+ V.           Risks Related to Compliance, Environmental Regulations and Other Legal Matters
+ If we, or any of our partially owned supply chain companies, fail to comply with environmental and safety regulations, we may be subject to significant fines or forced to cease our operations. 
+ We are subject to federal, state and local environmental and safety laws and regulations in all of our operating locations, including laws and regulations of China, such as laws and regulations related to the development, manufacture and use of our products, the use of hazardous materials, the operation of our facilities, and the use of our real property. These laws and regulations govern the use, storage, discharge and disposal of hazardous materials during manufacturing, research and development, and sales demonstrations. If we, or any of our partially owned supply chain companies, fail to comply with applicable regulations, we could be subject to substantial liability for clean-up efforts, personal injury, fines or suspension or be forced to close or temporarily cease our operations, and/or suspend or terminate the development, manufacture or use of certain of our products, the use of our facilities, or the use of our real property, each of which could have a material adverse effect on our business, financial condition and results of operations.
+ The Chinese central government is demonstrating strong leadership to improve air quality and reduce environmental pollution.  These efforts have impacted manufacturing companies through mandatory shutdowns, increased inspections and regulatory reforms.  In the fourth quarter of 2017, many manufacturing companies in the greater Beijing area, including AXT, were instructed by the local government to cease most manufacturing for several days until the air quality improved.  In the first quarter of 2018, from February 27 to March 31 over 300 manufacturing companies were again intermittently shut down by the local government for a total of ten days, or 30 percent of the remaining calendar days, due to severe air pollution.  Our shipments were delayed and our revenue for the quarter was negatively impacted.  We expect that mandatory factory shutdowns will occur in the future.  If the frequency of such shutdowns increases, especially at the end of a quarter, or if the total number of days of shutdowns prevents us from producing enough wafers to ship, then the shutdowns will have a material adverse effect on our manufacturing output, revenue and factory utilization.  We are currently relocating our gallium arsenide and germanium manufacturing and are adding capacity at our new sites.  We believe these efforts will mitigate our exposure to factory shutdowns.  However, until the majority of our relocation is completed and our new facilities are in volume production, there is no mitigation of the risk of mandatory factory shutdowns.   Each of our 10 raw material supply chain companies could also be impacted by environmental related orders from the central government. 
+ In addition, from time to time, the Chinese government issues new regulations, which may require additional actions on our part to comply.  On February 27, 2015, the China State Administration of Work Safety updated its list of hazardous substances.  The previous list, which was published in 2002, did not restrict the materials that we use in our 
+
+ 
+  35
+
+ 
+wafers.  The new list added gallium arsenide.  As a result of the newly published list, we were instructed to obtain a permit to continue to manufacture our gallium arsenide substrate wafers.  The Beijing municipal authority accepted our permit application in May 2015, but has not yet issued to us the requisite permit while we continue to show good faith and, more recently, significant progress in relocating our gallium arsenide production.  If our application is denied in the future before we complete our relocation, then our gallium arsenide production could be disrupted, which could materially and adversely impact our results of operations and our financial condition.
+ We could be subject to suits for personal injuries caused by hazardous materials.
+ In 2005, a complaint was filed against us alleging personal injury, general negligence, intentional tort, wage loss and other damages, including punitive damages, as a result of exposure of plaintiffs to high levels of gallium arsenide in gallium arsenide wafers, and methanol. Other current and/or former employees could bring litigation against us in the future. Although we have in place engineering, administrative and personnel protective equipment programs to address these issues, our ability to expand or continue to operate our present locations could be restricted or we could be required to acquire costly remediation equipment or incur other significant expenses if we were found liable for failure to comply with environmental and safety regulations. Existing or future changes in laws or regulations in the United States and China may require us to incur significant expenditures or liabilities, or may restrict our operations. In addition, our employees could be exposed to chemicals or other hazardous materials at our facilities and we may be subject to lawsuits seeking damages for wrongful death or personal injuries allegedly caused by exposure to chemicals or hazardous materials at our facilities.
+     Litigation is inherently uncertain and while we would expect to defend ourselves vigorously, it is possible that our business, financial condition, results of operations or cash flows could be affected in any particular period by litigation pending and any additional litigation brought against us. In addition, future litigation could divert management’s attention from our business and operations, causing our business and financial results to suffer. We could incur defense or settlement costs in excess of the insurance covering these litigation matters, or that could result in significant judgments against us or cause us to incur costly settlements, in excess of our insurance limits.
+     We are subject to internal control evaluations and attestation requirements of Section 404 of the Sarbanes‑Oxley Act.
+ Pursuant to Section 404 of the Sarbanes‑Oxley Act of 2002, we must include in our Annual Report on Form 10-K a report of management on the effectiveness of our internal control over financial reporting. Ongoing compliance with this requirement is complex, costly and time-consuming and it extends to our companies in China. If: (1) we fail to maintain effective internal control over financial reporting; or (2) our management does not timely assess the adequacy of such internal control, we could be subject to regulatory sanctions and the public’s perception of us may be adversely impacted.
+ We need to continue to improve or implement our systems, procedures and controls.
+ We rely on certain manual processes for data collection and information processing, as do our joint venture companies. If we fail to manage these procedures properly or fail to effectively manage a transition from manual processes to automated processes, our systems and controls may be disrupted. To manage our business effectively, we may need to implement additional management information systems, further develop our operating, administrative, financial and accounting systems and controls, add experienced senior level managers, and maintain close coordination among our executive, engineering, accounting, marketing, sales and operations organizations.

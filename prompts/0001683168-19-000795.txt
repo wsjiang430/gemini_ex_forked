@@ -1,0 +1,326 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ 
+Phio Pharmaceuticals Corp. is a biotechnology company developing the next generation of immuno-oncology therapeutics based on our self-delivering RNAi (“sd-rxRNA®”) therapeutic platform. The Company’s efforts are focused on developing sd-rxRNA therapeutic compounds to be used in the context of adoptive cell transfer by targeting checkpoints or other gene targets, or to be used in immunotherapy following intra-tumoral injections. We aim to maximize the power of our sd-rxRNA therapeutic compounds by weaponizing therapeutic immune effector cells to attack cancer, and to make tumors more susceptible to such attacks, and ultimately provide patients battling cancers with a powerful new treatment option that goes beyond current treatment modalities.
+ 
+In January 2017, the Company entered into a Stock Purchase Agreement pursuant to which it acquired all of the issued and outstanding shares of capital stock of MirImmune Inc. (“MirImmune”) for an aggregate of 275,036 shares of common stock of the Company and 1,118,224 shares of the Company’s Series C Convertible Preferred Stock. With the approval of the Company’s stockholders at the 2017 Annual Meeting of Stockholders, every ten shares of the Series C Convertible Preferred Stock issued and outstanding were automatically converted into one share of common stock.
+ 
+Prior to the Company’s acquisition of MirImmune, our principal activities consisted of the preclinical and clinical development of the Company’s sd-rxRNA compounds and topical immunotherapy agent in the areas of dermatology and ophthalmology. In January 2018, after a thorough review of its business operations, development programs and financial resources, the Company made a strategic decision to focus its efforts solely on immuno-oncology to accelerate growth and support a potential return on investment for its stockholders. In connection with this decision, the Company completed all open clinical trials in dermatology and ophthalmology with RXI-109, our first sd-rxRNA clinical candidate, and Samcyprone®, and reported out on the results of those clinical studies in 2018. The Company intends to seek a partner and/or out-licensee for its dermatology program and its ophthalmology program to continue with their development. The Company’s current business strategy solely focuses on the development of immuno-oncology therapeutics utilizing our proprietary sd-rxRNA technology.
+ 
+On November 19, 2018, the Company changed its name from RXi Pharmaceuticals Corporation to Phio Pharmaceuticals Corp., which reflects the Company’s transition from a platform company to one that is fully committed to develop groundbreaking immuno-oncology therapeutics. 
+ 
+Our development efforts are based on our broadly patented sd-rxRNA technology platform. Our sd-rxRNA compounds do not require a delivery vehicle to penetrate into tissues and cells and are designed to “silence,” or down-regulate, the expression of a specific gene that may be over-expressed in a disease condition. We believe that our sd-rxRNA platform uniquely positions the Company in the field of immuno-oncology because of this and for the following reasons:
+ 
+
+· | Our sd-rxRNA compounds do not require facilitated delivery (mechanical or formulation); 
+--+-----------------------------------------------------------------------------------------------------
+· | Can target multiple genes (i.e. multiple immunosuppression pathways) in a single therapeutic entity;
+
+
+· | Demonstrate efficient uptake of sd-rxRNA to immune cells;
+--+----------------------------------------------------------
+
+
+· | Silencing by sd-rxRNA has been shown to have a sustained, or long-term, effect in vivo;
+--+----------------------------------------------------------------------------------------
+
+
+· | Favorable clinical safety profile of sd-rxRNA with local administration; and
+--+-----------------------------------------------------------------------------
+
+
+· | Can be readily manufactured under current good manufacturing practices.
+--+------------------------------------------------------------------------
+
+
+2
+-
+
+ 
+
+On January 3, 2018, the Board of Directors of the Company approved a 1-for-10 reverse stock split of the Company’s outstanding common stock, which was effected on January 8, 2018. All share and per share amounts have been retroactively adjusted for all periods presented to give effect to the reverse stock split, including reclassifying an amount equal to the reduction in par value to additional paid-in capital in the financial statements.
+ 
+Our Development Pipeline
+ 
+We currently have a pipeline of discovery and preclinical programs in three focus areas in which we are aligning our internal research and development efforts with extramural collaborations. The table below sets forth the Company’s stage of development for product candidates in each of our three R&D focus areas:
+ 
+
+Checkpoint Inhibition in Adoptive Cell Transfer 
+ 
+The Company has developed sd-rxRNA targeting PD-1, TIGIT and other undisclosed checkpoints in adoptive cell transfer (“ACT”) for the treatment of solid tumors. RXI-762 and RXI-804, sd-rxRNA compounds that are designed to suppress the expression of immune checkpoint proteins PD-1 and TIGIT, respectively, which, when used in ACT, are expected to result in an improved efficacy to the targeted tumors. We expect to enter clinical development with RXI-762, our most advanced program, as part of an ACT therapy for solid tumors in melanoma by the end of 2019.
+ 
+Our strategy includes advancing our sd-rxRNA compounds towards clinical development, both independently and with extramural collaborations. We plan to focus our internal resources on therapeutic areas where research and development is appropriate for the size and financial resources of the Company and to secure partners in therapeutic areas with the requisite expertise and resources to advance our product and research candidates through clinical development. We believe that this approach to our strategy will allow us to build upon these current collaborations to add additional partnerships to our immuno-oncology pipeline, support the Company with a shorter path to the clinic by allowing us to utilize and build upon already established protocols of our partners and provide us with the opportunity to expand our immuno-oncology programs and pipeline in multiple areas. We have established a number of collaborations with cancer research institutions and companies in this therapeutic area.
+ 
+
+
+
+3
+-
+
+ 
+
+The Center for Cancer Immune Therapy (“CCIT”) at Herlev Hospital is a leading European cancer center for use of tumor-infiltrating lymphocytes (“TILs”) for ACT. CCIT has carried out numerous clinical trials based on a direct translation of the discoveries from the laboratory. Our collaboration with CCIT is evaluating the potential of our sd-rxRNA technology platform to enhance the function of TILs for use in the treatment for a number of cancer types, including melanoma and ovarian cancer. To date, CCIT has evaluated sd-rxRNA compounds targeting immune checkpoints in preclinical screening models of matched TIL/tumor cell pairs from melanoma and cancer patients. Results have shown a marked PD-1 reduction on the surface of TILs in a pilot rapid expansion protocol.
+ 
+Iovance Biotherapeutics, Inc. is a biotechnology company focused on the development and commercialization of autologous cellular immunotherapies optimizing personalized, tumor-directed TILs. Our research collaboration with Iovance will evaluate the potential synergies with our novel sd-rxRNA therapeutic compounds and Iovance’s autologous cell therapy based on TILs for the use in the treatment of cancer. Data from this collaboration has shown that a sd-rxRNA mediated knock-down of PD-1 was associated with phenotypic changes indicative of TIL activation. Our next steps with Iovance include further evaluation of the impact of sd-rxRNA mediated gene silencing on TIL tumor reactivity and implementation of optimized silencing protocols and scale-up thereof.
+ 
+Cell Maturation and Metabolism in Adoptive Cell Transfer
+ 
+We use our sd-rxRNA in T-cells and other immune cell types, such as natural killer (“NK”) cells and dendritic cells, for targets other than immune checkpoints in order to weaponize and improve cell persistence and cell viability in the immunosuppressive tumor micro-environment. We believe this shows the broad applicability of our platform technology and that our potential impact in immuno-oncology is not limited to checkpoints and TILs.
+ 
+We have shown that sd-rxRNAs are rapidly and efficiently taken up by immune effector cells without the use of transfection reagents. Using sd-rxRNA compounds against checkpoint inhibitors, we can suppress their expression levels up to 95% in immune cells, including T-cells and NK cells. Furthermore, we have demonstrated potent silencing activity as well as a phenotypic effect (enhanced degranulation activity) of NK cells treated with sd-rxRNA compounds targeting checkpoints. By treating NK cells ex-vivo, prior to ACT with sd-rxRNA reducing the expression of proteins such as Cbl-b and TIGIT, the anti-tumor response of these cells can be improved. Ongoing work expands these findings to include compounds for more specific NK targets, including NK specific inhibitory receptors, which could be used alone or in combination.
+ 
+Through our collaboration with Medigene AG, a German biotechnology company developing highly innovative, complementary treatment platforms to target various types and stages of cancer, we are exploring the potential synergies of our sd-rxRNA technology in combination with Medigene’s recombinant TCRs to develop modified T-cells with enhanced efficacy and/or safety with the ultimate goal to further improve Medigene’s T-cell therapies for the treatment of cancer patients. In the studies completed, Medigene observed the reduction of PD-1 surface levels in T-cells transduced with TCRs and treated with our sd-rxRNA compound, RXI-762. While these studies utilized the Company’s PD-1 targeting sd-rxRNA for proof of concept, there is also the potential to expand the collaboration to additional targets and the two complementing technologies could lead to synergistic effects that might further sharpen and improve the therapeutic effects of Medigene’s receptor modified T-cells.
+ 
+Direct Tumor and Tumor Micro-Environment 
+ 
+Our third focus area includes the use of our sd-rxRNA directly towards tumor and/or tumor micro-environment (“TME”) targets. Impacting the tumor cells and/or TME through a direct use of sd-rxRNA, such as via intra-tumoral injection, could potentially become an important form of adjuvant therapy. We believe that this will also show that our contributions with our sd-rxRNA compounds in immuno-oncology are not limited to use with another company’s cell platform. Additionally, the Company has shown that its sd-rxRNA compounds are safe and well-tolerated via intradermal injections and injections in the eye through its completed clinical trials with RXI-109 in dermatology and ophthalmology.
+ 
+Our collaborative research agreement with Gustave Roussy, a leading comprehensive cancer center in France, concentrates on determining the feasibility of our sd-rxRNA platform to target the TME via intra-tumoral injection. The goal of our recent in vivo study with Gustave Roussy was to demonstrate sd-rxRNA compound delivery via intra-tumoral injection and demonstrate activity (silencing of gene expression) of sd-rxRNA compounds. Results from this study showed an 80—85% reduction of the target gene expression in a mouse model of melanoma via intra-tumoral injection.
+ 
+
+
+
+4
+-
+
+Our sd-rxRNA Platform 
+ 
+Diseases are often related to the wrong protein being made, excessive amounts of a specific protein being made, or the correct protein being made but at the wrong location or time. Overall, RNA is involved in the synthesis, regulation and processing of proteins. RNA interference (“RNAi’) is a biological process in which RNA molecules inhibit gene expression or translation into proteins by preventing certain RNA from being read. RNAi offers a novel approach to the drug development process because RNAi compounds can potentially be designed to target any one of the thousands of human genes, many of which are “undruggable” by other modalities. Supported by numerous gene-silencing reports and our own research, we believe that this sequence information can be used to design RNAi compounds to interfere with the expression of almost any specific gene.
+ 
+The first design of RNAi compounds to be pursued for the development of human therapeutics were short, double-stranded RNAs that included limited modifications, known as small-interfering RNA (“siRNA”). Since the initial discovery of RNAi, drug delivery has been the primary challenge in developing RNAi-based therapeutics. One conventional solution to the delivery problem involves encapsulation of siRNA into a lipid-based particle, such as a liposome, to improve circulation time and cellular uptake. We have developed an alternative approach where delivery and drug-like properties are built directly into the RNAi compound itself. These novel compounds are termed self-delivering RNAi compounds, or sd-rxRNA.
+ 
+sd-rxRNAs are hybrid oligonucleotide compounds that the Company believes combines the beneficial properties of both conventional RNAi and antisense technologies. Traditional, single-stranded antisense compounds have favorable tissue distribution and cellular uptake properties. However, they do not have the intracellular potency that is a hallmark of double-stranded RNAi compounds. Conversely, the duplex structure and hydrophilic character of traditional RNAi compounds results in poor tissue distribution and cellular uptake. In an attempt to combine the best properties of both technologies, sd-rxRNA have a single-stranded phosphorothioate region, a short duplex region, and contain a variety of nuclease-stabilizing and lipophilic chemical modifications. The combination of these features allows sd-rxRNA to achieve efficient spontaneous cellular uptake and potent, long-lasting intracellular activity.
+ 
+We believe that our next generation sd-rxRNA compounds offer significant advantages over siRNAs used by other companies developing RNAi therapeutics, which are highlighted by the following characteristics:
+ 
+
+· | Efficient cellular uptake in the absence of a delivery vehicle;
+--+----------------------------------------------------------------
+
+
+· | Potent RNAi activity;
+--+----------------------
+
+
+· | More resistant to nuclease degradation than unmodified oligonucleotides;
+--+-------------------------------------------------------------------------
+
+
+· | Able to suppress long non-coding RNAs, both in cytoplasm and the nucleus;
+--+--------------------------------------------------------------------------
+
+
+· | Readily manufactured;
+--+----------------------
+
+
+· | Potentially more specific for the target gene; and
+--+---------------------------------------------------
+
+
+· | Reduced immune side effects compared to classic siRNA.
+--+-------------------------------------------------------
+
+ 
+The route by which our sd-rxRNA compounds are brought into contact with the body depends on the intended organ or tissue to be treated. Delivery routes can be simplified into two major categories: (1) local, or when a drug is delivered directly to the tissue of interest, and (2) systemic, when a drug accesses the tissue of interest through the circulatory system. The key to therapeutic success with RNAi lies in delivering intact RNAi compounds to the target tissue and the interior of the target cells. To accomplish this, our chemically synthesized sd-rxRNA compounds are optimized for stability and efficacy and have unique properties that improve tissue and cell uptake.
+ 
+
+
+
+5
+-
+
+Our Adoptive Cell Transfer Approach
+ 
+The self-delivering nature of our compounds makes sd-rxRNA ideally suited for use with ACT treatments and direct therapeutic use. In ACT, immune cells are isolated from specific patients or retrieved from allogeneic immune cell banks. The immune cells are then expanded and modified before being returned and used to treat the same patient. We believe our sd-rxRNA compounds are ideally suited to be used in combination with ACT, in order to make these immune cells more effective. 
+ 
+ACT includes a number of different types of immunotherapy treatments. These treatments all use immune cells, such as T-cells, that are grown in a lab to large numbers, followed by administering them to the body to fight the cancer cells. Sometimes, immune cells that naturally recognize a tumor are used, while other times immune cells are modified or “engineered” to make them recognize and kill the cancer cells. There are several types of ACT, including: a.) non-engineered cell therapy in which immune cells are grown from the patient’s tumor or blood, such as TILS, or from donor blood or tissue such as NK cells, and b.) engineered immune cells in which these cells are genetically modified to recognize specific tumor proteins and to remain in an activated state (such as CAR T-cells and T-cell Receptors, or TCRs, and CAR NK cells).
+ 
+Our approach to immunotherapy builds on well-established methodologies of ACT and involves the treatment of immune cells with our sd-rxRNA compounds during the expansion and modification phase. As shown below, immune cells are isolated from specific patients or retrieved from allogeneic immune cell banks and then expanded and sometimes processed to express tumor-binding receptors. Because our sd-rxRNA compounds do not require a delivery vehicle to penetrate into the cells, we are able to enhance these cells (for example by inhibiting the expression of immune checkpoint genes) by merely adding our sd-rxRNA compounds during the expansion process and without the need for genetic engineering. After enhancing these cells ex vivo, they are returned to the patient for treatment.
+ 
+Our method introduces an important step in the ex vivo processing of immune cells. This step uses our sd-rxRNA technology to reduce or eliminate the expression of genes that make the immune cells less effective. For example, with our sd-rxRNA compounds, we can reduce the expression of immunosuppressive receptors or proteins by the therapeutic immune cells, potentially enabling them to overcome tumor resistance mechanisms and thus improving their ability to destroy the tumor cells. In various types of immune cells tested to date, sd-rxRNA treatment results in potent silencing while maintaining close to 100% transfection efficiency and nearly full cell viability.
+ 
+
+
+
+
+6
+-
+
+ 
+
+We believe that a major advantage to our approach is that pre-treatment with our targeted compounds allows for multiple immune checkpoints to be attenuated within the same therapeutic cell, an improvement which could dramatically increase their tumor cell killing capability. In addition, these therapeutic immune cells may lack some known side effects associated with systemic checkpoint inhibitor therapies, while potentially improving efficacy over current immunotherapy approaches.
+ 
+Additionally, one of the main issues with ACT is that the cells are very susceptible to the cancer signals that turn down the immune response and continuous activation of these cells causes them to become exhausted. These factors, among others, may reduce their efficacy and lifespan. A technology that can reprogram the immune cells using ACT, such as sd-rxRNA, is of key interest now in the immuno-oncology world.
+ 
+Our Dermatology and Ophthalmology Programs 
+ 
+The Company intends to seek a partner and/or out-licensee for both its dermatology and ophthalmology programs, which includes RXI-109 and Samcyprone, to continue their development.
+ 
+Dermatology – Hypertrophic Scarring
+ 
+The Company’s first RNAi clinical product candidate, RXI-109, is a sd-rxRNA that commenced human clinical trials in 2012. RXI-109 is designed to reduce the expression of connective tissue growth factor (“CTGF”), a critical regulator of several biological pathways involved in fibrosis, including scar formation in the skin and eye. Two Phase 1 clinical trials completed by the Company demonstrated the safety and tolerability of RXI-109 in ascending single and multi-doses and also provided the first evidence of clinical activity in a surgical setting. The Phase 1 clinical trials provided the desired profile to enable the initiation of a Phase 2a clinical trial. Positive results from Study 1402, our Phase 2a clinical trial with RXI-109 in hypertrophic scars, were reported in December 2017. The study met the primary effectiveness objective as shown by a statistically significant improved visual appearance of revised scars after scar revision surgery and treatment with RXI-109 versus control, as assessed by the investigator. The full study results showed that the product was safe and well tolerated for all dosage groups. Exploratory endpoint analysis furthermore showed that the cosmetic outcomes of RXI-109 treated scars were highly preferred over the untreated revised scars, by both investigators and patients. The study results show furthermore that RXI-109 was safe and well tolerated.
+Dermatology – Warts
+ 
+Samcyprone, the Company’s second clinical candidate, is a proprietary topical formulation of the small molecule diphenylcyclopropenone (“DPCP”), an immunomodulator that works by initiating a T-cell response.
+ 
+In May 2018, the Company announced results from its Phase 2 clinical trial with Samcyprone in cutaneous warts. The primary effectiveness objectives were met as shown by high levels of immunotherapeutic response and therapeutic response. The immunotherapeutic response rate – a prerequisite for therapeutic response – was 97.7% across all 88 subjects enrolled in the study. From a therapeutic response viewpoint, with once weekly dosing for up to 10 weeks, more than 70% of all warts showed a positive wart response rate, i.e. reduction of wart size of more than 50%. Complete wart clearance throughout the study was 54% for all warts, and up to 71.4% for certain wart types (non-plantar warts). The study results show furthermore that Samcyprone was safe and well tolerated.
+Dermatology – Uneven Skin Tone and Pigmentation
+ 
+Cosmetics are compounds that affect the appearance of the skin and make no preventative or therapeutic claims. These compounds may be developed more rapidly than therapeutics, therefore the path to market may be much shorter and less expensive. RXI-231, an sd-rxRNA compound targeting tyrosinase (“TYR”), was selected by the Company for cosmetic development. TYR is a key enzyme in the synthesis of melanin. Melanin is produced by melanocytes and is the pigment that gives human skin, hair and eyes their color. The inhibition of TYR can play a key role in the management of skin conditions including cutaneous hyperpigmentation disorders such as lentigines (freckles, age spots and liver spots) and possibly melanoma.
+
+7
+-
+
+ 
+
+Three studies were performed under the consumer testing program with RXI-231. The first two studies in volunteers determined that the RXI-231 gel formulation did not cause irritation and sensitization when applied to the skin. The third study investigated the potential of RXI-231 to impact a skin melanin content (pigmentation) increase induced by UV exposure in a study design similar to one well documented in peer-reviewed journal articles and used by various cosmetic companies. Specific spectroscopic results showed that application of RXI-231 containing gel, as compared to a vehicle gel, can reduce a change of skin tone triggered by UV. These results not only validate our preclinical data about the effect of RXI-231 on skin pigmentation, but also provide important information on the capabilities of our proprietary topical formulation for the use of our sd-rxRNA based cosmetic ingredients in the consumer care space.
+ 
+Ophthalmology – Retinal Scarring
+ 
+As in dermal scarring, RXI-109 can also be used to target CTGF in the eye, where CTGF is known to be involved in retinal scarring. Building on the work in our dermal clinical program, the Company initiated a Phase 1/2 clinical trial to evaluate the safety and clinical activity of RXI-109 in reducing the progression of retinal scarring. In August 2018, the Company announced positive results from our Phase 1/2 clinical trial to evaluate the safety and clinical activity of RXI-109 in reducing the progression of retinal scarring in subjects with wet age-related macular degeneration with evidence of subretinal fibrosis. Each subject in the study received four doses of RXI-109 by intraocular injection at one-month intervals for a total dosing period of three months. The primary objective was met as shown by the absence of dose-limiting and serious toxicities, and only mild to moderate procedure related adverse events. None of the adverse events were drug related. In addition, comprehensive ocular examinations showed no indications of inflammation nor any other tolerability issues related to the treatment. The secondary objective of the study was also met with improved or stable disease in the study eyes of several subjects.
+Intellectual Property 
+ 
+We protect our proprietary information by means of United States and foreign patents, trademarks and copyrights. In addition, we rely upon trade secret protection and contractual arrangements to protect certain of our proprietary information and products. We have pending patent applications that relate to potential drug targets, compounds we are developing to modulate those targets, methods of making or using those compounds and proprietary elements of our drug discovery platform.
+ 
+Much of our technology and many of our processes depend upon the knowledge, experience and skills of key scientific and technical personnel. To protect our rights to our proprietary know-how and technology, we require all employees, as well as our consultants and advisors when feasible, to enter into confidentiality agreements that require disclosure and assignment to us of ideas, developments, discoveries and inventions made by these employees, consultants and advisors in the course of their service to us, and we vigorously defend that position with partners, as well as with employees who leave the Company.
+ 
+We have also obtained rights to various patents and patent applications under licenses with third parties, which require us to pay royalties, milestone payments, or both. The degree of patent protection for biotechnology products and processes, including ours, remains uncertain, both in the United States and in other important markets, because the scope of protection depends on decisions of patent offices, courts and lawmakers in these countries. There is no certainty that our existing patents or others, if obtained, will afford us substantial protection or commercial benefit. Similarly, there is no assurance that our pending patent applications or patent applications licensed from third parties will ultimately be granted as patents or that those patents that have been issued or are issued in the future will stand if they are challenged in court. We assess our license agreements on an ongoing basis and may from time to time terminate licenses to technology that we do not intend to employ in our technology platforms, or in our product discovery or development activities.
+ 
+
+
+
+8
+-
+
+Patents and Patent Applications 
+ 
+We are actively seeking protection for our intellectual property and are prosecuting a number of patents and pending patent applications covering our compounds and technologies, including our sd-rxRNA technology. A combined summary of these patents and patent applications is set forth below in the following table:
+
+ | Pending Applications | | Issued Patents
+--------------+----------------------+----+---------------
+United States | | 24 | | 40
+Canada | | 11 | | 3 
+Europe | | 16 | | 37
+Japan | | 11 | | 11
+Other Markets | | 18 | | 10
+
+ 
+Our RNAi portfolio includes 94 issued patents, 23 of which cover our self-delivering RNAi platform. There are 16 patent families broadly covering both the composition and methods of use of our self-delivering platform technology and uses of our sd-rxRNAs targeting immune checkpoint, cellular differentiation and metabolism targets for ex vivo cell-based cancer immunotherapies, as well as uses of our sd-rxRNAs targeting CTGF for the treatment of fibrotic disorders (including RXI-109 for the treatment of dermal and ocular fibrosis). These patents are scheduled to expire between 2029 and 2038. Furthermore, there are 75 patent applications, encompassing what we believe to be important new RNAi compounds and their use as therapeutics and/or cosmetics, chemical modifications of RNAi compounds that improve the compounds’ suitability for therapeutic uses (including delivery) and compounds directed to specific targets (i.e., that address specific disease states).
+ 
+The patents and any patents that may issue from these pending patent applications will, if issued, be set to expire between 2022 and 2038, not including any patent term extensions that may be afforded under the Federal Food, Drug, and Cosmetic Act (“FFDCA”) (and the equivalent provisions in foreign jurisdictions) for any delays incurred during the regulatory approval process relating to human drug products (or processes for making or using human drug products).
+ 
+The Samcyprone portfolio includes 1 issued patent and 5 patent applications. The patent and patent applications cover both the compositions and methods of use of Samcyprone for the treatment of warts, human papilloma virus (HPV) skin infections, skin cancer (including melanoma) and immunocompromised patients. The patent and any patents that may issue from the pending applications will be set to expire between 2019 and 2036, not including any patent term extensions that may be afforded under the FFDCA (and the equivalent provisions in foreign jurisdictions) for any delays incurred during the regulatory approval process relating to human drug products (or processed for making or using human drug products).
+ 
+License Agreements 
+ 
+We have secured exclusive and non-exclusive rights to develop therapeutics by licensing key RNAi technologies, Samcyprone and patent rights from third parties. These rights relate to chemistry and configuration of compounds, delivery technologies of compounds to cells and therapeutic targets. As we continue to develop our own proprietary compounds, we continue to evaluate both our in-licensed portfolio as well as the field for new technologies that could be in-licensed to further enhance our intellectual property portfolio and unique position in the RNAi and immuno-oncology space.
+ 
+Advirna LLC. In September 2011, we entered into an agreement with Advirna, LLC (“Advirna”) pursuant to which Advirna assigned to us its existing patent and technology rights related to sd-rxRNA technology in exchange for our agreement to issue to Advirna common stock equal to 5% of the Company’s fully-diluted shares, pay an annual maintenance fee of $100,000 and pay a one-time milestone payment of $350,000 upon the issuance of the first patent with valid claims covering the assigned technology. The common shares of the Company were issued to Advirna in 2012 upon the completion of the spin-out from our former parent company and the one-time milestone payment was paid in 2014. Additionally, we will be required to pay a 1% royalty to Advirna on any license revenue received by us with respect to future licensing of the assigned Advirna patent and technology rights. We also granted back to Advirna a license under the assigned patent and technology rights for fields of use outside human therapeutics and diagnostics.
+ 
+
+
+
+9
+-
+
+ 
+
+Our rights under the Advirna agreement will expire upon the later of: (i) the expiration of the last-to-expire of the “patent rights” (as defined therein) or (ii) the abandonment of the last-to-be abandoned of such patents, unless earlier terminated in accordance with the provisions of the agreement.
+ 
+We may terminate the Advirna agreement at any time upon 90 days’ written notice to Advirna, and Advirna may terminate the agreement upon 90 days’ prior written notice in the event that we cease using commercially reasonable efforts to research, develop, license or otherwise commercialize the patent rights or “royalty-bearing products” (as defined therein), provided that we may refute such claim within such 90-day period by showing budgeted expenditures for the research, development, licensing or other commercialization consistent with other technologies of similar stage of development and commercial potential as the patent rights or royalty-bearing products. Further, either party at any time may provide to the other party written notice of a material breach of the agreement. If the other party fails to cure the identified breach within 90 days after the date of the notice, the aggrieved party may terminate the agreement by written notice to the party in breach.
+ 
+Hapten Pharmaceuticals, LLC. In December 2014, the Company entered into an Assignment and License Agreement with Hapten Pharmaceuticals, LLC (“Hapten”) under which Hapten agreed to sell and assign to us certain patent rights and related assets and rights, including an investigational new drug application and clinical data, for Hapten’s Samcyprone products for therapeutic and prophylactic use. Under the Assignment and License Agreement, and upon the closing of the agreement which occurred in February 2015, Hapten received a one-time upfront cash payment of $100,000 and we issued to Hapten 2,000 shares of common stock of the Company. Pursuant to the Assignment and License Agreement, Hapten will be entitled to receive: (i) future milestone payments tied to the achievement of certain clinical and commercial objectives (all of which payments may be made at our option in cash or through the issuance of common stock) and (ii) escalating royalties based on product sales by us and any sublicensees.
+ 
+We have certain customary diligence obligations under the Assignment and License Agreement requiring us to use commercially reasonable efforts to develop and commercialize one or more products covered by the Assignment and License Agreement, which obligations, if not performed, could result in rights assigned or licensed to us reverting back to Hapten.
+ 
+In addition to the license agreements listed above, the Company has entered into and may enter into other license agreements that may benefit us as we develop our therapeutic pipelines.
+ 
+Other Licensing Agreements 
+ 
+OPKO Health, Inc. In March 2013, the Company entered into an Asset Purchase Agreement (the “Asset Purchase Agreement”) with OPKO Health, Inc. (“OPKO”), in which we acquired substantially all of its RNAi-related assets, which included patents and patent applications, licenses, clinical and preclinical data and other related assets. In exchange for the assets that we purchased from OPKO, we issued 16,667 shares of our common stock and agreed to pay, if applicable: (i) up to $50 million in development and commercialization milestones for the successful development and commercialization of each “Qualified Drug” (as defined therein) and (ii) royalty payments equal to: (a) a mid-single-digit percentage of “Net Sales” (as defined therein) with respect to each Qualified Drug sold for an ophthalmologic use during the applicable “Royalty Period” (as defined therein) and (b) a low-single-digit percentage of Net Sales with respect to each Qualified Drug sold for a non-ophthalmologic use during the applicable Royalty Period.
+ 
+We have certain customary diligence obligations under the Asset Purchase Agreement requiring us to use commercially reasonable efforts to develop and commercialize one or more products covered by the Asset Purchase Agreement, which obligations, if not performed, could result in assets transferred and rights assigned or licensed to us reverting back to OPKO.
+ 
+Thera Neuropharma, Inc. In May 2016, Phio granted an exclusive license to Thera Neuropharma, Inc. (“Thera”) to the Company’s novel and proprietary sd-rxRNA platform to develop therapeutics for neurodegenerative diseases. Under the terms of the agreement, Thera will be responsible for all research, development, manufacturing, regulatory and commercialization activities for the licensed products. Thera’s initial focus will be on sd-rxRNA compounds targeting superoxide dismutase 1 (SOD1) for use in developing innovative treatments for amyotrophic lateral sclerosis (ALS), commonly known as Lou Gehrig’s disease. Upon execution of the license agreement, Phio was issued shares of common stock of Thera and was granted a five-year warrant to purchase additional shares of common stock of Thera pursuant to the terms of the license agreement. The Company is eligible to receive future cash, additional equity and royalties based on the achievement of certain milestones.
+
+10
+--
+
+Research and Development 
+ 
+Our research and development expense primarily consists of compensation-related costs for our employees dedicated to research and development activities, fees related to our Scientific Advisory Board members, expenses related to our ongoing research and development efforts including laboratory supplies and services for our research programs, our clinical trials, drug manufacturing, outside contract services, licensing fees and patent fees.
+ 
+Total research and development expense for the years ended December 31, 2018 and 2017 was $4,326,000 and $5,370,000, respectively.
+ 
+Acquired In-Process Research and Development 
+ 
+Assets purchased in an asset acquisition transaction are expensed as in-process research and development unless the assets acquired have an alternative future use. Acquired in-process research and development payments are immediately expensed and include upfront payments, as well as transaction fees and subsequent milestone payments. Development costs incurred after the acquisition are expensed as incurred.
+ 
+The Company did not complete an asset acquisition transaction during the year ended December 31, 2018 that would require the recording of acquired in-process research and development expense. Total acquired in-process research and development expense for the year ended December 31, 2017 was $4,696,000, and related to the fair value of consideration given, which includes transaction costs, liabilities assumed and cancellation of notes receivable, and the deferred tax impact of the Company’s acquisition of MirImmune.
+ 
+Competition
+ 
+The biotechnology and pharmaceutical industries, including the immuno-oncology field, are a constantly evolving landscape with rapidly advancing technologies and significant competition. There are a number of competitors in the immuno-oncology field including large and small pharmaceutical and biotechnology companies, academic institutions, government agencies and other private and public research organizations.
+ 
+A variety of cell-based autologous and allogeneic approaches are being researched and developed, including but not limited to: CAR-T cell, TCR T-cell, GammaDelta T-cell, CAR-NK cell, NK cell, NKT cell and CTL. We believe that competitors in this field include, but are not limited to Adicet Bio, Allogene Therapeutics, Atara Bio, Autolus, Baylor College of Medicine, Bellicum Pharmaceuticals, bluebird bio, Celyad, Celgene, Cell Medica, Cellectis Therapeutics, Cellularity, CiMaas, CRISPR Therapeutics, Fate Therapeutics, Formula Therapeutics, Fortress Biotech, GAIA Biomedicine, Glycostem Therapeutics, Immatics, Iovance Biotherapeutics, Intrexon, Janssen Pharmaceuticals (with Nanjing Legend), Juno Therapeutics (Celgene), Kite Pharma (Gilead), MediGene, Mustang Bio, NantKwest, Neon Therapeutics, Novartis, Precigen, Refuge Biotechnologies Inc, Sorrento Therapeutics, Tactiva Therapeutics, TC Biopharm and Ziopharm Oncology.
+ 
+A number of technological approaches to modulating gene expression in the field of immuno-oncology have been identified and are being researched and developed, including but not limited to: Antisense oligodeoxynucleotides (ASO), RNA interference (RNAi), zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs), messenger RNA (mRNA), and genetic engineering techniques such as Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) and various others. We believe that competitors in this field include, but are not limited to BioNTech, Cellectis, CRISPR Therapeutics, Dicerna Pharmaceuticals, Editas Medicine, eTherna Immunotherapies, Horizon Discovery, Intellia Therapeutics, Kymera Therapeutics, miRagen Therapeutics, Moderna Therapeutics, Noxxon Pharma, Obsidian Therapeutics, OliPass Corporation, OncoSec Medical System, Oncotelic, PTC Therapeutics, Sangamo Therapeutics, Sirnaomics, Stemirna Therapeutics, Takara Bio and Sangamo Therapeutics.
+ 
+Government Regulation 
+ 
+The United States and many other countries extensively regulate the preclinical and clinical testing, manufacturing, labeling, storage, record-keeping, advertising, promotion, export, marketing and distribution of drugs and biologic products. The U.S. Food and Drug Administration (“FDA”) regulates pharmaceutical and biologic products under the FFDCA, the Public Health Service Act and other federal statutes and regulations.
+ 
+To obtain approval of our future product candidates from the FDA, we must, among other requirements, submit data supporting safety and efficacy for the intended indication as well as detailed information on the manufacture and composition of the product candidate. In most cases, this will require extensive laboratory tests and preclinical and clinical trials. The collection of these data, as well as the preparation of applications for review by the FDA involve significant time and expense. The FDA also may require post-marketing testing to monitor the safety and efficacy of approved products or place conditions on any approvals that could restrict the therapeutic claims and commercial applications of these products. Regulatory authorities may withdraw product approvals if we fail to comply with regulatory standards or if we encounter problems at any time following initial marketing of our products.
+ 
+
+
+
+11
+--
+
+ 
+
+The first stage of the FDA approval process for a new biologic or drug involves completion of preclinical studies and the submission of the results of these studies to the FDA. These data, together with proposed clinical protocols, manufacturing information, analytical data and other information submitted to the FDA in an investigational new drug (“IND”) application, must become effective before human clinical trials may commence. Preclinical studies generally involve FDA regulated laboratory evaluation of product characteristics and animal studies to assess the efficacy and safety of the product candidate.
+ 
+After the IND becomes effective, a company may commence human clinical trials. These are typically conducted in three sequential phases, but the phases may overlap. Phase 1 trials consist of testing the product candidate in a small number of patients or healthy volunteers, primarily for safety at one or more doses. Phase 2 trials, in addition to safety, evaluate the efficacy of the product candidate in a patient population somewhat larger than Phase 1 trials. Phase 3 trials typically involve additional testing for safety and clinical efficacy in an expanded population at multiple test sites. A company must submit to the FDA a clinical protocol, accompanied by the approval of the Institutional Review Board (“IRB”) at the institutions participating in the trials, prior to commencement of each clinical trial.
+ 
+To obtain FDA marketing authorization, a company must submit to the FDA the results of the preclinical and clinical testing, together with, among other things, detailed information on the manufacture and composition of the product candidate, in the form of a new drug application (“NDA”), or, in the case of a biologic, a biologics license application (“BLA”).
+ 
+The amount of time taken by the FDA for approval of an NDA or BLA will depend upon a number of factors, including whether the product candidate has received priority review, the quality of the submission and studies presented, the potential contribution that the compound will make in improving the treatment of the disease in question and the workload at the FDA.
+ 
+The FDA may, in some cases, confer upon an investigational product the status of a fast track product. A fast track product is defined as a new drug or biologic intended for the treatment of a serious or life-threatening condition that demonstrates the potential to address unmet medical needs for this condition. The FDA can base approval of an NDA or BLA for a fast track product on an effect on a surrogate endpoint, or on another endpoint that is reasonably likely to predict clinical benefit. If a preliminary review of clinical data suggests that a fast track product may be effective, the FDA may initiate review of entire sections of a marketing application for a fast track product before the sponsor completes the application.
+ 
+We anticipate that our products will be manufactured by our strategic partners, licensees or other third parties. Before approving an NDA or BLA, the FDA will inspect the facilities at which the product is manufactured and will not approve the product unless the manufacturing facilities are in compliance with the FDA’s cGMP, which are regulations that govern the manufacture, holding and distribution of a product. Manufacturers of biologics also must comply with the FDA’s general biological product standards. Our manufacturers also will be subject to regulation under the Occupational Safety and Health Act, the Nuclear Energy and Radiation Control Act, the Toxic Substance Control Act and the Resource Conservation and Recovery Act and other applicable environmental statutes. Following approval, the FDA periodically inspects drug and biologic manufacturing facilities to ensure continued compliance with the cGMP. Our manufacturers will have to continue to comply with those requirements. Failure to comply with these requirements subjects the manufacturer to possible legal or regulatory action, such as suspension of manufacturing or recall or seizure of product. Adverse patient experiences with the product must be reported to the FDA and could result in the imposition of marketing restrictions through labeling changes or market removal. Product approvals may be withdrawn if compliance with regulatory requirements is not maintained or if problems concerning safety or efficacy of the product occur following approval.
+ 
+The labeling, advertising, promotion, marketing and distribution of a drug or biologic product also must be in compliance with FDA and Federal Trade Commission requirements which include, among others, standards and regulations for off-label promotion, industry sponsored scientific and educational activities, promotional activities involving the internet, and direct-to-consumer advertising. We also will be subject to a variety of federal, state and local regulations relating to the use, handling, storage and disposal of hazardous materials, including chemicals and radioactive and biological materials. In addition, we will be subject to various laws and regulations governing laboratory practices and the experimental use of animals. In each of these areas, as above, the FDA has broad regulatory and enforcement powers, including the ability to levy fines and civil penalties, suspend or delay issuance of product approvals, seize or recall products and deny or withdraw approvals.
+ 
+
+
+
+12
+--
+
+ 
+
+We will also be subject to a variety of regulations governing clinical trials and sales of our products outside the United States. Whether or not FDA approval has been obtained, approval of a product candidate by the comparable regulatory authorities of foreign countries and regions must be obtained prior to the commencement of marketing the product in those countries. The approval process varies from one regulatory authority to another and the time may be longer or shorter than that required for FDA approval. In the European Union, Canada and Australia, regulatory requirements and approval processes are similar, in principle, to those in the United States.
+ 
+Environmental Compliance 
+ 
+Our research and development activities involve the controlled use of potentially harmful biological materials as well as hazardous materials, chemicals and various radioactive compounds. We are subject to federal, state and local laws and regulations governing the use, storage, handling and disposal of these materials and specific waste products. We are also subject to numerous environmental, health and workplace safety laws and regulations, including those governing laboratory procedures, exposure to blood-borne pathogens and the handling of bio-hazardous materials. The cost of compliance with these laws and regulations could be significant and may adversely affect capital expenditures to the extent we are required to procure expensive capital equipment to meet regulatory requirements.
+Employees 
+ 
+As of March 22, 2019, we had nine full-time employees. None of our employees are represented by a labor union or covered by a collective bargaining agreement nor have we experienced any work stoppages.
+Corporate Information 
+ 
+We were incorporated in the state of Delaware in 2011 as RXi Pharmaceuticals Corporation. On November 19, 2018, the Company changed its name to Phio Pharmaceuticals Corp., to reflect its transition from a platform company to one that is fully committed to developing groundbreaking immuno-oncology therapeutics. Our executive offices are located at 257 Simarano Drive, Suite 101, Marlborough, MA 01752, and our telephone number is (508) 767-3861.
+ 
+The Company’s website address is http://www.phiopharma.com. We make available on our website, free of charge, copies of our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after these reports are filed electronically with, or otherwise furnished to, the Securities and Exchange Commission (the “SEC”). We also make available on our website the charters of our audit committee, compensation committee, and nominating and corporate governance committee, as well as our corporate code of ethics and conduct.
+ 
+You may read and copy any materials the Company files with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding Phio and other issuers that file electronically with the SEC. The SEC’s website address is http://www.sec.gov. The contents of these websites are not incorporated by reference into this report and should not be considered to be part of this report.
+ 

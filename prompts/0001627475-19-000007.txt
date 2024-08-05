@@ -1,0 +1,191 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business. 
+Overview
+We are changing the way work gets done by connecting businesses with great talent to work without limits.
+We operate the largest online marketplace, as measured by gross services volume (“GSV”),1 which enables businesses to find and work with highly-skilled freelancers. Freelancers are an increasingly sought-after, critical, and expanding segment of the global workforce. During the year ended December 31, 2018, our platform enabled $1.8 billion of GSV. We define freelancers as users of our platform that advertise and provide services to clients through our platform, and we define clients as users of our platform that work with freelancers through our platform. 
+For freelancers, we serve as a powerful marketing channel to find rewarding, engaging, and flexible work. Freelancers using our platform benefit from access to quality clients and secure and timely payments while enjoying the freedom to run their own businesses, create their own schedules, and work from their preferred locations. Moreover, freelancers have real-time visibility into opportunities that are in high demand, so that they can invest their time and focus on developing sought-after skills. Freelancers on our platform include independent professionals and agencies of varying sizes.
+For clients, our platform provides fast, secure, and efficient access to high-quality talent with over 5,000 skills across over 70 categories, such as content marketing, customer service, data science and analytics, graphic design, mobile development, sales, and web development. We offer a direct-to-talent approach, reducing reliance on intermediaries such as staffing firms, recruiters, and traditional agencies, while providing features that help instill trust in remote work. Our platform also enables clients to streamline workflows, such as talent sourcing, outreach, and contracting. In addition, our platform provides access to essential functionality for remote engagements with freelancers, including communication and collaboration, time tracking, invoicing, and payment. The clients on our platform range in size from small businesses to Fortune 500 companies.
+We believe that a key driver of our growth is our track record of creating trust and enabling freelancers and clients to successfully connect at scale on our platform. As the largest online marketplace for highly-skilled freelancers, as measured by GSV, we benefit from network effects that drive growth in both the number of clients posting jobs and the number of highly-skilled freelancers seeking work.
+We generate a majority of our revenue from fees charged to freelancers. We also generate revenue through fees charged to clients for transacting payments through our platform, as well as foreign currency exchange fees, Upwork Payroll service fees, and fees for premium offerings. In addition, we provide a managed services offering where we engage freelancers to complete projects, directly invoice the client, and assume responsibility for work performed by the freelancers.
+_____________________
+1 GSV represents the total amount that clients spend on both our marketplace offerings and our managed services offering as well as additional fees we charge to users for other services. For additional information related to how we calculate GSV, see the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Overview—Business” and “—Key Financial and Operational Metrics.”
+2
+
+Our Strengths
+We believe that our competitive advantages are based on the following key strengths:
+Largest Online Global Marketplace for Highly-Skilled Freelancers
+We operate the largest online global marketplace that enables businesses to find and work with highly-skilled freelancers, as measured by GSV. Our platform provides clients with access to highly-skilled freelancers with over 5,000 skills across over 70 categories.
+Trusted Platform for Freelancers and Clients
+We believe our ability to foster trust and credibility on our platform helps to drive growth and differentiate us. We use a combination of the latest technology, data science, product features, and our skilled team to position our platform as a trusted online marketplace to get work done. We build and use software to highlight relevant freelancers, facilitate security and identity verification for account ownership, and flag suspicious posts. We provide clients with tools to validate work performed by freelancers and to provide both public and private feedback once the work is completed. Our feedback system enables freelancers to build their business reputation by establishing long-term credibility with project review and client feedback. We provide escrow services so clients on our platform only pay for work that has been completed and freelancers are paid by their clients in full and on time.
+Proprietary Data Drives Increasing Efficiencies
+Our proprietary database maintains detailed and dynamic information, including skills provided by freelancers, feedback, and success indicators of freelancers and clients transacting on our platform. Using this data in our machine learning algorithms on our platform enables us to provide a trusted, convenient, and effective user experience for both new and existing freelancers and clients. Moreover, our machine learning algorithms leverage our closed-loop transaction data on millions of completed projects. The large volume of transactions on our marketplace positions us to improve the effectiveness of our search algorithms and product features.
+Robust Platform Functionality
+Our platform includes a proposal tracking system, search engine and collaboration functionality, time tracking and invoicing systems, and payments services. The robust functionality of our platform is designed to enable freelancers to more easily run their businesses and clients to find and work with high-quality talent globally. 
+Powerful Global Network Effects
+We have heavily invested in building a robust platform with features and functionalities to connect freelancers and clients at scale. We believe our platform provides a strong value proposition for both sides of our marketplace and our scale creates powerful network effects that strengthen our competitive position. In turn, as more clients use and post projects on our platform, we are able to attract more freelancers. As a result, we have been able to scale our business and our global community of users without the need for local physical presence and density.
+Business Model with Strong Retention Metrics
+The growth in our marketplace is driven by long-term and recurring use of our platform by freelancers and clients, which leads to increased revenue visibility for us. For example, for the year ended December 31, 2018, in addition to acquiring new clients, our client spend retention was 108%. For additional information related to how we calculate client spend retention, see the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Key Financial and Operational Metrics.” In addition, we believe the scale of our platform incentivizes freelancers to build their business reputations and continue to use our platform.
+Proven Management Team
+Our company was formed when two of the earliest innovators in the space, and the largest online talent marketplaces at the time, Elance, Inc. (“Elance”) and oDesk Corporation (“oDesk”), combined in 2014. Our management team has a strong track record of scaling and running profitable businesses with a focus on online marketplaces, business-to-business services and software, and global payments technologies. Our President and Chief Executive Officer, Stephane Kasriel, is an active thought leader in talent engagement and the future of work, and, from 2016 to 2018, served as co-chair of the World Economic Forum’s Global Future Council on Education, Gender and Work, and currently serves as co-chair of the World Economic Forum’s Global Future Council on the New Social Contract.
+Our Marketplace
+We have built a proprietary platform that reduces the friction associated with searching for, contracting and collaborating with, and paying highly-skilled freelancers for short-term and longer-term projects. We have built an expansive and unique repository 
+3
+
+of data on our platform, which, when combined with our machine learning capabilities, enables us to better connect clients with available talent for their projects.
+Our Products
+We have marketplace offerings and a managed services offering. Our marketplace offerings include our Upwork Standard, Upwork Enterprise, and Upwork Payroll offerings.
+Upwork Standard
+Our Upwork Standard offering provides clients with access to freelance talent with verified work history on our platform and client feedback, the ability to instantly match with the right freelancers, and built-in collaboration features.
+Upwork Enterprise 
+Our Upwork Enterprise offering, which is designed for larger clients, includes access to additional product features, premium access to top talent, professional services, custom reporting, compliance services, and invoicing on a monthly basis.
+Upwork Payroll
+Our Upwork Payroll service, one of our premium offerings, is offered to both Upwork Standard and Upwork Enterprise clients whose freelancers are classified as employees for engagements on our online marketplace. With Upwork Payroll, third-party staffing providers provide employment services on behalf of clients.
+Managed Services Offering
+Through our managed services offering, we engage freelancers directly or as employees of third-party staffing providers to perform services for clients on our behalf, directly invoice the client, and assume responsibility for work performed by freelancers.
+Escrow Services
+We are licensed as an internet escrow agent by the California Department of Business Oversight (“DBO”). Pursuant to the DBO’s regulations, funds that we hold on behalf of clients and freelancers are held in our escrow account and are released only according to escrow instructions that have been agreed upon by freelancers and clients. For fixed-price contracts, the client deposits funds that are held in escrow, in whole or by milestone, before the freelancer starts to work. The escrow funds are then released to the freelancer upon completion of a project or a milestone. For hourly contracts, the client receives an invoice on a weekly basis and has several days to review the invoice. Funds are released to the freelancer after the review period unless the client files a dispute. In the case of any dispute between freelancers and clients over funds held in escrow, we have a dedicated team focused on facilitating a resolution between them.
+Our Culture and Employees
+Our mission—to create economic opportunities so people have better lives—is integral to our culture, and how we hire, build products, and lead our industry. We practice a “work without limits” model that includes a distributed team of on-site and remote employees, and we also engage freelancers all over the world for our own specialized projects. We believe this results in a team that is continually engaged and passionate about the positive impact of our platform.
+Our values are:
+• Inspire a boundless future of work; 
+• Put our community first;
+• Have a bias toward action; and
+• Build amazing teams.
+As of December 31, 2018, we had approximately 430 employees, and in 2018, we engaged over 1,000 freelancers to provide services to us on a variety of internal projects. None of our employees are represented by a labor union or are covered by a collective bargaining agreement. We believe the positive relationship between us and our employees and our unique, strong culture differentiates us and is a key driver of business success.
+Sales and Marketing
+Our sales and marketing organizations work closely together to increase awareness, generate client demand, build a strong sales pipeline, and grow account relationships across businesses of all sizes, from small businesses to Fortune 500 companies, to accelerate GSV growth.
+4
+
+Marketing
+A majority of our client and freelancer registrations come through direct and non-paid channels.
+Our marketing strategy starts with driving cost-effective awareness of our brand and the benefits of hiring remote talent. We draw insights and trends from our platform to drive broad public relations coverage. We also help shape influential conversations around the future of work through major media outlets to drive awareness of remote work.
+The majority of our marketing activities are focused on our Upwork Standard offering, which enjoys high Net Promoter Scores (“NPS”) that generate significant word of mouth. We increase our new client pipeline with a variety of digital, direct mail, and event marketing programs. We deploy email and life cycle marketing initiatives to retain, cross-sell, and upsell existing clients. We have recently begun offline advertising in a small number of metropolitan markets to increase brand awareness.
+We complement our Upwork Standard strategy with focused outbound programs targeting enterprise organizations with existing adoption of our platform. Once prospects are identified, our enterprise sales team works to broaden adoption of our platform into wider-scale deployments.
+Enterprise Sales
+Our enterprise sales team is currently focused on acquiring and growing clients with more than 100 employees. Our enterprise sales team helps new and existing clients build and execute awareness campaigns through workshops, webinars, and marketing events that drive additional spend through our platform. We believe this land-and-expand strategy helps clients ramp their usage of our platform and drives more value, awareness, and adoption over time.
+Our Technology
+We invest substantial resources in research and development to enhance our platform, develop new products and features, and improve our infrastructure. We utilize a flexible systems architecture to allow us to scale easily as our platform usage increases and to provide a consistent and robust user experience. We host our platform on Amazon Web Services (“AWS”). The core elements of our technology are:
+Reliability
+Our infrastructure is designed to provide high reliability and robust platform performance. There are three components to our reliability strategy:
+
+1. | Services-Oriented Architecture. We have focused on building a services-oriented architecture that is designed to independently scale, or failover, as needed, leveraging the AWS platform. As a result, since integrating with AWS, we believe we are more resilient to unexpected surges in traffic or to new code changes that we may introduce.
+
+
+2. | Isolation as a Design Philosophy. Leveraging the philosophy of domain-driven design, we have divided our platform into multiple sections to reduce the likelihood that a failure in any one section of our platform would negatively impact other sections of our platform.
+
+
+3. | Self-Monitoring and Self-Healing. Our platform is designed to continuously monitor its own health and act appropriately, particularly during our deployment of new code.
+
+Security
+Our platform is designed to help ensure the security of our data and systems, protect our users’ personal information, and to meet the rigorous privacy and security requirements of our enterprise customers. To that end, we have obtained the following security and privacy certifications: SOC 2, Type 2 certification, PCI-DSS certification, and U.S.-EU and U.S.-Swiss Privacy Shield certifications. We are also TrustArc certified. 
+Our information security controls operate at multiple levels and are designed to detect, prevent, and mitigate cyber security threats that could impact the privacy and security of our data and our user’s data. To operate at scale, we have automated several risk mitigation strategies. We have implemented comprehensive trust and safety processes to help prevent and detect suspicious behavior on our platform. Over the years of developing our platform, we have developed and refined specific pattern-matching algorithms to detect unusual behavior on our platform. 
+Another component of our security strategy is to leverage third parties who provide value-added user verification services. Augmenting our knowledge of user identity through these third-party services improves our ability to better detect and verify suspicious activity on our platform.
+All access to our platform is encrypted using industry-standard transport layer security technology. When users enter sensitive information, such as tax identification numbers, we encrypt the transmission of that information using secure socket layer 
+5
+
+technology. We also use HTTP strict transport security to add an additional layer of protection for our users. For servers that store personally identifiable information, the data is encrypted. In order to make secure payments through our platform, we are also Payment Card Industry Data Security Standard certified, which means we have demonstrated compliance with the Payment Card Industry security standards required for businesses that complete credit card or debit card transactions.
+Our users may elect to further secure their account credentials through two-factor authentication that requires them to authenticate on a second device.
+Machine Learning Predictive Capabilities
+We leverage historical data to create a continuously improving experience for freelancers and clients. Our platform contains a large repository of closed-loop data for the entire life cycle of work starting from when clients post projects, to when freelancers and clients match, how they communicate, how and when payment is transferred, and finally feedback.
+Utilizing machine learning capabilities to predict future behavior based on many years of historical use cases, we are able to leverage this data analysis to create stronger user experiences.
+During the search process, we leverage our proprietary data to help freelancers and clients efficiently connect. We leverage machine learning to balance supply and demand within the marketplace as well. Freelancers receive data on market rates based on similar jobs when submitting proposals. When clients post jobs, similar rate resources also appear within the system. Upon registration, our machine learning algorithms assess a freelancer’s potential to be successful on our platform based on the current supply and demand in addition to the skills in the freelancer’s profile.
+Scalability
+Our cloud-based platform has been designed to scale with increased usage and to support sudden traffic spikes by easily and cost-effectively bringing additional capacity online as required.
+The Upwork Foundation Initiative
+In April 2018, we established The Upwork Foundation initiative. The objective of The Upwork Foundation initiative is to further our mission of creating economic opportunities to make people’s lives better by supporting:
+
+• | those who may not otherwise fully benefit from the changing nature of work, including through organizations focused on skill development in underserved communities;
+
+
+• | non-profit organizations to increase their social impact by using our platform; and
+
+
+• | our employees in volunteering in their local communities.
+
+The initiative will include a donor-advised fund created through the Tides Foundation. We believe that building a sustainable program for charitable donations fosters employee morale, enhances our community presence, and strengthens our brand. In May 2018, we issued a warrant to purchase 500,000 shares of our common stock to the Tides Foundation at an exercise price of $0.01 per share. This warrant is exercisable for 1/10th of the shares on each anniversary of the effective date of our initial public offering (“IPO”). Upon the exercise and sale of these shares, we will instruct the Tides Foundation to donate the proceeds from such sale in accordance with our direction.
+In addition to the creation of The Upwork Foundation initiative, we have signed on to the Pledge 1% campaign, which publicly acknowledges our intent to give back and increase social impact. To fulfill our intent under this campaign, in addition to granting the warrant to the Tides Foundation, we will also implement programs allowing our employees to donate their time to volunteer programs and will be undertaking certain product initiatives designed to benefit nonprofit organizations. We believe this will further display to our employees and other stakeholders our commitment to further our mission across many communities. At this time, we do not plan to grant additional equity or donate cash in order to fulfill our intent under this campaign.
+Competition
+The market for freelancers and the clients that engage them is highly competitive, rapidly evolving, fragmented, and subject to changing technology, shifting needs, and frequent introductions of new competitors as well as new products and services. We compete with a number of online and offline platforms and services domestically and internationally to attract and retain users and expand our share of user spend. Our main competitors fall into the following categories:
+
+• | traditional contingent workforce and staffing service providers and other outsourcing providers, such as The Adecco Group, Randstad, Recruit, ManpowerGroup, and Robert Half International;
+
+
+• | online freelancer platforms that serve either a diverse range of skill categories, such as Fiverr and Freelancer.com, or specific skill categories;
+
+6
+
+
+• | other online providers of products and services for individuals or businesses seeking work or to advertise their services, including personal and professional social networks, such as LinkedIn and GitHub (each owned by Microsoft), employment marketplaces, recruiting websites, and project-based deliverable providers;
+
+
+• | software and business services companies focused on talent acquisition, management, invoicing, or staffing management products and services;
+
+
+• | payment businesses, such as PayPal and Payoneer, that can facilitate payments to and from businesses and service providers;
+
+
+• | businesses that provide specialized, professional services, including consulting, accounting, marketing, and information technology services; and
+
+
+• | online and offline job boards, classified ads, and other traditional means of finding work and service providers, such as Craigslist, CareerBuilder, Indeed, Monster, and ZipRecruiter.
+
+In addition, well-established internet companies, such as Google, LinkedIn, and Amazon, and social media platforms, such as Facebook, have entered or may decide to enter into our market segment, and some of these companies have launched products and services that directly compete with our platform. For example, in 2016, LinkedIn launched ProFinder, its service to connect LinkedIn members with one another for freelance service relationships. Many of these established internet companies and other competitors are considerably larger than we are and have considerably greater financial and other resources than we do. We also compete with companies that utilize emerging technologies, such as blockchain or artificial intelligence.
+We believe the principal competitive factors in our market include:
+
+• | platform features and functionality;
+
+
+• | size and engagement of user base, including the ability to attract and retain clients with a need for freelancer services;
+
+
+• | breadth of skill categories offered by freelancers;
+
+
+• | uniqueness, size, and scope of data assets;
+
+
+• | ease of use;
+
+
+• | vision for the market;
+
+
+• | brand awareness and reputation;
+
+
+• | efficient and accelerated time to hire;
+
+
+• | level of user satisfaction;
+
+
+• | relationships with third-party partners;
+
+
+• | strength of sales and marketing efforts;
+
+
+• | ability to innovate and develop new or improved products and services; and
+
+
+• | pricing.
+
+We believe that we compete favorably with respect to these factors.
+Intellectual Property
+The protection of our technology and intellectual property is an important aspect of our business. We rely upon a combination of patents, trademarks, trade secrets, copyrights, confidentiality procedures, contractual commitments, and other legal rights to establish and protect our intellectual property. We generally enter into confidentiality agreements and invention or work product assignment agreements with our employees and consultants to control access to, and clarify ownership of, our software, documentation, and other proprietary information.
+As of December 31, 2018, we held 18 issued U.S. patents and had 8 U.S. patent applications pending. We also held one issued patent in a foreign jurisdiction. As of December 31, 2018, we held 12 registered trademarks in the United States, including Upwork, Elance, and oDesk and also held 126 registered trademarks in foreign jurisdictions. We continually review our development efforts to assess the existence and patentability of new intellectual property.
+7
+
+Government Regulation
+We are subject to a number of U.S. federal and state and foreign laws and regulations that are applicable to internet companies and businesses that operate online marketplaces connecting businesses with freelancers. These laws and regulations may involve worker classification, employment, data protection, online payment services, content regulation, intellectual property, taxation, consumer protection, background checks, payment services, money transmitter regulations, anti-corruption, anti-money laundering and sanctions laws, or other subjects. Moreover, we provide escrow services to our users and are therefore licensed as an internet escrow agent by the DBO. Many of the laws and regulations that are or may be applicable to our business are still evolving and being tested in courts and could be interpreted in ways that could adversely impact our business. In addition, the application and interpretation of these laws and regulations often are uncertain, particularly in the industry in which we operate.
+Corporate Information
+We were incorporated in the State of Delaware in December 2013 prior to and in connection with the combination of Elance and oDesk. In connection with the combination, we changed our name to Elance-oDesk, Inc. in March 2014, and then to Upwork Inc. in May 2015. In 2015, we commenced consolidation of the Elance platform and the oDesk platform and following the consolidation in 2016, began operating under a single platform.
+Our principal executive offices are located at 441 Logue Avenue, Mountain View, California 94043. Our telephone number is (650) 316-7500. Our website address is www.upwork.com. The information contained on, or that can be accessed through, our website is not a part of this Annual Report. Investors should not rely on any such information in deciding whether to purchase our common stock. Unless otherwise expressly stated or the context otherwise requires, references in this Annual Report to “Upwork,” the “Company,” “our,” “us,” and “we” and similar references refer to Upwork Inc. and its wholly-owned subsidiaries.
+Upwork, the Upwork logo, Upwork Enterprise, Elance, oDesk, Elance-oDesk, and other registered or common law trade names, trademarks, or service marks of Upwork appearing in this Annual Report are the property of Upwork. This Annual Report contains additional trade names, trademarks, and service marks of ours and of other companies. We do not intend our use or display of other companies’ trade names, trademarks, or service marks to imply a relationship with these other companies, or endorsement or sponsorship of us by these other companies. Other trademarks appearing in this Annual Report are the property of their respective holders. Solely for convenience, our trademarks and tradenames referred to in this Annual Report appear without the ® and ™ symbols, but those references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights, or the right of the applicable licensor, to these trademarks and tradenames.
+We are an “emerging growth company,” as defined in the Jumpstart Our Business Startups Act of 2012, and, as such, we have elected to comply with certain reduced public company reporting requirements. We will remain an “emerging growth company” until the earliest of (i) December 31, 2023, which is the last day of the fiscal year following the fifth anniversary of the completion of our IPO, (ii) the last day of the first fiscal year in which our annual gross revenue is $1.07 billion or more, (iii) the date on which we have, during the previous rolling three-year period, issued more than $1.0 billion in non-convertible debt securities or (iv) the date on which we are deemed to be a “large accelerated filer” as defined in the Securities Exchange Act of 1934, as amended (the “Exchange Act”). We refer to the Jumpstart Our Business Startups Act of 2012 herein as the “JOBS Act,” and references herein to “emerging growth company” are intended to have the meaning associated with it in the JOBS Act.
+Available Information
+We file annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act with the SEC. The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements and other information that we file with the SEC electronically. Copies of our reports on Form 10-K, Forms 10-Q, and Forms 8-K, and amendments to those reports may also be obtained, free of charge, electronically through our investor relations website located at the web address appearing below as soon as reasonably practical after we file such material with, or furnish it to, the SEC.
+We use our investor relations website (investors.upwork.com/), our Twitter handle (twitter.com/Upwork) and Stephane Kasriel’s Twitter handle (twitter.com/skasriel) and LinkedIn profile (linkedin.com/in/kasriel) as a means of disseminating or providing notification of, among other things, news or announcements regarding our business or financial performance, investor events, press releases and earnings releases and as a means of disclosing material non-public information and for complying with our disclosure obligations under Regulation FD. The content of our websites and information that we may post on or provide to online and social media channels, including those mentioned above, and information that can be accessed through our websites or these online and social media channels are not incorporated by reference into this Annual Report or in any other report or document we file with the SEC, and any references to our websites or these online and social media channels are intended to be inactive textual references only.
+8
+

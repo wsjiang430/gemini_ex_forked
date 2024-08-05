@@ -1,0 +1,165 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. DESCRIPTION OF BUSINESS 
+OVERVIEW 
+ 
+Gopher Protocol Inc. (the “Company”, “Gopher”, “Gopher Protocol” or “GOPH”) was incorporated on July 22, 2009 under the laws of the State of Nevada. Gopher is an emerging growth company that is creating and patenting innovative mobile microchip (ICs) and software technologies based on the GopherInsight ™ technology platform. The Company also offers prepaid cellular phone minutes for both domestic and international carriers. In addition, the Company offers cellular activation (activating SIM cards with wireless carriers) to create additional users (consumers) on those networks and provides check processing, verification and recovery solutions for small to medium sized businesses. The Company derived revenues from (i) the provision of IT services to Guardian Patch LLC, a related party (“Guardian LLC”); (ii) from the operations of the assets it acquired in the third quarter of 2017 and the first and second quarters of 2018 that include the sale of phones, phone card products, prepaid cellular phone minutes and cellular activation and (iii) from the licensing of its technology.
+ 
+GopherInsight™ is a patented (with additional patents pending), real time, heuristic (self-learning/artificial intelligence-based) global mesh network and asset tracking IoT technology. GopherInsight™ chip and software technologies, if successfully fully developed, are designed to be installed in mobile devices (smartphones, tablets, laptops, etc.), autonomous vehicles, robots, drones, consumer products, as well as other fixed and mobile stand-alone products. It is intended that GopherInsight ™ software applications will work in conjunction with GopherInsight ™ microchips across mobile operating systems, providing computing power, advanced database management/sharing functionalities and more. The technology under development consists of a smart microchip, mobile application software and supporting software. The system contemplates the creation of a global mesh network.
+ 
+The Company is developing a state-of-the-art platform called GopherInsight™ that is targeted to be launched first as a microchip with firmware, then as software, in mobile and fixed devices and locations (including smartphones, tablets, laptops, servers, remote POS points, etc.). GopherInsight will provide a series of software modules including Gopher’s own gNET proprietary mesh network protocol, gEYE multi-level security protocol, and all will be managed by Gopher’s Avant! AI Artificial Intelligence.
+ 
+GopherInsight’s microchip design and software are primarily intended to be licensed on a private-label basis to strategic technology partners, or Original Equipment Manufacturers (OEMs), that manufacture solutions such as telecommunication systems and data networks, mobile devices, asset tracking systems, and other IoT solutions that relay data and are connected to a network.
+ 
+The Company intends where possible to market these solutions to OEMs and charge a licensing fee to generate revenue. The Company already has one agreement with an OEM, GBT (Genesis Blockchain Technologies), which is a licensing agreement providing for an initial payment of $5,000,000 and an ongoing revenue share royalty of 2% of revenue.
+ 
+The Company is targeting three growing markets: prepaid services, asset-tracking IoT, and wireless mesh networks.
+ 
+Prepaid services
+ 
+On September 1, 2017, the Company entered into an Asset Purchase Agreement with a third party, RWJ Advanced Marketing, LLC, a Georgia corporation. The Company entered into this Asset Purchase Agreement to acquire terminals in approximately 9,400 locations by which, and at which, the Company planned to deploy its IOT/asset tracking technology. The operations consist primarily of the sale of phones and phone card products, including PINS for cell minutes, SIM cards for cell minutes, as well as gift cards and prepaid long distance cards. The Company incorporated a wholly-owned subsidiary, UGopherServices Corp. (“UGopherServices”), to operate the acquired assets. The assets acquired in the purchase consist of (1) racks that contain 9-12 items per rack that are displayed in retail locations, mainly convenience stores; and (2) payment terminals at those same points of sale.
+ 
+4
+
+
+
+On March 16, 2018, the Company entered into and closed an asset purchase agreement dated March 1, 2018 with ECS Prepaid, LLC (“ECS”), a Missouri limited liability company, pursuant to which the Company purchased certain assets from ECS, including, but not limited to, the processing prepaid platform, servers, POS terminals, customer list, a processing software program and goodwill, in consideration of $1,100,000 of which $100,000 was paid on the Closing Date and the balance is to be paid pursuant to a secured promissory note in the amount of $1,000,000. In addition, the Company issued 500,000 shares of common stock of the Company and warrants to purchase 500,000 shares of common stock that are exercisable for a period of five years at a fixed exercise price of $1.85 per share. The note is secured by the assets acquired by the Company from ECS and the Company is required to make ten equal principal payments of $100,000 commencing on April 15, 2018. The Company may prepay the note at any time without penalty.
+ 
+On April 2, 2018, the Company entered into and closed an asset purchase agreement with Electronic Check Services, Inc. (“Electronic Check”), a Missouri corporation, pursuant to which the Company purchased certain assets from Electronic Check, including, but not limited to, assets associated with software that validates written check authenticity. The purchase price was $75,000 in cash, and the Company issued 250,000 shares of common stock of the Company and warrants to purchase 250,000 shares of common stock that are exercisable for a period of five years at a fixed exercise price of $2.70 per share.
+ 
+On April 2, 2018, the Company entered into and closed an asset purchase agreement with Central State Legal Services, Inc. (“CSLS”), a Missouri corporation, pursuant to which the Company purchased certain assets from CSLS, including, but not limited to, assets associated with a system to recover funds from returned checks, for $25,000 in cash.
+ 
+The Company entered into these asset purchase agreements to acquire the software needed to process transactions for its prepaid business, and to acquire additional terminal locations by which the Company will deploy its technology. On a combined basis, there are approximately 9,400 points of sale as a result of acquiring certain assets from both RWJ Advanced Marketing LLC and ECS.
+ 
+On or around November 10, 2017, UGopherServices experienced a suspension of operations on the terminals that the Company acquired in its acquisition on September 1, 2017 from RWJ Advanced Marketing LLC. Management of the Company believes that this shutdown came as a result of the decision of Paypal Holdings Inc. (“Paypal”) decision to suspend operations of TIO Networks (“TIO”), and appears to have affected all of TIO’s customers. TIO was acquired by Paypal in or around July 2017. Prior to the suspension, the Company received no notice from TIO, or from RWJ Advanced Marketing LLC, which sold the assets to UGopherServices, that the suspension would be taking place. Although the Company worked diligently to contain the fallout from the suspension of operations by TIO, the vast majority of the customers that were acquired as part of the transaction defected as a result. The subsequent acquisition of ECS was done partly to stem the customer defections, as many of the customers of UgopherServices sought the services of ECS. In doing so, the Company got many, though not all, of the customers back.
+ 
+The Company is currently in litigation with RWJ Advanced Marketing, LLC, its executives and other third parties, and wrote off a substantial portion of its investment in UgopherServices from September 1, 2017. The Company’s position is that it was defrauded by the Seller and certain third parties due to the lack of disclosure of TIO’s decision to suspend operations.
+ 
+Prepaid services products
+ 
+The racks located at the points of sale contain the following items:
+ 
+
+● | New and refurbished cellular handsets and SIM cards;
+--+-----------------------------------------------------
+
+
+● | Prepaid gift cards;
+--+--------------------
+
+
+● | Prepaid long distance cards; and,
+--+----------------------------------
+
+
+
+5
+
+
+
+
+● | Prepaid wireless cards, for both foreign and domestic calls.
+--+-------------------------------------------------------------
+
+ 
+When any of these items are brought to the counter, the customer’s method of payment is swiped into a payment terminal machine. The Company records the revenue from the purchase and the cost of goods sold at the point of sale, and the net is booked as gross profit by the Company. When a customer purchases a gift card, for example, a value is assigned to a digital PIN number which puts a certain value on their gift card, to be redeemed by the purchaser at their convenience.
+ 
+There are various fees that get added to the cost of the gift card, including commissions and a transaction fee. The transaction fee is split between the store and the Company. The volume of transactions for each customer in a given month varies, with some points of sale more active in certain months than others.
+ 
+Prepaid services markets
+ 
+After the acquisition of certain assets from RWJ Marketing Services LLC in September 2017, the majority of the point of sale locations held by UGopherServices are in the Southeastern US, but the geographic penetration of the locations overall is national. As discussed above, a substantial portion of the investment in the UGopherServices investment was written off in the third fiscal quarter of 2018.
+ 
+Prepaid services competition
+ 
+Given the nature of its business (primarily gift cards, prepaid long distance and wireless calls, and selling handsets and SIM cards), the competitors are numerous, as any company that issues gift cards, such as Starbucks and Best Buy, could potentially compete with the gift cards that the company sells at these points of sale. Competitors that sell prepaid calling and wireless plans are also numerous. Although its competitors do not necessarily sell their gift and calling cards at the same points of sale at which the company sells its goods, they could, though not on the rack that the Company controls that is positioned within the store.
+ 
+Asset tracking IoT
+ 
+The Company plans to launch a series of software and microchip design products that integrate into strategic technology partners’ solutions and enable real-time tracking and management of IoT-connect assets. As an example, the Company’s patented Guardian Patch solution is a sticky adhesive patch that is placed on an object to be tracked, and relays the location of the asset via a mesh network that does not rely on GSM or GPS technology. The Company currently supplies another asset tracking solution, the GuardianORB Pet Tracker, enabling real-time, mesh network, long-distance tracking of pets.
+ 
+Additionally, GopherInsight™ allows the tracking and enhanced security of digital assets, including blockchain-based assets.
+ 
+Asset tracking IoT markets
+ 
+The applications for the Company’s asset tracking solution are vast. Vertical target markets may include  segments such as public sector, healthcare sector, banking financial services and insurance (BFSI) sector, transport and logistics sector, retail sector, commercial sector, industrial sector, energy & utility sector, manufacturing sector and other sectors. 
+ 
+Asset tracking IoT competition
+ 
+The prevailing solutions in the asset tracking marketplace currently are a combination of barcoding and RFID technologies. The Company’s asset tracking solutions offers considerable advantages over existing solutions, because those solutions require that the asset is near the scanner to be scanned, and such solutions are “point to point,” meaning they require repeated scan points along a route in order to update the location of the asset. The GopherInsight platform, including the planned and patented Guardian Patch solution, is more accurate and when placed on or into the asset, can interactively locate and update information on an asset anywhere on earth. It works via a Gopher-enabled global mesh network, does not need GPS or GSM to locate the package, and is regularly transmitting information on the asset, meaning that there is no need to frequently re-scan the asset to update its location. In addition, the Company’s solutions are planned to include resource and distributed database management features which are not normally found in IoT systems.
+ 
+6
+
+
+
+There are many competitors supplying asset tracking and asset tracking IoT systems today, including companies such as AT&T, IBM and Verizon. It is Gopher’s goal to offer the GopherInsight platform to some or all of these competitors to upgrade and differentiate their solutions.
+ 
+Wireless mesh networking
+ 
+Wireless mesh networks consist of LAN/MAN/WAN solutions that are infrastructurally-intensive, may rely on regulated frequencies and bandwidth, often have so-called “last mile” problems areas where either economics or population density make it too expensive for current solutions to cover, and difficult to manage centrally. The Company’s GopherInsight platform makes it easy to add and manage last mile capacity. The solution is easily integrated into existing networks. The company’s Avant! AI platform is designed for easy integration with, and management of, additional coverage for customer networks.
+ 
+Additionally, the Company will be targeting device manufacturers as strategic technology partners and OEMs. If a mobile phone manufacturer wishes to add GopherInsight to is devices, GopherInsight allows devices to communicate without the need for an internet service provider, thus dramatically reducing costs.
+ 
+Wireless mesh networking markets
+ 
+The Company will target telecommunications providers, corporate entities that run LAN or wide-area networks, universities, and government entities. 
+ 
+Wireless mesh networking markets competition
+ 
+The competitors for wireless mesh networking solutions, and AI solutions, are the entities themselves that have their own capability. The Company’s strategy is to integrate and “wrap around” those solutions to make them more efficient, less costly, and less infrastructurally-intensive, while at the same time solving last mile problems to the end user.
+ 
+Mobiquity Agreement
+ 
+On September 4, 2018, Gopher the Company and Mobiquity Technologies, Inc., a New York corporation (OTCQB: MOBQ”) (“Mobiquity”) entered an Agreement (the “MOBQ Agreement”) pursuant to which the parties exchanged equity interest in each of the companies. In accordance with the Agreement, the Company will receive 1,000 shares of Mobiquity’s restricted Series AAAA Preferred Stock (the “Mobiquity Preferred Stock”) in consideration of Company’s concurrent sale and issuance to Mobiquity of 10,000,000 shares of Company’s restricted Common Stock (the “Gopher Common Stock”). The shares of Mobiquity Preferred Stock are convertible into an aggregate of up to 100,000,000 shares of Mobiquity common stock (the “Mobiquity Common Stock”) and 150,000,000 common stock purchase warrants (the “Mobiquity Warrants”). The Mobiquity Warrants shall have a term of 5-years from the date of grant and shall be exercisable at a price of $0.12 per share and the shares of Mobiquity Preferred Stock shall not be convertible into shares of Mobiquity Common Stock and the Mobiquity Warrants shall not be contemporaneously granted until after Mobiquity’s Board of Directors and stockholders shall have increased the authorized number of shares of Mobiquity’s common stock to a number sufficient to accommodate a reserve in the Company’s favor of 250,000,000 shares of Mobiquity’s common stock. The Mobiquity Preferred Stock shall have immediate voting rights equal to the number of shares of Mobiquity Common Stock into which they may be converted, not including the shares of Mobiquity’s common stock underlying the Mobiquity Warrants (the “Mobiquity Warrant Shares”). The closing occurred on September 4, 2018.
+ 
+Mobiquity agreed that for a period beginning immediately upon the six (6)-month anniversary of the date hereof and ending on the twenty-four (24)-month anniversary of the date hereof (the “Leak-Out Period”), Mobiquity shall have the right to sell or otherwise transfer into the public markets on any given day up to 20,000 shares of Gopher Common Stock. Mobiquity may transfer all or a portion of the shares of Gopher Common Stock otherwise at any time, so long as the receiving party adheres to the above Leak-Out Period.
+ 
+7
+
+
+
+On November 19, 2018, the Company and Mobiquity entered into an Amendment and Exercise Letter waiving the requirement that Mobiquity’s Board of Directors and stockholders increase the authorized number of shares of Mobiquity’s common stock to a number sufficient to accommodate a reserve in the Company’s favor of 250,000,000 shares of Mobiquity’s common stock prior to the conversion of the Mobiquity Preferred Stock or exercise of the Mobiquity Warrants. In addition, the Company converted 200 shares of Mobiquity Preferred Stock resulting in the issuance to the Company by Mobiquity of 20 million shares of Mobiquity Common Stock and 30 million Mobiquity Warrants. The Company exercised the 30 million Mobiquity Warrants at an exercise price of $0.12 per share of common stock, payable through of the issuance to Mobiquity of 10 million shares of common stock of the Company.
+ 
+On February 6, 2019, the Company entered into a letter agreement with Gopher Protocol Costa Rica Sociedad De Responsabilidad Limitada, a Costa Rican company (“Gopher CR”) and a 50% owned subsidiary of the Company, pursuant to which the Company sold 30,000,000 shares of Mobiquity Technologies, Inc., a New York corporation (“Mobiquity”) to Gopher CR in the principal amount of $5,000,000 secured by all of the assets of Gopher CR payable with 10% interest on the two year anniversary.
+ 
+GBT Technologies, S.A. (“GBT”)
+ 
+On September 14, 2018, the Company entered into an Exclusive Intellectual Property License and Royalty Agreement (the “GBT License Agreement”) with GBT, a fully compliant and regulated cryptocurrency exchange platform that currently operates in Costa Rica as a decentralized cryptocurrency platform, pursuant to which, among other things, the Company granted to GBT an exclusive, royalty-bearing right and license relating intellectual property relating to systems and methods of converting electronic transmissions into digital currency as reflected in that certain patent filed with the United Stated Patent and Trademark Office on or about June 14, 2018 (EFS ID: 32893586; Application Number: 16008069; collectively, the “Digital Currently Technology”). Pursuant to the GBT License Agreement, the Company granted GBT an exclusive worldwide license to use the Digital Currency Technology to make, use, sell, lease or otherwise commercialize and dispose of products and devices utilizing the Digital Currently Technology.
+ 
+Under the terms of the GBT License Agreement, the Company is entitled to receive a royalty payment of 2% of gross revenue of each licensed product sold by GBT during the period starting in which revenue is first generated using the licensed products and continuing for five years thereafter. Upon signing the GBT License Agreement, GBT paid the Company $300,000, which is nonrefundable. The Company has recognized the $300,000 as revenue during the year ended December 31, 2018. Upon GBT making available for sale (the “Commercial Event”) an ICO (Initial Coin Offering) (the “Coin”), GBT will make a payment to the Company in the amount of $5,000,000. Further, upon the Commercial Event, GBT will grant the Company the ability to acquire 30% of the Coin at a 30% discount of such offering price of the Coin. The GBT License Agreement commenced as of the signing date and, unless terminated in accordance with the termination provisions of the GBT License Agreement, shall remain in force until the expiration of the patent pertaining to the Digital Currency Technology; provided that the right to use trade secrets shall survive the expiration of the GBT License Agreement provided the Company has not terminated. Prior to the signing of the GBT License Agreement, GBT advanced $200,000 to the Company, which the parties have agreed will be applied toward the $5,000,000 fee when it becomes due. The $200,000 is recorded as unearned revenue at December 31, 2018 in the accompanying consolidated balance sheet. As of the date of this filing, the Commercial Event has not yet occurred.
+ 
+On March 9, 2019 the Company entered into a Non-Binding Letter of Intent for general terms upon which our respective Board of Directors or similar governing body will adopt a definitive share exchange agreement (the “Agreement”), and recommend that the GBT Shareholders enter into the Agreement whereby Gopher will purchase all of the outstanding securities of GBT Technologies (the “GBT Securities”) from the GBT Shareholders for consideration consisting of shares of the Company. This LOI sets forth the basic terms of the share purchase transaction and reflects the current, good faith intentions of Gopher, GBT Technologies and the GBT Shareholders with respect thereto. No assurance can be given that a definitive agreement will be entered into, that the appropriate governing bodies including the Company’s Board of Directors will approve such transactions, that the proposed transactions contemplated above will be consummated, or that GBT will be able to obtain adequate funds needed to fund its business plan.
+ 
+8
+
+
+
+Latinex
+ 
+On January 8, 2019, the Company entered into a Stock Pledge Agreement with Latin American Exchange Latinex Casa de Cambio, S.A., a Costa Rica corporation (“Latinex”). Latinex is a fully licensed and Central Bank regulated “Currency Exchange” in Costa Rica. In order to provide that Latinex may maintain its required regulatory capital as required by various regulators, the Company has pledged restricted shares of its common stock valued at $7.5 million for a term of three years in consideration of an annual payment of $375,000 paid in quarterly installments of $93,750. In lieu of cash payment, Latinex may pay the Company in virtual currency of WISE Network S.A. valued at a 50% discount of its offering price of $10 per token. In the event Latinex’s required capital has decreased below $5,000,000, Latinex is permitted to sell the pledged shares of common stock only in an amount to ensure that Latinex can satisfy the required capital levels. The Company must consent to such sale of the shares of common stock, if at all, which may not be unreasonably withheld. Upon expiration of the agreement, the remaining shares of common stock shall be returned to the Company free and clear of all liens.
+Joint Ventures
+ 
+Dr. Rittman Employment Agreement
+ 
+On April 6, 2018, the Company and Danny Rittman, Chief Technology Officer and a Director of the Company, agreed to amend his employment agreement pursuant to which he will receive salary at the rate of $250,000 annually payable in equal increments of $15,000 per month.  An additional $70,000 shall be payable within 15 days of the end of the calendar year. On September 14, 2018, the Company and Dr. Rittman entered into a letter agreement confirming that the Company is the owner of all intellectual property developed by Dr. Rittman relating to the Internet of Things (IoT) and Artificial Intelligence enabled mobile technologies, including a global platform with both mobile and fixed solutions, commencing June 16, 2015 and continuing until Dr. Rittman’s employment agreement is terminated. 
+Guardian Agreements
+ 
+On March 29, 2016, Gopher contributed all of its rights relating to its proprietary microchip that is within a sticky patch package (the “Patch”) to Guardian LLC in consideration of 50% of the profit generated by Guardian LLC (the “Joint Venture”). Guardian LLC was responsible for investing all needed funds for the purpose of developing the Patch and related products to the Patch. In addition, Guardian LLC was required to provide short term loans to Gopher on an as needed basis secured by Gopher’s economic interest in the Joint Venture. The Company provided IT services to Guardian LLC for a monthly fee. On August 30, 2018, Guardian Patch converted the 2,000,000 shares of Series G Preferred Stock into 2,000,000 shares of common stock. On September 25, 2018, the Company entered into a Joint Venture Interest Purchase Agreement with Guardian, LLC pursuant to which the Company purchased Guardian LLC’s 50% interest in a joint venture (the “JV Interest”) previously entered between the parties in March 2016 covering the Guardian Patch, Puzpix and Epsilon. In consideration for the JV Interest, the Company issued Guardian 12,500,000 shares of common stock. During the nine months ended September 30, 2018, the Company took a charge to earnings of $11,750,000 related to the purchase of Guardian LLC’s 50% JV Interest.
+Regulatory
+ 
+The Company has commenced development, and the Company has completed the Statement of Work (SOW) for the Federal Communications Commission (“FCC”) survey to deploy the Company’s Guardian Global Tracking Device within the continental US. The Company has also completed their transmitters/transceivers modules feasibility research. Although the Company can use open channels, and therefore is not required to comply with various FCC regulations relevant to the system, the Company has chosen to comply, and is complying with FCC regulations. The FCC regulates the limits of potentially harmful interference to licensed transmitters due to low power unlicensed transmitters. The Guardian Patch/Sphere system consists of advanced security protocols in order to maintain the global, private, fully-secured network. In addition, the Guardian Patch device needs to perform communication tasks across the globe providing breakthrough tracking features. The Company and its technology licensing partner, Guardian LLC, successfully completed thorough research that involved security, performance and FCC regulations compliance. Based on this research, a set of particular frequencies was chosen to be used by Guardian LLC. On or around December 1, 2016, Guardian LLC issued Statement of Work for the Placement and Development of Guardian Sphere and its Base System. By the end of fiscal 2017, the Company completed the design and construction of the Guardian Patch/Sphere circuit prototype device. The Company has completed the construction of 10 prototype units, and implemented an intensive testing program to be tested as a complete system in designated areas by the Company. The system performed as planned. In 2018, the Company coded and completed the mobile applications that run the devices, and those applications are available for download in various online application stores. The Company is exploring licensing deals with strategic partners and OEMs, and will customize the consumer device (for example, the ORB pet tracking device) according to the specifications and requirements of these licensing arrangements. 
+ 
+9
+
+
+
+Intellectual Property
+ 
+To date, the Company, has filed for 16 (sixteen) different patents with an additional three in process, as well as 6 (six) trademarks. The patents are owned by the Company. These patents and trademarks, as well as various websites and social media platforms, comprise the Company’s intellectual properties. To date, one of the Company’s patents have been granted (patent number 10,021,522), and five trademarks have also been granted. Three additional patents are in progress, and the Company expects for the patents to be granted in 2019. Additionally, 3-4 new patents may be filed in 2019. 
+Employees
+ 
+As of December 31, 2018, we had 26 full time employees and 7 part time employees. We also utilize outside consultants and contractors as needed. 
+ 
+Clients and Customers
+ 
+After the acquisition of certain assets from RWJ Marketing Services LLC in September 2017, together with ECS in March 2018, the Company has approximately 9,400 point of sale locations, each of which process varying volumes of transactions per month.

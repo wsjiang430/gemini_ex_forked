@@ -1,0 +1,180 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. BUSINESS
+----------------
+
+
+   This annual report contains forward-looking statements. These statements relate to either future events or our future financial performance. In some cases, you may be able to identify forward-looking statements by terms such as “may,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “potential” or “continue,” the negative of these terms or other synonymous terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled “Risk Factors,” that may cause our or our industry’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Any forward-looking statements made by or on our behalf are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+ 
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend, and we do undertake any obligation, to revise or update any of the forward-looking statements to match actual results. Readers are urged to carefully review and consider the various disclosures made in this report, which aim to inform interested parties of the risks factors that may affect our business, financial condition, results of operations and prospects.
+ 
+Our financial statements are stated in United States Dollars (US$) and are prepared in accordance with United States Generally Accepted Accounting Principles (GAAP).
+    As used in this annual report, the terms “we,” “us,” “our” and similar references refer to AMERI Holdings Inc., and its subsidiaries together, unless the context indicates otherwise.
+ 
+Our Company
+    We specialize in delivering SAP cloud, digital and enterprise services to clients worldwide.  SAP is a leader in providing enterprise resource planning (“ERP”) software and technologies to enterprise customers worldwide. We deliver a wide range of solutions and services across multiple domains and industries. Our services center around SAP and include technology consulting, business intelligence, cloud services, application development/integration and maintenance, implementation services, infrastructure services, and independent validation services, all of which can be delivered as a set of managed services or on an on-demand service basis, or a combination of both.
+ 
+Our SAP focus allows us to provide technological solutions to a broad base of clients. We are headquartered in Suwanee, Georgia, and have offices across the United States, which are supported by offices in India and Canada. Our model inverts the conventional global delivery model wherein offshore information technology (“IT”) service providers are based abroad and maintain a minimal presence in the United States. With a strong SAP focus, our client partnerships anchor around SAP cloud and digital services. In 2017, we signed a strategic partnership agreement with NEC America to offer SAP S/4 HANA (a next generation enterprise system) migration services. This partnership will allow us to offer our clients a broader spectrum of services.
+ 
+Our primary business objective is to provide our clients with a competitive advantage by enhancing their business capabilities and technologies with our expanding consulting services portfolio. Our strategic acquisitions allow us to bring global service delivery, SAP S/4 HANA, SAP Business Intelligence, SAP Success Factors, SAP Hybris and high-end SAP consulting capabilities to a broader geographic market and customer base. We continue to leverage our growing geographical footprint and technical expertise to simultaneously expand our service and product offering. Our goal is to identify business synergies that will allow us to bring new services and products from one subsidiary to customers at our other subsidiaries. While we generate revenues from the consulting businesses of each of our acquired subsidiaries, we believe that additional revenues will be generated through new business relationships and services developed through our business combinations.
+    Background
+    We were incorporated under the laws of the State of Delaware in February 1994 as Spatializer Audio Laboratories, Inc., which was a shell company immediately prior to our completion of a “reverse merger” transaction on May 26, 2015, in which we caused Ameri100 Acquisition, Inc., a Delaware corporation and our newly created, wholly owned subsidiary, to be merged with and into Ameri and Partners Inc. (“Ameri and Partners”), a Delaware corporation (the “Merger”). As a result of the Merger, Ameri and Partners became our wholly owned subsidiary with Ameri and Partners’ former stockholders acquiring a majority of the outstanding shares of our common stock. The Merger was consummated under Delaware law, pursuant to an Agreement of Merger and Plan of Reorganization, dated as of May 26, 2015 (the “Merger Agreement”), and in connection with the Merger we changed our name to AMERI Holdings, Inc. and do business under the brand name “Ameri100”.
+ 
+ 1
+ 
+Ameri Holdings, Inc., along with its eleven subsidiaries, Ameri and Partners, Ameri Consulting Service Private Ltd., Ameri100 Georgia Inc. (“Ameri Georgia”), Bellsoft India Solutions Private Ltd., Ameri100 Canada Inc. (formerly BSI Global IT Solutions Inc.), Linear Logics, Corp., Ameri100 Virtuoso Inc. (“Virtuoso”), Ameri100 Arizona LLC (“Ameri Arizona”), Bigtech Software Private Limited (“Bigtech”), Ameri100 California Inc. (“Ameri California) and Ameritas Technologies India Private Limited, provides SAP cloud, digital and enterprise services to clients worldwide.
+ 
+Organizational Chart
+ 
+   Our Industry
+ 
+Background
+ 
+We operate in an intensely competitive IT outsourcing services industry, which competes on quality, service and costs.  Though we are able to differentiate our company on all of these axes, our India-based capabilities ensure that labor arbitrage is our fundamental differentiator. Most offshore IT services providers have undertaken a “forward integration” to boost their capabilities and presence in their client geographies (large offshore presence with a small local presence). Conversely, large U.S. system integrators focus on “backward integration” to scale and boost their offshore narrative (offshore being the “back office” for the local operations).  Today, the IT services industry is marked by the following characteristics:
+
+Characteristic | | Description 
+----------------------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mature Market | · | Most large global companies have already outsourced what they wanted to outsource. 
+Commoditized Business Model | · | North America and Europe continue to be the markets with attractive spending potential. However, increased regulations and visa dependencies prove to be a major drawback of the model. 
+ | · | The benefits realized from the business model are largely based on labor arbitrage, productivity benefits and portfolio restructuring. These contours have changed due to commoditization. 
+Insourcing | · | Extremely rapid changes in technology are forcing IT services–traditionally an outsourcing business—to adopt an insourcing model. 
+Rapid Technology Shifts | · | Cloud services, robotic process automation, artificial intelligence and internet of things are increasingly in demand as part of outsourcing engagements. Smart robots increasingly operate in the cloud, and a ‘labor-as-a-service’ approach has emerged, as clients and providers find that intelligent tools and virtual agents can be easily and flexibly hosted on cloud platforms. 
+ | · | Social media, cloud computing, mobility and big data will continue to be mainstays for any IT ecosystem. 
+ | · | The convergence of cloud computing, virtualization (applications and infrastructure) and utility computing is around the corner. The ability of a vendor to offer an integrated basket of services on a SaaS model, will be a key differentiator. 
+ | · | Enterprises are becoming more digital. There is a strong convergence of human and machine intelligence thanks to drivers like advanced sensors and machine learning. Operations and technology are converging. 
+Contracts & Decision Making | · | Large multi-year contracts will be renegotiated and broken down into shorter duration contracts and will involve multiple vendors rather than sole sourcing. 
+ | · | The ability to demonstrate value through Proof of Concepts (POCs) and willingness to offer outcome based pricing are becoming critical considerations for decision making, Requests for Proposal (RFP)-driven decisions are increasingly rare. 
+
+
+
+ 2
+ 
+The SAP Industry
+ 
+SAP as an ERP and Cloud product has become an industry by itself. The core SAP enterprise offering has been reinforced with cloud-based products that make the entire SAP ecosystem extremely attractive from our perspective due to the following attributes:
+
+● | The alignment of SAP to enterprises is extremely strong. Given the reliance of enterprises on applications, clients tend to make long-term bets on SAP as an enterprise solution. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | According to the September 2014 “HfS Blueprint Report” from by HfS Research Ltd., the SAP market is a multi-billion-dollar market that is very fragmented (there are over 5,000 consulting firms), with the three largest service providers capturing an increasing share of the market. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A significant number of SAP customers must move to S/4 HANA by 2025.
+--+---------------------------------------------------------------------
+
+Our Approach
+ 
+Our solutions deliver significant business efficiency outcomes through turnkey projects, consulting and offshore services. We believe that our strategic service portfolio, deep industry experience and strong global talent pool offer a compelling proposition to clients. In 2017 we acquired ATCG Technology Solutions, Inc., which has become our wholly-owned subsidiary Ameri California.  In 2016, we acquired three companies: Virtuoso, L.L.C. and DC&M Partners, L.L.C.in the U.S. (now Virtuoso and Ameri Arizona, respectively) and Bigtech in India. These strategic acquisitions have brought offshore delivery, SAP S/4 HANA, SAP SuccessFactors, SAP Hybris and high-end SAP consulting capabilities to our service portfolio.
+Our Portfolio of Service Offerings
+ 
+Our portfolio of service offerings expanded significantly since 2016 with our acquisitions of Ameri Georgia, Ameri Arizona, Ameri California, Virtuoso and Bigtech.
+ 
+Our current portfolio of services is divided into three categories:
+ 
+Cloud Services
+ 
+An increasing trend in the IT services market is the adoption of cloud services. Historically, clients have resorted to on-premise software solutions, which required capital investments in infrastructure and data centers. Cloud services enable clients to build and host their applications at much lower costs.  Our services offerings leverage the low cost and flexibility of cloud computing.
+ 
+We have expertise in deploying SAP’s public, private and hybrid cloud services, as well as SAP S/4 HANA, SAP SuccessFactors and SAP Hybris cloud migration services. Our teams are experienced in the rapid delivery of cloud services. We perform SAP application and cloud support and SAP cloud development. Additionally, we provide cloud automation solutions that focus on business objectives and organizational growth.
+ 
+ 3
+ 
+Digital Services
+ 
+We have developed several cutting-edge mobile solutions, including Simple Advance Planning and Optimization (“APO”) and SAP IBP/S&OP Mobile Analytics App. The Simple APO mobile application (app) provides sales professionals with real-time collaboration capabilities and customer data, on their mobile devices. It increases the efficiency of the sales process and the accuracy of customer needs forecasting. The SAP IBP mobile app enables the real-time management and analysis of sales and operations planning (S&OP) related data from mobile devices. SAP is an implementation partner for this app. SAP has recognized the app’s value to the ecosystem, as S&OP apps are complex and difficult to design.
+ 
+We are also active in robotic process automation (“RPA”), which leverages the capability of artificially intelligent software agents for business process automation.  We have expertise in automating disparate and redundant data entry tasks by configuring software robots that seamlessly integrate with existing software systems. We also provide RPA solutions for reporting and analysis and deliver insights into business functions by translating large data into structured reports. Lastly, we have a working partnership with Blue Prism, a leading RPA solutions provider, which makes it possible for us to automate up to one-third of all standard back-office operations.
+ 
+Enterprise Services
+ 
+We design, implement and manage Business Intelligence (“BI”) and analytics solutions. BI helps our clients navigate the market better by identifying new trends and by targeting top-selling products. We also enable clients to use BI for generating instant financial reports and analytics of customer, product and cost information over time.  In addition, we provide solutions for metadata repository, master data management and data quality. Finally, we determine BI demands across various platforms.
+ 
+Other key enterprise services that we offer include consulting services for global and regional SAP implementations, SAP/IT solution advisory and architectural services, project management services, IT/ERP strategy and vendor selection services.  Often clients have relied on us to deliver services in non-SAP packages, as well.
+ 
+Strategy
+    The integration of each of our acquisitions into our business enterprise requires establishing our company’s standard operating procedures at each acquired entity, seamlessly transitioning each acquired entity’s branding to the “Ameri100” brand and assessing any necessity to transition account management. The integration process also requires us to evaluate any product-line expansions made possible by the acquired entity and how to bring new product lines to the broader customer base of the entire Company. With the integration of each acquisition, we face challenges of maintaining cross-company visibility and cooperation, creating a cohesive corporate culture, handling unexpected customer reactions and changes and aligning the interests of the acquired entity’s leadership with the interests of the Company.
+Sales and Marketing
+ 
+We combine traditional sales with our strength in industries and technology. Our sales function is composed of direct sales and inside sales professionals. Both work closely with our solutions directors to identify potential opportunities within each account. We currently have over 100+ active clients. Using a consultative selling methodology (working with clients to prescribe a solution that suits their need in terms of efficiency, cost and timelines), target prospects are identified and a pursuit plan is developed for each key account. We utilize a blended sales model that combines consultative selling with traditional sales methods. Once the customer has engaged us, the sales, solutions and marketing teams monitor and manage the relationship with the help of customer relationship management software.
+ 
+Our marketing strategy is to build a strong, sustainable brand image for our company, position us in the SAP arena and facilitate business opportunities. We use a variety of marketing programs across traditional and social channels to target our prospective and current customers, including webinars, targeted email campaigns, co-sponsoring customer events with SAP to create customer and prospect awareness, search engine marketing and advertising to drive traffic to our web properties, and website development to engage and educate prospects and generate interest through white papers, case studies and marketing collateral.
+ 
+Revenues and Customers
+ 
+We generate revenue primarily through consulting services performed in the fulfillment of written service contracts. The service contracts we enter into generally fall into two categories: (1) time-and-materials contracts and (2) fixed-price contracts.
+ 
+When a customer enters into a time-and-materials or fixed-price, (or a periodic retainer-based) contract, we recognize revenue in accordance with an evaluation of the deliverables in each contract. If the deliverables represent separate units of accounting, we then measure and allocate the consideration from the arrangement to the separate units, based on vendor-specific objective evidence of the value for each deliverable.
+ 
+ 4
+ 
+The revenue under time-and-materials contracts is recognized as services are rendered and performed at contractually agreed upon rates. Revenue pursuant to fixed-price contracts is recognized under the proportional performance method of accounting. We routinely evaluate whether revenue and profitability should be recognized in the current period. We estimate the proportional performance on our fixed-price contracts on a monthly basis utilizing hours incurred to date as a percentage of total estimated hours to complete the project.
+ 
+For the twelve months ended December 31, 2018 and December 31, 2017, sales to five major customers accounted for approximately 39% and 43% of our total revenue, respectively.
+ 
+Technology Research and Development
+ 
+We regard our services and solutions and related software products as proprietary. We rely primarily on a combination of copyright, trademark and trade secret laws of general applicability, employee confidentiality and invention assignment agreements, distribution and software protection agreements and other intellectual property protection methods to safeguard our technology and software products. We have not applied for patents on any of our technology. We also rely upon our efforts to design and produce new applications and upon improvements to existing software products to maintain a competitive position in the marketplace.
+ 
+We did not make any material expenditures on research or development activities for the twelve months ended December 31, 2018 and December 31, 2017.
+ 
+Strategic Alliances
+ 
+Through our Lean Enterprise Architecture Partnership (“LEAP”) methodology, we have strategic alliances with technology specialists who perform services on an as-needed basis for clients. We partner with niche specialty firms globally to obtain specialized resources to meet client needs. Our business partners include executive recruiters, staffing firms and niche technology companies. The terms of each strategic alliance arrangement depend on the nature of the particular partnership. Such alliance arrangements typically set forth deliverables, scope of the services to be delivered, costs of services and terms and conditions of payment (generally 45 to 90 days for payment to be made). Each alliance arrangement also typically includes terms for indemnification of our company, non-solicitation of each partner’s employees by the other partner and dispute resolution by arbitration.
+ 
+Alliances and partnerships broaden our offerings and make us a one-stop solution for clients. Our team constantly produces services that complement our portfolio and build strategic partnerships. Our partner companies range from digital marketing strategy consulting firms to large infrastructure players.
+ 
+On any given project we evaluate a client’s needs and make our best effort to meet them with our full-time specialists. However, in certain circumstances, we may need to go outside the Company, and in this case we approach our strategic partners to tap into their pools of technology specialists. Project teams are usually composed of a mix of our full time employees and outside technology specialists. Occasionally, a project team may consist of a Company manager and a few outside technology specialists. While final accountability for any of our projects rests with the Company, the outside technology specialists are incentivized to successfully complete a project with project completion payments that are in addition to hourly billing rates we pay the outside technology specialists.
+ 
+Competition
+ 
+The large number of competitors and the speed of technology change make IT services and outsourcing a challenging business. Competitors in this market include systems integration firms, contract programming companies, application software companies, traditional large consulting firms, professional services groups of computer equipment companies and facilities management and outsourcing companies. Examples of our competitors in the IT services industry include Accenture, Cartesian Inc., Cognizant, Hexaware Technologies Limited, Infosys Technologies Limited, Mindtree Limited, RCM Technologies Inc., Tata Consultancy Services Limited, Virtusa, Inc. and Wipro Limited.
+ 
+We believe that the principal factors for success in the IT services and outsourcing market include performance and reliability; quality of technical support, training and services; responsiveness to customer needs; reputation and experience; financial stability and strong corporate governance; and competitive pricing.
+ 
+Some of our competitors have significantly greater financial, technical and marketing resources and/or greater name recognition, but we believe we are well positioned to capitalize on the following competitive strengths to achieve future growth:
+ 
+  
+· | well-developed recruiting, training and retention model; 
+--+-------------------------------------------------------------------------------
+
+
+· | successful service delivery model;
+--+-----------------------------------
+
+
+
+ 5
+ 
+  
+· | broad referral base;
+--+---------------------
+
+
+· | continual investment in process improvement and knowledge capture; 
+--+-----------------------------------------------------------------------------------------
+
+
+· | investment in research and development;
+--+----------------------------------------
+
+
+· | strong corporate governance; and
+--+---------------------------------
+
+
+· | custom strategic partnerships to provide breadth and depth of services. 
+--+----------------------------------------------------------------------------------------------
+
+Employees
+ 
+As of December 31, 2018, our total headcount was 390, which includes employees and billable subcontractors. We routinely supplement our billable employee staff with billable subcontractors, which totaled 188 at December 31, 2018. Our employees are not part of a collective bargaining arrangement and we believe our relations with our employees are good.
+Available Information
+ 
+Our executive office is located at 5000 Research Court, Suite 750, Suwanee, Georgia 30024. Our telephone number is (770) 935-4152 and our website is www.ameri100.com. We provide free access to various reports that we file with or furnish to the U.S. Securities and Exchange Commission through our website, as soon as reasonably practicable after they have been filed or furnished. These reports include, but are not limited to, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to these reports. Our Securities and Exchange Commission (“SEC”) reports can be accessed through the investors section of our website (http://ameri100.com/page/investors/), and we intend to disclose any changes to or waivers from our Code of Ethics for our Chief Executive Officer and Senior Financial Officers and our Code of Ethics and Business Conduct that would otherwise be required to be disclosed under Item 5.05 of Form 8-K on our website. In addition, the public may read and copy any materials filed by us with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. We are an electronic SEC filer. The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC. The internet address of the SEC’s website is http://www.sec.gov. Information on our website does not constitute part of this annual report on Form10-K or any other report we file or furnish with the SEC.
+ 
+Investors and others should note that we use social media to communicate with our subscribers and the public about our company, our services, new product developments and other matters. Any information that we consider to be material to an evaluation of our company will be included in filings on the SEC EDGAR website and may also be disseminated using our investor relations website (http://ir.ameri100.com/) and press releases.
+ 
+ 

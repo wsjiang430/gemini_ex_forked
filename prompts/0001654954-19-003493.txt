@@ -1,0 +1,567 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+
+ 
+ ImageWare Systems, Inc., a Delaware corporation since 2005 and previously incorporated in California in 1987 as a California corporation, has its principal place of business at 13500 Evening Creek Drive N, Suite 550, San Diego, California 92128. We maintain a corporate website at http://www.iwsinc.com. Our common stock, par value $0.01 per share (“Common Stock”), is currently listed for quotation on the OTCQB marketplace under the symbol “IWSY.” As used in this Annual Report, “we,” “us,” “our,” “ImageWare,” “ImageWare Systems,” “Company” or “our Company” refers to ImageWare Systems, Inc. and all of its subsidiaries.
+  
+  Overview 
+ ImageWare Systems, Inc. (the “Company”) is a pioneer and leader in the emerging market for biometrically enabled software-based identity management solutions. Using those human characteristics that are unique to us all, the Company creates software that provides a highly reliable indication of a person’s identity. The Company’s “flagship” product is the patented IWS Biometric Engine®. The Company’s products are used to manage and issue secure credentials including national IDs, passports, driver licenses and access control credentials. The Company’s products also provide law enforcement with integrated mug-shot, fingerprint LiveScan and investigative capabilities. The Company also provides comprehensive authentication security software using biometrics to secure physical and logical access to facilities or computer networks or internet sites. Biometric technology is now an integral part of all markets the Company addresses and all of the products are integrated into the IWS Biometric Engine.
+  
+ The Company is also a leading developer of mobile and cloud-based identity management solutions providing patented biometric authentication solutions for the enterprise. The Company delivers next-generation biometrics as an interactive and scalable cloud-based solution. The Company brings together cloud and mobile technology to offer multi-factor authentication for smartphone users, for the enterprise, and across industries. The Company has introduced a set of mobile and cloud solutions to provide biometric user authentication, including the GoVerifyID® mobile application and cloud-based SaaS solutions. These solutions include GoMobile Interactive (“GMI”), which provides patented, secure, dynamic messaging. More recently, the Company has introduced GoVerifyID® Enterprise Suite, which provides turnkey integration with Microsoft Windows, Microsoft Active Directory, and security products from CA, HPE, IBM, and SAP. These solutions are marketed and sold to businesses across many industries. For the healthcare industry, the Company also developed and markets a patented, FDA-Cleared, biometrically-secure enterprise-level platform for patient engagement and medication adherence.
+  
+ Historically, we have marketed our products to government entities at the federal, state and local levels. However, the emergence of cloud-based computing, a mobile market that demands increased security and interoperable systems, and the proven success of our products in the government markets, have enabled us to enlarge our target market focus to include the emerging consumer and non-government enterprise marketplace.
+  
+ 
+   
+-1-
+
+
+
+ 
+   Our biometric technology is a core software component of an organization’s security infrastructure and includes a multi-biometric identity management solution for enrolling, managing, identifying and verifying the identities of people by the physical characteristics of the human body. We develop, sell and support various identity management capabilities within government (federal, state and local), law enforcement, commercial enterprises, and transportation and aviation markets for identification and verification purposes. Our IWS Biometric Engine is a patented biometric identity management software platform for multi-biometric enrollment, management and authentication, managing population databases of virtually unlimited sizes. It is hardware agnostic and can utilize different types of biometric algorithms. It allows different types of biometrics to be operated at the same time on a seamlessly integrated platform. It is also offered as a Software Development Kit (“SDK”) based search engine, enabling developers and system integrators to implement a biometric solution or integrate biometric capabilities into existing applications without having to derive biometric functionality from preexisting applications. The IWS Biometric Engine combined with our secure credential platform, IWS EPI Builder, provides a comprehensive, integrated biometric and secure credential solution that can be leveraged for high-end applications such as passports, driver licenses, national IDs, and other secure documents.
+  
+ Our law enforcement solutions enable agencies to quickly capture, archive, search, retrieve, and share digital images, fingerprints and other biometrics as well as criminal history records on a stand-alone, networked, wireless or web-based platform. We develop, sell and support a suite of modular software products used by law enforcement and public safety agencies to create and manage criminal history records and to investigate crime. Our IWS Law Enforcement solution consists of five software modules: Capture and Investigative modules, which provide a criminal booking system with related databases as well as the ability to create and print mug photo/SMT image lineups and electronic mug-books; a Facial Recognition module, which uses biometric facial recognition to identify suspects; a Web module, which provides access to centrally stored records over the Internet in a connected or wireless fashion; and a LiveScan module, which incorporates LiveScan capabilities into IWS Law Enforcement providing integrated fingerprint and palm print biometric management for civil and law enforcement use. The IWS Biometric Engine is also available to our law enforcement clients and allows them to capture and search using other biometrics such as iris or DNA.
+  
+ Our secure credential solutions empower customers to create secure and smart digital identification documents with complete ID systems. We develop, sell and support software and design systems that utilize digital imaging and biometrics in the production of photo identification cards, credentials and identification systems. Our products in this market consist of IWS EPI Suite and IWS EPI Builder. These products allow for production of digital identification cards and related databases and records and can be used by, among others, schools, airports, hospitals, corporations or governments. We have added the ability to incorporate multiple biometrics into the ID systems with the integration of IWS Biometric Engine to our secure credential product line.
+  
+ Our GoVerifyID products support multi-modal biometric authentication including, but not limited to, face, voice, fingerprint, iris, palm, and more. All the biometrics can be combined with or used as replacements for authentication and access control tools, including tokens, digital certificates, passwords, and PINS, to provide the ultimate level of assurance, accountability, and ease of use for corporate networks, web applications, mobile devices, and PC desktop environments. GoVerifyID provides patented multi-modal biometric identity authentication that can be used in place of passwords or as a strong second factor authentication method. GoVerifyID is provided as a cloud-based Software-as a-Service (“SaaS”) solution, thereby, eliminating complex IT deployment of biometric software and eliminating startup costs. GoVerifyID works with existing mobile devices, eliminating the need for specialized biometric scanning devices typically used with most biometric solutions.
+  
+
+ GoVerifyID was built to work seamlessly with our patented technology portfolio, including GoMobile Interactive®, the secure dynamic messaging system, and the ultrascalable IWS Biometric Engine that provides anonymous biometric matching and storage. GoVerifyID is secure, simple to use, and designed to provide instant identity authentication by engaging with the biometric capture capabilities of each user’s mobile device. GoVerifyID also provides a fully open SDK for organizations that require the utmost in flexibility.
+ 
+ 
+ Our GoVerifyID Enterprise Suite for Windows easily and seamlessly integrates with a user’s existing Microsoft ecosystem/infrastructure to support the user’s extended workforce. GoVerifyID Enterprise Suite secures corporate networks from end-to-end – both applications and data – on client, server, and cloud systems with flexible user login policies to address varied trust requirements. Our GoVerifyID Enterprise Suite works with the smart devices that the workforce already uses, including iOS/Android smartphones and tablets.
+    
+ 
+   
+-2-
+
+
+
+ 
+ 
+ Our GoVerifyID Enterprise Suite for Windows provides biometric authentication for the Microsoft ecosystem that secures enterprise security without compromising agility, productivity, or user experience. Its comprehensive architecture offers biometric authentication for the complete range of enterprise stakeholders, delivering secure enterprise applications and workspaces to internal employees, partners, suppliers and vendors, and customers. Out of Band authentication is provided via universally available devices, such as smartphones and tablets. In-band authentication can be enabled via fingerprint readers, iris scanners, and any Windows Biometric Framework compatible device. The server component provides easy centralized management of biometric authentication policies for all users, using a standard Snap-In to the Microsoft Management Console. It provides greater user assurance and Single Sign-On (“SSO”) convenience for all corporate systems and cloud applications. There is no compromise in agility or user experience.
+  
+ GoVerifyID Enterprise Suite also provides options for seamless integration with leading Enterprise Identity and Access Management (“IAM”) solutions including CA SSO, IBM Security Access Manager (“ISAM”), SAP Cloud Platform, and HPE’s Aruba ClearPass. These turnkey integrations provide multi-modal biometric authentication to replace or augment passwords for use with enterprise and consumer class systems. 
+  
+  Recent Developments
+  
+  Creation of Series C Convertible Redeemable Preferred Stock
+  
+ On September 10, 2018, the Company filed the Certificate of Designations, Preferences and Rights of Series C Convertible Preferred Stock with the Secretary of State for the State of Delaware – Division of Corporations, designating 1,000 shares of the Company’s preferred stock, par value $0.01 per share, as Series C Convertible Preferred Stock (“Series C Preferred”), each share with a stated value of $10,000 per share.
+ Series C Financing
+  
+ From September 10, 2018 through September 21, 2018, the Company offered and sold an aggregate of 1,000 shares of Series C Preferred at a purchase price of $10,000 per share (the “Series C Financing”). The aggregate gross proceeds to the Company from the Series C Financing were $10,000,000. Issuance costs incurred in conjunction with the Series C Financing were approximately $1,211,000, resulting in net proceeds to the Company of approximately $8,789,000.
+ Amendment to Certificate of Designations of Series A Convertible Preferred Stock
+  
+ On September 10, 2018, the Company filed an Amendment to the Certificate of Designations, Preferences, and Rights of Series A Convertible Preferred Stock with the Secretary of State for the State of Delaware – Division of Corporations, to increase the number of shares of Series A Convertible Preferred Stock, par value $0.01 per share (“Series A Preferred”), authorized for issuance thereunder to 38,000 shares, in order to permit the Debt Exchange (as defined below).
+ Debt Exchange
+  
+ On September 10, 2018, the Company entered into exchange agreements (the “Exchange Agreements”) with Neal Goldman and Charles Crocker, pursuant to which Messrs. Goldman and Crocker agreed to exchange approximately $6.3 million and $0.6 million, respectively, of outstanding debt (including accrued and unpaid interest) owed under the terms of their respective lines of credit for an aggregate of 6,896 shares of Series A Preferred (the “Debt Exchange”). As a result of the Debt Exchange, all indebtedness, liabilities and other obligations arising under the respective lines of credit were cancelled and deemed satisfied in full. Messrs. Goldman and Crocker are members of the Company’s Board of Directors and related parties.
+ Declaration of Special Dividend
+  
+ Concurrently with the Series C Financing, the Company’s Board of Directors declared a special dividend (the “Special Dividend”) for holders of the Series A Preferred (each a “Holder”), pursuant to which each Holder received a warrant (“Dividend Warrant”) to purchase 39.87 shares of Company Common Stock for every share of Series A Preferred held, which resulted in the issuance of Dividend Warrants to the Holders as a group to purchase an aggregate of 1,493,856 shares of Common Stock. Each Dividend Warrant has an exercise price of $0.01 per share, and is exercisable immediately upon issuance; provided, however, that a Dividend Warrant may only be exercised concurrently with the conversion of shares of Series A Preferred held by a Holder into shares of Common Stock. In addition, each Dividend Warrant held by a Holder shall expire on the earliest to occur of (i) the conversion of all Series A Preferred held by such Holder into Common Stock, (ii) the redemption by the Company of all outstanding shares of Series A Preferred held by such Holder, (iii) the Dividend Warrant no longer representing the right to purchase any shares of Common Stock, and (iv) the tenth anniversary of the date of issuance. 
+  
+ 
+ 
+   
+-3-
+
+
+
+ 
+ 
+  Industry Background
+  
+  Biometrics and Secure Credential Markets
+  
+ The identity and access management market are expected to grow from $7.2 billion in 2015 to $12.78 billion by 2020, at an expected Compound Annual Growth Rate (“CAGR”) of 12.2%. This growth is based on a growing demand for compliance management requirements and increasing trends in mobility devices and applications. The main drivers are:
+  
+  ●
+  Banking, Financial Services & Insurance
+
+ 
+  ●
+  Telecommunications
+
+ 
+  ●
+  Public Sectors
+
+ 
+ Audit and regulation compliance is a key driving force in the market; it is growing at the highest rate and will likely continue to grow through 2020.
+  
+ Identity management solutions are rapidly moving into risk-based programs focused on enforcement of access control and entitlement management. The enterprise is achieving major benefits from costs, but still lacks the capability to manage time-sensitive processes, including manual approvals and provisioning.
+  
+ Cloud services to date, though increasing, still suffer from a perceived lack of security. However, large enterprises are rapidly adopting cloud models, especially in centralizing the management of identities. This adoption is being done by still using on premise identity management solutions, but also venturing into the cloud as well. This means that the use of the hybrid model, utilizing both cloud and in-house identity management solutions, is increasing.
+  
+ We believe the biometric identity management market will continue to grow as the role of biometrics becomes more widely adopted for enhancing security and complying with government regulations and initiatives and as biometric capture devices become increasingly mobile, robust and cost effective. Our biometric and secure credentialing solutions are meeting the requirements and standards for true multi-modal biometric identity management systems, as well as providing scalability to support evolving functionality.
+  
+ Some of the industries that can benefit from biometric-based identity management and are a major part of our examples include:
+  
+  Healthcare
+  
+  ●
+  Access to patient health records
+
+ 
+  ●
+  Sharing patient records with other staff
+
+ 
+  ●
+  Remote access to clinical portals
+
+ 
+  ●
+  Entering Certified Physician Order Entry (“CPOE”) systems
+
+ 
+  ●
+  Submitting electronic prescriptions (“e-Rx”)
+
+ 
+  Banking
+  
+   ●
+  Login for online banking
+
+ 
+  ●
+  Verifying transactions made on a banking website
+
+ 
+  ●
+  Mobile banking apps
+
+ 
+  ●
+  ATM access
+
+ 
+  Retail/e-Commerce
+  
+  ●
+  Online store purchases
+
+ 
+  ●
+  Login for a mobile store with a mobile device
+
+ 
+  ●
+  Verifying purchases on a website or at mobile stores
+
+ 
+  ●
+  Sending coupons and offers to mobile devices
+
+ 
+ 
+   
+-4-
+
+
+
+ 
+ 
+  Government
+  
+  ●
+  Airport security
+
+ 
+  ●
+  Customs security
+
+ 
+  ●
+  Rail ticketing
+
+ 
+  ●
+  Internet access on trains and planes
+
+ 
+  ●
+  Police and fire services
+
+ 
+  ●
+  Armed forces
+
+ 
+  Law Enforcement and Public Safety Markets
+  
+ The United States law enforcement and public safety markets are composed of federal, state and local law enforcement agencies. Our target customers include local police and sheriff’s departments, primary state law enforcement agencies, prisons, special police agencies, county constable offices, and federal agencies such as the Department of Homeland Security, FBI, DEA and ICE.
+  
+ In addition, police agencies in foreign countries have shown interest in using the full range of IWS Law Enforcement products to meet the growing need for a flexible yet robust booking/investigative solution that includes the routine use of IWS Facial Recognition as well as the ability to use other biometrics. We continue to target agencies in foreign countries for our biometric and law enforcement solutions.
+  
+ Law enforcement customers require demanding end-to-end solutions that incorporate robust features and functionalities, such as biometric and secure credentialing capabilities, as well as instant access to centrally maintained records for real time verification of identity and privileges. Law enforcement has long used the multiple biometrics of fingerprint and face in establishing an individual’s identity record. More recently, law enforcement is seeking capability to utilize additional biometrics such as iris and DNA. The Company’s multi-biometric platform product, the IWS Biometric Engine, allows Company customers to use as many different biometrics as desired all on a single, integrated platform.
+  
+ Many law enforcement agencies are also moving toward a more shared experience where specific pieces of suspect/arrest data may be viewed by outside agencies allowing a suspect’s identity to be quickly defined with the end goal being the swift apprehension of the subject.
+  
+  Products and Services
+  
+ Our identity management solutions are primarily focused around biometrics and secure credentials providing complete, cross-functional and interoperable systems. Our biometric and secure credentialing products provide complete and interoperable solutions with features and functions required throughout the entire identity management life cycle, enabling users the flexibility to make use of any desired options, such as identity proofing and enrollment, card issuance, maintenance and access control. Our solutions offer a significant benefit that one vendor’s solution is used throughout the various stages, from establishing an applicant’s verified identity, to issuance of smart card-based credentials, to the usage and integration to physical and logical access control systems.
+  
+ These solutions improve global communication, the integrity and authenticity of access control to facilities and information systems, as well as enhance security, increase efficiency, reduce identity fraud, and protect personal privacy.
+  
+ We categorize our identity management products and services into three basic markets: (i) Biometrics, (ii) Secure Credential, and (iii) Law Enforcement and Public Safety. We offer a series of modular products that can be seamlessly integrated into an end-to-end solution or licensed as individual components.
+  
+  Biometrics
+  
+ Our biometric product line consists of the following:
+  
+  GoMobile InteractiveTM
+  
+ In July 2013, the Company introduced its mobile biometric identity management platform, GoMobile InteractiveTM (“GMI”). Based upon acquired patented messaging platform technology, combined with the Company’s patented IWS Biometric Engine®, GMI allows global business, service and content providers to offer users biometric security for their products, services and content on the Android or iPhone operating systems. GMI includes a standalone application that can be used as a turnkey solution, as well as an SDK, enabling integration with existing mobile applications for Android and iPhone. Targeted verticals for the product include mobile banking and value transfer, retail, healthcare and entertainment services. By supporting multi-modal biometrics on a mobile device, the Company is able to offer an out-of-band security solution that is far superior to traditional password or PIN protection, which are now failing and costing businesses billions of dollars. In addition, the GMI service supports dynamic information gathering, allowing clients to learn about their users through the use of interactive surveys that can be secured using biometrics.
+  
+ 
+   
+-5-
+
+
+
+ 
+ 
+  IWS Biometric Engine
+  
+ This is a biometric identity management platform for multi-biometric enrollment, management and authentication, managing population databases of unlimited sizes without regard to hardware or algorithm. Searches can be 1:1 (verification), 1:N (identification), X:N (investigative) and N:N (database integrity). IWS Biometric Engine is technology and biometric agnostic, enabling the use of biometric devices and algorithms from any vendor, and the support of the following biometric types: finger, face, iris, hand geometry, palm, signature, DNA, voice, 3D face and retina. IWS Biometric Engine is a second-generation solution from the Company that is based on field-proven ImageWare technology solutions that have been used to manage millions of biometric records since 1997 and is ideal for a variety of applications, including: criminal booking, background checks (civil and criminal), watch list, visa/passport and border control (air, land and sea), physical and logical access control, and other highly-secure identity management environments. The Company believes that this product will be very attractive to the emerging commercial and consumer markets as they deploy biometric identity management systems.
+  
+ Our IWS Biometric Engine is scalable, and biometric images and templates can be enrolled either live or offline. Because it stores the enrolled images, a new algorithm can be quickly converted to support new or alternate algorithms and capture devices. The IWS Biometric Engine is built to be hardware “agnostic,” and currently supports over 100 hardware capture devices and over 70 biometric algorithms.
+  
+ The IWS Biometric Engine is available as an SDK, as well as a platform for custom configurations to meet specific customer requirements. The added suite of products provides government, law enforcement, border management and enterprise businesses with a wide variety of application-specific solutions that address specific government mandates and technology standards. It also provides users with the ability to integrate into existing legacy systems and expand based upon specific customer requirements. This enables users to integrate a complete solution or components as needed. The application suite of products includes packaged solutions for:
+  
+  ●
+  HSPD-12 personal identity verification
+
+ 
+  ●
+  Border management
+
+ 
+  ●
+  Applicant identity vetting
+
+ 
+  ●
+  Mobile acquisition
+
+ 
+  ●
+  Physical access control
+
+ 
+  ●
+  Single-Sign-On and logical access control
+
+ 
+ IWS PIV Management Application.  The Company provides a set of Enterprise Server products within our complete PIV solution, and these software products supply server-based features and functions, while the use case for PIV requires client-based presentation of PIV data and workflow. The IWS PIV Management Application supplies the web-based graphical user interface that presents the user or client interface to the various server functions. Since the server-based applications perform specific functions for specific phases of the PIV life cycle, these server-based applications need to be bound together with additional workflow processes. The IWS PIV Management Application meets this need with software modules that interface and interconnect the server-based applications.
+  
+ IWS PIV Middleware.  The IWS PIV Middleware product, which is NIST certified and listed on the GSA approved product list, is a library of functions that connect a card reader & PIV card on the hardware side with a software application. The library implements the specified PIV Middleware API functions that support interoperability of PIV Cards. This software has been developed in conformance with the FIPS-201 specification, and the software has been certified by the NIST Personal Identification Verification Program (“NPIVP”) Validation Authority as being compliant.
+  
+ IWS Background Server.  The IWS Background Server is a software application designed specifically for government and law enforcement organizations to support the first stage of biometric identity management functions such as identity proofing and vetting. IWS Background Check Server automatically processes the submission of an applicant’s demographic and biographic data to investigative bureaus for background checks prior to issuing a credential.
+  
+ 
+   
+-6-
+
+
+
+ 
+ 
+ IWS Desktop Security.  IWS Desktop Security is a highly flexible, scalable and modular authentication management platform that is optimized to enhance network security and usability. This architecture provides an additional layer of security to workstations, networks and systems through advanced encryption and authentication technologies. Biometric technologies (face, fingerprint, iris, voice or signature), can be seamlessly coupled with TPM chips to further enhance corporate security. USB tokens, smart cards and RFID technologies can also be readily integrated. Additional features include:
+  
+  ●
+  Support for multiple authentication tools, including Public Key Infrastructure (“PKI”) within a uniformed platform and Privilege Management Infrastructure (“PMI”) technology, to provide more advanced access control services and assure authentication and data integrity;
+
+ 
+  ●
+  Integration with IWS Biometric Engine for searching and match capabilities (1:1, 1:N and X:N);
+
+ 
+  ●
+  Integration with IWS EPI Builder for the production and management of secure credentials;
+
+ 
+  ●
+  Support for both BioAPI and BAPI standards;
+
+ 
+  ●
+  Supports a Single-Sign-On feature that securely manages Internet Explorer and Windows application ID and password information;
+
+ 
+  ●
+  Supports file and folder encryption features; and
+
+ 
+  ●
+  Supports various operating systems, including Microsoft Windows 2000, Windows XP, and Windows Server 2003.
+
+ 
+ IWS Biometric Quality Assessment & Enhancement (“IWS Biometric IQA&E”). The IWS Biometric IQA&E is a biometric image enhancement and assessment solution that assists government organizations with the ability to evaluate and enrich millions of biometric images automatically, saving time and costs associated with biometric enrollment while maintaining image and database integrity.
+  
+ The IWS Biometric IQA&E improves the accuracy and effectiveness of biometric template enrollments. The software may be used stand-alone or in conjunction with the IWS Biometric Engine. IWS Biometric IQA&E provides automated image quality assessment with respect to relevant image quality standards from organizations such as International Civil Aviation Organization, National Institute of Standards and Technology (“NIST”), International Organization for Standards (“ISO”) and American Association of Motor Vehicle Association (“AAMVA”). IWS Biometric IQA&E also enables organizations to conduct multi-dimensional facial recognition, which further enhances accuracy for numerous applications, including driver licenses, passports and watch lists.
+  
+ IWS Biometric IQA&E automatically provides real-time biometric image quality analysis and feedback to improve the overall effectiveness of biometric images, thus increasing the biometric verification performance, and maintaining database and image data integrity. IWS Biometric IQA&E provides a complete platform that includes an image enhancement library for biometric types including face, finger and iris.
+  
+  Secure Credential
+  
+ Our secure credential products consist of the following:
+  
+ GoVerifyID®. On November 14, 2016, the Company introduced GoVerifyID® Enterprise Suite, a multi-modal, multi-factor biometric authentication solution for the enterprise market. An algorithm-agnostic solution, GoVerify ID Enterprise Suite is an end-to-end biometric platform that seamlessly integrates with an enterprise’s existing Microsoft infrastructure, offering businesses a turnkey biometric solution for quick deployment. The Company feels that this product has the potential to dramatically accelerate adoption of its biometric solution due to the worldwide prevalence of enterprise use of the Microsoft infrastructure. Working across the entire enterprise ecosystem, GoVerifyID Enterprise Suite offers a consistent user experience and centralized administration with the highest level of security, flexibility, and usability. GoVerifyID Enterprise Suite embodies the following characteristics:
+  
+  ●
+  Mobile-workforce friendly—With GoVerifyID Enterprise Suite user authentication logins are possible for a tablet or laptop even when disconnected from the corporate network. Additionally, GoVerifyID Enterprise Suite offers a consistent user authentication experience across all login environments;
+
+ 
+  ●
+  Hybrid cloud—GoVerifyID Enterprise Suite is linked from the cloud to an enterprise’s Microsoft infrastructure and is backward compatible with Windows 7, 8 and 10. Additionally, because the solution is SaaS-based, it can easily scale to process hundreds of millions of transactions and store just as many biometrics; and
+
+ 
+  ●
+  Seamless integration—GoVerifyID Enterprise Suite is a snap-in to the Microsoft Management console and can be centrally managed at the server. Additionally, the solution allows for seamless movement as it integrates with Active Directory using an organization’s existing Microsoft security infrastructure.
+
+ 
+ 
+   
+-7-
+
+
+
+ 
+ 
+ IWS Card Management.  The IWS Card Management System (“CMS”) is a comprehensive solution to support and manage the issuance of smart cards complete with the following capabilities:
+  
+  ●
+  Biometric enrollment and identity proofing with Smart Card encoding of biometrics;
+
+ 
+  ●
+  Flexible models of central or distributed issuance of credentials;
+
+ 
+  ●
+  Customizable card life-cycle workflow managed by the CMS; and
+
+ 
+  ●
+  Integration of the CMS data with other enterprise solutions, such as physical access control and logical access control (i.e. Single-Sign-On).
+
+ 
+ IWS EPI Suite.  This is an ID software solution for producing, issuing, and managing secure credentials and personal identification cards. Users can efficiently manage large amounts of data, images and card designs, as well as track and issue multiple cards per person, automatically populate multiple cards and eliminate redundant data entry. IWS EPI Suite was designed to integrate with our customers’ existing security and computing infrastructure. We believe that this compatibility may be an appealing feature to corporations, government agencies, transportation departments, school boards and other public institutions.
+  
+ IWS EPI Builder.  This is an SDK and a leading secure credential component of identity management and security solutions, providing all aspects of ID functionality from image and biometric capture to the enrollment, issuance and management of secure documents. It contains components which developers or systems integrators can use to support and produce secure credentials, including national IDs, passports, International Civil Aviation Office -compliant travel documents, smartcards and driver licenses. IWS EPI Builder enables organizations to develop custom identification solutions or incorporate sophisticated identification capabilities into existing applications including the ability to capture images, biometric and demographic data; enable biometric identification and verification (1:1 and 1:X); as well as support numerous biometric hardware and software vendors. It also enables users to add electronic identification functionality for other applications, including access control, tracking of time and attendance, point of sale transactions, human resource systems, school photography systems, asset management, inventory control, warehouse management, facilities management and card production systems.
+   
+ IWS EPI PrintFarm.  While it is the last stage of PIV Card Issuance, the PIV smart card printing process is by no means the least important stage. Production printing of tens of thousands of PIV cards requires a significant investment and a well-engineered system. The IWS EPI PrintFarm software offers a cost-effective, yet high-performance method for high-volume card printing.
+  
+ IWS PIV Encoder.  PIV smart cards must be programmed with specific mandatory data, digital signatures and programs in order to maintain the interoperability as well as the security features specified for the cards. The IWS PIV Encoder could be considered to be a complex device driver that properly programs the PIV smart cards. The Encoder interacts with the CMS for data payload elements. It interacts with the Certificate Authority to encrypt or sign the PIV smart card data with trusted certificates. Finally, it acts as the application-level device driver to make the specific PIV smart card encoding system properly program the smart card, regardless if the system is a standalone encoding system or one integrated into a card printer.
+  
+  Law Enforcement and Public Safety
+  
+ We believe our integrated suite of software products significantly reduces the inefficiencies and expands the capabilities of traditional booking and mug shot systems. Using our products, an agency can create a digital database of thousands of criminal history records, each including one or more full-color facial images, finger and palm prints, biographic text information and images of other distinctive physical features such as scars, marks and tattoos (“SMT’s”). This database can be quickly searched using text queries, or biometric technology that can compare biometric characteristics of an unknown suspect with those in the database.
+  
+ Our investigative software products can be used to create, edit and distribute both mug photo and SMT photo lineups of any size. In addition, electronic mug books display hundreds of images for a witness to review and from which electronic selections are made. The Witness View software component records the viewing of a lineup (mug photo or SMT) detailing the images provided for viewing along with the image or images selected. In addition to a printed report, the Witness View module provides a non-editable executable file (.exe) that may be played on any computer for court exhibit viewing purposes.
+  
+ 
+   
+-8-
+
+
+
+ 
+ 
+ Our IWS Law Enforcement solution consists of software modules, which may also be purchased individually. The IWS Law Enforcement Capture and Investigative modules make up our booking system and database. Our add-on modules include LiveScan, Facial Recognition, Law Enforcement Web and Witness View as well as the IWS Biometric Engine.
+  
+ IWS Law Enforcement.  IWS Law Enforcement is a digital booking, identification and investigative solution that enables users to digitally capture, store, search and retrieve images and demographic data, including mug shots, fingerprints and SMT’s. Law enforcement may choose between submitting fingerprint data directly to the State Automated Fingerprint Identification System (“AFIS”), FBI criminal repository, or other agencies as required. Additional features and functionality include real-time access to images and data, creation of photo lineups and electronic mug books, and production of identification cards and credentials. IWS Law Enforcement also uses off-the-shelf hardware and is designed to comply with open industry standards so that it can operate on an array of systems ranging from a stand-alone personal computer to a wide area network. To avoid duplication of entries, the system can be integrated easily with several other information storage and retrieval systems, such as a records/jail management system (“RMS/JMS”) or an automated fingerprint identification system.
+  
+ Capture.  This software module allows users to capture and store a variety of images (facial, SMT and others such as evidence photos) as well as biographical text information. Each record includes images and text information in an easy-to-view format made up of fields designed and defined by the individual agency. Current customers of this module range from agencies that capture a few thousand mug shots per year to those that capture hundreds of thousands of mug shots each year.
+  
+ LiveScan.  This software module is FBI certified and complies with the FBI Integrated Automated Fingerprint Identification System (“IAFIS”) Image Quality Specifications (“IQS”) while utilizing FBI certified LiveScan devices from most major vendors. LiveScan allows users to capture single to ten prints and palm data, providing an integrated biometric management solution for both civil and law enforcement use. By adding LiveScan capabilities, law enforcement organizations further enhance the investigative process by providing additional identifiers to identify suspects involved in a crime. In addition, officers no longer need to travel to multiple booking stations to capture fingerprints and mug shots. All booking information, including images, may be located at a central designation and from there routed to the State AFIS or FBI criminal history record repository.
+   
+ Investigative.  This software module allows users to search the database created with IWS Law Enforcement. Officers can conduct text searches in many fields, including file number, name, alias, distinctive features, and other information, such as gang membership and criminal history. The Investigative module creates a catalogue of possible matches, allowing officers or witnesses to save time by looking only at mug shots that closely resemble the description of the suspect. This module can also be used to create a line-up of similar facial images from which a witness may identify the suspect.
+  
+ Facial Recognition.  This software module uses biometric facial recognition and retrieval technology to help authorities identify possible suspects. Images taken from surveillance videos or photographs can be searched against a digital database of facial images to retrieve any desired number of faces with similar characteristics. This module can also be used at the time of booking to identify persons using multiple aliases. Using biometrics-based technology, the application can search through thousands of facial images in a matter of seconds, reducing the time it would otherwise take a witness to flip through a paper book of facial images that may or may not be similar to the description of the suspect. The Facial Recognition module then creates a selection of possible matches ranked in order of similarity to the suspect, and a percentage confidence level is attributed to each possible match. The application incorporates search engine technology, which we license from various facial recognition algorithm providers.
+  
+ LE Web.  This software module enables authorized personnel to access and search agency booking records stored in IWS Law Enforcement through a standard web browser from within the agency’s intranet. This module allows remote access to the IWS Law Enforcement database without requiring the user to be physically connected to the customer’s network. This application requires only that the user have access to the Internet and authorization to access the law enforcement agency’s intranet.
+  
+ EPI Designer for Law Enforcement.  The EPI Designer for LE software is a design solution created for the IWS Law Enforcement databases based on the IWS EPI Suite program. This program allows integration with various IWS databases for the production of unique booking/inmate reports, wristbands, photo ID cards, Wanted or BOLO fliers, etc., created from the information stored in booking records. Designs can be created in minutes and quickly added to the IWS Law Enforcement system, allowing all users with appropriate permissions immediate access to the newly added form.
+  
+ 
+   
+-9-
+
+
+
+ 
+ 
+  Maintenance and Customer Support
+  
+ We offer software and hardware support to our customers. Customers can contract with us for technical support that enables them to use a toll-free number to speak with our technical support center for software support and general assistance 24 hours a day, seven days a week. As many of our government customers operate around the clock and perceive our systems as critical to their day-to-day operations, a very high percentage contract for technical support.  For the years ended December 31, 2018 and 2017, maintenance revenue accounted for approximately 60% and 62% of our total revenue, respectively.
+ Software Customization and Fulfillment
+  
+ We directly employ computer programmers and retain independent programmers to develop our software and perform quality control. We provide customers with software that we specifically customize to operate on their existing computer system. We work directly with purchasers of our system to ensure that the system they purchase will meet their unique needs. We configure and test the system either at our facilities or on-site and conduct any customized programming necessary to connect the system with any legacy systems already in place. We can also provide customers with a complete computer hardware system with our software already installed and configured. In either case, the customer is provided with a complete turnkey solution, which can be used immediately. When we provide our customers with a complete solution including hardware, we use off-the-shelf computers, cameras and other components purchased from other companies such as Dell or Hewlett Packard. Systems are assembled and configured either at our facilities or at the customer’s location.
+ Customers
+  
+ We have a wide variety of domestic and international customers. Most of our IWS Law Enforcement customers are government agencies at the federal, state and local levels in the United States. Our secure credential products are also being used in Australia, Canada, the United Arab Emirates, Kuwait, Saudi Arabia, Mexico, Colombia, Costa Rica, Venezuela, Singapore, Indonesia and the Philippines. For the year ended December 31, 2018, one customer accounted for approximately 36% or $1,573,000 of total revenue and had $0 trade receivables as of the end of the year, as compared to one customer that accounted for approximately 25% or $1,089,000 of total revenue and had $201,000 trade receivables as of the end of the December 31, 2017.
+ Our Strategy
+  
+ Our strategy is to provide patented open-architected identity management solutions including multi-biometric, secure credential and law enforcement technologies that are stand alone, integrated and/or bundled with key partners including channel relationships and large systems integrators such as United Technology Security, GCR, Unisys, Lockheed Martin, IBM and Fujitsu, among others. Key elements of our strategy for growth include the following:
+ Fully Exploit the Biometrics, Access Control and Identification Markets
+  
+ The establishment of the Department of Homeland Security coupled with the movement by governments around the world to authenticate the identity of their citizens, employees and contractors has accelerated the adoption of biometric identification systems that can provide secure credentials and instant access to centrally maintained records for real-time verification of identity and access (physical and logical) privileges. Using our products, an organization can create secure credentials that correspond to records, including images and biographic data, in a digital database. A border guard or customs agent can stop an individual to quickly and accurately verify his identity against a database of authorized persons, and either allow or deny access as required. Our technology is also standards based and applied to facilitate activities such as federal identification mandates while complying with personal identification verification standards such as HSPD-12, International Civil Aviation Organization standards, American Association of Motor Vehicle Administrators driver licenses, voter registration, immigration control and welfare fraud identification. We believe that these or very similar standards are applicable in markets throughout the world.
+  
+ With the identity management market growing at a rapid pace, biometric identifiers are becoming recognized and accepted as integral components to the identification process in the public and private sectors. As biometric technologies (facial recognition, fingerprint, iris, etc.) are adopted, identification systems must be updated to enable their use in the field. We have built our solutions to enable the incorporation of one or multiple biometrics, which can be associated with a record and stored both in a database and on a card for later retrieval and verification without regard to the specific hardware employed. We believe the increasing demand for biometric technology will drive demand for our solutions. Our identity management products are built to accommodate the use of biometrics and meet the demanding requirements across the entire identity life cycle.
+  
+ 
+   
+-10-
+
+
+
+ 
+ 
+  Expand Law Enforcement and Public Safety Markets
+  
+ We intend to use our successful installations with customers such as the Arizona Department of Public Safety and the San Bernardino County Sheriff’s Department as reference accounts, and to market IWS Law Enforcement as a superior technological solution. Our recent addition of the LiveScan module and support for local AFIS to our IWS Law Enforcement will enhance its functionality and value to the law enforcement customer as well as increase the potential revenue the Company can generate from a system sale. We primarily sell directly to the law enforcement community. Our sales strategy is to increase sales to new and existing customers, including renewing supporting maintenance agreements. We have also established relationships with large systems integrators such as Sagem Morpho to OEM our law enforcement solution utilizing their worldwide sales force. We will focus our sales efforts in the near term to establish IWS Law Enforcement as the integrated mug shot and LiveScan system adopted in as many countries, states, large counties and municipalities as possible. Once we have a system installed in a region, we intend to then sell additional systems or retrieval seats to other agencies within the primary customer’s region and in neighboring regions. In addition, we plan to market our integrated investigative modules to the customer, including Facial Recognition, Web and WitnessView. As customer databases of digital mug shots grow, we expect that the perceived value of our investigative modules, and corresponding revenue from sales of those modules, will also grow.
+ Software as a Service Business Model
+  
+ With the advent of cloud-based computing and the proliferation of smart mobile devices, which allow for reliable biometric capture and the need to secure access to data, products and services, the Company believes that the market for multi-biometric solutions will expand to encompass significant deployments of biometric systems in the commercial and consumer markets. The Company therefore intends to leverage the strength of its experience servicing existing government clients who have deployed the Company’s products for large populations, as well as its foundational patent portfolio in the field of multi-modal biometrics and the fusion of multiple biometric algorithms, to address the growing commercial and consumer market. As part of its marketing plan, the Company offered new versions of its product suite on a SaaS model during 2016. This new business model, which is intended to supplement the Company’s existing business model, will allow new commercial and consumer clients to biometrically verify identity in order to access data, products or services from mobile and desktop devices.
+ Mobile Applications
+  
+ The Company strengthened its patent portfolio in June 2012 with the purchase of four U.S. patents relating to wireless technology from Vocel. These patents, combined with the Company’s existing foundational patents in the areas of biometric identification, verification, enrollment and fusion, provide a unique and protected foundation on which to build interactive mobile applications that are secured using biometrics.
+  
+ The combination of our biometric identification technologies and wireless technologies has led to the development of the IWS Interactive Messaging System, which is a push application platform secured by biometrics that transforms mobile devices into a complete mobile ID, enabling companies to create applications that allow a range of unprecedented activities, from secure sharing of sensitive information to biometrically securing a mobile wallet. Identity authentication, using multi-modal biometrics gives users the confidence that their personal information is secure while the push marketing capabilities of the technology allow companies unparalleled interactivity that can be personalized to the needs and interests of their customers.
+  
+  Sales and Marketing
+  
+ We market and sell our products through our direct sales force and through indirect distribution channels, including systems integrators. As of December 31, 2018, we had sales and account representatives based domestically in the District of Columbia, California, Colorado, Oregon, Pennsylvania, Texas and Illinois and internationally in Japan, Chile and Mexico. Geographically, our sales and marketing force consisted of thirteen persons: ten persons in the United States, and three persons internationally as of December 31, 2018.
+  
+ Our direct sales organization is supported by technical experts. Our technical experts are available by telephone and conduct on-site customer presentations in support of our sales professionals.
+  
+ The typical sales cycle for IWS Biometric Engine and IWS Law Enforcement includes a pre-sale process to define the potential customer’s needs and budget, an on-site demonstration and conversations between the potential customer and existing customers. Government agencies are typically required to purchase large systems by including a list of requirements in a Request for Proposal, known as an “RFP,” and by allowing several companies to openly bid for the project by responding to the RFP. If our response is selected, we enter into negotiations for the contract and, if successful, ultimately receive a purchase order from the customer. This process can take anywhere from a few months to over a year.
+  
+ 
+   
+-11-
+
+
+
+ 
+ 
+ Our Biometric and ID products are also sold to large integrators, direct via our sales force and to end users through distributors. Depending on the customer’s requirements, there may be instances that require an RFP. The sales cycle can vary from a few weeks to a year.
+  
+ In addition to our direct sales force, we have developed relationships with a number of systems integrators who contract with government agencies for the installation and integration of large computer and communication systems. By acting as a subcontractor to these systems integrators, we are able to avoid the time consuming and often-expensive task of submitting proposals to government agencies, and we also gain access to large clients.
+  
+ We also work with companies that offer complementary products, where value is created through product integration. Through teaming arrangements, we are able to enhance our products and to expand our customer base through the relationships and contracts of our strategic partners.
+  
+ We plan to continue to market and sell our products internationally. Some of the challenges and risks associated with international sales include the difficulty in protecting our intellectual property rights, difficulty in enforcing agreements through foreign legal systems and volatility and unpredictability in the political and economic conditions of foreign countries. We believe we can work to successfully overcome these challenges.
+  
+  Competition
+  
+  The Law Enforcement and Public Safety Markets
+  
+ Due to the fragmented nature of the law enforcement and public safety market and the modular nature of our product suite, we face different degrees of competition with respect to each IWS Law Enforcement module. We believe the principal bases on which we compete with respect to all of our products are:
+  
+  ●
+  the unique ability to integrate our modular products into a complete biometric, LiveScan, imaging and investigative system;
+
+ 
+  ●
+  our reputation as a reliable systems supplier;
+
+ 
+  ●
+  the usability and functionality of our products; and
+
+ 
+  ●
+  the responsiveness, availability and reliability of our customer support.
+
+ 
+ Our law enforcement product line faces competition from other companies such as DataWorks Plus and 3M. Internationally, there are often a number of local companies offering solutions in most countries.
+  
+  Secure Credential Market
+  
+ Due to the breadth of our software offering in the secure credential market space, we face differing degrees of competition in certain market segments. The strength of our competitive position is based upon:
+  
+  ●
+  our strong brand reputation with a customer base, which includes small and medium-sized businesses, Fortune 500 corporations and large government agencies;
+
+ 
+  ●
+  the ease of integrating our technology into other complex applications; and
+
+ 
+  ●
+  the leveraged strength that comes from offering customers software tools, packaged solutions and web-based service applications that support a wide range of hardware peripherals.
+
+ 
+ Our software faces competition from Datacard Corporation, a privately held manufacturer of hardware, software and consumables for the ID market, as well as small, regionally based companies.
+  
+  Biometric Market
+  
+ The market to provide biometric systems to the identity management market is evolving and we face competition from a number of sources. We believe that the strength of our competitive position is based on:
+  
+   ●
+  our ability to provide a system which enables the enrollment, management and authentication of multiple biometrics managing population databases of unlimited sizes;
+
+ 
+   ●
+  searches can be 1:1 (verification), 1:N (identification), X:N (investigative), and N:N (database integrity); and
+
+ 
+   ●
+  the system is technology and biometric agnostic, enabling the use of biometric devices and algorithms from any vendor, and the support of the following biometric types: finger, face, iris, hand geometry, palm, DNA, signature, voice, 3D face and retina.
+
+ 
+ 
+   
+-12-
+
+
+
+ 
+ 
+ Our multi-biometric product faces competition from French-based Safran, Irish-based Daon, 3M and Aware Inc., none of which have offerings with the scope and flexibility of our IWS Biometric Engine and its companion suite of products or relevant patent protection.
+   
+  Intellectual Property
+  
+ We rely on trademark, patent, trade secret and copyright laws and confidentiality and license agreements to protect our intellectual property. We have several federally registered trademarks, including the trademark ImageWare and IWS Biometric Engine, as well as trademarks for which there are pending trademark registrations with the United States, Canadian and other International Patent & Trademark Offices.
+  
+ We hold several issued patents and have several other patent applications pending for elements of our products. We believe we have the foundational patents regarding the use of multiple biometrics and continue to be an IP leader in the biometric arena. It is our belief that this intellectual property leadership will create a sustainable competitive advantage. We are an early pioneer in the first to file patents related to multi-modal biometrics and currently are the worldwide leader in multi-modal biometric patents, with 22 issued patents worldwide and 25 patents pending. These technologies allow biometric matching using any type of biometric modality for identity verification while protecting the privacy of an individual. It is our belief that such technology will be critical to providing biometric management solutions for the consumer market where privacy protection has been a historical issue and barrier to biometric adoption.
+  
+ The Company strengthened its patent portfolio in June 2012 with the purchase of four U.S. patents relating to wireless technology from Vocel. These patents, combined with the Company’s existing foundational patents in the areas of biometric identification, verification, enrollment and fusion, provide a unique and protected foundation on which to build interactive mobile applications that are secured using biometrics.
+  
+ We regard our software as proprietary and retain title to and ownership of the software we develop. We attempt to protect our rights in the software primarily through patents and trade secrets. We have not published the source code of most of our software products and require employees and other third parties who have access to the source code and other trade secret information to sign confidentiality agreements acknowledging our ownership and the nature of these materials as our trade secrets.
+  
+ Despite these precautions, it may be possible for unauthorized parties to copy or reverse-engineer portions of our products. Although our competitive position could be threatened by disclosure or reverse engineering of this proprietary information, we believe that copyright and trademark protection are less important than other factors, such as the knowledge, ability, and experience of our personnel, name recognition and ongoing product development and support.
+  
+ Our software products are licensed to end users under a perpetual, nontransferable, nonexclusive license that stipulates which modules can be used and how many concurrent users may use them. These forms of licenses are typically not signed by the licensee and may be more difficult to enforce than signed agreements in some jurisdictions.
+  
+  Employees
+  
+ We had a total of 73 and 64 full-time employees as of December 31, 2018 and 2017, respectively. Our employees are not covered by any collective bargaining agreement, and we have never experienced a work stoppage. We believe that our relations with our employees are good.
+ Environmental Regulation
+  
+ Our business does not require us to comply with any particular environmental regulations.
+  
+  Additional Available Information
+  
+ We make available, free of charge, at our corporate website (http://www.iwsinc.com) copies of our annual reports filed with the United States Securities and Exchange Commission (“SEC”) on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements, and all amendments to these reports, as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Exchange Act. We also provide copies of our Forms 8-K, 10-K, 10-Q, and proxy statements at no charge to investors upon request. Additionally, all reports filed by us with the SEC are available free of charge via EDGAR through the SEC website at www.sec.gov.
+  
+ 
+   
+-13-
+
+
+
+ 
+ 
+ 
