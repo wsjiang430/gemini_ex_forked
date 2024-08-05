@@ -1,0 +1,253 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1:         BUSINESS
+ 
+The following discussion of Digimarc’s business contains forward-looking statements relating to future events or the future financial performance of Digimarc. Our actual results could differ materially from those anticipated in these forward-looking statements. Please see the discussion regarding forward-looking statements included in this Annual Report on Form 10-K in Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, under the caption “Forward-Looking Statements.”
+ 
+The following discussion of our business should be read in conjunction with our consolidated financial statements and the related notes and other financial information appearing elsewhere in this Annual Report on Form 10-K.
+ 
+On January 3, 2022, the Company completed the acquisition of EVRYTHNG Limited and its subsidiaries (“EVRYTHNG”), a London-based product cloud company. Unless context otherwise requires, references to EVRYTHNG refer to our wholly owned subsidiaries following the acquisition.
+ 
+Overview
+ 
+Digimarc Corporation (“Digimarc” or the “Company”), an Oregon corporation, is a global leader in product digitization, delivering business value across industries through unique identities and cloud-based solutions. Digimarc’s technology highlights a product’s journey to provide greater visibility into all relevant product data, allowing companies to make more intelligent business decisions.
+ 
+The Digimarc Illuminate Platform is a distinctive software as a service that combines Digimarc’s digital watermarks and/or Quick Response (“QR”) codes with product cloud technologies. By digitizing products using Digimarc's unique digital watermarks, QR codes, and/or other digital tags, products can connect with the web and interact with consumers and digital devices. Interactions are powered by the product cloud, where data and instructions are provided based on context, and which captures a record of every interaction.
+ 
+The Digimarc product suite is built on top of the Digimarc Illuminate Platform to address specific business needs. All of the Company’s products are complementary to each other, providing exponential benefits when combined. By enabling customers to create digital identities for physical and digital media objects, Digimarc’s technologies provide many benefits, including:
+ 
+
+• | Digimarc Validate protects product authenticity to ensure real products are in the right place. Digimarc's technology delivers exclusive, covert digital watermarks and/or QR codes and a cloud-based record of product authentication information. In addition, consumer engagement capabilities provide a direct, digital communications channel with consumers.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Digimarc Engage unlocks an interactive communications channel connecting brands and consumers. Digimarc's technology activates products and media through on-package QR codes, enabling consumers to scan for more information. Combined with cloud-based rules, brands can deliver contextually relevant content based on time, location, and more.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Digimarc Recycle increases the recyclability of products and packaging through unique digital watermarks. Digimarc's technology activates products and packaging with unique digital watermarks to improve accuracy and performance in recycling facilities. In addition, consumer engagement capabilities deliver a direct, digital communications channel with consumers, and a cloud-based record of recycling information provides new insights.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Our technologies provide a powerful security element (the ability to apply a unique code in any media object), which gave rise to our long-term relationship with a consortium of central banks (“the Central Banks”). That relationship, centered on the counterfeit deterrence of banknotes, was the first commercially successful large-scale use of our technologies.
+ 
+In January 2022, Digimarc announced the successful completion of its acquisition of EVRYTHNG, a market leader and pioneer in product cloud technology, linking every product item to a digital identity on the web and joining-up product data across the value chain for visibility, validation, real time intelligence and connection with people. Combining Digimarc’s and EVRYTHNG’s capabilities makes it possible to gather and apply traceability data from across the product lifecycle, unlocking end-to-end visibility and authenticity through item-level, real-time intelligence and analytics.
+ 
+In March 2022, Digimarc and AIM – European Brands Association announced the completion of a semi-industrial trial of Digimarc digital watermarks as part of the Digital Watermarks Initiative HolyGrail 2.0. With an average detection rate of 99%, results demonstrated that Digimarc’s technology performs exceptionally well across all tested categories of plastic packaging material in conditions that represent routine industrial operations and maintains performance in harsher conditions.
+ 
+In June 2022, Digimarc and Sealed Air (“SEE”), a global leader in digital printing and packaging, announced a partnership to bring product digitization at scale to markets like food proteins, eCommerce fulfillment, industrials, and consumer goods through smart packaging. The partnership provides the industry with a complete end-to-end smart packaging solution by combining Digimarc’s leading product digitization platform with prismiq™, SEE’s innovative digital packaging brand with a portfolio of solutions for design services, digital printing, and smart packaging.
+ 
+In June 2022, Digimarc and the Circular Plastics Taskforce (“CPT”), an industry collaboration promoting the implementation of a circular economy for post-consumer plastics in Quebec and Canada, announced a partnership to test Digimarc Recycle for optimizing the sortation of flexible plastic packaging in Canada, a first in North America.
+ 
+
+    1 
+
+  
+
+In October 2022, the results of the first part of the project with CPT were announced, confirming the effectiveness of Digimarc Recycle in improving recycling sortation. With a 99% accuracy of detection and sorting for films and flexibles, CPT concluded that Digimarc technology sorts films and flexibles accurately and efficiently on a SKU-level (deterministic) basis. Starting in 2023, CPT aims to implement the technology in facilities to enable the separation of flexibles by attributes, allowing the creation of new end-markets.
+ 
+In December 2022, Digimarc announced an additional multi-year agreement with Walmart to help further optimize store operations. The agreement covers an expanded deployment of Digimarc Illuminate Platform capabilities beyond the scope of the existing agreement between the two companies.
+ 
+In December 2022, Digimarc also announced a five-year extension of its agreement with the Central Banks. The agreement was renewed two years early and is effective through December 31, 2029. Digimarc has been a key, long-term partner in the central banks’ worldwide effort to deter counterfeiting of currency and a major contributor to the program’s success.
+ 
+Integrated Environmental, Social and Governance Strategy
+ 
+Digimarc is committed to becoming a leader in the Environmental, Social and Governance space (“ESG”). ESG is an integral element of Digimarc's strategy, covering the three key areas of our organization’s impacts on the world around us (impacts on the economy, environment, and people), as well as environmental, social, and governance risks or opportunities that have an impact on Digimarc (enterprise value creation). This supports our ability to create value sustainably.
+ 
+We proactively manage our ESG impacts across People, Product, and Planet, the three pillars of Digimarc’s ESG Framework. In addition, our responsible management of Governance topics forms the foundation for this Framework.
+ 
+In 2021, Digimarc started investing in ESG as an integrated element of its strategy and operations by forming an internal ESG team. A materiality assessment was performed by the ESG team that identified Digimarc’s material ESG impacts, based on a stakeholder mapping and the globally recognized standards published by the Sustainability Accounting Standards Board (“SASB”).
+ 
+Some of the most prominent ESG impacts we identified are the following:
+ 
+
+People | Product | Planet 
+------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------
+Human Capital Management, including employee engagement and diversity, equity, and inclusion (“DEI”). | Product design for sustainability applications, such as Digimarc watermarks’ ability to improve the accuracy of plastics sortation for recycling. | Climate change management, including our carbon footprint and our strategic response to climate risks and opportunities.
+
+ 
+Management of material ESG impacts across People, Product, and Planet is integrated throughout our organization. Accountability and responsibility for impacts lies with functional leads and relevant subject-matter experts, who act as Impact Owners and Impact Managers, respectively. This approach allows effective incorporation of ESG considerations into our strategic decisions, policies, and processes. The ESG team plays a coordinating role, supporting Impact Owners and Impact Managers and reporting on progress to stakeholders.
+ 
+In April 2022, Digimarc published its inaugural ESG Impact Report, aligned with industry standards, such as those published by SASB and the Task Force on Climate-related Financial Disclosures (“TCFD”). Throughout the year, Digimarc’s Impact Owners, Impact Managers, and the ESG team worked together to collect data, implement policies, and improve practices related to People, Product, Planet, and Governance.
+ 
+More information on our commitment to ESG, including our ESG Impact Report, can be found at http://www.digimarc.com/company/impact. The content on any website referred to in this annual report is not incorporated by reference in this annual report unless expressly noted.
+ 
+Customers and Business Partners
+ 
+We generate revenue through two primary markets: government and commercial. Government includes the Central Banks and other government customers. Commercial includes retailers, consumer brands, their suppliers and related solution providers, as well as media, entertainment, and other customers.
+ 
+We derive our revenue primarily from subscriptions for our software products and software development services. Subscriptions for our software products are generally sold to retailers, consumer brands, their suppliers and related solution providers. Software development services are generally provided to the Central Banks. During 2022, we generated 46% of our revenue under the long-term contract with the Central Banks, with whom we have been developing, deploying, supporting and enhancing a system to deter digital counterfeiting of currency for over 24 years. In December 2022, the 5-year extension option included in our contract with the Central Banks was exercised two years early. The contract now runs through December 31, 2029.
+ 
+Technology and Intellectual Property
+ 
+We seek patent protection for our inventions to differentiate our products and technologies, mitigate infringement risks, and develop opportunities for licensing. Our broad patent portfolio covers a wide range of methods, applications, system architectures and processes.
+ 
+Our intellectual property contains many innovations in digital watermarking, content and object recognition, product authentication, and related fields. To protect our inventions, we have implemented an extensive intellectual property protection program that relies on a combination of patent, copyright, trademark and trade secret laws, and nondisclosure agreements and other contracts. As a result, we believe we have one of the world’s most extensive patent portfolios in digital watermarking and related fields, with approximately 950 U.S. and foreign patents granted and applications pending as of December 31, 2022. The patents in our portfolio each have a life of approximately 20 years from the patent’s effective filing date.
+ 
+    2 
+
+  
+
+Our current patent licensees include, among others, AlpVision SA, Intellectual Ventures, Kantar SAS, NexGuard Labs B.V., Nielsen, OverDrive, Inc., Signum Technologies, Teletrax B.V., U-NICA Systems AG and Verance Corporation.
+ 
+For a discussion of activities and costs related to our research and development in the last two years, see “Research, development and engineering” under Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+ 
+Markets
+ 
+Our patented technologies are used in various automatic identification products and solutions supporting a variety of media objects, from consumer goods to movies and music, digital images, and banknotes. Each media object enabled by our technology creates the potential for several applications, such as:
+
+• | product authentication of physical products;
+--+---------------------------------------------
+
+
+• | sorting of consumer packaged goods in recycling streams;
+--+---------------------------------------------------------
+
+
+• | track and trace of products within the supply chain;
+--+-----------------------------------------------------
+
+
+• | quality control in manufacturing processes;
+--+--------------------------------------------
+
+
+• | inventory management and planogram compliance;
+--+-----------------------------------------------
+
+
+• | retail point of sale transaction processing;
+--+---------------------------------------------
+
+
+• | piracy deterrence of digital media objects;
+--+--------------------------------------------
+
+
+• | content identification and media management; and
+--+-------------------------------------------------
+
+
+• | enhanced services in support of mobile commerce.
+--+-------------------------------------------------
+
+ 
+We believe that existing products and solutions represent only a small portion of the potential market for our technology.
+ 
+Competition
+ 
+No single competitor or small number of competitors dominate our market. Our competitors vary depending on the application of our products and services. We generally compete with non-digital watermarking technologies. These alternatives include, among other things, encryption-based security systems and technologies and solutions based on fingerprinting, pattern recognition, and traditional barcodes. Our competitive position in digital watermarking applications is strong because of our large, high-quality, sophisticated patent portfolio and our substantial and growing amount of intellectual property in related innovations for the automatic identification of physical and digital media objects that span basic technologies, applications, system designs and business processes. Our intellectual property portfolio allows us to use proprietary technologies that are well-regarded by our customers and partners, and not available to our competitors without a license. We compete based on the variety of features we offer and a traditional cost/benefit analysis against alternative technologies and solutions. We anticipate that our competitive position within some markets may be affected by factors such as reluctance to adopt new technologies and by changes in government regulations.
+   Backlog
+
+   Based on projected commitments we have for the periods under contract with our respective customers, we anticipate our current contracts as of December 31, 2022, will generate a minimum of $44 million in future revenue, compared to $29 million as of December 31, 2021. The increase is largely related to the structure of our contract with the Central Banks, the addition of backlog from EVRYTHNG post acquisition, and new commercial contracts signed during the year. We expect approximately $24 million of the $44 million to be recognized as revenue during 2023. 
+
+
+   Some factors that lead to increased backlog include: 
+
+
+• | contracts with new customers;
+--+------------------------------
+
+
+• | renewals with current customers;
+--+---------------------------------
+
+
+• | add-on orders with customers; and
+--+----------------------------------
+
+
+• | contracts with longer contractual periods replacing contracts with shorter contractual periods.
+--+------------------------------------------------------------------------------------------------
+
+ 
+Some factors that lead to decreased backlog include:
+ 
+
+• | recognition of revenue associated with existing backlog;
+--+---------------------------------------------------------
+
+
+• | contracts with shorter contractual periods replacing contracts with longer contractual periods;
+--+------------------------------------------------------------------------------------------------
+
+
+• | modifications to existing contracts;
+--+-------------------------------------
+
+
+• | contract minimum payments ending; and
+--+--------------------------------------
+
+
+• | expiration of contracts with existing customers.
+--+-------------------------------------------------
+
+     3 
+
+  
+
+The mix of these factors, among others, dictates whether our backlog increases or decreases for any given period. Our backlog may not result in actual revenue in any particular period, because the orders, awards and contracts included in our backlog may be subject to modification, cancellation or suspension. We may not realize revenue on certain contracts, orders or awards included in our backlog, or the timing of any realization may change.
+ 
+   Human Capital Resources and Management
+
+   Employees and Labor Relations
+
+   At December 31, 2022, we had 277 full-time employees, including 101 in sales, marketing, product, operations and customer support; 133 in research, development and engineering; and 43 in finance, administration, information technology, intellectual property and legal. 
+ 
+   Our employees are not covered by any collective bargaining agreement, and we have never experienced a work stoppage. We believe that our relations with our employees are good. Voluntary employee turnover was 14% and 9% for the years ended December 31, 2022, and 2021, respectively. The increase in voluntary employee turnover was largely driven by a more competitive labor market. 
+ 
+Values
+ 
+Culture is critically important to Digimarc’s success. We incorporate our core values in daily interactions with colleagues, customers, vendors and other stakeholders. Our core values are embodied in the words Collaborative, Curious and Courageous.
+
+Digimarc Values
+---------------
+ | Collaborative | Curious | Courageous 
+We: | Ask for help Prioritize mentoring Build trust and transparency | Support innovative thinking Continuously seek clarity Listen to our stakeholders | Challenge our own biases Cultivate collective experiences Seek out and support ideas
+We Do Not: | Avoid difficult conversations | Lose sight of our purpose | Assume we have all the answers 
+
+ 
+Digimarc follows a Purposeful Working approach which enables teams to determine the right balance of working between home and office locations, taking into consideration both the company and departmental needs, and those of our staff.
+ 
+Diversity, Equity and Inclusion
+ 
+We strive to create an environment where innovative ideas can flourish by demonstrating respect for each other and valuing the diverse opinions, backgrounds and viewpoints of our employees. We are committed to innovation and representing diversity in a myriad of ways, including race, color, national origin, ethnicity, gender, gender identity, sexual orientation, marital status, familial status, age, religion, expunged juvenile record, military or veteran status, physical or mental disability, and/or any other characteristic protected by law.  This applies to decisions involving talent acquisition, hiring, job placement, transfer, promotion, compensation, benefits, training and company-sponsored programs. We believe that diversity is a competitive asset. We believe that diversity in our teams leads to new ideas, helps us solve problems and allows us to better connect with our global customer base.
+ 
+We have taken specific actions to continue to foster DEI in our culture, including transparency that we believe will lead to greater inclusion and innovation. Actions we have taken to promote DEI include the adoption of the Digimarc Methodology for organizational health, all-employee meetings, employee resource groups, flexible work policies, diverse recruiting partners and fireside chats with our Chief Executive Officer. Additionally, we have implemented learning resources, like unconscious bias in interviewing, DEI training and workplace harassment training to support the acquisition of the skills and behaviors expected from our employees. Digimarc provides reasonable accommodation for qualified individuals with disabilities, for employee’s religious practices or needs, and for pregnancy-related needs.
+ 
+In 2021, we identified DEI specifically, and human capital management more broadly, as one of our most material ESG impacts under the People pillar of our ESG Framework. To further structure our approach to DEI, we assigned accountability and responsibility for this topic at various levels of our Human Resources organization, in line with our integrated ESG approach. Our Board of Directors also plays an important role in our DEI efforts. The Governance, Nominating, and Sustainability Committee oversees the Company’s ESG efforts and works closely with the Compensation and Talent Management Committee which oversees human capital management and DEI programs.
+ 
+Compensation and Benefits
+ 
+Our compensation program is designed to support, reinforce, and align our values, DEI initiatives, business strategy, and operational and financial goals of profitable growth and appreciation of our company’s value in the public equity markets.
+ 
+Digimarc’s compensation program is designed to pay all our employees fairly for their performance and contributions. We do this by balancing a wide variety of important internal and external factors aligned to our company culture and values. Compensation and benefits are reviewed against the market annually, at a minimum.
+ 
+We strive to provide a base salary and restricted stock units that are competitive with the market and compensate above market for outstanding performance. The Company uses restricted stock units to incentivize employees that contribute to the strategic goals of the company and drive company value. Performance stock units are used with our executive management team and are awarded based upon delivering established financial and strategic goals. Equity incentive compensation promotes a sense of ownership and reinforces our philosophy that all employees are valued shareholders in the long-term success of the business. In alignment with our company culture, we strive to communicate openly about the objectives of the company and the design of the compensation program. The compensation process is intended to be fair so that all employees and managers understand the goals and the outcomes of the process.
+ 
+    4 
+
+  
+
+Digimarc recognizes a fair compensation program is a key component of diversity, equity, and inclusion. We are committed to administering the compensation program in a manner that is transparent, consistent, and free of discrimination. We post salary ranges for new positions and do not ask for the previous salary history of our candidates. We promote internal mobility and commit to transparency in how we level and promote our employees.
+ 
+At Digimarc, we believe that employees require time to balance the many needs of their life, both at work and outside of work. Our policies for Paid Time Off (“PTO”) are designed to provide employees with time off for vacation, sick days, or other personal reasons. Full time employees at the exempt level in the U.S. are eligible for the Self-Managed PTO program. Non-exempt and part-time U.S. employees are eligible for the Granted PTO program. Under the Self-Managed PTO program, exempt employees are not subject to a specific limit on the amount of time off. 
+ 
+We support our communities by providing focused outreach and support through our community outreach matching program, which matches donations made by our employees to their charities of choice.
+ 
+Learning and Development
+ 
+We invest resources to develop the talent needed to remain at the forefront of innovation. We have a performance management system to support continuous learning and development. Through frequent anonymous surveys, employees can voice their perceptions of the Company and their work experience, including learning and development opportunities. We have strong participation in our surveys and engage our managers to respond to areas that employees have identified as needing improvement or given low scores.
+ 
+We support training and development programs for our employees through tuition reimbursement, online training programs such as Digimarc University, LinkedIn Learning, conferences, seminars, on-the-job training, and skill certifications. We also encourage and foster onsite training programs and mentoring. 
+ 
+Health, Safety and Wellness
+ 
+We are committed to a safe and drug-free workplace. We continually invest in programs designed to improve physical, mental, and social well-being. We provide access to a variety of innovative, flexible, and convenient health and wellness programs, for our employees and their families. We offer a wellness program through Regence Empower that currently has a 45% participation rate, which is an increase of 10% over the prior year. 
+Governance and Oversight
+ 
+The executive management team is entrusted with developing and advancing our key human capital strategy, which is reviewed with the Board of Directors. The Chief People Officer is charged with developing and stewarding this strategy on a company-wide basis. This incorporates a broad range of dimensions, including culture, values, labor and employee relations, leadership capabilities, performance management and total rewards. DEI are key to successfully achieving business and organizational objectives. Key processes include ongoing performance and development feedback, diversity, equity and inclusion reviews, and periodic engagement surveys that are reviewed by management and the Board of Directors. All employees have access to resources on topics regarding integrity, our code of conduct, diversity, compliance, and workplace harassment. Employees are encouraged to address any concerns through multiple channels, including anonymously whenever possible, without fear of retaliation or retribution.
+Available Information
+ 
+We make available free of charge through our website at http://www.digimarc.com/about/investors our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to these and other reports filed or furnished by us pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after we file these materials with the Securities and Exchange Commission (the “SEC”).
