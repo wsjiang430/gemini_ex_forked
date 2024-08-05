@@ -1,0 +1,45 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item Number | Page(s) 
+Part I | | | 
+Item 1. | Business | | 4-5, 12-35, 43-44
+Item 1A. | Risk Factors | | 79-86 
+Item 1B. | Unresolved Staff Comments | | Not applicable 
+Item 2. | Properties | | 4 
+Item 3. | Legal Proceedings | | 86-88 
+Item 4. | Mine Safety Disclosures | | 68 
+Part II | | | 
+Item 5. | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities | | 7, 78 
+Item 6. | Selected Financial Data | | 78 
+Item 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | | 5-77 
+Item 7A. | Quantitative and Qualitative Disclosures About Market Risk | | 47-49, 146-149 
+Item 8. | Financial Statements and Supplementary Data | | 93-165 
+Item 9. | Changes in and Disagreements With Accountants on Accounting and Financial Disclosure | | Not applicable 
+Item 9A. | Controls and Procedures | | 90 
+Item 9B. | Other Information | | Not applicable 
+Part III | | | 
+Item 10. | Directors, Executive Officers and Corporate Governance | | 166 
+Item 11. | Executive Compensation | | (a) 
+Item 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters | | (b), 141 
+Item 13. | Certain Relationships and Related Transactions, and Director Independence | | (c) 
+Item 14. | Principal Accountant Fees and Services | | (d) 
+Part IV | | | 
+Item 15. | Exhibits and Financial Statement Schedules | | 167-170 
+Item 16. | Form 10-K Summary | | Not applicable 
+Signatures | | 172
+
+
+(a) | Incorporated by reference to “Compensation” in the 2019 Proxy Statement.
+
+
+(b) | Incorporated by reference to “Stock Ownership Information” in the 2019 Proxy Statement.
+
+
+(c) | Incorporated by reference to “Related Person Transactions” and “How We Assess Director Independence” in the 2019 Proxy Statement.
+
+
+(d) | Incorporated by reference to “Independent Auditor Information” in the 2019 Proxy Statement.
+
+GE 2018 FORM 10-K 171
+

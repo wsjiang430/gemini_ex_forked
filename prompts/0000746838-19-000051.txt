@@ -1,0 +1,102 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+General
+Unisys Corporation, a Delaware corporation (“Unisys,” “we,” “our,” or the “company”), is a global information technology (“IT”) company that builds high-performance, security-centric solutions for clients across the Government, Financial Services and Commercial markets. Unisys offerings include security software and services; digital transformation and workplace services; industry applications and services; and innovative software operating environments for high-intensity enterprise computing. 
+We operate in two business segments – Services and Technology. 
+Principal Products and Services
+We deliver high-performance, security-centric, leveraged services across industries, industry-specific application products and technology solutions worldwide to our primary target markets: Government (the U.S. federal government and other public sector organizations around the world), Commercial (e.g., travel and transportation and life sciences and healthcare) and Financial Services (e.g., commercial and retail banking). 
+Our solutions are designed to build better outcomes - securely - for our clients, enabling them to:
+
+• | Enhance enterprise security;
+
+
+• | Transform core business processes to compete more effectively in their markets;
+
+
+• | Improve user engagement for customers and workers, streamline operations and enhance go-to-market efforts;
+
+
+• | Optimize IT infrastructure to meet digital-business requirements; and
+
+
+• | Simplify management of IT infrastructure and service delivery.
+
+Within Services, our principal solutions include cloud and infrastructure services, application services and business process outsourcing services, each of which is delivered with advanced security built in.
+
+• | In cloud and infrastructure services, we help clients apply cloud and as-a-service delivery models to capitalize on business opportunities, make their end users more productive and manage and secure their IT infrastructure and operations more economically.
+
+
+• | In application services, we help clients transform their business processes by developing and managing new leading-edge applications for select industries, offering advanced data analytics and modernizing existing enterprise applications.
+
+
+• | In business process outsourcing services, we assume management of critical processes and functions for clients in target industries, helping them improve performance and reduce costs.
+
+In Technology, we design and develop software and offer hardware and other related products to help clients improve security and flexibility, reduce costs and improve the efficiency of their data-center environments. As a pioneer in large-scale computing, we offer deep experience and rich technological capabilities in transaction-intensive, mission-critical operating environments. We provide a range of data-center, infrastructure management and cloud computing offerings to help clients virtualize and automate their data-center environments. 
+Our Technology products include:
+
+• | Unisys ClearPath Forward®, a secure, scalable software operating environment for high-intensity enterprise computing capable of delivering Unisys security across multiple platforms. The ClearPath Forward operating environment is hardware-independent and provides a tested, integrated stack of software products that run on a range of contemporary, commonly-deployed Intel x86 server platforms and select virtualization environments of the client’s choice.
+
+
+• | Unisys Stealth® security software, which enables trusted identities to access micro-segmented critical assets and safely communicate through secure, encrypted channels. Stealth™ establishes irrefutable user authentication, prevents lateral attacker movement and reduces data center, mobile and cloud attack surfaces. Stealth also reduces the cost and complexity of securing information and operation technology such as industrial control systems, allowing organizations to meet compliance and security mandates.
+
+5
+
+Our industry application products include solutions that securely help law enforcement agencies solve crime and social services case workers assist families; travel and transportation companies manage freight and distribution; life sciences and healthcare companies manage medical devices; and financial institutions deliver omnichannel banking.
+We market our security-centric solutions primarily through a direct sales force. Complementing our direct sales force, we make use of a select group of resellers and alliance partners to market our services and product portfolio. In certain foreign countries, we market primarily through distributors. 
+Materials
+Unisys purchases components and supplies from a number of suppliers around the world. For certain Technology products, we rely on a single or limited number of suppliers, although we make every effort to assure that alternative sources are available if the need arises. The failure of our suppliers to deliver components and supplies in sufficient quantities and in a timely manner could adversely affect our business. For more information on the risks associated with purchasing components and supplies, see “Risk Factors” (Part I, Item 1A of this Form 10-K). 
+Patents, Trademarks and Licenses
+As of January 31, 2019, Unisys owns over 615 active U.S. patents and over 50 active patents granted in twelve non-U.S. jurisdictions. These patents cover systems and methods related to a wide variety of technologies, including, but not limited to, information security, cloud computing, virtualization, database encryption/management and user interfaces. We have granted licenses covering both single patents, and particular groups of patents, to others. Likewise, we have active licensing agreements granting us rights under patents owned by other entities. However, our business is not materially dependent upon any single patent, patent license, or related group thereof.
+Unisys also maintains 28 U.S. trademark and service mark registrations, and over 540 additional trademark and service mark registrations in over 80 non-U.S. jurisdictions as of January 31, 2019. These marks are valuable assets used on or in connection with our services and products, and as such are actively monitored, policed and protected by Unisys and its agents.
+Seasonality
+Our revenue is affected by such factors as the introduction of new services and products, the length of sales cycles and the seasonality of purchases. Seasonality has generally resulted in higher fourth quarter revenues than in other quarters.
+Customers
+No single client accounted for more than 10% of our revenue in the year ended December 31, 2018. Sales of commercial services and products to various agencies of the U.S. government represented approximately 20% of total consolidated revenue in 2018. For more information on the risks associated with contracting with governmental entities, see “Risk Factors” (Part I, Item 1A of this Form 10-K).
+Backlog
+In the Services segment, firm order backlog at December 31, 2018 was $4.8 billion, compared to $4.3 billion at December 31, 2017. Approximately $1.9 billion (40%) of 2018 backlog is expected to be converted to revenue in 2019. Although we believe that this backlog is firm, we may, for commercial reasons, allow the orders to be cancelled, with or without penalty. In addition, funded government contracts included in this backlog are generally subject to termination, in whole or part, at the convenience of the government or if funding becomes unavailable. In such cases, we are generally entitled to receive payment for work completed plus allowable termination or cancellation costs.
+Because of the relatively short cycle between order and shipment in our Technology segment, we believe that backlog information for this segment is not material to the understanding of our business.
+Competition
+Our business is affected by rapid change in technology in the information services and technology industries and aggressive competition from many domestic and foreign companies. Principal competitors are systems integrators, consulting and other professional services firms, outsourcing providers, infrastructure services providers, computer hardware manufacturers and software providers. We compete primarily on the basis of service, product performance, technological innovation, and price. We believe that our continued focused investment in engineering and research and development, coupled with our sales and marketing capabilities, will have a favorable impact on our competitive position. For more information on the competitive risks we face, see “Risk Factors” (Part I, Item 1A of this Form 10-K).
+6
+
+Environmental Matters
+Our capital expenditures, earnings and competitive position have not been materially affected by compliance with federal, state and local laws regulating the protection of the environment. Capital expenditures for environmental control facilities are not expected to be material in 2019 and 2020.
+Employees
+At December 31, 2018, we employed approximately 22,000 employees serving clients around the world.
+Available Information
+Our Investor web site is located at www.unisys.com/investor. Through our web site, we make available, free of charge, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as soon as reasonably practicable after this material is electronically filed with or furnished to the U.S. Securities and Exchange Commission (the “SEC”). We also make available on our web site our Guidelines on Significant Corporate Governance Issues, the charters of the Audit and Finance Committee, Compensation Committee, and Nominating and Corporate Governance Committee of our board of directors, and our Code of Ethics and Business Conduct. This information is also available in print to stockholders upon request. We do not intend for information on our web site to be part of this Annual Report on Form 10-K.
+7
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+Information concerning the executive officers of Unisys as of February 15, 2019 is set forth below.
+
+Name | Age | Position with Unisys 
+Peter A. Altabef | 59 | Chairman, President and Chief Executive Officer 
+Katie Ebrahimi | 49 | Senior Vice President and Chief Human Resources Officer 
+Vishal Gupta | 47 | Senior Vice President, Technology, and Chief Technology Officer
+Eric Hutto | 54 | Senior Vice President and President, Enterprise Solutions 
+Gerald P. Kenney | 67 | Senior Vice President, General Counsel and Secretary 
+Venkatapathi R. Puvvada | 58 | Senior Vice President and President, Unisys Federal 
+Jeffrey E. Renzi | 58 | Senior Vice President and President, Global Sales 
+Ann S. Ruckstuhl | 56 | Senior Vice President and Chief Marketing Officer 
+Inder M. Singh | 60 | Senior Vice President and Chief Financial Officer 
+Shalabh Gupta | 57 | Vice President and Treasurer 
+Michael M. Thomson | 50 | Vice President and Corporate Controller 
+
+There is no family relationship among any of the above-named executive officers. The By-Laws provide that the officers of Unisys shall be elected annually by the Board of Directors and that each officer shall hold office for a term of one year and until a successor is elected and qualified, or until the officer’s earlier resignation or removal.
+Mr. Altabef is President and Chief Executive Officer and is a member and Chairman of the Board of Directors. Prior to joining Unisys in 2015, Mr. Altabef was the President and Chief Executive Officer, and a member of the board of directors, of MICROS Systems, Inc. from 2013 through 2014, when MICROS Systems, Inc. was acquired by Oracle Corporation. He previously served as President and Chief Executive Officer of Perot Systems Corporation from 2004 until 2009, when Perot Systems was acquired by Dell, Inc. Thereafter, Mr. Altabef served as President of Dell Services (a unit of Dell Inc.) until his departure in 2011. Mr. Altabef also serves on the President’s National Security Telecommunications Advisory Committee, the Board of Directors of NiSource Inc. and Petrus Trust Company, L.T.A., the Board of the East West Institute and the Board of Advisors of Merit Energy Company, LLC. He previously served as Senior Advisor to 2M Companies, Inc. in 2012, and served as a director of Belo Corporation from 2011 through 2013. Mr. Altabef has been an officer since 2015.
+Ms. Ebrahimi has been Senior Vice President and Chief Human Resources Officer since April 2018. Ms. Ebrahimi served as Vice President of Human Resources, Global Delivery at DXC Technology from 2017 to 2018 prior to joining Unisys. From 2015 to 2017, she was Vice President of Human Resources, Enterprise Services, Global Practices & Solutioning for Hewlett-Packard Enterprise. She also served in increasingly senior roles with Cisco Systems, Inc. (2009-2015), Sun Microsystems, Inc. (2000-2009) and McAfee, LLC. Ms. Ebrahimi has been an officer since April 2018.
+Mr. Vishal Gupta has been Senior Vice President, Technology, and Chief Technology Officer since July 2018. Prior to joining Unisys, he served as Senior Vice President, Engineering at Symantec Corporation from 2015 to 2018. Prior to his tenure at Symantec, from 2014 to 2015, Mr. Gupta was Chief Product and IoT Officer for Silent Circle, a cybersecurity and privacy company in the mobile communications space. He has also held senior leadership roles with Cisco Systems (2006-2014), Metasolv Software (2002-2006), Nortel Networks (1996-2002) and Mercer Management Consulting (1994-1996). Mr. Gupta has been an officer since July 2018.
+Mr. Hutto has been Senior Vice President and President, Enterprise Solutions since 2015, after joining Unisys earlier in that year as Vice President and General Manager, U.S. and Canada, Enterprise Solutions. Prior to joining Unisys, Mr. Hutto held senior leadership positions with Dell Services (a unit of Dell Inc.) (2006-2015), serving most recently as Global Vice President/General Manager, Infrastructure, Cloud and Consulting and Vice President/General Manager, Americas. Mr. Hutto has been an officer since 2015.
+Mr. Kenney has been Senior Vice President, General Counsel and Secretary since 2013. Prior to joining Unisys, he had been with NEC Corporation of America, the North American subsidiary of global technology company NEC Corporation, since 1999, serving most recently as Senior Vice President, General Counsel and Corporate Secretary (2004-2013). Mr. Kenney has been an officer since 2013.
+Mr. Puvvada has been Senior Vice President and President, Federal Systems since 2015. Mr. Puvvada had been serving as acting President of Federal Systems since 2014. Prior to that time, he served as group Vice President for the Unisys federal civilian agency business since 2010. From 2005 to 2010, he was Managing Partner and Chief Technology Officer for Unisys Federal Systems. Previously, Mr. Puvvada held various management positions since joining Unisys in 1992. Mr. Puvvada has been an officer since 2015.
+8
+
+Mr. Renzi has been Senior Vice President and President, Global Sales since 2014. Prior to joining Unisys, Mr. Renzi was Senior Vice President, Sales & Marketing, at Arise Virtual Solutions (2012-2013). From 2009 to 2012, Mr. Renzi held key sales and service management roles at Dell Corporation. From 2003 to 2009, Mr. Renzi served as Executive Vice President, Global Sales and Marketing, Alliances & Procurement, at Perot Systems. Prior to Perot Systems, he held a variety of sales leadership and individual sales contributor roles at Electronic Data Systems from 1989 to 2003. Mr. Renzi has been an officer since 2014.
+Ms. Ruckstuhl has been Senior Vice President and Chief Marketing Officer since 2016. Prior to joining Unisys, she had been the Chief Marketing Officer at SOASTA, Inc., a digital performance management platform provider acquired by Akamai Technologies, Inc., from 2015 to 2016. Previously, Ms. Ruckstuhl was the Chief Marketing Officer at Live Ops (2012-2015), and head of marketing at Symantec’s NortonLive Services (2009-2011). She has also held marketing leadership positions with several other technology companies including Sybase, Inc., eBay, Inc. and Hewlett-Packard. Ms. Ruckstuhl has been an officer since 2016.
+Mr. Singh has been Senior Vice President and Chief Financial Officer since 2016. He joined Unisys as Senior Vice President, Chief Marketing and Strategy Officer earlier that year. Prior to joining Unisys, he had been a Managing Director focusing on the technology, media and telecommunications sectors at SunTrust Robinson Humphrey, Inc. from 2014 to 2016. Previously, Mr. Singh served as Senior Vice President, Strategy and Finance for Comcast Corporation from 2012 to 2014 and as Vice President, Corporate Financial Strategy at Cisco Systems from 2009 to 2012. He has held other leadership roles at Cisco Systems, Lehman Brothers, Prudential Securities, Lucent Technologies, Inc., AT&T Corporation, and the American Express Company. Mr. Singh has been an officer since 2016.
+Mr. Shalabh Gupta has been Vice President and Treasurer since 2017. Prior to Unisys, Mr. Gupta served as Vice President and Corporate Treasurer for Avon Products from 2012 until 2016. He also served as Treasurer for Evraz North America, Inc. (2011 - 2012) and held the roles of Senior Vice President and Corporate Treasurer (2007 - 2011), Vice President and Assistant Treasurer (2005 - 2007) and Managing Director, Capital Markets, Pensions, Foreign Exchange (2004 - 2005) at Sara Lee Corporation. Mr. Gupta also held treasury roles at Delphi Corporation and General Motors Corporation. Mr. Gupta has been an officer since 2017.
+Mr. Thomson has been Vice President and Corporate Controller since 2015. Prior to joining Unisys, Mr. Thomson served as Controller of Towers Watson & Co. from 2010 until 2015, and he previously held the same position at Towers Perrin from 2007 until the consummation of that firm’s merger with Watson Wyatt in 2010. He also served as principal accounting officer of Towers Watson from 2012 until October 2015. Prior to that, Mr. Thomson worked for Towers Perrin as Director of Financial Systems from 2001 to 2004 and then Assistant Controller from 2004 to 2007. Prior to joining Towers Perrin, Mr. Thomson was with RCN Corporation, where he served as Director of Financial Reporting & Financial Systems from 1997 to 2001. Mr. Thomson has been an officer since 2015.
+9
+

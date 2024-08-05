@@ -1,0 +1,231 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | BUSINESS
+
+We are a leading global provider of (i) versatile and high performance video delivery software, products, system solutions and services that enable our customers to efficiently create, prepare, store, playout and deliver a full range of high-quality broadcast and “over-the-top” (OTT) video services to consumer devices, including televisions, personal computers, laptops, tablets and smart phones and (ii) cable access solutions that enable cable operators to more efficiently and effectively deploy high-speed internet, for data, voice and video services to consumers.
+We operate in two segments, Video and Cable Access. Our Video business provides video processing and production and playout solutions and services worldwide to cable operators and satellite and telecommunications (telco) pay-TV service providers, which we refer to collectively as “service providers,” and to broadcast and media companies, including streaming media companies. Our Video business infrastructure solutions are delivered either through shipment of our products, software licenses or as software-as-a-service (“SaaS”) subscriptions. Our Cable Access business provides cable access solutions and related services, including our CableOS software-based cable access solution, primarily to cable operators globally.
+Across our two business segments, we derived approximately 54% of our revenue from the Americas in 2018. The Europe, Middle East and Africa (EMEA) and Asia Pacific (APAC) regions accounted for 27% and 19% of our 2018 revenue, respectively. 
+Harmonic was initially incorporated in California in June 1988, and was reincorporated in Delaware in May 1995. Our principal executive offices are located at 4300 North First Street, San Jose, California 95134. Our telephone number is (408) 542-2500. Our Internet website is http://www.harmonicinc.com. Other than the information expressly set forth in this Annual Report on Form 10-K, the information contained or referred to on our website is not part of this report.
+Industry Overview and Market Trends
+Video Business
+We believe our customers must continue to employ innovative technologies and services to address key trends in the dynamic video industry. 
+
+▪ | Demand for Video Services Anytime, Anywhere, on any Device. In our ubiquitous multiscreen video environment, video programming and content needs to be transformed into multiple formats, bit rates and resolutions for display on a broad range of devices. 
+
+
+▪ | Demand for High Quality Video. Consumer demand for high quality video anytime, anywhere and on any device requires ever-increasing bandwidth capacity in service providers’ networks, as well as technology that maximizes network bandwidth efficiency. With the advent of Ultra High Definition (Ultra HD) televisions and OTT services increasingly being rendered in “4K” high resolution and consuming approximately four times the bandwidth of traditional HD channels, we believe next generation compression technologies, such as High Efficiency Video Compression (HEVC) or advances in H.264/AVC codecs, as well as increasing requirements for HDR encoding, will continue to remain a high priority for distributors of video. 
+
+
+▪ | Streaming Video Service. Consumer demand for video download and streaming services from streaming media companies such as Netflix, Hulu, Google (YouTube), Amazon (Prime Video) and Apple (iTunes) continue to experience significant global growth. These and other similar services aggregate third-party and original content and stream video “over-the-top” (OTT) to any Internet-connected device utilizing Internet service providers’ networks at no incremental infrastructure cost to the consumer. 
+
+
+▪ | Time-Shifted Viewing. “Time-shifting” technologies include digital video recorders (DVRs), cloud and network DVRs (cDVR and nDVR) that allow a subscriber to store programming on the service provider’s servers or in the cloud, and video-on-demand (VOD) services. 
+
+In response to these trends and the success of OTT streaming media companies, as well as the growing trend of “cord-cutters” (i.e., consumers who cancel traditional pay-TV subscriptions in favor of streaming services), “cord-shavers” (i.e., consumers who switch to smaller bundles of pay-TV subscriptions) and “cord-nevers” (i.e., consumers who have never had a pay-TV subscription):
+4
+
+Table of Content
+
+
+• | service providers and broadcast and media companies continue to provide more of their own OTT streaming video services, including OTT streaming of live (or “linear”) television programming;
+
+
+• | we believe providers of these OTT services will continue to expand monetization opportunities with personalized and dynamic ad insertion, thereby expanding technological and infrastructure requirements;
+
+
+• | service providers are competing to offer higher quality video signals in HD, including evolving initiatives to deliver video in 4K Ultra HD resolution;
+
+
+• | service providers are developing and expanding their content delivery and Internet Protocol (IP) networks, and increasing the capacity and efficiency of their networks with investments in various delivery infrastructure technologies to, among other things, maximize video quality and minimize bandwidth utilization;
+
+
+• | service providers continue to consolidate to achieve greater economies of scale and subscriber concentration, and acquire media companies to expand their content libraries and capabilities to develop original content;
+
+
+• | service providers continue to enhance and differentiate their content offerings, either through in-house development of new content or through acquisitions of existing content brands; and
+
+
+• | service providers have an ongoing need, despite the migration of traffic to OTT, to provide services over their existing broadcast distribution infrastructures.
+
+We believe that the delivery of video over IP will continue to change traditional video viewing habits and distribution methods and alter the traditional advertising and subscription business models of major service providers.
+Our Video Markets
+Service Providers
+
+• | Cable Operators. Cable operators continue to focus on various initiatives to improve and differentiate their service offerings from competing service providers, including: bundled digital video, voice and high speed data services; expansion of VOD libraries and on-demand and streaming service offerings; upgraded consumer-facing applications; video delivery over IP to broadband enabled consumer devices; and capacity enhancement of high-speed data services. 
+
+
+• | Satellite Operators. Satellite operators around the world have established digital television services that serve tens of millions of subscribers, with the ability to provide tens of thousands of linear channels. We believe these linear services will continue to grow, particularly in emerging markets, while, in parallel, satellite operators launch new streaming services, such as Sling TV and DirecTV Now, to address younger generation viewers and new consumption habits. 
+
+
+• | Telcos. Telcos have established video offerings to successfully compete in the video marketplace, including high-quality HD content, larger VOD libraries, time-shifting television services, bundled voice, data and video packages and, more recently, streaming services. In many cases, telcos are making significant infrastructure investments to expand their video offerings into IP services and gain market share, while certain telcos are also acquiring satellite and/or cable companies to achieve market reach and scale. 
+
+Broadcast and Media Companies
+
+• | Network broadcasters, programmers and content owners require video contribution and distribution solutions to transmit live programming of news and sports to their studios for subsequent broadcast, and deliver the same programming and content to service providers for distribution to their subscribers. Broadcasters generally produce their own news and sports highlight content, along with hundreds of channels of network programming that is played-to-air under strict reliability requirements using playout servers and software.
+
+
+• | With broadcast and media companies continuing to expand their offerings to support a wide range of live and linear content and making content available in higher quality video formats and on-demand, we believe these trends are accelerating demand for functionally collapsed playout systems with integrated media orchestration software, as well as increasing demand for media servers and video-optimized storage solutions equipped to support higher resolution formats. In addition, in order to achieve faster time-to-market and reduce operational costs, we believe content providers are adopting cloud-based technologies and transitioning portions of their operations into public cloud environments, thereby enabling expanded services at a more rapid pace, the distribution of video directly to consumers or to distributors over IP and public networks, and more efficient and scalable global operations. 
+
+5
+
+Table of Content
+
+
+• | In the terrestrial broadcasting market, while broadcasters in various countries that have not yet completed converting from analog to digital transmission continue with change-over efforts, operators in numerous other countries around the world are adopting the next generation of digital transmission technologies, such as the DVB-T2 standard and ATSC 3.0 standards. The ongoing conversion from analog to digital transmission and the adoption of next-generation transmission standards provides the opportunity to deliver new channels, HD and Ultra HD services, premium content, and interactive services.
+
+Over-the-Top (OTT)
+
+• | According to a 2017 Cisco study, IP video traffic accounts for a significant majority of Internet traffic globally, and video traffic will only continue to increase for the foreseeable future. We believe service providers and broadcast and media companies with OTT services and offerings will continue to require high-quality video processing solutions and new technologies in order to process and distribute large amounts of live and VOD content from a wide variety of sources to a broad array of consumer devices, and to optimize adaptive bitrate video streaming quality and bandwidth utilization. 
+
+
+• | With the continued proliferation of OTT streaming content and program channels similar to channels currently available from service providers, monetizing this content through the use of national, regionalized and personalized advertising delivered to the varied devices of individual viewers has become a key area of focus for companies with OTT offerings. We believe OTT ad insertion and other related content customization solutions will continue to attract increased investments from OTT companies.
+
+Emerging Markets
+
+• | With a growing middle class across emerging markets, we believe the Pay-TV business will continue to grow for the foreseeable future in the Asia Pacific region, South Asia, the Middle East, Africa and Central and South America. We currently derive a meaningful portion of our revenue from countries in emerging markets.
+
+
+• | Many consumers who are entering the middle class are now able to afford a monthly video service to gain access to their favorite programs and movies. We believe some of the leading video service providers serving emerging markets will experience high subscriber growth rates and may become worldwide industry leaders. 
+
+
+• | We believe subscribers in these markets will demand increasingly sophisticated video services over time as consumer consumption trends in these markets track to those in more developed markets. A growing number of new regional OTT entrants in emerging markets, where global brands such as Netflix and Amazon’s Prime Video are less dominant, are delivering a variety of OTT services and experiencing rapid growth. As a result, we believe that the infrastructure and technology investments of these service providers and new market entrants are likely to grow significantly for the foreseeable future.
+
+
+• | Media companies addressing emerging markets are aggressively investing in the creation of new content, particularly content that is localized and responsive to consumer demands, with the goal of creating strong brands and a growing, loyal customer base. We believe that this growth in content creation will require these media companies to significantly increase their capabilities in video storage, processing and related technologies.
+
+Video Infrastructure Technology Trends 
+
+• | Network Function Virtualization. We believe the industry will continue to adopt network function virtualization and unified video processing systems, whereby what had been historically discrete hardware video processing functions are integrated into software and run on the latest Intel processors in order to leverage high-performance and scalable appliance-based hardware, and as software-only virtual instances designed to run on private and/or public cloud environments. 
+
+
+• | Unified Video Playout & Processing Systems. A unified video processing system requires software-based channel origination and playout capabilities, with integrated functionality such as graphics and branding insertion and media orchestration, and an integrated control system that streamlines playout processes, improves video quality, enables time-shift and cDVR functionality, while reducing server overhead. Also, when playout functionality is deployed to the cloud, the compression and OTT packaging and origin functionality (in addition to the capability to distribute over traditional broadcast distribution networks) associated with the playout will necessarily also need to be deployed in the cloud. 
+
+
+• | By combining historically discrete video chain functions into a unified playout and distribution system where content can be ingested, formatted, stored, played-to-air and compressed, packaged and delivered, we believe functionally collapsed video playout infrastructures with integrated control systems will enable content providers
+
+6
+
+Table of Content
+
+to produce more channels in higher resolution formats faster and more cost-effectively, and provide content in the widest possible range of formats. 
+
+• | Outsourcing of Video Infrastructure Functionality. We believe there is industry momentum for shifting virtualized and unified video processing infrastructure from broadcast center or production facilities to third party SaaS offerings hosted on public cloud infrastructure. We believe this transition enables media companies and new OTT entrants to more rapidly adapt to market dynamics, utilize A/B testing methodologies to optimize service offerings and expand within and beyond core markets. 
+
+Cable Access Business 
+Industry Challenges
+Cable operators continue to face challenges from the rapid growth of demand for broadband bandwidth in their networks, driven primarily by:
+
+• | more users with more connected devices and applications;
+
+
+• | bundled digital video, voice and high speed data services; and
+
+
+• | bandwidth-intensive VOD and OTT streaming video services, and cloud applications.
+
+In addition, the operation of network infrastructure is space, power and personnel intensive. Hardware-centric networks can also be expensive to update or replace. To remain competitive, especially in the face of heightened competition from non-cable service providers such as telcos to deliver gigabit data rates, cable operators need to significantly upgrade existing equipment and network technologies.
+Technology Trends
+
+• | DOCSIS 3.1. We believe the cable industry will continue to deploy the DOCSIS 3.1 standard, which enables high bandwidth data transfer over existing broadband infrastructure. 
+
+
+• | Virtualization. We believe cable operators are moving toward more software-driven architectures. Virtualized software solutions that are decoupled from underlying hardware and run on commercial off-the-shelf (COTS) servers and/or cloud architectures allow for significantly increased efficiencies, upgradability, configuration flexibility, service agility and scalability not feasible with hardware-centric approaches. We believe a software-based cable access solution can significantly reduce cable headend costs, especially costs related to physical space and power consumption, and increase operational efficiency, and that the deployment of these systems will be an important step in cable operators’ transition to all-IP networks. 
+
+
+• | Distributed Access Architecture. In addition to centralized cable access solutions, we believe there is growing interest in distributed Remote PHY solutions, particularly in competitive gigabit service markets where cable operators are competing with fiber-to-the-home (FTTH) services and are extending fiber networks deeper into their access networks. A Remote PHY architecture coupled with a software-based cable access solution running on COTS servers at a headend, and the distribution of Remote PHY nodes closer to end users, alleviates the power and space requirements of centralized systems at headend sites due to the fact that the RF processing is distributed into the field outside of the headend. We believe this distributed architecture will enable service providers to efficiently scale to support data and IP video growth. 
+
+Our Products and Solutions
+Video Processing and Delivery Solutions
+We offer a range of products and solutions that address the demand and market trends shaping our industry, including next-generation software-based media processing platforms. Our video processing solutions, which include network management software and application software and hardware products, provide our customers with the ability to acquire a variety of signals from different sources and in different protocols in order to deliver a variety of real-time and stored content to their subscribers for viewing on a broad range of devices.
+Cloud media processing.  An increasing number of service providers and media professionals are looking to cloud-based architectures for their media processing workflows, which is a fundamental shift from traditional, hardware-based approaches. We have addressed, and continue to address, this changing landscape with our VOS Cluster software application, which transforms traditional video processing and delivery architectures into a fully integrated set of cloud-native functions and enables ease of migration between data center computing, public clouds and private clouds, thereby accelerating the time to 
+7
+
+Table of Content
+
+market for new broadcast and OTT services. Our VOS360 offering provides these same capabilities in a public cloud environment, and maintenance operations of the VOS Cluster are the responsibility of Harmonic.
+Broadcast and OTT encoders.  Our high-performance encoders compress video, audio and data channels to low bit rates while maintaining high video quality. Our latest software-based Electra encoders can deliver video in multiple formats, including standard, HD and Ultra HD, and in any video compression standard, including MPEG-2, MPEG-4 AVC and HEVC. This capability allows the encoders to converge workflows targeted for all forms of video delivery, whether broadcast, cable, satellite, IPTV or OTT. Today’s Electra and VOS solutions all leverage the same Harmonic PURE Compression Engine, a software-based technology that incorporates many of the encoding algorithm and processing techniques developed by Harmonic over the past two decades. The benefits of the PURE Compression Engine include a faster rate of video quality innovation, the ability to dynamically balance workflow efficiency and resource utilization, and improved investment protection. Our EyeQ real-time content-aware encoding solution is an optional enhancement for systems featuring PURE Compression. The EyeQ compression solution leverages the mechanics of the human eye to assess video quality and optimize encoding parameters in real time. Our VOS Cluster software application supports a subset of broadcast and OTT encoding functionality.
+Contribution encoders.  Our ViBE contribution encoders provide broadcasters with video compression solutions for real-time news gathering, live sports coverage and other remote events, and enable our customers to deliver these feeds to their studios for further processing. Our latest models can encode HD and Ultra HD video signals in HEVC or AVC 4:2:2 10-bit resolution, enabling the transmission of very high-quality video with very low latency.
+High-density transcoders and stream processing.  We offer high-density, real-time transcoding of video for broadcast and OTT delivery with our Electra XT Xtream transcoder. This modular and scalable platform is designed to cost effectively transcode any incoming audio and video signal at a “good enough” video quality. Our latest ProStream X and ProStream XVM real-time stream processing systems are software-based and provide high-performance, high-throughput processing for mission-critical IP video delivery applications, including multiplexing, scrambling, splicing and blackout switching. Our VOS Software Cluster software application supports stream processing.
+Multiscreen delivery.  Our VOS Cluster software application enables the packaging and delivery of high-quality OTT services, including live streaming, VOD, catch-up TV, start-over TV, nDVR and cDVR services through hypertext transfer protocol (HTTP) streaming to any device. Capabilities include real-time and file-based transcoding, stream packaging, and multiscreen workflow management, as well as support for digital rights management (DRM) processes with a number of DRM partners. Our VOS Cluster application ingests transcoded, segmented and encrypted output from Electra systems to provide high-volume live adaptive bitrate streaming and the delivery of time-shifted services. 
+Decoders and descramblers. Our family of ProView integrated receivers-decoder (IRD) products allows service providers to acquire content delivered via satellite, IP or terrestrial networks for distribution to their subscribers. These products, including the ProView 7100 and ProView 8100 series, are used by broadcasters to decode signals backhauled from live news and sporting events in contribution applications, as well as by content owners looking to distribute their content in a controlled manner to a large base of video service providers. Our VOS Cluster software applications support a subset of these decoding and descrambling capabilities.
+Video servers.  Our video playout solutions, including media orchestration software, are based on scalable video servers used by broadcast and media companies to create and playout television channels. Our Spectrum family of video server systems are used by broadcast and media companies to create play-to-air television channels. Our customers typically use these video server products to record incoming content from either live feeds or from tapes, encoding that content in real-time into standard media files that are then stored in the server’s file system until the content is needed for playback as part of a scheduled playlist. Clips stored in the server are decoded in real-time and played-to-air according to a playout schedule in a frame-accurate, back-to-back manner to create a seamless television channel. Our Spectrum servers support SD, HD and Ultra HD programming, as well as many different media formats. Our Polaris media orchestration software solutions work with our Spectrum products and provide our customers with playout management and control tools for channel-in-a-box and integrated channel playout applications. Our VOS Cluster software application supports a subset of these video server functionalities.
+Video-optimized Storage
+MediaGrid. Our MediaGrid shared storage system is a scale-out, network-attached storage system with a built-in media file system optimized for media production workflows. Architected as a clustered storage system with a distributed file system, MediaGrid provides highly scalable storage capacity and access bandwidth to support demanding media production applications, such as video editing, content transformation and media library management. In addition, MediaGrid systems are increasingly being employed for VOD, time-shifted television services and OTT adaptive bitrate streaming. Our VOS Cluster 
+8
+
+Table of Content
+
+software application relies on external infrastructure for storage, and is compatible with MediaGrid video-optimized storage when deployed into a customer’s traditional data center environment.
+Unified Video Playout and Processing SaaS
+Cloud-native SaaS solutions. Our VOS360 SaaS solution provides the functionality of our VOS Cluster in public cloud environments and is designed to be deployable in any public cloud infrastructure. With the VOS360 service, the maintenance operations of the VOS Cluster are the responsibility of Harmonic.
+Cable Access Products and Solutions
+Software-Based Cable Access Solution. As demand continues to rapidly grow for high-speed broadband services such as OTT streaming, VOD, time-shift TV and cloud DVR, we believe we can help cable operators take advantage of this opportunity with our CableOS software-based cable access solution, an end-to-end cable access solution that we believe delivers unprecedented scalability, agility and cost savings. Our CableOS solution enables the migration to multi-gigabit broadband capacity and the fast deployment of DOCSIS 3.1 data, video and voice services. We believe our solution resolves space and power constraints in the headend and hub, eliminates dependence on hardware upgrade cycles, and reduces total cost of ownership. Our CableOS solution can be deployed based on a centralized, distributed Remote PHY or hybrid architecture.
+Edge QAM products. Our Narrowcast Services Gateway (NSG) products are fully integrated edge gateway products that integrate routing, multiplexing, scrambling and modulation into a single package for the delivery of narrowcast services to subscribers over cable networks. NSG systems allow cable operators to deliver IP signals from the headend to the edge of the network for subsequent modulation onto a HFC network. Originally developed for VOD applications, the NSG has evolved to support multiple applications, including switched digital video and modular CMTS applications, as well as large-scale VOD deployments.
+Since we historically have not addressed the CMTS market and 2018 was our first year of generating revenues in this new market, we believe that our CableOS solution, which includes a software-based CMTS, will have an opportunity to be sold into a significantly larger and growing market, with growth driven by virtualization and the distributed Remote PHY architecture.
+Technical Support and Professional Services 
+We provide maintenance and support services to most of our customers under service level agreements that are generally renewed on an annual basis. We also provide consulting, implementation and integration services to our customers worldwide. We draw upon our expertise in broadcast television, communications networking and compression technology to design, integrate and install complete solutions for our customers, including integration with third-party products and services. We offer a broad range of services, including program management, technical design and planning, building and site preparation, integration and equipment installation, end-to-end system testing and comprehensive training.
+Customers
+We sell our products to a variety of cable, satellite and telco, and broadcast and media companies. Set forth below is a representative list of our significant end user and integrator/reseller customers, listed alphabetically, based, in part, on revenue during 2018.
+
+United States | International 
+AT&T | Arquiva 
+Buckeye Cable | Bell TV 
+Charter Communications | Groupe Canal+ 
+Comcast | Netorium 
+Cox Communications | SCSK Corp. 
+DigitalGlue | Sky Italia 
+Dish Network | Sky Perfect JSAT Corp.
+GatesAir | Sony 
+Heartland Video Systems | Telecom Argentina 
+Turner Broadcasting | Vodafone 
+
+9
+
+Table of Content
+
+Sales to our 10 largest customers in 2018, 2017 and 2016 accounted for approximately 37%, 24% and 28% of our net revenue, respectively. Although we continue to seek to broaden our customer base by penetrating new markets and further expanding internationally, we expect to see continuing industry consolidation and customer concentration.
+During 2018, Comcast accounted for 15% of our net revenue. During 2017 and 2016, no single customer accounted for more than 10% of our net revenue. The loss of any significant customer, or any material reduction in orders from any significant customer, or our failure to qualify our new products with any significant customer could materially and adversely affect our operating results, financial condition and cash flows. In addition, we are involved in most quarters in one or more relatively large individual transactions. A decrease in the number of relatively larger individual transactions in which we are involved in any quarter could adversely affect our operating results for that quarter.
+Sales and Marketing
+In the U.S. and internationally, we sell our products through our own direct sales force, as well as through independent resellers and systems integrators. Our direct sales team is organized geographically and by major customers and markets to support customer requirements. Our principal sales offices outside of the U.S. are located in Europe and Asia, and we have a support center in Switzerland to support our international customers and operations. Our international resellers are generally responsible for importing our products and providing certain installation, technical support and other services to customers in their territory after receiving training from us. 
+Our direct sales force and resellers are supported by a highly trained technical staff, which includes application engineers who work closely with our customers to develop technical proposals and design systems to optimize system performance and economic benefits for our customers. Our technical support teams provide a customized set of services, as required, for ongoing maintenance, support-on-demand and training for our customers and resellers, both in our facilities and on-site.
+Our product management organization develops strategies for product lines and markets and, in conjunction with our sales force, identifies the evolving technical and application needs of customers so that our product development resources can be most effectively and efficiently deployed to meet anticipated product requirements. Our product management organization is also responsible for setting price levels, demand forecasting and general support of the sales force, particularly at major accounts. 
+Our corporate marketing organization is responsible for building awareness of the Harmonic brand in our markets and driving engagement with our strategies, solutions and products. The group develops all of our corporate messaging and manages all customer and industry communication channels, including public relations, Web and social media, events and trade shows, as well as demand generation marketing campaigns in conjunction with our sales force.
+Manufacturing and Suppliers
+We rely on third-party contract manufacturers to assemble our products and the subassemblies and modules for our products. In 2003, we entered into an agreement with Plexus Services Corp. to act as our primary contract manufacturer. Plexus currently provides us with a majority, of the products we purchase from our contract manufacturers. This agreement has automatic annual renewals, unless prior notice for nonrenewal is given, and has been automatically renewed for a term expiring in October 2019. We do not generally maintain long-term agreements with any of our contract manufacturers.
+Many components, subassemblies and modules necessary for the manufacture or integration of our products are obtained from a sole supplier or a limited group of suppliers. While we expend considerable efforts to qualify additional component sources, consolidation of suppliers in the industry and the small number of viable alternatives have limited the results of these efforts. We do not generally maintain long-term agreements with any of our suppliers.
+Intellectual Property
+As of December 31, 2018, we held 81 issued U.S. patents and 53 issued foreign patents and had 91 patent applications pending. Although we attempt to protect our intellectual property rights through patents, trademarks, copyrights, licensing arrangements, maintaining certain technology as trade secrets and other measures, we cannot assure you that any patent, trademark, copyright or other intellectual property rights owned by us will not be invalidated, circumvented or challenged, that such intellectual property rights will provide competitive advantages to us, or that any of our pending or future patent applications will be issued with the claims, or the scope of the claims, sought by us, if at all. We cannot assure you that others 
+10
+
+Table of Content
+
+will not develop technologies that are similar or superior to our technology, duplicate our technology or design around the patents that we own. In addition, effective patent, copyright and trade secret protection may be unavailable or limited in which we do business or may do business in the future.
+We enter into confidentiality or license agreements with our employees, consultants, vendors and customers as needed, and generally limit access to, and distribution of, our proprietary information. However, no assurances can be given that these actions will prevent misappropriation of our technology. In addition, if necessary, we are prepared to take legal action, in the future, to enforce our patents and other intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or invalidity. Any such litigation could result in substantial costs and diversion of resources, including management time, and could negatively affect our business, operating results, financial position and cash flows.
+In order to successfully develop and market our products, we may be required to enter into technology development or licensing agreements with third parties. Although many companies are often willing to enter into such technology development or licensing agreements, we cannot assure you that such agreements can be negotiated on reasonable terms or at all. The failure to enter into technology development or licensing agreements, when necessary, could limit our ability to develop and market new products and could harm our business.
+Backlog
+We schedule production of our products and solutions based upon our backlog, open contracts, informal commitments from customers and sales projections. Our backlog consists of unfilled firm purchase orders by our customers which have not been completed. Approximately 82% of our backlog is projected to be converted to revenue within a rolling one-year period. As of December 31, 2018 and 2017, we had backlog, including deferred revenue, of $186.4 million and $224.4 million, respectively. Delivery schedules on such orders may be deferred or canceled for a number of reasons, including reductions in spending by our customers or changes in specific customer requirements. In addition, due to annual budget cycles at many of our customers, the amount of our backlog at any given time is not necessarily indicative of actual revenues for any succeeding period.
+Competition
+The markets for video infrastructure systems are extremely competitive and have been characterized by rapid technological change and declining average selling prices. The principal competitive factors in these markets include product performance, functionality and features, reliability, pricing, breadth of product offerings, brand recognition and awareness, sales and distribution capabilities, technical support and services, and relationships with end customers. We believe that we compete favorably in each of these categories. 
+Large integrated system suppliers, such as Arris Group, Cisco Systems and Ericsson, with which we have historically competed in our Video business segment, announced sale and divestiture transactions in the last several months that impacted these companies’ video businesses: Arris announced a definitive agreement to be acquired by CommScope; Cisco Systems sold its video solutions group (now called Synamedia) to Permira, a private equity firm; and Ericsson completed the sale of a majority stake in its MediaKind video technology business to One Equity Partners, a private equity firm. In certain product lines, our competitors include companies such as ATEME and Elemental Technologies (an Amazon Web Services company). With respect to production and playout products, competitors include Evertz Microsystems, EVS, Grass Valley (a Belden brand) and Imagine Communications. In the OTT market, our competitors include end-to-end online video platforms such as Brightcove and Verizon Digital Media Services, who provide comprehensive OTT infrastructure solutions, some of which overlap with our products and services.
+Our competitors in our Cable Access business include Arris, Casa Systems, Cisco Systems and Huawei Technologies.
+Research and Development
+We have historically devoted a significant amount of our resources to research and development. Research and development expenses in 2018, 2017 and 2016 were approximately $89.2 million, $96.0 million and $98.4 million, respectively. Research and development expenses as a percentage of revenue in 2018, 2017 and 2016 were approximately 22.1%, 26.8% and 24.2%, respectively. Our internal research and development activities are conducted primarily in the United States (California, Oregon and New Jersey), France, Israel and Hong Kong. In addition, a portion of our research and development is conducted through third-party partners with engineering resources in Ukraine and in India. 
+11
+
+Table of Content
+
+Our research and development program is primarily focused on developing new products and systems, and adding new features and other improvements to existing products and systems. Our development strategy is to identify features, products and systems, in both software and hardware solutions, that are, or are expected to be, needed by our customers. For our Video business segment, our current research and development efforts are focused on next-generation video processing and delivery across different deployment environments, particularly cloud-native and SaaS delivery models, and enhanced video compression, video quality, and multiscreen solutions. We also devote significant resources to production and playout and distribution solutions. With respect to our Cable Access business segment, our major research and development efforts are focused on cable access solutions for both video and data, particularly the ongoing development of our centralized and distributed CableOS software-based cable access solutions.
+Our success in designing, developing, manufacturing and selling new or enhanced products will depend on a variety of factors, including the identification of market demand for new products, product selection, timely product design and development, product performance, effective manufacturing and assembly processes and sales and marketing. Because of the complexity inherent in such research and development efforts, we cannot assure you that we will successfully develop new products, or that new products developed by us will achieve market acceptance. Our failure to successfully develop and introduce new products would materially and adversely affect our business, operating results, financial condition and cash flows.
+Employees
+As of December 31, 2018, we employed a total of 1,162 full time employees, including 425 in research and development, 190 in sales, 293 in service and support, 57 in operations, 78 in marketing (corporate and product) and 119 in a general and administrative capacity. Of those employees, 375 were located in the U.S. and 787 employees were located in foreign countries in South America, the Middle East, Europe, Asia and Canada. From time to time, we also employ a number of temporary employees and consultants on a contract basis. Our employees in France are represented by labor unions and an employee works council. None of our other employees are represented by a labor union with respect to their employment with us. We have not experienced any work stoppages, and we consider our relations with our employees to be good.
+12
+
+Table of Content
+
+Available Information
+Harmonic makes available free of charge, on the Harmonic web site, the Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K (via link to the SEC website, which itself is available at http://www.sec.gov), and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after Harmonic files such material with, or furnishes such material to, the Securities and Exchange Commission. The address of the Harmonic web site is http://www.harmonicinc.com. Except as expressly set forth in this Form 10-K, the contents of our web site are not incorporated into, or otherwise to be regarded as part of, this report.
+13
+
+Table of Content
+
