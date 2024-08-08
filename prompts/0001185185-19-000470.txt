@@ -1,0 +1,133 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1.  BUSINESS
+Company Overview
+ 
+True Nature Holding, Inc. (the “Company,” “we,” “us,” or “our”), previously known as Trunity Holdings, Inc., a Delaware corporation, became a publicly-traded company through a reverse triangular merger with Brain Tree International, Inc., a Utah corporation (“BTI”). Trunity Holdings, Inc. was the parent company of our educational business, named Trunity, Inc., which was formed on July 28, 2009 through the acquisition of certain intellectual property from its three founders. On December 9, 2015 the Company made a decision to restructure Trunity Holdings, Inc., having acquired Newco4pharmacy, LLC, a development stage business aimed at a roll-up of compounding pharmacy businesses. As a part of such restructuring, we competed a “spin out” transaction of our educational business line to our shareholders as of December 31, 2015.
+ 
+Our business during 2018 was focused in the area of software and solutions, predominantly in the healthcare sector, generally described as the healthcare information and technology (HCIT) market. We announced plans for a personal healthcare records (PHR) application, SimpleHIPAA, which will allow individuals to track their personal healthcare information. This type of application is intended to include information from the individual, as well as data from healthcare providers extracted from their electronic healthcare records (EHR) systems. Data from individuals might include manual input or from personal devices such as watches, activity trackers and diagnostic devices such as glucose meters or blood pressure measuring devices. Information from healthcare providers might include data gathered from regular doctor visits, specialized care, or even a simple as prescription information from a pharmacy.
+ 
+Our initial implementation of “SimpleHIPAA”, and “SimpleHIPAA for Vets and Pets”, is intended to include data from pharmacy and prescribers, generated at the time a prescription is written. This information will be embedded inside the application and made available to the end user from both the healthcare provider and from the pharmacy. While providing a starting point for tracking healthcare information for the end user, it also establishes a communications method between the end user and the healthcare provider, and the pharmacy. This communications channel, often thought of as “telemedicine” can allow the end user to provide feedback to the healthcare provider, the pharmacy, or other parties of the end user’s choice.
+ 
+We have established a design that allows the same product to be used for both human and pet situations, and in a simple form. Further, recognizing that controlling costs is an issue in healthcare, we are providing for advertising to be included in the design. This should both mitigate the costs to deploy the solution for all parties, and also perhaps incentivize the end user to stay engaged with the application long term for the coupons, points or other benefits that advertising participants might provide.
+ 
+Our strategy is to deploy SimpleHIPAA and SimpleHIPAA for Vets and Pets using a “top down” distribution through suppliers of healthcare materials who might provide the application to pharmacy and healthcare providers as a means of selling their products more efficiently, and with a “bottom up” approach, letting the end user download and use the application with data already embedded from their healthcare provider or pharmacy.
+ 
+The initial development began in mid-2018, and it is currently awaiting the completion of testing at its first site, a pharmacy in south Florida with a 15-year history in both human and veterinary services. We have also explored the development of a next generation pharmacy management system that would embrace tools for compliance with new regulatory requirements in the pharmacy industry and expect to have a final decision on that project by mid-2019.
+ 
+While this project continues, we are also evaluating other applications, generally, but not exclusively in the healthcare area. We believe that new technologies such as voice recognition, virtual reality and robotics will all provide excellent vehicles to update traditional information management systems and will find quick acceptance in the healthcare field as well as other large and more traditional markets.
+ 
+Within the healthcare arena one of the most active areas involves software that provides “interoperability”, the interfacing of systems and data so that information may be shared effectively. We believe there will be many opportunities in this application area, as older systems are integrated with newer, or more specialized systems, but we have not taken any actions in pursuit of these opportunities and no guarantee can be made if we enter this space, that we will be successful.
+ 
+ 5
+
+
+About Telehealth and Telemedicine Software and Systems
+ 
+The following was extracted from a white paper developed by Deloitte Touche Tohmatsu Limited, which can be found at: https://www2.deloitte.com/us/en/pages/public-sector/articles/empowering-patients-with-telehealth.html?id=us:2ps:3bi:lookagainfy18:eng:greendot:110117:nonem:na:2tFz6Z1U:1077544565:76897126470004:bb:Technology:Telehealth_BMM:nb&msclkid=784383ea0cc71239f606d95af48276fd.
+ 
+Empowering patients with telehealth - A call to action
+ 
+Challenges facing care delivery in today’s health care environment are considerable and will require strategies and solutions to address extending care access, improving care quality, and lowering the cost of care. Telehealth is an essential component of achieving this “triple aim” and paving the way for system-wide improvement and goal attainment.
+ 
+Telehealth: A component of health care transformation
+ 
+As the health care industry continues to evolve to meet patients’ health care needs, providers should consider the implementation of a telehealth solution that enhances current capabilities and extends timely, convenient, affordable, and high quality care that patients and their beneficiaries deserve.
+ 
+Patient stories: A wide variety of telehealth use cases
+ 
+Today, Americans face a number of daunting obstacles to receiving the care they need. Not all health care systems have the capability of prioritizing the need, urgency, and modality of care for incoming appointments, leaving patients with serious medical issues in potentially life-threatening situations. Conversely, many simple ailments could be addressed with minimal time and health care resources.
+ 
+Telehealth can enable immediate assessment and triage, extend and improve primary care, increase access to high-demand specialty care, facilitate behavioral health support, and advance chronic disease management and home care.
+ 
+Successful implementation of a telehealth platform
+ 
+The successful deployment of a telehealth solution, like any large-scale implementation, requires a well-coordinated design and execution effort. Such an implementation comprises several components: governance development, a broad needs assessment, technology assessment, information exchange, training strategy, workflow redesign, and user outreach strategy. These factors are critical to realizing the full benefits of telehealth.
+ 
+Telehealth powers of tomorrow
+ 
+Telehealth can enable health care systems to extend high quality care to patients throughout their journey across the care spectrum, from initial triage and primary care, through to specialty medicine and home care. Telehealth is also a powerful tool to help health care systems optimize the use of their clinician talent and resources, regardless of where they physically reside—providers can perform telehealth visits with patients across state boundaries, bringing expert care to a patient bedside or into a patient home when needed. Lastly, telehealth offers a means for patients and providers to connect more frequently without the geographic and mobility barriers presented by in-person visits.
+ 
+Momentum for modern telehealth adoption is accelerating. Health care systems now have the opportunity to implement the next phase of powerful health technology—flexible, real-time telehealth that brings care to patients anytime, anywhere.
+ 
+Potential Application of Blockchain Technology
+ 
+While we have not yet begun any specific development efforts, we intend to explore the use of blockchain encryption technology as a service bureau offering. On a blockchain, transactions are recorded chronologically by forming an immutable chain, and can be anonymous depending on how the technology is implemented. The ledger is distributed across many participants in the network. Copies of data exist, and are simultaneously updated with, every fully participating node in the ecosystem. The Company believes this technology may become useful in providing services in connection with required government reporting for drug purchase and dispensing, preparing for future Government data compliance requirements; Drug Supply Chain Security Act (DSCA) compliance; enhanced HIPPA compliance; enhanced patient services & privacy; and provider payment ratios tracking.
+ 
+ 6
+
+
+All of these implementations are aimed at healthcare segments plus customize applications by contract. The Company has applied for the trademark “Blockchain RX” with the U.S. Patent and Trademark Office.
+ 
+The Blockchain RX product trademark application includes the following descriptions:
+ 
+
+● | Pharmaceutical preparations over the counter (OTC) pharmacy, controlled substances, medical services, physician qualifications and license tracking, patient medical records;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Electrical apparatus; software and systems for both internal and external use applying blockchain technology to medical services and products, including but not limited to pharmaceutical materials and to include technical and license qualifications for providers;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Medical instrument; registration of medical technologies for product and service providers both internally and to external markets and providers;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Computer and technological professional services; software and systems for the application of blockchain technologies in the medical services, medical products, pharmacy products and services, and patient and physicians’ records and qualifications;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Medical, beauty and agricultural services; products and services related to medical applications, products, treatments including professional services and client and patient records as well as provider qualifications; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Personal protection services, legal services and social services; protection and tracking of patient records, treatments, professional qualifications, patient records and sharing both internally and to external sources.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Effect of Amazon, Apple, Google and others of size
+ 
+We recognize it will take the investment of major market participants like Apple, Amazon, IBM, hospitals, healthcare networks, pharmacy and other providers for us to achieve critical mass in this industry. In consideration of this reality, we expect to work with these market makers in collaboration, and support of the ultimate user, the individual. We believe these large-scale providers need smaller developers in order to extend the use of their systems and services into the healthcare marketplace. The day of “direct-to-consumer” healthcare, is upon us, and we hope to be key parties to their evolution, and success. 
+ 
+Health Care and Health Care IT Industry
+ 
+Health care expenditures continue to consume an increasing portion of most economies. In the U.S., health care spending increased 3.9 percent to $3.5 trillion in 2017, and now represents 17.9 percent of the U.S.’ Gross Domestic Product (“GDP”). An aging population and high levels of chronic conditions are contributing to expectations that health care expenditures will continue growing faster than the economy. The Centers for Medicare and Medicaid Services (“CMS”) estimates annual U.S. healthcare spending will grow at an average rate of 5.5 percent through 2026 and reach $5.7 trillion, or 19.7 percent of U.S. GDP by 2026. We believe this trajectory is unsustainable and that health care IT (“HCIT”) may play an important role in facilitating a shift from a high-cost health care system that incents volume to a proactive system that incents health, quality and efficiency.
+ 
+For this change to occur, we believe traditional fee-for-service (“FFS”) reimbursement models must continue to shift to value-based approaches that are more aligned with quality, outcomes, and efficiency. The shift away from traditional FFS is evident in growth of lives covered under Accountable Care Organizations (“ACOs”). ACOs are groups of hospitals and providers that focus on providing coordinated, high quality care to Medicare, Medicaid, or commercially insured populations and then share in savings created by lowering the cost of care. According to Leavitt Partners, lives covered under ACOs grew from approximately 5 million in 2011 to more than 32 million in 2018.
+ 
+In addition to the increasing number of lives covered under ACOs, the structure of ACOs is evolving to where providers are expected to assume more risk. Currently, most ACO contracts are upside only, which means providers can receive bonuses for good performance, but they assume no downside for underperformance. In 2018, CMS released a rule called “Pathways to Success” that accelerates the timeframe during which providers need to move to ACOs that include both upside bonuses and downside penalties. We believe this shift is important as assumption of risk by providers creates a strong incentive for them to improve care coordination and deliver high quality care at a lower cost.
+ 
+Another step towards a value-based reimbursement models occurred with the passage of The Medicare Access and CHIP Reauthorization Act (“MACRA”), which enacts significant reforms to the payment programs under the Medicare Physician Fee Schedule and consolidated three current value-based programs into one.
+ 
+ 7
+
+
+While each of the different approaches to aligning reimbursement with value will continue to evolve, we believe the trend away from traditional FFS will continue. We believe this growth in government and private models aligning payment with value, quality and outcomes will drive major changes in the way health care is provided in the next decade, and we expect a much greater focus on patient engagement, wellness and prevention. As health care providers become accountable for proactively managing the health of the populations they serve, we expect them to need ongoing investment in sophisticated information technology solutions that will enable them to predict when intervention is needed so they can improve outcomes and lower the cost of providing care.
+ 
+The increasingly complex and more clinical outcomes-based reimbursement environment is also contributing to a heightened demand for revenue cycle solutions and services and a desire for these solutions and services to be more closely aligned with clinical solutions. Over the past several years, there has been a shift in the U.S. marketplace towards a preference for a single platform across inpatient and ambulatory settings. The number of physicians employed by hospitals has increased as hospitals have acquired physician groups, and health systems are recognizing the benefit of having a single patient record at the hospital and the physician office. We believe the smaller providers and regional networks of healthcare providers will be the newest users of the technologies we seek to develop.
+ 
+While health care providers are showing a preference for a single platform across multiple venues, there is also an increased push for interoperability across disparate systems to address the reality that no patient's record will only have information from a single health care IT system. We believe health information should be shareable and accessible among primary care physicians, specialists, and hospital physicians. 
+ 
+Competition
+ 
+The market for HCIT solutions, devices and services is intensely competitive, rapidly evolving and subject to rapid technological change. We intend to offer a suite of intelligent solutions and services that support the clinical, financial and operational needs of organizations of all sizes. The principle markets in which we intend to compete include, without limitation, health care software solutions, HCIT services, ambulatory, health care device and technology resale, health care revenue cycle and transaction services, value-based care technologies, analytics systems, care management solutions, population health management, and post-acute care. There are thousands of smaller software and technology development companies worldwide with whom we will compete.
+ 
+In addition, we expect that major software information systems companies, large information technology consulting service providers and system integrators, start-up companies, managed care companies, healthcare insurance companies, accountable care organizations and others specializing in the health care industry may offer competitive software solutions, devices or services. The pace of change in the HCIT market is rapid and there are frequent new software solutions, devices or services introductions, enhancements and evolving industry standards and requirements. We believe that the principal competitive factors in our markets include the breadth and quality of solution and service offerings, the stability of the solution provider, the features and capabilities of the information systems and devices, the ongoing support for the systems and devices and the potential for enhancements and future compatible software solutions and devices. We believe that we will be able to compete favorably with our competitors on the basis of these factors. We expect to strive to develop brand recognition and reputation for innovative technology and service delivery, global distribution channels and client relationships that may position us as a strong competitor going forward.
+ 
+Management
+ 
+We believe that True Nature’s management will remain small in the near term and should consist of a four-person management team with experience in 1) public company accounting and finance, 2) software and systems, 3) brand marketing, and 4) public equities financing.   Biographical and other information on our executive officers and directors is set forth in “Item 10. Directors, Executive Officers, and Corporate Governance” of this Annual Report on Form 10-K.
+Employees
+ 
+As of March 28, 2019, we have one full-time and two part-time employees. None of our employees are represented by a union or covered by a collective bargaining agreement. We have not experienced any work stoppages and we consider our relationship with our employees to be good.
+ 
+ 8
+
+
+Other Corporate Information
+ 
+We file our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports with the Securities and Exchange Commission (the “SEC”) and make such filings available, free of charge, on truenatureholding.com, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The information found on our web-site shall not be deemed incorporated by reference by any general statement incorporating by reference this report into any filing under the Securities Act of 1933, as amended, or under the Securities Exchange Act of 1934, as amended, except to the extent we specifically incorporate the information found on our web-site by reference, and shall not otherwise be deemed filed under such Acts.
+ 
+Our filings are also available through the SEC web-site, www.sec.gov, and at the SEC Public Reference Room at 100 F Street, NE Washington DC 20549. For more information about the SEC Public Reference Room, you can call the SEC at 1-800-SEC-0330.
+ 

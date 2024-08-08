@@ -1,0 +1,924 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.Overview
+ 
+VerifyMe, Inc. (the “Company,” “VerifyMe,” “we,” “us,” or “our”) is a technology pioneer in the brand protection/anti-counterfeiting industry. The Company was formed as LaserLock Technologies, Inc., in Nevada on November 10, 1999. For the last three years the Company has been engaged in researching, developing, and monetizing products in the brand protection, authentication, serialization, track and trace and anti-counterfeiting industries. This broad market encompasses identifying and preventing counterfeiting of physical and material goods and products, prevent product diversion enable brand owners to monitor, control and protect their products life cycle, as well as authenticating people in digital transactions. We have the ability to deliver security solutions for identification and authentication of people and products in a variety of applications in the security fields of authentication, counterfeit prevention and product diversion. Our products can be used to print, secure and covertly serialize labels and packaging for brand owners, manage and issue secure credentials including national identifications, passports, driver licenses and access control credentials, as well as comprehensive authentication security software to securely process digital financial transactions, provide secure physical and logical access to facilities, computer networks, internet sites and mobile applications.
+ 
+Our physical printing technologies we own enable businesses to reconstruct their overall approaches to security—from brand protection, product diversion and counterfeit identification to employee or customer monitoring. Potential applications of our technologies are available in different types of products and industries—e.g., banking, gaming, apparel, tobacco, cosmetics, food, beverages, plastics, metal, event and transportation tickets, manufactured goods, fabrics, parts, driver’s licenses, insurance cards, passports, computer software, and credit cards. We can generate sales through re-seller agreements of our technology and through direct sales of our technology to global brand owners, label and packaging printers.
+ 
+Our physical printing technologies involve the utilization of invisible and/or color changing inks, which are compatible and printed with today’s digital and standard printing presses. The inks may be used with certain printing systems such as digital, offset, flexographic, silkscreen, gravure, inkjet and laser. The inks can be printed in both a static image and variable image utilizing digital printing presses and third party digital inkjet systems which are attached to traditional printing presses. Our invisible ink can be a fixed image, variable image or a serialized code, bar code or QR code. We have developed a product which attaches to a smart-phone that reads our invisible ink codes into sophisticated cloud based track and trace software. We also have a product that informs users that our invisible ink is present for authentication. Based upon our experience, we believe that the ink technologies may be incorporated into most existing manufacturing processes.
+ 
+ The challenges associated with digital access control and identity theft are problems that are highly relevant in the world today. Consumers, citizens, employees, governments and employers demand comprehensive solutions that are reliable but not intrusive. The current widespread use of passwords and personal identification numbers, or PINs for authentication has proven to be unsecure and inadequate. Individuals increasingly expect anywhere-anytime experiences—whether they are making purchases, creating financial transactions, banking, crossing borders, accessing services or logging into online accounts or corporate resources. They expect those experiences to ensure the protection of their privacy and to provide uncompromising confidentiality. 
+ 
+In February 2018, we entered into a reseller agreement with a global label manufacturer (the “GLM”). This particular label printer began printing our technology in July of 2018 and has major brand owners as clients which can utilize our technologies to protect their product labels and packaging from counterfeiting and product diversion. This label printer owns and operates printers and manufacturing equipment which can implement the Company’s technology. This reseller also has manufacturing facilities around the globe. 
+ 
+In 2018, we entered into two other reseller agreements with print service providers (“PSP”). One of these PSPs is testing for a global consumer products company.
+ 
+In March 2018 we entered into a strategic partnership with S-One Labels & Packaging, a division of S-One LP (“S-One”). S-One provides companies with product and sales channels, technical and marketing support, digital development support, and distribution channels through the other companies which have partnered with S-One. S-One will provide the Company with global sales, distribution, and promotion support for the Company’s products and will employ a representative that will be solely dedicated to promoting the Company’s products. Under the terms of the Company’s agreement with S-One, S-One will act as a sales and marketing contractor for the Company’s printed products and services on a global basis and will assist the Company in fulfilling the Company’s obligations under the Company’s signed current and future reseller agreements with global and domestic print providers and brand owners.
+ 
+
+4
+-
+
+Business Update
+ 
+2018 can be categorized as a year of continued product development and early stage revenue generation. In order to penetrate the security printing market, the company had to modernize its invisible ink technology, called RainbowSecure™. The company had to create the ability to utilize RainbowSecure™ as an invisible code that contained data that could be read into sophisticated software that resides in the cloud. To accomplish this task, the company created a device that attaches to a smart phone. After several prototypes, this device was successfully tested in 2018 and is now being manufactured. The first units are expected to be received and ready for leasing to brand owners, inspectors and print service providers in April 2019.
+ 
+In conjunction with the new smart phone reading device, we finalized our “VeriPAS” software which is based in the cloud and gives brand owners the ability to monitor, control and protect their products life cycle. This software resides in the cloud and brand owners access it over the internet. The software generates serialization codes which the brand owner purchases from VerifyMe. These codes are then printed on labels and packaging in both visible codes for consumers to engage and invisible codes known as RainbowSecure™ which trained brand inspectors review with our reading device.
+ 
+The company signed 3 contracts with print service providers in 2018. This is the beginning of revenue generation. We feel revenue will ramp up in 2019 due to the manufacturing of our new smart phone reading devices which are scheduled for delivery in April 2019, the addition of our new VP of Business Development who was hired in late 2018, the completed training of our marketing and sales partner, S-One LP, and the installation of our products into the HP Experience Centers located in Tel Aviv, Israel, Singapore, Barcelona, Spain and Alpharetta, GA where customers can perform tests and get hands on experience with the Company’s technologies.
+ 
+
+5
+-
+
+Physical Printing Security Technology
+
+
+In September of 2017 we announced a five-year contract with the Indigo Division of HP Inc. (NYSE:HPQ) ("HP Indigo") a global printing technology leader.  HP Indigo is a leader in manufacturing digital printing presses.  These presses print both static and variable high-quality images such as personalized labels and packaging for major brand owners.  Our technology was tested and approved by HP Indigo for use on the HP Indigo 6000 series press models. It is currently being qualified for the larger HP Indigo 30,000 series.
+
+
+This press is mainly used to print labels and packaging for major world-wide brand owners.  HP Indigo and VerifyMe incorporate VerifyMe's pigment products with HP Indigo's ElectroInk to be used for packaging, label authentication, anti-counterfeiting, anti-diversion and covert item level serialization for supply chain and distribution security.
+ 
+This solution will be marketed as RainbowSecure™ powered by HP Indigo and sold globally by VerifyMe to HP Indigo customers. The solution includes a HP Indigo security ElectroInk as well as VerifyMe's readers and authentication tools that can be used in conjunction with the security ElectroInk. Both companies will provide support to HP Indigo customers that use the RainbowSecure™ solution on HP Indigo's digital printing presses.
+ 
+The HP Security ElectroInk containing RainbowSecure™ is in an ink canister that is mounted into the digital Indigo printing press along with the other traditional ink stations.  Since the HP Indigo is a digital press, the VerifyMe RainbowSecure™ technology prints covert serialization numbers, codes or images either fixed or variable mainly on labels and packaging which are revealed when using VerifyMe’s hand-held authentication devices.
+ 
+As an add-on track and trace feature of our RainbowSecure™ covert imaging, VerifyMe has contracted with Micro Focus International PLC (NYSE:MFGP), a global software developer to utilize their visible QR code system called Global Protected Authentication System (“GPAS”) which is printed on labels and packaging along with our covert RainbowSecure™ to store our hidden covert serial number in the cloud for product diversion investigators to authenticate with a proprietary app on a mobile device.  The Micro Focus “GPAS” Global Product Authentication Service allows customers to use their smartphone to scan a product’s QR code or send the code via a text message. Immediate results help verify whether the product is real or counterfeit. This helps save customers from potential physical harm and businesses from facing lawsuits, loss of revenue and brand erosion.  In addition to the anti-counterfeiting image, the Micro Focus Track and Trace software has a “Big Data” gathering system with real-time analytics which geographically locate and identify counterfeiting activity by using an easily configured rules engine.  VerifyMe’s covert or invisible RainbowSecure™ system works as an extra layer of protection for the GPAS system.  When a professional product investigator scans the Micro Focus visible QR code with a special app on a smart phone it brings him to the VerifyMe secure cloud application to see what the hidden serialization number printed by the HP Indigo is for that particular label or package.  The product investigator then uses the VerifyMe RainbowSecure™ reading device to compare the hidden serialization number against the cloud number to prove authenticity.
+ 
+Under the contract with Micro Focus, VerifyMe has a re-seller agreement where VerifyMe sells the combined Micro Focus GPAS system with our RainbowSecure™ identifier under the name VeriPAStm.
+ 
+Under the terms of the Company’s; agreement with the Label Manufacturer, the Label Manufacturer will be able to create and print labeling containing the VerifyMe RainbowSecure™ ink technology.
+ 
+HP has their own QR code track and trace system called, “HP Link Technology”.  HP Link competes with the Micro Focus GPAS system.  VerifyMe is in continuing discussions to build a similar covert serialization number layer utilized in the Micro Focus GPAS system into HP Indigo’s Link system.
+
+
+We believe that the physical printing technologies we own, coupled with our contract with HP Indigo we will enable brand owners to securely prevent counterfeiting, prevent product diversion and authenticate labels, packaging and products and alleviate the brand owner’s liability from counterfeit knockoffs which physically harm consumers. Our covert technologies give the brand owner the ability to control, monitor and protect their products life cycle. Also, our technologies allow the brand owner to prove that the product causing an issue is authentic or made by a counterfeiter.
+
+
+In addition to packaging and labels our physical security printing technologies can be applied to authenticate important credentials such as driver’s licenses, plastics, metal, apparel, birth certificates, immigration documents, gaming, apparel, currency, event and transportation tickets, passports, computer software, and credit cards. With our new partnerships described in this annual report (the “Annual Report”), our goal is to generate revenue through licenses and royalties of our technology and through direct sales of our technology.
+ 
+
+6
+-
+
+
+Anti-Counterfeiting Technologies and Products
+ 
+Recent developments in copying and printing technologies have made it easier to counterfeit a wide variety of documents and products.  We have broken the current state of counterfeiting into two types.  The first type is what we call “Traditional Counterfeiting” These include mainly paper type documents and instruments such as bank checks, birth certificates, credentials, identification documents, stock certificates, currency, lottery tickets, credit cards, driver’s licenses, event and transportation tickets, coupons, and travelers’ checks.  As you can see most of the Traditional Counterfeiting targets are mainly paper type instruments which can be traditionally copied, scanned, color copied, hand drawn, etc. by both professional and consumers alike.  The other type of counterfeiting we call “Modern Counterfeiting”.  Although Traditional Counterfeiting targets are extremely important and cause mainly financial harm, “Modern Counterfeiting” targets on the other hand are much more sophisticated.  Both organized crime, consumers, small and large businesses and even governments partake in Modern Counterfeiting.  Modern Counterfeiting consists of the actual counterfeiting of major brand owner’s products such as expensive luxury items like jewelry, purses, military items (sabotage), drug manufacturing, consumables like tobacco, alcohol, golf clubs and even food and beverages.  Not only is the packaging and labeling counterfeited, the actual products are counterfeited.  The modern counterfeiter has become the scourge of the earth.  There are even reports of whole companies being counterfeited.  People are getting sick and sometimes even killed with counterfeit cough syrup, watered down cancer drugs and even toothpaste containing poisonous substances.
+ 
+Not only are consumers at risk, brand owners are also at risk.  Normally brand owners feel a financial impact when someone is selling or diverting their products by counterfeiters.  The financial impact seems to be the lesser of the risk factors.  The additional more impactful risk facing brand owners and drug manufacturers is the liability issue.  A brand owner may be called to a court room to prove that a product is authentic or counterfeit to avoid major liability exposure in the form of judgements and fines as well as the extremely severe negative marketing exposure for such issues.
+ 
+Brand owners do not want their products published as the name of a product that injured or harmed a consumer.  Our covert RainbowSecure™ technology can be utilized by brand owners to authenticate products, labels and packaging in those circumstances.  We believe that losses and liability from such counterfeiting is increasing substantially with improvements in counterfeiting technology as well as the proliferation of highly skilled and well-funded counterfeiters.  It is therefore imperative that all brand owners, beverages, food and drug manufacturers utilize the best counterfeit prevention technologies available for their products.
+ 
+We believe that our physical and material goods anti-counterfeit technologies may be useful to businesses desiring to authenticate a wide variety of materials and products. The best solution for brand owners and manufacturers is to layer as many technologies as they can to protect their products.  Our technologies include (1) a technology utilizing invisible ink taggant that can be revealed by use of a special calibrated laser light for authentication purposes, (2) an ink technology, which allows invisible codes to be printed and (3) a color changing technology that is activated by certain types of lights. All of those technologies cannot be copied or scanned by the counterfeiter.  We believe the useful life of our technologies on a label or package is at least 20 years.  Our technologies can be printed on labels and packaging and can also be applied to metals, plastics and textiles. Other possible variations of our laser-based technology involve multiple color responses from a common laser, visible marks of one color that turn another color with a second laser, or visible and invisible marks that turn into a multicolored image. These technologies provide users with the ability to authenticate products and detect counterfeit documents. Applications include the authentication of documents having intrinsic value, such as currency, checks, travelers’ checks, gift certificates and event tickets, and the authentication of product labeling and packaging. When applied to product labeling and packaging, our technologies can be used to detect counterfeit products with labels and/or in packaging that do not contain the authenticating marks invisibly printed on the packaging or labels of legitimate products, as well as to combat product diversion (i.e., the sale of legitimate products through unauthorized distribution channels or in unauthorized markets). We believe that our technologies also could be used in a manner that permits manufacturers and distributors to track the movement or pinpoint geographically where counterfeiting of products is occurring.  We can track and trace from production to ultimate consumption when coupled with our VeriPAStm proprietary software.
+ 
+Due to a signed contract with HP Indigo and Micro Focus, VerifyMe RainbowSecure™ technology can now be printed variably on high-speed, high-quality labels and packaging.  Our technology cannot be seen by the human eye and requires special authentication equipment to see in labels and packaging which can be authenticated via a secure cloud process.  Brand owners can not only prove the authenticity of a product, but it can also prevent product diversion and enhance track and trace operations which generates business intelligence as to where counterfeiting is occurring around the globe.  These contracts give the Company the ability to secure, protect and identify the labels and packages of drugs, cosmetics, food, beverages and all other consumable products.  We are now working with HP Indigo to roll out the technology to their 6000 series Indigo owners.  HP has also informed the Company that they will be expanding the use of the technology in 2019 on the 4000 series of HP Indigo presses which are used for packaging substrates. In addition to the Micro Focus GPAS serialization, track and trace software system, the company is able to incorporate its RainbowSecure™ invisible codes with other serialization, track and trace software systems, such as HP’s LINK system. The company is negotiating with HP LINK for such combination of technologies. Micro Focus is also now marketing our combined track and trace solution. S-One will also provide VerifyMe with a global and sales and marketing infrastructure for this solution.
+ 
+Physical and Material Goods Anti-Counterfeit Industry — Overview
+ 
+The U.S. is projected to remain the largest single consumer of security services and products in the world. One of the most important new areas of expansion is in the area of authentication, which is the act of confirming that objects such as currency, passports, casino chips, credit cards, stock certificates, pharmaceuticals, stamps, identification cards, lottery tickets, and so forth, are real and not forgeries. With the advent of new technologies, including the color copier and other printing technologies and templates and the availability of the Internet, counterfeiters have had access to technologies which make it easier to produce counterfeit items. Counterfeiters are often located in foreign nations where counterfeiting is subject to little or no viable threat of prosecution.
+
+7
+-
+
+
+While some currency and credit cards have introduced holograms, seals, and embedded strips in order to add a level of protection, most such methodologies are expensive and, in some cases involve a time-consuming production process. In other instances, such as when printing cigarette tax stamps or hundreds of millions of pieces used in a popular restaurant chain’s contest game pieces, the authentication process must be extremely inexpensive and easy to use or it will not be cost effective. Currently many national currencies lack a sufficient layer of protection to deter counterfeiting and can easily be counterfeited. 
+ 
+Two major trends
+ 
+Major shifts are occurring in how counterfeit products enter the hands of consumers. First, many consumers are purchasing counterfeit products online.
+ 
+According to “Research and Markets.com”, $1.2 trillion worth of counterfeit goods were bought and sold last year. Not surprisingly, much of it happened online.
+
+
+A new study from Red Points, a brand-protection firm based in Barcelona, Spain, shines a light into this shadowy realm. Using data generated by its custom-built web crawlers that search for fake merchandise on behalf of its 200 clients, Red Points compiled a Top 10 list of sites where counterfeit goods are most frequently bought and sold.  In fact, six of the 10 sites on the list are headquartered in the Far East—China in particular, which has a long-standing reputation for counterfeit production and what you might call a relaxed attitude toward intellectual property.
+ 
+The Red Points’ study also identified the most commonly counterfeited goods. As it turns out, the most knocked-off item isn’t a designer handbag, but sneakers.
+ 
+Second, biometric technology is becoming increasingly popular which can tie individuals to their documents and transactions. VerifyMe has multi-factor technology using biometrics in their digital verification technology. Credit card manufactures are working on a fingerprint activated card.  Apple has added both fingerprint and face recognition capture technology for access and transactions. The Company’s entry into the biometrics technology business is further described under the section “Digital Technology”.
+ 
+A report commissioned by the International Trademark Association and the International Chamber of Commerce, said the global economic value of counterfeiting and piracy could reach $2.3 trillion by 2022. The global value of the counterfeit market in 2015 stood at $1.7 trillion. A February 2017 report, by research firm Frontier Economics, said the wider social, investment and criminal enforcement costs could take the total to $4.2 trillion, leaving at risk about 5.4 million "legitimate jobs". A recent report by the U.N. Office on Drugs and Crime says, “counterfeit goods and fraudulent medicines pose a serious risk to public health and safety”.
+ 
+While deaths and sickness have been reported from key foods such as baby milk powder in Asia, the full human toll as a result of fake mechanical, food and medicines is unclear.
+ 
+The UNODC and the World Customs Organization estimate 75 percent of counterfeit products seized worldwide in 2010 were manufactured in East Asia, mostly in China.
+ 
+Counterfeiting is a continuously evolving economic crime. It presents companies, governments and individuals with a unique set of problems and has become a sophisticated network of counterfeiting.  Counterfeiting devalues corporate reputations, hinders investment, and imposes costs upon many people every year.
+ 
+The Size of the Market Opportunity
+ 
+The global anti-counterfeit packaging market was estimated at $105.9 Billion in 2018 and is projected to reach $182.2 Billion by 2023, at a compound annual growth rate of 11.5%. The market size projected from 2018 to 2023 based on a report by marketsandmarkets.com.
+ 
+Based on Technology, the label and packaging market has been segmented as follows:
+ 
+· | Coding & printing technology (Track and Trace)
+--+-----------------------------------------------
+
+
+· | RFID
+--+-----
+
+
+· | Hologram
+--+---------
+
+
+· | Security labels
+--+----------------
+
+
+· | Packaging design
+--+-----------------
+
+
+· | Others (digital mass sterilization, digital mass encryption, and surveillance technologies)
+--+--------------------------------------------------------------------------------------------
+
+
+8
+-
+
+
+The anti-counterfeiting industry is segmented into four general categories: (i) Optical technologies - use of light, i.e. holograms; (ii) Electronic - magnetic strips and smart cards; (iii) Biotechnologies - uses characteristics of biological proteins such as antibodies, enzymes and DNA; and (iv) Chemical technologies - includes photochromic (or light-reactive) and thermochromic (or heat-reactive) inks.
+ 
+We operate in the chemical technologies and security ink sectors of the industry. Products in this industry change color when exposed to either heat or light and revert to their original color when exposed again. Generally, the effect is reversible as often as required. Inks have also been developed that are invisible to the human eye, but which can be read by bar-code scanners. These have been used in the fragrance and pharmaceutical industries to authenticate products. Other reactive inks change color when brought into contact with specific substances, such as ink from a felt-tipped pen.
+ 
+The anticounterfeit packaging industry is segmented into the following:
+ 
+· | Coding
+--+-------
+
+
+· | Printing technology (Identifiers)
+--+----------------------------------
+
+
+· | Radio Frequency Identification (“RFID”)
+--+----------------------------------------
+
+
+· | Hologram
+--+---------
+
+
+· | Security labels
+--+----------------
+
+
+· | Packaging design
+--+-----------------
+
+
+· | Others (digital mass sterilization, digital mass encryption, and surveillance technologies)
+--+--------------------------------------------------------------------------------------------
+
+
+
+We operate in the coding & printing technology, security labels segments in the anti-counterfeit packaging industry.
+ 
+Recent developments in printing technologies have made it easier to counterfeit a wide variety of documents. Lottery tickets, gift certificates, event and transportation tickets and travelers’ checks are all susceptible to counterfeiting, and we believe that losses from such counterfeiting have increased substantially due to improvements in technology. Counterfeiting has long caused losses to manufacturers of brand name products, and we believe that these losses have increased as the counterfeiting of labeling and packaging has become easier.
+ 
+The Organization for Economic Cooperation and Development based on its recently published study in 2016, estimates that global trade related counterfeiting accounts for 2.5% of world trade or approximately $461 billion. They also conclude that millions of consumers are risking their lives by using unsafe and ineffective counterfeit products unknowingly.
+ 
+Identification Cards and Secure Documents
+ 
+Governments are increasingly vulnerable to counterfeiting, terrorism and other security threats at least in part because currencies, identity and security cards and other official documents can be counterfeited with relative ease. For instance, Havocscope, a company that collects black market intelligence and identifies security threats, reports that the value of counterfeit identification and passports in the United States is approximately $100 million. Governments must also enforce the various anti-counterfeiting and anti-piracy regimes of their respective jurisdictions which becomes increasingly difficult with the continued expansion of global trade. To highlight the size of the problem, in April 2012 the European Parliament estimated that of the 6.5 million biometric passports in circulation in France, between 500,000 and one million are counterfeit, having been obtained using counterfeit documents. Our overt and covert ink pigment platform can provide secure, forensic, and cost-effective anti-counterfeiting, anti-piracy and identification solutions to local, state, and federal governments as well as the defense contractors and the other companies that do business with them. Our pigment solution cans be used for many types of identification and official documents, such as:
+
+· | Passports;
+--+-----------
+
+
+· | Permanent resident, or “green” cards and visas;
+--+------------------------------------------------
+
+
+· | Drivers’ Licenses;
+--+-------------------
+
+
+· | Social Security cards;
+--+-----------------------
+
+
+· | Military identification cards;
+--+-------------------------------
+
+
+· | National transportation cards;
+--+-------------------------------
+
+
+· | Security cards for access to sensitive physical locations; and
+--+---------------------------------------------------------------
+
+
+· | other important identity cards, official documents and security-related cards.
+--+-------------------------------------------------------------------------------
+
+Pharmaceuticals
+ 
+The pharmaceutical industry faces major problems relative to counterfeit, diluted, or falsely labeled drugs that make their way through healthcare systems worldwide, posing a health threat to patients and a financial threat to producers and distributors. Counterfeit prescription pharmaceuticals are a growing trend, widely recognized as a public health risk and a serious concern to public health officials, private companies, and consumers. The National Association of Boards of Pharmacy estimates that counterfeit drugs account for 1–2% of all drugs sold in the United States. The World Health Organization (“WHO”) estimates the annual worldwide “take” from counterfeit drugs to be £13 billion (approximately $20 billion USD), a figure that is expected to double by the end of this decade. In some countries, counterfeit prescription drugs comprise as much as 70% of the drug supply and have been responsible for thousands of deaths, according to the WHO. Counterfeit pharmaceuticals are estimated to be a billion-dollar industry, though some estimate it to be much larger. In 2012, the WHO reported that in over 50% of cases, medicines purchased over the Internet from illegal sites that conceal their physical address have been found to be counterfeit. According to the WHO, counterfeiting can apply to both branded and generic products and counterfeit pharmaceuticals may include products with the correct ingredients but fake packaging, with the wrong ingredients, without active ingredients or with insufficient active ingredients.
+
+9
+-
+
+
+Based on this growing threat, many countries have started to address vulnerabilities in the supply chain by enacting legislation which, among other things, requires the implementation of a comprehensive system designed to combat counterfeit, diluted or falsely labelled pharmaceuticals.  These systems are often referred to as serialization, or in the United States as e-Pedigree (electronic pedigree).  One jurisdiction that has enacted such regulations is California, which passed legislation requiring all “dangerous drugs” (defined as all prescription drugs) that are distributed in California must be serialized and have an electronic pedigree by January 1, 2016 and with limited exceptions cannot be sold by a pharmacy without a pedigree after July 1, 2017.
+ 
+ePedigree and FDA mandated serialization requirements were implemented in November 2018 and are now required in all aspects of the pharmaceutical supply chain, from the manufacturer to the packager, wholesaler, distributor and final dispensing entity. The ePedigree provides an “audit trail,” or documented evidence, to help to identify and catch counterfeiting and diversion. Serialization requires manufacturers, or third-party packagers in some virtual supply chains, to establish and apply to the smallest saleable unit package or immediate container a “unique identification number.” In some cases, drug makers are spending as much as 8-10% of a medicine pack’s total production cost only on solutions to protect it from duplication and counterfeiting, according to company executives. Our unique pigments embedded in the ink of a unique serialized barcode can provide a layered security foundation for a customer solution in this market.
+ 
+The Federal Drug Administration (“FDA”) implemented Title II of the Drug Quality and Security Act, entitled the “Drug Supply Chain Security Act.” This regulation requires drug manufactures to add product identifiers, such as our RainbowSecure™ technology as well as our VeriPAS™ track and trace system, to certain prescription drug packages beginning in November 2018.. Some pharmaceutical companies are still evaluating the FDA outline. The FDA has not made clear what penalties will be implemented on pharmaceutical companies who do not participate in the identifier program. We expect all pharmaceutical companies will eventually comply with the legislation at some point in the future. We plan on selling directly to the pharmaceutical industry and their printers. We will also engage third party marketing and sales companies to present our solutions to the drug and pharmaceutical industry. The FDA intends to continue implementing the Drug Supply Chain Security Act to ensure that a full electronic identification system for prescription drugs is implemented by 2023.
+
+
+
+Consumer Products
+ 
+Counterfeit items are a significant and growing problem with all kinds of consumer-packaged goods, especially in the luxury retail and apparel industries.  Our unique ink pigments can be incorporated in dyes and used by manufacturers in these industries to combat counterfeiting and piracy of actual physical goods. Our pigments expressed as inks can also be used on packaging, as well to track products that have been lost in transit, whether misplaced or stolen.
+Food and Beverage
+ 
+Counterfeit food threats are becoming more common as supply chains become more global and as imaging and manufacturing technology become more accessible. Numerous reports of counterfeit foods have been reported, including long-grain rice labelled and sold as basmati rice, Spanish olive oil bottled and sold as Italian olive oil, and mixtures of industrial solvents and alcohol sold as vodka. Although many of these stories have emerged from the U.K. and Europe, the fake-food problem is also relevant in the United States.
+ 
+The National Center for Food Protection and Defense estimates that Americans pay $10 billion to $15 billion annually for fake food — often due to product laundering, dilution and intentionally false labeling. We believe our pigments and authentication tools can help in the battle against counterfeit foods and beverages.
+ 
+Printing and Packaging
+ 
+Counterfeiting in packaging has greatly intensified in recent years, causing concerns for consumers and financial concern for businesses worldwide. Billions of dollars per year are at stake for companies as they seek ways to ensure that the products sold with their logos and branding are authorized and authentic. The proliferation of counterfeiting requires brand owners and their converter/printer partners to work together to create a multi-layered protection plan so that their packaging and labels protect their brands and deter those trying to profit at their (and their reputation’s) expense.
+
+10
+--
+
+
+Counterfeiters have become so good at their unlawful activity that spotting the difference between legitimate and counterfeit products can be daunting. Counterfeiters have many ways to subvert legitimate brands. These may include taking an out-of-date product and selling it in packaging and labels that have been forged; sometimes, the packaging, labels and product itself are all counterfeited. Counterfeiters might also use legitimate packaging coupled with fake products. We believe our pigment security systems are a cost-effective solution for printer and packagers and are easily integrated into their existing manufacturing process.
+ 
+The Opportunity
+ 
+As counterfeiting continues to increase and losses to manufacturers and others continue to escalate, we believe that those entities will seek better technologies to minimize their exposure. These technologies, however, must also be cost-effective, easy to integrate, and highly resistant to counterfeiting themselves. We offer products in two related market segments. We offer security Ink taggants in the Anti-Counterfeiting/Authentication Industry and we offer a software product called VeriPAStm in the identifier/track and trace industry.
+ 
+Track and Trace Solutions Market worth 3.93 Billion USD by 2023
+ According to a report prepared and published by Marketandmarkets.com, the track and trace solutions market is projected to reach USD 3.93 Billion by 2023 from USD 1.65 Billion in 2018, at a compound annual growth rate of 18.9%.
+ 
+Our Solutions
+
+In the areas of authentication and serialization of physical goods, we offer clients the following products as anti-counterfeit systems:
+ 
+· | RainbowSecure™
+--+---------------
+
+
+· | SecureLight™
+--+-------------
+
+
+· | SecureLight+™
+--+--------------
+
+
+· | Authentication tools
+--+---------------------
+
+
+· | VeriPAStm Global Product Identifier, Track and Trace System
+--+------------------------------------------------------------
+
+ 
+RainbowSecure™ technology was our first technology to be patented. It combines an invisible ink with a proprietary tuned laser to enable counterfeit products to be exposed. It has been widely accepted in the gaming industry, where the technology has been used by casinos to protect their chips, dice, and playing cards from fraud.
+ 
+In 2017, VerifyMe signed a five-year contract with HP Indigo to print this technology on packages and labels on their 6000 series digital Presses.  In January 2018, VerifyMe signed a contract with Micro Focus to use RainbowSecure™ in their Global Product Authentication, Track and Trace system (software). The technology also features a unique double layer of security which remains entirely covert at all times and provides licensees with additional protection. RainbowSecure™ is particularly well-suited to closed and controlled environments, such as casinos that want to verify transactions within a specific area, labels, packaging, textiles, plastics and metal products which need authentication.
+ 
+SecureLight™ technology was developed as a result of our investment in new proprietary color changing inks that could penetrate broader markets and result in far greater revenues. During the past decade, we have refined our technologies and their applications, and now have what we believe to be the easiest, most cost effective and efficient authentication technologies available in the world today. Our technology, known as SecureLight™, takes advantage of the new ubiquitous energy efficient fluorescent lighting to change the color of ink, resulting in hundreds of new applications ranging from credit cards to driver’s licenses, passports, stock certificates, clothing labels, currency, ID cards, and tax stamps. The technologies can also be used to protect apparel, pharmaceuticals, and virtually any other physical product. In 2018 we received notice that patents involving this technology have been approved in various European nations.
+ 
+SecureLight+™ technology combines the covert characteristics of RainbowSecure and the overt characteristics of SecureLight. This provides a solution which can be authenticated in two different ways - by proprietary tuned laser devices, and also by anyone with fluorescent lighting including end consumers. In 2018 we received notice that patents involving this technology have been approved in various European nations.
+ 
+VeriPAStm Technology combines the covert identifier of RainbowSecure™ with the Micro Focus Track and Trace software which provides brand owners geographical business intelligence on counterfeiting as well as the ability to authenticate labels, packaging and products. The company is speaking with other Serialization, track and trace software providers and expects to add alternatives to clients beyond the Micro Focus GPAS system.
+ 
+
+11
+--
+
+
+Authentication tools have been developed which we can sell to customers in conjunction with pigments and are tuned to authenticate the unique frequency of each batch. This will allow for customers to instantly authenticate items with a customized beeper which will only positively identify a product bearing their unique anti-counterfeit solution. This authentication is provided in the form of an LED indicator, a camera device which reveals the hidden serialization numbers and codes on a viewing screen and audible beeping device when placed on a label, product or package containing the RainbowSecure™ technology.
+ 
+Raw Material Suppliers
+ 
+Our security pigments are manufactured from naturally occurring inorganic rare earth materials. The manufacturing process includes both chemical and mechanical elements. In many cases, we produce pigments that are unique to a customer or product line. This uniqueness can be achieved through a variety of techniques, including custom formulation or combination of our proprietary pigments and/or incorporation of other specialized taggants.
+ 
+There are many manufacturers of these types of specialized pigments and we intend to maintain multiple simultaneous relationships to ensure ample sources of supply.
+ 
+Distribution
+ 
+We provide pigment mixing instructions for the specific uses of each client based on their existing equipment and processes. We maintain policies and procedures to monitor, track and log access to and disposition of all pigment. Our customers are also required to agree to and implement these policies and procedures.
+Digital Authentication Technologies and Products
+ 
+We believe accurate identification of human beings in electronic transactions, also known as Digital Identity Management, will continue to be a large and rapidly growing market. In today’s world the need for verification of the unique identity of human beings participating in those transactions has become more important as governments and banks are beginning to acknowledge these as valid financial transactions. In general, every electronic transaction has a least two actors – a subject and a relying party. The relying party has a business need to eliminate or reduce risk associated with the identification of the subject.
+ 
+Electronic financial theft and electronic theft of private information make headlines almost every day. According to a 2018 Identity Fraud Study released by Javelin Strategy & Research $16.8 billion was stolen from 16.7 million U.S. consumers in 2017. The majority of this harm can be traced to weak authentication systems, such as Username/Password, yet these weak systems continue to be used in most of the world’s transactional systems. Cybersecurity is a growing threat requiring continuously evolving forms of electronic security.
+ 
+Historically, stronger authentication solutions, such as biometric, two-factor and multi-factor solutions have been difficult to use and expensive to deploy and operate. The extraordinary proliferation of smart phones and tablets provide an infrastructure for disruptive solutions that leverage the mobile nature of these devices and the multi-sensor computing capabilities.
+ 
+VerifyMe Authenticator is a digital identity management software platform that provides extensible authentication mechanisms that can be dynamically invoked to achieve a specified degree of identity assurance. The Authenticator platform incorporates a risk engine that associates individual risk parameters and scores with every unique authentication mechanism. The risk engine then generates aggregate risk scores based on the specific combination of individual authentication mechanisms used to confirm the identity of the human being.
+ 
+We are now enhancing this product and getting it ready for deployment into the financial services industry.  We cannot assure you we will generate any revenues from these efforts.
+ 
+Digital Authentication Technology
+ 
+We believe that the digital technologies we own will enable businesses and consumers to reconstruct their overall approaches to security—from identity and authentication to the management of legacy passwords and PINs. We empower our customers to take advantage of the full capabilities of smart mobile devices and provide solutions that are both simple to use and deliver the highest level of security. These solutions can be applied to corporate networks, financial services, e-gov services, digital wallets, mobile payments, entertainment, subscription services, and social media.
+ 
+The challenges associated with digital access control and identity theft are problems that are highly relevant in the world today. Consumers, citizens, employees, governments and employers demand comprehensive solutions that are timely, reliable but not intrusive. The current widespread use of passwords and personal identification numbers, or PINs for authentication has proven to be unsecure and inadequate. Individuals increasingly expect anywhere-anytime experiences—whether they are making purchases, crossing borders, accessing services or logging into online accounts or corporate resources. They expect those experiences to ensure the protection of their privacy and to provide uncompromising confidentiality.
+ 
+
+12
+--
+
+
+Verification is the front door of all access and transactions. The most fundamental action is to identify “who the person is and how you identify yourself”. We feel our VerifyMe digital authentication is the building block that answers that question. Our VerifyMe Verification technology ensures that users are who they say they are.  Our technology becomes their virtual credentials which are protected from fraud and theft.  There are literally hundreds of millions of identities stolen annually. It is absolutely crucial to know which users have the right to access particular information or transaction, and whether or not unauthorized users have been prevented from accessing those same critically important items.
+
+
+In today’s world we have global workforces, customers, systems and data.  Unfortunately, we have the same global sophisticated cybercrime.   Therefore, vetting users and access also means asking important questions about authentication, such as which authentication method is most appropriate given a resource, channel or specific risk factor.
+ 
+We believe that our digital verification technology meets user expectations for ease of use, privacy and overall experiences especially in financial and healthcare enterprises. For connected organizations, the authentication process is like the front door. To users, it’s important not only to smoothly reach the systems or data they need, but to know that their own account access and data is secured. Authentication is crucial, but it needs to be frictionless to avoid frustrating users whether they are customers, partners, or employees.
+ 
+Passwords are no longer enough - In isolation, passwords are a brittle measure. It has been proven time and time again that even strong credentials can be stolen, cracked or coaxed from end users. Given today’s threat landscape, good security requires strong authentication practices, one of which is multi-factor authentication (“MFA”). Our MFA system requires no passwords at all.
+ 
+By using multiple independent factors VerifyMe’s verification system significantly increases the effort that cybercriminals must exert to break in and access the protected transaction or data.  Also attempts that fail for lack of additional factors raises immediate red flags to end users and their financial or data system administrators.
+ 
+Additionally, our multi-factor authentication (“MFA”) does not use tokens or complicated, tiered passwords. Passwords are replaced by our MFA technology. Passwords are lost, stolen, forgotten, constantly changed, etc. Our MFA removes the need for passwords. The person’s biometrics combined with other non-password factors become their password.
+ 
+Our digital technologies involve the utilization of multiple authentication mechanisms, some of which we own. These mechanisms include biometric factors, knowledge factors, possession factors and location factors. Biometric factors include facial recognition with liveness detection, finger print and voice recognition. Knowledge factors include a personal gesture swipe and a safe and panic color choice. Possession factor includes devices that the user has in their possession such as a smartphone, smart watch, and other wearable computing devices. The location factor geo-locates the user during a secure login. We surround these authentication mechanisms with proprietary systems that improve the usability and the security of the solutions. Our solutions allow the assessment and quantification of risk using a sophisticated patented heuristic scoring mechanism. We have specialized systems that perform ‘liveness’ detection to insure the subject of authentication is in fact a live human being. We have software systems that introduce learning capabilities into our solutions to improve the ease of use and flexibility.
+ 
+In summation we believe that by using a host of factors and our proprietary scoring system gives a 99% assurance that the person behind the transaction is the person they say they are.
+ 
+The digital technologies we own will enable businesses and consumers to reconstruct their overall approaches to security—from identity and authentication to the management of legacy passwords and PINs. We empower our customers to take advantage of the full capabilities of smart mobile devices and provide solutions that are both simple to use and deliver the highest level of security.
+ 
+Our digital multi-factor verification software solutions can be applied to:
+ 
+· | Cryptocurrencies
+--+-----------------
+
+
+· | Blockchain Authentication
+--+--------------------------
+
+
+· | Corporate Networks
+--+-------------------
+
+
+· | Digital Drop Box Access
+--+------------------------
+
+
+· | Physical Access
+--+----------------
+
+
+· | Banking
+--+--------
+
+
+· | Financial Transaction Services
+--+-------------------------------
+
+
+· | Medical Insurance
+--+------------------
+
+
+· | Gaming
+--+-------
+
+
+· | Retail
+--+-------
+
+
+· | Notary
+--+-------
+
+
+· | Digital Wallets
+--+----------------
+
+
+· | Legal
+--+------
+
+
+· | Government (e-gov services)
+--+----------------------------
+
+
+· | Military
+--+---------
+
+
+13
+--
+
+
+· | Pharmaceutical
+--+---------------
+
+
+· | Immigration
+--+------------
+
+
+· | Entertainment
+--+--------------
+
+
+· | Social Media
+--+-------------
+
+
+· | Mobile Payments
+--+----------------
+
+
+· | Purchaser Authentication
+--+-------------------------
+
+
+· | Notary Authentication
+--+----------------------
+
+
+· | Electronic Forms
+--+-----------------
+
+
+· | Voting Systems
+--+---------------
+
+
+· | Subscription services
+--+----------------------
+
+
+· | Employee Time Systems
+--+----------------------
+
+Digital Authentication Industry Background
+ 
+The growth in internet banking and internet commerce and the increasing use and reliance upon proprietary or confidential information that is remotely accessible by many users by businesses, government and educational institutions, has made information security a paramount concern. We believe that enterprises are seeking solutions that will continue to allow them to expand access to data and financial assets while maintaining network security.
+ 
+A vendor in the user authentication market delivers on-premises software/hardware or a cloud-based service that makes real-time authentication decisions for users who utilize an arbitrary endpoint device (that is, not just Windows PCs or Macs) to access one or more applications, systems or services in a variety of use cases. Where appropriate to the authentication methods supported, a vendor in this market also delivers client-side software or hardware that end users utilize to make those real-time authentication decisions.
+ 
+The market is mature, with several vendors offering products that have been continuously offered during the past three decades (although ownership has changed over that time). However, new methods and vendors continue to emerge, with the most rapid growth occurring within the past decade in response to the changing market needs for different trade-offs among trust, user experience and total cost of ownership. The greater adoption of user authentication over a wider variety of use cases, the impact of mobile, cloud and big data analytics, and the emergence of innovative methods continue to be disruptive.
+ 
+While over 100 authentication vendors currently operate in the market, the vast majority deliver two-factor authentication solutions. Even the few vendors that market biometric solutions simply combine them with a password for two-factor security.
+ 
+Internet and Enterprise Security.  With the advent of personal computers and distributed information systems in the form of wide area networks, intranets, local area networks and the Internet, as well as other direct electronic links, many organizations have implemented applications to enable their workforce and third parties, including vendors, suppliers and customers, to access and exchange data and perform electronic transactions. As a result of the increased number of users having direct and remote access to such enterprise applications, data and financial assets have become increasingly vulnerable to unauthorized access and misuse.
+Individual User Security.  In addition to the need for enterprise-wide security, the proliferation of personal computers, personal digital assistants and mobile telephones in both the home and office settings, combined with widespread access to the Internet, have created significant opportunities for electronic commerce by individual users such as electronic bill payment, home banking and home shopping.
+ 
+The continued reliance by most enterprises on passwords and PINs has resulted in daily identity theft and data breaches, with massive attacks being announced almost every week. The companies that have been attacked and compromised private data include top brands in finance, retail, entertainment, technology and governments.
+ 
+Strong Authentication Market
+ 
+A strong authentication market has emerged, initially led by two-factor authentication solutions. Two-factor authentication solutions combine a password with a second factor, which typically involves proving possession of some object, which may include a one-time password token that generates rotating secret codes, a telephone via a callback or a SMS message, or an email address via emailing a secret code.
+ 
+The global MFA market was valued at $4.05 billion in 2015 and is predicted to reach more than $13.59 billion by 2022 as three-, four- and five-factor authentication systems gain prominence. Part of this growth can be attributed to the rise of biometric security services, such as fingerprint, retina and facial scanning. A recent report found that all authentication methods using more than two factors included some form of biometric scanning.
+ 
+
+14
+--
+
+
+Currently, 90% of the MFA market belongs to two-factor authentication. These “standard” methods include passwords, hardware tokens and PINs, although some systems do employ a secondary biometric scan. With a predicated compound annual growth rate of 19.67 percent over the next two years, however, it’s clear that the other 10 percent — and the biometric technology needed to support them — will play a large role. As it stands, three-factor authentication is mostly used in bank lockers and immigration, while four- and five-step methods only make an appearance in high-level government operations. Part of the problem is cost since it’s often prohibitive for a small business to roll out full facial recognition or install high-level fingerprint scanners.
+ 
+Password Manager/Digital Wallet Market
+ 
+Until companies figure out a better way to protect their data in the cloud, we believe that the best solution is to enforce higher security with password managers.  Password managers provide tools to encrypt text files that can store passwords that are not Web based, such as Windows and Outlook passwords, Lotus Notes passwords, administration passwords including local and domain accounts, BIOS passwords, encrypted hard drive passwords, cell phone and voicemail passwords and iPad and iPhone passwords.  Password managers promise greater security while improving the user experience.
+ 
+The best password managers sync to the cloud across all dominant platforms and require multi-factor authentication. There are currently no password managers that utilize more than two-factor authentication and none that incorporate additional biometric mechanisms.
+ 
+The Opportunity
+ 
+As identity theft and data breaches continue to increase and losses to service providers and individuals continue to escalate, we see both enterprises and consumers seeking better solutions to protect their interests. These solutions must be cost effective, easy to integrate, and simple to use.
+ 
+According to a market research report prepared by www.marketsandmarkets.com, the biometric system market size is expected to increase from USD 105.9 billion in 2018 to USD 182.2 billion by 2023, at a compound annual growth rate of 11.5% between 2018 and 2023. Any transaction or action which requires authentication of an individual is a potential opportunity for a strong multi-factor solution such as VerifyMe Authenticator. This is a very large market opportunity, within which we are focused on four specific segments:
+ 
+
+· | Subscription services market, where revenue is commonly lost due to multiple individuals sharing user credentials to access information and services;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Online gaming market, where financial transactions are performed and geo-location is very important to maintaining compliance with state/country regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Financial services market, where there is a large financial risk to identity theft and fraud, including banking, purchases, mobile payments, and digital wallets
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Access control market, where the identity of individuals is key to allow access to buildings as well as digital access to data
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Social Media Market to identify people versus robots or imposters
+--+------------------------------------------------------------------
+
+Our Solution
+ 
+VerifyMe Authenticator delivers an electronic authentication solution for identifying individual human beings. When subject attempts to access an internet resource and asserts an identity, VerifyMe Authenticator attempts to authenticate the asserted identity. It does this utilizing multiple strong authentication mechanisms, involving at least three independent factors. VerifyMe Authenticator can deliver identity assurance consistent with National Institute of Standards and Technology (NIST) Level 4 authentication requirements as specified in Special Publication 800-63-1.
+ 
+VerifyMe Authenticator is based around mobile apps that incorporate a password manager and single sign on capability. In addition to facilitating strong authentication during the logon process to the enterprise resource or service, VerifyMe Authenticator also lets the user conveniently integrate and protect all of their legacy username and passwords.
+ 
+Fast and Easy to Use
+ 
+VerifyMe Authenticator replaces passwords and PINs with a quick, intuitive and user-friendly interface. Our customers can authenticate end users in multiple ways (multi-factor) in the same timeframe as a conventional password login. The service is platform agnostic (available for IOS, Android, Mac and PC), and scalable for use on wearable personal devices.
+ 
+Support for Any Authentication Method
+ 
+VerifyMe Authenticator has the ability to authenticate individuals using facial recognition, fingerprint, voice scanning, retina scanning, swipe pattern recognition, location detection and approved IP detection. We believe that Authenticator can provide the highest levels of confidence, security and account protection to a businesses’ customers, all within seconds. VerifyMe Authenticator are not limited to specific authentication factors. Our platform can support any available authentication mechanism, including those that require policy-driven mechanisms.  We are continuing to add new authentication mechanisms, including mechanisms suitable for wearable devices and new biometrics.
+
+15
+--
+
+Multi-Factor Confidence Scores
+ 
+Depending on the desired level of confidence, different online and mobile application accounts can require varying quality scores. As the desired level of security increases, so does the required quality score to complete a sign-in transaction. As the quality score increases, additional authentication factors are added to the sign-in process.
+Secure Platform, Easy to Integrate
+ 
+VerifyMe Authenticator can be delivered either as managed service from our secure cloud or as licensed software which can be operated with existing infrastructure.  VerifyMe Authenticator also features the following benefits:
+
+· | Available to be white-labeled and integrated into existing digital platforms;
+--+------------------------------------------------------------------------------
+
+
+· | Non-Stop, audited, monitored, private cloud service;
+--+-----------------------------------------------------
+
+
+· | Three independent, fault tolerant, redundant data centers;
+--+-----------------------------------------------------------
+
+
+· | Global load balancing and traffic management;
+--+----------------------------------------------
+
+
+· | High level commercial API’s can be integrated in hours; and
+--+------------------------------------------------------------
+
+
+· | Complete audit information, including fresh biometrics.
+--+--------------------------------------------------------
+
+ 
+The three factors VerifyMe Authenticator utilize include, but are not limited to, the following:
+ 
+Factor 1 – Something you have – a possession device – typically this is a registered mobile device, which we can authenticate either via SMS or email round robin protocol.
+ 
+Factor 2 – Something you know – a knowledge factor – we currently utilize a color gesture swipe. This requires the subject to confirm their secret color and appropriately connect dots on a matrix consistent with their registered gesture pattern.
+Factor 3 – Something you are – we utilize facial recognition to authenticate images captured in real-time using the registered devices built in camera, with images that were stored in the subject’s profile during registration.
+ 
+Our platform can be distinguished from competitors in that it is not limited to any of the above authentication mechanisms; VerifyMe Authenticator currently supports many more authentication mechanisms and we intend to continue expanding this list.  For example, our platform is not limited to facial recognition as a biometric mechanism. It currently supports voice, fingerprint and other mechanisms.
+ 
+In addition, VerifyMe Authenticator includes a risk-scoring engine that is able to enforce complex, customer specific authentication policies and shield them from the underlying complexity of evaluating multiple, independent authentication mechanisms. This risk engine allows us to constantly add new authentication mechanisms as they emerge. We see the emerging market of wearable devices as providing new authentication mechanisms that will be very simple and reliable for the end-user. Because our risk engine insulates the enterprise from the complexity of having to interface with all these different platforms, they are available to benefit from and insure their customers can utilize these devices to their full potential.
+ 
+VerifyMe Authenticator is platform agnostic (available for IOS, Android, Mac, Linux and Windows) and scalable for use on wearable personal devices. The digital platform is an enterprise solution, which combines multiple independent authentication factors and can also determine geo-location utilizing a number of mechanisms including GPS, cell tower triangulation and IP/WIFI address. Because the service utilizes biometrics and liveness detection, it eliminates the possibility that users might share their authentication credentials, or that user accounts can be accessed by other individuals. The combination of biometrics and geo-location provides extremely strong transactional evidence, making it nearly impossible for an end-user to refute having been part of a transaction.
+ 
+The VerifyMe Authenticator technology has essentially been completed and the first commercial units have been ordered and are expected to be received in April 2019. The company spent approximately $24,000 on hosting of our MFA software and $0.3 million on software and hardware development. We had no sales in 2018 in relation to our MFA technologies due to further refinement to address new smart phone capabilities. Our MFA can now work of both Apple IOS and Android phone systems. In 2018 we developed APPs which are used in conjunction with the MFA technology. These APPS are now fully functional except we expect to enhance and upgrade the visual appearance and functionality of the APP to enhance a customer’s experience.
+
+
+
+16
+--
+
+
+MFA Marketing and Sales:
+ 
+We have presented the technology to approximately 10 different inquires we have had. To date we have had zero sales.
+ 
+Several of the inquires informed us they wanted to merge their digital company into our company to make use of MFA.  Since these opportunities are almost all early development stage start-ups we did not pursue these opportunities since it would have been a lengthy process with significant capital requirements. The Company is seeking business partners with revenue and proven business models.
+
+
+The following types of companies have approached us on our MFA technology and are in various early stages of the sales process:
+ 
+
+1. | Company specializing in technology to replace passwords with codes
+---+-------------------------------------------------------------------
+
+
+2. | Digital Forms company who wanted to use our MFA to sign Electronic Forms
+---+-------------------------------------------------------------------------
+
+
+3. | Notary Company to use our MFA to Electronically Authenticating people for Notary Services
+---+------------------------------------------------------------------------------------------
+
+
+4. | Background Check Company using MFA to authenticate resumes and background history
+---+----------------------------------------------------------------------------------
+
+
+5. | Banking technology service bureau space explored offering MFA to its small banks that do not have internal data processing facilities.
+---+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+6. | Group working with a foreign government to establish a bank in the cloud is interested in offering our MFA for bank transactions.
+---+----------------------------------------------------------------------------------------------------------------------------------
+
+
+7. | Crypto Coin Consulting company inquiring for use of our MFA for Crypto client transactions
+---+-------------------------------------------------------------------------------------------
+
+
+8. | Pharmaceutical – Medical Insurance Authentication for Prescriptions.
+---+---------------------------------------------------------------------
+
+Our Technology
+ 
+
+Intellectual property is important to our business. The current patent and trademark portfolios consist of 10 granted US patents and 1 granted European patent validated in 4 countries, 3 pending US and foreign patent applications, 1 registered US trademark, and 13 pending US and foreign trademark applications.
+ 
+ In addition, 7 patent applications were abandoned.  The company plans on is considering the filing for reinstatement on some of the abandoned patent applications.
+ 
+Our patents expire between the years 2019 and 2033. 
+ 
+We have attempted to achieve sufficient flexibility in our products and technologies so as to provide cost-effective solutions to a wide variety of counterfeiting problems. We intend to generate revenues primarily by selling pigment to manufacturers who incorporate our technologies into their manufacturing processes and their products as well as through licensing fees where we are providing unique or custom solutions.
+ 
+Our Intellectual Property
+ 
+Intellectual property is important to our business.  While some of our granted patents are commercially ready, we believe that others may have commercial application in the future but will require additional capital and/or a strategic partner in order to reach the potential markets. All of our patents are related to the inventions described above. Our patents expire between the years 2019 and 2033.
+ 
+It is cost prohibitive to register patents in every country.  We continue to develop new anti-counterfeiting technologies and we apply for patent protection for these technologies in countries with the most market potential and strong patent enforcement tools.  When a new product or process is developed, we may seek to preserve the economic benefit of the product or process by applying for a patent in each jurisdiction in which the product or process is likely to be exploited. 
+ 
+The issuance of a patent is considered prima facie evidence of validity.  The granting of a patent does not prevent a third party from seeking a judicial determination that the patent is invalid. Such challenges to the validity of a patent are not uncommon and can be successful. There can be no assurance that a challenge will not be filed to one or more of our patents, if granted, and that if filed, such a challenge will not be successful.
+ 
+We believe that the physical technologies we own will enable businesses and consumers to reconstruct their overall approaches to security—from counterfeit identification to employee or customer monitoring. In addition to packaging and labels our physical security printing technologies can be applied to authenticate important credentials such as driver’s licenses, plastics, metal, apparel, birth certificates, immigration documents, gaming, apparel, currency, event and transportation tickets, passports, computer software, and credit cards. We can generate revenue through licenses and royalties of our technology and through direct sales of our technology.
+ 
+
+17
+--
+
+Research and Development
+ 
+We have been involved in research and development since our inception and intend to continue our research and development activities, funds permitting. Until January 1, 2013, our research and development focused on pigment technologies. Since January 1, 2013, we have allocated research and development efforts between digital and pigment technologies. We hope to expand our technology into new areas of implementation and to develop unique customer applications. We spent approximately $0.2 million and $0.1 million on research and development during the years ended December 31, 2018 and 2017, respectively.
+Our Revenue Model
+ 
+To date, we have not generated material revenue. VerifyMe has three potential revenue streams.
+ 
+RainbowSecure™ We believe that our recent contract with HP Indigo will create demand for our RainbowSecure™ and VeriPASTM products.  Working with HP Indigo and S-One Labels and Packaging, we are creating a co-marketing programs to effectively reaches all 6000 series HP Indigo owners.   We also will reach out to brand owners and make them aware of our physical security solutions which can provide brand owners counterfeit prevention protection. We intend to generate revenues primarily by collecting license fees based on usage fees generated from HP Indigo 6000 series users as well as non-digital press technology usage.  Our revenue is derived utilizing a royalty rate based on the volume of a particular label or package printed with our RainbowSecure™ technology e.g. a royalty on each impression. We also have revenue that will be generated with the sales of authentication devices from manufacturers who incorporate our technologies into their manufacturing processes and user authentication protocols, as well as through the sale of pigments to be incorporated in inks and dyes and the sale of authentication tools.
+
+
+Our VeriPAStm technology product is an identifier, track and trace system which generates revenue from a contracted usage fee per impression rate based on the number of codes which are purchased for application on labels and packages printed with the technology.
+ 
+Our VerifyMe Digital Authentication technology is a software system.  The revenue to be generated from this product will be in the form of a contracted per transaction fee and or a monthly service fee.
+ 
+Sales and Marketing Strategy:
+ 
+Physical Security Technology Marketing Strategy
+ 
+Due to our signed five-year contract with HP Indigo, we plan on marketing directly with HP Indigo 6000 series owners as well as the label and packaging printing industry including both traditional and digital printers and users to address their clients’ needs for our covert serialization. Those printers will market and resell our technologies to both current and future brand owner clients.
+ 
+Currently the only HP Indigo model approved for the use of our technology is the HP Indigo 6000.  It is currently being expanded to include the larger HP Indigo 30,000.
+ 
+In addition to the printing industry we will be marketing directly to all brand owners who utilize labels and packaging for their products. Brand owners can be licensed directly by VerifyMe and direct their personal printer to print their labels and packaging with the VerifyMe printing technologies.  The brand owner will therefore pay their royalties directly to VerifyMe based on the number of labels and packages units that their printer applied the technology to.
+ 
+In addition, VerifyMe will engage third parties to market, sell and support our physical security technologies on a global basis for a contracted fee based on their sales.  Our targeted third parties will already have a successful track record in supporting HP Indigo owners as well as traditional printing clients.
+ 
+As discussed above, in March 2018 we entered into a strategic partnership with S-One. S-One provides VerifyMe with global sales, distribution, and promotion support for the Company’s products and will employ a representative that will be solely dedicated to promoting the Company’s products. Under the terms of the Company’s agreement with S-One, S-One acts as a sales and marketing contractor for the Company’s printed products and services on a global basis and assists the Company in fulfilling the Company’s obligations under the Company’s signed current and future reseller agreements with various global and domestic print providers and brand owners.
+ 
+
+The FDA is implemented the identifier track and trace portion of the Title II of the Drug Quality and Security Act in November 2018, entitled the “Drug Supply Chain Security Act.” This regulation requires drug manufactures to add product identifiers, such as our RainbowSecure™ technology as well as our VeriPAStm track and trace system, to certain prescription drug packages beginning in November 2018. Re-packagers must begin adding product identifiers in November 2018. We will also engage third party marketing and sales companies to present our solutions to the drug and pharmaceutical industry. The FDA intends to continue implementing the Drug Supply Chain Security Act to ensure that a full electronic identification system for prescription drugs is implemented by 2023.
+ 
+
+18
+--
+
+
+Another marketing out-reach is that our track and trace partner, Micro Focus is contracted to cross sell our technologies as part of their Global Product Authentication System called “GPAS”.  We are also contracted with Micro Focus to re-sell their GPAS product with our RainbowSecure™ technology under our own trademarked name, VeriPASTM which stands for VerifyMe Global Product Authentication System.
+
+
+An additional marketing strategy is to incorporate our technology into the high-speed inkjet hardware that traditional Flexo and Commercial Printers use to add a variable data feature for their clients.
+ 
+Some of the major brand segments that need our type of label, packaging and serialization identifier products are:
+ 
+Consumer Product Security
+ 
+· | Pharmaceuticals
+--+----------------
+
+
+· | Food
+--+-----
+
+
+· | Beverages
+--+----------
+
+
+· | Luxury goods
+--+-------------
+
+
+· | Cosmetics
+--+----------
+
+
+· | Alcohol
+--+--------
+
+
+· | Auto parts
+--+-----------
+
+
+· | Aviation parts
+--+---------------
+
+
+· | Any other label/ packaging requirements
+--+----------------------------------------
+
+Documents of Value
+ 
+· | Currency
+--+---------
+
+
+· | Stock certificates and bonds
+--+-----------------------------
+
+
+· | Event tickets
+--+--------------
+
+
+· | Lottery tickets
+--+----------------
+
+Homeland Security
+ 
+· | Passports
+--+----------
+
+
+· | ID cards
+--+---------
+
+
+· | Driver’s licenses
+--+------------------
+
+
+· | Visas
+--+------
+
+
+· | Container seals
+--+----------------
+
+
+· | Pallet security
+--+----------------
+
+Military
+ 
+· | Uniforms
+--+---------
+
+
+· | Weapons
+--+--------
+
+
+· | Ammunition
+--+-----------
+
+Product Diversion Tracking
+ 
+· | Pharmaceuticals
+--+----------------
+
+
+· | Apparel/licensed merchandise
+--+-----------------------------
+
+
+· | Cosmetics and fragrances
+--+-------------------------
+
+
+· | Watches and jewelry
+--+--------------------
+
+Financial Services and Products
+ 
+· | Consumer login credentials
+--+---------------------------
+
+
+· | Online transaction approval
+--+----------------------------
+
+
+· | Credit cards
+--+-------------
+
+
+· | Bank checks
+--+------------
+
+
+· | Financial documents/promissory notes
+--+-------------------------------------
+
+ 
+We plan for our sales and marketing strategy to include an outreach program and sales programs that tailor the product to the governmental body or merchant, as well as key partnerships with authorities and merchants whose products or audiences can be complementary to our own. In particular, we will focus on building relationship with key partners who can deliver our products to their existing and prospective customers in target markets - i.e., printer/packagers, plastic card manufacturers and financial services intermediaries.
+ 
+
+19
+--
+
+Digital VerifyMe Authenticator Technology Marketing Strategy
+ 
+Our VerifyMe Authenticator Digital software technology will be marketed directly to potential clients through the use of demonstrations and trade shows.
+ 
+Our initial targeted market segment is the financial services industry.  This includes both the traditional banking and crypto financial transaction industries.  Our second targeted market segment will be the healthcare industry.  The third targeted market is the gaming industry.   The fourth target market segment we will market to will be governments.  Governments can be both foreign and domestic as well as federal, state and local levels.
+ 
+All of these market outreaches will be made directly by the Company and we are also going to use third party marketing vendors who specialize in software sales.
+ 
+Competition
+ 
+The market for protection from counterfeiting, diversion, theft and forgery is a mature more than 25-year old industry dominated by a number of large, well-established companies, particularly in the area of traditional overt security technologies where repeating static produced images are commonly used. This is due to the fact that security printing for currency production began in Europe over a century ago and has resulted in the establishment of old-line security printers which have branched out into brand and product protection as well. In North America, brand protection products, such as tamper-resistant packaging, security labels, and anti-theft devices are readily available and utilized on a widespread basis. In recent years, however, demand has increased for more sophisticated overt and covert security technologies with a strong desire for technologies that can provide variable images and data. Competitors can be segregated into the following groups: (i) Security Ink Manufacturers. These are generally well-established companies such as SICPA and Sun Chemical, whose core business is manufacturing and selling printing inks; (ii) System Integrators. These companies have often evolved from other sectors in the printing industry, mainly security printing manufacturers, technology providers, or packaging and label manufacturers. These companies offer a range of security solutions, enabling them to provide a complete suite of solutions tailored to the customer’s specific needs and requirements. The companies in this space include 3M, DuPont, Opsec, Honeywell, and Avery Dennison; (iii) System Consultancy Groups. These companies offer a range of technologies from several different providers and tailor specific solutions to end-users; (iv) Traditional Authentication Technology Providers. These purveyors include companies like American Banknote Holographics, Crown Roll Leaf and Digimarc, which provide holograms and digital watermarking, respectively; (v) Product Diversion Tracking Providers. Applied DNA Sciences Next-Generation Technology Providers LLC falls into this group, along with several companies such as Applied DNA Sciences, Authentix, DNA Technologies, and Identif, Kodak Traceless, which provide on-product and in-product tagging technologies; (vi) Traditional Security Printers. This group includes traditional security printers such as Thomas de la Rue, Canadian Banknote, and Banknote Corporation or America, and Portals, whose core products are printing the world’s currencies; and (vii) Biometric Solution Providers. These companies offer biometric authentication capabilities to be integrated with existing mobile device authentication, such as OT-Morpho and ImageWare Systems.
+
+
+To compete effectively, we are seeking to establish key relationships with major digital solution equipment and distribution providers such as we have done with HP Indigo.  While leveraging these relationships, we still expect that we will need to expend significant resources in technology and marketing. Many of our competitors have substantially greater financial, human and other resources than we have. As a result, we may not have sufficient resources to develop and market our services to the market effectively.
+ 
+We expect competition with our products and services to continue and intensify in the future. We believe competition in our principal markets is primarily driven by:
+ 
+
+· | product performance, features and liability;
+--+---------------------------------------------
+
+
+· | price; new laws and regulations;
+--+---------------------------------
+
+
+· | product innovation and timing of new product introductions;
+--+------------------------------------------------------------
+
+
+· | ability to develop, maintain and protect proprietary products and technologies;
+--+--------------------------------------------------------------------------------
+
+
+· | sales and distribution capabilities;
+--+-------------------------------------
+
+
+· | technical support and service;
+--+-------------------------------
+
+
+· | brand loyalty;
+--+---------------
+
+
+· | applications support; and
+--+--------------------------
+
+
+· | breadth of product line.
+--+-------------------------
+
+
+
+If a competitor develops superior technology or cost-effective alternatives to our products, our business, financial condition and results of operations could be significantly harmed.
+ 
+
+20
+--
+
+
+Major Customers/Vendors
+ 
+During the years ended December 31, 2018 and 2017, between one and four customers accounted for 100% of total sales.  Generally, a substantial percentage of the Company's sales has been made to a small number of customers and is typically on an open account basis.
+ 
+In 2018, the Company announced two re-seller contracts for its RainbowSecure™ technology.  One of these contracts was with a global billion dollar label printer.  The Company also signed a similar contract for its RainbowSecure™ technology with a leading RFID technology label group.  Both of these customers have clients in the consumer products industry.
+ 
+On September 6, 2017, we announced a five-year contract with HP to supply HP Indigo Digital press ink canisters containing our technology pigment for use by HP Indigo digital press owners who print our security feature on labels and packages for their brand owners. In 2018, our customers used our technology to print product labels using HP RainbowSecure technology.
+ 
+On January 17, 2018 we announced a cross re-selling agreement with Micro Focus, a public global software developer.  Micro Focus will be offering our technology to their track and trace clients requiring an identifier to accompany Micro Focuses Track and Trace system.  VerifyMe also can sell GPAS which is printed on labels and packaging along with our covert to store our hidden covert serial number in the cloud for product diversion investigators to authenticate with a proprietary app on a mobile device.
+ 
+In March 2018 we entered into a strategic partnership with S-One. S-One provides companies with product and sales channels, technical and marketing support, digital development support, and distribution channels through the other companies which have partnered with S-One. S-One will provide the VerifyMe with global sales, distribution, and promotion support for the Company’s products and will employ a representative that will be solely dedicated to promoting the Company’s products. Under the terms of the Company’s agreement with S-One, S-One will act as a sales and marketing contractor for the Company’s printed products and services on a global basis and will assist the Company in fulfilling the Company’s obligations under the Company’s signed current and future reseller agreements with various global and domestic print providers and brand owners.
+ 
+During the years ended December 31, 2018 and 2017, we purchased 100% of our pigment from one vendor.
+ 
+VerifyMe utilizes multiple vendors including the pigment vendor for engineered RainbowSecure™ authentication devices.
+ 
+Facilities
+ Our principal offices are located at 75 S. Clinton Avenue, Suite 1525 Rochester, NY  14604.
+ 
+We believe that our office is suitable and adequate for our current needs.
+ 
+We do not own or operate, and have no plans to establish, any manufacturing facilities.
+ 
+Employees
+ 
+As of March 31, 2019, we had two full-time employees, our Chief Executive Officer and our Vice President of Sales, one part-time employee, our Chief Financial Officer, and two outside contractors, including our Chief Operating Officer and our Chairman.

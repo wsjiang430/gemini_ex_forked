@@ -1,0 +1,66 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.
+ 
+Unless otherwise stated or the context requires otherwise, references in this annual report on Form 10-K to “Digital Locations,” the “Company,” “we,” “us,” or “our” refer to Digital Locations, Inc.
+ 
+Overview
+ 
+We are the developer of an open-source content management system (“CMS”) software, called ExpressionEngine, with an early stage development effort to use artificial intelligence (“AI”) to create highly personalized digital content and online experiences.
+ 
+Today, there are more than 7.6 billion people in the world, of whom more than 4.1 billion are Internet users. No two are exactly alike. By combining AI technologies, such as machine learning and big data analytics, we intend to allow websites, mobile apps, email and other forms of digital communication to dynamically deliver personalized content that is relevant, engaging and motivates the user to action. From the automatic selection of colors and content to a completely personalized look and feel, we intend to allow website owners and marketers to create digital experiences that foster deep and personal connections with their users. This is all part of our bigger vision to ultimately use artificial intelligence to create complete original content that is personalized for everyone. We believe that AI generated content, including literature, music, textbooks, videos and websites, can be more personal, more relatable and more understandable.
+ 
+Previously, our business focused on the development of proximity marketing solutions. In November of 2018, we completed the acquisition of EllisLab, Inc. the creator of ExpressionEngine, and redirected our business to the content management space for revenue and growth. ExpressionEngine is a commercial-grade CMS that has powered presidential campaign websites, such as Barack Obama in 2008 and Donald Trump in 2016, as well other websites from global companies such as Starbucks, Disney and Nike. In the November 2018 acquisition, EllisLab, Inc. was merged into EllisLab Corp, a wholly owned subsidiary of Digital Locations, Inc. with EllisLab Corp as the surviving entity. This acquisition was an important first step to help us achieve our vision of AI-powered content personalization. 
+ 
+Recently, we transformed ExpressionEngine into a free and open source software platform (FOSS), following in the footsteps of RedHat, WordPress and other successful open source platforms. Doing so will allow us to quickly increase the user base of ExpressionEngine. From this community we intend to collaborate, distill, and develop our AI-based content personalization products and services. 
+ 
+In changing to a FOSS model, we no longer derive our revenue from software sales, but rather from complementary services and premium add-ons to the ExpressionEngine platform and community. We are currently executing a plan to achieve profitability with these new products and services. 
+ 
+Market Opportunity
+ 
+In an increasingly online world, competitors are only one click away. Therefore, businesses need better ways to differentiate themselves from their competitors. Building more personal relationships with their existing and prospective customers is crucial for success. Marketers generally agree that personalized content is the best way to achieve that goal. 
+ 
+Content personalization is the ability to create a unique online experience based on the needs, preferences and interests of the user. Previous generations of personalization technology are primarily rule-based, such as “if this then show that content” type of rule. However, with 4.1 billion worldwide Internet users expecting to be treated as individuals, the number of rules required for effective personalization is astronomical and nearly impossible to implement. We believe that AI techniques such as machine learning and big data analytics can process large quantities of data and variables to generate highly adaptive and personalized content specific to individual users, all in real-time. 
+ 
+
+3
+
+ 
+According to various market research firms, there is a definite need for personalized content:
+ 
+ 
+· | 91% of consumers are more likely to shop with brands that recognize, remember, and provide relevant offers and recommendations. (Accenture)
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+· | 83% of consumers are willing to share their data to enable a personalized experience. (Accenture) 
+· | 60% of marketers struggle to personalize content in real time, yet 77% believe real-time personalization is crucial. (Adobe, Inc.) 
+· | 59% of shoppers who have experienced personalization believe it has a noticeable influence on purchasing. (Infosys Limited) 
+· | 83% lower response rate in marketing campaigns if content is not relevant. (Monetate) 
+
+
+There are many ways to provide personalized contents, and AI is one of the more exciting new ways. The Boston Consulting Group, in a 2018 research report, predicts that over the next five years in three sectors alone—retail, health care, and financial services—personalization will push a revenue shift of some $800 billion to the 15% of companies that get it right. We believe that AI-based personalization will help companies “get it right.”
+ 
+TechNavio, in its 2018 research report, predicts that artificial intelligence-based personalization market will witness considerable growth during the period 2018-2022, with a compounded annual growth rate of 13%. The website personalization application segment, a near term market opportunity that we are focused on, will account for the highest growth in the AI-based personalization market. Other growing markets for AI-based personalization are display ads, social media, and e-mail.
+ 
+Competition
+ 
+For 15 years, ExpressionEngine enjoyed success as a popular CMS. The market for commercial web applications, however, has increasingly lost ground to open source, which today commands over 85% of the market. For example the most popular open source CMS is WordPress, which dominates nearly 60% marketshare. Other competitors such as such Drupal and Joomla also have larger marketshare than ExpressionEngine. However, our current goal with the free and open source ExpressionEngine is not to topple any of the existing free and open source platforms. Our plan is to systematically increase the user community of ExpressionEngine into a foundational revenue and profitable business line, and provide us with a platform and community to develop and roll out our AI personalization technology. 
+ 
+Our AI personalization platform will be designed as an add-on module for most popular CMS platforms such as WordPress or Drupal, in addition to ExpressionEngine. Therefore we will not compete with the big CMS players, but rather partner and complement them. The market for personalization technology and platforms, however, is wide and very competitive with players of various sizes and market focus. For example, for personalization integrated with web analytics, there are strong offerings such as, Adobe Target, IBM Coremetrics, and Google Optimizer 360. Personalization feature as a part of a CMS has competitors such as Episerver, Sitecore, Kentico and others. For digital marketing automation and website personalization, there is Evergage, BrightInfo, Idio, Sitespect, and others. Companies such as LogicHop, which provides personalization for WordPress websites, can be viewed as our near term competitors. 
+ 
+As we make progress in the development of our AI personalization technology, we will take into consideration various competitive solutions and features to create a uniquely compelling product. We will also consider acquisition of smaller players to bolster our presence in the personalization marketplace. 
+ 
+Corporate History
+ 
+Digital Locations, Inc. was incorporated in the State of Nevada on August 25, 2006 as Zingerang, Inc. On April 2, 2007, the Company changed its name to Carbon Sciences, Inc. and on September 14, 2017, the Company changed its name to Digital Locations, Inc.
+
+4
+
+ 
+On November 30, 2018, the Company entered into an Agreement and Plan of Merger with the EllisLab, Inc., Rick Ellis (“Ellis”), and EllisLab Corp., a newly formed Nevada corporation and wholly owned subsidiary of the Company, pursuant to which EllisLab, Inc. merged with and into EllisLab Corp. (the “Merger”). Pursuant to the terms of the Merger, Ellis received 36,000 shares of the Company’s newly designated Series C Convertible Preferred, with a stated value of $100 per share, in exchange for the cancellation of all common shares of EllisLab, Inc. owned by Ellis, which shares represented 100% of the issued and outstanding capital stock of EllisLab, Inc. The separate legal existence of EllisLab, Inc. ceased, and EllisLab Corp. (“EllisLab”) became the surviving company. EllisLab now operates as a private, wholly-owned subsidiary of the Company. 
+ 
+Intellectual Property
+ 
+We have filed numerous patent applications with the United States Patent and Trademark Office (“USPTO”) in the course of our business history. However, patent applications that are not related to the current business focus of CMS and AI personalization have all been abandoned and we currently do not have any outstanding patent applications. 
+Employees
+ 
+As of the date of this report, we have 6 full-time employees, which are comprised of full-time employees at EllisLab Corp. and one part-time employee at Digital Locations, Inc. We have arrangements with various independent contractors and consultants to meet additional needs, including management, accounting, investor relations, research and development and other administrative functions. 

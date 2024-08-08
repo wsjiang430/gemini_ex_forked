@@ -1,0 +1,370 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. 
+BUSINESS.
+
+We are a digital marketing and data technology company with tools to reach and reveal valuable audiences with marketing and advertising communication. Our machine-learning technology analyzes marketing data to identify brands and content owners' core consumers and their characteristics across marketing channels. Through an omnichannel approach that integrates all aspects of the advertising experience into one platform, we discover new and measurable opportunities that amplify campaign performance and maximize profits. In addition to our business services and technologies, we also operate a direct to consumer platform, BIGToken, which enables consumers to own, manage and sell access to their digital identity and data. This provides us with a direct consumer relationship and gives us valuable proprietary data. We derive our revenues from:
+
+·
+ sales of digital advertising campaigns to advertising agencies and brands;
+ ·
+ sales of media inventory through real-time bidding, or RTB, exchanges;
+ ·
+ sale and licensing of our SRAX Social platform and related media; and,
+ ·
+ creation of custom platforms for buying media on SRAX for large brands;
+ ·
+ Sales of proprietary consumer data.
+
+The core elements of our business are:
+
+·
+ Social Reality Ad Exchange or "SRAX"  Real Time Bidding sell side and buy side representation is our technology which assists publishers in delivering their media inventory to the RTB exchanges. The SRAX platform integrates multiple market-leading demand sources, including OpenX, Pubmatic and AppNexus. We also build custom platforms that allow our agency partners to launch and manage their own RTB campaigns by enabling them to directly place advertising orders on the platform dashboard and view and analyze results as they occur;
+
+·
+ SRAX Social is a social media and loyalty platform that allows brands to launch and manage their social media initiatives. Our team works with customers to identify their needs and then helps them in the creation, deployment and management of their social media presence; and
+
+
+1
+
+
+·
+ SRAXauto tools enable targeting and engagement with potential auto buyers at dealerships, auto shows, and at home across desktop and mobile environments.
+
+·
+ SRAXcore is our generalized services and technologies supporting brands and agencies in data management, audience optimization, and multi-channel and omnichannel media and marketing services;
+
+·
+ SRAXshopper tools enable brands and agencies to connect with shoppers driving in store an online sales; and
+
+·
+ SRAXir tools to assist public companies in analyzing and marketing to their shareholder population; and 
+
+·
+ BIGToken which is a platform that allows consumers to manage and participate in the sales of their digital data. 
+
+Marketing and sales
+
+We market our services through our in-house sales team, which is divided into two distinct activities. One group is responsible for brand advertisers and advertising agencies, and the other is responsible for publisher acquisition and management. Our in-house marketing is focused on social media, including Facebook, LinkedIn and Twitter, public relations (PR), industry events and the creation of white papers which assist in our marketing efforts and are used as lead generation tools for our sales team. We also attend industry specific events such as AdTech, AdExchanger, and Salesforce annual events and local events in Los Angeles and New York.
+
+Intellectual property
+
+We currently rely on a combination of trade secret laws and restrictions on disclosure to protect our intellectual property rights. Our success depends on the protection of the proprietary aspects of our technology as well as our ability to operate without infringing on the proprietary rights of others. We also enter into proprietary information and confidentiality agreements with our employees, consultants and commercial partners and control access to, and distribution of, our software documentation and other proprietary information. Prior to our acquisition of Five Delta in December 2014, in October 2014 it filed a U.S. patent for a method and system for bidding and performance tracking using online advertisements and provisional status has been granted under 62/060,247. In addition, it claimed the benefit of a pending U.S. patent number 61/604,348 for online advertising scoring. The provisional patent application has now been converted to a non-provisional patent application number 12/960,435 and is awaiting examination by the U.S. Patent Office.
+
+Competition
+
+We operate in a highly competitive environment. Our competitors include companies who focus on the RTB market and companies who are focused on providing social media applications on a managed and self-service basis. We believe we compete based on our ability to: (i) assist our customers in obtaining the best available prices, (ii) our excellent customer service and (iii) our innovative products and service offerings. The barrier to entry to our industry is low. We believe that in the future we will face increased competition from these companies as they expand their operations as well as new entrants to our industry. Most of the entities against which we compete, or may compete, are larger and have greater financial resources than our company. Competition for advertising placements among current and future suppliers of Internet navigational and informational services, high-traffic websites and Internet service providers, as well as competition with other media for advertising placements, could result in significant price competition, declining margins and reductions in advertising revenue. In addition, as we continue our efforts to expand the scope of our services, we may compete with a greater number of publishers and other media companies across an increasing range of different services, including vertical markets where competitors may have advantages in expertise, brand recognition and other areas. If existing or future competitors develop or offer products or services that provide significant performance, price, creative or other advantages over those offered by us, our business, results of operations and financial condition could be negatively affected. We also compete with traditional advertising media, such as direct mail, television, radio, cable, and print, for a share of advertisers' total advertising budgets. Many current and potential competitors enjoy competitive advantages over us, such as longer operating histories, greater name recognition, larger customer bases, greater access to advertising space on high-traffic websites, and significantly greater financial, technical, sales, and marketing resources. As a result, we may not be able to compete successfully. If we fail to compete successfully, we could lose customers or media inventory and our revenue and results of operations could decline.
+
+
+2
+
+
+BIGToken Platform
+
+On February 1, 2019, our BIGToken platform (BIGToken Platform), an advertising-based platform initiative intended to reward consumers, become generally available. Users of the BIGToken Platform receive points for undertaking certain actions on the platform. These points are redeemable for cash directly from us. We also anticipate that users will be able to redeem the points for goods and/or services offered by our sponsors. The value each point being redeemed is at the discretion of management with regard to cash payments and we anticipate at the discretion of our sponsors with regard to goods and/or services. Since the BIGToken Platform become generally available, approximately 11,000,000 user accounts have been registered on the BIGToken Platform. 
+
+In February of 2019, we filed a registration statement with the United States Securities and Exchange Commission (SEC) in order to register shares of our BIGToken preferred tracking stock (BIGToken). Subsequently, we received comments from the SEC and are currently reviewing such comments. In the event the registration statement is declared effective by the SEC, we also anticipate allowing our users to convert the points earned after the registration becomes effective into BIGTokens. As of the date hereof, we have not issued any BIGTokens. 
+
+Notwithstanding the foregoing, we believe that in order to fully launch the BIGToken Platform and recognize all the benefits therefrom, not only will we be required to further increase the functionally of the platform (the development of blockchain technology that has yet to be developed and implemented regarding the tracking of brand transactions) but we will also need to comply with both state and federal securities laws and regulations with regard to certain aspects of the platform and specifically, BIGToken. There is no assurance that we will be able to successfully develop and/or scale the BIGToken Platform, including BIGToken, or that we will be able to comply with any applicable state or federal laws or regulations on a timely basis, if at all. Our failure to successfully develop and/or scale the BIGToken Platform, including BIGToken, or comply with state and federal laws and regulations, could greatly impact the value and utility of the BIGToken Platform and could materially impact our operations and business. 
+
+Government regulation
+
+Aspects of the digital marketing and advertising industry and how our business operates are highly regulated. We are subject to a number of domestic and, to the extent our operations are conducted outside the U.S., foreign laws and regulations that affect companies conducting business on the Internet and through other electronic means, many of which are still evolving and could be interpreted in ways that could harm our business. In particular, we are subject to rules of the Federal Trade Commission, or FTC, the Federal Communications Commission, or FCC, and potentially other federal agencies and state laws related to our advertising content and methods, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003, or CAN-SPAM Act, which establishes certain requirements for commercial electronic mail messages and specifies penalties for the transmission of commercial electronic mail messages that follow a recipient's opt-out request or are intended to deceive the recipient as to source or content, and federal and state regulations covering the treatment of member data that we collect from endorsers.
+
+U.S. and foreign regulations and laws potentially affecting our business are evolving. We have not yet developed an internal compliance program nor do we have policies in place to monitor compliance. Instead, we rely on the policies of our publishing partners and advertising clients. If we are unable to identify all regulations to which our business is subject and implement effective means of compliance, we could be subject to enforcement actions, lawsuits and penalties including, but not limited to, fines and other monetary liability or injunction that could prevent us from operating our business or certain aspects of our business. In addition, compliance with the regulations to which we are subject now or in the future may require changes to our products or services, restrict or impose additional costs upon the conduct of our business or cause users to abandon products or aspects of our services. Any such action could have a material adverse effect on our business, results of operations and financial condition.
+
+The FTC adopted Guides Concerning the Use of Endorsements and Testimonials in Advertising in October 2009. These guides recommend that advertisers and publishers clearly disclose in third-party endorsements made online, such as in social media, if compensation was received in exchange for said endorsements. Because some of our marketing campaigns entail the engagement of consumers to refer other consumers in their social networks to view ads or take action, and both we and the consumer may earn cash and other incentives, and any failure on our part to comply with these guides may be damaging to our business. We currently do not take any steps to monitor compliance with these guides. In the event of a violation, the FTC could potentially identify a violation of the guides, which could subject us to a financial penalty or loss of endorsers or advertisers. 
+
+
+3
+
+
+In the area of information security and data protection, many states have passed laws requiring notification to users when there is a security breach for personal data, such as the 2002 amendment to California's Information Practices Act, or requiring the adoption of minimum information security standards that are often vaguely defined and difficult to practically implement. The costs of compliance with these laws may increase in the future as a result of changes in interpretation. Furthermore, any failure on our part to comply with these laws may subject us to significant liabilities.
+
+We are also subject to federal, state, and foreign laws regarding privacy and protection of user data. Any failure by us to comply with these privacy-related laws and regulations could result in proceedings against us by governmental authorities or others, which could harm our business. In addition, the interpretation of data protection laws, and their application to the Internet is unclear and in a state of flux. There is a risk that these laws may be interpreted and applied in conflicting ways from state to state, country to country, or region to region, and in a manner that is not consistent with our current data protection practices. Complying with these varying requirements could cause us to incur additional costs and change our business practices. Further, any failure by us to adequately protect users' privacy and data could result in a loss of confidence in our services and ultimately in a loss of customers, which could adversely affect our business.
+
+We generally only receive user data authorized through the Facebook user API. Access to such information, in addition to being limited in scope by Facebook policies and procedures, requires the affirmative authorization of the participating user, as stipulated by Facebook. In a campaign, we post a privacy policy and user agreement, which describe the practices concerning the use, transmission and disclosure of member data in connection with such campaign. Any failure by us to comply with our privacy policy and user agreement could result in proceedings against us by users, customers, governmental authorities or others, which could harm our business.
+
+Many states have passed laws requiring notification to subscribers when there is a security breach of personal data. There are also a number of legislative proposals pending before the United States Congress, various state legislative bodies and foreign governments concerning data protection. We partner with providers of data to acquire this data and we do not own this data. In addition, data protection laws in Europe and other jurisdictions outside the United States may be more restrictive, and the interpretation and application of these laws are still uncertain and in flux. It is possible that these laws may be interpreted and applied in a manner that is inconsistent with our data practices. If so, in addition to the possibility of fines, this could result in an order requiring that we change our data practices, which could have an adverse effect on our business. Furthermore, the Digital Millennium Copyright Act has provisions that limit, but do not necessarily eliminate, our liability for linking to third-party websites that include materials that infringe copyrights or other rights, so long as we comply with the statutory requirements of this act. Complying with these various laws could cause us to incur substantial costs or require us to change our business practices in a manner adverse to our business.
+
+Our users communicate across social and/or web-based channels. These communications are governed by a variety of U.S. federal, state, and foreign laws and regulations. In the United States, the CAN-SPAM Act establishes certain requirements for the distribution of "commercial" email messages for the primary purpose of advertising or promoting a commercial product, service, or Internet website and provides for penalties for transmission of commercial email messages that are intended to deceive the recipient as to source or content or that do not give opt-out control to the recipient. The FTC is primarily responsible for enforcing the CAN-SPAM Act, and the U.S. Department of Justice, other federal agencies, state attorneys general, and Internet service providers also have authority to enforce certain of its provisions.
+
+The CAN-SPAM Act's main provisions include:
+
+
+· | prohibiting false or misleading email header information; 
+· | prohibiting the use of deceptive subject lines; 
+· | ensuring that recipients may, for at least 30 days after an email is sent, opt out of receiving future commercial email messages from the sender, with the opt-out effective within 10 days of the request;
+· | requiring that commercial email be identified as a solicitation or advertisement unless the recipient affirmatively assented to receiving the message; and 
+· | requiring that the sender include a valid postal address in the email message. 
+
+
+The CAN-SPAM Act preempts most state restrictions specific to email marketing. However, some states have passed laws regulating commercial email practices that are significantly more punitive and difficult to comply with than the CAN-SPAM Act, particularly Utah and Michigan, which have enacted do-not-email registries listing minors who do not wish to receive unsolicited commercial email that markets certain covered content, such as adult content or content regarding harmful products. Some portions of these state laws may not be preempted by the CAN-SPAM Act.
+ 
+4
+
+
+Violations of the CAN-SPAM Act's provisions can result in criminal and civil penalties, including statutory penalties that can be based in part upon the number of emails sent, with enhanced penalties for commercial email senders who harvest email addresses, use dictionary attack patterns to generate email addresses, and/or relay emails through a network without permission.
+
+With respect to text message campaigns, for example, the CAN-SPAM Act and regulations implemented by the FCC pursuant to the CAN-SPAM Act, and the Telephone Consumer Protection Act, also known as the Federal Do-Not-Call law, among other requirements, prohibit companies from sending specified types of commercial text messages unless the recipient has given his or her prior express consent. We, our users and our advertisers may all be subject to various provisions of the CAN-SPAM Act. If we are found to be subject to the CAN-SPAM Act, we may be required to change one or more aspects of the way we operate our business.
+
+If we were found to be in violation of the CAN-SPAM Act, other federal laws, applicable state laws not preempted by the CAN-SPAM Act, or foreign laws regulating the distribution of commercial email, whether as a result of violations by our users or any determination that we are directly subject to and in violation of these requirements, we could be required to pay penalties, which would adversely affect our financial performance and significantly harm our reputation and our business.
+
+In addition, because our services are accessible worldwide, certain foreign jurisdictions may claim that we are required to comply with their laws, including in jurisdictions where we have no local entity, employees, or infrastructure.
+
+Employees
+
+At March 15, 2019, we had 61 full-time employees. We also contract for the services of an additional approximately 75 individuals from a third-party provider in Mexicali, Mexico. There are no collective bargaining agreements covering any of our employees. 
+
+Our history
+
+We were originally organized in August 2009 as a California limited liability company under the name Social Reality, LLC, and we converted to a Delaware corporation effective January 1, 2012. Social Reality, LLC began business in May, 2010. Upon the conversion, we changed our name to Social Reality, Inc.
+
+Acquisition of Steel Media
+
+On October 30, 2014, we acquired 100% of the capital stock of Steel Media from Mr. Richard Steel pursuant to the terms and conditions of a Stock Purchase Agreement, dated October 30, 2014, by and among our company, Steel Media and Mr. Steel.
+Acquisition of Five Delta
+
+On December 19, 2014, we acquired 100% of the outstanding capital stock of Five Delta pursuant to the terms and conditions of the Share Acquisition and Exchange Agreement dated December 19, 2014 by and among Social Reality, Five Delta and the stockholders of Five Delta. 
+
+Additional information
+ 
+We file annual and quarterly reports on Forms 10-K and 10-Q, current reports on Form 8-K and other information with the Securities and Exchange Commission (SEC or the Commission). The public may read and copy any materials that we file with the Commission at the SECs Public Reference Room at 100 F Street, NE, Washington, DC 20549, on official business days during the hours of 10:00 a.m. to 3:00 p.m. You may obtain information on the operation of the Public Reference Room by calling the Commission at 1-800-SEC-0330. The Commission also maintains an Internet site at http://www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the Commission.
+
+Other information about Social Reality can be found on our website www.socialreality.com. Reference in this document to that website address does not constitute incorporation by reference of the information contained on the website.
+
+
+5
+
+
+ITEM 1.A 
+RISK FACTORS.
+
+Please consider the following risk factors carefully. If any one or more of the following risks were to occur, it could have a material adverse effect on our business, prospects, financial condition and results of operations, and the market price of our securities could decrease significantly. Statements below to the effect that an event could or would harm our business (or have an adverse effect on our business or similar statements) mean that the event could or would have a material adverse effect on our business, prospects, financial condition and results of operations, which in turn could or would have a material adverse effect on the market price of our securities. Although we have organized the risk factors below under headings to make them easier to read, many of the risks we face involve more than one type of risk. Consequently you should read all of the risk factors below carefully before making any decision to acquire or hold our securities.
+
+Any investment in our securities involves a high degree of risk. Investors should consider carefully the risks and uncertainties described below, and all other information in this Form 10-K and in any reports we file with the SEC after we file this Form 10-K, before deciding whether to purchase or hold our securities. Additional risks and uncertainties not currently known to us or that we currently deem immaterial may also become important factors that may harm our business. The occurrence of any of the risks described in this Form 10-K could harm our business. The trading price of our securities could decline due to any of these risks and uncertainties, and investors may lose part or all of their investment.
+
+Risks Related to our Business
+
+We have a history of operating losses and there are no assurances we will report profitable operations in the foreseeable future.
+
+Although we reported Net Income for the year-ended December 31, 2018 we reported losses from operations of 11,719,151. At December 31, 2018, we had an accumulated deficit of 
+$18,778,348. Our future success depends upon our ability to continue to grow our revenues, contain our operating expenses and generate profits. We do not have any long-term agreements with our customers. There are no assurances that we will be able to increase our revenues and cash flow to a level which supports profitable operations. In addition, our operating expenses increased 3.1% in 2018 from 2017. As described elsewhere herein, in 2017 we made certain changes in our operations to limit growth of operating expenses and focus our resources in areas of our operations which we believe have the greatest potential to increase our revenues. We may continue to incur losses in future periods until such time, if ever, as we are successful in significantly increasing our revenues and cash flow beyond what is necessary to fund our ongoing operations and pay our obligations as they become due. If we are able to significantly increase our revenues in future periods, the rapid growth which we are pursuing will strain our organization and we may encounter difficulties in maintaining the quality of our operations. If we are not able to grow successfully, it is unlikely we will be able to generate sufficient cash from operations to pay our operating expenses and service our debt obligations, or report profitable operations in future periods.
+
+Our management and audit committee have determined the need to restate certain of our consolidated financial statements for the year ending December 31, 2017 and quarters ending March 31, 2017, June 30, 2017, September 30, 2017, December 31, 2017, March 31, 2018, June 30, 2018 and September 30, 2018 as a result of the improper accounting treatment of certain warrants.
+ 
+On April 7, 2019, management and the audit committee of our board of directors determined that our previously issued quarterly and year-to-date unaudited consolidated financial statements for March 31, 2017, June 30, 2017, September 30, 2017, December 31, 2017, March 31, 2018, June 30, 2018 and September 30, 2018 and our audited consolidated financial statements for the year ending December 31, 2017 should no longer be relied upon. In addition, we determined that related press releases, earnings releases, and investor communications describing our financial statements for these periods should no longer be relied upon. The errors identified are all non-cash and primarily related to our classification of certain outstanding warrants with provisions that allow the warrant holder to force cash redemption under certain circumstances. Accordingly, we plan to restate the annual, quarterly and year-to-date audited and unaudited consolidated financial statements for the foregoing periods. 
+
+Accordingly, although we previously disclosed that we had ineffective controls, investors in our securities may lose confidence in our financial statements and management, which could result in a decrease in our stock price and negative sentiment in the investment community.
+
+
+6
+
+
+The restatement of certain of our financial statements may subject us to additional risks and uncertainties, including the increased possibility of legal proceedings and shareholder litigation.
+ 
+As a result of the plan to restate our previously issued quarterly and year-to-date unaudited consolidated financial statements for March 31, 2017, June 30, 2017, September 30, 2017, December 31, 2017, March 31, 2018, June 30, 2018 and September 30, 2018 and our audited consolidated financial statements for the year ending December 31, 2017, we may become subject to additional risks and uncertainties, including, among others, the increased possibility of legal proceedings, shareholder lawsuits or a review by the SEC and other regulatory bodies, which could cause investors to lose confidence in our reported financial information and could subject us to civil or criminal penalties, shareholder class actions or derivative actions. We could face monetary judgments, penalties or other sanctions that could have a material adverse effect on our business, financial condition and results of operations and could cause our stock price to decline.
+
+Our failure to maintain an effective system of internal control over financial reporting, has resulted in the need for us to restate previously issued financial statements. As a result, current and potential stockholders may lose confidence in our financial reporting, which could harm our business and value of our stock.
+
+As described in our Annual Report on Form 10-K for the year ended December 31, 2018, our management has determined that, as of December 31, 2018, we did not maintain effective internal controls over financial reporting based on criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control-Integrated Framework as a result of identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of the company's annual or interim financial statements will not be prevented or detected on a timely basis. As of December 31, 2018, management has determined that we have yet to fully remediate the previously identified material weaknesses. 
+
+We believe our failure to maintain effective systems of internal controls over financial reporting have resulted in our need to restate the following previously issued quarterly and year-to-date unaudited consolidated financial statements for March 31, 2017, June 30, 2017, September 30, 2017, December 31, 2017, March 31, 2018, June 30, 2018 and September 30, 2018 and our audited consolidated financial statements for the year ending December 31, 2017
+
+We have concluded that certain of our previously issued financial statements should not be relied upon and have restated certain of our previously issued financial statements, which may lead to, among other things, shareholder litigation, loss of investor confidence, negative impact on our stock price and certain other risks. 
+
+As discussed in the Explanatory Note, 16, Restatement of Previously Reported Consolidated Annual Financial Statements and in Note 14, Quarterly Financial Information (unaudited) under Item 8 of this Form 10-K/A, we have concluded that our previously issued financial statements as of December 31, 2017 and for each of the quarterly and year-to-date periods in 2017, and the quarterly periods through September 30, 2018 should no longer be relied upon. The determination that the applicable financial statements should no longer be relied upon and that certain financial statements would be restated was made following the identification of misstatements. As a result of these misstatements, we have become subject to a number of additional risks and uncertainties, including unanticipated costs for accounting and legal fees in connection with or related to the restatement, shareholder litigation and government investigations. Any such proceeding could result in substantial defense costs regardless of the outcome of the litigation or investigation. If we do not prevail in any such litigation, we could be required to pay substantial damages or settlement costs.
+
+We are remediating certain internal controls and procedures, which, if not successful, could result in additional misstatements in our financial statements negatively affecting our results of operations.
+
+We are in the process of implementing certain remediation actions. See Item 9A. Controls and Procedures of this Form 10-K for a description of these remediation measures. To the extent these steps are not successful, not sufficient to correct our material weakness in internal control over financial reporting or are not completed in a timely manner, future financial statements may contain material misstatements and we could be required to restate our financial results. Any of these matters could adversely affect our business, reputation, revenues, results of operations, financial condition and stock price and limit our ability to access the capital markets through equity or debt issuances.
+
+
+7
+
+
+Security breaches and improper access to or disclosure of our data or user data, or other hacking and phishing attacks on our systems, could harm our reputation and adversely affect our business.
+
+Our industry is prone to cyber-attacks by third parties seeking unauthorized access to our data or users data or to disrupt our ability to provide service. Any failure to prevent or mitigate security breaches and improper access to or disclosure of our data or user data, including personal information, content, or payment information from or to users, or information from marketers, could result in the loss or misuse of such data, which could harm our business and reputation and diminish our competitive position. In addition, computer malware, viruses, social engineering (predominantly spear phishing attacks), and general hacking have become more prevalent in our industry. Our BIGToken platform has experienced an increase in the occurrence of such attempts and we cannot be assured that we will be able to prevent a successful attack on our systems in the future. We also regularly encounter attempts to create false or undesirable user accounts or take other actions on our BIGToken Platform for purposes such as spreading misinformation, attempting to have us improperly purchase user data or other objectionable ends. As a result of recent attention and growth of our BIGToken Platform, the size of our user base, and the types and volume of personal data on our systems, we believe that we are a particularly attractive target for such breaches and attacks. Our efforts to address undesirable activity may also increase the risk of retaliatory attacks. Such attacks may cause interruptions to the services we provide, degrade the user experience, cause users or marketers to lose confidence and trust in our products, impair our internal systems, or result in financial harm to us. Our efforts to protect our company data or the information we receive may also be unsuccessful due to software bugs or other technical malfunctions; employee, contractor, or vendor error or malfeasance; government surveillance; or other threats that evolve. In addition, third parties may attempt to fraudulently induce employees or users to disclose information in order to gain access to our data or our users' data. Cyber-attacks continue to evolve in sophistication and volume, and inherently may be difficult to detect for long periods of time. Although we are currently in the process of developing systems and processes that are designed to protect our data and user data, to prevent data loss, to disable undesirable accounts and activities on our BIGToken Platform, and to prevent or detect security breaches, we cannot assure you that such measures will ultimately become operational or provide absolute security, and we may incur significant costs in protecting against or remediating cyber-attacks.
+
+Affected users or government authorities could initiate legal or regulatory actions against us in connection with any actual or perceived security breaches or improper disclosure of data, which could cause us to incur significant expense and liability or result in orders or consent decrees forcing us to modify our business practices, especially with regard to the BIGToken Platform. Such incidents or our efforts to remediate such incidents may also result in a decline in our active user base or engagement levels. Any of these events could have a material and adverse effect on our business, reputation, or financial results.
+
+Our operations rely on various third party vendors and if we lose these vendors it may adversely affect our financial position and results of operations. 
+
+We rely on third party vendors to provide us with media inventory to facilitate sales of advertising, the majority of which are engaged on a per order basis. Due to our lack of working capital, we are delinquent on payments to several of these media suppliers. While we will attempt to negotiate payment terms and forbearance agreements with these vendors on a case by case basis, many of these vendors may cease providing services to our company and may seek legal remedies against us. Any loss of these vendors or ligation arising out of our failure to satisfy our obligations to any of these vendors could disrupt our business and have a material negative effect on our operations.
+
+Our success is dependent upon our ability to effectively expand and manage our relationships with our publishers. We do not have any long-term contracts with our publishing partners.
+
+We do not generate our own media inventory. Accordingly, we are dependent upon our publishing partners to provide the media which we sell. We depend on these publishers to make their respective media inventories available to us to use in connection with our campaigns that we manage, create or market. We are not a party to any long-term agreements with any of our publishing partners and there are no assurances we will have continued access to the media. Our growth depends, in part, on our ability to expand and maintain our publisher relationships within our network and to have access to new sources of media inventory such as new partner websites and Facebook pages that offer attractive demographics, innovative and quality content and growing Web user traffic volume. Our ability to attract new publishers to our networks and to retain Web publishers currently in our networks will depend on various factors, some of which are beyond our control. These factors include, but are not limited to, our ability to introduce new and innovative products and services, our pricing policies, and the cost-efficiency to Web publishers of outsourcing their advertising sales. In addition, the number of competing intermediaries that purchase media inventory from Web publishers continues to increase. In the event we are not able to maintain effective relationships with our publishers, our ability to distribute our advertising campaigns will be greatly hindered which will reduce the value of our services and adversely impact our results of operations in future periods.
+ 
+8
+
+
+If we were to lose access to the Facebook platform, our SRAX Social growth would be limited and we could lose our existing revenue from these sources.
+
+Facebook currently provides access to companies to build applications on their platform. We have built our SRAX Social platform to use the Facebook application programming interface, or APIs. The loss of access to the Facebook platform would limit our ability to effectively grow a portion of our operations. We are subject to Facebook's standard terms and conditions for application developers, which govern the promotion, distribution and operation of applications on the Facebook platform. Facebook reserves the right to change these terms and conditions at any time. Our business would be harmed if Facebook:
+
+
+· | discontinues or limits access to its platform by us and other application developers; 
+· | modifies its terms of service or other policies, including fees charged to, or other restrictions on, us or other application developers, or changes how the personal information of its users is made available to application developers on the Facebook platform or shared by users;
+· | establishes more favorable relationships with one or more of our competitors; or 
+· | develops its own competitive offerings. 
+
+
+We have benefited from Facebook's strong brand recognition and large user base. Facebook has broad discretion to change its terms of service and other policies with respect to us and other developers, and any changes to those terms of service may be unfavorable to us. Facebook may also change its fee structure, add fees associated with access to and use of the Facebook platform, change how the personal information of its users is made available to application developers on the Facebook platform or restrict how Facebook users can share information with friends on their platform. In the event Facebook makes any changes in the future, we may have to modify the structure of our campaigns which could impact the effectiveness of our campaigns and adversely impact our results of operations in future periods. 
+
+If we lose access to RTB inventory buyers our business may suffer.
+
+In an effort to reduce our dependency on any one provider of advertising demand, we created a platform that utilizes feeds from a number of demand sources for our inventory. We believe that our proprietary technology assists us in aggregating this demand, as well as providing the tools needed by our publishing partners to evaluate and track the effectiveness of the demand that we are aggregating for them. In the event that we lose access to a majority of this demand, however, our revenues would be impacted and our results of operations would be materially adversely impacted until such time, if ever, as we could secure alternative sources of demand for our inventory.
+
+We depend on the services of our executive officers and the loss of any of their services could harm our ability to operate our business in future periods
+
+Our success largely depends on the efforts and abilities of our executive officers, including Christopher Miglino, Kristoffer Nelson and Michael Malone. We are a party to an employment agreement with each of Mr. Miglino, and Mr. Malone, and an "at will" agreement with Mr. Nelson. Although we do not expect to lose their services in the foreseeable future, the loss of any of them could materially harm our business and operations in future periods until such time as we were able to engage a suitable replacement.
+
+If advertising on the Internet loses its appeal, our revenue could decline.
+
+Our business model may not continue to be effective in the future for a number of reasons, including:
+
+
+· | a decline in the rates that we can charge for advertising and promotional activities; 
+· | our inability to create applications for our customers; 
+· | Internet advertisements and promotions are, by their nature, limited in content relative to other media;
+
+
+
+9
+
+
+
+· | companies may be reluctant or slow to adopt online advertising and promotional activities that replace, limit or compete with their existing direct marketing efforts;
+· | companies may prefer other forms of Internet advertising and promotions that we do not offer; 
+· | the quality or placement of transactions, including the risk of non-screened, non-human inventory and traffic, could cause a loss in customers or revenue; and 
+· | regulatory actions may negatively impact our business practices. 
+
+
+If the number of companies who purchase online advertising and promotional services from us does not grow, we may experience difficulty in attracting publishers, and our revenue could decline.
+
+Additional acquisitions may disrupt our business and adversely affect results of operations.
+
+We may pursue acquisitions in an effort to increase revenue, expand our market position, add to our technological capabilities, or for other purposes. However, any future acquisitions would likely involve risk, including the following:
+
+
+· | the identification, acquisition and integration of acquired businesses requires substantial attention from management. The diversion of management's attention and any difficulties encountered in the transition process could hurt our business; 
+· | the anticipated benefits from an acquisition may not be achieved, we may be unable to realize expected synergies from an acquisition or we may experience negative culture effects arising from the integration of new personnel; 
+· | difficulties in integrating the technologies, solutions, operations, and existing contracts of the acquired business; 
+· | we may fail to identify all of the problems, liabilities or other shortcomings or challenges of an acquired company, technology, or solution; 
+· | to pay for future acquisitions, we could issue additional shares of our Class A common stock or pay cash, raised through equity sales or debt issuance. The issuance of any additional shares of our Class A common stock would dilute the interests of our current stockholders, and debt transactions would result in increased fixed obligations and would likely include covenants and restrictions that would impair our ability to manage our operations; and
+· | new business acquisitions can generate significant intangible assets that result in substantial related amortization charges and possible impairments. 
+
+
+While our general growth strategy includes identifying and closing additional acquisitions, we are not presently a party of any agreements or understandings. There are no assurances we will acquire any additional companies.
+
+Failure to meet the financial performance guidance or other forward-looking statements we have provided to the public could result in a decline in our stock price.
+
+We have previously provided, and may provide in the future, public guidance on our expected financial results for future periods. Although we believe that this guidance provides investors with a better understanding of management's expectations for the future and is useful to our stockholders and potential stockholders, such guidance is comprised of forward-looking statements subject to the risks and uncertainties. Our actual results may not always be in line with or exceed the guidance we have provided. If our financial results for a particular period do not meet our guidance or if we reduce our guidance for future periods, the market price of our Class A common stock may decline.
+
+
+10
+
+
+Weak economic conditions may reduce consumer demand for products and services. 
+
+A weak economy in the United States could adversely affect demand for advertising products, and services. A substantial portion of our revenue is derived from businesses that are highly dependent on discretionary spending by individuals, which typically falls during times of economic instability. Accordingly, the ability of our advertisers to increase or maintain revenue and earnings could be adversely affected to the extent that relevant economic environments remain weak or decline further. We currently are unable to predict the extent of any of these potential adverse effects. 
+
+Certain of our subsidiaries and business affiliates have operations outside of the United States that are subject to numerous operational risks. 
+
+Certain of our subsidiaries and business affiliates have operations in countries other than the United States. In many foreign countries, it is not uncommon to encounter business practices that are prohibited by certain regulations, such as the Foreign Corrupt Practices Act and similar laws. Although certain of our subsidiaries and business affiliates have undertaken compliance efforts with respect to these laws, their respective employees, contractors and agents, as well as those companies to which they outsource certain of their business operations, may take actions in violation of their policies and procedures. Any such violation, even if prohibited by the policies and procedures of these subsidiaries and business affiliates or the law, could have certain adverse effects on the financial condition of these subsidiaries and business affiliates. Any failure by these subsidiaries and business affiliates to effectively manage the challenges associated with the international operation of their businesses could materially adversely affect their, and hence our, financial condition. 
+
+Risks Related to Ownership of our Securities
+
+We do not know whether an active and liquid trading market will develop for our Class A common stock. 
+
+The trading of our Class A common stock may be viewed as relatively sporadic and with limited liquidity. The lack of an active and liquid market may impair your ability to sell your shares at the time you wish to sell them or at a price that you consider reasonable. The lack of an active market may also reduce the fair market value of your shares. Further, an inactive market may also impair our ability to raise capital by selling shares of our Class A common stock and may impair our ability to enter into collaborations or acquire companies or products by using our shares of Class A common stock as consideration. The market price of our offered securities may be volatile, and you could lose all or part of your investment. 
+
+The market price of our Class A common stock may be volatile.
+
+The market for our common shares is characterized by significant price volatility when compared to seasoned issuers, and we expect that our share price will continue to be more volatile than those of a seasoned issuer. The volatility in our share price is attributable to a number of factors. Mainly however, we are a speculative or risky investment due to our limited operating history, lack of significant revenues to date, our continued operating losses and missed guidance. As a consequence of this enhanced risk, more risk-adverse investors may, under the fear of losing all or most of their investment in the event of negative news or lack of progress, be more inclined to sell their shares on the market more quickly and at greater discounts than would be the case with the stock of a seasoned issuer. Additionally, in the past, plaintiffs have often initiated securities class action litigation against a company following periods of volatility in the market price of its securities. We may in the future be the target of similar litigation. Securities litigation could result in substantial costs and liabilities and could divert managements attention and resources.
+
+The trading price of the shares of our Class A common stock is likely to be highly volatile and could be subject to wide fluctuations in response to various factors, some of which are beyond our control. In addition to the factors discussed in this Risk Factors section and elsewhere in this annual report, these factors include: 
+
+
+· | the success of competitive products; 
+· | actual or anticipated changes in our growth rate relative to our competitors; 
+· | announcements by us or our competitors of significant acquisitions, strategic partnerships, joint ventures, collaborations or capital commitments;
+· | regulatory or legal developments in the United States and other countries; 
+
+ 
+11
+
+
+
+· | the recruitment or departure of key personnel; 
+· | the level of expenses; 
+· | actual or anticipated changes in estimates to financial results, development timelines or recommendations by securities analysts;
+· | variations in our financial results or those of companies that are perceived to be similar to us; 
+· | fluctuations in the valuation of companies perceived by investors to be comparable to us; 
+· | inconsistent trading volume levels of our shares; 
+· | announcement or expectation of additional financing efforts; 
+· | sales of our Class A common stock by us, our insiders or our other stockholders; 
+· | additional issuances of securities upon the exercise of outstanding options and warrants; 
+· | market conditions in the technology sectors; and 
+· | general economic, industry and market conditions. 
+
+
+In addition, the stock market in general, and advertising technology companies in particular, have experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the operating performance of these companies. Broad market and industry factors may negatively affect the market price of our Class A common stock, regardless of our actual operating performance. The realization of any of these risks could have a dramatic and material adverse impact on the market price of the shares of our Class A common stock. 
+
+We may be subject to securities litigation, which is expensive and could divert management attention. 
+
+The market price of the shares of our Class A common stock may be volatile, and in the past companies that have experienced volatility in the market price of their securities have been subject to securities class action litigation. We may be the target of this type of litigation in the future. Securities litigation against us could result in substantial costs and divert our managements attention from other business concerns, which could seriously harm our business. To the extent that any claims or suits are brought against us and successfully concluded, we could be materially adversely affected, jeopardizing our ability to operate successfully. Furthermore, our human and capital resources could be adversely affected by the need to defend any such actions, even if we are ultimately successful in our defense. 
+
+
+Failure to meet the financial performance guidance or other forward-looking statements we have provided to the public could result in a decline in our stock price.
+
+We have previously provided, and may provide in the future, public guidance on our expected financial results for future periods. Although we believe that this guidance provides investors with a better understanding of management's expectations for the future and is useful to our stockholders and potential stockholders, such guidance is comprised of forward-looking statements subject to the risks and uncertainties. Our actual results may not always be in line with or exceed the guidance we have provided. For example, in the past, we have missed guidance a number of times. If our financial results for a particular period do not meet our guidance or if we reduce our guidance for future periods, the market price of our Class A common stock may decline.
+
+
+12
+
+
+Delaware law contains anti-takeover provisions that could deter takeover attempts that could be beneficial to our stockholders.
+
+Provisions of Delaware law could make it more difficult for a third-party to acquire us, even if doing so would be beneficial to our stockholders. Section 203 of the Delaware General Corporation Law may make the acquisition of our company and the removal of incumbent officers and directors more difficult by prohibiting stockholders holding 15% or more of our outstanding voting stock from acquiring us, without our board of directors' consent, for at least three years from the date they first hold 15% or more of the voting stock.
+
+The two class structure of our Class A common stock could have the effect of concentrating voting control with a limited group.
+
+Our authorized capital includes two classes of common stock which have different voting rights. Our Class B common stock has 10 votes per share and our Class A common stock has one vote per share. While there are presently no shares of Class B common stock outstanding, in the future our board could choose to issue shares to one or more individuals or entities. As a result of the voting rights associated with the Class B common stock, those individuals or entities could have significant influence over the management and affairs of the company and control over matters requiring stockholder approval, including the election of directors and significant corporate transactions, such as a merger or other sale of our company or its assets, for the foreseeable future. This concentrated voting control could limit your ability to influence corporate matters and could adversely affect the price of our Class A common stock.
+
+If securities or industry analysts do not publish research or publish inaccurate or unfavorable research about our business, the trading price of our Class A common stock and trading volume could decline. 
+
+The trading market for our shares of our Class A common stock will depend in part on the research and reports that securities or industry analysts publish about us or our business. A small number of securities and industry analysts currently publish research regarding our Company on a limited basis. In the event that one or more of the securities or industry analysts who have initiated coverage downgrade our securities or publish inaccurate or unfavorable research about our business, the price of our shares of Class A common stock would likely decline. If one or more of these analysts cease coverage of our company or fail to publish reports on us regularly, demand for our securities could decrease, which might cause the trading price of our shares of Class A common stock and trading volume to decline. 
+
+The elimination of monetary liability against our directors and officers under Delaware law and the existence of indemnification rights held by our directors and officers may result in substantial expenditures by us and may discourage lawsuits against our directors and officers.
+
+Our certificate of incorporation eliminates the personal liability of our directors and officers to our company and our stockholders for damages for breach of fiduciary duty as a director or officer to the extent permissible under Delaware law. Further, our bylaws provide that we are obligated to indemnify any of our directors or officers to the fullest extent authorized by Delaware law. We are also parties to separate indemnification agreements with certain of our directors and our officers which, subject to certain conditions, require us to advance the expenses incurred by any director or officer in defending any action, suit or proceeding prior to its final disposition. Those indemnification obligations could result in our company incurring substantial expenditures to cover the cost of settlement or damage awards against our directors or officers, which we may be unable to recoup. These provisions and resultant costs may also discourage us from bringing a lawsuit against any of our current or former directors or officers for breaches of their fiduciary duties, and may similarly discourage the filing of derivative litigation by our stockholders against our directors and officers even if such actions, if successful, might otherwise benefit us or our stockholders.
+
+Risks Related to the BIG Platform and BIGToken Project
+
+There can be no assurance that BIGToken will ever be issued.
+ 
+The Company recently launched the BIG Platform as a means of securing higher quality user data. In February of 2019, we filed a registration statement with the SEC in order to register shares of our BIGToken. Subsequently, we received comments from the SEC and are in the process of reviewing such comments. Should our registration statement not be declared effective, the attractiveness of the BIG Platform may be materially affected and we may only recognize a limited benefits from the project, if any. 
+
+
+13
+
+
+The further development and acceptance of blockchain networks, which are part of a new and rapidly changing industry, are subject to a variety of factors that are difficult to evaluate. The slowing or stopping of the development or acceptance of blockchain networks and blockchain assets would have an adverse material effect on the successful development and adoption of BIGToken Platform. Notwithstanding the foregoing, BIGToken could seek to utilize alternative technologies to operate its platform.
+ 
+The growth of the blockchain industry in general, as well as the blockchain networks on which brand data will be stored on the BIG Platform, is subject to a high degree of uncertainty. The factors affecting the further development of blockchain networks, include, without limitation:
+ 
+·
+ worldwide growth in the adoption and use of blockchain technologies;
+
+·
+ government and quasi-government regulation of blockchain assets and their use, or restrictions on or regulation of access to and operation of blockchain networks or similar systems;
+
+·
+ changes in consumer demographics and public tastes and preferences; or
+
+·
+ the availability and popularity of other forms or methods of buying and selling goods and services, including new means of using existing networks
+ 

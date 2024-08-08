@@ -1,0 +1,305 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+-------------------------------------------------+---------
+
+Introduction
+ 
+Overview 
+ 
+Blonder Tongue, with its subsidiary R. L. Drake Holdings, LLC (“Drake”), is a technology-development and manufacturing company that delivers a wide range of products and services to the cable entertainment and media industry. For over 65 years, Blonder Tongue/Drake products have been deployed in a long list of locations, including lodging/hospitality, multi-dwelling units/apartments (“MDU”), broadcast studios/networks, universities/schools, healthcare/hospitals, fitness centers, government facilities/offices, prisons, airports, sports stadiums/arenas, entertainment venues/casinos, retail stores, and small-medium businesses. These applications are also variously described as commercial, institutional, and/or enterprise environments and will be referred to herein collectively as “CIE”. The customers we serve include business entities installing private video and data networks in these environments, whether they are the largest cable television operators, telco or satellite providers, integrators, architects, engineers or the next generation of Internet Protocol Television (“IPTV”) streaming video providers.
+ 
+From the cable television pioneers that founded the Company in 1950, to the highly experienced research and development team that creates new products today, the Company’s success stems from listening to the needs of its customers, providing quality products to meet those needs and supporting those products after delivery. For over 65 years Blonder Tongue has been providing innovative solutions based on continually advancing technology, enabling the Company to maintain its position as a leader in many of the CIE markets it serves. Since its founding, Blonder Tongue has continued to keep abreast of evolving technologies, from analog to digital television, Hybrid-Fiber Coax (“HFC”) networks with Quadrature Amplitude Modulation (“QAM”) edge devices, High Definition (“HD”) and Ultra HD (4K) encoding and transcoding, IPTV processing and distribution, and Multiscreen Adaptive Bit Rate based services.
+ 
+The cable television market has reacted quickly to consumer demands for additional services by integrating multiple technologies into existing networks, providing consumers with high speed internet access in addition to enhanced video offerings. Today, video offerings have expanded from traditional broadcast linear delivery to the living room TV to live streaming to any device in your home or on the go. Traditional TV content is now available in any format to be viewed on tablets, mobile phones, computers or gaming consoles. Service Operators are migrating their video-on-demand (“VOD”) architecture to an internet protocol (“IP”) multiscreen ecosystem, which is the first step in transitioning to an all IP-based video delivery system. CIE businesses are upgrading their networks from standard definition (“SD”) to deliver HD content to their first screen (TV) and adding the capability of IP streaming, thereby expanding viewer access to HD content on any IP-connected devices. The infrastructure requirements to enable IP streaming provide the Company with an opportunity to market and sell its expanded IP streaming encoders and digital product lines.
+ 
+While residential growth remains relatively flat, the CIE environment is growing ($10.95 billion in 2018, up from $10.44 billion in 2017). The CIE market segments that the Company serves have been focused on the migration to IPTV networks. The Company has expanded its video product line portfolio to address the growth of IP streaming. The Company’s recently introduced Scalable Transcode-Encoder Platform (“STEP”) transcodes HD/SD video content to Adaptive Bit Rate video profiles supporting multi-screen protocols for further processing into the operator’s multiscreen work flow. The Company has collaborated with cable television (“CATV”) Multiple System Operators (“MSOs”) to produce a cost-effective encoder for IP support of Public Education Government (“PEG”) video content. A custom hotel guide solution was developed for MSOs, enabling them to extract guide source data from the headend and transmit it over traditional HFC networks to produce a custom hotel guide at a lower price than the traditional third-party guide solutions. The Company introduced in 2017 the NeXgen Gateway (“NXG”) product line to specifically address the service provider challenges of migrating from traditional CATV HFC based topologies and technologies, to Internet Protocol (“IP”) based topologies and technologies. As the industry adopts Ultra-HD (4K) and High Efficiency Video Coding (“HEVC”) encoding, the Company plans to produce products to support its traditional customers as well as new customers. While already experiencing full scale commercialization in international markets, the United States market continues to increasingly embrace IPTV technology. The worldwide market now has over 208 million IPTV subscribers and is projected to have 229 million by 2020.
+ 
+1
+
+ 
+
+The Company continues to advance the implementation of its strategic plan to maximize shareholder value. The Company’s strategic plan consists of the following:
+ 
+
+● | strengthen core business,
+--+--------------------------
+
+
+● | continue the heritage of technological development,
+--+----------------------------------------------------
+
+
+● | expand into new markets, including penetration into MSO and broadcast television markets, as well as the emerging media company market and 
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | increase gross margins.
+--+------------------------
+
+ 
+The Company has entered into and renewed several agreements through which it has acquired rights to use and incorporate certain proprietary technologies in its digital encoder line of products, including:
+ 
+
+1. | Implementation and System License Agreement with Dolby Laboratories Licensing Corporation (“Dolby Labs”) for Dolby Digital Plus Professional Encoder, 5.1 and 2 channel licensed technology. 
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | License Agreement with LG Electronics as a Pro:Idiom content Protection System Manufacturer. 
+---+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Ownership from the Motion Picture Experts Group of an MPEG-2 4:2:2 Profile High Level Video Encoder IP core. 
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Dolby® Labs License Agreement grants the Company the right to manufacture, label and sell professional digital encoder products and consumer digital decoder products and to use the Dolby trademarks. This technology has a number of improvements aimed at increasing quality at a given bit rate compared with legacy Dolby Digital (AC-3). Most notably, it offers increased bit rates, support for more audio channels, improved coding techniques to reduce compression artifacts, and backward compatibility with existing AC-3 hardware.
+ 
+The LG Electronics license agreement provides the Company with certain technology necessary for production of EdgeQAM devices for the hospitality industry. Consequently, content can be transferred through and among these devices only if incorporating this technology.
+ 
+The Pro:Idiom digital technology platform provides the hospitality market with a robust, secure Digital Rights Management (“DRM”) system, ensuring rapid, broad deployment of HD television (“HDTV”) and other high-value digital content to licensed users in the lodging industry. Lodging industry leaders such as World Cinema Inc. have licensed the Pro:Idiom DRM system. A growing number of content providers have demonstrated their acceptance of Pro:Idiom by licensing their HD content for delivery to Pro:Idiom users.
+ 
+The MPEG-2 Encoder IP core has a unique compression engine capable of creating HD MPEG-2 real-time encoding of a single channel of 1080i/720p/480i video. The use of this real-time encoding technique enables the Company to provide broadcast MPEG-2 HD and SD encoding. MPEG-2 is widely used as the format of digital television signals that are broadcast by terrestrial (over-the-air), cable, and direct broadcast satellite TV systems. The Company’s revenues for digital encoders were $6,873,000 in 2018 and $6,957,000 in 2017.
+     2
+
+ 
+
+The H.264/AVC is a video compression standard that enables a compelling solution for growing IP video services. The H.264 HD Encoder core has the capability to cut the bandwidth requirement for digital video delivery in half when compared against MPEG-2 encoders. This essentially facilitates the transmission of twice the number of programs in a given bandwidth. The use of this H.264 encoding technique enables the Company to provide high quality video at higher resolutions like 720p & 1080i. H.264 is a widely used format for transmitting high quality digital television signals over IP networks. The Company started shipping the H.264 encoders in 2012.
+ 
+The Company’s manufacturing is allocated primarily between its facility in Old Bridge, New Jersey (the “Old Bridge Facility”) and a key contract manufacturer located in the People’s Republic of China (“PRC”). The Company currently manufactures most of its digital products, including the latest encoder and EdgeQAM collections at its Old Bridge Facility. Since 2007 the Company has transitioned and continues to manufacture certain high- volume, labor intensive products, including many of the Company’s analog products, in the PRC, pursuant to a manufacturing agreement that governs the production of products that may from time to time be the subject of purchase orders submitted by (and in the discretion of) the Company. Although the Company does not currently anticipate the transfer of any additional products to the PRC for manufacture, the Company may do so if business and market conditions make it advantageous to do so. Manufacturing products both at the Company’s Old Bridge Facility and in the PRC enables the Company to realize cost reductions while maintaining a competitive position and time-to-market advantage.
+ 
+The Company may, from time to time, provide manufacturing, research and development and product support services for other companies’ products. In 2015, the Company entered into an agreement with VBrick Systems, Inc. (“VBrick”) to provide procurement, manufacturing, warehousing and fulfillment support to VBrick for a line of high end encoder products and sub-assemblies. Sales to VBrick of encoder products were approximately $793,000 and $840,000 in 2018 and 2017, respectively. Sales to VBrick for sub-assemblies were not material in 2018 or 2017.
+ 
+The Company was incorporated in November, 1988, under the laws of Delaware as GPS Acquisition Corp. for the purpose of acquiring the business of Blonder-Tongue Laboratories, Inc., a New Jersey corporation, which was founded in 1950 by Ben H. Tongue and Isaac S. Blonder to design, manufacture and supply a line of electronics and systems equipment principally for the private cable industry. Following the acquisition, the Company changed its name to Blonder Tongue Laboratories, Inc. The Company completed the initial public offering of its shares of Common Stock in December, 1995. The address of the Company’s principal executive offices is One Jake Brown Road, Old Bridge, New Jersey 08857, and its telephone number at that location is (732) 679-4000.
+ 
+Strategy 
+ 
+It is a constant challenge for the Company to stay at the forefront of the technological requirements of the CIE market segments that it serves. Changes and developments in the manner in which information (whether video, telephony or data) is transmitted, as well as the use of alternative compression and delivery technologies, all require the Company to continue to develop innovative new products. The Company allocates its resources as needed to create innovative products that are responsive to the demand for digital signal generation and transmission. The Company’s key product lines are more thoroughly discussed under “Key Products” beginning on page 7. The ongoing evolution of the Company’s product lines focuses on the increased needs created in the digital space by digital video, IPTV and HDTV signals and the transport of these signals over state-of-the-art broadband networks.
+ 
+The primary end locations of the Company’s product are the CIE environments described above, including lodging/hospitality, multi-dwelling units/apartments, broadcast studios/networks, universities/schools, healthcare/hospitals, fitness centers, government facilities/offices, prisons, airports, sports stadiums/arenas, entertainment venues/casinos, retail stores, and small-medium businesses. We provide a wide range of products to meet the special needs of these applications, and we serve many types of customers, from the large cable companies to private contractors. We sell to anyone putting product into the CIE business market, including:
+ 
+
+● | Television broadcasters; 
+--+------------------------------------------------------------------
+
+
+● | Cable system operators (both large and small) that design, package, install and in most instances operate, upgrade and maintain the systems they build; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Lodging/Hospitality video and high speed internet system operators that specialize in the Lodging/Hospitality Markets; and 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Commercial/Institutional/Enterprise system operators that operate, upgrade, and maintain the systems that are in their facilities, or contractors that install, upgrade and maintain these systems in a wide variety of applications. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3
+
+ 
+
+The key to proactively responding to the needs of the foregoing CIE environments is to build a suite of product solutions that are optimized for the operator’s existing infrastructure, as well as future strategy. Operators look for the following features when selecting technology:
+ 
+
+● | Versatility for Now, providing multiple source inputs and different output formats, including simultaneous QAM and IP capability. Off-air local programs, locally generated content, and national broadcasts can all be viewed on televisions via coax, as well as on desktops and other connected devices via an IP network. This allows operators to expand the reach of their video without having to run additional cable throughout the building and optimize the use of coax and/or IP infrastructures. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Flexibility for the Future, recognizing that even if an operator is not utilizing both QAM and IP outputs today, these features may be needed tomorrow. Operators seek to choose scalable technology that can keep up with advances in system architecture and allow them to best leverage existing data and Wi-Fi infrastructure, without overburdening it. This includes considerations for TV Everywhere (bring your own content/device) as well as recently introduced Ultra-HD, also known as 4K. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Affordability, by identifying high-quality, cost-effective, innovative solutions with a strong performance-to-cost ratio, is the key to insuring the operator can offer a competitively priced package to their business and enterprise customers. Focus on the features required for the location and its management, including remote setup, monitoring and diagnostics through an IP interface and hot spare capability. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The functions and features of the NXG product line are specifically targeted to deliver comprehensive and cost-effective solutions to all the market needs described in the forgoing paragraphs
+ 
+A key component of the Company’s growth strategy is to leverage its reputation across a comprehensive product line, offering one-stop-shop convenience to the cable, broadcast and professional markets and delivering products having a high performance-to-cost ratio. The Company has historically enjoyed, and continues to enjoy, a leading position in many of the CIE and residential market segments that it serves.
+ 
+Markets Overview 
+ 
+The television industry has been dominated by traditional cable operators, who subsequently expanded into high-speed internet and telephony services. The penetration of wireless and direct-broadcast satellite (“DBS”) (such as DIRECTV® and DISH Network®) in the video market, while reduced, still has a combined subscriber count of almost 30.7 million. Telephone companies (i.e. Verizon and AT&T) also compete with cable operators for services on a national level, delivering video, high-speed internet and telephony services direct to the home or to the curb with an estimate of over 8.3 million subscribers.
+ 
+With IPTV technology comes additional market pressures and opportunities. First, there is the matter of alternative TV services riding “Over the Top” of existing infrastructures (“OTT television”), where the delivered video is not part of the service provider’s own video service. Examples include Web-delivered video such as Netflix, Hulu and Apple TV. Cable, satellite and telco service providers will need to innovate to provide additional service offerings to compete with lower cost OTT television providers (subscribers exceeding 266 million). In addition, content providers such as HBO, SHOWTIME and CBS have deployed their own streaming services, without requiring a cable TV subscription. Streaming service subscribers are now larger than cable TV subscribers. With the advent of “TV Everywhere”, where video is displayed not only on the traditional television, but also on personal computers and mobile devices, cable operators are trying to tackle not only technological challenges associated with these offerings, but also content management and customer authentication. The idea that the consumer is at the center, and not the hardware or the network, is revolutionizing how video (and media) content is delivered.
+ 
+The long term implications of these developments are increased competition for the provision of services and a trend toward delivery of these services using IP technology. This continuing major market transition has resulted in increased consumer expectations, placing the lodging and institutional markets under pressure to install new infrastructure and upgrade existing networks. It is not known how long this transition will take, but to remain competitive the Company must continue to increase its product offerings for digital television, encoding and decoding, and digital media applications.
+ 
+4
+
+ 
+
+Cable Television
+ 
+Most cable operators, large and small, have built networks with various combinations of fiber optic and coax cable to deliver television, internet and telephone services on one drop cable. Cable television deployment of fiber optic trunk has been completed in nearly all existing systems. The HFC network architecture is employed to provide digital video, VOD, HDTV, IPTV, high speed internet, and digital telephone service. With the adoption of new technology developed by CableLabs®, the cable industry is using “edge” devices, node splitting and digital video switching to increase both services and subscriber capacity from each node, to accommodate IPTV offerings in both residential and CIE market deployments. All of these networks are potential users of our product offerings.
+Lodging
+ 
+Historically, in response to lodging property owners seeking additional revenue streams and guests demanding increased in-room technology services, cable operators serving the lodging market sought to provide more channels (especially in HD), VOD, and enhanced interactivity. Initially installed mostly in large hotels, smaller hotels and motels continue to be upgraded and outfitted with enhanced technology to provide a full suite of HD channels and VOD.
+ 
+More recently, the competition among cable providers to the hospitality industry has shifted from emphasis on VOD, to providing an ever-increasing number of HD programs free to each guest room and the capability of offering OTT television. The Company believes that the demand for HD based headends that support free-to-guest service and OTT television, will continue to grow for several years. The rate of growth is limited by the costs associated with replacing all televisions in a hotel with flat screen Pro:Idiom compatible televisions, the infrastructure required to support OTT television, authentication and system management issues. For several years, the Company has been providing a unique system solution to the largest hotelier worldwide through the Company’s network of hotelier approved system integrator and operator customers. The system consists of DOCSIS 3.0/3.1 compliant cable modem termination systems (“CMTS”) and cable modems (“CM”) and is unique in that it is the only system approved by that hotelier that is able to provide a combination of the following services: linear TV, OTT, DOCSIS-based ethernet, and WiFi from a common mini-CATV-type HFC-based infrastructure.
+ 
+CIE-Commercial, Institutional, and/or Enterprise
+ 
+The Company defines its target CIE markets to include educational campus environments, correctional facilities, short and long term health service environments, sports stadiums and airport terminals. All of these seemingly unrelated facilities contain private networks that are dependent on either locally generated or externally sourced video and/or data content. As the advanced technologies of distance learning, HDTV and IPTV permeate the market, institutional facilities are embracing these technologies to achieve site specific goals. The following are examples of the types of applications:
+ 
+
+● | PEG Town Hall Meetings and Local Sports 
+--+---------------------------------------------------------------------------------
+
+
+● | Reception Room TV- Doctors, Dentists and Corporate Offices 
+--+----------------------------------------------------------------------------------------------------
+
+
+● | Patient Education and Entertainment 
+--+-----------------------------------------------------------------------------
+
+
+● | Distance Learning 
+--+-----------------------------------------------------------
+
+
+● | Employee Facing- Training and Company Messaging 
+--+-----------------------------------------------------------------------------------------
+
+
+● | Hotel Lobby Events and Advertising 
+--+----------------------------------------------------------------------------
+
+ 
+The Company traditionally benefited from a very strong share of this market with its Analog Video Headend and Distribution Products. We anticipate that we will continue to be a leader in this market with our digital video solutions and our evolving IPTV platforms.
+ 
+International
+ 
+The Company has authorized distributors and sales agents in various locations outside the United States, but the Company primarily manufactures products for sale in the USA and North America. Historically, international sales have not materially contributed to the Company’s revenue base.
+ 
+5
+
+ 
+
+Additional Considerations
+ 
+The evolution of technology with respect to video, internet and telephone services continues at a rapid pace. Cable TV’s QAM video is competing with DIRECTV® and EchoStar’s DBS service and cable modems compete with digital subscriber lines and fiber-to-the-home offered by regional telephone companies. Telephone companies are building national fiber optic networks and are delivering video, internet and telephone services directly to the home over fiber optic cable, and digital telephone is being offered by cable companies and others in competition with traditional phone companies. The convergence of data and video communications continues, wherein computer and television systems merge. This merging of technologies is extending services and content delivery to mobile smart phone devices and tablet computers with over-the-air data delivery competing with cable- delivered services.
+ 
+Larger MSOs have transitioned or are in the process of transitioning to all-digital platforms (and in some instances MPEG-4/H.264). Satellite DBS television, digitally compressed programming and IP delivery require headend products, set-top decoding receivers, or digital terminal adapters, to convert the transmitted signals back to analog so that they may be viewed on analog television sets. The split of analog and digital offerings provided to customers varies as a function of the size of the operator and their deployment strategy. For example, the majority of private cable and other smaller service providers continue to deliver an analog television signal on standard channels to subscribers’ television sets using headend products at some distribution point in their networks or employ set-top boxes or digital terminal adapters at each television set.
+ 
+Key Products
+ 
+Blonder Tongue’s products can be separated according to function and technology. Four key categories account for the majority of the Company’s revenue–Digital Video Headend, Analog Video Headend, HFC Distribution and Data:
+ 
+● Digital Video Headend Products are used by a system operator for acquisition, processing, compression, encoding and management of digital video. The headend is the center of a digital television system. It is the central location where multiple programs are received and, through additional processing, allocated to specific channels for digital distribution. Blonder Tongue continues to expand its Digital Product offerings to meet the evolving needs of its customers, which is expected to continue for years to come. We offer a broad line of HD and SD, MPEG-2 and MPEG-4/H.264 encoders optimized for the CIE environment. One example is a line of enhanced encoders optimized for the extreme demands of broadcasting live sports, another is a cost effective MPEG-2/H.264 encoder for IP support of PEG channels. The Company’s STEP and custom hotel guide products were developed to provide solutions for certain additional needs of the Company’s customers and customer prospects, that the Company believes were not being met in a cost effective manner by the Company’s competitors. IP interfaces have been added to a wide range of products to help in the migration to IPTV. One such example is the AQT8, a multichannel 8VSB/QAM-IP transcoder that receives off-air broadcast signals and transcodes them for coax and IP distribution. Other lines of digital products provided by Blonder Tongue and Drake include EdgeQAM devices and Satellite Quadrature Phase Shift Key (“QPSK”) to QAM transcoders.
+ 
+The NXG is a powerful, two-way, forward looking platform that is ideal for delivering next generation entertainment services to both enterprise and residential locations, including hospitality, educational, MDU, healthcare, business parks, institutional, and sports venues, aptly described as “pocket community” settings. The goals of NXG are to addresses the service provider challenges of (a) migrating from traditional CATV transmission such as fiber and coaxial cable, to fully IP based transmission, and (b) migrating from traditional content protection, such as Arris DigiCipher®, Cisco PowerKEY®, and Pro:Idiom®, the IP based digital rights management (“IP-DRM”)- content protection systems of the future, such as Adobe DRM®, Verimatrix®, Widevine®, and IP Pro:Idiom®. In order to accomplish those goals, NXG was designed to be an anything-in to anything-out product. As a consequence of the foregoing, NXG is a 100% fully modular, passive-back-plane-based product that enables the service providers to (a) easily and seamlessly accomplish the migration described in the forgoing, and (b) to most cost effectively and seamlessly address what may become any future, unforeseen, prospective transmission and content protection migrations. Unlike many other competing products, all “active” electronic components in the NXG product reside in their respective modules. There are no active components in either the rack-chassis or backplane. The Company’s plan is for the functionality of all of the standalone key signal processing products described in the following paragraphs to be, over time, migrated and subsumed into the NXG product line.
+ 
+6
+
+ 
+
+Encoders accept various input sources (analog and/or digital) and output digitally encoded HD or SD video in various output formats such as Asynchronous Serial Interface (“ASI”), IP and QAM. ASI is a streaming data format which carries the MPEG-2 Transport Stream. The IP output format allows operators to stream video over private data networks with greater reliability and content security. The QAM outputs can be used for digital video distribution over typical private coax networks in a variety of CIE environments (i.e. sports arenas, broadcast and cable television studios, airports, hospitals, university campuses, etc.). As a complement to the encoder line, Blonder Tongue also provides digital QAM multiplexers which take multiple inputs (ASI or 8VSB/QAM) and deliver a single multiplexed QAM output, thereby optimizing the HD channel lineup by preserving bandwidth. The Company’s QAM output MPEG-2 encoders have a low latency feature and superior motion optimization for fast-paced sporting events, which is ideal for live sporting events within a stadium or arena.
+ 
+ATSC/QAM-IP Transcoder series of products (“AQT8”) allow the user to create a customized line up from off-air and/or cable feeds for coax IP distribution. The customizable IP output contains multiple programs with a combination of single and multiple transport streams, from multiple RF input sources. The unique MPEG-2 tables associated with each of the selected input programs are transferred to the IP outputs. This means the virtual channel numbers and program names on the IP outputs can be the same as their RF program input sources. The Company’s AQT8 products enable the user to modify the metadata, including PSIP parameters, such as the Program ID, Program #, Short Name, Major Ch., and Minor Ch. Information, to provide a customized IP program delivery solution. The AQT8-IP features Emergency Alert System (“EAS”) program switching through either an ASI or IP format EAS input and terminal block contacts for triggering.
+ 
+EdgeQAM devices accept Ethernet input and capture MPEG over IP transport streams, decrypt service provider conditional access or content protection, and insert proprietary conditional access, such as Pro:Idiom, into the stream. These streams are then combined and modulated on to QAM RF carriers, in most cases providing multiple streams on to one 6MHz digital channel. Inputs to EdgeQAM devices can come from satellite receivers, set-top boxes, network devices or video servers. The use of these devices adds flexibility for the service provider, in part, because all of this routing happens in one device. Scaling is accomplished via software and modules embedded inside the hardware. Since it is a true network device, the EdgeQAM can be managed over a traditional Ethernet network or over the Internet.
+ 
+The QPSK to QAM transcoders (QTM Series) are used for economically deploying or adding a satellite-based tier of digital or HDTV digital programming. The unit transcodes a satellite signal’s modulation from QPSK to QAM or from 8PSK (HDTV Format) to QAM. Since QPSK and 8PSK are optimum for satellite transmission and QAM is optimum for fiber/coax distribution, precious system bandwidth is saved while the signal retains its digital information. Building upon the innovative design work that brought about the QTM transcoders, QAM up-converters and HDTV processors, the Company launched a series of ATSC/QAM demodulators.
+ 
+Digital Video Headend Product use continues to expand in all of the Company’s primary markets, bringing more advanced technology to consumers and operators. It is expected that this area will continue to be a major component of the Company’s business. The Company’s Digital Video Headend Products accounted for approximately 48% and 41% of the Company’s revenues in 2018 and 2017, respectively.
+ 
+● Analog Video Headend Products are used by a system operator for signal acquisition, processing and manipulation to create an analog channel lineup for further transmission. Among the products offered by the Company in this category are pre-fabricated headends to accommodate legacy analog TV systems, modulators, demodulators, and processors. The Company’s Analog Video Headend Products accounted for approximately 8% of the Company’s revenues in both 2018 and 2017.
+ 
+● HFC Distribution Products are used to transport signals from the headend to their ultimate destination in a home, apartment unit, hotel room, office or other terminal location along a fiber optic, coax or HFC distribution network. Among the products offered by the Company in this category are broadband amplifiers, directional taps, splitters and wall outlets for coax distribution and fiber optic transmitters, receivers (nodes), and couplers. In cable television systems, the HFC distribution products are either mounted on exterior utility poles or encased in pedestals, vaults or other security devices. In CIE systems the distribution system is typically enclosed within the walls of the building (if a single structure) or added to an existing structure using various techniques to hide the coax cable and devices. The non-passive devices within this category are designed to ensure that the signal distributed from the headend is of sufficient strength when it arrives at its final destination to provide high quality audio/video images. The Company’s HFC Distribution Products accounted for approximately 15% and 14% of the Company’s revenues in 2018 and 2017, respectively.
+     7
+
+ 
+
+● Data Products give service providers, integrators, and premise owners a means to deliver data, video, and voice-over-coaxial in locations such as hospitality, MDU’s, and college campuses using IP technology. Among the products offered by the Company are CMTS and CM. The Company’s Data Products accounted for approximately 21% and 30% of the Company’s revenues in 2018 and 2017, respectively.
+ 
+● Other Products. There are a variety of other products that the Company sells to a lesser degree, either to fill a customer need or where sales have reduced due to changes in Company direction, technology, or market influences. Sales of products in these categories contributed less significantly to the Company’s revenues in 2018 and 2017 and are expected to remain this way for 2019. These products include:
+ 
+Test instruments, for measuring both digital and analog CATV and Broadcast TV signals, as well as capture, analyze and/ or generate MPEG ASI transport streams.
+ 
+Contract Manufacturing Services, providing manufacturing, research and development and product support services for other companies’ products.
+ 
+Reception products for receiving off-air broadcast television and satellite transmissions prior to headend processing.
+ 
+Technical Services, including hands-on training, system design engineering, on-site field support and complete system verification testing.
+ 
+Miscellaneous products and services, filling customers’ needs for satellite distribution, repair, and parts.
+ 
+The Company will modify its products to meet specific customer requirements. Typically, these modifications are minor and do not materially alter either the product functionality or the ability to sell such altered products to other customers.
+ 
+Research and Product Development
+ 
+The markets served by Blonder Tongue are characterized by technological change, new product introductions, and evolving industry standards. To compete effectively in this environment, the Company must engage in ongoing research and development in order to (i) create new products, (ii) expand features of existing products to accommodate customer demand for greater capability, (iii) license new technologies, and (iv) acquire products incorporating technology that could not otherwise be developed quickly enough using internal resources. Research and development projects are often initially undertaken at the request of and in an effort to address the particular needs of the Company’s customers and customer prospects, with the expectation or promise of substantial future orders. Projects may also result from new technologies that become available, or new market applications of existing technology. In the new product development process, the vast experience of the Company’s Engineering Group is leveraged to ensure the highest level of suitability and widest acceptance in the marketplace. Products tend to be developed in a functional building block approach that allows for different combinations of blocks to generate new relevant products. Additional research and development efforts are also continuously underway for the purpose of enhancing product quality and lowering production costs. For the acquisition of new technologies, the Company may rely upon technology licenses from third parties. The Company will also license technology if it can obtain technology more quickly, or more cost-effectively from third parties than it could otherwise develop on its own, or if the desired technology is proprietary to a third party. There were 17 employees in the research and development department of the Company at December 31, 2018, including three employees located at the Company’s facility in Springboro, Ohio and four employees located at the Company’s facility in Ft. Wayne, Indiana.
+     8
+
+ 
+
+Marketing and Sales 
+ 
+Blonder Tongue markets and sells its products for use in a wide range of traditional and CIE markets, including traditional cable television, MDU, lodging/hospitality, and institutional (schools, hospitals and prisons). The Company also sells into a multitude of niche CIE markets such as sports arenas and the cruise ship industry. Sales are made directly to customers by the Company’s internal sales force, as well as through Premier Authorized Stocking Distributors. The Company instituted its Premier Distributor Program in 2007, through which a limited group of larger distributors who stock a significant amount of the Company’s products in their inventory (Premier Authorized Stocking Distributors) are given access to a special purchase incentive program allowing them to achieve volume price concessions measured on a year-to-year basis. Sales to Premier Authorized Stocking Distributors accounted for approximately 32% and 31% of the Company’s revenues for 2018 and 2017, respectively. These Premier Authorized Stocking Distributors serve multiple markets. Direct sales to cable operators and system integrators accounted for approximately 16% and 10% of the Company’s revenues for 2018 and 2017, respectively.
+ 
+The Company’s sales and marketing function is performed predominantly by its internal sales force. Should it be deemed necessary, the Company may retain independent sales representatives in particular geographic areas or targeted to specific customer prospects or target market opportunities. The Company’s internal sales force consists of 14 employees, including four salespersons in Old Bridge, NJ, one salesperson in Round Rock, TX, one salesperson in Seminole, FL, one salesperson in Springboro, OH, one salesperson in Peterborough, Ontario, Canada, one sales-support person in Springboro, OH, one sales-support person in Cape Coral, FL and four sales-support personnel at the Company’s headquarters in Old Bridge, New Jersey.
+ 
+The Company’s standard customer payment terms are net 30 days. From time to time, when circumstances warrant, such as a commitment to a large blanket purchase order, the Company will extend payment terms beyond its standard payment terms.
+ 
+The Company has several marketing programs to support the sale and distribution of its products. Blonder Tongue participates in industry trade shows and conferences and also maintains a robust website. The Company publishes technical articles in trade and technical journals, distributes sales and product literature and has an active public relations plan to ensure complete coverage of Blonder Tongue’s products and technology by editors of trade journals. The Company provides system design engineering for its customers, maintains extensive ongoing communications with many original equipment manufacturer customers and provides one-on-one demonstrations and technical seminars to potential new customers. Blonder Tongue supplies sales and applications support, product literature and training to its sales representatives and distributors. The management of the Company travels extensively, identifying customer needs and meeting potential customers.
+ 
+Customers 
+ 
+Blonder Tongue has a diverse customer base, which in 2018 consisted of approximately 187 active accounts. Approximately 54% and 63% of the Company’s revenues in 2018 and 2017, respectively, were derived from sales of products to the Company’s five largest customers. World Cinema, Inc. and Toner Cable Equipment, Inc. accounted for approximately 23% and 14%, respectively, of the Company’s revenues in 2018 and approximately 34% and 13%, respectively, of the Company’s revenues in 2017. None of these customers are obligated to purchase any specified amount of products or to provide the Company with binding forecasts of product purchases for any future period. Accordingly, there can be no assurance that sales to these entities, individually or as a group, will reach or exceed historical levels in any future period; however, the Company currently anticipates that Toner Cable Equipment, Inc. and World Cinema, Inc. will continue to account for a significant portion of the Company’s revenues in future periods. See disclosure below in “Risk Factors – Any substantial decrease in sales to our largest customers may adversely affect our results of operations or financial condition” for further details.
+ 
+Since 2010, the Company has held multi-year contracts with key distributors in its Premier Distributor Program. This program, which began in 2007, has been quite successful for the Company. Many of the Company’s smaller business customers, with whom the Company had formerly dealt on a direct basis, now purchase the Company’s products from these Premier Authorized Stocking Distributors.
+ 
+In the Company’s direct sales to system integrators, the complement of leading customers tends to vary over time as the most efficient and better financed integrators grow more rapidly than others. Any substantial decrease or delay in sales to one or more of the Company’s leading customers, the financial failure of any of these entities, or the Company’s inability to develop and maintain solid relationships with the integrators that may replace the present leading customers, would have a material adverse effect on the Company’s results of operations and financial condition.
+ 
+The Company’s revenues are derived primarily from customers in the continental United States; however, the Company also derives some revenues from customers in other geographical markets, primarily Canada and to a much more limited extent, in developing countries. Sales to customers outside of the United States represented approximately 4% and 7% of the Company’s revenues in 2018 and 2017, respectively. All of the Company’s transactions with customers located outside of the United States have historically been denominated in U.S. dollars. As such, the Company has had no material foreign currency transactions from which it derives revenues. However, the Company derived certain relatively limited sales from customers located in Canada during 2018 and 2017 denominated in Canadian Dollars. Transactions denominated in foreign currencies have certain inherent risks associated with them due to currency fluctuations. See “Risk Factors” below for more detail on the risks associated with foreign currency transactions.
+     9
+
+ 
+
+Manufacturing and Suppliers
+ 
+Blonder Tongue’s primary manufacturing operations are presently located at the Old Bridge Facility, which also serves as the Company’s headquarters. The Company has developed, implemented and maintains a Quality Management System, that has been certified as conforming to all requirements of the ISO 9001:2015 international standard. The Company’s manufacturing operations are vertically integrated and consist principally of the programming, assembly, and testing of electronic assemblies built from fabricated parts, printed circuit boards and electronic devices and the fabrication from raw sheet metal, of chassis and cabinets for such assemblies. Management continues to implement improvements to the manufacturing process to increase production volume and reduce product cost, including logistics modifications on the factory floor to accommodate increasingly fine pitch surface mount electronic components. The Company is capable of manufacturing assemblies of 16 layer printed circuit boards with thousands of components, including placement of 0.030x0.030mil ball grid arrays and 0201 packaged sized components, utilizing its advanced state-of-the-art automatic placement equipment as well as automated optical inspection and testing systems. Investments by the Company in these advanced manufacturing technologies is consistent with and part of the Company’s strategy to provide its customers with high performance-to-cost ratio products. The Company also maintains a small sales and engineering facility in Springboro, Ohio and maintains a small engineering facility in Ft. Wayne, Indiana.
+ 
+Since 2007, the Company has been manufacturing certain high volume, labor intensive products, including many of the Company’s analog products, in the PRC. A key contract manufacturer in the PRC produces such products (all of which are proprietary Blonder Tongue designs) as may be requested by the Company from time to time (in the Company’s discretion) through the submission of purchase orders, the terms of which are governed by a manufacturing agreement. Although the Company does not currently anticipate the transfer of any additional products to the PRC for manufacture, the Company may do so if business and market conditions make it advantageous to do so. In connection with the Company’s initiatives in the PRC, the Company may have foreign currency transactions and may be subject to various currency exchange control programs related to its PRC operations. See “Risk Factors” below for more detail on the risk of foreign operations.
+ 
+Outside contractors supply standard components, printed circuit boards and electronic subassemblies to the Company’s specifications. While the Company generally purchases electronic parts that do not have a unique source, certain electronic component parts used within the Company’s products are available from a limited number of suppliers and may be subject to temporary shortages because of general economic conditions and the demand and supply for such component parts. If the Company were to experience a temporary shortage of any given electronic part, the Company believes that alternative parts could be obtained or system design changes implemented. In such situations, however, the Company may experience temporary reductions in its ability to ship products affected by the component shortage. On an as-needed basis, the Company purchases several products from sole suppliers for which alternative sources are not available. An inability to timely obtain sufficient quantities of certain of these components could have a material adverse effect on the Company’s operating results. The Company does not have an agreement with any sole source supplier requiring the supplier to sell a specified volume of components to the Company. See “Risk Factors” below for more detail on the risk associated with sole supplier products.
+ 
+Blonder Tongue maintains a quality assurance program which monitors and controls manufacturing processes, and extensively tests samples throughout the process. Samples of component parts purchased are tested, as well as its finished products, on an ongoing basis. The Company also tests component and sub-assemblies throughout the manufacturing process using commercially available and in-house built testing systems that incorporate proprietary procedures. The highest level of quality assurance is maintained throughout all aspects of the design and manufacturing process. The extensive in-house calibration program assures test equipment integrity, correlation and calibration. This program ensures that all test and measurement equipment that is used in the manufacturing process is calibrated to the same in-house reference standard on a consistent basis. When all test and measurement devices are calibrated in this manner, discrepancies are eliminated between the engineering, manufacturing and quality control departments, thus increasing operational efficiency and ensuring a high level of product quality. Blonder Tongue performs final product tests prior to shipment to customers. In 2008, the Company was certified to perform Underwriters Laboratories (UL) witness testing of products to UL International Standard 60950.
+ 
+10
+
+ 
+
+Competition
+ 
+All aspects of the Company’s business are highly competitive. The Company competes with national, regional and local manufacturers and distributors, including companies larger than Blonder Tongue that have substantially greater resources. Various manufacturers who are suppliers to the Company sell directly as well as through distributors into the franchise and private cable marketplaces. Because of the convergence of the cable, telecommunications and computer industries and rapid technological developments, new competitors may seek to enter the principal markets served by the Company. Many of these potential competitors have significantly greater financial, technical, manufacturing, marketing, sales and other resources than Blonder Tongue. The Company expects that direct and indirect competition will increase in the future. Additional competition could result in price reductions, loss of market share and delays in the timing of customer orders. The principal methods of competition are product differentiation, performance, quality, price, terms, service, technical support and administrative support. The Company believes it is a leader in many of the markets that it serves and differentiates itself from competitors by consistently offering innovative products, providing excellent technical service support and delivering high performance-to-cost ratio products.
+Intellectual Property
+ 
+The Company currently holds several United States and foreign patents, none of which are considered material to the Company’s present operations, since they do not relate to high volume applications. Because of the rapidly evolving nature of the cable television industry, the Company believes that its market position as a supplier to cable integrators derives primarily from its ability to timely develop a consistent stream of new products that are designed to meet its customers’ needs and that have a high performance-to-cost ratio.
+ 
+The Company owns a United States trademark registration for the word mark “Blonder Tongue®” and also on a “BT®” logo. Drake owns a United States trademark registration for the word mark “DRAKE®”.
+ 
+Since 2008, the Company has obtained and renewed licenses for a variety of technologies in concert with its digital encoder line of products. The licenses are from a number of companies including LG Electronics (expires December 2019). These standard licenses are all non-exclusive and require payment of royalties based upon the unit sales of the licensed products. With regard to the licenses expiring in 2019, the Company expects to renew these standard licenses on similar terms to those presently in force. For additional information regarding these licenses, see “Introduction – Overview” starting on page 3.
+ 
+The Company relies on a combination of contractual rights and trade secret laws to protect its proprietary technologies and know-how. There can be no assurance that the Company will be able to protect its technologies and know-how or that third parties will not be able to develop similar technologies and know-how independently. Therefore, existing and potential competitors may be able to develop products that are competitive with the Company’s products and such competition could adversely affect the prices for the Company’s products or the Company’s market share. The Company also believes that factors such as the technological and creative skills of its personnel, new product developments, frequent product enhancements, name recognition and reliable product maintenance are essential to establishing and maintaining its competitive position. The industries in which the Company competes are subject to constant development of new technologies and evolution of existing technologies, many of which are the subject of existing third party patents and new patents are issued frequently.
+ 
+Regulation
+ 
+Private cable, while in some cases subject to certain Federal Communications Commission (“FCC”) licensing requirements, is not presently burdened with extensive government regulations. The Telecommunications Act of 1996 deregulated many aspects of franchise cable system operation and opened the door to competition among cable operators and telephone companies in each of their respective industries.
+Environmental Regulations
+ 
+The Company is subject to a variety of Federal, state and local governmental regulations related to the storage, use, discharge and disposal of toxic, volatile or otherwise hazardous chemicals used in its manufacturing processes. The Company did not incur in 2018 and does not anticipate incurring in 2019, material capital expenditures for compliance with Federal, state and local environmental laws and regulations. There can be no assurance, however, that changes in environmental regulations will not result in the need for additional capital expenditures or otherwise impose additional financial burdens on the Company. Further, such regulations could restrict the Company’s ability to expand its operations. Any failure by the Company to obtain required permits for, control the use of, or adequately restrict the discharge of, hazardous substances under present or future regulations could subject the Company to substantial liability or could cause its manufacturing operations to be suspended.
+ 
+11
+
+ 
+
+The Company has authorization to discharge wastewater under the New Jersey Pollution Discharge Elimination System/Discharge to Surface Waters General Industrial Stormwater Permit, Permit No. NJ0088315. This permit will expire May 31, 2019. The Company intends to renew this permit.
+ 
+Employees
+ 
+As of February 28, 2019, the Company employed approximately 117 people, including 69 in manufacturing, 17 in research and development, 4 in quality assurance, 16 in sales and marketing, and 11 in a general and administrative capacity. Substantially all of these employees are full time employees. Thirty-two of the Company’s employees are members of the International Brotherhood of Electrical Workers Union, Local 2066, which has a labor agreement with the Company that is scheduled to expire in February 2023.

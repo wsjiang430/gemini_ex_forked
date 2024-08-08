@@ -1,0 +1,51 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS DESCRIPTION
+Our Company
+ 
+Kelinda was established in the state of Nevada on December 18, 2017. Its business plan is to create health-caring applications. Kelinda is both the name of the company and the first product that this company will be launching. All future products will be launched under this company but with different names to reflect the target market. Our first project will offer free test panels to identify general health condition and targeted diseases for both children and adults. Its main purpose will be to inform individuals when it is required for a person to visit certain doctors and get tested in order to prevent disease development in its earliest development stage. The App will synchronize with Google and Apple calendars, send notifications regarding pill-taking time, required tests or doctor appointments via the App and email. In the future, the revenue shall be generated from in-app subscriptions. As of today, we have developed Software Requirements Specification of our product, completed the design of our product, created application screen diagrams, produced a business presentation, created an account on Apple Store and Google Play Store, finished the applications server and mobile application developments and, currently, we find ourselves at the stage of fixing the application's bugs and preparing all the necessary information and additional documentation to make our application available on AppStore and PlayMarket.
+Our Application
+ 
+An average man has only a limited knowledge about diseases, their various symptoms and, therefore, some are discovered at their late phases of development. Research has shown that the top three causes of death in the United States are linked to health conditions. They are heart disease (23.4% of all deaths), cancer (22.5%) and chronic lower respiratory disease (5.6%), and the three of them account for over 50 percent of all deaths. Other death causes are stroke (5.1% of all deaths), diabetes (2.9%), Influenza and pneumonia (2.1%) and kidney disease (1.8%). A substantial proportion of these diseases could be prevented by regular health check-ups, monitoring of health condition patterns and on-time pills/injections taking.
+Kelinda is a subscription-based multi-lingual mobile application that provides comprehensive health lab test panels and pill-taking reminders for children and adults and a truly outstanding tool to saving lives. 
+My Account tab displays selected panels, check-ups and pill-taking lists that a user may opt to undertake. These panels may be added from the Panels tab on the Main Menu. 
+ 
+Panels tab demonstrates a list of various check-up panels with detailed user information on what they are, frequency of health screenings, and impact to preventing numerous diseases, etc. Each panel consists of a list of consultations, analyses and tests. These panels are also arranged by categories: Disease (if a person has a predisposition to a disease, he adds one out of the presented panels to personal check-up calendar). A user may alternatively choose to undertake only a specific analysis from Analyzes tab.
+
+Recommendations are general panels that should be held on a monthly/yearly/5-year/10-year basis by everyone as well as advised panels corresponding to specified age and age group, sex and BMI of a user.
+
+Users can create personal visit schedules and enable/disable notifications about the upcoming events. The reminders come up as in-app pop-ups and gentle reminders to the users email address. Alternatively, users may use the default schedules of selected panels, whereas a user determines an exact start date by creating an entry to the calendar. The schedules of the application are automatically synched with Apple Calendar and / or Google Calendar.
+
+The application allows users to store personal data, such as test results and doctors conclusions and prescriptions. All such information may be uploaded at users individual discretion. Kelinda empowers data exchange between users upon acceptance of such allowance. Initially, personal data is only available for viewing and not for downloading or screenshotting.
+ 
+Kelinda is a great reminding tool. The app lets you create multiple reminders for multiple medications and doctor appointments and includes a repeat function along with notification reminders. 
+ 
+4
+
+
+After downloading the mobile application from a market (iOS or Android), the user is provided an opportunity to use the application for free for 30 calendar days. After the expiration date, users are offered to sign up for a paid subscription.
+
+The success of this app will rest on providing the end-user trustworthy and useful information. One of the innovative features of this app is that it will allow users to find health panels that prevent particular diseases, upload and share documents with doctors and friends, and will provide useful information about our health in general. It is hoped that these features, along with the clean and easy to use user interface will propel Kelinda to the head of the growing health app market.
+
+Competition
+ 
+We expect to face strong competition from the on Med-Care Application industry that nowadays is rapidly developing, and which popularity is continuously growing. The most competitive service provider is MediSafe that is intended to be used by patients who are on prescription medications for a medical diagnosis, and that was selected as one of Healthlines Best Bipolar Apps of 2018. Though this company is well-known, it is limited to providing pills reminders, whereas Kelinda not only will remind users to take their medications but will additionally allow users to find health panels that prevent development of particular diseases, upload and share documents with doctors and friends, and will provide useful information about their health in general. These points are positioned to be our strengths and opportunities over any competition we might currently face.
+Revenue
+ 
+The Companys revenue is to be generated from in-app subscriptions. Additionally, we might consider selling the advertising slots for in-app advertising to other applications. 
+ 
+Employees Identification of Certain Significant Employees
+ 
+We are a start-up company and currently have two employees  Petru and Andrei Afanasenco. 
+
+Petru Afanasenco  President and Director, who is in charge of the core business processes and its financials.
+ Andrei Afanasenco  Chair, Secretary and Treasurer, who is in charge of day-to-day business processes, App development and PR.
+
+We intend to outsource any additional services if the business requires so. 
+ 
+The Office
+ 
+Our executive office is located at str. Mihail Kogălniceanu, 66, off. 3, Chisinau, Republic of Moldova, MD-2009. Our telephone number is +373 621-150-42. We are open every day from 8:00am to 6:00pm local time except for holiday days in the Republic of Moldova.
+Government Regulation
+ 
+We will be required to comply with all regulations, rules, and directives of governmental authorities including the US Securities and Exchange Commission and agencies applicable to our business in any jurisdiction with which we would conduct activities. As a smaller reporting company, we may face an effect of existing or probable governmental regulations on the business, Item 101(h)(4)(ix) of Regulation S-K. Due to the specifics of the business, Kelinda shall comply to the Health Insurance Portability and Accountability Act of 1996 ("HIPAA") regulations and may face an impact on users allowance to upload and store personal health data.

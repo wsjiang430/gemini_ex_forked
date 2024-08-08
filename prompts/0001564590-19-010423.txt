@@ -1,0 +1,209 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ When used in this report, unless otherwise indicated by the context, “we,” “our,” “us,” and “Kodak” refer to the consolidated company on the basis of consolidation described in Note 1 to the consolidated financial statements in Part II, Item 8, “Financial Statements and Supplementary Data” of this Form 10-K Report.  Also, unless otherwise indicated by the context, “EKC” means the parent company, Eastman Kodak Company (the “Company”).
+ Kodak provides directly, and through partnerships with other innovative companies, hardware, software, consumables and services to customers in graphic arts, commercial print, publishing, electronic displays, entertainment and commercial films, and consumer products markets.  With its world-class R&D capabilities, innovative solutions portfolio and highly trusted brand, Kodak is helping customers around the globe to sustainably grow their own businesses and enjoy their lives.
+ Kodak is a global commercial printing and imaging company with proprietary technologies in materials science, digital imaging science and software, and deposition processes (methods whereby one or more layers of various materials in gaseous, liquid or small particle form are deposited on a substrate in precise quantities and positions).  Kodak leverages its core technology products and services to develop solutions for the product goods packaging and graphic communications markets, and is developing products for the functional printing market. Kodak also offers brand licensing and intellectual property opportunities, provides products and services for motion pictures and other commercial films, and sells ink to its existing installed consumer inkjet printer base.
+ Kodak’s consolidated financial statements have been prepared on the going concern basis of accounting, which assumes Kodak will continue to operate as a going concern and which contemplates the realization of assets and the satisfaction of liabilities and commitments in the normal course of business.  Refer to Note 1, “Summary of Significant Accounting Principles” in the Notes to Financial Statements for additional information.
+ The Company was founded by George Eastman in 1880 and incorporated in 1901 in the State of New Jersey.  Kodak is headquartered in Rochester, New York.
+ REPORTABLE SEGMENTS
+ Kodak has six reportable segments:  Print Systems, Enterprise Inkjet Systems, Software and Solutions, Consumer and Film, Advanced Materials and 3D Printing Technology and Eastman Business Park.  
+ Print Systems
+ The Print Systems segment is comprised of Prepress Solutions, which includes Kodak’s digital offset plate offerings and computer-to-plate imaging solutions, and Electrophotographic Printing Solutions, which offers high-quality digital printing solutions using electrically charged toner-based technology.  The Print Systems segment provides digital and traditional product and service offerings to a variety of commercial industries, including commercial print, direct mail, book publishing, newspapers and magazines and packaging.  While the businesses in this segment are experiencing pricing pressure, innovations in Kodak product lines that can command premium prices offset some of the long-term market price erosion.
+ Prepress Solutions capitalizes on a contract-based, stable and recurring cash flow-generative business model. The average duration of customer contracts is two years. These contracts offer stability and generate recurring revenue. The core of the business is the manufacturing of aluminum digital printing plates of varying sizes. These plates can be as small as 23cm x 27cm and as large as 126cm x 287cm.  Unexposed plates are sold to commercial printing companies for use in the offset printing process. Kodak also manufactures equipment, known as Computer to Plate (“CTP”) equipment, which images the plates with a laser. The plates are used in the offset printing process, which transfers ink from the plate onto a rubber blanket and then onto the substrate to be printed. Due to the nature of the imaging and printing process, a new plate must be used for each printing run. As a result, there is a recurring revenue stream from the sale of these plates.
+ 
+Prices for aluminum have risen over the past year, in part due to strong global demand and more recently due to the imposition of U.S. tariffs. Kodak seeks to mitigate the impact of high aluminum prices through a combination of price increases, commodity contracts, improved production efficiency and cost reduction initiatives.  In January 2019, Kodak received exemptions on U.S. tariffs for aluminum.
+ 
+The Print Systems products and services are sold globally to customers through both a direct sales team as well as indirectly through dealers. Primary competitors are Fuji and Agfa.  Kodak expects to benefit from current industry trends, including customers’ increasing focus on sustainability initiatives, which strengthens demand for Kodak’s process-free solutions.  
+  
+• | Prepress Solutions:
+--+--------------------
+
+
+• | Digital offset plates, which includes KODAK SONORA Process Free Plates. KODAK SONORA Process Free Plates are prepared directly with a CTP thermal output device and do not require subsequent processing chemistry, processing equipment or chemical disposal. As a result, the plates deliver cost savings and efficiency for customers and promote environmental sustainability practices.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 3
+
+ 
+• | CTP output devices that are used by customers to transfer images onto aluminum offset printing plates and provide consistent and high-quality imaging for offset press applications. CTP products provide high resolution, consistency and stability in thermal imaging. Kodak also offers a lower cost CTP system using TH5 imaging technology, which provides a highly efficient and cost-effective imaging solution at a lower price point.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Net sales for Prepress Solutions accounted for 58% of Kodak’s total net revenue for each of the years ended December 31, 2018 and 2017.
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Electrophotographic Printing Solutions:
+--+----------------------------------------
+
+
+• | NEXPRESS printers produce high-quality, differentiated printing of short-run, personalized print applications, such as direct mail, books, marketing collateral and photo products.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | DIGIMASTER printers use monochrome electrophotographic printing technology for transactional printing, short-run books, corporate documentation, manuals and direct mail.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Net sales for Electrophotographic Printing Solutions accounted for 10% of Kodak’s total net revenue for each of the years ended December 31, 2018 and 2017.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The Print Systems segment also provides service and support related to these products.
+ Enterprise Inkjet Systems
+ The Enterprise Inkjet Systems segment contains the Prosper business and the Versamark business. The Enterprise Inkjet Systems products include production press systems, consumables (primarily ink), inkjet components and services.  Enterprise Inkjet Systems products are distributed directly by Kodak and indirectly through dealers.  The markets that the Enterprise Inkjet Systems segment serves are highly competitive in variable printing applications like direct mail, newspapers, books, and packaging/labels.  Key competitors are HP, Canon, Ricoh, and Screen. 
+• | Prosper:
+--+---------
+
+
+• | The Prosper business product offerings, including the PROSPER Press systems and PROSPER Components, feature ultrafast inkjet droplet generation. This includes the PROSPER 6000 Press, which delivers a continuous flow of ink that enables constant and consistent operation, with uniform ink droplet size and accurate placement, even at very high print speeds. Applications of the PROSPER Press include publishing, commercial print, direct mail and packaging. PROSPER System Components are integrated into original equipment manufacturer partner products and systems. Sales of equipment that incorporate the PROSPER Writing Systems result in recurring revenue from sales of ink and other consumables and equipment service. The level of recurring revenue depends on the application for which the equipment is used, which drives the total number of pages printed and, therefore, the amount of ink usage. The business model is further supplemented by consumption of other consumables including refurbished jetting modules and service. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The focus of the Prosper business is on developing the next generation platform, Ultrastream, with solutions that place writing systems in original equipment manufacturers (OEM) as well as direct sale press products that widens its reach into applications for packaging and décor and expands the substrate range to include plastics. The Prosper business secured its first agreement in the fourth quarter of 2018 with an industry OEM, who will integrate Ultrastream in a packaging press solution. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The Prosper business includes Kodak Print Services. Kodak Print Services prints the Jersey Evening Post as well as the majority of U.K. national newspapers for distribution in both Jersey and Guernsey islands. The business is used to demonstrate the value of the Kodak Prosper presses to customers around the world. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Versamark:
+--+-----------
+
+
+• | The KODAK VERSAMARK Products are the predecessor products to the PROSPER Press. Kodak has ceased manufacturing VERSAMARK Press systems. Users of KODAK VERSAMARK Products continue to purchase ink and other consumables as well as service from Kodak. Applications of the VERSAMARK products include publishing, transactional, commercial print and direct mail. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Net sales for Enterprise Inkjet Systems accounted for 10% of Kodak’s total net revenue for each of the years ended December 31, 2018 and 2017.  
+ 
+Software and Solutions
+ The Software and Solutions segment is comprised of Unified Workflow Solutions and Kodak Technology Solutions, which includes enterprise services and solutions.  Unified Workflow Solutions is an established product line whereas Kodak Technology Solutions includes Kodak Services for Business (“KSB”) and Kodakit.  Sales in Kodak Technology Solutions are project-based and can vary from year to year depending on the nature and number of projects in existence that year.  
+ 4
+
+ 
+• | Unified Workflow Solutions:
+--+----------------------------
+
+
+• | Unified Workflow Solutions offers a leading suite of solutions for print production workflow, including the PRINERGY workflow production software, by providing customer value through automation, web integration and integration with other Kodak systems and third-party offerings. Production workflow software is used by customers to manage digital and conventional print content from file creation to output. Production workflow software manages content and color, reduces manual errors and helps customers manage the collaborative creative process. Kodak believes it is a leader in production workflow solutions for the commercial print and packaging industries with systems sold to many of the largest printing and packaging establishments around the world. The Unified Workflow Solutions business includes digital front-end controllers which manage the delivery of personalized content to digital presses while controlling color and print consistency. Products and services are sold directly by Kodak and indirectly through dealers. The markets that Unified Workflow Solutions serves are highly competitive. Key customer segments each face competitive market pressure in pricing and new product introduction. Primary competitors include Heidelberg, Agfa, Fuji, and Esko. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Kodak Technology Solutions:
+--+----------------------------
+
+
+• | KSB assists organizations with challenges and opportunities created by the worldwide digital transformation. It provides business process outsourcing services, scan and capture solutions, records conversion services, workflow solutions, content management and print and managed media services that assist customers with solutions that meet their business requirements. KSB has expertise in the capture, archiving, retrieval and delivery of documents including in-depth knowledge of handling legacy media. KSB serves enterprise customers primarily in the banking, insurance and government sectors. Digitization and document management services are provided by a variety of players, both global and local, in a market that varies significantly in terms of quality and pricing of services provided. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Kodakit is a platform that connects businesses with professional photographers to cater to their photography needs. Customers include global hotels and online travel agencies, real estate companies, marketplaces, advertising agencies and global brands. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Consumer and Film
+ 
+The Consumer and Film segment is comprised of three lines of business: Consumer Products, Industrial Film and Chemicals, and Motion Picture.  Kodak’s Consumer and Film products are distributed directly by Kodak and indirectly through dealers.  Brand licensees use the Kodak brand on their products and use their own distribution channels.  Two Industrial Film and Chemicals customers represented approximately 30 percent of total Consumer and Film segment revenues.  China tariffs on U.S. made film are increasing material costs in China for printed circuit board film. Prolonged trade disputes with increasing tariffs could have incremental negative impacts on material costs. 
+
+• | Consumer Products:
+--+-------------------
+
+
+• | Includes licensing of the Kodak brand to third parties. Kodak currently licenses its brand for use with a range of products including batteries, digital and instant print cameras and camera accessories, printers, and LED lighting. Kodak intends to continue efforts to grow its portfolio of brand licenses to generate both ongoing royalty streams and upfront payments. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Consumer Inkjet Solutions, which involves the sale of ink to an existing installed base of consumer inkjet printers.
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | 3rd party sales of specialty inks and dispersions.
+--+---------------------------------------------------
+
+
+• | Kodak developed consumer products.
+--+-----------------------------------
+
+
+• | Industrial Film and Chemicals:
+--+-------------------------------
+
+
+• | Offers industrial film, including films used by the electronics industry to produce printed circuit boards, as well as professional and consumer still photographic film
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Includes related component businesses: Polyester Film; Solvent Recovery; and Specialty Chemicals.
+--+--------------------------------------------------------------------------------------------------
+
+
+• | Motion Picture:
+--+----------------
+
+
+• | Includes the motion picture film business serving the entertainment industry. Motion picture products are sold directly to studios, external laboratories and independent filmmakers.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Kodak motion picture film processing laboratories offering onsite processing services at strategic locations in the U.S. and Europe.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+Net sales for Motion Picture and Industrial Film and Chemicals accounted for 12% and 11% of Kodak’s total net revenue for the years ended December 31, 2018 and 2017, respectively.
+ Advanced Materials and 3D Printing Technology
+ The Advanced Materials and 3D Printing Technology segment contains the Kodak Research Laboratories and associated new business opportunities and intellectual property licensing not directly related to other business divisions.  Kodak conducts research and files patent applications with fundamental inventions from the Kodak Research Laboratories.  Additionally, Kodak continues to file new patent applications in areas aligned with its core businesses.  Via these core business patent applications along with the research inventions, Kodak maintains a large worldwide portfolio of pending applications and issued patents.  Because product solutions in Advanced Materials and 3D Printing are in the process of being commercialized or are new business opportunities, a higher-level of investment has been required.  Advanced Materials and 3D Printing Technology significantly reduced the level of this investment in the fourth quarter of 2017, concentrating on opportunities that are commercialized or nearly commercialized with identified markets and customers.
+ 
+The Advanced Materials and 3D Printing Technology segment will also pursue partnership opportunities to commercialize materials and printed electronics technologies.  These partnerships may include non-recurring engineering payments for Kodak efforts to further develop such technologies into products.  Further, the Advanced Materials and 3D Printing Technology segment provides a wide range of analytical services and non-recurring engineering services to external clients at market rates for such services. 
+ 
+ 
+• | Advanced Materials:
+--+--------------------
+
+
+• | Advanced Materials is developing solutions for component smart materials based on the materials science inventions and innovations from the research laboratories. There are multiple applications that Kodak contemplates addressing in this category, but the singular focus now is light blocking particles for the textile market. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | 3D Printing:
+--+-------------
+
+
+• | 3D Printing concentrates on partnership and/or licensing opportunities in printed electronics (micro 3D printing) and materials production for macro 3D printing companies.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | IP Licensing:
+--+--------------
+
+
+• | Kodak actively seeks opportunities to leverage its patents and associated technology in licensing and/or cross-licensing deals to support both revenue growth and its ongoing businesses. While revenues from these licensing activities tend to be unpredictable in nature, this segment still carries the potential for revenue generation from intellectual property licensing and new materials businesses. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Eastman Business Park
+ The Eastman Business Park segment includes the operations of the Eastman Business Park, a more than 1,200-acre technology center and industrial complex in Rochester, New York and the leasing activities related to that space. A large portion of this facility is used in Kodak’s own manufacturing and other operations, while the remaining portion is occupied by external tenants or available for rent to external tenants.  Three tenants represented approximately 50% of total Eastman Business Park segment revenues in 2018.  A tenant that represented approximately 20% of segment revenues for the year ending December 31, 2018 did not renew its lease upon expiration in the third quarter of 2018.
+DISCONTINUED OPERATIONS
+ Discontinued operations of Kodak include the Flexographic Packaging business.  Refer to Note 27, “Discontinued Operations” in the Notes to Financial Statements for additional information.
+ 6
+
+RAW MATERIALS
+ The raw materials used by Kodak are many and varied and are generally readily available.  Lithographic aluminum is the primary material used in the manufacture of offset printing plates.  Kodak procures lithographic aluminum coils from several suppliers with pricing based, in part, on either prevailing market prices for aluminum or on fixed prices for aluminum agreed to up to one year prior.   Electronic components are used in the manufacturing of commercial printers and other electronic devices.  The film and chemicals business uses many raw materials from a broad range of suppliers.  Most electronic components, raw materials and other components are generally available from multiple sources.  However, certain key electronic components, raw materials and other components included in the finished goods manufactured by Kodak and manufactured by and purchased from Kodak’s third-party suppliers are obtained from single or limited sources, which subjects Kodak to supply risks.
+SEASONALITY OF BUSINESS
+ Equipment and plate unit sales generally are higher in the fourth quarter, resulting from customer or industry budgeting practices and buying patterns.
+ RESEARCH AND DEVELOPMENT
+ Kodak's general practice is to protect its investment in research and development and its freedom to use its inventions by obtaining patents.  The ownership of these patents contributes to Kodak's ability to provide industry-leading products.  Kodak holds portfolios of patents in several areas important to its business, including specific technologies such as flexographic and lithographic printing plates and related equipment systems; digital printing workflow and color management proofing systems; color and black-and-white electrophotographic printing systems including key press components and toners; commercial inkjet writing systems and components, presses and inks; consumer inkjet inks and media; functional printing materials, formulations, and deposition modalities; engineered microparticles for specific functions; security materials; embedded information; and color negative films, processing and print films.  Each of these areas is important to existing and emerging business opportunities that bear directly on Kodak's overall business performance.
+ Kodak's major products are not dependent upon one single, material patent.  Rather, the technologies that underlie Kodak's products are supported by an aggregation of patents having various remaining lives and expiration dates.  There is no individual patent, or group of patents, whose expiration is expected to have a material impact on Kodak's results of operations.
+ ENVIRONMENTAL PROTECTION
+ Kodak is subject to various laws and governmental regulations concerning environmental matters.  The U.S. federal environmental legislation and state regulatory programs having an impact on Kodak include the Toxic Substances Control Act, the Resource Conservation and Recovery Act, the Clean Air Act, the Clean Water Act, the NY State Chemical Bulk Storage Regulations and the Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended (the “Superfund Law”).
+ It is Kodak’s policy to carry out its business activities in a manner consistent with sound health, safety and environmental management practices, and to comply with applicable health, safety and environmental laws and regulations.  Kodak continues to engage in programs for environmental, health and safety protection and control.
+ Based upon information presently available, future costs associated with environmental compliance are not expected to have a material effect on Kodak's capital expenditures or competitive position, although costs could be material to a particular quarter or year.
+ EMPLOYMENT
+ At the end of 2018, Kodak employed the full time equivalent of approximately 5,400 people globally, of whom approximately 2,300 were employed in the U.S.  The actual number of employees may be greater because some individuals work part time.
+AVAILABLE INFORMATION
+ Kodak files many reports with the Securities and Exchange Commission (“SEC”) (www.sec.gov), including annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K.  These reports, and amendments to these reports, are made available free of charge as soon as reasonably practicable after being electronically filed with or furnished to the SEC.  They are available through Kodak's website at www.Kodak.com.  To reach the SEC filings, follow the links to About Kodak, Investor Center, Financial Information and then SEC Filings.
+ 7
+
+ 

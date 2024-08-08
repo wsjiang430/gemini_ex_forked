@@ -1,0 +1,389 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+We are a biopharmaceutical company focused on targeted therapeutics for patients suffering from conditions such as atopic dermatitis, also known as eczema. We were incorporated in Nevada in May 2017 and have a limited operating history.
+ 
+Our primary asset is a sublicense agreement with Chelexa Biosciences, Inc. (“Chelexa”) pursuant to which Chelexa has granted us an exclusive sublicense to make, use, have made, import, offer for sale, and sell products based upon or involving the use of (i) topical compositions comprising a zinc chelator and gentamicin and (ii) zinc chelators to inhibit biofilm formation (the “BioLexa Platform” or “BioLexa”), which rights were originally granted to Chelexa pursuant to an exclusive license agreement with the University of Cincinnati. In addition, Chelexa granted us the right to issue exclusive and nonexclusive sublicenses (with the right to further sublicense to third parties) to make, use, have made, import, offer for sale, and sell products based upon the BioLexa Platform.
+ 
+The license enables us to develop the platform for any indications in humans. Our initial focus will be on the treatment of eczema through the application of a topical cream. Although our initial focus will be on the treatment of eczema, we intend to develop a second topical cream which, upon application, is intended to reduce post-procedure infections, accelerate healing and improve clinical outcomes for patients undergoing aesthetic dermatology procedures. In addition, we intend to conduct a pilot study on the efficacy of BioLexa to accelerate diabetic wound healing. The BioLexa Platform combines a U.S. Food and Drug Administration (“FDA”) approved zinc chelator with one or more approved antibiotics in a topical dosage form to address unchecked eczema flare-ups by preventing the formation of infectious biofilms and the resulting clogging of sweat ducts which trigger symptoms. It is the first product candidate intended to prevent the symptom triggering flare-ups rather than simply treating symptoms when they occur.
+ 
+We intend to initially use the BioLexa Platform to develop two different topical cream products: (i) a product to treat eczema and (ii) a product that reduces post-procedure infections, accelerates healing and improves clinical outcomes for patients undergoing aesthetic dermatology procedures.
+ 
+BioLexa Biofilm Platform
+ 
+The BioLexa Platform is a proprietary, patented, drug compound platform for the treatment of eczema. It combines an FDA-approved zinc chelator with one or more approved antibiotics in a topical dosage form to address unchecked eczema flare-ups by preventing the formation of infectious biofilms and the resulting clogging of sweat ducts.
+ 
+-1-
+
+ 
+
+
+BIOFILMS IN INFECTIONS, DR TV RAO, MD https://www.slideshare.net/doctorrao/biofilms-2172226
+ 
+The technology is based on scientific research into the pathogenesis of bacterial biofilm formation conducted by Andrew B. Herr, PhD at the University of Cincinnati. Dr. Herr’s work indicated that staph-biofilm formation requires the presence of zinc in the cellular environment. If the zinc is removed, the biofilms’ formation is inhibited, rendering the bacteria susceptible to immune defenses and antibiotic therapy.
+ 
+Dr. Herr conducted multiple in-vitro experiments, or experiments conducted in a controlled environment outside of a living organism, in his laboratory demonstrating that chelation of zinc can prevent staph bacteria from forming colonies which in turn enables the creation of staph-biofilm. Prevention of the formation of colonies leaves the bacteria in their planktonic, or single cell state and susceptible to host immune defenses, as well as antibiotic therapy.
+ 
+Dr. Herr’s in-vitro work demonstrating that zinc is an enabler for staph-biofilm formation led to the design and implementation of a series of in-vivo experiments, or experiments conducted using living organisms, specially, pigs, which experiments were conducted at the University of Miami and intended to demonstrate that the combination of zinc removal, or chelation, and broad spectrum antibiotic therapy was far more effective than either approach on its own.
+ 
+The in-vivo porcine deep partial thickness wound study was undertaken to determine the effects of an antimicrobial agent on the proliferation of 106 Staphylococcus aureus (MRSA USA 300).
+ 
+Swine were chosen for the in-vivo study due to the morphological and biochemical similarity between porcine and human skin. Two young female white Yorkshire/landrace specific pathogen-free pigs weighing 35-40 kg were kept in-house for at least one week prior to initiating the study, and were studied under the same protocol with approximately two weeks separating the two studies. Skin was prepared by washing with a non-antibiotic soap (Neutrogena) and sterile water. The area was blotted dry with sterile gauze. Forty-four rectangular wounds per animal (88 total wounds) measuring 10mm x 7mm x 0.5mm deep were made in the paravertebral and thoracic area with a specialized electrokeratome. The wounds were separated from one another by approximately 15mm of unwounded skin. Four wounds (four per each treatment group) were randomly assigned to each treatment group (n=11), inoculated with 106 Staphylococcus aureus (MRSA USA 300) and then treated once per day for two days.
+ 
+-2-
+
+ 
+
+The BioLexa Platform was formulated as a topical cream made up of Glyceryl Stearate/PEG-100 Stearate, Lanolin Alcohol, Cetyl Alcohol, Mineral Oil, Sorbitol 70% Solution, Purified Water and the active components, Gentamicin and Ca-DTPA. Gentamicin 0.1% cream (1-gram cream contains 1 mg of Gentamicin base), a broad-spectrum antibiotic exhibiting bactericidal activity against both gram-positive and gram-negative bacteria, is FDA cleared for both internal (not oral) and external application and provides a highly effective topical treatment in primary and secondary bacterial infections of the skin. Ca-DTPA, at the concentrations used, is treated as an excipient and has also received FDA clearance to be safe and effective for internal usage to increase the rates of elimination of heavy metals.
+ 
+The concentration of Gentamicin 0.1% was kept constant in the study, since that is the FDA-cleared topical cream concentration. Ca-DTPA concentration was varied with the goal of achieving an optimal dose-response antimicrobial effect. Results revealed that the combination of both Gentamicin and Ca-DTPA is greater than the results achieved by Gentamicin alone or Ca-DTPA alone. In addition, no new chemical entities were formed within this formulation.
+ 
+The data tables below highlight these results.
+ 
+
+Miller School of Medicine, of the University of Miami and University of Cincinnati - Determination of the effects of a novel antimicrobial agent used in conjunction with Gentamicin on Staphylococcus aureus using a porcine model: preliminary evaluations Jose Valdes, Joel Gil, Andrew Herr, Andrew Harding and Stephen Davis
+ 
+-3-
+
+ 
+
+
+Miller School of Medicine, of the University of Miami and University of Cincinnati - Determination of the effects of a novel antimicrobial agent used in conjunction with Gentamicin on Staphylococcus aureus using a porcine model: preliminary evaluations Jose Valdes, Joel Gil, Andrew Herr, Andrew Harding and Stephen Davis
+ 
+The BioLexa Platform has achieved positive results in its initial clinical studies conducted at the University of Miami. BioLexa’s formulation is a new topical dosage form “repurposing” the antibiotic, enabling it to be developed for use in patients following a special regulatory pathway codified in Section 505(b)(2) of the FDA rules. Section 505(b)(2) of the Federal Food, Drug and Cosmetic Act (“FDCA”) was enacted to enable sponsors to seek New Drug Application (“NDA”) approval for novel repurposed drugs without the need for such sponsors to undertake time consuming and expensive pre-clinical safety studies and Phase 1 safety studies. Proceeding under this regulatory pathway, we will be able to rely upon all of the publicly available safety and toxicology data with respect to gentamicin and zinc chelator in our FDA submissions. We will be required to conduct a Phase 2 study to show the safety of the combination in humans and after such Phase 2 study will be required to proceed to Phase 3 pivotal clinical trials. We believe that this path will dramatically reduce the required clinical development effort, costs and risks as compared to what would be required of us if we were required to conduct pre-clinical safety, toxicology and animal studies together with Phase 1 human safety trials required for new chemical entities which are not eligible to be reviewed pursuant to the Section 505(b)(2) regulatory pathway. We estimate that by using the Section 505(b)(2) regulatory pathway, that the clinical development process may be five to six years shorter than is required for a new chemical entity, and the FDA approval process may be six to nine months shorter than the typical eighteen month period, which we believe may result in lower development costs and shorter development time. As of the date hereof, we have not submitted an NDA to the FDA. In September 2018, we attended the first of a planned series of meetings with the FDA to review the requirements for submission and activation of an investigational new drug application (“IND”) with respect to the BioLexa Platform for use in eczema. In preparation for such pre-IND meeting, we prepared and presented to the FDA our proposed Phase 2 clinical trial plan for the treatment of eczema in patients over the age of one year old. As part of our pre-IND meeting, the FDA provided us with general guidance with respect to specific animal studies, dosing schedules and suggested human safety studies before we commence clinical trials in pediatric or adult patients. We are also exploring the feasibility, cost and timings advantages of conducting an initial Phase 2 proof of concept clinical trial in a small number of pediatric patients. The objective of this study would be to evaluate the safety and potential efficacy of BioLexa compared to the cream base or vehicle that contains no active ingredients. This Phase 2 proof of concept clinical trial feasibility study may provide us with highly useful information regarding potential safety and efficacy of the BioLexa Platform and assist us in developing appropriate sample sizes for the two registration, or regulatory, trials required for FDA approval. We are currently investigating multiple potential venues for conducting such trial both in and outstand of the U.S. We have engaged Camargo Pharmaceutical Services, LLC (“Camargo”) to assist us with the FDA process required for Section 505(b)(2) applications and with the evaluation of potential clinical trial venues for the proof of concept study should we determine to undertake such study. Specifically, Camargo has provided and will continue to provide advice and guidance relative to the IND preparation phase for the BioLexa Platform. Camargo will assist us with the refinement of our non-clinical, clinical, clinical pharmacology and biopharmaceutics strategy incorporating the preliminary feedback we received from the FDA during our pre-IND meeting.
+ 
+-4-
+
+ 
+
+Sublicense with Chelexa Biosciences, Inc.
+ 
+On May 26, 2017, we entered into a sublicense agreement with Chelexa, as amended on August 22, 2018 and August 29, 2018, pursuant to which Chelexa granted us an exclusive worldwide sublicense to make, use, have made, import, offer for sale, and sell products based upon or involving the use of the BioLexa Platform, which rights were originally granted to Chelexa pursuant to an exclusive license agreement with the University of Cincinnati. In addition, Chelexa granted us the right to issue exclusive and nonexclusive sublicenses (with the right to further sublicense to third parties) to make, use, have made, import, offer for sale, and sell the products based upon the BioLexa Platform.
+ 
+In May 2017, we paid $300,000 to Chelexa pursuant to the sublicense agreement. In addition, we issued Chelexa 250,000 shares of our common stock, which was 10% of our fully-diluted equity at May 26, 2017, and Chelexa had the right to receive such number of additional shares of common stock required to maintain its 10% interest in our fully-diluted equity until such time we raised a minimum of $3,000,000 (the “Preemptive Right”). As of the date hereof, we have issued Chelexa an aggregate of 476,943 additional shares of common stock in accordance with the Preemptive Right. However, the Company has raised more than $3,000,000 and therefore the Preemptive Right has been terminated. Furthermore, pursuant to the sublicense agreement, Chelexa has the right to participate (the “Chelexa Participation Right”) in certain equity issuances made by us for purposes of raising capital based upon its pro-rata share to enable Chelexa to retain 10% of our fully-diluted equity until such time as we consummate an initial public offering pursuant to which we receive aggregate gross proceeds of not less than $5,000,000. However, since we consummated an initial public offering pursuant to which we received aggregate gross proceeds of $7,000,000, the Chelexa Participation Right has been terminated.
+ 
+The Chelexa agreement requires us to use our best commercial efforts to develop, produce and commercialize the BioLexa products on a global basis. It further provides for the payment by us of all development and commercialization expenses along with sales-based royalties at percentages which range from mid to high single digits, with high sales volumes being subject to lower royalty rates, and total milestone payments of $3.5 million. Industry standard performance obligations for us are provided for in the Chelexa agreement with remedies for breach of such obligations. The sublicense agreement will continue until the later of April 16, 2034 and the last to expire patent, unless earlier terminated pursuant to the terms of the agreement. We, in our sole discretion, have the first right of refusal to renew the term. In addition, at any time after one year from the effective date of the sublicense agreement, Chelexa may, at its sole option, terminate or render the license granted to us nonexclusive if, in Chelexa’s judgment, our progress reports do not demonstrate that we have used our best commercial efforts to develop and seek regulatory approval of BioLexa and/or we are engaged in manufacturing, marketing or sublicensing activity which is reasonably expected to ensure that BioLexa is available to the public.
+ 
+License with the University of Cincinnati
+ 
+On May 18, 2018, we entered into an exclusive license agreement with the University of Cincinnati for a patented, novel genetic marker for food allergies. The genetic marker licensed by us from the University of Cincinnati (i) is used to identify at risk infants in predicting food allergies, including peanut and milk allergies, (ii) may be used to identify a person’s predisposition to an allergic reaction, thereby avoiding such reaction and (iii) may also determine an individual’s propensity to develop atopic dermatitis (“AD”), such as eczema. We intend to utilize the genetic marker for purposes of determining an individual’s propensity to develop eczema as well as to identify and treat allergies in at-risk infants.
+ 
+Pursuant to the terms of the license agreement, we agreed to pay the University of Cincinnati a one-time initial fee within 30 days of the date of the agreement in addition to an annual license fee. In addition, we agreed to pay the University of Cincinnati a yearly minimum annual royalty and certain milestone payments upon successful proof of concept of determining an individual’s propensity to food allergy and within 30 days of a marketing approval in the U.S. The license agreement will continue until the latter of the date upon which a valid claim pursuant to the terms of the license agreement expires or 10 years after the first commercial sale or until earlier terminated pursuant to the terms of the license agreement.
+ 
+-5-
+
+ 
+
+Product Development and Pipeline
+
+We intend to conduct our first Phase 2 study in pediatric eczema patients comparing BioLexa to the base cream vehicle used to deliver BioLexa. We will assess the safety and tolerability of the topical formulation of Ca-DTPA and Gentamicin 0.1% in our proprietary topical cream vehicle. We will also measure the time to flare-up of symptoms in each arm of the trial and compare them, although proof of efficacy is not intended to be the primary endpoint for this trial. We expect to enroll 50 to 100 subjects in the Phase 2 trial at one or two centers and to complete the trial by the end of 2019.
+ 
+Following our Phase 2 trial, we intend to conduct up to two registration trials in eczema patients again comparing BioLexa to the base cream vehicle used to deliver BioLexa. We are planning to conduct the first trial as a dose ranging trial to establish the safety and efficacy of each of the active ingredients in the BioLexa Platform as well as the combination of ingredients. Subject numbers and allocation will be informed by the results of the Phase 2 study. We expect the clinical program to be completed, subject to receipt of funding by us, by the end of 2020 or early 2021 with an NDA submission targeted for mid to late 2021. While approval timing is very difficult to estimate, we believe that using the 505(b)(2) application process will make it likely that our application will be reviewed more rapidly by the FDA given the high degree of already-reviewed and understood content. There is currently no active IND for our product candidate in the United States.
+ 
+The following table summarizes the BioLexa expected product development pipeline.
+ 
+
+Although our initial focus will be on the treatment of eczema, we intend to develop a second topical cream which, upon application, is intended to reduce post-procedure infections, accelerate healing and improve clinical outcomes for patients undergoing aesthetic dermatology procedures. In addition, we intend to conduct a pilot study on the efficacy of BioLexa to accelerate diabetic wound healing.
+ 
+Eczema and Atopic Dermatitis
+ 
+Eczema is also referred to as atopic dermatitis. According to the National Eczema Association, eczema affects over 32 million Americans alone. Eczema affects 10-20% of children with 60% of cases occurring within a child’s first year and 85% before the age of five.
+ 
+-6-
+
+ 
+
+There is no cure for eczema, but, in most cases, it is manageable. The word eczema comes from a Greek word that means to effervesce or bubble or boil over.
+ 
+
+http://www.easeeczema.org/erc/symptoms_of_eczema.htm
+ 
+Symptoms
+ 
+The main symptom of eczema is an inflamed, itchy red rash. It can appear all over the body. Many people have it on their elbows or behind their knees. Babies often have eczema on the face, especially the cheeks and chin. They can also have it on the scalp, trunk (chest and back), and outer arms and legs. Children and adults tend to have eczema on the neck, wrists, and ankles, and in areas that bend, like the inner elbow and knee. People with eczema are usually diagnosed with it when they are babies or young children. Eczema symptoms often become less severe as children grow into adults. For some people, eczema continues into adulthood. Less often, it can start in adulthood. The rash of eczema is different for each person. It may even look different or affect different parts of the body from time to time. It can be mild, moderate or severe. Generally, people with eczema suffer from dry, sensitive skin. Eczema is also known for its intense itch. The itch may be so bad that patients scratch their skin until it bleeds, which can make the rash even worse, leading to increased inflammation and itching. This is called the itch-scratch cycle.
+ 
+Signs and Symptoms of Eczema
+ 
+
+● | Dry, sensitive skin 
+--+---------------------------------
+● | Intense itching 
+● | Red, inflamed skin 
+● | Recurring rash 
+● | Scaly areas 
+● | Rough, leathery patches 
+● | Oozing or crusting 
+● | Areas of swelling 
+● | Dark colored patches of skin 
+
+ 
+-7-
+
+ 
+
+Current Treatments
+ 
+According to the National Eczema Association, people utilize many treatments for eczema to relieve the itch, including over-the-counter remedies and prescription medications. In addition, some people utilize alternative eczema treatments, such as herbal remedies. However, a study referenced by the National Eczema Association found that the majority of people with eczema are likely not satisfied with the effectiveness of their medications. The most common complaints in the study included that the subjects’ medications:
+
+● | Do not work; 
+--+---------------------------
+● | Are messy to use; 
+● | Are too expensive; and 
+● | Cause side effects. 
+
+ 
+There can be no assurances that, if approved, the Biolexa Platform will not be subject to the similar complaints set forth above about its use. Until clinical data is available, there can be no assurances that the BioLexa Platform will not have side effects.
+ 
+In addition to over-the-counter moisturizers, topical steroids are an important part of the treatment plan for most people with eczema. When eczema flares up, applying cream, lotion or ointment containing a steroid will reduce inflammation, ease soreness and irritation, reduce itching and relieve the need to scratch, allowing the skin to heal and recover.
+ 
+Steroids are naturally-occurring substances that are produced in our bodies to regulate growth and immune function. There are many kinds of steroids, including “anabolic steroids” such as testosterone, “female hormones” such as estrogen (both produced in the gonads) and corticosteroids such as cortisol, which is produced by the adrenal glands. Corticosteroids are the type of steroid used for the treatment of eczema. Corticosteroids have many functions in the body, including effective control of inflammation. Corticosteroids reduce inflammation by temporarily altering the function of several types of cells and chemicals in the skin.
+ 
+According to the National Eczema Association, there are many serious risks associated with the chronic use of topical steroids. Thinning of the skin (skin atrophy) is a well-recognized, possible side effect. This is especially true when potent topical corticosteroids are applied too frequently and for a prolonged period of time without a break. Early skin thinning can disappear if the topical corticosteroid use is discontinued, and, while uncommon, prolonged use can cause permanent stretch marks (striae), usually on the upper inner thighs, under the arms and in the elbow and knee creases.
+ 
+Many patients with undertreated eczema have the opposite of skin thinning, and develop thickening, and sometimes darkening of the skin (changes known as lichenification). This is the skin’s response to rubbing and scratching.
+ 
+Frequent and prolonged application of a topical corticosteroid to the eyelids can cause glaucoma and even cataracts. Topical corticosteroids can occasionally cause tiny pink bumps and acne, especially when used on the face and around the mouth. On the body, greasy corticosteroid ointments sometimes cause redness around hair follicles, sometimes with a pus bump centered in the follicle (folliculitis). When corticosteroids are applied to large body surface areas, enough may be absorbed to inhibit the body’s own production of cortisol, a condition known as “adrenal suppression.” The risk of adrenal suppression is highest with high potency (Class 1-2) corticosteroids. Infants and young children have a higher ratio of body surface area compared to their weight, so they are more susceptible to topical corticosteroid absorption. Moreover, if a child is given oral corticosteroids in large doses or over a long term, prolonged adrenal suppression can be associated with growth suppression and weakened immune responses.
+ 
+Alternatives Today
+ 
+The risks and side effects of prolonged steroid use are driving patients, physicians and the pharmaceutical industry to find safe and effective alternatives. Based upon data from the National Eczema Association our competitors include, but are not limited to, the following:
+
+Competitor Drug | Types of Therapies in the Market 
+--------------------------+-------------------------------------
+Eucrisa | Topical - non steroid 
+Vanos Cream | Topical - Corticosteroid 
+Aristocort A Cream | Topical - Corticosteroid 
+Topicort Cream | Topical - Corticosteroid 
+Temorate E* Emollient | Emollient 
+Theraplex | Emollient 
+Mustela | Emollient 
+Dupixant | Shot 
+
+ 
+-8-
+
+ 
+
+What is common to all of the above candidates is that they are focused on treating or suppressing symptoms rather than causally preventing or delaying flare-ups.
+ 
+The graphic below shows the numerous causes of flare-ups in eczema.
+ 
+
+https://infodiseases.com/the-causes-symptoms-and-treatments-of-eczema.html
+ 
+Our product development pipeline is focused on preventing flare-ups caused by staph biofilms. The fundamental difference between the product candidate we intend to develop and those in the table above is that ours are intended to prevent eczema flare-ups rather than merely treat symptoms of a flare-up already underway.
+ 
+Preventing Eczema Flare-Ups By Stopping Biofilms
+ 
+It is well known that the skin of eczema patients is colonized with Staphylococcus aureus (S. Aureus) and this organism has been shown to exist in both dry skin as well as areas of severe dermatitis. It is well known that S. Aureus bacteria are programmed by nature to form micro-colonies as a means of self-preservation. Once formed, these colonies secrete a polysaccharide matrix “shield” enabling the bacteria to grow unfettered by the host immune system or external antibiotic therapy. These shielded bacteria are referred to as “biofilm.” In eczema, biofilms are known to clog sweat ducts, triggering flare-ups. Eczema severity has been directly correlated to the degree of S. Aureus colonization and therapy generally fails to improve symptoms in the presence of high S. Aureus counts.
+ 
+Biofilms are implicated in 80% of all human infections. Once formed, bacterial biofilms resist the host immune system and antibiotics. Biofilms may require 1,000 times the antibiotic dose required to kill single bacteria, rendering biofilms virtually nontreatable once formed. Despite these realities, existing technology focuses on treatment rather than prevention.
+ 
+-9-
+
+ 
+
+Competition
+ 
+The current competition in the eczema therapeutics market consists of conventional forms of therapy such as topical corticosteroids, topical immunomodulators and emollients as the most prominent therapies. Among all the available treatment options, topical corticosteroids hold a majority share and dominate the market. Topical corticosteroids, such as Vanos Cream, Aristorcort A Cream and Topicort Cream are available in various strengths (mild, moderate, potent and very potent) and formulations (ointment, cream, lotion and others), so that they can be used according to the severity of eczema. Calceurin inhibitors (Protopic (tacrolimus) and Elidel (pimecrolimus)) showed higher efficacy in comparison to corticosteroids and these products were widely used after their respective launches. However, in 2005, the FDA issued black box warnings for the calceurin inhibitors (Protopic and Elidel), and this resulted in declining sales of these products. Emollients, such as Theraplex, Mustela and Temorate E* Emollient, have good efficacy as well as good safety. They hydrate, moisturize and repair the skin. These products do not offer first line treatment, but they are useful as maintenance therapy in eczema patients.
+Market Opportunity
+ 
+We believe we have a two-fold competitive advantage over our competition. First, currently available eczema treatment options focus on treating or suppressing symptoms rather than causally preventing or delaying flare-ups. Recent peer-reviewed publications highlight that staph-induced biofilms are the root cause of flare-ups in eczema. Our BioLexa product candidate has been demonstrated to prevent the formation of these biofilms with the promise of delaying or completely arresting flare-ups, rather than merely treating symptoms of a flare-up already underway. Second, long-term use of corticosteroids, can have harmful side effects. Because the BioLexa Platform does not use steroids, our treatment avoids these harmful side effects and gives us another advantage over our competition.
+Commercialization
+ 
+Our business success with BioLexa depends not only on the successful development and approval of the product but also on its commercialization. At present, our plan anticipates us making the investments necessary to build an in-house marketing and sales capability for the U.S. market for BioLexa. As BioLexa makes its way through clinical development in the U.S., we intend to approach pharmaceutical and biotechnology companies outside the U.S. to negotiate and enter into strategic partnerships that will enable development and commercialization of BioLexa outside the U.S., where we believe the market opportunity is larger than that of the U.S. albeit far more complex to reach. We have no operations outside the U.S., nor are we planning to have any non-U.S. operations.
+Manufacturing and Supply
+ 
+We do not have any manufacturing capability and therefore have engaged Particle Sciences, Inc. (“Particle Sciences”), a company with over 20 years of experience formulating and producing topical therapeutics under current good manufacturing practice requirements (“cGMP”) regulations, to formulate and manufacture the BioLexa product candidate in accordance with cGMP requirements. Although we have not entered into a master service agreement with Particle Sciences, Particle Sciences is charged with, among other things, the following pursuant to the terms of a quote provided to us by Particle Sciences:
+
+● | Optimizing the formulation of the BioLexa product candidate for ease of production and analysis; 
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | Producing and packaging the required doses of the BioLexa product candidate for all clinical testing under cGMP conditions; and 
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Evaluating the shelf life of the BioLexa product candidate employing industry standard stability testing techniques and protocol. 
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In addition to the foregoing, Particle Sciences is required to identify and source the two raw materials, Ca-DTPA and Gentamicin, used to produce the BioLexa product candidate. Both DTPA and Gentamicin are available from multiple suppliers in the U.S., Europe and Asia, and the Company anticipates that such raw materials will be readily available to the Company. Particle Sciences is required to vet and engage potential suppliers of the raw materials. Although the Company is engaged in negotiations with suppliers of the raw materials, the Company has not yet entered into any agreements for the supply of such raw materials. The additional components in the BioLexa formulation are all listed in the United States Pharmacopeia and are readily available from multiple U.S. sources who routinely supply similar materials to the pharmaceutical and cosmetic industries.
+ 
+-10-
+
+ 
+
+Intellectual Property Portfolio
+ 
+We believe that market exclusivity derived from our licensed intellectual property, the Hatch-Waxman provisions applicable to products approved under 505(b)(2) and possible data protection rights will present barriers to entry and are keys to our success.
+ 
+Our goal is to obtain, maintain and enforce patent protection for our products, formulations, processes, methods and other proprietary technologies, preserve our trade secrets, and operate without infringing on the proprietary rights of other parties, both in the U.S. and in other countries. Our policy is to actively seek the broadest intellectual property protection possible for our products, proprietary information and proprietary technology through a combination of contractual arrangements and patents, both in the U.S. and elsewhere in the world. In addition, we intend to actively pursue product life-cycle management initiatives to extend our market exclusivity.
+ 
+We intend to cement our market exclusivity in conjunction with our formulation-development partners through additional patents based on the pharmaceutical and clinical characteristics of our drug in the proprietary formulation and through the introduction of line extensions such as combination drugs and new formulations.
+ 
+In addition to any granted patents, our products will be eligible for market exclusivity to run concurrently with the term of the patent for three and a half years in the U.S. per the Hatch-Waxman Act and pediatric exclusivity guideline and up to ten years of market exclusivity in the E.U. which includes eight years of data exclusivity and two years of market exclusivity from the date of the NDA or the European equivalent referred to as Marketing Authorization Application, or MAA.
+ 
+BioLexa, our biofilm-prevention technology, is covered by U.S. Patent No. 9,821,063, which was issued on November 21, 2017 and expires in 2033, and has issued patents in the E.U. and Spain expiring in 2028. Patent applications covering multiple formulations and methods of use for the BioLexa Platform are presently pending in the U.S., Europe and Canada which, if issued, will expire in 2033.
+ 
+Government Regulation
+ 
+Governmental authorities in the U.S. and other countries extensively regulate the research, development, testing, manufacture, labeling, promotion, advertising, distribution and marketing of pharmaceutical products such as those being developed by us. In the U.S., the FDA regulates such products under the FDCA and implements related regulations. Failure to comply with applicable FDA requirements, both before and after approval, may subject us to administrative and judicial sanctions, such as a delay in approving or refusal by the FDA to approve pending applications, warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions and/or criminal prosecution.
+U.S. Food and Drug Administration Regulation
+ 
+United States Drug Development
+ 
+In the United States, the FDA regulates drugs, medical devices and combinations of drugs and devices, or combination products, under the FDCA and its implementing regulations. Drugs are also subject to other federal, state and local statutes and regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval, may subject an applicant to administrative or judicial sanctions. These sanctions could include, among other actions, the FDA’s refusal to approve pending applications, withdrawal of an approval, a clinical hold, untitled or warning letters, requests for voluntary product recalls or withdrawals from the market, product seizures, total or partial suspension of production or distribution injunctions, fines, refusals of government contracts, restitution, disgorgement, or civil or criminal penalties. Any agency or judicial enforcement action could have a material adverse effect on us.
+ 
+-11-
+
+ 
+
+The process required by the FDA before a drug may be marketed in the United States generally involves the following:
+ 
+
+● | completion of extensive pre-clinical laboratory tests, animal studies and formulation studies in accordance with applicable regulations, including the FDA’s Good Laboratory Practice regulations; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | submission to the FDA of an IND, which must become effective before human clinical trials may begin; 
+--+---------------------------------------------------------------------------------------------------------
+
+
+● | performance of adequate and well-controlled human clinical trials in accordance with an applicable IND and other clinical study related regulations, sometimes referred to as good clinical practices, or GCPs, to establish the safety and efficacy of the proposed drug for its proposed indication; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | submission to the FDA of an NDA; 
+● | satisfactory completion of an FDA pre-approval inspection of the manufacturing facility or facilities at which the product, or components thereof, are produced to assess compliance with the FDA’s cGMP requirements; 
+● | potential FDA audit of the clinical trial sites that generated the data in support of the NDA; and 
+● | FDA review and approval of the NDA prior to any commercial marketing or sale. 
+
+ 
+Once a pharmaceutical product candidate is identified for development, it enters the pre-clinical testing stage. Pre-clinical tests include laboratory evaluations of product chemistry, toxicity, formulation and stability, as well as animal studies. An IND sponsor must submit the results of the pre-clinical tests, together with manufacturing information, analytical data and any available clinical data or literature, to the FDA as part of the IND. The sponsor must also include a protocol detailing, among other things, the objectives of the initial clinical trial, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated if the initial clinical trial lends itself to an efficacy evaluation. Some pre-clinical testing may continue even after the IND is submitted. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA raises concerns or questions related to a proposed clinical trial and places the trial on a clinical hold within that 30-day period. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. Clinical holds also may be imposed by the FDA at any time before or during clinical trials due to safety concerns or non-compliance, and may be imposed on all drug products within a certain class of drugs. The FDA also can impose partial clinical holds, for example, prohibiting the initiation of clinical trials of a certain duration or for a certain dose.
+ 
+All clinical trials must be conducted under the supervision of one or more qualified investigators in accordance with GCP regulations. These regulations include the requirement that all research subjects provide informed consent in writing before their participation in any clinical trial. Further, an Institutional Review Board (“IRB”) must review and approve the plan for any clinical trial before it commences at any institution, and the IRB must conduct continuing review and reapprove the study at least annually. An IRB considers, among other things, whether the risks to individuals participating in the clinical trial are minimized and are reasonable in relation to anticipated benefits. The IRB also approves the information regarding the clinical trial and the consent form that must be provided to each clinical trial subject or his or her legal representative and must monitor the clinical trial until completed.
+ 
+Each new clinical protocol and any amendments to the protocol must be submitted for FDA review, and to the IRBs for approval. Protocols detail, among other things, the objectives of the clinical trial, dosing procedures, subject selection and exclusion criteria, and the parameters to be used to monitor subject safety.
+ 
+Human clinical trials are typically conducted in three sequential phases that may overlap or be combined:
+ 
+
+● | Phase 1. The product is initially introduced into a small number of healthy human subjects or patients and tested for safety, dosage tolerance, absorption, metabolism, distribution and excretion and, if possible, to gain early evidence on effectiveness. In the case of some products for severe or life-threatening diseases, especially when the product is suspected or known to be unavoidably toxic, the initial human testing may be conducted in patients. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+-12-
+
+ 
+
+
+● | Phase 2. Involves clinical trials in a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage and schedule. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Phase 3. Clinical trials are undertaken to further evaluate dosage, clinical efficacy and safety in an expanded patient population at geographically dispersed clinical trial sites. These clinical trials are intended to establish the overall risk/benefit relationship of the product and provide an adequate basis for product labeling. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Post-approval trials, sometimes referred to as Phase 4 clinical trials, may be conducted after initial marketing approval. These studies are used to gain additional experience from the treatment of patients in the intended therapeutic indication. In certain instances, the FDA may mandate the performance of Phase 4 trials. Companies that conduct certain clinical trials also are required to register them and post the results of completed clinical trials on a government-sponsored database, such as ClinicalTrials.gov in the United States, within certain timeframes. Failure to do so can result in fines, adverse publicity and civil and criminal sanctions.
+ 
+Progress reports detailing the results of the clinical trials, among other information, must be submitted at least annually to the FDA, and written IND safety reports must be submitted to the FDA and the investigators for serious and unexpected adverse events, findings from other studies that suggest a significant risk to humans exposed to the product, findings from animal or in vitro testing that suggest a significant risk to human subjects, and any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, if at all. The FDA or the clinical trial sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the product has been associated with unexpected serious harm to patients. Additionally, some clinical trials are overseen by an independent group of qualified experts organized by the clinical trial sponsor, known as a data safety monitoring board or committee. This group provides authorization for whether a trial may move forward at designated check points based on access to certain data from the study. The clinical trial sponsor may also suspend or terminate a clinical trial based on evolving business objectives and/or competitive climate.
+ 
+Concurrent with clinical trials, companies usually complete additional animal studies and must also develop additional information about the chemistry and physical characteristics of the product and finalize a process for manufacturing the product in commercial quantities in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the product candidate and, among other things, the manufacturer must develop methods for testing the identity, strength, quality and purity of the final product. Additionally, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the product candidate does not undergo unacceptable deterioration over its shelf life.
+ 
+NDA and FDA Review Process
+ 
+The results of product development, pre-clinical studies and clinical trials, along with descriptions of the manufacturing process, analytical tests conducted on the drug, proposed labeling and other relevant information, are submitted to the FDA as part of an NDA for a new drug, requesting approval to market the product. The submission of an NDA is subject to the payment of a substantial user fee, and the sponsor of an approved NDA is also subject to an annual program user fee; although a waiver of such fee may be obtained under certain limited circumstances. For example, the agency will waive the application fee for the first human drug application that a small business or its affiliate submits for review.
+ 
+-13-
+
+ 
+
+The FDA reviews all NDAs submitted before it accepts them for filing and may request additional information rather than accepting an NDA for filing. The FDA typically makes a decision on accepting an NDA for filing within 60 days of receipt. The decision to accept the NDA for filing means that the FDA has made a threshold determination that the application is sufficiently complete to permit a substantive review. Under the goals and policies agreed to by the FDA under the Prescription Drug User Fee Act (“PDUFA”), the FDA’s goal to complete its substantive review of a standard NDA and respond to the applicant is ten months from the receipt of the NDA. The FDA does not always meet its PDUFA goal dates, and the review process is often significantly extended by FDA requests for additional information or clarification and may go through multiple review cycles.
+ 
+After the NDA submission is accepted for filing, the FDA reviews the NDA to determine, among other things, whether the proposed product is safe and effective for its intended use, and whether the product is being manufactured in accordance with cGMPs to assure and preserve the product’s identity, strength, quality and purity. The FDA may refer applications for novel drug products or drug products which present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. The FDA will likely re-analyze the clinical trial data, which could result in extensive discussions between the FDA and us during the review process. The review and evaluation of an NDA by the FDA is extensive and time consuming and may take longer than originally planned to complete, and we may not receive a timely approval, if at all.
+ 
+Before approving an NDA, the FDA will conduct a pre-approval inspection of the manufacturing facilities for the new product to determine whether they comply with cGMPs. The FDA will not approve the product unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. In addition, before approving an NDA, the FDA may also audit data from clinical trials to ensure compliance with GCP requirements. After the FDA evaluates the application, manufacturing process and manufacturing facilities, it may issue an approval letter or a Complete Response Letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. A Complete Response Letter indicates that the review cycle of the application is complete and the application will not be approved in its present form. A Complete Response Letter usually describes all the specific deficiencies in the NDA identified by the FDA. The Complete Response Letter may require additional clinical data and/or an additional pivotal Phase 3 clinical trial(s), and/or other significant and time-consuming requirements related to clinical trials, nonclinical studies or manufacturing. If a Complete Response Letter is issued, the applicant may either resubmit the NDA, addressing all the deficiencies identified in the letter, or withdraw the application. Even if such data and information are submitted, the FDA may ultimately decide that the NDA does not satisfy the criteria for approval. Data obtained from clinical trials are not always conclusive, and the FDA may interpret data differently than we interpret the same data.
+ 
+There is no assurance that the FDA will ultimately approve a product for marketing in the United States, and we may encounter significant difficulties or costs during the review process. If a product receives marketing approval, the approval may be significantly limited to specific diseases and dosages or the indications for use may otherwise be limited, which could restrict the commercial value of the product. Further, the FDA may require that certain contraindications, warnings or precautions be included in the product labeling or may condition the approval of the NDA on other changes to the proposed labeling, development of adequate controls and specifications, or a commitment to conduct post-market testing or clinical trials and surveillance to monitor the effects of approved products. For example, the FDA may require Phase 4 clinical trials to further assess drug safety and effectiveness and may require testing and surveillance programs to monitor the safety of approved products that have been commercialized. The FDA may also place other conditions on approvals, including the requirement for a risk evaluation and mitigation strategy (“REMS”), to assure the safe use of the drug. If the FDA concludes a REMS is needed, the sponsor of the NDA must submit a proposed REMS; the FDA will not approve the NDA without an approved REMS, if required. A REMS could include medication guides, physician communication plans, or elements to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. Any of these limitations on approval or marketing could restrict the commercial promotion, distribution, prescription or dispensing of products. Product approvals may be withdrawn for non-compliance with regulatory requirements or if problems occur following initial marketing.
+ 
+-14-
+
+ 
+
+Section 505(b)(2) Regulatory Approval Pathway
+ 
+Section 505(b)(2) of the FDCA provides an alternate regulatory pathway for approval of a new drug by allowing the FDA to rely on data not developed by the applicant. Specifically, Section 505(b)(2) permits the submission of an NDA where one or more of the investigations relied upon by the applicant for approval was not conducted by or for the applicant and for which the applicant has not obtained a right of reference. The applicant may rely upon published literature and/or the FDA’s findings of safety and effectiveness for an approved drug already on the market. Approval or submission of a 505(b)(2) application, like those for abbreviated new drugs (“ANDAs”), may be delayed because of patent and/or exclusivity rights that apply to the previously approved drug.
+ 
+A 505(b)(2) application may be submitted for a new chemical entity, or NCE, when some part of the data necessary for approval is derived from studies not conducted by or for the applicant and when the applicant has not obtained a right of reference. Such data are typically derived from published studies, rather than FDA’s previous findings of safety and effectiveness of a previously approved drug. For changes to a previously approved drug however, an applicant may rely on the FDA’s finding of safety and effectiveness of the approved drug, coupled with information needed to support the change from the approved drug, such as new studies conducted by the applicant or published data. When based on an approved drug, the 505(b)(2) drug may be approved for all of the indications permitted for the approved drug, as well as any other indication supported by additional data.
+ 
+Section 505(b)(2) applications also may be entitled to marketing exclusivity if supported by appropriate data and information. As discussed in more detail below, three-year new data exclusivity may be granted to the 505(b)(2) application if one or more clinical investigations conducted in support of the application, other than bioavailability/bioequivalence studies, were essential to the approval and conducted or sponsored by the applicant. Five years of marketing exclusivity may be granted if the application is for an NCE, and pediatric exclusivity is likewise available.
+ 
+Orange Book Listing and Paragraph IV Certification
+ 
+For NDA submissions, including those under Section 505(b)(2), applicants are required to list with the FDA certain patents with claims that cover the applicant’s product. Upon approval, each of the patents listed in the application is published in Approved Drug Products with Therapeutic Equivalence Evaluations, commonly referred to as the Orange Book. Any applicant who subsequently files an ANDA or 505(b)(2) NDA that references a drug listed in the Orange Book must certify to the FDA that (1) no patent information on the drug product that is the subject of the application has been submitted to the FDA; (2) such patent has expired; (3) the date on which such patent expires; or (4) such patent is invalid or will not be infringed upon by the manufacture, use or sale of the drug product for which the application is submitted. This last certification is known as a Paragraph IV Certification.
+ 
+If an applicant has provided a Paragraph IV Certification to the FDA, the applicant must also send notice of the Paragraph IV Certification to the holder of the NDA for the approved drug and the patent owner once the application has been accepted for filing by the FDA. The NDA holder or patent owner may then initiate a patent infringement lawsuit in response to notice of the Paragraph IV Certification. The filing of a patent infringement lawsuit within 45 days of the receipt of a Paragraph IV Certification prevents the FDA from approving the ANDA or 505(b)(2) application until the earlier of 30 months from the date of the lawsuit, the applicant’s successful defense of the suit, or expiration of the patent.
+ 
+Reimbursement
+ 
+Potential sales of any of our product candidates, if approved, will depend, at least in part, on the extent to which such products will be covered by third-party payors, such as government health care programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly limiting coverage and/or reducing reimbursements for medical products and services. A third-party payor’s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Further, one payor’s determination to provide coverage for a drug product does not assure that other payors will also provide coverage for the drug product. In addition, the U.S. government, state legislatures and foreign governments have continued implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our future revenues and results of operations. Decreases in third-party reimbursement or a decision by a third-party payor to not cover a product candidate, if approved, or any future approved products could reduce physician usage of our products, and have a material adverse effect on our sales, results of operations and financial condition.
+ 
+-15-
+
+ 
+
+In the United States, the Medicare Part D program provides a voluntary outpatient drug benefit to Medicare beneficiaries for certain products. We do not know whether our product candidates, if approved, will be eligible for coverage under Medicare Part D, but individual Medicare Part D plans offer coverage subject to various factors such as those described above. Furthermore, private payors often follow Medicare coverage policies and payment limitations in setting their own coverage policies.
+ 
+Pediatric Exclusivity and Pediatric Use
+ 
+The Pediatric Research Equity Act, or PREA, requires a sponsor to conduct pediatric studies for most drugs and biologics, for a new active ingredient, new indication, new dosage form, new dosing regimen or new route of administration. Under PREA, original NDAs, biologics license applications and supplements thereto, must contain a pediatric assessment unless the sponsor has received a deferral or waiver. Unless otherwise required by regulation, PREA does not apply to any drug for an indication for which an orphan drug designation has been granted. The required assessment must assess the safety and effectiveness of the product for the claimed indications in all relevant pediatric subpopulations and support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The sponsor or FDA may request a deferral of pediatric studies for some or all of the pediatric subpopulations. A deferral may be granted for several reasons, including a finding that the drug or biologic is ready for approval for use in adults before pediatric studies are complete or that additional safety or effectiveness data needs to be collected before the pediatric studies begin.
+ 
+Pediatric exclusivity is another type of non-patent marketing exclusivity in the United States and, if granted, provides for the attachment of an additional six months of marketing protection to the term of any existing regulatory exclusivity, including the non-patent and orphan exclusivity. This six-month exclusivity may be granted if an NDA sponsor submits pediatric data that fairly respond to a written request from the FDA for such data. The data does not need to show the product to be effective in the pediatric population studied; rather, if the clinical trial is deemed to fairly respond to the FDA’s request, the additional protection is granted. If reports of requested pediatric studies are submitted to and accepted by the FDA within the statutory time limits, whatever statutory or regulatory periods of exclusivity or patent protection cover the product are extended by six months.
+ 
+Healthcare Laws and Regulations
+ 
+Sales of our product candidates, if approved, or any other future product candidate will be subject to healthcare regulation and enforcement by the federal government and the states and foreign governments in which we might conduct our business. The healthcare laws and regulations that may affect our ability to operate include the following:
+
+● | The federal Anti-Kickback Statute makes it illegal for any person or entity to knowingly and willfully, directly or indirectly, solicit, receive, offer, or pay any remuneration that is in exchange for or to induce the referral of business, including the purchase, order, lease of any good, facility, item or service for which payment may be made under a federal healthcare program, such as Medicare or Medicaid. The term “remuneration” has been broadly interpreted to include anything of value. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Federal false claims and false statement laws, including the federal civil False Claims Act, prohibits, among other things, any person or entity from knowingly presenting, or causing to be presented, for payment to, or approval by, federal programs, including Medicare and Medicaid, claims for items or services, including drugs, that are false or fraudulent. 
+● | Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) created additional federal criminal statutes that prohibit among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors or making any false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. 
+
+ 
+-16-
+
+ 
+
+
+● | HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009 and their implementing regulations, impose obligations on certain types of individuals and entities regarding the electronic exchange of information in common healthcare transactions, as well as standards relating to the privacy and security of individually identifiable health information. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | The federal Physician Payments Sunshine Act requires certain manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, with specific exceptions, to report annually to the Centers for Medicare & Medicaid Services information related to payments or other transfers of value made to physicians and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. 
+
+ 
+Also, many states have similar laws and regulations, such as anti-kickback and false claims laws that may be broader in scope and may apply regardless of payor, in addition to items and services reimbursed under Medicaid and other state programs. Additionally, we may be subject to state laws that require pharmaceutical companies to comply with the federal government’s and/or pharmaceutical industry’s voluntary compliance guidelines, state laws that require drug manufacturers to report information related to payments and other transfers of value to physicians and other healthcare providers or marketing expenditures, as well as state and foreign laws governing the privacy and security of health information, many of which differ from each other in significant ways and often are not preempted by HIPAA.
+ 
+Additionally, to the extent that our product is sold in a foreign country, we may be subject to similar foreign laws.
+ 
+Employees
+ 
+As of March 28, 2019, we employed a total of 2 full-time employees, 1 employee consultant, and no part-time employees. We are not a party to any collective bargaining agreements. We believe that we maintain good relations with our employees.
+Recent Events
+ 
+In December 2018, our board of directors and stockholders approved the Reverse Stock Split (as defined herein). On February 13, 2019, we effectuated a 1-for-4 reverse split of our common stock pursuant to which (i) every 4 shares of outstanding common stock was decreased to one share of common stock, (ii) the number of shares of common stock for which each outstanding warrant to purchase common stock is exercisable was proportionally decreased on a 1-for-4 basis, (iii) the exercise price of each outstanding warrant to purchase common stock was proportionately increased on a 1-for-4 basis, and (iv) the conversion ratio for each share of outstanding preferred stock into common stock was proportionately reduced on a 1-for-4 basis (the “Reverse Stock Split”). No fractional shares were issued as a result of the Reverse Stock Split. Any fractional shares resulting from the Reverse Stock Split were paid in cash.
+
+
+On February 20, 2019, we completed the initial public offering of our common stock pursuant to which we issued and sold 1,250,000 shares of our common stock at a price to the public of $5.60 per share. We received net proceeds of approximately $5.7 million, after deducting underwriting discounts and commissions and offering expenses borne by us. Laidlaw & Co. (UK) Ltd. acted as sole book-running manager for the offering, and The Benchmark Company, LLC acted as “qualified independent underwriter” within the meaning of Rule 5121 of the Financial Industry Regulatory Authority Inc. 
+ 
+Our Corporate Information 
+ 
+We were incorporated as a Nevada corporation on May 16, 2017. Our principal executive offices are located at 1 Rockefeller Plaza, Suite 1039, New York, New York 10020 and our telephone number is (646) 756-2997.
+Available Information
+ 
+Our website address is www.hoththerapeutics.com. The contents of, or information accessible through, our website are not part of this Annual Report on Form 10-K, and our website address is included in this document as an inactive textual reference only. We make our filings with the U.S. Securities and Exchange Commission (“SEC”), including our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to those reports, available free of charge on our website as soon as reasonably practicable after we file such reports with, or furnish such reports to, the SEC. The public may read and copy the materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Additionally, the SEC maintains an internet site that contains reports, proxy and information statements and other information. The address of the SEC’s website is www.sec.gov. The information contained in the SEC’s website is not intended to be a part of this filing.
+ 
+-17-
+
+ 
+

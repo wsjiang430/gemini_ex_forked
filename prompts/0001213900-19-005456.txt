@@ -1,0 +1,362 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+HealthLynked Corp. is a growth stage company incorporated in the state of Nevada on August 6, 2014. We operate a cloud-based Patient Information Network (PIN) and record archiving system, referred to as the “HealthLynked Network”, which enables patients and doctors to keep track of medical information via the Internet in a cloud based system. Through our website, www.HealthLynked.com and our mobile apps, patients can complete a detailed online personal medical history including past surgical history, medications, allergies, and family medical history. Once this information is entered, patients and their treating physicians are able to update the information as needed, to provide a comprehensive and up to date medical history.
+ 
+We believe that the HealthLynked Network offers several advantages to patients and physicians not available in the market today. We provide a comprehensive marketing solution allowing physicians to market to both active and inactive patients, and an easy to use connection at the point of care through our patient access HUB. Patient members can access medical newsfeeds and groups. Our real-time appointment scheduling application allows for patients to book appointments online with participating healthcare providers. Our database and record archives allow for seamless sharing of medical records between healthcare providers and keeps patients in control of shared access. In the HealthLynked Network, parents can create accounts for their children that are linked to their family account, allowing them to provide access to healthcare providers, track vaccination records, allow hospitals and schools access to important medical information in case of emergencies. The HealthLynked Network will be accessible 24 hours a day, 7 days a week, via the internet and on mobile applications for both Android and IOS devices. We believe this type of accessibility is important for schools and during office visits, but more important, in times of a medical emergency.
+ 
+We anticipate that our system will also provide for 24-hour access to medical specialist healthcare providers who can answer medical questions and direct appropriate care to paying members. In addition to 24-hour access, patients may also schedule telemedicine consultations at set times with participating healthcare providers who have expertise in various specialized areas of medicine. Participating physicians can elect to allow patients to request online appointments either via our real-time app or by setting, in their administrator dashboard panel, times and days of the week that patients may request appointments. Appointment requests are then sent by our system to an email address specified by the physician’s office, who are then requested to follow up to confirm these appointment requests or automatically accept the appointment request.
+ 
+HealthLynked has created 880,000 physician base profiles for most physicians in the United States. Physicians’ HealthLynked profiles are searchable on the Internet. Physicians claim their profiles confirming the accuracy of the information free of charge.
+ 
+There are three type of providers in the HealthLynked Network: in-network, out of network and participating providers. All physicians can claim their profile and update basic information online and add videos and images of their profile. Once a provider has claimed their profile they are considered in-network. Providers that opt pay a monthly fee for access to the full range of HealthLynked Network services, which include online scheduling, marketing services and analytics about their practice performance.
+ 
+HealthLynked provider profiles enable participating providers to market directly to patients through our patient access HUB and online marketing services to recruit new patients and reengage with former patients. Physician practices generate more income the more patients they treat, so maximizing efficiency and patient turnover is critical to increasing total revenues and profitability. As such, we believe that our system will enable physicians to reduce the amount of time required to process patient intake forms, as patients will no longer be required to spend ten to thirty minutes filling out forms at each visit, and the practices’ staffs will not need to input this information multiple times into their electronic medical records systems. Patients complete their online profiles once, and thereafter, they and their physicians are able to update their profiles as needed. Physicians’ participating in the HealthLynked Network are required to update the patient records within 24 hours of seeing the patient. The information is organized in an easy to read format in order that a physician be able to review the necessary information quickly during, and prior to, patient visits, which in turn facilitates a more comprehensive and effective patient encounter.
+ 
+Patient data is stored in conformity with the Health Insurance Portability and Accountability Act of 1996, the Health Information Technology for Economic and Clinical Health Act, and the regulations promulgated under each by the U.S. Department of Health and Human Services, Office of Civil Rights  (collectively, “HIPAA”). The network utilizes Amazon AWS infrastructure which uses Amazon “HIPPA” complaint servers along with Amazon RDS with LAMP, HTML5 and several JavaScript frameworks, including Angular and React. Recommendations for end users are 512 kbps+ internet connection speed and a web browser such as Google Chrome, Internet Explorer, Mozilla Firefox, Safari or handheld devices such as iOS devices, android phones or tablets. Our developers utilize third party controls for functionality and user interface where the use of those controls adds value to the system beyond custom creation of new tools. We intend to adjust forward compatibility for major browser version updates, new browsers, operating system updates or new operating system as needed. The HealthLynked Network is EMR agnostic, and is compatible with all electronic medical records systems, allowing for minimal barriers to participation and broader penetration of the market.
+ 
+1
+
+ 
+
+Acquisition of NWC
+ 
+In August 2014, we acquired the NWC, an OB/GYN practice in Naples, Florida that was established in 1996.
+ 
+This acquisition provided a foundation for ongoing development of the HealthLynked Network by allowing us to register NWC’s approximately 6,000 active patients and 6,500 inactive patients and to utilize the expertise of our employed physicians to help in the design and strategy for deployment of the HealthLynked Network. It is anticipated that future medical practices may be acquired from time to time as we see fit to further develop, test and deploy the HealthLynked Network into new strategic regional areas throughout the country.
+ 
+Through NWC, we also provide Obstetrical and Gynecological medical services to patients in the South West Florida region. NWC currently employs four OB/GYN physicians and two ARNP nurse practitioners. The services offered include obstetrical services for high and low risk patients, in office ultrasonography, and prenatal testing. Gynecological services include general physical exams, surgical procedures such as hysterectomy, bladder incontinence procedures, pelvic reconstruction, sterilization, endometrial ablation, advanced robotic surgery, contraceptive management and infertility testing and treatment.
+ 
+The HealthLynked Network- How It Works
+ 
+Our system walks patients through a series of easy to use pages with point and click selections and drop-down menus that allow them to enter their past medical history, past surgical history, allergies, medications, and family medical history. In addition, members can create accounts for children under the age of 18 and keep track of required visits and vaccines. Members select physicians, schools, hospitals and other parties to whom they wish to grant access to their records. This access can be either ongoing, or restricted by time and date, in accordance with the patient’s control settings.
+ 
+Physicians are required to have a claimed active account in order to access patients’ online records and receive referrals for new patients. Once a patient has granted their physician access to their medical charts, office intake paperwork can be downloaded by the physician without the need for the patient to fill out lengthy and repetitive paperwork. Upon completion of the office visit, providers are required to upload the medical record into the online patients’ file within 24 hours via eFax, APIs with select EMRs or through the HealthLynked Portal. Each patient’s account has a unique bar code that when faxed into our system is recognized for that patient, and archived in the patient’s chart, by date and provider. The HealthLynked Network is independent of any EMR system and physicians only require a fax machine or computer to participate, allowing for minimal barriers to participation and broader penetration of the market.
+ 
+In addition to serving as a complete medical record archive, we believe that the HealthLynked Network allows for shorter wait times at doctors’ offices by giving doctors immediate access to patients’ complete medical information, insurance information and required treatment consent forms. Patients only need to verify their treating physician’s access to their files upon or prior to their next doctor’s visit. Patients are also able to coordinate multiple physician visits and keep an updated and complete personal medical record archive. These files may also be shared among a patient’s different specialty physicians, a function that we believe is especially helpful for patients who travel and may need to access their records or obtain physician referrals in multiple localities. We also believe that the HealthLynked Network is especially useful in medical emergencies when patients are unable to provide a medical history on their own because our system allows patients the option to grant healthcare providers, in advance, special access in emergency situations.
+ 
+The HealthLynked Network also provides an online scheduling function for patients to book appointments with participating providers. Healthcare provider profiles feature physicians’ biographies, office locations, hours and available appointment times. In addition, the platform will provide patients with a list of recommended health screenings tailored to each patient’s unique medical history and demographics. Recommended screenings could include, but is not limited to, annual mammograms for women over the age of 40, colonoscopy every 10 years after the age of 50, recommended pap smear screenings, routine blood tests, and prostate exams. This base service will be free for patients. However, we plan to charge additional fees for real-time schedule booking, access to telemedicine service and access to a 24-hour nurse’s hotline and to charge physicians for upgraded physician profiles and SEO marketing.
+ 
+2
+
+ 
+
+Benefits for Multiple Constituencies
+ 
+We believe that the HealthLynked Network provides numerous benefits for patients and their relatives, medical providers, hospitals, emergency rooms and schools.
+ 
+Benefits for patients:
+ 
+
+● | Base service, which includes all of the below benefits other than telemedicine and the nurse hotline, will be free 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Easy online scheduling of appointments 
+● | Real-time booking for appointments available within 4 hours 
+● | Keep track of co-pays and deductibles on insurance plans 
+● | More accurate and detailed personal medical history 
+● | Complete medication lists with dosing and warnings of potential drug interactions 
+● | Ability to create accounts for children, and track recommended health screenings and vaccines 
+● | When traveling, patients will have the ability to access their medical records online 24 hours a day, 7 days a week even in the case of an emergency 
+● | Shortened wait times at physicians’ offices by reducing the need to fill out redundant paper work 
+● | Access to a referral network of physicians across the United States who participate in the HealthLynked Network 
+● | Patients can access family members’ records in the event of illness or accident 
+● | Access to telemedicine for medical consultations and appointments for fee paying members 
+● | 24 hour nurse hotline available for fee paying members 
+
+ 
+Benefits for physicians and providers:
+ 
+
+● | More accurate patient medical history including past medical records 
+--+-------------------------------------------------------------------------
+
+
+● | “EMR Agnostic” and compatible with all electronic medical records systems 
+--+------------------------------------------------------------------------------
+
+
+● | A detailed and accurate medications list from patients 
+--+-----------------------------------------------------------
+
+
+● | Shortened time for patients to complete necessary paperwork translating into improved efficiency, shorter wait times, greater patient satisfaction and higher revenues 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Referral source for new patients 
+--+-------------------------------------
+
+
+● | Online marketing profiles 
+--+------------------------------------------------------------
+● | Comprehensive Marketing to active and inactive patients 
+
+
+● | SEO and marketing options 
+--+------------------------------
+
+
+● | Co-pay and deductible information on patients’ insurance plans will be readily available 
+--+---------------------------------------------------------------------------------------------
+
+
+● | Additional revenue stream from signing up new patients 
+--+-----------------------------------------------------------
+
+
+● | Online and real-time patient scheduling to control gaps in scheduling due to last minute cancelations by existing patients 
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Low membership fees of $300 - $400 per month per provider during the first year 
+--+------------------------------------------------------------------------------------
+
+
+● | Patient Access Hub “PAH” (provisional patent pending) is provided to physician offices free of charge to provide free Wi-Fi for their patients. Patient analytics are provided to physician members.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3
+
+ 
+
+Benefits for hospitals and emergency rooms:
+ 
+
+● | Information on patients who present that are not conscious to provide a complete medical history 
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | Information on traveling patients who present to a hospital in an emergency situation 
+--+------------------------------------------------------------------------------------------
+
+
+● | Online access to patient information 24 hours a day, 7 days a week 
+--+-----------------------------------------------------------------------
+
+
+● | “EMR Agnostic” and compatible with all electronic medical records systems 
+--+------------------------------------------------------------------------------
+
+
+● | No new equipment required 
+--+------------------------------
+
+ 
+Benefits for schools:
+ 
+
+● | Access by authorized school officials to students’ medical histories 
+--+-------------------------------------------------------------------------
+
+
+● | Linked access to students’ primary care physicians 
+--+-------------------------------------------------------
+
+
+● | Access to vaccination records 
+--+----------------------------------
+
+
+● | Allergy and medication tracking 
+--+------------------------------------
+
+
+● | Emergency contact information of family members 
+--+----------------------------------------------------
+
+ 
+Benefits for parents:
+ 
+
+● | Complete children profiles 
+--+-------------------------------
+
+
+● | Access given to schools in case of medical emergences 
+--+----------------------------------------------------------
+
+
+● | List of allergies available to those granted access 
+--+--------------------------------------------------------
+
+
+● | Vaccine records available to those granted access 
+--+------------------------------------------------------
+
+
+● | Recommended health screenings 
+--+----------------------------------
+
+
+● | Journal for health log and milestones through news feeds and groups 
+--+------------------------------------------------------------------------
+
+Business Model
+ 
+Our business model is focused on market penetration and recruiting physicians and patients to use our system for archiving patient medical records, comprehensive marketing to active and inactive patients, a way to connect on a regular basis utilizing news feeds and groups, accessing new patients, and for on-line “real-time” scheduling physician appointments.
+ 
+We currently charge physicians $300 - $400 per month to participate in the network. Physicians upload their patients into a secure patient portal to market to their active and inactive patients. They initially send to all their patients an email inviting them to claim their HLYK profile free of charge, update their profiles and bring it with them to their next visit to the physician’s office.
+ 
+We also anticipate charging certain healthcare facilities either an annual or monthly fee that will vary per facility based upon number of professionals per facility. Currently, it is anticipated that hospitals and emergency rooms would be charged a higher fee for our services once our patient network has been expanded.
+ 
+The base services of our network are free for patients, and they may also upgrade their service should they wish to receive telemedicine services and access to a 24-hour nurse hotline.
+ 
+Pursuant to our business strategy, we acquired NWC to begin deployment of the HealthLynked Network and register NWC’s approximately 6,000 active patients and 6,500 inactive patients into the HealthLynked system. While we expect to generate minimal revenues from physician fees related to such deployment in fiscal 2019, we anticipate that establishing the patient database will be a valuable marketing tool for telesales to physician practices. During the second half of 2018, we had one physician who did not renew her contract, one physician who went out on an unexpected disability leave, and another physician who retired. Notwithstanding the unexpected losses of three physicians, with the assistance of the HealthLynked Network in marketing to former patients, we were able to increase practice revenue from 2017 by 7%. By the second quarter of 2019, we expect to have all three physicians replaced, and will then plan to further expand NWC by engaging two to five additional physicians and project, although no assurance can be given, that by 2021 NWC will generate annual aggregate net revenues of between $3,500,000 and $5,000,000. We believe that targeting women’s practices to market HealthLynked is one of the best approaches as women generally make most of the healthcare decisions for their families.
+ 
+4
+
+ 
+
+Sales Strategy
+ 
+During the fourth quarter of 2018, the Company developed a more efficient strategy regarding the marketing of the HealthLynked Network utilizing its patient access hub technology:
+ 
+
+● | Eliminated the direct sales force, reducing our burn rate by approximately $50,000 per month 
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+● | Adopted a more efficient telesales model for bringing on physicians “in network” to the HealthLynked Network, including the following: 
+
+
+o | Starting with physicians claiming their existing base profiles, confirming accuracy, and opting to be an “in network” provider free of charge 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+o | Providing Patient Access Hub (“PAH”) offering Wi-Fi to the practice patients free of charge 
+o | Providing patient analytics off the PAH to provider members 
+o | SEO/SEM campaigns direct to physician practices 
+o | Participation in healthcare events that offer CME credits to physicians is another excellent vehicle that we are using to introduce HLYK and our network to physicians. We anticipate one event per quarter as part of our marketing plan. 
+o | Focusing on comprehensive marketing to physicians active and inactive patients to improve retention and significantly increase practice revenue 
+o | Physicians upload patients in secured HLYK portal and send email for patients to claim their HLYK profile and update it to bring into the office for their next visit. 
+o | Use of HealthLynked Network for on-line appointment scheduling for patients 
+
+
+● | Direct to patient marketing: 
+--+---------------------------------
+
+
+o | SEO/SEM campaigns direct to patients 
+--+-----------------------------------------
+
+
+● | Affiliated marketing campaigns 
+--+-----------------------------------
+
+
+● | Co-marketing with MedOfficeDirect (a virtual distributor of medical supplies to the general public and to physicians’ offices that is affiliated with our management team) 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+After 1.5 years of direct sales efforts, during the fourth quarter of 2018, we decided to eliminate the entire direct sales force after developing a more efficient and effective strategy for onboarding new in-network providers which eliminating $650,000 of annual cost. During the second quarter of 2019 we are planning to deploy our Patient Access Hub ‘PAH” (provisional patent pending) providing free Wi-Fi to the practice patients at no cost to our in-network physicians. Physician members will receive patient analytics from the PAH and we anticipate by the fourth quarter of 2019 we will be attracting 1,000 physicians and 300,000 patients per quarter utilizing the patient access hub.
+ 
+PAH analytics will include information such as most popular days, most popular times of day, patient wait times per physician, patient mix, and social media footprint, to name a few.
+ 
+Healthcare events that offer continuing medical education (“CME”) credits to Physicians have proven to be an excellent target market for our services and we plan to continue with this strategy of at least one event per quarter going forward.
+ 
+Our projected rapid growth over the next five years is due in large part to our roll out and utilization of the Patient Access Hub in medical practices.
+ 
+Our marketing efforts towards physicians will emphasize how our systems can provide patient analytics, increase practice revenues, improve office efficiencies, and improve the accuracy of recorded patients’ medical histories.
+ 
+5
+
+ 
+
+Once a physician agrees to become a paying member, they will put all their patients in a secured portal in the cloud, and email them to claim their profile, update it and bring it in for their next office visit. As mentioned above, access to the HealthLynked Network is free for patients. The physicians will then market to their active and inactive patients and it is anticipated that physicians will generate up to $100,000 in incremental annual revenue for an investment of $4,800 per year.
+ 
+In combination with our telesales efforts described above, we intend to also utilize internet based search engine marketing an optimization (SEM/SEO) to increase our presence in certain targeted geographical areas. These campaigns will be focused on both physicians and patients. We believe that direct to consumer marketing through email campaigns will be an effective way to build interest and drive patient and physician demand for our services. We anticipate that we will be able to foster faster market penetration and increase demand for our services by marketing to “both sides”, the consumer and the practitioner once the telesales model is solidified.
+ 
+Our campaigns will direct patients to look for physicians in the HealthLynked Network to ensure that they maintain the accuracy and completeness of their medical records. Our system will further allow patients to search for “in-network” physician providers and schedule online “real-time” appointments via our system. We believe that physicians in the HealthLynked Network will see an increase in new patients as a result of their participation and as more patients claim their profiles from the use of the PAH and the physicians’ initial emails to patients, the value to physicians of joining our network will increase from not only existing patient marketing, but also for acquisition of new patients in the HealthLynked Network.
+ 
+We believe that affiliated marketing campaigns will be very helpful in attracting new users and increasing market awareness. We intend to partner with pharmaceutical companies, medical distributors, insurance companies; medical societies and others to cross market our products.
+ 
+Intellectual Property
+ 
+We have registered “HealthLynked” and our corporate logo as a service mark with the United States Patent and Trademark Office (the “USPTO”). We also filed a provisional patent application for the use of our Patient Access Hub filed on March 6, 2019 with the USPTO. We plan to file other patent applications as needed to protect our technology as soon as the technology is launched, which is currently anticipated to be during the third and fourth quarters of 2019.
+Research and Development
+ 
+Our research and development efforts consist of building, developing, and enhancing the HealthLynked Network, including comprehensive marketing to active and inactive patients, the real time scheduling of appointments through our new mobile application, regular appointment scheduling, telemedicine appointment scheduling, sharing of secured documents between physicians and patients, and devise independent access mobile, tablet and web browser. Further, we are developing our systems to provide for secured date storage, drug interaction alerts, and the barcoding of documents for retrieval and storage.
+Professional and General Liability Coverage
+ 
+We maintain professional and general liability insurance policies with third-party insurers generally on a claims-made basis, subject to deductibles, policy aggregates, exclusions, and other restrictions, in accordance with standard industry practice. We believe that our insurance coverage is appropriate based upon our claims experience and the nature and risks of our business. However, no assurance can be given that any pending or future claim against us will not be successful or if successful will not exceed the limits of available insurance coverage. Our business entails an inherent risk of claims of medical malpractice against our affiliated physicians and us. We contract and pay premiums for professional liability insurance that indemnifies us and our affiliated healthcare professionals generally on a claims-made basis for losses incurred related to medical malpractice litigation. Professional liability coverage is required in order for our physicians to maintain hospital privileges.
+Employees
+ 
+As of March 15, 2019, we had 26 employees. None of our employees are covered by a collective bargaining agreement. We consider our relationship with our employees to be excellent.
+ 
+6
+
+ 
+
+Competition
+ 
+The markets for our products and services are highly competitive, and are characterized by rapidly evolving technology and product standards, as well as frequent introduction of new products and services. All of our competitors are more established, benefit from greater name recognition, and have substantially greater financial, technical, and marketing resources than we do.
+ 
+Our principal existing competitors include but are not limited to ZocDoc, Inc., AthenaHealth Inc., All-scripts Healthcare Solutions, Inc., Cerner Corporation, Epic Systems Corporation, Teledoc Health Inc. and Veritone Inc. In addition, we expect that major software information systems companies, large information technology consulting service providers, start-up companies, managed care companies and others specializing in the health care industry may offer competitive products and services. 
+ 
+We believe that we differ from our competitors in that we are not practice management software or an EMR provider. Companies like AthenaHealth Inc., All scripts Healthcare Solutions, Inc., Cerner and Epic Systems Corporation offer software solutions to operate and manage a medical practice. Functions of these systems include patient billing, monitoring patient account balances and payments, tracking of appointments and creating encounter visits for each patient seen. HealthLynked works in conjunction with these practice management software systems and does not seek to replace them. Patients’ medical encounters created by these systems are uploaded to the patient’s profile in the HealthLynked Network. The HealthLynked Network can incorporate any physical or digital documents into a patient’s medical record history and thus allow it to be utilized across all healthcare platforms. HealthLynked provides an online appointment scheduling application that is similar to ZocDoc, Inc.’s offering, but in addition offers telemedicine appointments through our own patient interface. 
+ 
+The advantage of having a healthcare network independent of any one practice management or EMR software allows the HealthLynked system to be fully utilized across the entire medical community. Integration and participation by both patients and healthcare providers in a unified platform offers significant advantages in the quality and nature of healthcare delivery in the future. To our knowledge a unified healthcare network like HealthLynked currently does not exist in the market.  
+ 
+Amazon, Google, and Apple have also announced their intention to enter into the digital healthcare space, including in the area of patient health records.
+ 
+Government Regulation
+
+The healthcare industry is governed by a framework of federal and state laws, rules and regulations that are extensive and complex and for which, in many cases, the industry has the benefit of only limited judicial and regulatory interpretation. If we are found to have violated these laws, rules or regulations, our business, financial condition and results of operations could be materially, adversely affected. Moreover, healthcare reform continues to attract significant legislative interest, regulatory activity, new approaches, legal challenges and public attention that create uncertainty and the potential for additional changes. Healthcare reform implementation, additional legislation or regulations, and other changes in government policy or regulation may affect our reimbursement, restrict our existing operations, limit the expansion of our business or impose additional compliance requirements and costs, any of which could have a material adverse effect on our business, financial condition, results of operations, cash flows and the trading price of our common stock. 
+Licensing and Certification 
+ 
+The state of Florida imposes licensing requirements on individual physicians and clinical professionals, and on facilities operated or utilized by healthcare practices. We may have to obtain regulatory approval, including certificates of need, before establishing certain types of healthcare facilities, offering certain services or expending amounts in excess of statutory thresholds for healthcare equipment, facilities or programs. We are also required to meet applicable Medicaid provider requirements under state laws and regulations and Medicare provider requirements under federal laws, rules and regulations. 
+Fraud and Abuse Provisions 
+ 
+Existing federal laws, as well as similar state laws, relating to government-sponsored or funded healthcare programs, or “GHC Programs,” impose a variety of fraud and abuse prohibitions on healthcare companies like us. These laws are interpreted broadly and enforced aggressively by multiple government agencies, including the Office of Inspector General of the Department of Health and Human Services, the Department of Justice (the “DOJ”) and various state agencies. In addition, in the Deficit Reduction Act of 2005, Congress established a Medicaid Integrity Program to enhance federal and state efforts to detect Medicaid fraud, waste and abuse and provide financial incentives for states to enact their own false claims legislation as an additional enforcement tool against Medicaid fraud and abuse. Since then, a growing number of states have enacted or expanded healthcare fraud and abuse laws. 
+ 
+The fraud and abuse provisions include extensive federal and state laws, rules and regulations applicable to us, particularly on the services offered through NWC. In particular, the federal anti-kickback statute has criminal provisions relating to the offer, payment, solicitation or receipt of any remuneration in return for either referring Medicaid, Medicare or other GHC Program business, or purchasing, leasing, ordering, or arranging for or recommending any service or item for which payment may be made by GHC Programs. In addition, the federal physician self-referral law, commonly known as the “Stark Law,” applies to physician ordering of certain designated health services reimbursable by Medicare from an entity with which the physician has a prohibited financial relationship. These laws are broadly worded and have been broadly interpreted by federal courts, and potentially subject many healthcare business arrangements to government investigation and prosecution, which can be costly and time consuming. Violations of these laws are punishable by substantial penalties, including monetary fines, civil penalties, administrative remedies, criminal sanctions (in the case of the anti-kickback statute), exclusion from participation in GHC Programs and forfeiture of amounts collected in violation of such laws, any of which could have an adverse effect on our business and results of operations.  
+ 
+7
+
+ 
+
+There are a variety of other types of federal and state fraud and abuse laws, including laws authorizing the imposition of criminal, civil and administrative penalties for filing false or fraudulent claims for reimbursement with government healthcare programs. These laws include the civil False Claims Act (“FCA”), which prohibits the submission of, or causing to be submitted, false claims to GHC Programs, including Medicaid, Medicare, TRICARE (the program for military dependents and retirees), the Federal Employees Health Benefits Program, and insurance plans purchased through the recently established Affordable Care Act exchanges. Substantial civil fines and multiple damages, along with other remedies, can be imposed for violating the FCA. Furthermore, proving a violation of the FCA requires only that the government show that the individual or company that submitted or caused to be submitted an allegedly false claim acted in “reckless disregard” or in “deliberate ignorance” of the truth or falsity of the claim or with “willful disregard,” notwithstanding that there may have been no specific intent to defraud the government program and no actual knowledge that the claim was false (which typically are required to be shown to sustain a criminal conviction). The FCA also applies to the improper retention of known overpayments and includes “whistleblower” provisions that permit private citizens to sue a claimant on behalf of the government and thereby share in the amounts recovered under the law and to receive additional remedies. In recent years, many cases have been brought against healthcare companies by such “whistleblowers,” which have resulted in judgments or, more often, settlements involving substantial payments to the government by the companies involved. It is anticipated that the number of such actions against healthcare companies will continue to increase with the enactment or enhancement of a growing number of state false claims acts, certain amendments to the FCA and enhanced government enforcement.
+ 
+In addition, federal and state agencies that administer healthcare programs have at their disposal statutes, commonly known as “civil money penalty laws,” that authorize substantial administrative fines and exclusion from government programs in cases where an individual or company that filed a false claim, or caused a false claim to be filed, knew or should have known that the claim was false or fraudulent. As under the FCA, it often is not necessary for the agency to show that the claimant had actual knowledge that the claim was false or fraudulent in order to impose these penalties.
+ 
+The civil and administrative false claims statutes are being applied in an increasingly broader range of circumstances. For example, government authorities have asserted that claiming reimbursement for services that fail to meet applicable quality standards may, under certain circumstances, violate these statutes. Government authorities also often take the position, now with support in the FCA, that claims for services that were induced by kickbacks, Stark Law violations or other illicit marketing schemes are fraudulent and, therefore, violate the false claims statutes. Many of the laws and regulations referenced above can be used in conjunction with each other.
+ 
+If we were excluded from participation in any government-sponsored healthcare programs, not only would we be prohibited from submitting claims for reimbursement under such programs, but we also would be unable to contract with other healthcare providers, such as hospitals, to provide services to them. It could also adversely affect our ability to contract with, or to obtain payment from, non-governmental payors.
+ 
+Although we intend to conduct our business in compliance with all applicable federal and state fraud and abuse laws, many of the laws, rules and regulations applicable to us, including those relating to billing and those relating to financial relationships with physicians and hospitals, are broadly worded and may be interpreted or applied by prosecutorial, regulatory or judicial authorities in ways that we cannot predict. Accordingly, we cannot assure you that our arrangements or business practices will not be subject to government scrutiny or be alleged or found to violate applicable fraud and abuse laws. Moreover, the standards of business conduct expected of healthcare companies under these laws and regulations have become more stringent in recent years, even in instances where there has been no change in statutory or regulatory language. If there is a determination by government authorities that we have not complied with any of these laws, rules and regulations, our business, financial condition and results of operations could be materially, adversely affected.
+ 
+Government Reimbursement Requirements
+ 
+In order to participate in the various state Medicaid programs and in the Medicare program, we must comply with stringent and often complex enrollment and reimbursement requirements. Moreover, different states impose differing standards for their Medicaid programs. While we believe that we adhere to the laws, rules and regulations applicable to the government programs in which we participate, any failure to comply with these laws, rules and regulations could negatively affect our business, financial condition and results of operations.
+ 
+In addition, GHC Programs are subject to statutory and regulatory changes, administrative rulings, interpretations and determinations, requirements for utilization review and new governmental funding restrictions, all of which may materially increase or decrease program payments, as well as affect the cost of providing services and the timing of payments to providers. Moreover, because these programs generally provide for reimbursement on a fee-schedule basis rather than on a charge-related basis, we generally cannot increase our revenue by increasing the amount we charge for our services. To the extent our costs increase, we may not be able to recover our increased costs from these programs, and cost containment measures and market changes in non-governmental insurance plans have generally restricted our ability to recover, or shift to non-governmental payors, these increased costs. In attempts to limit federal and state spending, there have been, and we expect that there will continue to be, a number of proposals to limit or reduce Medicaid and Medicare reimbursement for various services. Our business may be significantly and adversely affected by any such changes in reimbursement policies and other legislative initiatives aimed at reducing healthcare costs associated with Medicaid, Medicare and other government healthcare programs.
+ 
+8
+
+ 
+
+Our business also could be adversely affected by reductions in or limitations of reimbursement amounts or rates under these government programs, reductions in funding of these programs or elimination of coverage for certain individuals or treatments under these programs.
+ 
+HIPAA and Other Privacy Laws
+ 
+Numerous federal and state laws, rules and regulations govern the collection, dissemination, use and confidentiality of protected health information, including the HIPAA, and its implementing regulations, violations of which are punishable by monetary fines, civil penalties and, in some cases, criminal sanctions. As part of the HealthLynked Network and our medical record keeping, third-party billing and other services, we collect and maintain protected health information on the patients that we serve.
+ 
+Pursuant to HIPAA, the U.S. Department of Health and Human Services, Office of Civil Rights (“HHS”) has adopted standards to protect the privacy and security of individually identifiable health information, known as the Privacy Standards and Security Standards. HHS’ Privacy Standards apply to medical records and other individually identifiable health information in any form, whether electronic, paper or oral, that is used or disclosed by healthcare providers, hospitals, health plans and healthcare clearinghouses, which are known as “Covered Entities.” We have implemented privacy policies and procedures, including training programs, designed to be compliant with the HIPAA Privacy Standards.
+ 
+HHS’ Security Standards require healthcare providers to implement administrative, physical and technical safeguards to protect the integrity, confidentiality and availability of individually identifiable health information that is electronically received, maintained or transmitted (including between us and our affiliated practices). We have implemented security policies, procedures and systems designed to facilitate compliance with the HIPAA Security Standards.
+ 
+In February 2009, Congress enacted the Health Information Technology for Economic and Clinical Health Act, or “HITECH.” Among other changes to the law governing protected health information, HITECH strengthened and expanded HIPAA, increased penalties for violations, gave patients new rights to restrict uses and disclosures of their health information, and imposed a number of privacy and security requirements directly on third-parties that perform functions or services for us or on our behalf. Specifically, HITECH requires that Covered entities report any unauthorized use or disclosure of protected health information that meets the definition of a breach, to the affected individuals, HHS and, depending on the number of affected individuals, the media for the affected market. In addition, HITECH requires that business associates report breaches to their Covered Entity customers. HITECH also authorizes state Attorneys General to bring civil actions in response to violations of HIPAA that threaten the privacy of state residents. Final regulations implementing the HITECH requirements were issued in January 2013. We have privacy policies and procedures aimed at ensuring compliance with HITECH requirements. In addition to the federal HIPAA and HITECH requirements, numerous other state and certain other federal laws protect the confidentiality of patient information, including state medical privacy laws, state social security number protection laws, state genetic privacy laws, human subjects research laws and federal and state consumer protection laws.
+ 
+Environmental Regulations
+ 
+Our healthcare operations generate medical waste that must be disposed of in compliance with federal, state and local environmental laws, rules and regulations. Our office-based operations are subject to compliance with various other environmental laws, rules and regulations. Such compliance does not, and we anticipate that such compliance will not, materially affect our capital expenditures, financial position or results of operations.
+Fair Debt Collection Practices Act
+ 
+Some of our operations may be subject to compliance with certain provisions of the Fair Debt Collection Practices Act and comparable state laws. Under the Fair Debt Collection Practices Act, a third-party collection company is restricted in the methods it uses to contact consumer debtors and elicit payments with respect to placed accounts. Requirements under state collection agency statutes vary, with most requiring compliance similar to that required under the Fair Debt Collection Practices Act. Florida’s Consumer Collection Practices Act is broader than the federal legislation, applying the regulations to “creditors” as well as “collectors,” whereas the Fair Debt Collection Practices Act is applicable only to collectors. This prohibits creditors who are attempting to collect their own debts from engaging in behavior prohibited by the Fair Debt Collection Practices Act and Consumer Collection Practices Act. The Consumer Collection Practices Act has very specific guidelines regarding which actions debt collectors and creditors may engage in to collect unpaid debt.
+Government Investigations
+ 
+We expect that audits, inquiries and investigations from government authorities, agencies, contractors and payors will occur in the ordinary course of business. Such audits, inquiries and investigations and their ultimate resolutions, individually or in the aggregate, could have a material adverse effect on our business, financial condition, results of operations, cash flows and the trading price of our common stock.
+ 
+9
+
+ 
+

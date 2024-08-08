@@ -1,0 +1,386 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+  ITEM 1. DESCRIPTION OF BUSINESS
+  
+ As used in this Annual Report, unless otherwise stated or the context otherwise requires, references to “AzurRx,” “Company,” “we,” “us,” “our,” or similar references mean AzurRx BioPharma, Inc. and its subsidiaries on a consolidated basis. References to “AzurRx BioPharma” refer to AzurRx BioPharma, Inc. on an unconsolidated basis. References to “AzurRx SAS” refer to AzurRx SAS, AzurRx BioPharma’s wholly-owned subsidiary through which we conduct our European operations.
+ Overview
+  
+ AzurRx BioPharma, Inc. was incorporated on January 30, 2014 in the State of Delaware. In June 2014, the Company acquired 100% of the issued and outstanding capital stock of AzurRx SAS (formerly “ProteaBio Europe SAS”), a company incorporated in October 2008 under the laws of France. AzurRx and its wholly-owned subsidiary, AzurRx SAS (“ABS”), are collectively referred to as the “Company.”
+  
+ We are engaged in the research and development of non-systemic biologics for the treatment of patients with gastrointestinal disorders. Non-systemic biologics are non-absorbable drugs that act locally, i.e. the intestinal lumen, skin or mucosa, without reaching an individual’s systemic circulation.
+  
+ Our current product pipeline consists of two therapeutic programs under development, each of which are described below:
+  
+  MS1819-SD
+  
+ MS1819-SD is a yeast derived recombinant lipase for exocrine pancreatic insufficiency (“EPI”) associated with chronic pancreatitis (“CP”) and cystic fibrosis (“CF”). A lipase is an enzyme that breaks up fat molecules. MS1819-SD is considered recombinant because it was created from new combinations of genetic material in yeast called Yarrowia lipolytica. In June 2018, we completed an open-label, dose escalation Phase IIa trial of MS1819-SD in France, Australia, and New Zealand to investigate both the safety of escalating doses of MS1819-SD, and the efficacy of MS1819-SD through the analysis of each patient’s coefficient of fat absorption (“CFA”) and its change from baseline. A total of 11 CP patients with EPI were enrolled in the study and final data showed a strong safety and efficacy profile. Although the study was not powered for efficacy, in a pre-planned analysis, the highest dose cohort of MS1819-SD showed statistically significant and clinically meaningful increases in CFA compared to baseline with a mean increase of 21.8% and a p value of p=0.002 on a per protocol basis. Favorable trends were also observed on other evaluated endpoints, including the Bristol stool scale, number of daily evacuations and stool weight, which were consistent with the CFA results. Additionally, maximal absolute CFA response to treatment was up to 57%, with an inverse relationship to baseline CFA. In October 2018, the U.S. Food and Drug Administration (“FDA”) cleared our Investigational New Drug (“IND”) application for MS1819-SD in patients with EPI due to CF. In connection with the FDA’s clearance of the IND, in the fourth quarter of 2018 we initiated the multi-center Phase II study that was subject to the IND in the United States and Europe, which we expect will include approximately 30 patients and conclude in 2019. On February 20, 2019, we announced that we have dosed the first patients in our Phase II study to investigate MS1819-SD in CF patients with exocrine pancreatic insufficiency.
+  
+  B-Lactamase Program
+  
+ Our b-lactamase program focuses on products with an enzymatic combination of bacterial origin for the prevention of hospital-acquired infections and antibiotic-associated diarrhea (“AAD”) by resistant bacterial strains induced by parenteral administration of several antibiotic classes. Currently, we have two compounds in pre-clinical development in this program, AZX1101 and AZX1103. Both AZX1101 and AZX1103 are composed of several distinct enzymes that break up individual classes of antibiotic molecules. AZX1103 is a b-lactamase enzyme combination that has shown positive pre-clinical activity, with degradation of amoxicillin in the presence of clavulanic acid in the upper gastrointestinal tract in the Gottingen minipig model. Currently, we are focused on advancing pre-clinical development of AZX1103 and expect to file an IND for AZX1103 with the FDA in 2019. At this time, the Company is currently assessing its plans for the continuation of the development of AZX1101.
+  
+  Recent Developments
+  
+  Public Offering of Common Stock
+  
+ On May 3, 2018, we completed an underwritten, public offering of 4,160,000 shares of our common stock at a public offering price per share of $2.50, resulting in gross proceeds of $10.4 million (the “May 2018 Public Offering”) with associated expenses of approximately $800,000. The May 2018 Public Offering was completed pursuant to the terms of an underwriting agreement executed by the Company and Oppenheimer & Co. Inc. (“Oppenheimer”) on May 1, 2018. After deducting the underwriting discount paid to Oppenheimer, legal fees, and other offering expenses payable by us, we received net proceeds of approximately $9.6 million.
+  
+ 
+   
+-2-
+
+
+
+ 
+ 
+ In addition to the underwriting discount received by Oppenheimer, we also issued unregistered warrants to Oppenheimer to purchase up to 208,000 shares of our common stock (the “Underwriter Warrants”). The Underwriter Warrants, valued at $349,232, became exercisable six months from the date of issuance, expire on May 1, 2023 and have an exercise price of $2.55 per share. As a result of certain investors participating in the Offering, we also paid a financial advisory fee to Alexander Capital, LP, consisting of a cash payment of approximately $104,000 and the issuance of warrants valued at $67,194, substantially similar to the Underwriter Warrants, to purchase up to 36,400 shares of our common stock at an exercise price of $2.75 per share.
+  
+  Update and Completion of the Phase IIa Trial of MS1819-SD and Launch of the Phase II OPTION Study
+  
+ On June 29, 2018, we announced the successful completion of our Phase IIa trial of MS1819-SD, and on September 24, 2018, we announced, in partnership with Mayoly Spindler, a European pharmaceutical company ("Mayoly"), that, in a pre-planned analysis, the highest dose cohort of MS1819-SD showed statistically significant and clinically meaningful increases in CFA compared to baseline with a mean increase of 21.8% and a p value of p=0.002 on a per protocol basis. A total of 11 CP patients with EPI were enrolled in the study and final data showed a strong safety and efficacy profile. Additionally, maximal absolute CFA response to treatment was up to 57%, with an inverse relationship to baseline CFA. Favorable trends were also observed on other evaluated endpoints, including Bristol stool scale, number of daily evacuations and weight of stool, and these were consistent with the CFA results.
+  
+ On October 16, 2018, we announced that the FDA cleared our IND application for MS1819-SD in patients with EPI due to CF. In connection with the FDA’s clearance of the IND, in the fourth quarter of 2018 we initiated the multi-center Phase II OPTION study that was subject to the IND in the United States and Europe, which we expect will include approximately 30 patients and to conclude in 2019. In addition, on November 1, 2018, we announced that our Phase II OPTION study protocol received positive sanction from the Therapeutics Development Network, a collaborative network of CF clinical trial specialists supported by the Cystic Fibrosis Foundation, and on February 20, 2019, we announced that we have dosed the first patients in our Phase II Option study.
+   
+  Protea Asset Sale and Purchase Agreement
+  
+ On December 7, 2018, we entered into an asset sale and purchase agreement (the “Protea Purchase Agreement”) with Protea Biosciences Group, Inc. and its wholly owned subsidiary, Protea Biosciences, Inc. (“Protea”), pursuant to which we agreed to purchase the rights to any milestone payments, royalty payments, and contingent consideration due from us to Protea now or in the future, arising from the Stock Purchase and Sale Agreement previously entered into by us and Protea (the “Purchased Assets”).
+  
+ Protea previously filed for Chapter 11 protection under the United States Bankruptcy Code on December 1, 2017. On November 27, 2018, we participated in a bankruptcy auction for the Purchased Assets and we were chosen as the successful bidder at the conclusion of the auction. On December 10, 2018, the transaction was approved by the United States bankruptcy court.
+  
+ On December 14, 2018 (the “Closing Date”), we closed the transactions contemplated by the Protea Purchase Agreement. In accordance with the terms of the Protea Purchase Agreement, we acquired the Purchased Assets from Protea for an aggregate purchase price of $1,550,000 (the “Purchase Price”). We paid $250,000 of the Purchase Price in cash and the remaining $1,300,000 was paid by the issuance of shares of our common stock at a price of $1.77 per share, a price per share that was $0.01 higher than the closing price of our common stock on the Closing Date, as reported on the Nasdaq Capital Market, resulting in the issuance of 734,463 shares of our common stock to Protea.
+  
+  Private Note Offering
+  
+ On February 14, 2019, we entered into a Note Purchase Agreement (the “NPA”) with ADEC Private Equity Investments, LLC (“ADEC”), pursuant to which we issued to ADEC two Senior Convertible Notes (“Note A” and “Note B,” respectively, each a “Note,” and together, the “Notes”), in the principal amount of $1.0 million per Note, resulting in gross proceeds to the Company of $2.0 million. ADEC is controlled by Burke Ross, a significant stockholder of the Company.
+  
+ 
+   
+-3-
+
+
+
+ 
+ 
+ The Notes accrue interest at a rate of 10% per annum; provided, however, that in the event we elect to repay the full balance due under the terms of both Notes prior to December 31, 2019, then the interest rate will be reduced to 6% per annum. The Notes mature on the earlier to occur of (i) the tenth business day following the receipt by the Company of certain tax credits that we expect to receive prior to July 2019 in the case of Note A (the “2019 Tax Credit”) and July 2020 in the case of Note B (the “2020 Tax Credit”), respectively, or (ii) December 31, 2019 in the case of Note A and December 31, 2020 in the Case of Note B (the “Maturity Dates”). As a condition to entering into the NPA, AzurRx SAS and ADEC also entered into a Pledge Agreement, pursuant to which AzurRx SAS agreed to pledge an interest in the 2019 and 2020 Tax Credits to ADEC in order to guarantee payment of all amounts due under the terms of the Notes.
+  
+ Prior to their respective Maturity Dates, each of the Notes is convertible, at ADEC’s option, into shares of our common stock, at a conversion price equal to the principal and accrued interest due under the terms of the Notes divided by $2.50 (“Conversion Shares”); provided, however, that pursuant to the term of the Notes, ADEC may not convert all or a portion of the Notes if such conversion would result in Mr. Ross and/or entities affiliated with him beneficially owning in excess of 19.99% of our shares of common stock issued and outstanding immediately after giving effect to the issuance of the Conversion Shares.
+  
+ As additional consideration for entering into the NPA, pursuant to a Warrant Amendment Agreement, we agreed to reduce the exercise price of all outstanding warrants previously issued by us to ADEC and its affiliates (the “Warrants”) to $1.50 per share. The Warrant Amendment does not alter any other terms of the Warrants.
+  
+ In connection with the above transaction, we also entered into a registration rights agreement with ADEC, pursuant to which we agreed to file a registration statement with the Securities and Exchange Commission no later than 45 days after the closing date of February 14, 2019 in order to register, on behalf of ADEC, the Conversion Shares. ADEC subsequently agreed to extend the date to file a registration statement to April 30, 2019.
+  
+  Asset Purchase Agreement with Mayoly
+  
+ On March 27, 2019, we entered into an Asset Purchase Agreement with Mayoly (the “Mayoly APA”), pursuant to which we purchased all rights, title and interest in and to MS1819-SD. Upon execution of the Mayoly APA, the Joint Development and License Agreement (the “JDLA”) previously executed by AzurRx SAS and Mayoly was terminated. In addition, we granted to Mayoly an exclusive, royalty-bearing right to revenue received from commercialization of MS1819-SD within certain territories.
+  
+  
+-4-
+
+
+ 
+ 
+ 
+ In accordance with the Mayoly APA, we provided to Mayoly the following consideration for the purchase of MS1819-SD:
+  
+   (i)
+ we assumed certain of Mayoly’s liabilities with respect to MS1819-SD;
+
+ 
+   (ii)
+ we forgave all amounts currently owed to AzurRx SAS by Mayoly under the JDLA;
+
+ 
+   (iii)
+ we agreed to pay, within 30 days after the execution of the Mayoly APA, all amounts incurred by Mayoly for the maintenance of patents related to MS1819-SD from January 1, 2019 through the date of the Mayoly APA;
+
+ 
+   (iv)
+ we made an initial payment to Mayoly of € 800,000, which amount was paid by the issuance of 400,481 shares of our common stock at a price of $2.29 per share (the “Closing Payment Shares”): and
+
+ 
+   (v)
+ we agreed to pay to Mayoly an additional € 1,500,000, payable in a mix of cash and shares of our common stock as follows (the “Milestone Payments”): (y) on December 31, 2019, a cash payment of € 400,000 and 200,240 shares of common stock at a price of $2.29 per share (the “2019 Escrow Shares”) and (z) on December 31, 2020, a cash payment of € 350,000 and 175,210 shares of common stock at a price of $2.29 per share (the “2020 Escrow Shares” and, together with the 2019 Escrow Shares, the “Escrow Shares”).
+
+ 
+ The Closing Payment Shares and the Escrow Shares were all issued upon execution of the Mayoly APA; provided, however, per the terms of the Mayoly APA, the Escrow Shares will be held in escrow until the applicable Milestone Payment date, at which time the respective Escrow Shares will be released to Mayoly.
+  
+  Corporate History
+  
+ On May 21, 2014, we entered into a stock purchase agreement (the “SPA”) with Protea Biosciences Group, Inc. (“Protea Group”) and its wholly-owned subsidiary, Protea Biosciences, Inc. (“Protea Sub” and, together with Protea Group, “Protea”), to acquire 100% of the outstanding capital stock of AzurRx SAS (formerly ProteaBio Europe SAS), a wholly-owned subsidiary of Protea Sub. On June 13, 2014, we completed the acquisition in exchange for the payment of $600,000 and the issuance of shares of our Series A Convertible Preferred Stock (“Series A Preferred”) convertible into 33% of our outstanding common stock and agreed to make certain milestone and royalty payments to Protea. Subsequently, on December 14, 2018, we purchased from Protea Group and Protea Sub the rights to any milestone payments, royalty payments, and transaction value consideration.
+ Product Programs
+  
+ Our current product pipeline consists of two therapeutic programs under development, each of which are described below.
+  
+  MS1819-SD
+  
+ MS1819-SD is the active pharmaceutical ingredient, or API, derived from Yarrowia lipolytica, an aerobic yeast naturally found in various foods such as cheese and olive oil that is widely used as a biocatalyst in several industrial processes. MS1819-SD is an acid-resistant secreted lipase naturally produced by Yarrowia lipolytica, known as LIP2, that we are developing through recombinant DNA technology for the treatment of EPI associated with CP and CF. We previously held the exclusive right to commercialize MS1819-SD in the U.S. and Canada, South America (excluding Brazil), Asia (excluding China and Japan), Australia, New Zealand and Israel pursuant to a sublicense from Mayoly under the JDLA, which also granted us joint commercialization rights for Brazil, Italy, China and Japan. As disclosed under “Recent Developments - Asset Purchase Agreement with Mayoly” above, on March 27, 2019, we purchased all rights, title and interest in and to MS1819-SD from Mayoly.
+ Background
+  
+ The pancreas is both an endocrine gland that produces several important hormones, including insulin, glucagon, and pancreatic polypeptide, as well as a digestive organ that secretes pancreatic juice containing digestive enzymes that assist the absorption of nutrients and digestion in the small intestine.
+  
+ 
+   
+-5-
+
+
+
+ 
+ 
+ The targeted indication of MS1819-SD is the compensation of EPI, which is observed when the exocrine functions of the pancreas are below 10% of normal. The symptomatology of EPI is essentially due to the deficiency of pancreatic lipase, an enzyme that hydrolyses triglycerides into monoglycerides and free fatty acids. The pancreatic lipase enzymatic activity is hardly compensated by extrapancreatic mechanisms, because gastric lipase has nearly no lipolytic activity in the pH range of the intestine. On the other hand, when they are impaired, the pancreatic amylase and proteases (enzymes that break up starches and protein, respectively) activities can be compensated by the salivary amylase, the intestinal glycosidase, the gastric pepsin, and the intestinal peptidases, all of which are components of the gastric juice secreted by the stomach walls. Lipid maldigestion due to lipase deficiency is responsible for weight loss, steatorrhea featured by greasy diarrhea, and fat-soluble vitamin deficiencies (i.e. A, D, E and K vitamins).
+  
+ CP, the most common cause of EPI, is a long-standing inflammation of the pancreas that alters its normal structure and functions. In the United States, its prevalence rate is of 42 cases per 100,000 inhabitants, resulting in approximately 132,000 cases. Approximately 60% of patients affected with CP display EPI, resulting in approximately 80,000 patients requiring substitution therapy in the U.S. In Western societies, CP is caused by chronic alcoholic consumption in approximately 55-80% of cases. Other relatively frequent etiologies include the genetic form of the disease that is inherited as an autosomal dominant condition with variable penetrance, pancreatic trauma and idiopathic causes.
+  
+ CF, another dominant etiology of EPI, is a severe genetic disease associated with chronic morbidity and life-span decrease of most affected individuals. In most Caucasian populations, CF prevalence is of 7-8 cases per 100,000 inhabitants, but is less common in other populations, resulting in approximately 30,000 affected individuals in the U.S. CF is inherited as monogenic autosomal recessive disease due to the defect at a single gene locus that encodes the Cystic Fibrosis Transmembrane Regulator protein (“CFTR”), a regulated chloride channel. Mutation of both alleles of this chloride channel gene results in the production of thick mucus, which causes a multisystem disease of the upper and lower respiratory tracts, digestive system, and the reproductive tract. The progressive destruction of the pancreas results in EPI that is responsible for malnutrition and contributes to significant morbidity and mortality. About 80-90% of patients with CF develop EPI, resulting in approximately 25,000-27,000 patients in the U.S. that require substitution therapy.
+  
+ Current treatments for EPI stemming from CP and CF rely on porcine pancreatic extracts, or PPEs, which have been on the market since the late 1800s. The PPE market is well established with estimated sales in the U.S. of $1.2 billion in 2018 and has been growing for the past five years at a compound annual growth rate of approximately 20%. In spite of their long-term use, however, PPEs suffer from poor stability, formulation problems, possible transmission of conventional and non-conventional infectious agents due to their animal origins, and possible adverse events at high doses in patients with CF and limited effectiveness.
+  
+  History of the Program
+  
+ In 1998, Mayoly, a European pharmaceutical company focusing primarily on gastroenterology disorders, launched a program for the discovery and characterization of novel lipases of non-animal origin that could be used in replacement therapy for EPI. The program was conducted in collaboration with INRA TRANSFERT, a subsidiary of the French academic laboratory, National Institute for Agricultural Research, or INRA. In 2000, Mayoly and INRA discovered that the yeast Yarrowia lipolytica secreted a lipase named LIP2. During the ensuing years, Mayoly investigated the in vitro enzymatic activities of LIP2 in collaboration with the Laboratory of Enzymology at Interfaces and Physiology of Lipolysis ("EIPL"), a French public-funded research laboratory at the French National Scientific Research Centre laboratory ("CNR"), which focuses on the physiology and molecular aspects of lipid digestion.
+  
+  Pre-Clinical Program
+  
+ The efficacy of MS1819-SD has been investigated in normal minipigs, which are generally considered as a relevant model for digestive drug development when considering their physiological similarities with humans and their omnivore diet. Experimental pancreatitis was induced by pancreatic duct ligation, resulting in severe EPI with baseline coefficient of fat absorption (“CFA”) around 60% post-ligature. CFA is a measurement obtained by quantifying the amount of fat ingested orally over a defined time period and subtracting the amount eliminated in the stool to ascertain the amount of fat absorbed by the body. Pigs were treated with either MS1819-SD or enteric-coated PPE, both administered as a single-daily dose.
+  
+ At doses ranging from 10.5 to 211mg, MS1819-SD increased the CFA by +25 to +29% in comparison to baseline (p<0.05 at all doses), whereas the 2.5 mg dose had milder activity. Similar efficacy was observed in pigs receiving 100,000 U lipase of enteric-coated porcine pancreatic extract. These findings demonstrate the in vivo activity of MS1819-SD in a relevant in vivo model at a level similar to the PPEs at dosages of 10.5mg or greater. The results of a trial are statistically significant if they are unlikely to have occurred by chance. Statistical significance of the trial results is typically based on widely used, conventional statistical methods that establish the p-value of the results. A p-value of 0.05 or less is required to demonstrate statistical significance. As such, these CFA levels are considered to be statistically significant.
+  
+ To date, two non-clinical toxicology studies have been conducted. Both show that MS1819-SD lipase is clinically well tolerated at levels up to 1000mg/kg in rats and 250 mg/kg in minipigs up to 13 weeks. MS1819-SD is therefore considered non-toxic in both rodent and non-rodent species up to a maximum feasible dose (“MFD”) of 1000 mg/kg/day in the rats over six months of administration.
+  
+ 
+   
+-6-
+
+
+
+ 
+ 
+  Clinical Program
+  
+ We believe that there are two principal therapeutic indications for EPI compensation by MS1819-SD: (i) adult patients with CP, and (ii) children and adults affected by CF. Because of their different pathophysiology and clinical presentation, we intend to separately investigate each of these indications and have determined, based on market size and expected dose requirements, to pursue the indication for adults first.
+  
+ During 2010 and 2011, a phase I/IIa clinical trial of MS1819-SD was conducted in conjunction with Mayoly in a single center in France. The study was an exploratory study mainly designed to investigate the safety of MS1819-FD (freeze-dried) and was a randomized, double blind, placebo controlled, parallel clinical trial in 12 patients affected with CP or pancreatectomy and severe EPI. The primary efficacy endpoint of the study was defined as the relative change in steatorrhea (an established surrogate biomarker of EPI correction) in comparison to baseline. The study found that MS1819-SD was well tolerated with no serious adverse events. Only two adverse events were observed: constipation (two patients out of eight with MS1819-SD) and hypoglycemia (two patients out of eight with MS1819-SD, and one patient out of four with placebo). A non-statistically significant difference of the primary endpoint, possibly due to the small group size, was found between the two groups both in intention-to-treat, a group that included three patients who received the in-patient facility study diet but did not fulfill the protocol’s inclusion criteria, and per-protocol analysis. This study was not designed, nor did it aim, to demonstrate statistically significant changes of CFA or steatorrhea under MS1819-FD.
+ 
+ We received regulatory approval in Australia and New Zealand in 2016, with the addition of a 2018 regulatory approval in France, to conduct a phase II multi-center dose escalation study of MS1819-SD in CP and pancreatectomy. The primary endpoint of this study was to evaluate the safety of escalating doses of MS1819-SD in 11 CP patients. The secondary endpoint was to investigate the efficacy of MS1819-SD in these patients by analysis of the CFA and its change from baseline. On September 24, 2018, we announced that in pre-planned analyses, both the study’s primary and secondary endpoints were reached with a statistically significant (p=0.002) improvement in the CFA of 21.8%, in a per protocol analysis, with the highest evaluated dose of 2,240 mg/day of MS1819-SD. Statistical significance of the trial results is typically based on widely used, conventional statistical methods that establishes the p-value of the results. A p-value of 0.05 or less is required to demonstrate statistical significance. As such, these CFA levels are considered to be statistically significant.
+ 
+ On December 19, 2018, we announced that we initiated the Phase II OPTION study to investigate MS1819-SD in CF patients with EPI. The Phase II multi-center study is designed to investigate the safety, tolerability and efficacy of MS1819-SD in a head-to-head comparison against the current porcine enzyme replacement therapy standard of care. Planned enrollment is expected to include approximately 30 CF patients, who are 18 years of age or older, with study completion anticipated in 2019. The OPTION study employs a six-week non-inferiority CFA primary efficacy endpoint comparing MS1819-SD to porcine enzyme replacement therapy. On February 20, 2019, we announced that we have dosed the first patients in our Phase II OPTION study.
+  
+  B-Lactamase Program
+  
+ Our b-lactamase program focuses on products with an enzymatic combination of bacterial origin for the prevention of hospital-acquired infections and antibiotic-associated diarrhea (“AAD”) by resistant bacterial strains induced by parenteral administration of several antibiotic classes. Currently, we have two compounds in pre-clinical development in this program, AZX1101 and AZX1103. Both AZX1101 and AZX1103 are composed of several distinct enzymes that break up individual classes of antibiotic molecules. AZX1103 is a b-lactamase enzyme combination that has shown positive pre-clinical activity, with degradation of amoxicillin in the presence of clavulanic acid in the upper gastrointestinal tract in the Gottingen minipig model. Currently, we are focused on advancing pre-clinical development of AZX1103 and expect to file an Investigational New Drug application (an “IND”) for AZX1103 with the U.S. Food and Drug Administration (“FDA”) in 2019.
+  
+  AZX1101
+  
+ AZX1101 is a recombinant b-lactamase enzyme combination of bacterial origin under development for the prevention of hospital-acquired infections by resistant bacterial strains induced by parenteral administration of several classes of antibiotics (known as nosocomial infections), as well as the prevention of antibiotic-associated diarrhea ("AAD"). 
+  
+
+   
+-7-
+
+
+
+ 
+ 
+  Agreements and Collaborations
+  
+  Protea Stock Purchase Agreement
+  
+ On May 21, 2014, we entered into the SPA with Protea to acquire 100% of the outstanding capital stock of ProteaBio Europe (the “Acquisition”). On June 13, 2014, we completed the Acquisition in exchange for the payment to Protea of $600,000 and the issuance of shares of our Series A Preferred convertible into 33% of our outstanding common stock. Pursuant to the SPA, Protea Sub assigned (i) to Protea Europe all of its rights, assets, know-how and intellectual property rights in connection with program PR1101 and those granted under that certain Joint Research and Development Agreement, by and among Protea Sub, Protea Europe and Mayoly, dated March 22, 2010; and (ii) to us all amounts, together with any right of reimbursement, due to Protea Sub in connection with outstanding shareholder loans.
+  
+ Pursuant to the SPA, we were obligated to pay certain other contingent consideration upon the satisfaction of certain events, including (a) a one-time milestone payment of $2.0 million due within ten days of receipt of the first approval by the FDA of an New Drug Application (“NDA”) or Biological License Application (“BLA”) for a Business Product (as such term is defined in the SPA); (b) royalty payments equal to 2.5% of net sales of Business Product up to $100.0 million and 1.5% of net sales of Business Product in excess of $100.0 million; and (c) 10% of the Transaction Value (as defined in the SPA) received in connection with a sale or transfer of the pharmaceutical development business of Protea Europe.
+  
+  Protea Asset Sale and Purchase Agreement
+  
+ On December 7, 2018, we entered into the Protea Purchase Agreement with Protea Biosciences Group, Inc. and Protea, its wholly owned subsidiary, pursuant to which we agreed to purchase the rights to any milestone payments, royalty payments, and transaction value consideration due from the Company to the Protea now or in the future, arising from that certain Stock Purchase and Sale Agreement dated May 21, 2014 between the Company and the Protea.
+  
+ Protea previously filed for Chapter 11 protection under the United States Bankruptcy Code on December 1, 2017. On November 27, 2018, we participated in a bankruptcy auction for the Purchased Assets and were chosen as the successful bidder at the conclusion of the auction. On December 10, 2018, the transaction was approved by Judge Patrick J. Flatley of the United States Bankruptcy Court for the Northern District of West Virginia.
+  
+ On December 14, 2018, we closed the transactions contemplated by the Protea Purchase Agreement. In accordance with the terms of the Protea Purchase Agreement, we purchased the Purchased Assets from Protea for an aggregate purchase price of $1,550,000. We paid $250,000 of the Purchase Price in cash, and the remaining $1,300,000 was paid by the issuance of shares of our common stock, at a price of $1.77 per share, a price per share that was $0.01 higher than the closing price of our common stock on the Closing Date, as reported on the Nasdaq Capital Market, resulting in the issuance of 734,463 shares of our common stock to Protea.
+  
+  Mayoly JDLA and Subsequent Asset Purchase Agreement
+  
+ Effective March 22, 2010, Protea and AzurRx SAS entered into the JDLA with Mayoly pursuant to which Mayoly sublicensed certain of its exclusive rights to a genetically engineered yeast strain cell line on which our MS1819-SD is based that derive from a Usage and Cross-Licensing Agreement dated February 2, 2006 (the “INRA Agreement”) between Mayoly and INRA, in charge of patent management acting for and on behalf of the National Centre of Scientific Research (“CNRS”) and INRA.
+  
+  Effective January 1, 2014, Protea entered into an amended and restated JDLA with Mayoly, pursuant to which Protea acquired the exclusive right to Mayoly patents and technology, with the right to sublicense, develop, manufacture and commercialize human pharmaceuticals based on the MS1819-SD lipase within the following territories: U.S. and Canada, South America (excluding Brazil), Asia (excluding China and Japan), Australia, New Zealand and Israel. The JDLA further provided Mayoly the exclusive right to Protea’s patents and technology, with the right to sublicense, develop, manufacture and commercialize human pharmaceuticals based on the MS1819-SD lipase within the following territories: Mexico, Europe (excluding Italy, Portugal and Spain) and any other country not granted to us alone, or jointly with Mayoly. Prior to the execution of the Mayoly APA, rights to the following territories were held jointly with Mayoly: Brazil, Italy, Portugal, Spain, China and Japan. In addition, the Mayoly Agreement required Protea to pay 70% of all development costs and required each of the parties to use reasonable efforts to:
+  
+  ●
+  devote sufficient personnel and facilities required for the performance of its assigned tasks;
+
+ 
+  ●
+  make available appropriately qualified personnel to supervise, analyze and report on the results obtained in the furtherance of the development program; and
+
+ 
+  ●
+  deploy such scientific, technical, financial and other resources as is necessary to conduct the development program.
+
+ 
+ 
+   
+-8-
+
+
+
+ 
+  
+ As disclosed under “Recent Developments – Asset Purchase Agreement with Mayoly” above, on March 27, 2019, we entered into the Mayoly APA pursuant to which the JDLA was terminated and we acquired all rights, title and interest in and to MS1819-SD. In addition, we executed a Patent License Agreement with Mayoly pursuant to which we granted to Mayoly an exclusive, royalty-bearing right to revenue received from commercialization of MS1819-SD within certain territories.
+  
+  INRA Agreement
+  
+ In February 2006, INRA, acting on behalf of CNRS and Institut National de la Recherche Agronomique, entered into a Usage and Cross-licensing Agreement with Mayoly to specify their respective rights to the use of (i) French patent application no. FR9810900 (the "INRA CNRS Patent Application"), (ii) international patent application no. WO2000FR0001148 (the "Mayoly Patent Application"), and (iii) the technology and know-how associated with both patent applications.
+  
+ The agreement covers extensions of both patent applications. Specifically, the INRA CNRS Patent Application encompasses application no. FR9810900 as well as PCT/FR99/02079 with national phase entry in the U.S. (no. 09/786,048, now US patent 6,582,951), Canada (no. 2,341,776) and Europe (no. 99.940.267.0, now EP 1 108 043 B1). The Mayoly Patent Application encompasses WO2000FR0001148 with the national phase entered in Europe (now EP 1 276 874 B1). 
+  
+ The agreement provided Mayoly with the world-wide use in human therapy, nutraceuticals, and cosmetology and provides INRA with world-wide (i) use of lipase as an enzymatic catalyst throughout this field, including the production of pharmaceuticals, and (ii) treatment of the environment, food production processes, cleaning processes and other fields, excluding human therapies, neutraceuticals and cosmetology. The agreement provides for shared use in the production of lipase in the veterinary field (livestock and pets). As consideration for the agreement, Mayoly agreed to pay INRA an annual lump sum of €5,000 until marketing. Upon marketing, Mayoly agreed to pay INRA a lump sum of €100,000 and royalties on net sales of the product. Unless earlier terminated in accordance with its terms, the agreement with INRA expires upon the expiration of the patents in each country in which the license has been granted. The parties may terminate the agreement in the event the other party breaches its obligations therein, which termination shall become effective three months following written notice thereof to the breaching party. The breaching party shall have the right to cure such breach or default during such three-month period. Upon execution of the Mayoly APA in March 2019, Mayoly transferred the INRA Agreement to us.
+  
+  TransChem Sublicense
+  
+ On August 7, 2017, we entered into a Sublicense Agreement with TransChem pursuant to which TransChem granted to us an exclusive license to certain patents (the “Licensed Patents”) relating to Helicobacter pylori 5’methylthioadenosine nucleosidase inhibitors. We may terminate the Sublicense Agreement and the licenses granted therein for any reason and without further liability on 60 days’ notice. Unless terminated earlier, the Sublicense Agreement will expire upon the expiration of the last Licensed Patents. Upon execution, we paid an upfront fee to TransChem and agreed to reimburse TransChem for certain expenses previously incurred in connection with the preparation, filing, and maintenance of the Licensed Patents. We also agreed to pay TransChem certain future periodic sublicense maintenance fees, which fees may be credited against future royalties. We may also be required to pay TransChem additional payments and royalties in the event certain performance-based milestones and commercial sales involving the Licensed Patents are achieved. The Licensed Patents will allow us to develop compounds for treating gastrointestinal, lung and other infections that are specific to individual bacterial species. H. pylori bacterial infections are a major cause of chronic gastritis, peptic ulcer disease, gastric cancer and other diseases.
+  
+ 
+   
+-9-
+
+
+
+ 
+ 
+  Intellectual Property
+  
+ Our goal is to obtain, maintain and enforce patent protection for our product candidates, formulations, processes, methods and any other proprietary technologies, preserve our trade secrets, and operate without infringing on the proprietary rights of other parties, both in the United States and in other countries. Our policy is to actively seek to obtain, where appropriate, the broadest intellectual property protection possible for our current product candidates and any future product candidates, proprietary information and proprietary technology through a combination of contractual arrangements and patents, both in the United States and abroad. However, patent protection may not afford us with complete protection against competitors who seek to circumvent our patents.
+  
+ We also depend upon the skills, knowledge, experience and know-how of our management and research and development personnel, as well as that of our advisors, consultants and other contractors. To help protect our proprietary know-how, which is not patentable, and for inventions for which patents may be difficult to enforce, we currently rely and will in the future rely on trade secret protection and confidentiality agreements to protect our interests. To this end, we require all of our employees, consultants, advisors and other contractors to enter into confidentiality agreements that prohibit the disclosure of confidential information and, where applicable, require disclosure and assignment to us of the ideas, developments, discoveries and inventions important to our business.
+  
+  MS1819-SD
+  
+ The MS1819-SD program is protected by the following series of issued patents that we have licensed under the Mayoly Agreement covering the method for transformation of Yarrowia lipolytica, the sequence of the LIP2 enzyme and its production process:
+  
+  ●
+  PCT/FR99/02079 patent family (including the patents EP1108043 B1, and US6582951) “Method for non-homologous transformation of Yarrowia lipolytica,” concerns the integration of a gene of interest into the genome of a Yarrowia strain devoid of zeta sequences, by transforming said strain using a vector bearing zeta sequences. This modified strain is used for the current production process. This patent has been issued in the U.S., Canada, and validated in several European countries, including Austria, Belgium, Switzerland, Cyprus, Germany, Denmark, Spain, Finland, Great Britain, Greece, Ireland, France, Italy, Lithuania, Luxembourg, Netherlands, Portugal and Sweden. This patent expires September 1, 2019;
+
+ 
+  ●
+  PCT/FR2000/001148 patent family (including the patent EP1276874 B1) “Cloning and expressing an acid-resistant extracellular lipase of Yarrowia lipolytica” describes the coding sequences of acid-resistant extracellular lipases, in particular Candida ernobii or Yarrowia lipolytica yeasts and the production of said lipases in their recombinant form. This patent has been validated in several European countries, including Italy, France and Great Britain. This patent expires April 28, 2020; and
+
+ 
+  ●
+  PCT/FR2006/001352 patent family (including the patent EP2035556 and patent US8,334,130 and US8,834,867) “Method for producing lipase, transformed Yarrowia lipolytica cell capable of producing said lipase and their uses” describes a method for producing Yarrowia lipolytica acid-resistant recombinant lipase utilizing a culture medium without any products of animal origin or non-characterized mixtures such as tryptone, peptone or lactoserum, in addition to its uses. The European patents expire June 15, 2026, U.S. patent 8,334,130 expires September 11, 2028, and U.S. patent 8,834,867 expires September 15, 2026.
+
+ 
+  B-Lactamase Program
+  
+ To date, we own one patent application covering different compositions, which has been filed in France. This application was filed internationally (“PCT”) on October 13, 2015 as PCT/FR2015/052756 claiming priority to French patent application 1459935 dated October 16, 2014. This application was published as WO/2016/059341 titled “Hybrid Proteinaceous Molecule Capable Of Inhibiting At Least One Antibiotic And Pharmaceutical Composition Containing It.” At present, all PCT contracting states are designated. The term of patent protection available is typically 20 years from the filing date of the earliest international (PCT) application. Patents are territorial rights, meaning that the rights conferred are only applicable in the country or region in which a patent has been filed and granted, in accordance with the law of that country or region. Patent enforcement is only possible after a patent is granted and before the expiration of the patent term. Any patent issuing from PCT/FR2015/052756 will expire on October 13, 2035, unless the patent term is extended pursuant to specific laws of the granting country. We expect to file additional patent applications covering the production process and formulation of AZX1101.
+  
+  Manufacturing
+  
+ MS1819-SD API is obtained by fermentation in bioreactors using our engineered and proprietary Yarrowia lipolytica strain. MS1819-SD is currently manufactured at a contract facility located in Capua, Italy owned by DSM. The proprietary yeast cell line from which the API is derived is kept at a storage facility maintained by Charles River. Because the manufacturing process is fairly straightforward, we believe there are multiple alternative contract manufacturers capable of producing the product we need for clinical trials. The Company is in the process of establishing alternative manufacturers and manufacturing sites for the product; however, there is no guarantee that the processes are easily reproducible and transferrable.
+  
+ 
+   
+-10-
+
+
+
+ 
+ 
+ AZX1101 API and AZX1103 API production are still under development in-house with outside contract manufacturing organizations (CMO’s) producing material for animal work including proof-of-concept and toxicological work. To date, the manufacturing process appears fairly straightforward with multiple options leading us to believe that there are multiple alternative contract manufacturers capable of producing the products we will need for clinical trials however there are no guarantees that the processes will scale up or be considered acceptable for clinical trial use.
+  
+  Competition
+  
+ The pharmaceutical and biotechnology industries are characterized by rapidly evolving technology and intense competition. Many companies of all sizes, including major pharmaceutical companies and specialized biotechnology companies, are engaged in the development and commercialization of therapeutic agents designed for the treatment of the same diseases and disorders that we target. Many of our competitors have substantially greater financial and other resources, larger research and development staff and more experience in the regulatory approval process. Moreover, potential competitors have or may have patents or other rights that conflict with patents covering our technologies.
+  
+ With respect to MS1819-SD, we will compete with PPEs, a well-established market that is currently dominated by a few large pharmaceutical companies, including AbbVie Inc., Johnson & Johnson and Allergan plc. There are currently six PPE products that have been approved by the FDA for sale in the U.S. We believe our ability to compete in this market, if we are successful in developing and obtaining regulatory approval to market MS1819-SD, will depend on our ability (or that of a corporate partner) to convince patients, their physicians, healthcare payors and the medical community of the benefits of using a non-animal based product to treat EPI, as well as by addressing other shortcomings associated with PPEs.
+  
+ With respect to AZX1101 and AZX1103, we are aware of only one beta-lactamase under active development by a U.S. specialty pharmaceutical company for the prevention of c. difficile infection, although the compounds being developed appear to have very limited efficacy to a narrower set of antibiotics rather than the broader group of antibiotics expected to be covered by our compound.
+  
+  Government Regulation and Product Approval
+  
+ Government authorities in the United States, at the federal, state and local level, and other countries extensively regulate, among other things, the research, development, testing, manufacture, quality control, approval, labeling, packaging, storage, record-keeping, promotion, advertising, distribution, post-approval monitoring and reporting, marketing and export and import of products such as those we are developing. To date, our research and development efforts have been conducted in France. We expect to continue to perform substantially all of our basic research activities in France in order to leverage our human capital expertise as well as to avail ourselves of tax credits awarded by the French government to research companies. We expect to continue to conduct early stage development work in France, with late stage development work, including the MS1819-SD Phase IIb study and subsequent Phase III trials in Europe and also in the U.S., as North America is our principal target market for any products that we may successfully develop. 
+ FDA Approval Process
+  
+ In the United States, pharmaceutical products are subject to extensive regulation by the FDA. The Federal Food, Drug, and Cosmetic Act, or the FDC Act, the Public Health Services Act or the PHS Act, and other federal and state statutes and regulations, govern, among other things, the research, development, testing, manufacture, storage, recordkeeping, approval, labeling, promotion and marketing, distribution, post-approval monitoring and reporting, sampling, and import and export of pharmaceutical products. Failure to comply with applicable U.S. requirements may subject a company to a variety of administrative or judicial sanctions, such as FDA refusal to approve pending new drug applications, or NDAs, refusal to approve pending biologic license applications, or BLAs, warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, civil penalties, and criminal prosecution.
+  
+ Pharmaceutical product development in the U.S. typically involves preclinical laboratory and animal tests, the submission to the FDA of either a notice of claimed investigational exemption or an IND, which must become effective before clinical testing may commence, and adequate and well-controlled clinical trials to establish the safety and effectiveness of the drug for each indication for which FDA approval is sought. Satisfaction of FDA pre-market approval requirements typically takes many years and the actual time required may vary substantially based upon the type, complexity, and novelty of the product or disease.
+  
+ 
+   
+-11-
+
+
+
+ 
+ 
+ Preclinical tests include laboratory evaluation of product chemistry, formulation, and toxicity, as well as animal trials to assess the characteristics and potential safety and efficacy of the product. The conduct of the preclinical tests must comply with federal regulations and requirements, including good laboratory practices. The results of preclinical testing are submitted to the FDA as part of an IND along with other information, including information about product chemistry, manufacturing and controls, and a proposed clinical trial protocol. Long term preclinical tests, such as animal tests of reproductive toxicity and carcinogenicity, may continue after the IND is submitted.
+  
+ Clinical trials involve the administration of the investigational new drug to healthy volunteers or patients under the supervision of a qualified investigator. Clinical trials must be conducted: (i) in compliance with federal regulations; (ii) in compliance with good clinical practice, or GCP, an international standard meant to protect the rights and health of patients and to define the roles of clinical trial sponsors, administrators, and monitors; as well as (iii) under protocols detailing the objectives of the trial, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. Each protocol involving testing on U.S. patients and subsequent protocol amendments must be submitted to the FDA as part of the IND.
+  
+ The FDA may order the temporary, or permanent, discontinuation of a clinical trial at any time, or impose other sanctions if it believes that the clinical trial either is not being conducted in accordance with FDA requirements or presents an unacceptable risk to the clinical trial patients. The study protocol and informed consent information for patients in clinical trials must also be submitted to an institutional review board (“IRB”) for approval. An IRB may also require the clinical trial at the site to be halted, either temporarily or permanently, for failure to comply with the IRB’s requirements, or may impose other conditions.
+  
+ Clinical trials to support NDAs or BLAs for marketing approval are typically conducted in three sequential phases, but the phases may overlap. In Phase 1, the initial introduction of the drug into healthy human subjects or patients, the drug is generally tested to assess metabolism, pharmacokinetics, pharmacological actions, side effects associated with increasing doses, and, if possible, early evidence on effectiveness. Phase II usually involves trials in a limited patient population to determine the effectiveness of the drug for a particular indication, dosage tolerance, and optimum dosage, and to identify common adverse effects and safety risks. If a compound demonstrates evidence of effectiveness and an acceptable safety profile in Phase II evaluations, Phase III trials are undertaken to obtain the additional information about clinical efficacy and safety in a larger number of patients, typically at geographically dispersed clinical trial sites, to permit the FDA to evaluate the overall benefit-risk relationship of the drug and to provide adequate information for the labeling of the drug.
+  
+ After completion of the required clinical testing, an NDA is prepared and submitted to the FDA for small molecule drugs, or a BLA is prepared and submitted for biologics. Section 351 of the Public Health Service Act (the “PHS Act”) defines a biological product as a “virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or analogous product… applicable to the prevention, treatment, or cure of a disease or condition of human beings.” Similarly, FDA regulations and policies have established that biological products include blood-derived products, vaccines, in vivo diagnostic allergenic products, immunoglobulin products, products containing cells or microorganisms, and most protein products (including cytokines and enzymes). Biological products subject to the PHS Act also meet the definition of drugs under FDC Act, and therefore are regulated under provisions of both statutes. FDA approval of the NDA or BLA is required before marketing of the product may begin in the U.S. The NDA or BLA must include the results of all preclinical, clinical, and other testing and a compilation of data relating to the product’s pharmacology, chemistry, manufacture, and controls. The cost of preparing and submitting an NDA or a BLA is substantial.
+  
+ Once the submission is accepted for filing, the FDA begins an in-depth review. Priority review can be applied to drugs that the FDA determines offer major advances in treatment or provide a treatment where no adequate therapy exists. The FDA may refer applications for novel drug products, or drug products which present difficult questions of safety or efficacy, to an advisory committee — typically a panel that includes clinicians and other experts — for review, evaluation, and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendation of an advisory committee, but it generally follows such recommendations. Before approving an NDA or BLA, the FDA will typically inspect one, or more, clinical sites to assure compliance with GCP. Additionally, the FDA will inspect the facility or the facilities at which the drug is manufactured. The FDA will not approve the product unless compliance with current good manufacturing practices, or GMP — a quality system regulating manufacturing — is satisfactory and the NDA or BLA contains data that provide substantial evidence that the drug is safe and effective in the indication studied. The issuance of a biologics license is a determination that the product, the manufacturing process, and the manufacturing facilities meet applicable requirements to ensure the continued safety, purity and potency of the biologic product.
+  
+ 
+   
+-12-
+
+
+
+ 
+ 
+ After the FDA evaluates the NDA or BLA and the manufacturing facilities, it issues either an approval letter (with the U.S. license number, in the case of a biologic license) or a complete response letter. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing, or information, in order for the FDA to reconsider the application. If, or when, those deficiencies have been addressed to the FDA’s satisfaction in a resubmission of the NDA or BLA, the FDA will issue an approval letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. As a condition of NDA or BLA approval, the FDA may require a risk evaluation and mitigation strategy (“REMS”), to help ensure that the benefits of the drug outweigh the potential risks. REMS can include medication guides, communication plans for healthcare professionals, and elements to assure safe use (“ETASU”). ETASU can include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring, and the use of patient registries. The requirement for a REMS can materially affect the potential market and profitability of the drug. Moreover, product approval may require substantial post-approval testing and surveillance to monitor the drug’s safety or efficacy. Once granted, product approvals may be withdrawn if compliance with regulatory standards is not maintained or problems are identified following initial marketing.
+  
+  The BPCIA
+  
+ The Biologics Price Competition and Innovation Act (“BPCIA”) was enacted as part of the Affordable Care Act on March 23, 2010. The BPCIA creates an abbreviated licensure pathway for biological products shown to be biosimilar to, or interchangeable with, an FDA-licensed biological reference product. The objectives of the BPCIA are conceptually similar to those of the Hatch-Waxman Act, which established abbreviated pathways for the approval of small molecule drug products under the FDC Act. The implementation of an abbreviated licensure pathway for biological products can present challenges given the scientific and technical complexities that may be associated with the larger and typically more complex structure of biological products, as well as the processes by which such products are manufactured. Most biological products are produced in a living system such as a microorganism, or plant or animal cells, whereas small molecule drugs are typically manufactured through chemical synthesis.
+  
+ A “biosimilar” product is a follow-on version of another biological product for which marketing approval is sought or has been obtained based on a demonstration that it is “biosimilar” to the original reference product. Section 351(k) of the PHS Act, added by the BPCIA, sets forth the requirements for an application for a proposed biosimilar product and an application or a supplement for a proposed interchangeable product. Section 351(i) defines biosimilarity to mean “that the biological product is highly similar to the reference product notwithstanding minor differences in clinically inactive components” and that “there are no clinically meaningful differences between the biological product and the reference product in terms of the safety, purity, and potency of the product.” A 351(k) application must contain, among other things, information demonstrating that the biological product is biosimilar to a reference product based upon data derived from analytical studies, animal studies, and a clinical study or studies, unless the FDA determines, in its discretion, that certain studies are unnecessary. To meet the additional standard of “interchangeability,” an applicant must provide sufficient information to demonstrate biosimilarity, and also to demonstrate that the biological product can be expected to produce the same clinical result as the reference product in any given patient and, if the biological product is administered more than once to an individual, the risk in terms of safety or diminished efficacy of alternating or switching between the use of the biological product and the reference product is not greater than the risk of using the reference product without such alternation or switch. Biosimilar drugs are not generic drugs, which are shown to be the same as the reference product. However, biosimilar products that are also determined to be interchangeable may be substituted for the reference product without the intervention of the prescribing healthcare provider.
+  
+  In many cases, biosimilars may be brought to market without conducting the full suite of clinical trials typically required of originators. The law establishes a period of 12 years of data exclusivity for reference products in order to preserve incentives for future innovation and outlines statutory criteria for science-based biosimilar approval standards that take into account patient safety considerations. Under this framework, data exclusivity protects the data in the innovator’s regulatory application by prohibiting others, for a period of 12 years, from gaining FDA approval based in part on reliance on or reference to the innovator’s data in their application to the FDA. Moreover, a biosimilar applicant cannot file their application until 4 years after the reference biological product was first licensed. The law does not change the duration of patents granted on biologic products but does provide procedures for resolving patent disputes based on a biosimilar application.
+  
+ The FDA maintains lists of biological products, including any biosimilar and interchangeable biological products licensed by the FDA under the PHS Act in a book titled “Lists of Licensed Biological Products with Reference Product Exclusivity and Biosimilarity or Interchangeability Evaluations” (the “Purple Book”). The Purple Book includes the date a biological product was licensed under 351(a) of the PHS Act and whether the FDA evaluated the biological product for reference product exclusivity. If the FDA has determined that a biological product is protected by a period of reference product exclusivity, the list will identify the date of first licensure and the date that reference product exclusivity (including any attached pediatric exclusivity) will expire. The list will not identify periods of orphan exclusivity and their expiration dates for biological products as those dates are available at the searchable database for Orphan Designated and/or Approved Products. The Purple Book also identifies whether a biological product licensed under section 351(k) of the PHS Act has been determined by the FDA to be biosimilar to or interchangeable with a reference biological product. Biosimilar and interchangeable biological products licensed under section 351(k) of the PHS Act are listed under the reference product to which biosimilarity or interchangeability was demonstrated.
+  
+ 
+   
+-13-
+
+
+
+ 
+ 
+  Advertising and Promotion
+  
+ Once an NDA or BLA is approved, a product will be subject to certain post-approval requirements. For instance, the FDA closely regulates the post-approval marketing and promotion of drugs, including standards and regulations for direct-to-consumer advertising, off-label promotion, industry-sponsored scientific and educational activities and promotional activities involving the internet.
+  
+ Drugs may be marketed only for the approved indications and in accordance with the provisions of the approved labeling. Changes to some of the conditions established in an approved application, including changes in indications, labeling, or manufacturing processes or facilities, require submission and FDA approval of a new NDA or BLA or supplement to same, before the change can be implemented. An NDA or BLA supplement for a new indication typically requires clinical data similar to that in the original application, and the FDA uses the same procedures and actions in reviewing NDA and BLA supplements as it does in reviewing NDAs and BLAs.
+  
+  Adverse Event Reporting and GMP Compliance
+  
+ Adverse event reporting and submission of periodic reports is required following FDA approval of an NDA or BLA. The FDA also may require post-marketing testing, known as Phase IV testing, risk minimization action plans, and surveillance to monitor the effects of an approved product, or the FDA may place conditions on an approval that could restrict the distribution or use of the product. In addition, quality-control, drug manufacture, packaging, and labeling procedures must continue to conform to current good manufacturing practices (“cGMPs”) after approval. Drug manufacturers and certain of their subcontractors are required to register their establishments with FDA and certain state agencies. Registration with the FDA subjects entities to periodic unannounced inspections by the FDA, during which the agency inspects manufacturing facilities to assess compliance with cGMPs. Accordingly, manufacturers must continue to expend time, money, and effort in the areas of production and quality-control to maintain compliance with cGMPs. Regulatory authorities may withdraw product approvals or request product recalls if a company fails to comply with regulatory standards, if it encounters problems following initial marketing, or if previously unrecognized problems are subsequently discovered.
+ Pediatric Information
+  
+ Under the Pediatric Research Equity Act (“PREA”), NDAs, BLAs or supplements to the same must contain data to assess the safety and effectiveness of the drug for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the drug is safe and effective. The FDA may grant full or partial waivers, or deferrals, for submission of data. Unless otherwise required by regulation, PREA does not apply to any drug for an indication for which orphan designation has been granted.
+  
+ The Best Pharmaceuticals for Children Act (“BPCA”) provides NDA and BLA holders a six-month extension of any exclusivity — patent or non-patent — for a drug if certain conditions are met. Conditions for exclusivity include the FDA’s determination that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the FDA making a written request for pediatric studies, and the applicant agreeing to perform, and reporting on, the requested studies within the statutory timeframe. Applications under the BPCA are treated as priority applications, with all of the benefits that designation confers. 
+  
+  Foreign Regulatory Issues
+  
+ Sales of pharmaceutical products outside the United States are subject to foreign regulatory requirements that vary widely from country to country. Whether or not FDA approval has been obtained, approval of a product by a comparable regulatory authority of a foreign country must generally be obtained prior to the commencement of marketing in that country. Although the time required to obtain such approval may be longer or shorter than that required for FDA approval, the requirements for FDA approval are among the most detailed in the world.
+ Employees
+  
+ As of December 31, 2018, we had twelve full-time employees, of whom five were employed by AzurRx SAS and located in France and seven were employed by us and located in our offices in Brooklyn, NY, Montclair, NJ, and Hayward, CA.
+ Available Information
+  
+ As a public company, we are required to file our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements on Schedule 14A and other information (including any amendments) with the Securities and Exchange Commission (the “SEC”). The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. You can find our SEC filings at the SEC’s website at http://www.sec.gov.
+  
+ Our Internet address is www.azurrx.com. Information contained on our website is not part of this Annual Report. Our SEC filings (including any amendments) will be made available free of charge on www.azurrx.com, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+  
+ 
+   
+-14-
+
+
+
+ 
+ 

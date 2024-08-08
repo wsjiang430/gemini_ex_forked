@@ -1,0 +1,170 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+------------+----------
+
+Overview
+ 
+Blink Charging Co., through its wholly-owned subsidiaries (collectively, the “Company” or “Blink”), is a leading owner, operator, and provider of electric vehicle (“EV”) charging equipment and networked EV charging services. Blink offers both residential and commercial EV charging equipment, enabling EV drivers to easily recharge at various location types. Blink’s principal line of products and services is its Blink EV charging network (the “Blink Network”) and Blink EV charging equipment, also known as electric vehicle supply equipment (“EVSE”) and EV-related services. The Blink Network is a proprietary cloud-based software that operates, maintains, and tracks the Blink EV charging stations and their associated charging data. The Blink Network provides property owners, managers, and parking companies (“Property Partners”) with cloud-based services that enable the remote monitoring and management of EV charging stations, payment processing, and provides EV drivers with vital station information including station location, availability, and applicable fees. Blink offers its Property Partners a range of business models for EV charging equipment and services. that generally fall into one of the three business models below.
+ 
+● In the Company’s comprehensive turnkey business model, Blink owns and operates the EV charging station, undertakes and manages the installation, maintenance and related services, and Blink keeps substantially all of the EV charging revenue.
+ 
+● In the Company’s Hybrid business model, the Property Partner incurs the installation costs, while Blink provides the charging equipment. Blink operates and manages the EV charging station and provides connectivity of the charging station to the Blink Network. As a result, Blink shares a greater portion of the EV charging revenue with the Property Partner than under the turnkey mode above.
+ 
+● In the Company’s Host owned business model, the Property Partner purchases, owns and manages the Blink EV charging station, incurs the installation costs of the equipment, while Blink provides site recommendations, connectivity to the Blink Network and optional maintenance services, and the Property Partner keeps substantially all of the EV charging revenue.
+ 
+Blink is dedicated to slowing climate change by reducing greenhouse gas emissions caused by transportation.We have strategic partnerships across numerous transit/destination locations, including airports, auto dealers, healthcare/medical, hotels, mixed-use, municipal locations, multifamily residential and condos, parks and recreation areas, parking lots, religious institutions, restaurants, retailers, schools and universities, stadiums, supermarkets, transportation hubs, and workplace locations.
+ 
+As of March 25, 2019, we had approximately 14,583 charging stations deployed, of which, 5,072 were Level 2 commercial charging units, 107 were DC Fast Charging EV chargers and 1,675 were residential charging units in service on the Blink Network. Additionally, as of March 25, 2019, we had approximately 394 Level 2 commercial charging units on other networks and there were also approximately 7,335 non-networked, residential Blink EV charging stations. The non-networked, residential Blink EV charging stations are all host owned.
+ 
+On February 16, 2018, we closed our underwritten public offering of an aggregate 4,353,000 shares of common stock and warrants to purchase 8,706,000 shares of common stock at a combined public offering price of $4.25 per unit comprised of one share and two warrants. The public offering resulted in approximately $18.5 million of gross proceeds, less underwriting discounts and commissions and other offering expenses of approximately $4.4 million, for aggregate net proceeds of approximately $14.9 million. The common stock and warrants were approved to list on the Nasdaq Capital Market under the symbols BLNK and BLNKW, respectively, and began trading on February 14, 2018.
+ 
+Industry Overview
+ 
+We believe that the market for plug-in electric vehicles experienced significant growth in recent years in response to consumer demand for vehicles with greater fuel efficiency, higher performance, and lower environmental emissions. We believe that the demand for EVs has also been spurred in part by federal and state fuel economy standards and other state and local incentives and rebates for EVs. For example, the states of California, Oregon, New York, Maryland, Massachusetts and others have created mandates for EVs with the goal of more than 6.8 million EVs on the road by 2030. Further, there has been a shift in demand from ownership to car-sharing that is expected to boost demand for EV fleets. In response, major auto makers and OEMs have accelerated the development and production of EV models, with more than 70 EV models currently available from Tesla, Nissan, Kia, GM, Ford, Fiat, BMW, Mercedes-Benz, Audi, Volkswagen, Toyota, Mitsubishi, Land Rover, Porsche and others. According to the J.P. Morgan global research, global sales of plug-in electric vehicles are estimated to grow to 8.4 million units, or 7.7% of all vehicles sold, by 2025.
+ 
+Additionally, while oil and gas prices continue to experience spikes and fluctuations, the cost of battery technology continues to fall as the battery industry achieves scale. J.P. Morgan’s research further indicates that as battery production accelerates, production of EV and internal combustion engine technology could reach cost parity, for compact vehicles, by 2020. We believe that cost parity in production will mean more affordable EVs which in turn will mean more EV adoption by consumers. The growth in EV adoption must be met with an expansion of the existing EV charging infrastructure.
+ 
+
+1
+-
+
+ 
+
+It is our belief that a major impediment to EV adoption, by consumers, continues to be the lack of EV charging infrastructure, which is a problem that Blink, the major utilities, and the federal, state, and local government are working to solve. According to Navigant Research, the global market for EV supply equipment is expected to grow from 505,000 units in 2016 to 6,100,000 units in 2025.
+ 
+While many believe that the majority of EV charging occurs at home, we believe that there is a need for a robust, pervasive public EV charging infrastructure is required to eliminate drivers’ range anxiety (that is the worried feeling while driving an electric car caused by drivers thinking they might run out of power before reaching their destination). In addition to providing strategic, public charging stations, we believe that it is necessary to provide EV charging solutions to those drivers that do not live in single-family homes with their own parking but live in multifamily residential apartment buildings and condominiums with shared parking facilities. While there are a few leading competitors and various smaller EV charging equipment or service providers that have emerged in the market, we believe their products and services are limited and typically involve the provision of third-party equipment or utilization of a third-party network.
+ 
+Our EV Charging Solutions
+ 
+We offer a broad range of EV charging products and services to Property Partners and EV drivers.
+ 
+EV Charging Products
+ 
+
+● | Level 2. We offer Level 2 (AC) EV charging equipment, which is ideal for commercial and residential use, and has the standard J1772 connector, which is compatible with all major auto manufacturer electric vehicle models. Our commercial equipment is available in pedestal or wall mount configurations, with the ability to connect to our Blink Network. Our non-networked residential product, Blink HQ, is available in a wall-mount configuration and offers a delay start feature that allows users to optimize charging by utility rates. Level 2 charging stations typically provide a full charge in two to eight hours. Level 2 chargers are ideally suited for low-cost installations and frequently used parking locations, such as workplace, multifamily residential, retail and mixed-use, parking garages, municipalities, colleges/schools, hospitals and airports. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | DCFC. Our DC Fast Charging equipment (“DCFC”) currently has the ‘CHAdeMo’ connector, which is compatible with Nissan, Kia and Tesla electric vehicle models (additional models may be potentially available in the future), and typically provides an 80% charge in less than 30 minutes. Installation of DCFC stations and grid requirements are typically greater than Level 2 charging stations and are ideally suited for transportation hubs and locations between travel destinations. 
+
+ 
+We have enhanced our current equipment line by offering a new generation of EV charging equipment. Blink’s latest generation of EV charging equipment offers a modern, stylish appearance, the versatility of both wall and pedestal configurations, and peer-to-peer architecture, which provides the ability to support a single primary charger and multiple secondary chargers. Additionally, the new generation of our EV charging hardware considerably reduces the current standard charging times within the industry and adds new network features, including near-field communication (NFC) payment capabilities.
+ 
+EV Charging Services
+ 
+
+● | Blink Network. Our proprietary, cloud-based Blink Network allows us to share convenient and advantageous station management features and pertinent data with Property Partners and EV drivers through user interfaces. These features include real-time station status, payment processing, detailed charging session information, and monitoring and troubleshooting stations remotely, as well as standard and customized reporting capabilities on, among others, energy dispensed, greenhouse gases reduced, oil barrels saved and gallons of fuel saved. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Blink Mobile application. Our proprietary mobile application, available for iOS and Android, provides EV drivers with vital station information, including the ability to locate EV charging stations on the Blink Network, view real-time station status information, pay and initiate EV charging sessions, become a Blink member, and manage their Blink account (billing information, radio frequency identification cards, text messaging and email notifications). 
+
+
+2
+-
+
+Competitive Advantages/Operational Strengths
+ 
+Early Mover Advantage. We continue to leverage our large and defendable first mover advantage and the digital customer experience we have created for both drivers and Property Partners. As of December 31, 2018, we have more than 140,000 drivers registered with Blink as compared to approximately 111,000 registered drivers at December 31, 2017.
+
+Long-Term Contracts with Property Owners. We have strategic and often long-term agreements with location exclusivity for Property Partners across numerous transit/destination locations, including airports, car dealers, healthcare/medical, hotels, mixed-use, municipal locations, multifamily residential and condo, parks and recreation areas, parking lots, religious institutions, restaurants, retailers, schools and universities, stadiums, supermarkets, transportation hubs, and workplace locations. We have hundreds of Property Partners that include well-recognized companies, large municipalities and local businesses. Representative examples are Caltrans, Porsche Design Tower, Carl’s Jr., City of Azusa, City of Chula Vista, City of Springfield, City of Tucson, Federal Realty, Fred Meyer Stores, Inc., Fry’s Food & Drug, Inc., Garage Management Company, Icon Parking, IKEA, iPark, JBG Associates, Kroger Company, LAZ Parking, Macy’s, McDonald’s, Ralphs Grocery Company, Sears and SP+ Parking. We continue to establish new contracts with Property Partners that previously secured our services independently or had contracts with the EV service providers that we acquired, including ECOtality, the former owner of the Blink related assets.
+ 
+Flexible Business Model. We are able to offer and sell both EV charging equipment and access to Blink Network, our robust, cloud-based EV charging software. We believe that we have an advantage in our ability to provide various business models to Property Partners and leverage our technology to meet the needs of both Property Partners and EV drivers.
+ 
+Ownership and Control of EV Charging Stations and Services. We own a large percentage of our stations, which is a significant differentiation between us and some of our primary competitors. This ownership model allows us to control the settings and pricing for our EV charging services, service the equipment as necessary, and have greater brand management and price uniformity.
+ 
+Experience with Products and Services of Other EV Charging Service Providers. From our early days and through our acquisitions, we have had the experience of owning and operating EV charging equipment provided by other EV charging service providers, including General Electric, ChargePoint and SemaConnect. This experience has provided us with the working knowledge of the benefits and drawbacks of other equipment manufacturers and their applicable EV charging networks.
+ 
+Our Strategy
+ 
+Our objective is to continue to be a leading provider of EV charging solutions by deploying mass-scale EV charging infrastructure. By doing so, we aim to enable the accelerated growth of EV adoption and the EV industry. Key elements of our strategy include:
+
+● | Relentless Focus on Customer Satisfaction. Increase overall customer satisfaction with new and existing Property Partners and EV drivers by upgrading and expanding the EV charging footprint throughout high demand, high density geographic areas. In addition, improve productivity and utilization of existing EV charging stations, as well as to continue to enhance the valuable features of our EV charging station hardware and the Blink Network. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Leverage Our Early Mover Advantage. We continue to leverage our large and defendable first mover advantage and the digital customer experience we have created for both drivers and Property Partners. We believe that there are tens of thousands of Blink driver registrants that appreciate the value of transacting charging sessions on a leading, established, and robust network experience. We have thousands of Blink chargers deployed across the United States and the tendency, among users, is to stay within one consistent network for expansion on any given property. 
+● | Expand Sales and Marketing Resources. Our intention is to invest in sales and marketing infrastructure to capitalize on the growth in the market, as well as to expand our go-to-market strategy. Today, we use a direct sales force and intend to continue to expand our efforts and invest in a wholesale channel go-to-market strategy that may include wholesale electrical distributors, independent sales agents, utilities, solar distributors, contractors, automotive manufacturers and auto dealers. 
+● | Continue to Invest in Technology Innovation. We will continue to enhance the product offerings available in our EV charging hardware, cloud-based software, and networking capability. This includes the design and launch of our next generation of EV charging solutions, including accelerating the charge currents currently available in EV charging hardware and new, robust Blink Network features distance ourselves from the competition. Our key service solutions allow us to remain technology agnostic and, if market conditions shift, we have the option to leverage pure play hardware providers to augment our products. 
+● | Properly Capitalize Our Business. We continue to pursue and welcome new potential capital sources to deliver on key operational objectives and the necessary resources to execute our overall strategy. The EV charger industry as a whole is undercapitalized to deliver the full potential of the expected EV market growth in the near future. We expect to retain our leadership position with new capital as it is required. 
+
+
+3
+-
+
+Sales
+ 
+We currently maintain an in-house field sales force that maintains business relationships with our Property Partners and develops new sales opportunities through lead generation and marketing. We also sell our EV charging hardware, software services (connectivity to Blink Network), and service plans through reseller partners, which then sell these products and services to property representatives and/or hosts. We also sell home unit chargers through various internet channels.
+ 
+Marketing is performed by our in-house staff. To promote and sell our services to property owners and managers, parking companies and EV drivers, we also utilize marketing and communication channels including press releases, email marketing, website (www.blinkcharging.com), Google AdWords and social media. The information on our websites is not, and will not be deemed, a part of this Report or incorporated into any other filings we make with the SEC.
+ 
+We continue to invest in the improvement of the service and maintenance of our company-owned stations, as well as those stations with a service and maintenance plans, and expanding our cloud-based network capabilities. We anticipate continuing to expand our revenues by selling our next generation of EV charging equipment to current as well as new Property Partners, which includes airports, auto dealers, healthcare/medical, hotels, mixed-use, municipal locations, multifamily residential and condos, parks and recreation areas, parking lots, religious institutions, restaurants, retailers, schools and universities, stadiums, supermarkets, transportation hubs, and workplace locations, expanding our sales channels to wholesale distributors, utilities, auto original equipment manufacturers (“OEMs”), solar integrators, and dealers, which will include implementing EV charging station occupancy fees (after charging is completed, fees for remaining connected to the charging station beyond an allotted grace period), and subscription plans for EV drivers on our company-owned public charging locations.
+ 
+Our revenues are primarily derived from fees charged to EV drivers for EV charging in public locations, EV charging hardware sales, and government grants. EV charging fees to EV drivers are based either on an hourly rate, a per kilowatt-hour (“kWh”) rate, or by session, and are calculated based on a variety of factors, including associated station costs and local electricity tariffs. EV charging hardware is sold to our Property Partners such as Green Commuter, IKEA, Nashville Music Center and Wendy’s. In addition, other sources of fees from EV charging services are network fees and payment processing fees paid by our Property Partners.
+ 
+Our Customers and Partners
+ 
+We have strategic partnerships across numerous transit/destination locations, including airports, auto dealers, healthcare/medical, hotels, mixed-use, municipal locations, multifamily residential and condos, parks and recreation areas, parking lots, religious institutions, restaurants, retailers, schools and universities, stadiums, supermarkets, transportation hubs, and workplace locations. We have hundreds of Property Partners that include well-recognized companies, large municipalities, and local businesses. Representative examples are Caltrans, Porsche Design Tower, City of Azusa, City of Chula Vista, City of Springfield, City of Tucson, Federal Realty, Fred Meyer Stores, Inc., Fry’s Food & Drug, Inc., IKEA, JBG Associates, LLC, Kroger Company and Ralphs Grocery Company. We continue to establish new contracts with Property Partners that previously secured our services independently or had contracts with the EV services providers that we acquired, including ECOtality, the former owner of the Blink related assets.
+ 
+We established a new relationship with Hubject (a joint venture formed by leading companies in the automotive, energy and technology sectors that includes BMW Group, Daimler, Siemens and the Volkswagen Group). Blink’s nationwide network of chargers will become accessible to all EV drivers participating in Hubject’s charging platform using their provider’s membership card and app. Further, our members would be able to quickly and easily access charging stations on Hubject participating networks while driving in the U.S., without having to register with any other charging companies. The partnership’s mission is to provide seamless charging interoperability for all EV drivers participating in Hubject’s international multi-network intercharge platform, dramatically expanding where EVs can charge, as well as facilitate essential two-way telemetric communication between EVs, charging networks and car manufacturers.
+ 
+We teamed up with Google Maps to assist EV drivers in locating charging stations. Google Maps has launched a new capability that brings EV charging stations to its map. As part of this effort, we have worked with the Google Maps team to ensure our charging stations and relevant information about these stations is available to Google Map users on Android, iOS and desktops globally. This is designed so that a quick search for keywords such as “EV charging” or “EV charging stations” will display the nearest supported stations. Additional information such as the business where the station is located, charging speed and the and quantities of ports available will be available directly within the map.
+ 
+
+4
+-
+
+Competition
+ 
+The EV charging equipment and service market is highly competitive and we expect the market to become increasingly competitive as new entrants enter this growing market. Our products and services compete on product performance and features, total cost of ownership, sales capabilities, financial stability, brand recognition, product reliability and size of installed base. Our existing competition currently includes ChargePoint, which manufactures EV charging equipment and operates the ChargePoint Network, and EVgo, which offers home and public charging with pay-as-you-go and subscription models. There are other entrants into the connected EV charging station equipment market such as Clipper Creek, SemaCharge and EVConnect. We believe these additional competitors struggle with gaining the necessary network traction but could gain momentum in the future. While Tesla does offer EV charging services, the connector type utilized currently restricts the chargers to Tesla vehicles. There are many other large and small EV charger companies that offer non-networked or “basic” chargers that have limited customer leverage but could provide a low-cost solution for basic charger needs in commercial and home locations.
+ 
+We believe we have competitive advantages over our competitors, such as our long-term contracts with property owners and managers, and our flexible business model where sell both EV charging stations and provide access to a leading EV charging network. However, many of our current and expected future competitors have considerably greater financial and other resources and may leverage those resources to compete effectively.
+ 
+Government Regulation and Incentives
+ 
+State, regional and local regulations for installation of EV charging stations vary from jurisdiction to jurisdiction and may include permitting requirements, inspection requirements, licensing of contractors, and certifications. Compliance with such regulations may cause installation delays.
+ 
+Currently, we apply charging fees by the kWh for our services in states that permit this policy and hourly and by session for our services in states that do not permit per kWh pricing. California, Colorado, District of Columbia, Florida, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New York, Oregon, Pennsylvania, Utah, Virginia, and Washington have determined that companies that sell EV charging services to the public will not be regulated as utilities, allowing us to charge fees based on kW usage. These individual state determinations are not binding on any other regulator or jurisdiction. However, they demonstrate a trend in the way states view the industry. Other jurisdictions are in the process of adopting such reforms.
+ 
+We intend to continue to vigorously seek additional grants, loans, rebates, subsidies and incentives as a cost effective means of reducing our capital investment in the promotion, purchase and installation of charging stations where applicable. We expect that these incentives, rebates and tax credits will be critical to our future growth. Additionally, there are incentives that are currently offered to support electric car adoption at the federal, state and local levels, including a $7,500 federal income tax credit, and rebates/credits in California, Colorado, Delaware, Louisiana, Massachusetts, New York and Rhode Island.
+ 
+CESQG
+ 
+As a Conditionally Exempt Small Quantity Generator (“CESQG”), we generate a limited quantity of hazardous waste, mostly solvent contaminated wipes that are transported to the local solid waste facility. Scrapped electronic boards are transported to a local recycler. A CESQG of hazardous waste is defined as a generator that:
+
+● | produces no more than 100 kg (220lbs) of hazardous waste per month; 
+--+-----------------------------------------------------------------------------------
+● | produces no more than 1 kg (2.2lbs) of acute hazardous waste per month; 
+● | does not accumulate more than 1000 kg(2204lbs) of hazardous waste on-site; and 
+● | a CESQG has no time limit for accumulation. 
+
+ 
+The use of our machinery and equipment must comply with the following applicable laws and regulations, including safety and environmental regulations:
+ 
+
+● | General Safety for All Employees - Includes health hazard communication, emergency exit plans, electrical safety-related work practices, office safety, and hand and hand-powered tools. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Technicians and Engineers - Only authorized persons (technicians and engineers) perform product testing and repair in the production and engineering areas of the facility. Also, including those engineers involved in field service work. Regulations include control of hazardous energy and personal protective equipment. 
+● | Logisticians - Includes forklift operations, which are performed only by certified shipping/receiving personnel, and material handling and storage. 
+
+ 
+We are in full compliance with the environmental regulations in the General Industry category applicable to us as a CESQG.
+ 
+
+5
+-
+
+OSHA
+ 
+We are subject to the Occupational Safety and Health Act of 1970, as amended (“OSHA”). OSHA establishes certain employer responsibilities, including maintenance of a workplace free of recognized hazards likely to cause death or serious injury, compliance with standards promulgated by the Occupational Safety and Health Administration and various record keeping, disclosure and procedural requirements. Various standards, including standards for notices of hazards, safety in excavation and demolition work and the handling of asbestos, may apply to our operations. We are in full compliance with OSHA regulations.
+NEMA
+ 
+The National Electrical Manufacturers Association (“NEMA”) is the association of electrical equipment and medical imaging manufacturers. NEMA provides a forum for the development of technical standards that are in the best interests of the industry and users, advocacy of industry policies on legislative and regulatory matters, and collection, analysis and dissemination of industry data. All three of our products comply with the NEMA standards that are applicable to such products.
+Intellectual Property
+ 
+We rely on a combination of patent, trademark, copyright, unfair competition and trade secret laws, as well as confidentiality procedures and contractual restrictions, to establish, maintain and protect our proprietary rights. Our success depends in part upon our ability to obtain and maintain proprietary protection for our products, technology and know-how, to operate without infringing the proprietary rights of others, and to prevent others from infringing our proprietary rights.
+ 
+As of March 25, 2019, we had 4 active patents issued in the United States (in the name of Ecotality, Inc., whose assets we acquired in October 2013). These patents relate to various EV charging station designs. We intend to continue to regularly assess opportunities for seeking patent protection for those aspects of our technology, designs and methodologies that we believe provide a meaningful competitive advantage. However, our ability to do so may be limited until we are able to generate cash flow from operations or otherwise raise additional capital to continue to invest in our intellectual property. For example, maintaining patents in the United States and other countries requires the payment of maintenance fees which, if we are unable to pay, may result in loss of our patent rights. If we are unable to do so, our ability to protect our intellectual property or prevent others from infringing our proprietary rights may be impaired.
+ 
+Employees
+ 
+As of March 25, 2019, we had 39 full-time and 9 part-time employees. Our full-time employees work in the following places: 15 employees are located at our headquarters in Miami Beach, Florida, 26 full-time employees and 9 part-time employees are located in Phoenix, Arizona, 1 full-time employee is located in Los Gatos, California, 2 full-time employees located in the greater Los Angeles, California area, 2 full-time employees are located in New York City, New York and 1 full-time employee is located in Portland, Oregon. None of our employees are represented by a union or covered by a collective bargaining agreement. We have not experienced any work stoppages and we consider our relationship with our employees to be good.
+Corporate Information
+ 
+We maintain our principal offices at 407 Lincoln Road, Suite 704, Miami Beach, Florida 33139. Our telephone number is (305) 521-0200. Our website is www.blinkcharging.com. We can be contacted by email at info@BlinkCharging.com. The information on our website is not, and will not be deemed, a part of this Report or incorporated into any other filings we make with the SEC.

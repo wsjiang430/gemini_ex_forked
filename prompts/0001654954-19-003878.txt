@@ -1,0 +1,339 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ ITEM 1 – BUSINESS
+  
+  Overview
+  
+ As used in the Annual Report on Form 10-K, the terms “we,” “us,” “our,” "Zoom” and the “Company” mean Zoom Telephonics, Inc. and its wholly owned subsidiary MTRLC LLC.
+  
+              Zoom Telephonics designs, produces, markets, sells, and supports Internet access and other communications-related products including cable modems and gateways, mobile broadband modems, wireless routers, Multimedia over Coax (“MoCA”) adapters, Digital Subscriber Line (“DSL”) modems, and dial-up modems. Our primary objective is to build upon our position as a leading producer of Internet access devices sold through sales channels that include many of the largest United States (“USA” or “US”) high-volume electronics retailers, and to take advantage of a number of trends in communications including higher data rates, increasing use of wireless technology for transmission of data, and increasing use of smartphones, tablets, and streaming media.
+  
+ Cable modem products, including both cable modems and cable gateways, were Zoom’s highest revenue product category in 2015 through 2018. Cable modems provide a high-bandwidth connection to the Internet through a cable that connects to the cable service provider’s managed broadband network. When a cable modem also includes a built-in WiFi router, it is called a cable modem/router or cable gateway. We began shipping cable modems in 2000. Our primary means of distribution to end-users in the US, our primary market, is through national retailers and distributors. Beginning in 2016 we started offering cable modems and modem/router “gateways” under the Motorola brand. In response to demand for faster connection speeds and increased functionality including improved WiFi performance and faster Internet speeds, we have invested and continue to invest resources to advance our cable modem product line.
+  
+ Our mobile broadband products provide or use a cell-modem connection to the Internet, communicating through a mobile service provider’s mobile broadband network. These products target both the consumer and machine-to-machine (“M2M”) markets. Zoom has sold mobile broadband modems in the past, and Zoom plans to continue to expand its line of mobile broadband products.
+  
+ Our DSL modems provide a high-bandwidth connection to the Internet through a telephone line that typically connects to compatible DSL equipment that is managed by the DSL service provider. In past years Zoom has shipped Asymmetrical DSL (“ADSL”) modems. Zoom began shipping a DSL AC1600 modem/router with both Very high bit-rate DSL (“VDSL”) and ADSL capabilities during the first half of 2018.
+  
+ Our dial-up modems connect personal computers and other devices to the local telephone line for transmission of data, fax, voice, and other information. Our dial-up modems enable personal computers and other devices to connect to other computers and networks, including the Internet, at top data speeds up to 56,000 bits per second. Zoom’s sales of dial-up modems, our largest source of revenues from the mid-eighties through 2010, have declined significantly and are expected to continue their decline due to the ongoing adoption of broadband access.
+  
+ In August 2016 we extended our Motorola license to a worldwide exclusive license that includes cable modems and gateways, WiFi routers, WiFi range extenders, powerline communication devices, and related products. In August 2017 we further extended our Motorola license to a worldwide exclusive license for DSL modems and gateways, cellular modems and gateways, and MoCA products, and to a worldwide non-exclusive license for cellular sensors. We introduced under the Motorola brand two WiFi routers, one range extender, and one MoCA Adapter in 2017. In 2018 we introduced into the retail market under the Motorola brand two WiFi routers and a DSL modem/router. We plan to continue to introduce products in these categories including mesh routers, cellular modems and modem/routers, and cellular sensors.
+  
+ We are incorporated in Delaware under the name Zoom Telephonics, Inc.  Zoom Telephonics, Inc. was originally incorporated in New York in 1977 and changed its state of incorporation to Delaware in 1993. MTRLC LLC, a wholly owned subsidiary of Zoom Telephonics, Inc., is a limited liability company organized in Delaware that focuses on the sale of our Motorola brand products. Our principal executive offices are located at 99 High Street, Boston, MA 02110, and our telephone number is (617) 423-1072. Our Web site is at www.zoomtel.com. Information contained on our web site does not constitute part of this prospectus. Our common stock is traded on the Over-The-Counter market (“OTCQB”) under the symbol ZMTP.
+  
+  Available Information
+ 
+ Our Internet website address is www.zoomtel.com. Through our website we make available, free of charge, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. These SEC reports can be accessed through the investor relations section of our website and at the SEC’s web site.
+  
+   
+ 
+1
+
+
+  
+ 
+  Products
+  
+  General
+  
+ The vast majority of our products involve communication of data through the Internet. Our cable modems connect to the cable-TV cable and our DSL modems connect to the local telephone line to provide a high-speed link to the Internet. Our mobile broadband modems and our coming mobile broadband routers and sensors connect to the Internet through a mobile service provider’s mobile broadband cellular network.  Our dial-up modems link computers, point-of-purchase terminals, or other devices to each other or the Internet through the traditional telephone network. Our router products may communicate with a broadband modem for access to the Internet, and they may also be used for local area network communications.  Our planned sensor products will connect sensors to users’ smartphones and Web browsers via a mobile broadband connection to the Internet.
+ Cable Modems
+  
+ We have obtained CableLabs® certification for our currently marketed cable modems, and these cable modems have also received a number of cable service provider certifications. The lengthy, expensive, and technically challenging certification process has been and continues to be a significant barrier to cable modem market entry.
+  
+ Zoom sells cable modems to end-users through retailers and cable service providers. While sales through the retail channel have been significant, they have been handicapped by the fact that all cable service providers offer cable modems directly with their service. Zoom will continue its cable modem sales focus on retailers, and plans to direct significant efforts toward selling to cable service providers.
+  
+ During 2015 Zoom’s cable modem revenues were primarily from four types of Zoom brand cable modems, all supporting Data Over Cable Service Interface Specification (“DOCSIS”) 3.0 with either 16 or 8 downstream channels and 4 upstream channels (“16x4” or “8x4”). One product was an 8x4 cable modem bridge, one was a 16x4 cable modem bridge, one was an 8x4 cable modem gateway that included an N300 wireless-N router, and one was an 8x4 cable modem gateway that included an 802.11ac (“wireless-AC”) AC1900 router. Zoom continues to sell a small quantity of Zoom brand cable modems, but Zoom’s primary cable modem sales from 2016 through 2018 were of Motorola brand cable modem products.
+  
+ In May 2015, Zoom entered into an agreement to license certain Motorola trademarks from Motorola Trademark Holdings, LLC (“Motorola”) for cable modem products. From January 1, 2016 through December 31, 2020 we are authorized to manufacture, sell and market consumer cable modem products through certain authorized sales channels using the Motorola trademarks. The agreement includes numerous requirements intended to assure the quality and reputation of Motorola brand products. In January 2016 Zoom, through its MTRLC LLC subsidiary which was formed on October 6, 2015, began shipping cable modems under the Motorola brand. Zoom will also continue to ship Zoom brand cable modems, but these will be distinctly different from our Motorola brand cable modem products. In August 2016, Zoom entered into an amendment to the license agreement with Motorola. The amendment expands Zoom’s exclusive license to use the Motorola trademark to a wide range of authorized channels worldwide, and expands the license from cable modems and gateways to also include consumer routers, WiFi range extenders, home powerline network adapters, and related products. In August 2017, we further extended our Motorola license to a worldwide exclusive license for DSL modems and gateways, cellular modems and gateways, and MoCA products, and to a worldwide non-exclusive license for cellular sensors. We introduced under the Motorola brand three WiFi routers, one range extender, one MoCA Adapter, and one DSL modem/router in 2017 and 2018. Zoom plans to extend this product line, adding mesh routers and range extenders, cellular sensors, and new MoCA adapters.
+  
+ Zoom currently ships ten Motorola brand cable modem products. The least expensive product in this line is an 8x4 DOCSIS 3.0 cable modem, and the most expensive is a cable gateway that includes a 24x8 DOCSIS 3.0 cable modem, an AC1900 WiFi router with Power Boost, and two telephone lines. Zoom’s product line includes a 24x8 cable modem and a DOCSIS 3.1 cable modem. In the future Zoom plans to extend its DOCSIS 3.1 product line, adding high-performance modem/routers including mesh routers.
+  
+  DSL Modems
+  
+ Our DSL modems have incorporated the ADSL standards that are currently most popular worldwide. During the first half of 2018 Zoom began shipping a VDSL/ADSL AC1600 gateway product.
+  
+ 
+   
+ 
+2
+
+
+  
+ 
+  Mobile Broadband Modems and Routers
+  
+ During the second half of 2009 Zoom began shipping its first mobile broadband or “cellular” products, mobile broadband USB modems and wireless-N routers. In 2017 Zoom introduced a new line of USB cellular modems, and Zoom’s line now includes LTE cell modems certified by AT&T and Verizon. Zoom plans to expand its line to include faster cellular modems including LTE Category 4, or Cat4, cell modems and, at some point, 5G cellular modems. Zoom also plans to introduce cellular modem/routers, including one with wireless technology to support sensors and other IoT (Internet of Things) products.
+  
+  Dial-Up Modems
+  
+ We have a line of external Serial and USB dial-up modems with data speeds up to 56,000 bps. These modems are typically designed to work with almost any terminal or computer, and to work with many computer operating systems including Windows, Apple, Linux, and others. We sell and market dial-up modems under the Zoom® and Hayes® brands, occasionally bulk packed for some OEM and high-volume accounts.
+  
+  Local Area Network Products
+  
+ In 2017 Zoom began shipping its first Motorola brand local area network products including a Motorola AC1900 router, a Motorola AC1700 router, a Motorola AC2600 router, a Motorola AC1200 range extender, and a Motorola Bonded 2.0 MoCA Adapter. When plugged into a cable modem or other broadband modem, WiFi routers provide shared Internet access for WiFi and Ethernet devices. A range extender is typically used to extend the WiFi coverage of a router. A MoCA Adapter provides an Ethernet connection over coaxial cable between a MoCA-capable router and an HDTV, PC, or other device connected to the MoCA Adapter. Zoom plans to sell its Motorola brand Local Area Network products in the US and internationally.
+ Mobile Broadband Sensors
+  
+  In 2019 Zoom plans to introduce a line of sensor products that communicate sensor data via a built-in cellular modem through the Internet to a smartphone or browser-enabled device. This cellular approach typically makes these sensors easier to install than a sensor that requires a router and a broadband connection. This approach can be teamed up with a very low cost data plan, since the amount of data being transmitted is low. Zoom’s first product is a multi-sensor that senses temperature, humidity, earthquake and other vibration, motion, water, light, and power loss. Zoom believes that there is significant potential for cellular sensor products, but that there are significant risks including risk relating to delays in finishing these products and risks from competitors.
+Products for Markets outside North America
+  
+ Products for countries outside the US typically differ from a similar product for the US due to different regulatory and certification requirements, country-specific phone jacks and AC power adapters, and language-related specifics. As a result, the introduction of new products into markets outside North America can be costly and time-consuming. In 1993 we introduced our first dial-up modem approved for selected Western European countries. Since then we have sold our products into a number of markets outside North America. We have received regulatory certifications for, and are currently selling our products in a number of countries, including the US, the United Kingdom (“UK”), and Canada. We intend to continue to expand and enhance our product line for our existing markets and to seek certifications for the sale of new products outside the US. Most importantly for sales outside the US, we hope to sell Motorola brand local area network products in the UK, Canada, Latin America, and other regions. The vast majority of our sales were in North America from 2015 through 2018 due to the fact that the US is by far the largest market for cable modems sold through retailers. We expect the US to continue to account for most of our sales. However, we expect significant growth outside North America due to our worldwide Motorola license for a number of local area network products, DSL products, and cellular products.
+ Sales Channels
+  
+  General
+  
+ We sell our products primarily through high-volume retailers and distributors, Internet service providers, service providers, value-added resellers, PC system integrators, and Original Equipment Manufacturers ("OEMs"). We support our major accounts in their efforts to discern strategic directions in the market, to maintain appropriate inventory levels, and to offer a balanced selection of attractive products.
+  
+ Relatively few companies account for a substantial portion of the Company’s revenues.  In 2018 two companies accounted for 10% or greater individually, and 78% in the aggregate of the Company’s total net sales. At December 31, 2018, four companies with an accounts receivable balance of 10% or greater individually accounted for a combined 79% of the Company’s accounts receivable. In 2017 three companies accounted for 10% or greater individually, and 90% in the aggregate of the Company’s total net sales. At December 31, 2017 three companies with an accounts receivable balance of 10% or greater individually accounted for a combined 84% of the Company’s accounts receivable.
+  
+   
+ 
+3
+
+
+  
+ 
+ 
+  Distributors and Retailers outside North America
+  
+ In markets outside North America we sell and ship our products primarily to distributors. We believe that sales growth outside North America will continue to require substantial additional investments of resources for product design and testing, regulatory certifications, native-language instruction manuals and software, packaging, sales support, and technical support. We have made this investment in the past for many countries, and we expect to make this investment for some countries and products in the future.   However, we anticipate that the majority of sales in the next two years will come from North America, partly because the US is one of the few countries with a robust retail cable modem market due to Federal regulations in the US. As we expand beyond cable modems and put more emphasis on service providers, the proportion of our sales from countries outside the US should increase.
+  
+ In 2016 we announced a master distributor agreement with T&W, a Chinese manufacturer and our primary supplier, whereby T&W will be the master distributor for some of our Motorola brand product categories in China. We hope to have similar agreements for some other countries, but there is no guarantee that we will have such agreements. We have distributors in several countries, and we hope to add other distributors outside North America. We also hope that over time our sales to service providers outside the US will increase.
+  
+  North American High-volume Retailers and Distributors
+  
+ In North America we reach the retail market primarily through high-volume retailers. Our North American retailers include Best Buy, Micro Center, Target, Wal-Mart, Fry’s, and others including Amazon and other Web-focused retailers.
+  
+ We sell significant quantities of our products through distributors, who often sell to corporate accounts, retailers, service providers, value-added resellers, equipment manufacturers, and other customers. Our North American distributors include D&H Distributing and Ingram Micro.
+  
+  Internet and Telephone Service Providers
+  
+ In past years our sales have included DSL modems sold to DSL service providers in the US and in some other countries. We plan to continue selling to and supporting these customers. In addition, we expect to increase our sales of cable modem and mobile broadband products to service providers.
+ System Integrators and Original Equipment Manufacturers
+  
+ Our system integrator and OEM customers sell our products under their own name or incorporate our products as a component of their systems. We seek to be responsive to the needs of these customers by providing on-time delivery of high-quality, reliable, cost-effective products with strong engineering and sales support. We believe that our cell modems are particularly appropriate for future sales to system integrator and OEM customers.
+ Sales, Marketing & Support
+  
+ Our sales, marketing, and support are primarily managed from our headquarters in Boston, Massachusetts. In North America we sell our Zoom, Motorola, Hayes, and private-label dial-up modem products through Zoom's sales force and through commissioned independent sales representatives managed and supported by our own staff. Most service providers have been serviced by Zoom's sales force, but we expect an increasing share of our service provider business to come from distibutors who sell to service providers. Worldwide technical support is primarily handled from our Boston headquarters.
+  
+ We believe that Motorola, Zoom, and Hayes are widely recognized brand names. We build upon our brand equity in a variety of ways, including Amazon advertising, Google Adwords advertising, Facebook advertising, retailer cooperative advertising, product packaging, trade shows, and public relations.
+  
+ We attempt to develop quality products that are user-friendly and that require minimal support. We typically support our claims of quality with product warranties of one to two years, depending upon the product. To address the needs of end-users and resellers who require assistance, we have our own staff of technical support specialists.  They provide telephone support six days per week in English and Spanish. Our technical support specialists also maintain a significant Internet support facility that includes email, firmware and software downloads, and the SmartFacts™ Q&A search engine.
+  
+ 
+   
+ 
+4
+
+
+  
+ 
+  Research & Development
+  
+ Our research and development efforts are focused on developing new products, enhancing the capabilities of existing products, and reducing production costs. We have developed close collaborative relationships with certain of our Original Design Manufacturer (“ODM”) suppliers and component suppliers. We work with these partners and other sources to identify and respond to emerging technologies and market trends by developing products that address these trends. We also develop all the hardware and firmware for certain products in-house, including some cellular modems and some future cellular sensors.
+  
+ The Company’s costs on research and development were $1.8 million for 2018 and $1.9 million for 2017. The primary reason for the decline in research and development costs was reduced new product certification and testing costs. As of December 31, 2018 we had eleven employees engaged primarily in research and development. Our research and development team performs electronics hardware design and layout, mechanical design, prototype construction and testing, component specification, firmware and software development, product testing, foreign and domestic regulatory certification efforts, end-user and internal documentation, and third-party software selection and testing.
+  
+  Manufacturing & Suppliers
+  
+ Our products are currently designed for high-volume automated assembly to help assure reduced costs, rapid market entry, short lead times, and reliability. High-volume assembly typically occurs in China or Taiwan. Our contract manufacturers and original design manufacturers typically obtain some or all of the material required to assemble the products based upon a Zoom Telephonics Approved Vendor List and Parts List. Our manufacturers typically insert parts onto the printed circuit board, with most parts automatically inserted by machine, solder the circuit board, and test the completed assemblies. The contract manufacturer sometimes performs final packaging. For the US and many other markets, packaging is often performed at our facilities in North America, allowing us to tailor the packaging and its contents for our customers immediately before shipping. This facility also performs warehousing, shipping, quality control, finishing and some software updates from time to time. We also perform circuit design, circuit board layout, and strategic component sourcing at our Boston headquarters. Wherever the product is built, our quality systems are used to help assure that the product meets our specifications.
+  
+ Our North American facility is currently located in Tijuana, Mexico. From time to time we experience certain challenges associated with the Tijuana facility, specifically relating to bringing products across the border between the US and Mexico. We believe that this facility assists us in cost-effectively providing rapid response to the needs of our US customers.
+  
+ Historically we have used one primary manufacturer for a given design. We sometimes maintain back-up production tooling at a second manufacturer for our highest-volume products. Our manufacturers are normally adequate to meet reasonable and properly planned production needs; but a fire, natural calamity, strike, financial problem, or other significant event at an assembler's facility could adversely affect our shipments and revenues. In 2018, one supplier provided 99% of our purchased inventory. The loss of a key supplier, or a material adverse change in a key supplier’s business or in our relationship with a key supplier, could materially and adversely harm our business.
+  
+ Our products include a large number of parts, most of which are available from multiple sources with varying lead times. However, most of our products include a sole-sourced chipset as the most critical component of the product. The vast majority of our cable and DSL modem chipsets come exclusively from Broadcom. Most of our cellular products include a Gemalto module. Our dial-up modem chipsets come exclusively from Conexant. Serious problems at Broadcom, including long chipset lead-times, would significantly reduce Zoom’s shipments.
+  
+ We have experienced delays in receiving shipments of essential integrated circuits in the past, and we may experience such delays in the future. Moreover, we cannot assure that a chipset supplier will, in the future, sell chipsets to us in quantities sufficient to meet our needs or that we will purchase the specified dollar amount of products necessary to receive concessions and incentives from a chipset supplier. An interruption in a chipset supplier's ability to deliver chipsets, a failure of our suppliers to produce chipset enhancements or new chipsets on a timely basis and at competitive prices, a material increase in the price of the chipsets, our failure to purchase a specified dollar amount of products or any other adverse change in our relationship with modem component suppliers could have a material adverse effect on our results of operations.
+  
+ We are also subject to price fluctuations in our cost of goods. Our costs may increase if component shortages develop, lead-times stretch out, fuel costs rise, or significant delays develop due to labor-related issues.
+  
+ We are also subject to the Restriction of Hazardous Substances Directive (“RoHS”) and Consumer Electronics Control (“CEC”) rules discussed above, which affect component sourcing, product manufacturing, sales, and marketing.
+  
+   
+ 
+5
+
+
+  
+ 
+ From September 24, 2018 through the date of this report, almost 100% of our products have been subject to a 10% tariff because they are produced in China and they are in product categories subject to a 10% tariff on our cost of goods at the time of entry into the US. This has a significant impact on our cost of inventory and profitability. Because these tariffs may not be reduced and may even be increased, we are actively working on finding production capability outside China. Our largest supplier is actively working on setting up a major production capability in Vietnam, but we do not expect that to affect us until approximately the third quarter of 2019.
+  
+  Competition
+  
+ The Internet access and networking industries are intensely competitive and characterized by aggressive pricing practices, continually changing customer demand patterns, rapid technological advances, and emerging industry standards. These characteristics result in frequent introductions of new products with added capabilities and features, and continuous improvements in the relative functionality and price of modems and other communications products. Our operating results and our ability to compete could be adversely affected if we are unable to:
+  
+  ●
+successfully and accurately anticipate customer demand;
+
+ 
+  ●
+manage our product transitions, inventory levels, and manufacturing processes efficiently;
+
+ 
+         ●
+distribute or introduce our products quickly in response to customer demand and technological advances;
+
+ 
+  ●
+differentiate our products from those of our competitors; or
+
+ 
+  ●
+otherwise compete successfully in the markets for our products.
+
+ 
+ Some of our primary competitors by product group include the following:
+  
+    ●
+ Cable modem competitors: Arris, Belkin/Linksys, D-Link, Hon Hai Network Systems (formerly Ambit Microsystems), Netgear, Sagemcom, SMC Networks, Technicolor, TP-Link and Ubee Interactive.
+
+ 
+    ●
+  Dial-up modem competitors: Hiro, Lite-On, Multitech, and US Robotics.
+
+ 
+  ●
+ DSL modem competitors: Arris, Actiontec, Asus, Aztech, Belkin / Linksys, D-Link, Huawei, Netgear, Sagemcom (formerly Sagem), Technicolor, TP-Link, Xavi, and ZyXEL Communications.
+
+ 
+    ●
+  Mobile broadband competitors: Cradlepoint, D-Link, Huawei, Inseego, Multitech, Netcomm Wireless, Netgear, Nimbelink, Option, Sierra Wireless, and ZTE.
+
+ 
+    ●
+  Networking competitors: Amped, Apple, Asus, Belkin/Linksys, D-Link, Eero, Google, Netgear, Securifi, Tenda, TP-Link, Trendnet, and Ubiquiti.
+
+ 
+ Many of our competitors and potential competitors have more extensive financial, engineering, product development, manufacturing, and marketing resources than we do.
+  
+ The principal competitive factors in our industry include the following:
+  
+  
+● product performance, features, reliability and quality of service;
+
+ 
+  
+● price;
+
+ 
+  
+● brand image;
+
+ 
+  
+● product availability and lead times;
+
+ 
+  
+● size and stability of operations;
+
+ 
+  
+● breadth of product line;
+
+ 
+  
+● sales and distribution capability, including retailer and distributor relationships;
+
+ 
+   
+ 
+6
+
+
+  
+ 
+ 
+ 
+  
+● technical support and service;
+
+ 
+  
+● product documentation and product warranties;
+
+ 
+  
+● relationships with providers of broadband access services; and
+
+ 
+  
+● certifications evidencing compliance with various requirements.
+
+ 
+ We believe we are able to provide a competitive mix of the above factors for our products, particularly when they are sold through retailers, computer product distributors, small to medium sized Internet service providers, and system integrators. We have been less successful in selling directly to large telephone companies and other large providers of broadband access services.
+  
+ Successfully penetrating the broadband modem market presents a number of challenges, including:
+  
+    ●
+  the current limited retail market for broadband modems, as most consumer broadband users get their modem from their service provider;
+
+ 
+    ●
+  the relatively small number of cable, telecommunications and Internet service providers that make up the majority of the market for broadband modems in the USA, our largest market;
+
+ 
+    ●
+  the significant bargaining power and market dominance of these large service providers;
+
+ 
+    ●
+  the time-consuming, expensive and uncertain certification processes of the various cable, DSL and mobile broadband service providers; and
+
+ 
+    ●
+  the strong relationships with service providers enjoyed by some incumbent equipment providers, including ARRIS for cable modems and Huawei for DSL and mobile broadband modems.
+
+ 
+  Intellectual Property Rights
+  
+ We rely primarily on a combination of copyrights, trademarks, trade secrets and patents to protect our proprietary rights. We have trademarks and copyrights for our firmware (software on a chip), printed circuit board artwork, instructions, packaging, and literature. We also have three active patents that expire between years 2020 and 2031. We cannot assure that any patent application will be granted or that any patent obtained will provide protection or be of commercial benefit to us, or that the validity of a patent will not be challenged. Moreover, we cannot assure that our means of protecting our proprietary rights will be adequate or that our competitors will not independently develop comparable or superior technologies.
+  
+ We license certain technologies used in our products, typically rights to bundled software, on a non-exclusive basis. In addition we purchase chipsets that incorporate sophisticated technology. We have received, and may receive in the future, infringement claims from third parties relating to our products and technologies. We investigate the validity of these claims and, if we believe the claims have merit, we respond through licensing or other appropriate actions. Certain of these past claims have related to technology included in modem chipsets. We forwarded these claims to the appropriate vendor. If we or our component manufacturers were unable to license necessary technology on a cost-effective basis, we could be prohibited from marketing products containing that technology, incur substantial costs in redesigning products incorporating that technology, or incur substantial costs defending any legal action taken against it. Where possible we attempt to receive patent indemnification from chipset suppliers and other appropriate suppliers, but the extent of this coverage varies and enforcement of this indemnification may be difficult and costly.
+  
+ In May 2015 we entered into an agreement to license certain Motorola® brand trademarks for consumer cable modem products in the US and Canada through certain authorized sales channels using such trademarks beginning January 1, 2016 through December 31, 2020. In August 2016 Zoom entered into an amendment to the License Agreement with Motorola Mobility LLC (the “2016 Amendment”).  The 2016 Amendment expands Zoom’s exclusive license to use the Motorola trademark to a wide range of authorized channels worldwide, and expands the license from cable modems and gateways to also include consumer routers, WiFi range extenders, home powerline network adapters, and access points. In August 2017 Zoom entered into an amendment to the License Agreement with Motorola Mobility LLC (the “2017 Amendment”).  The 2017 Amendment expands Zoom’s exclusive license to use the Motorola trademark to a wide range of authorized channels worldwide, and expands the license from cable modems, gateways, consumer routers, WiFi range extenders, home powerline network adapters, and access points to also include MoCa adapters, and cellular sensors.
+  
+ 
+   
+ 
+7
+
+
+  
+ 
+  Backlog
+  
+ Our backlog on February 28, 2019 was $136 thousand, and on February 28, 2018 was $428 thousand. Orders included in backlog may be canceled or rescheduled by customers without significant penalty. Backlog as of any particular date should not be relied upon as indicative of our net sales for any future period.
+ Employees
+  
+ As of February 28, 2019, Zoom had thirty-three full-time and part-time employees. Eleven employees were engaged in research and development and quality control. Four employees were involved in operations, which manages production, inventory, purchasing, warehousing, freight, invoicing, shipping, collections, and returns. Eleven employees were engaged in sales, marketing, and customer support. The remaining seven employees performed executive, accounting, administrative, and management information systems functions. Zoom currently has twenty-nine full-time employees and three employees working less than 5 days per week, typically 4 days per week. Our dedicated personnel in Tijuana, Mexico are employees of our Mexican service provider and not included in our headcount. On February 28, 2019, Zoom had two consultants, one in sales and one in information systems, who are not included in our headcount.
+ Executive Officers
+  
+ The names and biographical information of our current executive officers are set forth below:
+  
+ 
+Name | Age | Position with Zoom 
+------------------+-----+---------------------------------------------------------------------------------
+Frank B. Manning | 70 | Chief Executive Officer, Acting Chief Financial Officer, & Chairman of the Board
+Joseph L. Wytanis | 59 | President & Chief Operating Officer 
+Terry Manning | 67 | Vice President of Sales and Marketing 
+Deena Randall | 65 | Vice President of Operations 
+
+
+ 
+ Frank B. Manning is a co-founder of our company. Mr. Manning has been our chief executive officer and a Director since May 1977, and served as our president from 1977 through 2018. He has served as our chairman of the board since 1986. He earned his BS, MS and PhD degrees in Electrical Engineering from the Massachusetts Institute of Technology, where he was a National Science Foundation Fellow. From 1998 through late 2006 Mr. Manning was also a director of the Massachusetts Technology Development Corporation, a public purpose venture capital firm that invests in seed and early-stage technology companies in Massachusetts. Mr. Manning is the brother of Terry Manning, our vice president of sales and marketing. From 1999 to 2005 Mr. Frank Manning was a Director of Intermute, a company that Zoom co-founded and that was sold to Trend Micro Inc., a subsidiary of Trend Micro Japan. Mr. Manning was a Director of Unity Business Networks, a hosted VoIP service provider, from Zoom's investment in July 2007 until Unity’s acquisition in October 2009. From its inception until November 2010 Mr. Manning was also a director of Zoom Technologies, Inc. Mr. Manning’s extensive experience as our CEO and President for many years, as well as his overall experience and professional skills in electronics and business, enable him to capably serve multiple roles at Zoom including Chief Executive Officer, Acting Chief Financial Officer, and Chairman of Zoom’s Board of Directors.
+  
+ Joseph L. Wytanis joined us in 2018 as a high technology senior level executive with extensive experience in consumer electronic and communication companies. Prior to joining Zoom, he served as Senior Practice Engagement Partner at Infosys Limited from March 2018, where he provided engineering services consulting to cable, mobile and satellite service operators and has also served as a Principal at High Tech Associates, LLC since August 2011, where he provided consulting services relating to vision, strategy, business development and marketing. Mr. Wytanis served as Executive Vice President and Chief Operating Officer at SMC Networks, Inc. from January 2012 through August 2014, where he successfully led the introduction of a complete line of cable home networking products and smart home IoT products. He previously served as a Vice President and General Manager at Scientific-Atlanta/Cisco System, Inc. from 2000 through 2011, where he helped to grow the Cable Home Networking Business Unit froma start-up to a profitable business, and prior to that held marketing, business and strategy positions with Panasonic, BellSouth, NCR/AT&T, Northern Telecom and the Associated Press. Mr. Wytanis earned a BS in Business Administration/Marketing from Rowan University and an MBA from the University of Georgia, Terry College of Business.
+  
+ Terry J. Manning joined us in 1984 and served as corporate communications director from 1984 until 1989, when he became the director of sales and marketing. Terry Manning is Frank Manning's brother. Terry Manning earned his BA degree from Washington University in St. Louis in 1974 and his MPPA degree from the University of Missouri at St. Louis in 1977.
+  
+ Deena Randall joined us in 1977 as our first employee. Ms. Randall has served in various senior positions within our organization and has directed our operations since 1989. Ms. Randall earned her BA degree from Eastern Nazarene College in 1975.
+  
+   
+ 
+8
+
+
+  
+ 
+  

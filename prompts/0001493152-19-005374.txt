@@ -1,0 +1,51 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+------------+---------
+
+ 
+The Company was incorporated on January 21, 2016, as Forex Development Corporation, under the laws of the State of Delaware. On February 27, 2018, the Company changed its name to FDCTech, Inc. The name change reflects the Company’s commitment to expanding its products and services in the FX, and cryptocurrency markets for OTC brokers. The Company provides innovative and cost-efficient financial technology (‘fintech’) and business solution to OTC Online Brokerages and cryptocurrency businesses (“customers”).
+ 
+Company’s products are designed to provide a complete solution for all operating aspects of customer’s business including but not limited to trading terminal, back office, customer relationship management, and risk management systems. The Company provides business and management consulting which include management consulting, and the development of customers’ B2B sales and marketing divisions. The Company provides turnkey business solutions to entrepreneurs and other non-broker entities seeking to enter FX, cryptocurrency, and other OTC markets. The Company takes on customized software development projects specific to meet the needs of its customers. The Company also act as a general technical support provider for customers and other fintech companies.
+ 
+The Company’s business solutions allow its customers to run their overall business better, increase trading revenues, cut operating costs, and enable them to anticipate market challenges using our proprietary based processes, state-of-the-art technologies, risk management tools, customized software development, and turnkey prime-of-prime business solution.
+ 
+We are a development company in the financial technology sector with limited operations. The Company has prepared consolidated financial statements on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of business.
+ 
+At present, the Company does not have any patents or trademarks on its proprietary technology solutions.
+ 
+At present, the Company has three sources of revenues.
+ 
+
+● | Consulting Services, which includes turnkey business solutions - Start-Your-Own-Brokerage (“SYOB”), Start-Your-Own-Prime Brokerage (“SYOPB”), Start-Your-Own-Crypto Exchange (“SYOC”), FX/OTC liquidity solutions and lead generations. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Technology Solutions, where the Company license its proprietary and, in some cases, act as a reseller of third-party technologies to customers. Our proprietary technology includes but not limited to Condor Risk Management Back Office for MT4 (“Condor Risk Management”), Condor FX Pro Trading Terminal, Condor Pricing Engine, Crypto Web Trader Platform, and other cryptocurrency related solutions. 
+● | Customized Software Development, where the Company takes on design-build software development projects for customers, where the Company develops the project to meet the design criteria and performance requirements as specified in the Software Development Agreement (“Agreement”). 
+
+ 
+The Company’s customers are companies in the cryptocurrency and blockchain space, where it is acting as an adviser/strategic consultant and reseller of its proprietary technologies. The Company expects to generate additional revenue from its crypto related solutions, which include revenues from development of custom crypto exchange platform for customers, the sale of the non-exclusive source code of crypto exchange platform to third parties, white-label fees of crypto exchange platforms, and the sale of aggregated cryptocurrency data price feed from various crypto exchanges to OTC brokers. The Company initially plans to develop technology architecture of crypto exchange platform for its customers. The initial capital required to produce such technologies comes from our customers as the Company takes on design-build software development projects for customers, where the Company develops these projects to meet the design criteria and performance requirements as specified by the customer.
+ 
+There are several steps required to set-up a functional crypto exchange platform. Our customers are expected to seek necessary licensing approval and meet registration requirements in their respective jurisdictions. Customers are also responsible for establishing a relationship with the payment processing partner such as a bank. Subsequently, the Company intends to provide and maintain a payment gateway API, which will give users the power of adding and withdrawing funds. Liquidity is an essential aspect of the success of a cryptocurrency exchange marketplace. The trades at an exchange drive its liquidity, and robust crypto exchange platform requires seamless trading activity. To manage this liquidity at the customer’s crypto exchange business, the Company will integrate its customer crypto exchange’s liquidity position to other existing exchanges. The Company will provide a modern and robust API interface that connects liquidity and trade volume data between various crypto exchanges.
+ 
+
+4
+-
+
+
+The Company is responsible for arranging, developing, and maintaining the technology architecture of the crypto exchange platform. This architecture includes but not limited to the trading engine, front-end user interface, functional website, cryptocurrency wallet, and administration console. The trading engine serves as the core of exchange and is essential to smart order transaction execution, calculate balances, access, and aggregation of the order book and match all the buy/sell transactions on an exchange. The front-end user interface is a user-friendly and intuitive interface with a minimalistic approach to offer an exceptional trading experience. The front-end user includes but not limited to user registration, funds deposit/withdrawal, view order book, transactions, balance, statistics, charts, buy/sell orders, and support features. The Company can customize the features of a console according to the specific business requirement of our customers, such as the option to edit trading fee, managing cryptocurrency listing, adding new currencies, crediting/debiting funds to wallets and addressing support issues. The Company’s involvement is limited to creating an interface between the crypto exchange platform and the digital asset owner and is not responsible for holding and maintaining the digital assets in the wallet.
+ 
+The Company is only involved as a technology provider and software developer in the crypto space and does not mine, trade (acquire or sell cryptocurrencies), speculate or act as a trading counterparty in cryptocurrencies. Consequently, the Company does not intend to register as a custodian with state or federal regulators including but not limited to obtaining a money service business or money transmitter license with Financial Crimes Enforcement Network (FinCEN) and respective State’s money transmission laws. The Company also does not need to register under the Securities Exchange Act of 1934, as amended, as a national securities exchange, an alternative trading system or a broker-dealer, since the Company is not a broker-dealer nor does it intend to become a broker-dealer.
+ 
+Third Party Industry Accreditation
+ 
+In July 2016, Financial Commission, a leading financial services industry external dispute resolution (EDR) organization, with a diverse membership of online brokerages and independent services providers (ISPs) provided the technology certification for the Company. Financial Commission conducted its rigorous review of Company’s platforms, including its Condor Risk Management Back Office for MT4, to ensure it met the technical information requirements of the Commission’s technology certification evaluation process. The Financial Commission established a comprehensive list of requirements to verify system security, capacity, business disaster recovery, and continuity plan, as well as reporting and record keeping, among other fields deemed necessary for the technical certification of the Company. In October 2018, Financial Commission added the Company as an approved service provider to its Partner section website. Financial Commission has created its Partners section for service providers approved to offer their solutions to our members.
+ 
+Subsidiaries of the Company
+ 
+In April 2016, the Company established its wholly owned subsidiary – FRH Prime Ltd. (“FRH Prime”), a company, incorporated under section 14 of the Companies Act 1981 of Bermuda. In January 2017, FRH Prime established its wholly owned subsidiary – FXClients Limited (“FXClients”) under the United Kingdom Companies Act 2006 as a private company. Both FRH Prime and FXClients are established to conduct financial technology service activities.
+ 
+Board of Directors
+ 
+The Company currently has three directors.
+ 
