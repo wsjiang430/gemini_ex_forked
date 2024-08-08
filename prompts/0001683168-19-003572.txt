@@ -1,0 +1,382 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1 –BUSINESS
+ 
+As used in this report, each of the terms “we,” “us,” “our,” the “Company” and “Simulations Plus” refers to Simulations Plus, Inc. and its wholly owned subsidiaries Cognigen Corporation, of Buffalo, New York, and DILIsym Services, Inc of Research Triangle Park, North Carolina, unless otherwise stated or the context otherwise requires.
+ 
+OVERVIEW
+ 
+Simulations Plus, Inc., incorporated in 1996, is a premier developer of drug discovery and development software for mechanistic modeling and simulation, and for machine-learning-based prediction of properties of molecules solely from their structure. Our pharmaceutical/chemistry software is licensed to major pharmaceutical, biotechnology, agrochemical, cosmetics, and food industry companies and to regulatory agencies worldwide for use in the conduct of industry-based research. We also provide consulting services ranging from early drug discovery through preclinical and clinical trial data analysis and for submissions to regulatory agencies. Simulations Plus is headquartered in Southern California, with offices in Buffalo, New York, and Research Triangle Park, North Carolina, and its common stock trades on the Nasdaq Capital Market under the symbol “SLP.”
+ 
+We are a global leader focused on improving the ways scientists use knowledge and data to predict the properties and outcomes of pharmaceutical and biotechnology agents and provide a wide range of early discovery, preclinical, and clinical consulting services and software. Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation, prediction of molecular properties from structure, and prediction of drugs to induce liver injury or to treat nonalcoholic fatty liver disease.
+ 
+We generate revenue by delivering relevant, cost-effective software and creative and insightful consulting services. Pharmaceutical and biotechnology companies use our software programs and scientific consulting services to guide early drug discovery (molecule design and screening), preclinical, and clinical development programs. They also use our software products and services to enhance their understanding of the properties of potential new medicines and to use emerging data to improve formulations, select and justify dosing regimens, support the generics industry, optimize clinical trial designs, and simulate outcomes in special populations, such as the elderly and pediatric patients.
+ 
+Simulations Plus acquired Cognigen Corporation (Cognigen) as a wholly owned subsidiary in September 2014. Cognigen was originally incorporated in 1992. Through the integration of Cognigen into Simulations Plus, Simulations Plus became a leading provider of population modeling and simulation contract research services for the pharmaceutical and biotechnology industries. Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions. We have also developed software for harnessing cloud-based computing in support of modeling and simulation activities and secure data archiving, and we provide consulting services to improve interdisciplinary collaborations and research and development productivity.
+ 
+Simulation Plus acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary in June 2017. The acquisition of DILIsym positions the Company as the leading provider of Drug Induced Liver Injury (DILI) modeling and simulation software and related scientific consulting services. In addition to the DILIsym® software for analysis of potential drug-induced liver injury, DILIsym Services, Inc. also has developed a simulation program for analyzing nonalcoholic fatty liver disease (NAFLD) called NAFLDsym™. Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs. The GastroPlus™ PBPK software from Simulations Plus provides such information; thus, the integration of these technologies will provide a seamless capability for analyzing the potential for drug-induced liver injury for new drug compounds and for investigating the potential for new therapeutic agents to treat nonalcoholic fatty liver disease. Since the acquisition, DILIsym has applied its mechanistic modeling resources in other disease areas including idiopathic pulmonary fibrosis (IPF) and others.
+ 
+
+
+
+1
+-
+
+PRODUCTS
+ 
+General
+ 
+We currently offer ten software products for pharmaceutical research and development: five simulation programs that provide time-dependent results based on solving large sets of differential equations: GastroPlus®; DDDPlus™; MembranePlus™; DILIsym®; and NAFLDsym™; three programs that are based on predicting and analyzing static (not time-dependent) properties of chemicals: ADMET Predictor®; MedChem Designer™; and MedChem Studio™ (the combination of ADMET Predictor, MedChem Designer, and MedChem Studio is called our ADMET Design Suite™); a program which is designed for rapid clinical trial data analysis and regulatory submissions called PKPlus™; and a program called KIWI™ from our Cognigen division that provides an integrated platform for data analysis and reporting through our proprietary secure cloud.
+ 
+GastroPlus®
+ 
+Our flagship product, originally introduced in 1998, and currently our largest single source of software revenue, is GastroPlus. GastroPlus mechanistically simulates the absorption, pharmacokinetics, pharmacodynamics, and drug-drug interactions of compounds administered to humans and animals and is currently the most widely used commercial software of its type by pharmaceutical companies, the U.S. Food and Drug Administration (FDA), the U.S. National Institutes of Health (NIH), and other government agencies in the U.S. and other countries. In May 2019, we were pleased to announce the Pharmaceuticals and Medical Devices Agency (PMDA) in Japan added licenses to the GastroPlus software suite.
+ 
+Because of the widespread use of GastroPlus, we were the only non-European company invited to join the European Innovative Medicines Initiative (IMI) program for Oral Bioavailability Tools (OrBiTo). OrBiTo was an international collaboration among 27 industry, academic, and government organizations working in the area of oral absorption of pharmaceutical products. Because we are outside of the European Union, our participation in this project was at our own expense, while other members were compensated for their work; however, we were a full member with access to all of the data and discussions of all other members. We believe our investment to participate in this initiative enabled us to benefit from, and to contribute to, advancing the prediction of human oral bioavailability from preclinical data, and ensured that we are well-known to member pharmaceutical companies and regulatory agencies.
+ 
+In September 2014, we entered into a research collaboration agreement (RCA) with the FDA to enhance the Ocular Compartmental Absorption and Transit (OCAT™) model within the Additional Dosage Routes Module of GastroPlus. The objective of this agreement was to provide a tool for generic companies and the FDA to assess the likely bioequivalence of generic drug formulations dosed to the eye. Under this RCA, we received up to $200,000 per year. This RCA could be renewed for up to a total of three years based on the progress achieved during the project. After a successful second year, the RCA was extended for two additional years in September 2016, with primary tasks completed in September 2018. Additional functionality was further requested by the FDA, and a new funded contract was awarded for the 2018-19 period.
+ 
+We were awarded another RCA by the FDA in September 2015; this one to expand the capabilities of GastroPlus to simulate the dosing of long-acting injectable microspheres for both small and large molecules (biologics). This type of dosage form is usually injected via subcutaneous or intramuscular routes. This RCA also provides up to $200,000 per year for up to three years. Under this agreement, we are developing simulation models to deal with the very slow dissolution/decomposition of the microsphere carrier material that gradually releases the active drug over periods as long as weeks or months. After a successful second year, the RCA was renewed for the third year in September 2017 and was completed in September 2018, with further extensions under consideration with the FDA and/or large pharmaceutical company sponsor(s).
+ 
+In September 2018, we were pleased to announce that we were awarded another funded RCA by the FDA to integrate drug product quality attributes into the mechanistic TCAT model in GastroPlus. This grant award, for $250,000 per year for up to two years, will focus on the incorporation of drug product quality attributes into dermal physiologically-based pharmacokinetic (PBPK) models developed for dermatological topical dosage forms and transdermal delivery systems.
+ 
+
+
+
+2
+-
+
+ 
+
+In July 2018 we entered into a one-year funded research collaboration with a large European consortium to further develop and validate the mechanistic Transdermal Compartmental Absorption and Transit (TCAT™) model in GastroPlus. This project will contribute substantially to improvements in the program, specifically directed toward the predictions of local exposure within the skin layer following topical administration of various chemicals. We expect the developments under this agreement will aid companies and regulatory agencies as they strive to implement an animal-free chemical safety assessment program.
+ 
+In addition to the two active funded efforts with the FDA described above, we also have two unfunded RCAs with the FDA: one with the Office of Generic Drugs (OGD) that began in 2014, and one announced in July 2019 with the Center for Veterinary Medicine (CVM). With OGD, the objective is directed toward the FDA’s evaluation of mechanistic IVIVCs (in vitro-in vivo correlations) to determine whether mechanistic absorption modeling (MAM) can relate laboratory (in vitro) dissolution experiment results to the behavior of dosage forms in humans and animals (in vivo) better than traditional empirical methods. With CVM, the objective is to use GastroPlus, with in vitro and in vivo data, to investigate how bioequivalence (BE) of non-systemically absorbed products can be evaluated in canines without the need for clinical endpoint trials.
+ 
+In May 2018, we released Version 9.6 of GastroPlus. Version 9.6 provided the following new functionalities and advanced decision-making tools for preclinical and early clinical trial simulation and modeling analysis:
+ 
+
+· | New dynamic intestinal fluid options added to the #1-ranked ACAT™ oral absorption model 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+· | New population physiologies for obesity and renal impairment disease states 
+· | Expanded enzyme/transporter distribution information for easier extrapolation across species 
+· | Additional compound model files for standard drug-drug interaction (DDI) substrates & inhibitors 
+· | Upgraded capabilities to all major mechanistic absorption routes, including dermal, pulmonary, ocular, and subcutaneous/intramuscular injections
+· | Enhanced deconvolution methods for generation of mechanistic in vitro-in vivo correlations (IVIVCs) 
+· | Improved output/reporting functions in all simulation modes to facilitate communication across departments and with regulatory agencies 
+· | Significant simulation speed improvements 
+· | Custom template generation for seamless use of GastroPlus to drive DILIsym® SimPops™ liver injury predictions 
+
+ 
+Our goal with GastroPlus is to integrate the most advanced science into user-friendly software to enable researchers and regulators to perform sophisticated analyses of complex compound behaviors in humans and laboratory animals. Already the most widely used program in the world for PBPK modeling, the addition of these new capabilities is expected to expand the user base in the early pharmaceutical research and development process, while also helping us to further penetrate biopharmaceuticals, food, cosmetics, and general toxicology markets. We work to release updated versions of the program on an ongoing basis. In May 2018, we released Version 9.6 of GastroPlus, and Version 9.7 was released in June 2019. This version adds a number of important new capabilities, including improvements to population simulations, dissolution, absorption, PBPK models, and drug-drug interactions, among others.
+ 
+
+· | The ability to add lysosomal trapping effect to PBPK tissues
+--+-------------------------------------------------------------
+
+
+· | New mechanistic pregnancy PBPK model (with fetus compartment)
+--+--------------------------------------------------------------
+
+
+· | Additional solubility inputs for different drug forms (crystalline, amorphous)
+--+-------------------------------------------------------------------------------
+
+
+· | New models of standard compounds (substrates/inhibitors/inducers) in DDI Module
+--+--------------------------------------------------------------------------------
+
+
+· | Expanded fed state conditions based on meal type
+--+-------------------------------------------------
+
+
+3
+-
+
+
+· | New ability to allow different tissue model types (perfusion- or permeability-limited) between parent and metabolites or victim perpetrator in metabolite tracking/DDI simulations
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | PK-PD model additions to PKPlus Module
+--+---------------------------------------
+
+
+· | Updates to the dermal absorption (TCAT) model through Cosmetics Europe project
+--+-------------------------------------------------------------------------------
+
+
+· | New effect of immune response with intramuscular injection models
+--+------------------------------------------------------------------
+
+
+· | Updated default populations for extensive, intermediate, and poor metabolizers based on specific genotypes
+--+-----------------------------------------------------------------------------------------------------------
+
+ 
+DDDPlus™ 
+ 
+DDDPlus mechanistically simulates in vitro (laboratory) experiments that measure the rate of dissolution of a drug as well as, if desired, the additives (excipients) in a particular dosage form (e.g., powder, tablet, capsule, or injectable solids) under a variety of experimental conditions. This unique software program is used by formulation scientists in industry and the FDA to (1) understand the physical mechanisms affecting the disintegration and dissolution rates of various formulations, (2) reduce the number of cut-and-try attempts to design new drug formulations, (3) design in vitro dissolution experiments to better mimic in vivo (animal and human) conditions, and (4) justify product specifications. Version 6.0 of DDDPlus was released in January 2019 and offers a series of new capabilities, including:
+ 
+
+· | simulation of the in vitro dissolution of long-acting injectable dosage forms (funded by the FDA grant supporting GastroPlus development)
+--+------------------------------------------------------------------------------------------------------------------------------------------
+· | simulation of the in vitro dissolution of controlled release bead formulations 
+· | new simulation of artificial stomach-duodenum (ASD) experiments 
+· | ability to fit models from precipitation experiments 
+· | new dissolution apparatus models 
+· | improved output reporting 
+
+ 
+MembranePlus™
+ 
+Similar to DDDPlus, MembranePlus mechanistically simulates laboratory experiments, but in this case, the experiments are for measuring permeability or clearance of drug-like molecules through various membranes, including several different standard cell cultures (Caco-2, MDCK), as well as hepatocytes. The value of such simulations derives from the fact that when the same molecules are measured in different laboratories using (supposedly) the same experimental conditions, the results are often significantly different. These differences are caused by a complex interplay of factors in how the experiment was set up and run. MembranePlus simulates these experiments with their specific experimental details, and this enables scientists to better interpret how results from specific experimental protocols can be used to predict permeability or clearance mechanisms in human and animals.
+ 
+
+
+4
+-
+
+ 
+
+PKPlus™
+ 
+In August 2016, we released a standalone software product called PKPlus, based on the internal PKPlus Module in GastroPlus that has been available since 2000. The PKPlus Module in GastroPlus provides quick and easy fitting of compartmental pharmacokinetic (PK) models as well as a simple noncompartmental analysis (NCA) for intravenous and extravascular (oral, dermal, ocular, pulmonary, etc.) doses; however, the PKPlus Module in GastroPlus was not designed to meet all of the requirements for performing these analyses for Phase 2 and 3 clinical trials, nor to produce report-quality output for regulatory submissions. The standalone PKPlus program provides the full level of functionality needed by pharmaceutical industry scientists to perform the analyses and generate the outputs needed to fully satisfy regulatory agency requirements for both more complex NCA as well as compartmental PK modeling.
+ 
+PKPlus version 2.5 was released in July 2019. This new version incorporates a wide variety of requested features from current users, including:
+ 
+
+• | Import CDISC SEND packages with PC domain as source data
+--+---------------------------------------------------------
+
+
+• | Improved command line functionality
+--+------------------------------------
+
+
+• | 64-bit system optimization for improved performance
+--+----------------------------------------------------
+
+
+• | Streamlined auto-reports
+--+-------------------------
+
+
+• | Additional workflow refinements
+--+--------------------------------
+
+ 
+Starting with version 2.0, we provide PKPlus for free to academics because we believe it will help educate the next generation of scientists entering the industries we serve and drive demand for the product. Hundreds of copies of PKPlus have been downloaded by universities around the world to date.
+ 
+ADMET Predictor®
+ 
+ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) Predictor is a chemistry-based computer program that takes molecular structures (i.e., drawings of molecules represented in various formats) as inputs and uses machine learning technology to predict approximately 150 different properties for them at an average rate of over 100,000 compounds per hour on a modern laptop computer. This capability allows chemists to generate estimates for a large number of important molecular properties without the need to synthesize and test the molecules, as well as to generate estimates of unknown properties for molecules that have been synthesized, but for which only a limited number of experimental properties have been measured. Thus, a chemist can assess the likely success of a large number of existing molecules in a company’s chemical library, as well as molecules that have never been made, by providing only their molecular structures, either by drawing them using a tool such as our MedChem Designer software, or by automatically generating large numbers of molecules using various computer algorithms, including those embedded in our MedChem Studio software.
+ 
+ADMET Predictor has been top-ranked for predictive accuracy in multiple peer-reviewed, independent comparison studies for many years, while generating its results at a very high throughput rate. Although the state of the art of this type of software does not enable identifying the best molecule in a series, it does allow early screening of molecules that are highly likely to fail as potential drug candidates (i.e., the worst molecules, which is typically the majority of a virtual chemical library) before synthesizing and testing them. Thus, millions of virtual compounds can be created and screened in a day, compared to potentially months or years of work to actually synthesize and test a much smaller number of actual compounds.
+ 
+The optional ADMET Modeler™ Module in ADMET Predictor enables scientists to use their own experimental data to quickly create proprietary high-quality predictive models using the same powerful artificial intelligence (AI) engine we use to build our top-ranked property predictions. Pharmaceutical companies expend substantial time and money conducting a wide variety of experiments on new molecules each year, generating large databases of experimental data. Using this proprietary data to build predictive models can provide a second return on their investment; however, model building has traditionally been a difficult and tedious activity performed by specialists. The automation in ADMET Modeler makes it easy for a scientist to create very powerful machine-learning/AI models with minimal training.
+ 
+Version 9.5 was released in April 2019, adding:
+ 
+
+· | Novel approaches to calculate uncertainty estimates on all regression models 
+--+---------------------------------------------------------------------------------------------------------------------
+· | New machine learning models for important metabolism and transporter endpoints 
+· | New machine learning models for AMES mutagenicity, a primary toxicity endpoint required during risk assessment 
+· | New Structure Sensitivity Analysis visualization tool to easily map atom-level contributions to model predictions 
+· | Improved rat-specific models to more accurately inform HTPK Simulation predictions 
+· | Improved Pipeline Pilot and KNIME components to extend deployment options and enterprise support for ADMET Predictor
+· | Updates to output displays in MedChem Designer™ 
+
+
+5
+-
+
+ 
+
+We have made significant investments in two key areas with recent versions: improving integration of our top-ranked ADMET Predictor and GastroPlus models to leverage our novel ‘Discovery PBPK’ approaches for chemists and safety researchers, and further enhancing our best-in-class machine learning engine to assist with drug discovery. Recent publications from pharmaceutical and chemical companies describing how they have leveraged our ‘Discovery PBPK’ methods to guide lead optimization and risk assessment illustrate how our unique offerings provide substantial value in these spaces. In April 2019, we were pleased to announce the U.S. Food and Drug Administration’s (FDA) Center for Tobacco Products procured a 15-user license to the ADMET Predictor software suite. The purchase was made to support research projects aimed at informing regulatory decision making.
+ 
+Potential new markets for artificial intelligence (machine learning)
+ 
+We are currently investigating applications of our sophisticated artificial intelligence (machine-learning) engine outside of our normal pharmaceutical markets. To date, we have conducted several proof-of-concept studies involving aerodynamics and also classifying of patients as healthy or experiencing some disease state or genetic disorder evidenced by magnetic resonance imaging (MRI) of the brain.
+ 
+We believe our proprietary AI/machine learning software engine has a wide variety of potential applications and we intend to pursue funding to develop customized tools to further monetize our investment in this technology by expanding our markets beyond the life sciences and chemistry. In addition, we are examining a variety of expanded capabilities to add to the basic modeling engine to accommodate even larger data sets (“big data analytics”) and new applications.
+ 
+MedChem Designer™
+ 
+MedChem Designer was initially a molecule-drawing program, or “sketcher”, but now has capabilities far exceeding those of other molecule-drawing programs because of its integration with both MedChem Studio and ADMET Predictor. We provide MedChem Designer for free because we believe that in the long run it will help to increase demand for ADMET Predictor and MedChem Studio, and because most other existing molecule-drawing programs are also provided for free. Our free version includes a small set of ADMET Predictor’s best-in-class property predictions, allowing the chemist to modify molecular structures and then see a few key properties very quickly. With a paid ADMET Predictor license, the chemist would see the entire approximately 150 predictions that are available. Over 28,000 copies of MedChem Designer have been downloaded by scientists around the world to date.
+ 
+When used with a license for ADMET Predictor, MedChem Designer becomes a de novo molecule design tool. With it, a researcher can draw one or more molecular structures, then click on the ADMET Predictor icon and have approximately 150 properties for each structure calculated in seconds, including our proprietary ADMET Risk™ index which provides a single number that instantly compare the effects of different structural changes in many dimensions. Researchers can also click on an icon to generate the likely metabolites of a molecule and then predict all of the properties of those metabolites from ADMET Predictor, including each of their ADMET Risk scores. This is important because a metabolite of a molecule can be therapeutically beneficial (or harmful) even though the parent molecule is not.
+ 
+MedChem Studio™
+ 
+The MedChem Studio Module in ADMET Predictor is a powerful software tool that is used both for data mining and for de novo design of new molecules. In its data-mining role, MedChem Studio facilitates searching large chemical libraries to find molecules that contain identified substructures, and it enables rapid identification of clusters (classes) of molecules that share common substructures.
+ 
+While MedChem Designer can be used to refine a small number of molecules, the MedChem Studio Module can be used to create and screen very large numbers of molecules down to a few promising lead candidates. MedChem Studio has features that enable it to generate new molecular structures using a variety of de novo design methods. When MedChem Studio is used with ADMET Predictor and MedChem Designer (the combination of which we refer to as our ADMET Design Suite), we believe the programs provide an unmatched capability for chemists to search through large libraries of compounds that have undergone high-throughput screening experiments to find the most promising classes (groups of molecules with a large common part of their structures) and molecules that are active against a particular target. In addition, MedChem Studio can take an interesting (but not acceptable) molecule and, using a variety of design algorithms, quickly generate many thousands to millions of high-quality analogs (similar new molecules). These molecules can then be screened using ADMET Predictor to find molecules that are predicted to be both active against the target and acceptable in a variety of ADMET properties. We demonstrated the power of the ADMET Design Suite during two NCE (new chemical entity) projects wherein we designed lead molecules to inhibit the growth of the plasmodium falciparum malaria parasite in one study, and lead molecules that were able to inhibit two targets at the same time: COX-1 and COX-2. In each case, we announced ahead of time that we were attempting to do this, and we reported the results when the projects were complete. Every molecule we designed and had synthesized hit their targets in both projects, clearly demonstrating the power of the ADMET Design Suite.
+ 
+
+
+
+6
+-
+
+KIWI™
+ 
+Drug development programs rely increasingly on modeling and simulation analyses to support decision-making and submissions to regulatory agencies. To ensure high-quality analyses, organizations must not only apply high-quality science, but must also be able to support the science by being able to validate the results. KIWI is a cloud-based web application that was developed to efficiently organize, process, maintain, and communicate the volume of data and results generated by pharmacologists and scientists over the duration of a drug development program. The validated workflow and tools within KIWI promote traceability and reproducibility of results.
+ 
+The pharmaceutical industry has been rapidly adopting cloud technology as a solution to ever-expanding computer processing needs. Leveraging our 20-plus years of experience in providing an architecture supporting modeling and simulation efforts, we have developed KIWI as a secure, validated, enterprise-scale environment, enabling global teams to collaborate on model-based decision making. KIWI has proven to be a valuable platform for encouraging interdisciplinary discussions about the model development process and interpretation of results. We continue to receive positive feedback about the functionality implemented in KIWI and the value of the approach we have taken to harness cloud technology. We continue to improve functionality and collaboration within the KIWI platform, and we expect the licensing fee will be a source of recurring revenue for further development and growth.
+ 
+We release new versions of the program on a regular basis. KIWI Version 2 was released in December 2017, KIWI 3 was released in August 2018, and in 2019 Q1, an enhanced editor and grouping of visualizations for easy replication was added, resulting in streamlined model development. 
+ 
+KIWI 4 was released in June 2019. A pharmacometric analysis is an evolutionary process – one that often results in the creation of hundreds of new program files and code changes to hundreds more due to common typographical and programmatic errors. The Model Wizard and the Covariate Analysis toolset aim to significantly reduce the time spent creating models, correcting errors, and replicating program files for performing stepwise covariate analyses, allowing pharmacometricians to focus on advancing science. With continued feedback from KIWI license holders, various visualizations within KIWI 4.0 and the pharmacometric-specific Data Repository continue to be updated with new features and functionality. In 2020 Q1, incremental improvements to the existing KIWI functionality have been added to improve graph appearance in both the Visualize and Explore modules.
+ 
+
+
+
+7
+-
+
+ 
+
+We continue enhancing KIWI as part of our five-year, almost-$5 million contract with the Bill and Melinda Gates Foundation.
+ 
+DILIsym
+ 
+The DILIsym software is a quantitative systems pharmacology (QSP) program that has been in development since 2011. QSP software models are based on the fundamental understanding of complex biological pathways, disease processes, and drug mechanisms of action, integrating information from experiments and forming hypotheses for the next experimental model. DILIsym deals with the propensity for some drug molecules to induce temporary or permanent changes in biological functions within liver cells (hepatocytes) that can result in damage to the liver. Some drugs cause temporary changes in liver function but the body soon compensates and liver function returns to normal. Other drugs cause liver function to permanently decline as they continue to be taken. The DILIsym software models a variety of interactions within the hepatocytes to determine whether a particular drug molecule interrupts normal signaling pathways in a manner to induce injury to the cells.
+ 
+Version 8A of the DILIsym software was released in January of 2019. This version is again delivered as a secure executable that incorporates new proprietary code enabling tighter integration with our GastroPlus PBPK software. Securing the code is necessary to ensure that results are consistent across all users to assure regulatory agencies that the calculated results are from a validated version. Open source programs are subject to modification by the user and so each use could have a different set of calculations, so validation would not be assured. In addition, a number of important new capabilities were added:
+ 
+
+· | 10 New validation compounds 
+--+-----------------------------------------------------------------------
+· | New Cholestatic liver injury mechanism 
+· | New Oxidative stress (ROS) NRF2 adaptation response framework 
+· | New Human SimPops with variability in bilirubin processing pathways 
+· | New Liver injury biomarker GLDH 
+· | Live DILIsym documentation website updated with new training resources
+
+ 
+NAFLDsym
+ 
+Where DILIsym is used to investigate the likelihood that a known drug molecule would cause injury to the liver, NAFLDsym is concerned with a liver that is already diseased (NAFLD/NASH) by excess fat, fibrosis, and inflammation, and investigates the likelihood that various molecules might provide beneficial therapeutic benefits to treat or cure the disease. DILIsym can be considered a “shrink wrap” software product, usable across many companies and drug development projects. NAFLDsym, on the other hand, requires modification for each of a number of different mechanisms of action that potential new drug compounds could use to treat the disease, and so is a customized tool used in consulting projects for each new client project. NAFLDsym version 2A was released in the summer of 2019 for licensing and consulting use. The software now includes the three most important components of NAFLD/NASH: steatosis, inflammation, and fibrosis, along with a host of other important updates.
+ 
+RENAsym
+ 
+Where DILIsym is used to investigate the likelihood that a known drug molecule would cause injury to the liver, RENAsym will be focused on investigating and predicting drug-induced kidney injury, or acute kidney injury (AKI). RENAsym will be another “shrink wrap” software product, usable across many companies and drug development projects. The software will utilize predictions of drug exposure in the kidney from PBPK platforms such as GastroPlus, along with in vitro data related to certain kidney injury mechanisms, to make predictions. The first expected release of RENAsym will be available towards the end of 2020. The initial development is being funded via an NIH small business grant.
+ 
+
+
+
+8
+-
+
+ 
+
+IPFsym
+ 
+IPFsym is a software tool that will investigate the likelihood that various molecules might provide beneficial therapeutic benefits to treat or cure idiopathic pulmonary fibrosis (IPF). IPFsym, like NAFLDsym, requires modification for each of a number of different mechanisms of action that potential new drug compounds could use to treat the disease, and so is a customized tool used in consulting projects for each new client project. IPFsym is targeted for release for licensing and consulting use sometime in 2021. The software will include the most important mechanisms of IPF and will be closely coupled with GastroPlus for drug concentration predictions within the lungs.
+ 
+In January 2019 DILIsym Services and Simulations Plus entered into a two-year, $2.7 million collaboration with a large pharmaceutical company on the development of a new Quantitative Systems Pharmacology (QSP) model that will provide the ability to predict the efficacy of drugs being developed to treat idiopathic pulmonary fibrosis (IPF). Part of this funding will go towards expansion of GastroPlus to improve the predictions of compound exposure upon inhalation of drugs.
+ 
+Contract Research and Consulting Services
+ 
+Our scientists and engineers have expertise in drug absorption via various dosing routes (oral, intravenous, subcutaneous, intramuscular, ocular, nasal/pulmonary, and dermal), pharmacokinetics, pharmacodynamics, and drug-drug interactions. They have attended over 200 scientific meetings worldwide in the past four years, often speaking and presenting. We conduct contracted consulting studies for large customers (including many of the top twenty pharmaceutical companies) who have particularly difficult problems and who recognize our expertise in solving them, as well as for smaller customers who prefer to have studies run by our scientists rather than to license our software and train someone to use it. The demand for our consulting services has been steadily increasing, and we have expanded our consulting teams to meet the increased workload.
+ 
+Currently we are entering year four of a five-year consulting agreement with the Bill and Melinda Gates Foundation to implement a platform for coordinating the data generated by global teams engaged in model-based drug development.
+ 
+We have a reputation for high-quality analyses and regulatory reporting of data collected during preclinical experiments as well as clinical trials of new and existing pharmaceutical products, typically working on 80-100 drug projects per year. Traditionally, the model-based analysis of clinical trial data was different from the modeling analysis offered by GastroPlus or our quantitative systems toxicology/pharmacology software (DILIsym and NAFLDsym); the former relied more on statistical and semi-mechanistic models, whereas the latter is based on very detailed mechanistic models. Statistical models rely on direct observation and mathematical equations that are used to fit data collected across multiple studies along with describing the variability within and between patients. Mechanistic models are based on a detailed understanding of the human body and the chemistry of the drug and involve deep mathematical and scientific representation of the phenomena involved in drug dissolution/precipitation, absorption, distribution, metabolism, and elimination. Collectively, the models support safety and efficacy decisions, first-in-human estimations, formulation optimization, and drug-drug interaction assessments. Beginning in 2014, the U.S. F.D.A and other regulatory agencies began to emphasize the need to push mechanistic PBPK modeling and simulation into clinical pharmacology, with final guidance documents completed in 2018, and we have seen the benefit of having our clinical pharmacology teams across all three divisions working together to achieve this goal.
+ 
+PRODUCT DEVELOPMENT
+ 
+Development of our software is focused on expanding product lines, designing enhancements to our core technologies, and integrating existing and new products into our principal software architecture and platform technologies. We intend to continue to offer regular updates to our products and to continue to look for opportunities to expand our existing suite of products and services.
+ 
+To date, we have developed products internally, sometimes also licensing or acquiring products, or portions of products, from third parties. These arrangements sometimes require that we pay royalties to third parties. We intend to continue to license or otherwise acquire technology or products from third parties when it makes business sense to do so. We currently have one license agreement, pursuant to which a small royalty is paid based on revenues on each license for the Metabolism Module in ADMET Predictor.
+ 
+
+
+
+9
+-
+
+ 
+
+In 1997 we entered into an exclusive software licensing agreement with TSRL, Inc. (Therapeutic Systems Research Laboratories) pursuant to which TSRL licensed certain software technology and databases to us, and we paid royalties to TSRL. On May 15, 2014, we and TSRL entered into a termination and nonassertion agreement pursuant to which the parties agreed to terminate the 1997 exclusive software licensing agreement. As a result, the Company obtained a perpetual right to use certain source code and data, and TSRL relinquished any rights and claims to any GastroPlus products and to any claims to royalties or other payments under that agreement, and we agreed to pay TSRL total consideration of $6,000,000. All payments were made as of April 2017. The total consideration is being amortized at a constant rate of $150,000 per quarter until it is completely amortized, after which no further expense will be incurred. To date, this has resulted in expense savings over $1,750,000 compared to the royalty payments that would have been paid to TSRL if paid consistent with past practices.
+ 
+MARKETING AND DISTRIBUTION
+ 
+We distribute our products and offer our services in North America, South America, Europe, Japan, Australia, New Zealand, India, Singapore, Taiwan, Korea, and the People’s Republic of China.
+ 
+We market our pharmaceutical software and consulting services through attendance and presentations at scientific meetings, exhibits at trade shows, seminars at pharmaceutical companies and government agencies, through our website, and using various communication channels to our database of prospects and customers. At various scientific meetings around the world each year there are numerous presentations and posters presented in which the reported research was performed using our software. Many of these presentations are from industry and FDA scientists; some are from our staff. In addition, more than 100 peer-reviewed scientific journal articles, posters, and podium presentations are typically published each year using our software, mostly by our customers, further supporting its use in a wide range of preclinical and clinical studies.
+ 
+Our sales and marketing efforts are handled primarily internally by sales and marketing staff and with our scientific team and several senior management staff assisting our marketing and sales staff with trade shows, seminars, and customer trainings both online and on-site. We also have independent distributors in Japan, China, India, and Korea who also sell and market our products with support from our scientists and engineers.
+ 
+We provide support to the GastroPlus User Group in Japan, which was organized by Japanese researchers in 2009. In early 2013, a group of scientists in Europe and North America organized another GastroPlus User Group following the example set in Japan. Over 1,000 members have joined this group to date. We support this group through coordination of online meetings each month and managing the user group web site for exchange of information among members. These user groups provide us valuable feedback with respect to desired new features and suggested interface changes.
+ 
+PRODUCTION
+ 
+Our pharmaceutical software products are designed and developed by our development teams in California, North Carolina (Research Triangle Park), and New York (Buffalo), we also employee people who are able to work remotely using collaboration software. Our products and services are now delivered electronically – we no longer provide CD-ROMs and printed manuals or reports.
+COMPETITION
+ 
+In our pharmaceutical software and services business, we compete against a number of established companies that provide screening, testing and research services, and products that are not based on simulation software. There are also software companies whose products do not compete directly with, but are sometimes closely related to, ours. Our competitors in this field include some companies with financial, personnel, research, and marketing resources that are larger than ours. Our flagship product, GastroPlus, is the most widely used commercial PBPK modeling platform and has one significant competitor; others could be developed over time, but with the high barrier to entry, it would be difficult to validate new software to levels required to support regulatory submissions. Our PKPlus software product competes with one major and a few minor software programs. MedChem Studio, MedChem Designer, and ADMET Predictor/ADMET Modeler operate in a more competitive environment. Several other companies presently offer simulation or modeling software, or simulation-software-based services, to the pharmaceutical industry. We believe DILIsym and NAFLDsym enjoy a unique market position, with no significant competition.
+
+10
+--
+
+ 
+
+Major pharmaceutical companies conduct drug discovery and development efforts through their internal development staffs and through outsourcing. Smaller companies generally need to outsource a greater percentage of this research. Thus, we compete not only with other software suppliers and scientific consulting service providers, but also with the in-house development and scientific consulting teams at some of the larger pharmaceutical companies.
+ 
+Although competitive products exist, both new licenses and license renewals for GastroPlus have continued to grow. We believe that we enjoy a dominant market share in this segment. We believe our ADMET Predictor/ADMET Modeler, MedChem Studio, MedChem Designer, DDDPlus, MembranePlus, PKPlus, KIWI, DILIsym, and NAFLDsym software offerings are each unique in their combination of capabilities and remain a focus of our marketing strategy.
+ 
+Based on our technical knowledge and expertise, the Company is strategically placed to offer modeling and simulation consulting services to companies. Our clients seek out our services for multiple reasons: (1) to acquire scientific, therapeutic area related or modeling expertise that they do not have in-house, (2) to address an excess of modeling and simulation requirements beyond the capacity of in-house resources, (3) to fulfill their modeling requirements more efficiently than they could do in-house, and (4) to utilize our software when they do not have the in-house expertise to do so. We apply our software and assist companies in such areas as: physiologically based pharmacokinetic modeling (PBPK) , pharmacokinetic/pharmacodynamic (PK/PD) data analysis; and quantitative systems pharmacology/toxicology (QSP/T). We compete against numerous service providers, ranging from departments within large contract research organizations (CROs) to independent consulting organizations of various sizes as well as individual consultants.
+ 
+We believe the key factors in our ability to successfully compete in this field are our ability to: (1) continue to invest in research and development, and develop and support industry-leading simulation and modeling software and related products and services,(2) develop and maintain a proprietary database of results of physical experiments that serve as a basis for simulated studies and empirical models, (3) continue to attract and retain a highly skilled scientific and engineering team, (4) aggressively promote our products and services to our global market, and (5) develop and maintain relationships with research and development departments of pharmaceutical companies, universities, and government agencies
+ 
+In addition, we actively seek strategic acquisitions to expand both our pharmaceutical software and services business.
+ 
+TRAINING AND TECHNICAL SUPPORT
+ 
+Customer training and technical support are important factors in customer satisfaction for our pharmaceutical products, and we believe we are an industry leader in providing customer training and technical support in our business areas. We provide in-house seminars at customers’ and potential customers’ sites, as well at selected universities to train students who will soon be industry scientists. These seminars often serve as initial training in the event the potential customer decides to license or evaluate our software. Technical support is provided after the sale of any software in the form of on-site training (at the customer’s expense), web meetings and telephone, fax, and e-mail assistance to the customer’s users during the customer’s license period. 
+ 
+Technical support for pharmaceutical software is provided by our life sciences teams and our inside sales and support staff via telephone, e-mail and web-based support for all of our pharmaceutical software products worldwide. Technical support for pharmaceutical software products sales is minimal, averaging a few person-hours per month.
+ 
+We provide free telephone, e-mail and web-based support for all of our pharmaceutical software products worldwide from our offices in the U.S. Technical support for pharmaceutical software is provided by our life sciences teams and our inside sales and support staff. Technical support for pharmaceutical software products is generally minimal, averaging a few person-hour product sale.
+ 
+RESEARCH AND DEVELOPMENT
+ 
+Research and development (R&D) activities include both enhancement of existing products and development of new products. Development of new products and adding functionality to existing products are capitalized in accordance with Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) 985-20, “Costs of Software to Be Sold Leased, or Marketed”. R&D expenditures, which primarily relate to both capitalized and expensed salaries, R&D supplies, laboratory testing, and R&D consulting, were approximately $4,264,000 during fiscal year 2019, of which $1,764,000 was capitalized. R&D expenditures were approximately $3,936,000 during fiscal year 2018, of which $2,145,000 was capitalized. R&D expenditures during fiscal year 2017 were approximately $2,743,000 of which $1,376,000 was capitalized.
+
+11
+--
+
+CUSTOMERS
+ 
+Our customers include large, medium-sized and smaller biotech and pharmaceutical companies, universities, and regulatory agencies and other government organizations. We concentrate on serving the needs of our customers in drug discovery, development, clinical trials, and post-patent generic formulation development. Our current customer base is highly fragmented, in 2019 two of our customers were each 8% and another was 7% of our revenues, with those exceptions no other customers made up more than 7% of our revenues in the last 3 years.
+SEASONALITY
+ 
+We have traditionally experienced seasonal revenue weakness during our fiscal fourth quarter (June-August) due to summer vacations and reduced activities at our customers’ sites. Though our net sales figures for any quarter are not necessarily indicative of sales for any future period, our pharmaceutical software is typically licensed on an annual basis which means renewals usually fall in the same quarter year after year.
+ENVIRONMENTAL MATTERS
+ 
+We believe we are in compliance in all material respects with all applicable environmental laws. Presently, we do not anticipate that such compliance will have a material effect on capital expenditures, earnings or competitive position with respect to any of our operations.
+EMPLOYEES
+ 
+As of August 31, 2019, Simulations Plus and its subsidiaries Cognigen Corporation and DILIsym, employed a total of 111 persons, including 107 full-time employees and 4 part-time employees, consisting of 78 in scientific, technical and research and development, 8 in marketing and sales, and 25 in administration and accounting. Currently 52 employees hold Ph.Ds. in their respective science or engineering disciplines, and 24 employees hold one or more Master’s degrees. Most of the senior management team and the members of our Board of Directors hold graduate degrees.
+ 
+We believe that our future success will depend, in part, on our ability to continue to attract, hire and retain qualified personnel. We continue to seek additions to our life sciences team although the competition for such personnel in the pharmaceutical industry is intense. None of our employees is represented by a labor union, and we have never experienced a work stoppage. We believe that our relations with our employees are good.
+ 
+INTELLECTUAL PROPERTY AND OTHER PROPRIETARY RIGHTS
+ 
+We primarily protect our intellectual property through copyrights and trade secrets. Our intellectual property consists primarily of source code for computer programs and data files for various applications of those programs in the pharmaceutical software businesses. The expertise of our staff is a considerable asset closely related to intellectual property, and attracting and retaining highly qualified scientists and engineers is essential to our business.
+EFFECT OF GOVERNMENT REGULATIONS
+ 
+Our pharmaceutical software products are tools used in research and development and are neither approved nor approvable by the FDA or other government agencies.
+ 
+COMPANY WEBSITE
+ 
+We maintain a corporate Internet website at: www.simulations-plus.com.
+ 
+The contents of this website are not incorporated in or otherwise to be regarded as part of this Annual Report. We file reports with the SEC which are available on our website free of charge. These reports include annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, “Section 16” filings on Form 3, Form 4, and Form 5, and other related filings, each of which is provided on our website as soon as reasonably practical after we electronically file such materials with or furnish them to the SEC. In addition, the SEC maintains a website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including the Company.
+
+12
+--
+

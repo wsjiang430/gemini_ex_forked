@@ -1,0 +1,166 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Business Description 
+ Quantum, founded in 1980 and reincorporated in Delaware in 1987, is a leader in storing and managing video and video-like data. We deliver top streaming performance for video and rich media applications, along with low cost, high density massive-scale data protection and archive systems. We help customers capture, create and share digital data and preserve and protect it for decades. Our software-defined storage solutions span from non-volatile memory express (NVMe), to solid state drives (SSD), hard disk drives (HDD), tape and the cloud and are tied together leveraging a single view of the entire data environment. Our software-defined approach to storage management that combines storage, compute, and virtualization in one physical unit is broadly known in our industry as an example of hyperconverged storage. We work closely with a broad network of distributors, value-added resellers (VARs), direct marketing resellers (DMRs), original equipment manufacturers (OEMs) and other suppliers to meet customers evolving needs. The worlds leading entertainment companies, sports franchises, researchers, government agencies, enterprises, and cloud providers make the world happier, safer, and smarter on our systems. 
+ Our high-performance shared storage systems enable accelerated and collaborative access to critical data. Powered by our StorNext software, our systems provide high performance and availability to enable movie and TV production, analysis of patient records, analysis of video and image data for government and military applications, and more. We sell our StorNext software with hyperconverged storage infrastructures that are built using a combination of NVMe, SSD, HDD, tape, and cloud storage technologies. We have recently refreshed this entire product line, and introduced the Quantum F-Series, an ultra-fast, highly available NVMe storage array for editing, rendering, and processing of video content and other large unstructured data sets. 
+ Our tape storage provides low cost, long-term data storage for archiving and retention, as well as offline storage to protect against ransomware. Tape storage is a critical technology for long-term off-line storage of data, both in the cloud and on-premise, and is a critical component of enterprise data protection strategies. We continue to be a market leader in tape storage utilizing industry-leading performance, reliability, scalability, and manageability. 
+ We also recently released the Quantum VS-Series and Quantum R-Series. The Quantum VS-Series is a hyperconverged platform designed for surveillance and industrial applications for the Internet of Things, (IoT), and enables security and facilities departments to efficiently record and store surveillance footage and run an entire security infrastructure on a single, software-defined platform. Our Quantum R-Series is removable storage 
+ 
+3 
+
+
+  designed to capture data in vehicles where the storage device must be more rugged. We describe the Quantum R-Series as ruggedized to emphasize the additional physical protection we build into the product so that it operates as intended in the air, on the road, on rails, and in battlefield environments. The Quantum R-Series addresses use cases such as the development of advanced driver-assistance systems, (ADAS), and mobile military and surveillance applications. This product can capture data in real world environments, and then makes this data quickly available for processing and use. 
+ We are a member of the consortium that develops, patents, and licenses Linear Tape-Open, (or LTO® tape) technology to media manufacturing companies. We receive royalty payments for LTO media technology sold under licensing agreements. We have also entered into various licensing agreements with respect to our technology, patents and similar intellectual property which provide licensing revenues in certain cases and may expand the market for products and solutions using these technologies. 
+ We are focused on driving profitable revenue growth and long-term shareholder value by capitalizing on the growth in video and high-resolution image data across industries and verticals. 
+ Industry Background 
+ For the markets and customers that we serve, storing and managing large amounts of video, image and sensor data has become a key challenge. Video and other imaging data is becoming increasingly prevalent in every industry. Some examples of this ever-growing trend include: 
+
+ | The media and entertainment industry producing more high-resolution content for movies and TV shows;
+--+-----------------------------------------------------------------------------------------------------
+
+
+ | Large corporations producing video content for marketing and advertising, and for internal training and communication purposes;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Surveillance cameras for city surveillance, critical infrastructure, higher education, retail, restaurants, and more;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+ | Military and defense applications that manage images and video from drones and satellites;
+--+-------------------------------------------------------------------------------------------
+
+
+ | High-resolution MRI images and genome sequencing data generated by medical research institutions;
+--+--------------------------------------------------------------------------------------------------
+
+
+ | Video, image, and sensor data captured on the manufacturing floor;
+--+-------------------------------------------------------------------
+
+
+ | Video, image, and sensor data produced by cars as part of ADAS and autonomous vehicle development.
+--+---------------------------------------------------------------------------------------------------
+
+ This video and imaging data is growing exponentially, and in the next few years, this video data will represent the vast majority of the data on the planet. This class of data presents a unique set of challenges for our customers. These datasets are exponentially larger than the average corporate database, they are costly and technically difficult to store and process in the cloud, and many of the data services designed for databases and other corporate applications do not work with this data. Video and image data is very difficult to search, and yet it is the data that has the most value to the business lines of many of our customers. This presents both a challenge and an opportunity. Lastly, these datasets typically have a lifecycle that initially requires very high performance for creation, intake, cataloging, analysis and collaboration, and then needs to be archived and protected for decades at a low cost. Our products have been designed to address these needs. 
+ 
+4 
+
+
+ Products 
+ High-Performance Shared Storage Systems 
+ At the core of our high-performance shared storage product line is our Quantum StorNext software that enables high-performance video editing and management of large video and image datasets. Major broadcasters, studios, post-production companies, sports franchises, and corporate video entities around the world use StorNext. 
+ Our StorNext software is a parallel file processing system that provides fast streaming performance and data access, a shared file storage environment for Apple Macintosh, Microsoft Windows, and Linux workstations, and intelligent data management to protect data across its lifecycle. StorNext runs on standard servers and is sold with storage arrays that are used within the StorNext environment. These storage arrays include: 
+ 
+
+ | The Quantum F-Series: A line of ultra-fast, highly available NVMe SSD flash storage arrays for editing, rendering, and processing of video content and other large unstructured datasets.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Quantum QXS-Series: A line of high performance, reliable hybrid storage arrays, offered with either HDDs, SSDs, or some combination of the two.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Customers are now deploying the StorNext file system with a combination of NVMe storage and more traditional SSD and HDD storage to balance cost and performance. Our StorNext software can also manage data across different types, or pools, of storage, such as public cloud object stores and disk-based object storage systems. StorNext supports a broad range of both private and public object stores to meet customer needs. For customers that archive video and image data for years, StorNext is also integrated with our tape storage, and can assign infrequently-used but important data to tape to create a large-scale active archive. 
+ Tape Storage 
+ Our Scalar® tape systems are low-cost, long-term data storage used by the biggest clouds and leading enterprises to archive and preserve digital content for decades. The product line scales from entry-level libraries for small backup environments up to massive petabyte and even exabyte scale archive libraries. 
+ Our tape systems provide storage density, offline secure storage to protect against ransomware and malware, and an intelligent, advanced diagnostics engine designed to reduce downtime and operational expense relative to other tape systems. Quantum tape systems are used by thousands of enterprises around the world as well as by large cloud service providers. In addition to the Quantum Scalar tape systems, we also sell LTO tape cartridges as well as standalone LTO tape drives for small business and desktop use. 
+ Backup Storage Systems 
+ Our DXi backup systems provide high-performance, scalable storage for backup and multi-site disaster recovery. Our variable-length de-duplication technology maximizes data reduction, our replication engine enables multi-site protection and data recovery, and our high-efficiency design enables customers to maximize backup performance while minimizing data center footprint. 
+Surveillance and Industrial IoT Storage Systems 
+ Our Quantum VS-Series is the latest addition to our high-performance video platform portfolio. Our VS-Series product line is a hyperconverged surveillance platform that enables security departments and facilities departments to retain more surveillance footage at low cost and converge and run entire building operations on a single box. 
+ At the core of our VS-Series product line is the Quantum Cloud Storage Platform software. This software provides software-defined, high-performance block storage to record and store video, but also is a hyperconverged software platform for running video management system, or VMS applications, as well as other building and security applications, such as access control, lighting, and HVAC applications. 
+ 
+5 
+
+
+ We offer our VS-Series in a wide range of appliance configurations, including small mini-towers ideal for five to ten camera environments such as a restaurant, retail chain, or gas station, and rackmount-able servers that can scale out to handle hundreds and thousands of cameras for large security deployments. 
+ Ruggedized Storage Systems 
+ We recently introduced our Quantum R-Series, a line of ruggedized, removable storage systems for in-vehicle data capture, mobile surveillance and military applications. Our R-Series has a more physically rugged design and low power requirements, so that it can be deployed in the trunk of a self-driving car, as well as in a bus, train, airplane, and even military vehicles. Our R-Series includes a removable storage magazine so that data generated in the vehicle can be easily uploaded to a shared storage environment, such as our Quantum StorNext file system, for processing and analytics. 
+Quantum Services 
+ We offer a broad range of services to complement our systems and technology. Our services have historically included maintenance, implementation and training services to provide the best overall customer experience. 
+ We recently introduced a new line of Distributed Cloud Services, a suite of services offered to complement more traditional implementation and maintenance services. Our Distributed Cloud Services are designed to provide the benefits of our products and technology with a cloud-like user experience, either via fully managed Operational Services, or via Storage-as-a-Service, (STaaS) offerings. At the core of our Distributed Cloud Services is our Cloud-Based Analytics, (CBA software). Quantum products can connect to our CBA software to send log files and other telemetry data about our customers environments to this central hub, making them part of our distributed cloud. Our global services team can then proactively manage each customers environment in a manner customized to that customers needs. 
+Global Services and Warranty 
+ Our global services strategy is an integral component of our total customer solution. Service is typically a significant purchase factor for customers considering long-term storage for archiving and retention or data protection storage solutions. Consequently, our ability to provide comprehensive installation and integration services as
+well as maintenance services can be a noteworthy competitive advantage to attract new customers and retain existing customers. In addition, we believe that our ability to retain long-term customer relationships and secure repeat business is frequently tied directly to our comprehensive service capabilities and performance. 
+ Our extensive use of technology and innovative product intelligence allows us to scale our global services operations to meet the needs of our customers. We are currently able to provide service to customers in more than 100 countries, supported by 24-hour, multi-language technical support centers located in North America, Europe and Asia. We provide our customers with warranty coverage on our products. Customers with high availability requirements may also purchase additional service to obtain faster response times on our high-performance shared storage systems, tape systems, and disk backup systems. We offer this additional support coverage at a variety of response levels up to 24-hours a day, seven-days-a-week, 365-days-a-year, for customers with stringent high-availability needs. We provide support ranging from repair and replacement to 24-hour rapid exchange to on-site service support for our midrange and enterprise-class products. In addition to these traditional installation and maintenance services, we also provide project management, managed services and other value-add services to enhance our customers experience and engagement. These incremental services create a deeper relationship with customers that enables them to maximize the value of their Quantum solution and better positions us to retain our customers through technology transitions. 
+ 
+6 
+
+
+ We generally warrant our hardware products against defects for periods ranging from one to three years from the date of sale. We provide warranty and non-warranty repair services through our service team and third-party service providers. In addition, we utilize various other third-party service providers throughout the world to perform repair and warranty services for us to reach additional geographic areas and industries in order to provide quality services in a cost-effective manner. 
+ Research and Development 
+ We compete in an industry characterized by rapid technological change and evolving customer requirements. Our success depends, in part, on our ability to introduce new products and features to meet end user needs. Our research and development teams are focused on technology and services to make our storage systems smarter and easier to manage at scale; software enhancements to make our storage more searchable and accessible, software-defined hyperconverged storage technology, next generation solid-state and hard-drive storage system software, data deduplication and other data reduction technologies, and making tape even more efficient as a storage medium for long term archival storage. 
+ We continue to invest in research and development to improve and expand our product lines and introduce new product lines such as the Quantum F-Series, Quantum VS-Series and Quantum R-Series. Our research and development costs were $32.1 million, $38.6 million, and $44.4 million for fiscal 2019, 2018 and 2017, respectively. 
+ Sales and Distribution Channels 
+ Quantum Product Sales Channels 
+ For our products, we utilize distributors, VARs and DMRs. Our integrated reseller program provides our channel partners the option of purchasing products directly or through distribution channels and provides them access to a more comprehensive product line. Additionally, we sell directly to a number of large corporate entities and government agencies. 
+ OEM Relationships 
+ We sell our products to several OEM customers that resell our hardware products under their own brand names and typically assume responsibility for product sales, end user service and support. We also license our software to certain OEM customers that include this software in their own brand name products. These OEM relationships enable us to reach end users not served by our branded distribution channels or our direct sales force. They also allow us to sell to select geographic or vertical markets where specific OEMs have exceptional strength. 
+ Customers 
+ Our sales are typically concentrated with several key customers, as we sell to OEMs, distributors, VARs and DMRs to reach end user customers. Sales to our top five customers represented 33%, 29%, 28% revenue in fiscal 2019, fiscal 2018 and fiscal 2017, respectively. During the fiscal years ended March 31, 2019, March 31, 2018 and March 31, 2017 no customers represented 10% or more of the Companys total revenue. 
+ 
+7 
+
+
+ Competition 
+ The markets in which we participate are highly competitive, characterized by rapid technological change and changing customer requirements. In some cases, our competitors in one market area are customers or suppliers in another. Our competitors often have greater financial, technical, manufacturing, marketing or other resources than we do. Additionally, the competitive landscape continues to change due to merger and acquisition activity as well as new entrants into the market. 
+ Our high-performance shared storage systems primarily face competition from the EMC business unit of Dell Inc., (Dell), International Business Machines Corporation, (IBM), NetApp, Inc., (NetApp), and other content storage vendors in the media and entertainment industry as well as government agencies and departments. 
+ Our tape storage primarily compete in the midrange and enterprise reseller and end user markets with IBM, Oracle Corporation and SpectraLogic Corporation as well as Hewlett-Packard Enterprise Company, (HPE), through its OEM relationship with other tape system suppliers. Competitors for entry-level and OEM tape systems include BDT Products, Inc. and several others that supply or manufacture similar products. In addition, disk backup products and cloud storage are an indirect competitive alternative to tape storage. 
+ Our backup storage systems primarily compete with products sold by Dell, HPE and Veritas Technologies LLC. Additionally, several software companies that have traditionally been partners with us have deduplication features in their products and will, at times, compete with us. A number of our competitors also license technology from other competing companies. 
+ For standalone LTO tape drives, our main competitor is IBM, which develops and sells its own LTO tape drives. We also face competition from disk alternatives, including removable disk drives in the entry-level market. 
+ Manufacturing and Supply Chain 
+ We are in the process of transitioning our supply chain and manufacturing operations to deliver a variable cost model while improving customer delivered quality and service. This process includes the transition to a multi-geographical manufacturing model using a configure-to-order methodology; a redesign of our service and supplier network; and talent acquisition and development. Our supply chain and manufacturing strategy minimizes geo- political and environmental causal risks and provides flexibility to support demand fluctuations by region, further enhancing our variable cost structure. 
+ Manufacturing of our tape systems is performed in the U.S. and Mexico with supporting third-party logistics companies in the Europe, Middle East and Africa region, or (EMEA), and the Asia-Pacific region, or (APAC). Our backup storage systems are integrated in the U.S. with supporting third-party logistics companies in EMEA and APAC. The value of utilizing well-run logistics companies and supply chain solutions is that our product logistics is optimized for cost reductions with a competitive advantage allowing the physical flow and information flow to work together seamlessly. 
+ Our tape media is manufactured in Japan and distributed globally. 
+ 
+8 
+
+
+ Intellectual Property and Technology 
+ We generally rely on patent, copyright, trademark and trade secret laws and contract rights to establish and maintain our proprietary rights in our technology and products. As of March 31, 2019, we hold approximately 332 U.S. patents and have 46 pending U.S. patent applications. In general, these patents have a 20-year term from the first effective filing date for each patent. We also hold a number of foreign patents and patent applications for certain of our products and technologies. Although we believe that our patents and applications have significant value, rapidly changing technology in our industry means that our future success may also depend heavily on the technical competence and creative skills of our employees. 
+ From time to time, third parties have asserted that the manufacture and sale of our products have infringed on their patents. We are not knowingly infringing any third-party patents. Should it ultimately be determined that licenses for third-party patents are required, we will undertake best efforts to obtain such licenses on commercially reasonable terms. See Item 3 Legal Proceedings for additional disclosures regarding lawsuits alleging patent infringement. 
+ On occasion, we have entered into various patent licensing and cross-licensing agreements with other companies. We may enter into patent cross-licensing agreements with other third parties in the future as part of our normal business activities. These agreements, when and if entered into, would enable these third parties to use certain patents that we own and enable us to use certain patents owned by these third parties. We have also sold certain patents, retaining a royalty-free license for these patents. 
+ We, along with HPE and IBM, belong to the LTO Consortium, an organization that licenses the Consortium members patents covering the LTO specifications. Media manufacturers and other parties take licenses to the LTO Consortium patent pool in exchange for a royalty payment to the Consortium, which then distributes the royalties to each of the three Consortium members. More details regarding the Consortium and participants in the licensing arrangements available to manufacturers and other parties are available at www.lto.org.
+Segment Information 
+ We operate as a single reporting unit and operating segment for business and operating purposes. Information about revenue attributable to each of our product groups is included in Item 7 Managements Discussion and Analysis of Financial Condition and Results of Operations and information about revenue and long-lived assets attributable to certain geographic regions is included in Note 15 Geographic Information to the consolidated financial statements and risks attendant to our foreign operations is set forth below in Item 1A Risk Factors.Seasonality 
+ As is typical in our industry, we generally have the greatest demand for our products and services in the fourth quarter of each calendar year, or our fiscal third quarter. We usually experience the lowest demand for our products and services in the first and second quarters of each calendar year, or our fiscal fourth quarter and fiscal first quarter, respectively. 
+Backlog 
+ We believe that product backlog has not been a meaningful indicator of net revenue that can be expected for any period. Our products are manufactured based on forecasts of customer demand and we work with our manufacturers and suppliers to support increases and decreases in demand. Orders are generally placed by customers on an as-needed basis. Product orders are confirmed and, in most cases, shipped to customers within four to six weeks. More complex systems and product configurations often have longer lead times, sometimes as much as 26 weeks. The majority of the product backlog is from these more complex systems and typically increases at the end of each fiscal quarter, with these products typically being shipped in the following quarter. Product backlog at any point in time may not translate into net revenue in any subsequent period, as unfilled orders can generally be canceled at any time by the customer. 
+ 
+9 
+
+
+ Executive Officers 
+ Following are the names and positions of our executive officers as of July 31, 2019, including a brief account of the business experience of each. 
+ 
+
+Name | Position with Quantum 
+James J. Lerner | President, Chief Executive Officer and Chairman of the Board
+J. Michael Dodson | Chief Financial Officer 
+Elizabeth King | Chief Revenue Officer 
+Lewis Moorehead | Chief Accounting Officer 
+Don Martella | Senior Vice President, Engineering 
+
+ James Lerner, 49, was appointed as President and CEO of the Company, effective July 1, 2018, and was appointed Chairman of the Board on August 7, 2018. He also serves on the Companys Board. Mr. Lerner has previously served as Vice President and Chief Operating Officer at Pivot3 Inc. from March 2017 to June 2018, and Chief Revenue Officer from November 2016 to March 2017. Prior to Pivot3, from March 2014 to August 2015, Mr. Lerner served as President of Cloud Systems and Solutions at Seagate Technology Public Limited Company. Prior to Seagate, Mr. Lerner served in various executive roles at Cisco Systems, Inc., including most recently as Senior Vice President and General Manager of the Cloud & Systems Management Technology Group. Before beginning his career as a technology company executive, Mr. Lerner was a Senior Consultant at Andersen Consulting. Mr. Lerner earned a Bachelor of Arts in Quantitative Economics and Decision Sciences from U.C. San Diego. 
+ 
+10 
+
+
+ J. Michael Dodson, 58, was appointed Chief Financial Officer effective May 31, 2018. He was also appointed interim Chief Executive Officer, a position in which he served until Jamie Lerner joined the Company on July 1, 2018. From August 2017 to May 2018, Mr. Dodson served as the Chief Financial Officer of Greenwave Systems. Prior to joining Greenwave Systems, Mr. Dodson served as the Chief Operating Officer and Chief Financial Officer at Mattson Technology, Inc. from 2012 to 2017. He joined Mattson as Executive Vice President, Chief Financial Officer and Secretary in 2011. Prior to joining Mattson, Mr. Dodson served as Chief Financial Officer at four global public technology companies and Chief Accounting Officer for an S&P 500 company. Mr. Dodson started his career with Ernst & Young in San Jose, California. Since July 2013, he has served on the Board of Directors of Sigma Designs, Inc., a publicly-traded provider of system-on-chip solutions, including as Lead Independent Director since January 2014 and Chairman of the Audit Committee since 2015. Mr. Dodson currently serves as a director of two private entities: a charitable organization and a privately-held for-profit company. He holds a B.B.A. degree with dual majors in Accounting and Information Systems Analysis and Design from the University of Wisconsin-Madison.
+ Elizabeth King, 61, has served as Quantums Chief Revenue Officer since March 2019. Prior to Quantum, from January 2017 to February 2019, she was Vice President, Go-to-Market & Enablement, HPC & AI at HPE. She joined HPE as part of HPEs acquisition of SGI, where she served as SVP of worldwide sales from January 2014 through 2016. Prior to HPE/SGI, she was vice president of strategic alliances for IBM and global systems integrators at Juniper Networks from June 2010 to January 2014. Prior to Juniper, she was vice president and general manager of the Hitachi Server Group of Hitachi Data Systems. She also held key senior sales, business development and operations roles at Nokia (formerly Alcatel-Lucent), Oracle (formerly Sun Microsystems), Raytheon, and Texas Instruments. Ms. King holds an MBA with honors from the University of Dallas and a Bachelors of Science in mechanical engineering from Lehigh University. 
+ Lewis Moorehead, 47, has served as our Chief Accounting Officer since November 2018. Prior to joining Quantum, Mr. Moorehead was the Director of Finance, Accounting and Tax at Carvana, Co., a publicly traded on-line retailer, from November 2016 to October 2018. From September 2004 to October 2016, he served as Managing Partner at Quassey, an investment firm. While at Quassey, he also served as Vice President of Finance and Principal Accounting Officer at Limelight Networks, a NASDAQ-listed global content delivery network and SaaS provider, from March 2010 to August 2013. He has also held finance and accounting positions at eTelecare Global Solutions, Rivers and Moorehead PLLC, Intelligentias, Inc., American Express and PricewaterhouseCoopers. He holds a Bachelor of Business Administration (B.B.A.), cum laude, in Accounting from the University of Wisconsin-Whitewater. 
+ Don Martella, 51, joined Quantum in August 2006 as Vice President, Tape Automation Engineering in connection with Quantums acquisition of ADIC. In April 2011, he assumed his current role as Senior Vice President of Engineering. In that capacity he is responsible for our research and development and advanced manufacturing activities. Before joining Quantum, Mr. Martella held leadership positions in R&D and Quality at ADIC; and engineering and management roles at Oracle (formerly StorageTek) in the tape business. Mr. Martella holds a Masters in Business Administration and a Bachelor of Science in electrical and computer engineering from the University of Colorado.
+ Employees 
+ We had approximately 800 employees worldwide as of March 31, 2019. 
+ 
+11 
+
+
+ Available Information 
+ Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our website at https://www.quantum.com generally when such reports are available on the SEC website. The contents of our website are not incorporated into this Annual Report on Form 10-K.
+The public may read and copy any materials we file with the SEC at the SECs Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an internet site that contains reports, proxy, and information statements and other information regarding issuers that file electronically with the SEC at http://www.sec.gov. 
+ 

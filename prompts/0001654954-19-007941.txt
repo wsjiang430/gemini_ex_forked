@@ -1,0 +1,119 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1. Business
+  
+ Headquartered in Pittsford, New York, Infinite Group, Inc. is a provider of managed IT and virtualization services and a developer and provider of cybersecurity tools and solutions to private businesses and government agencies. As part of these services we:
+  
+   ●
+ design, develop and market solutions and products that solve and simplify network cybersecurity needs of small and medium sized enterprises (SMEs), government agencies, and certain large commercial enterprises. We are a master distributor for Webroot, a cloud based security platform solution, where we market to and provide support for over 350 reseller partners across North America;
+
+   ●
+ provide level 2 Microsoft and Hewlett Packard server and software-based managed services supporting enterprise customers through our partnership with DXC Technology Company (DXC); and
+
+   ●
+ are an Enterprise Level sales and professional services partner with VMware selling virtualization licenses and solutions and providing virtualization services support to commercial and government customers including the New York State and Local Government and Education (SLED) entities and the New York State Office of General Services (NYS OGS). These activities take place in our virtualization sales organization in conjunction with support from our professional services organization (PSO).
+
+ 
+  Business Overview
+  
+ As of December 31, 2017, we had 58 full-time employees and information technology independent contractors. We possess certifications with our business and technology partners and our personnel maintain numerous certifications and qualifications. Our professionals are located at our headquarters in Pittsford, New York and in Colorado, Florida, Maryland, North Carolina, Texas, and Virginia.
+  
+ We had sales of approximately $6.4 million in 2017 and approximately $7.1 million in 2016. We generated an operating loss of approximately $398,000 in 2017 as compared to approximately $75,000 in 2016. We had a net loss of $75,000 in 2017 as compared to $325,000 in 2016. We recorded other income of $569,999 in 2017 when we had no further obligation to make certain debt payments. We derived approximately 78% of our sales in 2017 and 82% in 2016 from contracts as either a prime contractor or a subcontractor.
+  
+  During 2017, we focused on increasing sales of VMware virtualization software licenses in the SLED and commercial sectors. We have become less reliant on sales of U.S. Federal Government virtualization projects as an Original Equipment Manufacturer (OEM) subcontractor and are focused on increased our direct sales of virtualization projects to both SLED and commercial businesses.
+  
+  During 2016, we were added to the umbrella NYS OGS Contract through our partnership with VMware. Accordingly, our personnel have worked with SLED and other NYS personnel to build relationships needed to pursue additional sales of VMware software licenses and services through the bidding process. During 2017, under this agreement we sold and delivered virtualization software licenses and project credits to New York State of approximately $1.2 million. We designate these as agent sales and, accordingly, only the gross profit is included in our reported sales.
+  
+  During 2017, we were added to the umbrella NYS OGS Contract through our partnership with Hewlett Packard Enterprise Company (HPE), which also enables us to sell complementary virtualization solutions and hyperconverged infrastructure leveraging VMware solutions to SLED customers.
+  
+  We achieved a 17% increase in sales of Webroot to commercial customers through our channel partners in 2017 and continued to earn operating income after incurring start-up losses in prior periods.
+  
+ During 2017, we derived approximately 70% of our sales from one client, DXC, including sales under subcontracts for services to its end clients, principally a major establishment of the U.S. Government (the U.S. Government Entity) for which we manage one of the nation’s largest physical and virtual Microsoft Windows environments. We have been providing this service to the U.S. Government Entity under a long-standing subcontract, which has been renewed annually since 2004. Our team of server experts supports approximately 5,000 physical and virtual servers and 250,000 client workstations from facilities in Maryland and Colorado. Operating 24 hours per day and seven days per week, we consistently meet or exceed the requirements of our service level agreements. We refer to this as our Advanced Server Management (ASM) team.
+  
+ We provide subcontracted professional services to a select set of OEMs and commercial entities that need additional skilled resources when architecting and implementing solutions. We provide cloud computing solutions that include public and private cloud architectures along with hybrid scalable cloud hosting, server virtualization and desktop virtualization solutions. Our experience with cloud and virtualization computing related software has enabled us to take advantage of a growing trend towards Managed IT Services, particularly in security and the SME space. Sales to our principal client, VMware, Inc., consisted of sales under subcontracts for services to their end clients. During 2017, we provided professional services to these clients and earned 8.5% of our sales.
+  
+  Business Strategy
+  
+ Our strategy is to build our business by designing, developing, and marketing IT security based products and solutions that fill technology gaps in cybersecurity. We brought one product to market and we intend to bring other proprietary products and solutions to market through a channel of domestic and international partners and distributors. Our products and solutions are designed to simplify the security needs in customer and partner environments, with a focus on SMEs. We enable our partners by providing recurring revenue based business models that use our automated and continuous plug and play solutions. Products may be sold as standalone solutions or integrated into existing environments to further automate the management of security and related IT functions. Our ability to succeed depends on how successful we are in differentiating ourselves in the market at a time when competition in these markets is on the rise.
+  
+ Our cybersecurity business is comprised of three components: security services, product development, and sales of third party security solutions. We provide services and technical resources to support both our channel partners and end customers. For example, we work with our partner, Webroot, to increase our base of channel partners and to increase sales of Webroot’s cloud based endpoint security solution, with the objective of growing our recurring revenue model.
+  
+ Our goal is to expand our VMware business in both the public and commercial sector by building VMware license sales volume and services concurrently.
+  
+ We are working to expand our managed services business with our prime partner, DXC, and the current federal enterprise customer and its customers. The following sections define specific strategic components of our business strategy.
+   
+3
+
+
+ 
+ 
+  Nodeware
+  
+ In May 2016, we filed a provisional patent application for our proprietary product, Nodeware.  In May 2017, we filed a utility patent application for Nodeware. Our patent application is ready for examination by the U.S. patent application examiner. We launched Nodeware in November 2016. Nodeware is an automated vulnerability management solution that enhances security by proactively identifying, monitoring, and addressing potential vulnerabilities on networks, creating a safeguard against malicious intent to exploit known problems in a customer’s network with simplicity and affordability. Customers have the option to purchase Nodeware or Nodeware Plus to accommodate the varying network needs of their organizations. Nodeware provides a value-based solution designed for SMEs with single subnet or several subnets, whereas Nodeware Plus can accommodate larger organizations with more advanced network needs.
+  
+ Nodeware assesses vulnerabilities in a computer network using scanning technology to capture a comprehensive view of the security exposure of a network infrastructure. Users receive alerts and view network information through a proprietary, web enabled dashboard. Continuous and automated internal scanning and external on demand scanning are components of this offering.
+  
+ Nodeware 2.0 was released to the market during 2017 providing the same solution with a set of new features, such as credentialed vulnerability scanning. This scans the customer’s system through domain credentials without requiring an agent, providing a more comprehensive view of customer vulnerabilities. This level of access often results in the discovery of more missing patches or vulnerabilities that can then be addressed by following instructions available within the Nodeware interface.
+  
+  Nodeware creates an opportunity for resellers, including managed service providers, managed security service providers, distributors, and value-added resellers. We sell Nodeware in the commercial sector through channel partners and agents.
+  
+  Intellectual Property
+  
+  We believe that our intellectual property is an asset that may contribute to the growth and profitability of our business. We rely on a combination of patent-pending and confidentiality procedures and contractual provisions to establish and protect our intellectual property rights in the United States and abroad. To date, we have filed one patent application for our proprietary product, Nodeware, in May 2016. The efforts we have taken to protect our intellectual property may not be sufficient or effective.
+  
+  The U.S. patent system permits the filing of provisional and non-provisional patent applications. A non-provisional patent application is examined by the United States Patent and Trademark Office (USPTO) and can mature into a patent once the USPTO determines that the claimed invention meets the standards for patentability. Our patent application for Nodeware is ready for examination by the U.S. patent application examiner.
+  
+  Technology and Product Development
+  
+ Our goal is to position our products and solutions to enable vertical integration with other solutions. We have a technology and product development strategy aligned with our business strategy.
+ Cybersecurity Services
+  
+ We provide cybersecurity consulting services that include security awareness training, risk management, IT governance and compliance, security audit services, penetration testing, and virtual Chief Information Security Officer (CISO) offerings to channel partners and direct customers across different vertical markets (banking, healthcare, manufacturing, etc.) in North America. Our cybersecurity projects use Nodeware to create a living document that a customer can use to go forward on a path of continuous improvement for its overall IT security. We validate overall network security with the goal of maintaining the integrity of confidential client information, preserving the continuity of services, and minimizing potential data damage from attempted threats and incidents.
+ Government Contract Vehicles and Agreements
+  
+  A government contract vehicle is a mechanism for conducting business with government entities which helps to significantly reduce such entities’ lead time for procuring products or services and lowers agency acquisition costs associated with managing complex bid procedures. We believe that possessing contract vehicles will facilitate sales growth if we are successful at bidding and winning business within task orders generated under these vehicles. However, the amount of sales that we may generate is not determinable until a specific project award is made.
+  
+  Federal Supply Schedule Contract. In 2003, we were awarded a Federal Supply Schedule Contract by the U.S. General Services Administration (GSA) for IT consulting services (Schedule 70). Our Schedule 70 contract was extended through May 2019. Having a Schedule 70 allows us to compete for and secure prime contracts with all executive agencies of the U.S. Government, as well as other national and international organizations. Our Schedule 70 contract encompasses 95 different labor categories. We have used our Schedule 70 as a basis for pricing our current and proposed work.
+  
+  New York State and Local Government and Education (SLED). In 2016, we began working with VMware when it established a contract with NYS. VMware designated us as one of a select group of partners that is authorized to sell VMware licenses to SLED customers throughout New York State under their 2016 New York State Information Technology Service (ITS) Manufacturer Umbrella Contract. Beginning in 2017, we also have a similar contract with HPE under the NYS OGS contract that further enables us to bring solutions to SLED customers.
+  
+  The Quilt. The Quilt is the non-profit national coalition of 36 of our country’s most advanced regional research and education organizations. Participants in The Quilt provide advanced network services and applications to over 250 universities and thousands of other educational institutions. Based on The Quilt participants’ combined experiences in operations and development of leading-edge technologies, The Quilt aims to influence the national agenda on information technology infrastructure, with emphasis on networking for research and education. Through this coalition, The Quilt promotes delivery of networking services at lower cost, higher performance and greater reliability and security. Carahsoft is a master government aggregator and distributor for the industry’s leading and emerging IT manufacturers. We have an agreement with Carahsoft to place orders against Carahsoft’s Quilt contract for VMware products and support services for a period of one year, renewable annually.
+  
+  Partner Agreements
+  
+  VMware Enterprise Solution Provider and Consulting Subcontractor. Since 2007, we have been an approved VMware Authorized Consultant (VAC) by VMware, Inc. VMware is recognized as the industry leader in virtualization technology. As a VAC, we are trained and certified to deliver consulting services and solutions leveraging VMware technology. Our cloud solutions let entities convert the capital expenditure of building and maintaining in-house data storage and computing systems to an affordable, low monthly operating cost. We compare desired outcomes, determine financial implications and create a clear plan to optimize this technology. We implement offsite data storage, server virtualization, virtual desktop infrastructure, and public, private or hybrid cloud solutions.
+   
+4
+
+
+ 
+ 
+ We recognized demand for VMware related services in the public sector (U.S. Government and state marketplace) and joined VMware’s Consulting and Integration Partner Program (CIPP), a program specifically targeted toward highly skilled and committed partners. We have completed over 700 projects around the globe and in market sectors including U.S. Government, state governments, education, and commercial corporations.
+  
+ During 2015, we became a VMware Enterprise Level Solution Provider (ESP) where we still have the benefits of an architect, integration, and service partner along with the ability to sell VMware licenses. We believe that this has positioned us to become a full lifecycle solutions provider to create our own opportunities to sell VMware licenses directly to end customers. We assess, architect, recommend, implement, and support our customers directly while still maintaining our current relationship with the VMware PSO. We have several solution specializations and are registered with the U.S. Federal and Education Specializations and SLED within VMware.
+  
+  Certifications
+  
+ Our technical support personnel maintain leading edge certifications and qualifications in the respective software applications. These certifications are examples of our concerted effort to grow and expand our virtualization practice. We believe that our virtualization experience and expertise with VMware will offer opportunities to increase sales, particularly in the cloud computing market.
+  
+  CISSP® - Certified Information Systems Security Professionals. The CISSP certification is a credential for those with technical and managerial competence, skills, experience, and credibility to design, engineer, implement, and manage overall information security programs to protect organizations from increasingly sophisticated attacks. It is a globally recognized standard of achievement. Certain of our employees in our cyber security group have this certification.
+  
+  Microsoft Silver Certified Partner. We are part of Microsoft's Accredited Online Cloud Services program. We have been certified in sales, pricing and technical delivery of Office 365 which combines the familiar Office desktop suite with cloud-based versions of the next-generation communications and collaboration services: Exchange Online, SharePoint Online and Lync Online. These services are providing real world benefits to our clients while allowing us to offer clear guidelines for transitioning new users to hybrid-cloud-based solutions. We received certification for Windows Intune which provides complete remote desktop support capabilities enhancing our overall goal of providing complete solutions for virtualization and cloud based Software as a Service (SaaS). What once required expensive hardware and time consuming deployments can now be delivered seamlessly, including web conferencing, collaboration, document management, messaging, customer relationship management and productive office web applications all with lower total cost of ownership and quicker return on investment. We believe our Microsoft competencies assist our business development personnel when presenting solutions that, if accepted, will increase our sales.
+  
+  DXC Technology Company (DXC) Global Procurement Master Terms Agreement. We are a member of a select group of suppliers that enables DXC to purchase products and services from us under a global procurement master agreement and as specified in a statement of work for each project. This relationship continues to evolve and is something that is responsible for our long-term relationship with the Federal customer mentioned previously. DXC has many tools and resources to help us generate new sales streams, and improve our mutual profitability, while at the same time adding unique value for our joint clients. The program comprises practical tools and services that we anticipate will help us in the key areas of marketing and selling our solutions, optimizing the technology, and collaborating with other organizations within our industry to generate more revenue. Our global procurement master agreement with DXC runs to January 2020.
+  
+  Competition
+  
+ As we increase our focus in security services and product development, we face competition from several different vendors in this evolving market. We compete with other IT professional services firms operating in the U.S. Government, state and local government and commercial marketplace. We obtain a portion of our business based on proposals submitted in response to requests from potential and current clients, who typically also receive proposals from other firms. We face competition in the commercial markets from other IT service providers and software development companies, large and small. Many of our competitors, in general, have substantially greater capital resources, research and development staffs, sales, and marketing resources, facilities, and experience.
+ Company Information Available on the Internet
+  
+  We maintain a website at https://IGIus.com. Through a link to the Investor Relations section of our website, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the Exchange Act), are available, free of charge, as soon as reasonably practicable after we electronically file such material with or furnish it to the Securities and Exchange Commission (SEC). We also maintain a web site for our cybersecurity product, Nodeware, and services at https://www.nodeware.com. The content of our websites shall not be deemed part of this report.
+ Employees
+  
+  As of December 31, 2017, we have 58 full-time employees, including 42 in information technology services, three in executive management, three in accounting, finance and administration, and ten in software development, marketing and sales. We are not subject to any collective bargaining agreements and we believe that relations with our employees and independent contractors are good. We believe that we are currently staffed at an appropriate level to administratively implement and carry out our business plan for the next 12 months. However, we expect to add positions in marketing and information technology services as we expand our sales.
+  
+ Our ability to develop and market our services, and to establish and maintain a competitive position in our businesses will depend, in large part, upon our ability to attract and retain qualified technical, marketing and managerial personnel, of which there can be no assurance.
+  
+  General Information
+  
+ We were incorporated under the laws of the state of Delaware on October 14, 1986. Our principal corporate headquarters are located at 175 Sully’s Trail, Suite 202, Pittsford, NY 14534. Our business is in the field of delivering IT services, licensing our cybersecurity product, Nodeware, and selling third party software licenses.
