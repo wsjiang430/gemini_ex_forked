@@ -1,0 +1,1463 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+-------------------------------------------------+----------
+
+Overview
+ 
+Digerati Technologies, Inc., a Nevada corporation (including our subsidiaries, “we,” “us,” “Company” or “Digerati”), through its operating subsidiaries in Texas and Florida, Shift8 Networks, Inc., dba, T3 Communications (“T3”) and T3 Communications, Inc. (“T3”), provides cloud services specializing in Unified Communications as a Service (“UCaaS”) solutions for the business market. Our product line includes a portfolio of Internet-based telephony products and services delivered through our cloud application platform and session-based communication network and network services including Internet broadband, fiber, mobile broadband and cloud WAN solutions (SD WAN). Our services are designed to provide enterprise-class, carrier-grade services to the small-to-medium-sized business (“SMB”) at cost-effective monthly rates. Our UCaaS or cloud communication services include fully hosted IP/PBX, mobile applications, Voice over Internet Protocol (“VoIP”) transport, SIP trunking, and customized VoIP services all delivered Only in the Cloud™.
+ 
+As a provider of cloud communications solutions to the SMB, we are seeking to capitalize on the migration by businesses from the legacy telephone network to the Internet Protocol (“IP”) telecommunication network and the migration from hardware-based on-premise telephone systems to software-based communication systems in the cloud. Most SMBs are lagging in technical capabilities and advancement and seldom reach the economies of scale that their larger counterparts enjoy, due to their achievement of a critical mass and ability to deploy a single solution to a large number of workers. SMBs are typically unable to afford comprehensive enterprise solutions and, therefore, need to integrate a combination of business solutions to meet their needs. Cloud computing has revolutionized the industry and opened the door for businesses of all sizes to gain access to enterprise applications with affordable pricing. This especially holds true for cloud telephony applications, but SMBs are still a higher-touch sale that requires customer support for system integration, network installation, cabling, and troubleshooting. We have placed a significant emphasis on that “local” touch when selling, delivering, and supporting our services which we believe will differentiate us from the national providers that are experiencing high attrition rates due to a poor customer support.
+ 
+The adoption of cloud communication services is being driven by the convergence of several market trends, including the increasing costs of maintaining installed legacy communications systems, the fragmentation resulting from use of multiple on-premise systems, and the proliferation of personal smartphones used in the workplace. Today, businesses are increasingly looking for an affordable path to modernizing their communications system to improve productivity, business performance and customer experience.
+ 
+Our cloud solutions offer the SMB reliable, robust, and full-featured services at affordable monthly rates that eliminates high-cost capital expenditures and provides for integration with other cloud-based systems.
+ 
+Recent Developments
+ 
+In September 2019, we entered into a definitive agreement to acquire Nexogy, Inc. (“Nexogy”), a leading provider in South Florida of UCaaS and managed services, offering a portfolio of cloud-based solutions to the high-growth SMB market.  We are expecting to close during our second quarter of FY 2020 (prior to January 31, 2020), subject to FCC regulatory approval and finalizing debt financing for the transaction that has previously been committed to be provided to the Company by an established and traditional lending source.
+ 
+During the year ended July 31, 2019, the Company secured $40,000 from an accredited investor through the issuance of 80,000 restricted common shares with a price of $0.50 per share and 15,000 warrants with an exercise price of $0.50 per share. Also, the Company secured $75,000 from an accredited investor through the issuance of 258,621 restricted common shares with a price of $0.29 per share. The Company also secured $150,000 from an accredited investor through the issuance of 600,000 restricted common shares with a price of $0.25 per share. Furthermore, the Company secured $200,000 from accredited investors under a private placement and issued 200,000 shares of Series A Convertible Preferred Stock at a conversion price of $0.30 per share and warrants to purchase an additional 400,000 shares of its common stock at an exercise price of $0.20 per share.
+ 
+2
+
+ 
+
+Products and Services
+ 
+We provide a comprehensive suite of Internet-based communication services to meet the global needs of businesses that are seeking simple, flexible, and cost-effective communication solutions. Our Internet-based services include fully hosted IP/ Private Branch Exchange (“PBX”) services, Session Initiation Protocol (“SIP”) trunking, call center applications, auto attendant, voice and web conferencing, call recording, messaging, voicemail to email conversion, integrated mobility applications that are device and location agnostic, and other customized IP/PBX features in a hosted or cloud environment. Other services include enterprise-class data and connectivity solutions through multiple broadband technologies including cloud WAN or SD-WAN (Software-defined Wide Area Network), fiber, mobile broadband and Ethernet over copper. We also offer remote network monitoring, data backup and disaster recovery.
+Voice over Internet Protocol Networks 
+ 
+The basic technology of traditional telecommunications systems was designed for slow mechanical switches. Communications over the traditional telephone network are routed through circuits that must dedicate all circuit resources to each call from its inception until the call ends, regardless of whether anyone is actually talking on the circuit. This circuit-switching technology incurs a significant cost per call and does not efficiently support the integration of voice with data services. Data networks, however, were designed for electronic switching. They break the data stream into small, individually addressed packages of data (“packets”) that are routed independently of each other from the origin to the destination. Therefore, they do not require a fixed amount of bandwidth to be reserved between the origin and destination of each call and they do not waste bandwidth when it is not being used for actual transmission of information. This allows multiple voice or voice and data calls to be pooled, resulting in these networks being able to carry more calls with an equal amount of bandwidth. Moreover, they do not require the same complex switching methods required by traditional voice telephone networks, instead using a multiplicity of routers to direct each packet to its destination and automatically routing packets around blockages, congestion or outages.
+ 
+Packet switching can be used within a data network or across networks, including the public Internet. The Internet itself is not a single data network owned by any single entity, but rather a loose interconnection of networks belonging to many owners that communicate using the Internet Protocol. By converting voice signals to digital data and handling the voice signals as data, it can be transmitted through the more efficient switching networks designed for data transmissions and through the Internet using the Internet Protocol. The transmission of voice signals as digitalized data streams over the Internet is known as VoIP. A VoIP network has the following advantages over traditional networks:
+ 
+
+● | Simplification: An integrated infrastructure that supports all forms of communication allows more standardization, a smaller equipment complement, and less equipment management. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Network Efficiency: The integration of voice and data fills up the data communication channels efficiently, thus providing bandwidth consolidation and reduction of the costs associated with idle bandwidth. This combined infrastructure can support dynamic bandwidth optimization and a fault tolerant design. The differences between the traffic patterns of voice and data offer further opportunities for significant efficiency improvements. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Co-existence with traditional communication mediums: IP telephony can be used in conjunction with existing public telephone system switches, leased and dial-up lines, PBXs and other customer premise equipment, enterprise LANs, and Internet connections. IP telephony applications can be implemented through dedicated gateways, which in turn can be based on open standards platforms for reliability and scalability. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Cost reduction: Under the VoIP network, the connection is directly to the Internet backbone and as a result the telephony access charges and settlement fees are avoided. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The growth of voice over the Internet was limited in the past due to poor sound quality caused by technical issues such as delays in packet transmission and by bandwidth limitations related to Internet network capacity and local access constraints. However, the expansion of Internet Protocol network infrastructure, improvements in packet switching and compression technology, new software algorithms and improved hardware have substantially reduced delays in packet transmissions and resulted in superior sound quality to that of the legacy telephone network.
+ 
+3
+
+ 
+
+Cloud Communications
+ 
+Cloud communications are Internet-based voice and data communications where telecommunications applications, switching and storage are hosted by a third-party service provider outside of the organization using the services. Services are accessed by the user over the public Internet. Cloud telephony refers specifically to voice services and more specifically the replacement of conventional business telephone equipment (such as a PBX) with VoIP service hosted by a third-party service provider and delivered over the Internet.
+ 
+We operate a cloud communication network that consists of a VoIP switching system and cloud telephony application platform. Our network allows us to provide end-to-end cloud telephony solutions designed to provide significant benefits to businesses of all sizes, with single or multiple locations. The integration of our cloud communication platform and global VoIP network allows us to provide our customers with virtually any type of telephony solution on a global basis.
+ 
+Our cloud communication solutions, also known as UCaaS, are designed to minimize upfront capital costs, increase the scalability and flexibility of the customer’s communications network and service environment, provide robust features and functionality to increase productivity and reduce the overall cost of communications.
+ 
+Strategy
+ 
+Our strategy is to target the small to medium-sized business market and capitalize on the wave of migration from the legacy telephone network to cloud telephony. We will continue to concentrate our sales and marketing efforts on developing vertically oriented solutions for targeted markets primarily focusing on municipalities, banking, healthcare, legal services and real estate. In addition, we will continue to partner with our distributors and Value-Added Resellers (“VARs”) to expand our customer base. Our typical VAR, also referred to as a Partner, is an information technology services firm, traditional PBX vendor, managed service provider, or systems integrator that has established relationships with businesses in its local market. These VARs are currently providing local customer support for other IT or PBX services but lack the technology infrastructure to provide cloud communication and VoIP services to their customers. Our strategy allows these VARs to focus on their strength of providing first tier support to their customers while we provide the second and third tier technical support required to operate a cloud communication and VoIP network. In addition, we transform our VARs’ business model by introducing new cloud telephony services and adding a new and lucrative recurring revenue stream that increases the VARs’ value proposition for its current and prospective customers.
+ 
+Our cloud-based technology platform enables us and our VARs to deliver enhanced voice services to their business customers. The features supported on our cloud communication platform include all standard telephone features and value-added applications such as voicemail to email, VoIP peering, teleconferencing, IVR auto attendant, and dial-by-name directory. Our system provides our customers and VARs with a migration path from a traditional PBX system to a complete cloud-based PBX solution.
+ 
+Our strategic initiatives to successfully meet our long-term business objectives include:
+ 
+
+● | A disciplined approach to evaluating additional acquisitions as we build on the foundation created by our acquisitions in Texas and Florida in FY2018. We will continue to target local and/or regional UCaaS/cloud telephony providers which have excelled in their market with that “local” touch when serving their business customers. We believe the experience gained in integrating products, personnel, and customers will facilitate continued growth via acquisition. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A continued emphasis on our UCaaS/cloud communication business which operates in a segment of the telecommunication industry that continues to experience significant growth as businesses migrate from legacy phone systems to cloud-based telephony systems. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Enhancements to our broadband product portfolio with an emphasis on marketing leading-edge network and business continuity solutions like cloud WAN, also known as SD-WAN (Software Defined Wide-Area Network), to our customers which we anticipate will increase average revenue per customer. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+ 
+
+
+● | Implementing a total support model (pre and post sales) for building a world-class service delivery and help desk organization. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Emphasis on our sales distribution model that enables our VARs to offer cloud and session-based communication services to the enterprise market in various regions and industries. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Continue enhancing our infrastructure and back office system to streamline operations, automate key processes, and support the scalability of our VAR distribution model. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Competitive Conditions
+ 
+The cloud services industry, including the provisioning of cloud communications services, cloud connectivity, cloud storage and cloud computing, as well as carrier voice and data services, is highly competitive, rapidly evolving and subject to constant technological change and intense marketing by providers with similar products and services. We expect that new, smaller, but very agile competitors, specializing in providing service to regional and emerging markets at low margin and hence low cost, may have an impact on our market. Similarly, the business services market includes competitors who may be significantly larger and have substantially greater market presence, financial, technical, operational and marketing resources than we do, including Tier 1 carriers, cable companies and premise-based solutions providers that are implementing cloud communication services. In the event that such a competitor expends significant sales and marketing resources in one or several markets where we compete with them, we may not be able to compete successfully in those markets. Specialized cloud services providers, who focus on one or more cloud service or application, could adopt aggressive pricing and promotion practices that could impact our ability to compete. We also believe that competition will continue to increase, placing downward pressure on prices. Such pressure could adversely affect our gross margins if we are not able to reduce our costs commensurate with the price reductions of our competitors. In addition, the pace of technological change makes it impossible for us to predict whether we will face new competitors using different technologies to provide the same or similar services offered or proposed to be offered by us. If our competitors were to provide better and more cost-effective services than ours, we may not be able to increase our revenues or capture any significant market share.
+ 
+The VoIP and Internet telephony market are highly competitive. Our competitors include major telecommunications carriers in the U.S., national UCaaS providers, and numerous small cloud telephony operators. We expect to face continuing competition based on price and service offerings from existing competitors and new market entrants in the future. The principal competitive factors in our market include price, coverage, customer service, technical response times, reliability, and network size/capacity. The competitive landscape is rapidly altering the number, identity and competitiveness of the marketplace, and we are unable to determine with certainty the impact of potential consolidation in our industry.
+ 
+Many of our competitors have substantially greater financial, technical and marketing resources, larger customer bases, longer operating histories, greater name recognition and more established relationships in the industry than we have. As a result, certain of these competitors may be able to adopt more aggressive pricing policies that could hinder our ability to market our services. We believe that our key competitive advantages are our ability to deliver reliable, high quality voice service over the Internet in a cost-effective manner, superior customers service and our VAR distribution model. We cannot provide assurances, however, that these advantages will enable us to succeed against comparable service offerings from our competitors.
+ 
+Government Regulation
+ 
+VoIP and other communications services, like ours, have been subject to less regulation at the state and federal levels than traditional telecommunications services. Providers of traditional telecommunications services are subject to the highest degree of regulation, while providers of VoIP and other information services are largely exempt from most federal and state regulations governing traditional common carriers. The FCC has subjected VoIP service providers to a smaller subset of regulations that apply to traditional telecommunications service providers and has not yet classified VoIP services as either telecommunications or information. The FCC is currently examining the status of VoIP service providers and the services they provide in multiple open proceedings. In addition, many state regulatory agencies impose taxes and other surcharges on VoIP services, and certain states take the position that offerings by VoIP providers are intrastate telecommunications services and therefore subject to state regulation. These states argue that if the beginning and end points of communications are known, and if some of these communications occur entirely within the boundaries of a state, the state can regulate that offering. We believe that the FCC has preempted states from regulating VoIP offerings in the same manner as providers of traditional telecommunications services. However, this issue has not been resolved definitively as a matter of law, and it remains possible that the FCC could determine that such services are not information services, or that there could be a judicial or legislative determination that the states are not preempted from regulating VoIP services as traditional telecommunications services. We cannot predict how or when these issues will be resolved or its potential future impact on our business at this time.
+ 
+5
+
+ 
+
+The effect of any future laws, regulations and orders on our operations, including, but not limited to, our cloud-based communications and collaboration services, cannot be determined. But as a general matter, increased regulation and the imposition of additional funding obligations increases service costs that may or may not be recoverable from our customers, which could result in making our services less competitive with traditional telecommunications services if we increase our prices or decreasing our profit margins if we attempt to absorb such costs.
+ 
+Federal, state, local and foreign governmental organizations are considering other legislative and regulatory proposals that would regulate and/or tax applications running over the Internet. We cannot predict whether new taxes will be imposed on our services, and depending on the type of taxes imposed, whether and how our services would be affected thereafter. Increased regulation of the Internet may decrease its growth and hinder technological development, which may negatively impact the cost of doing business via the Internet or otherwise materially adversely affect our business, financial condition and results of operations.
+ 
+Regulation of Internet-based Telecommunication Services in the United States
+ 
+We have the necessary authority under Section 214 of the Communications Act to operate as a domestic and international carrier. We are considered a non-dominant domestic interstate carrier subject to minimal regulation by the FCC. We are not required to obtain FCC authority to initiate or expand our domestic interstate operations, but we are required to obtain FCC approval to transfer control or discontinue service and are required to file various reports and pay various fees and assessments. In addition, we must offer service on a nondiscriminatory basis at just and reasonable rates and are subject to the FCC’s complaint jurisdiction. Generally, our international voice traffic is subject to minimal regulation by state and local jurisdictions.
+ 
+We are a competitive local exchange carrier (CLEC) in Florida. We are subject to the same FCC regulations applicable to telecommunications companies, as well as regulation by the public utility commission in Florida. As a CLEC, we are generally required to register or seek certification to provide certain services, to file and update tariffs setting forth the terms, conditions and prices for our intrastate services and to comply with various consumer protection, reporting, record-keeping, surcharge collection requirements.
+ 
+The FCC requires Internet voice communications service providers, such as our company, to provide E-911 service in all geographic areas covered by the traditional wire-line E-911 network. Under the FCC’s rules, Internet voice communications providers must transmit the caller’s phone number and registered location information to the appropriate public safety answering point, or PSAP, for the caller’s registered location. The FCC also requires interconnected VoIP service providers to make Universal Service Fund (“USF”) contributions. We believe that our services are currently compliant with all applicable requirements of the FCC, and we have made and are making the required contributions to the USF. However, should we at some time fail to meet certain requirements or fail to make required contributions, we could be subject to revocation of our authority to operate or to fines or penalties.
+ 
+As a result of the FCC’s preemption of states’ ability to regulate certain aspects of VoIP service, and a trend in state legislatures to affirmatively deregulate VoIP services for most purposes, our VoIP services are subject to relatively few state regulatory requirements aside from collection of state and local E911 fees and state Universal Service support obligations. We believe that our VoIP services are currently compliant with all applicable state requirements, and we have made and are making the required contributions to E911, state USF, and other funds. The state regulatory framework for our VoIP services continues to evolve, so we, in conjunction with our professional advisors, monitor the actions of the various state regulatory agencies and endeavor to ensure that we are in compliance with applicable state law, including any new statutes or regulations that may be passed. However, there can be no assurance that we will become aware of all applicable requirements on a timely basis, or that we will always be fully compliant with applicable rules and regulations. Should we fail to be compliant with applicable state regulations, or to file required reports with state regulatory agencies, we could be subject to fines and/or penalties.
+ 
+6
+
+ 
+
+In addition to regulations addressing Internet telephony and broadband services, other regulatory issues relating to the Internet generally could affect our ability to provide our services. Congress has adopted legislation that regulates certain aspects of the Internet including online content, user privacy, taxation, liability for third-party activities and jurisdiction. In addition, a number of initiatives pending in Congress and state legislatures would prohibit or restrict advertising or sale of certain products and services on the Internet, which may have the effect of raising the cost of doing business on the Internet generally.
+ 
+International Regulation
+ 
+The regulatory treatment of Internet telephony outside of the U.S. varies widely from country to country. A number of countries that currently prohibit competition in the provision of voice telephony also prohibit Internet telephony. Other countries permit but regulate Internet telephony. Some countries will evaluate proposed Internet telephony service on a case-by-case basis and determine whether it should be regulated as a voice service or as another telecommunications service. In many countries, Internet telephony has not yet been addressed by legislation or regulation. Increased regulation of the Internet and/or Internet telephony providers or the prohibition of Internet telephony in one or more countries could adversely affect our business and future prospects if we decide to expand globally.
+Customers and Suppliers
+ 
+We rely on various suppliers to provide services in connection with our VOIP and UCaaS offerings. Our customers include businesses in various industries including Healthcare, Banking, Financial Services, Legal, Real Estate, and Construction. We are not dependent upon any single supplier or customer.
+ 
+During the years ended July 31, 2019 and 2018, the Company did not derive a significant amount of revenue from one single customer.
+ 
+As of the year ended July 31, 2019, the company derived 9%, 7%, 6% and 6% total accounts receivable from four customers. During the year ended July 31, 2018, the company derived 13% and 23% total accounts receivable from two customers.
+ 
+Employees
+ 
+As of July 31, 2019, we had 23 employees, all of whom performed sales, operational, technical and administrative functions. We believe our future success will depend to a large extent on our continued ability to attract and retain highly skilled and qualified employees. We consider our employee relations to be good. None of these aforementioned employees belong to labor unions.
+ITEM 1. FINANCIAL STATEMENTS
+DIGERATI TECHNOLOGIES, INC. AND SUBSIDIARIES
+ CONSOLIDATED BALANCE SHEETS
+ (In thousands)
+ 
+
+ | July 31, | | | July 31, | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------+---+----------+--
+ | 2019 | | | 2018 | 
+ASSETS | | | | | 
+CURRENT ASSETS: | | | | | 
+Cash and cash equivalents | $ | 406 | | | $ | 388 | 
+Accounts receivable, net | | 262 | | | | 229 | 
+Prepaid and other current assets | | 107 | | | | 124 | 
+Total current assets | | 775 | | | | 741 | 
+LONG-TERM ASSETS: | | | | | | | 
+Intangible assets, net | | 1,832 | | | | 2,211 | 
+Goodwill, net | | 810 | | | | 835 | 
+Property and equipment, net | | 579 | | | | 713 | 
+Other assets | | 58 | | | | 59 | 
+Investment in Itellum | | 185 | | | | - | 
+Total assets | $ | 4,239 | | | $ | 4,559 | 
+LIABILITIES AND STOCKHOLDERS’ DEFICIT | | | | | | | 
+CURRENT LIABILITIES: | | | | | | | 
+Accounts payable | $ | 1,264 | | | $ | 1,177 | 
+Accrued liabilities | | 1,493 | | | | 893 | 
+Equipment financing | | 65 | | | | 30 | 
+Convertible note payable, current, net $547 and $460, respectively | | 1,005 | | | | 618 | 
+Note payable, current, related party, net of $7 and $0, respectively | | 383 | | | | 126 | 
+Note payable, current, net $0 and $0, respectively | | 1,218 | | | | 725 | 
+Deferred income | | 285 | | | | 262 | 
+Derivative liability | | 927 | | | | 632 | 
+Total current liabilities | | 6,640 | | | | 4,463 | 
+LONG-TERM LIABILITIES: | | | | | | | 
+Convertible debenture, net $29 and $273, respectively | | 21 | | | | 27 | 
+Notes payable, related party, net $17 and $38, respectively | | 136 | | | | 505 | 
+Note payable | | - | | | | 500 | 
+Equipment financing | | 100 | | | | 64 | 
+Total long-term liabilities | | 257 | | | | 1,096 | 
+Total liabilities | | 6,897 | | | | 5,559 | 
+Commitments and contingencies | | | | | | | 
+STOCKHOLDERS’ DEFICIT: | | | | | | | 
+Preferred stock, $0.001, 50,000,000 shares authorized, 225,000 and 0 issued and outstanding, respectively | | - | | | | - | 
+Common stock, $0.001, 150,000,000 shares authorized, 23,740,406 and 12,775,143 issued and outstanding, respectively (6,000,000 reserved in Treasury) | | 24 | | | | 13 | 
+Additional paid in capital | | 82,972 | | | | 79,993 | 
+Accumulated deficit | | (85,320 | ) | | | (80,800 | )
+Other comprehensive income | | 1 | | | | 1 | 
+Total Digerati’s stockholders’ deficit | | (2,323 | ) | | | (793 | )
+Noncontrolling interest | | (335 | ) | | | (207 | )
+Total stockholders’ deficit | | (2,658 | ) | | | (1,000 | )
+Total liabilities and stockholders’ deficit | $ | 4,239 | | | $ | 4,559 | 
+
+ 
+See accompanying notes to consolidated financial statements
+  
+F-3
+
+ 
+
+DIGERATI TECHNOLOGIES, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ (In thousands, except per share amounts)
+ 
+
+ | For the Years ended July 31, | 
+--------------------------------------------------------------+------------------------------+-----------
+ | 2019 | | | 2018 | 
+OPERATING REVENUES: | | | | | 
+Cloud-based hosted services | $ | 6,040 | | | $ | 2,001 | 
+Total operating revenues | | 6,040 | | | | 2,001 | 
+OPERATING EXPENSES: | | | | | | | 
+Cost of services (exclusive of depreciation and amortization) | | 3,128 | | | | 1,053 | 
+Selling, general and administrative expense | | 4,208 | | | | 3,084 | 
+Legal and professional fees | | 390 | | | | 490 | 
+Bad debt | | 6 | | | | 15 | 
+Depreciation and amortization expense | | 669 | | | | 227 | 
+Total operating expenses | | 8,401 | | | | 4,869 | 
+OPERATING LOSS | | (2,361 | ) | | | (2,868 | )
+OTHER INCOME (EXPENSE): | | | | | | | 
+Gain (loss) on derivative instruments | | (74 | ) | | | (91 | )
+Income (tax) benefit | | (47 | ) | | | 118 | 
+Interest income (expense) | | (2,166 | ) | | | (379 | )
+Total other income (expense) | | (2,287 | ) | | | (352 | )
+NET LOSS INCLUDING NONCONTROLLING INTEREST | | (4,648 | ) | | | (3,220 | )
+Less: Net loss attributable to the noncontrolling interests | | 128 | | | | 57 | 
+NET LOSS ATTRIBUTABLE TO DIGERATI’S SHAREHOLDERS | | (4,520 | ) | | | (3,163 | )
+Deemed dividend on Series A Convertible preferred stock | | (29 | ) | | | - | 
+NET LOSS ATTRIBUTABLE TO DIGERATI’S COMMON SHAREHOLDERS | $ | (4,549 | ) | | $ | (3,163 | )
+INCOME (LOSS) PER COMMON SHARE - BASIC | $ | (0.27 | ) | | $ | (0.31 | )
+INCOME (LOSS) PER COMMON SHARE - DILUTED | $ | (0.27 | ) | | $ | (0.31 | )
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING - BASIC | | 16,650,507 | | | | 10,339,371 | 
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING - DILUTED | | 16,650,507 | | | | 10,339,371 | 
+
+ 
+See accompanying notes to consolidated financial statements
+ 
+F-4
+
+ 
+
+DIGERATI TECHNOLOGIES, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ DEFICIT
+ YEARS ENDED JULY 31, 2018 AND 2019
+ (In thousands, except for share amounts)
+ 
+
+ | Equity Digerati’s Shareholders | | | | 
+-------------------------------------------------------------------------------------------+--------------------------------+---------+--------+---+-------------------
+ | Convertible Preferred | | Common | | Additional Paid-in | Accumulated | Other Comprehensive | | Stockholders | | | Noncontrolling | | | 
+ | Shares | | Par | | Shares | Par | Capital | | Deficit | | | Income | | Equity | | Interest | | Totals | 
+BALANCE, July 31, 2017 | | - | | - | | 8,386,056 | $ | 8 | | $ | 76,986 | | $ | (77,637 | ) | $ | 1 | | $ | (642 | ) | $ | - | | $ | (642 | )
+Stock issued for services, to employees | | - | | - | | 1,807,012 | | 2 | | | 1,052 | | | - | | | - | | | 1,054 | | | - | | | 1,054 | 
+Stock issued for services | | - | | - | | 406,500 | | - | | | 186 | | | - | | | - | | | 186 | | | - | | | 186 | 
+Stock issued for AP settlement | | - | | - | | 35,575 | | - | | | 15 | | | - | | | - | | | 15 | | | - | | | 15 | 
+Stock issued for cash | | - | | - | | 960,000 | | 1 | | | 479 | | | - | | | - | | | 480 | | | - | | | 480 | 
+Stock issued for convertible debt | | - | | - | | 505,000 | | 1 | | | 3 | | | - | | | - | | | 4 | | | - | | | 4 | 
+Stock issued, extension of debt | | - | | - | | 25,000 | | - | | | 13 | | | - | | | - | | | 13 | | | - | | | 13 | 
+Stock issued for Acquisition | | - | | - | | 500,000 | | 1 | | | 174 | | | - | | | - | | | 175 | | | - | | | 175 | 
+Stock issued, exercise of warrants | | - | | - | | 150,000 | | - | | | 15 | | | - | | | - | | | 15 | | | - | | | 15 | 
+Value of warrants issued | | - | | - | | - | | - | | | 670 | | | - | | | - | | | 670 | | | - | | | 670 | 
+Sale of subsidiary shares to a noncontrolling interest | | - | | - | | - | | - | | | 400 | | | - | | | - | | | 400 | | | (150 | ) | | 250 | 
+Net Ioss | | - | | - | | - | | - | | | - | | | (3,163 | ) | | - | | | (3,163 | ) | | (57 | ) | | (3,220 | )
+BALANCE, July 31, 2018 | | - | | - | | 12,775,143 | $ | 13 | | $ | 79,993 | | $ | (80,800 | ) | $ | 1 | | $ | (793 | ) | $ | (207 | ) | $ | (1,000 | )
+Stock issued for services, to employees | | - | | - | | 1,827,926 | | 2 | | | 310 | | | - | | | - | | | 312 | | | - | | | 312 | 
+Amortization of employee stock options | | - | | | | - | | - | | | 419 | | | - | | | - | | | 419 | | | - | | | 419 | 
+Common stock issued for services | | - | | - | | 925,000 | | 1 | | | 248 | | | - | | | - | | | 249 | | | - | | | 249 | 
+Common stock issued for settlement of accounts payable | | - | | - | | 138,714 | | - | | | 37 | | | - | | | - | | | 37 | | | - | | | 37 | 
+Common stock and warrants issued for cash | | - | | - | | 938,621 | | 1 | | | 264 | | | - | | | - | | | 265 | | | - | | | 265 | 
+Series A Convertible preferred stock issued for cash | | 225,000 | | - | | - | | - | | | 225 | | | - | | | - | | | 225 | | | - | | | 225 | 
+Stock issued for investment in Itellum | | - | | - | | 500,000 | | 1 | | | 84 | | | - | | | - | | | 85 | | | - | | | 85 | 
+Common stock issued for debt | | - | | - | | 288,000 | | - | | | 43 | | | - | | | - | | | 43 | | | - | | | 43 | 
+Common Stock issued for debt conversion | | - | | - | | 4,592,002 | | 5 | | | 311 | | | - | | | - | | | 316 | | | - | | | 316 | 
+Common stock issued concurrent with convertible debt | | | | | | 1,050,000 | | 1 | | | (1 | ) | | - | | | - | | | - | | | - | | | - | 
+Derivative liability resolved to APIC due to note conversion | | - | | - | | - | | - | | | 823 | | | - | | | - | | | 823 | | | - | | | 823 | 
+Common stock issued for debt extension | | - | | - | | 255,000 | | - | | | 54 | | | - | | | - | | | 54 | | | - | | | 54 | 
+Common Stock issued for accrued interest payments on debt | | - | | - | | 375,000 | | - | | | 60 | | | - | | | - | | | 60 | | | - | | | 60 | 
+Common stock issued, exercise of warrants | | - | | - | | 75,000 | | - | | | 7 | | | - | | | - | | | 7 | | | - | | | 7 | 
+Debt discount from warrants issued with debt | | - | | - | | - | | - | | | 31 | | | - | | | - | | | 31 | | | - | | | 31 | 
+Warrants expense amortization | | - | | - | | - | | - | | | 64 | | | - | | | - | | | 64 | | | - | | | 64 | 
+Beneficial conversion feature on Series A Convertible preferred stock | | - | | - | | - | | - | | | 29 | | | - | | | - | | | 29 | | | - | | | 29 | 
+Deemed dividend from beneficial conversion feature on Series A Convertible preferred stock | | - | | - | | - | | - | | | (29 | ) | | - | | | - | | | (29 | ) | | - | | | (29 | )
+Net Ioss | | - | | - | | - | | - | | | - | | | (4,520 | ) | | - | | | (4,520 | ) | | (128 | ) | | (4,648 | )
+BALANCE, July 31, 2019 | | 225,000 | | - | | 23,740,406 | $ | 24 | | $ | 82,972 | | $ | (85,320 | ) | $ | 1 | | $ | (2,323 | ) | $ | (335 | ) | $ | (2,658 | )
+
+ 
+See accompanying notes to consolidated financial statements
+ 
+F-5
+
+ 
+
+DIGERATI TECHNOLOGIES, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (In thousands)
+ 
+
+ | For the Years ended July 31, | 
+-------------------------------------------------------------------------------------------+-------------------------------+-------
+ | 2019 | | | 2018 | 
+CASH FLOWS FROM OPERATING ACTIVITIES: | | | | | 
+Net loss | $ | (4,648 | ) | | $ | (3,220 | )
+Adjustments to reconcile net loss to cash used in by operating activities: | | | | | | | 
+Deferred tax benefit | | | | | | (159 | )
+Depreciation and amortization | | 669 | | | | 227 | 
+Stock compensation and warrant expense | | 1,044 | | | | 1,508 | 
+Stock issued for extension of debt | | - | | | | 13 | 
+Bad debt | | 6 | | | | - | 
+Loss on accounts payable settled with stock | | 5 | | | | - | 
+Interest expense from stock issued for debt extension | | 24 | | | | - | 
+Amortization of debt discount | | 1,466 | | | | 277 | 
+Loss (Gain) on derivative liabilities | | 74 | | | | 91 | 
+Changes in operating assets and liabilities: | | | | | | | 
+Accounts receivable | | (40 | ) | | | 56 | 
+Prepaid expenses and other current assets | | 18 | | | | (18 | )
+Accounts payable | | 171 | | | | 181 | 
+Accrued expenses | | 661 | | | | 120 | 
+Deferred income | | 23 | | | | (61 | )
+Net cash used in operating activities | | (527 | ) | | | (985 | )
+CASH FLOWS FROM INVESTING ACTIVITIES: | | | | | | | 
+Cash received from selling of noncontrolling interest | | - | | | | 250 | 
+Cash paid in business acquisition, net of cash acquired | | - | | | | (1,788 | )
+Cash paid for cost method investment | | (83 | ) | | | - | 
+Cash paid in acquisition of equipment | | (52 | ) | | | - | 
+Net cash used in investing activities | | (135 | ) | | | (1,538 | )
+CASH FLOWS FROM FINANCING ACTIVITIES: | | | | | | | 
+Proceeds from sale of stock and warrants | | 473 | | | | 495 | 
+Borrowings from convertible debt, net of original issuance cost and discounts | | 1,044 | | | | 1,397 | 
+Borrowings from related party note, net | | 25 | | | | 525 | 
+Borrowings from 3rd party promissory notes, net | | 100 | | | | 890 | 
+Principal payments on convertible notes, net | | (651 | ) | | | (120 | )
+Principal payments on related party notes, net | | (153 | ) | | | (131 | )
+Principal payments on 3rd party promissory notes, net | | (125 | ) | | | (815 | )
+Principal payment on equipment financing | | (33 | ) | | | (3 | )
+Net cash provided by financing activities | | 680 | | | | 2,238 | 
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS | | 18 | | | | (285 | )
+CASH AND CASH EQUIVALENTS, beginning of period | | 388 | | | | 673 | 
+CASH AND CASH EQUIVALENTS, end of period | $ | 406 | | | $ | 388 | 
+SUPPLEMENTAL DISCLOSURES: | | | | | | | 
+Cash paid for interest | $ | 541 | | | $ | 143 | 
+Income tax paid | $ | - | | | $ | 116 | 
+SUPPLEMENTAL DISCLOSURES OF NON-CASH INVESTING AND FINANCING ACTIVITIES | | | | | | | 
+Debt discount from derivative liabilities | $ | 1,044 | | | $ | 542 | 
+Debt discount from warrants issued with debt | $ | 31 | | | $ | 402 | 
+Debt discount from common stock issued with debt | $ | 43 | | | $ | 4 | 
+Common Stock issued for debt conversion | $ | 316 | | | $ | - | 
+Common Stock issued for accrued interest payments on debt | $ | 60 | | | | | 
+Common Stock issued for debt extension | $ | 29 | | | $ | - | 
+Common Stock issued to settle accounts payable | $ | - | | | $ | 15 | 
+Derivative liability resolved to APIC due to debt conversion | $ | 823 | | | $ | - | 
+Deemed dividend from beneficial conversion feature on Series A Convertible preferred stock | $ | 29 | | | $ | - | 
+Stock issued for business acquisition | $ | - | | | $ | 175 | 
+Equipment Financing on purchased assets | $ | 104 | | | $ | 98 | 
+Note payable issued for business acquisition | $ | - | | | $ | 1,425 | 
+Stock issued for investment in Itellum | $ | 85 | | | $ | - | 
+Note payable issued for investment in Itellum | $ | 18 | | | $ | - | 
+
+ 
+See accompanying notes to consolidated financial statements
+  
+F-6
+
+ 
+
+DIGERATI TECHNOLOGIES, INC.
+ AND SUBSIDIARIES
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+Description of Business. Digerati Technologies, Inc. (“we”, “our”, “Company” or “Digerati”) was incorporated in the state of Nevada on May 24, 2004. Digerati is a diversified holding company that has no independent operations apart from its subsidiaries. Through our operating subsidiaries in Texas and Florida, T3 Communications, Inc., and Shift8 Networks, Inc., dba, T3 Communications, we provide cloud services specializing in Unified Communications as a Service (“UCaaS”) solutions for the business market. Our product line includes a portfolio of Internet-based telephony products and services delivered through our cloud application platform and session-based communication network and network services including Internet broadband, fiber, mobile broadband and cloud WAN 9SD WAN) solutions. Our services are designed to provide enterprise-class, carrier-grade services to the small-to-medium-sized business (“SMB”) at cost-effective monthly rates. Our UCaaS or cloud communication services include fully hosted IP/PBX, mobile applications, Voice over Internet Protocol (“VoIP”) transport, SIP trunking, and customized VoIP services all delivered Only in the Cloud™.
+ 
+Principles of Consolidation. The consolidated financial statements include the accounts of Digerati, and its subsidiaries, which are majority owned by Digerati In accordance with ASC 810-10-05. All significant inter-company transactions and balances have been eliminated.
+ 
+Cost Method Investment. The Company holds a minority interest in Itellum. The Company has no influence over the operating and financial policies of Itellum. The Company has no controlling interest, is not the primary beneficiary and does not have the ability to exert significant influence. As a result we accounted for this investment using the cost method of accounting.
+ 
+Reclassifications. Certain amounts in the consolidated financial statements of the prior year have been reclassified to conform to the presentation of the current year for comparative purposes.
+ 
+Use of Estimates. In preparing financial statements, management makes estimates and assumptions that affect the reported amounts of assets and liabilities in the balance sheet and revenue and expenses in the statement of operations. Actual results could differ from those estimates.
+ 
+Beneficial conversion features. The Company evaluates the conversion feature for whether it was beneficial as described in ASC 470-30. The intrinsic value of a beneficial conversion feature inherent to a convertible note payable, which is not bifurcated and accounted for separately from the convertible note payable and may not be settled in cash upon conversion, is treated as a discount to the convertible note payable. This discount is amortized over the period from the date of issuance to the date the note is due using the effective interest method. If the note payable is retired prior to the end of its contractual term, the unamortized discount is expensed in the period of retirement to interest expense. In general, the beneficial conversion feature is measured by comparing the effective conversion price, after considering the relative fair value of detachable instruments included in the financing transaction, if any, to the fair value of the shares of common stock at the commitment date to be received upon conversion.
+ 
+Related parties. The Company accounts for related party transactions in accordance with ASC 850 (“Related Party Disclosures”). A party is considered to be related to the Company if the party directly or indirectly or through one or more intermediaries, controls, is controlled by, or is under common control with the Company. Related parties also include principal owners of the Company, its management, members of the immediate families of principal owners of the Company and its management and other parties with which the Company may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests. A party which can significantly influence the management or operating policies of the transacting parties or if it has an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests is also a related party.
+ 
+F-7
+
+ 
+
+Concentration of Credit Risk. Financial instruments that potentially subject Digerati to concentration of credit risk consist primarily of trade receivables. In the normal course of business, Digerati provides credit terms to its customers. Accordingly, Digerati performs ongoing credit evaluations of its customers and maintains allowances for possible losses, which, when realized, have been within the range of management’s expectations. Digerati maintains cash in bank deposit accounts, which, at times, may exceed federally insured limits. Digerati has not experienced any losses in such accounts and Digerati does not believe it’s exposed to any significant credit risk on cash and cash equivalents.
+ 
+Revenue Recognition. On August 1, 2018, we adopted Topic 606 using the modified retrospective method applied to those contracts which were not completed as of August 1, 2018. Results for reporting periods beginning after August 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting under Topic 605. There was no impact to the opening balance of accumulated deficit or revenues for the year ended July 31, 2019 as a result of applying Topic 606.
+ 
+Sources of revenue: 
+ 
+Cloud-based hosted Services. The Company recognizes cloud-based hosted services revenue, mainly from subscription services for its cloud telephony applications that includes hosted IP/PBX services, SIP trunking, call center applications, auto attendant, voice and web conferencing, call recording, messaging, voicemail to email conversion, integrated mobility applications that are device and location agnostic, and other customized applications. Other services include enterprise-class data and connectivity solutions through multiple broadband technologies including cloud WAN or SD-WAN (Software-defined Wide Area Network), fiber, and Ethernet over copper. We also offer remote network monitoring, data backup and disaster recovery services. The Company applies a five-step approach in determining the amount and timing of revenue to be recognized: (1) identifying the contract with a customer, (2) identifying the performance obligations in the contract, (3) determining the transaction price, (4) allocating the transaction price to the performance obligations in the contract and (5) recognizing revenue when the performance obligation is satisfied. Substantially all of the Company’s revenue is recognized at the time control of the products transfers to the customer.
+ 
+Service Revenue
+ 
+Service revenue from subscriptions to the Company’s cloud-based technology platform is recognized over time on a ratable basis over the contractual subscription term beginning on the date that the platform is made available to the customer. Payments received in advance of subscription services being rendered are recorded as a deferred revenue. Usage fees, either bundled or not bundled, are recognized when the Company has a right to invoice. Professional services for configuration, system integration, optimization, customer training and/or education are primarily billed on a fixed-fee basis and are performed by the Company directly. Alternatively, customers may choose to perform these services themselves or engage their own third-party service providers. Professional services revenue is recognized over time, generally as services are activated for the customer.
+Product Revenue
+ 
+The Company recognizes product revenue for telephony equipment at a point in time, when transfer of control has occurred, which is generally upon delivery. Sales returns are recorded as a reduction to revenue estimated based on historical experience.
+ 
+Disaggregation of Cloud-based hosted revenues 
+ 
+Summary of disaggregated revenue is as follows (in thousands):
+ 
+
+ | For the Years ended July 31, | 
+-------------------------+------------------------------+------
+ | 2019 | | 2018 | 
+Service revenue | $ | 5,847 | | $ | 1,994
+Product revenue | | 193 | | | 7 
+Total operating revenues | $ | 6,040 | | $ | 2,001
+
+F-8
+
+ 
+
+Contract Assets
+ 
+Contract assets are recorded for those parts of the contract consideration not yet invoiced but for which the performance obligations are completed. The revenue is recognized when the customer receives services or equipment for a reduced consideration at the onset of an arrangement; for example, when the initial month’s services or equipment are discounted. Contract assets are included in prepaid and other current assets in the consolidated balance sheets, depending on if their reduction is recognized during the succeeding 12-month period or beyond. Contract assets as of July 31, 2019 and July 31, 2018, were $22,967 and $12,155, respectively.
+Deferred Income 
+ 
+Deferred income represents billings or payment received in advance of revenue recognition and is recognized upon transfer of control. Balances consist primarily of annual plan subscription services, for services not yet provided as of the balance sheet date. Deferred revenues that will be recognized during the succeeding 12-month period are recorded as current deferred revenues in the consolidated balance sheets, with the remainder recorded as other noncurrent liabilities in the consolidated balance sheets. Deferred income as of July 31, 2019 and July 31, 2018, were $285,000 and $262,000, respectively.
+Costs to Obtain a Customer Contract
+ 
+Sales commissions are paid upon collections of related revenue and are expensed during the same period. Sales commissions for the year ended July 31, 2019 and the year ended July 31, 2018, were $52,613 and $36,233, respectively.
+Direct Costs - Cloud-based hosted Services 
+ 
+We incur bandwidth and colocation charges in connection with our UCaaS or cloud communication services. The bandwidth charges are incurred as part of the connectivity between our customers to allow them access to our various services. We also incur costs from underlying providers for fiber, Internet broadband, and telecommunication circuits in connection with our data and connectivity solutions.
+ 
+Cash and cash equivalents. The Company considers all bank deposits and highly liquid investments with original maturities of three months or less to be cash and cash equivalents.
+ 
+Allowance for Doubtful Accounts.
+ 
+Bad debt expense is recognized based on management’s estimate of likely losses each year based on past experience and an estimate of current year uncollectible amounts. As of July 31, 2019 and 2018, Digerati’s allowance for doubtful accounts balance was $115,000 and $122,000, respectively.
+ 
+Customer deposits.
+ 
+The Company in some instances requires customers to make deposits for equipment, installation charges and training. As equipment is installed and training takes places the deposits are then applied to revenue. As of July 31, 2019 and 2018, Digerati’s customer deposits balance was $285,000 and $262,000, respectively.
+ 
+Property and equipment. Property and equipment are recorded at cost. Additions are capitalized and maintenance and repairs are charged to expense as incurred. Gains and losses on dispositions of equipment are reflected in operations. Depreciation is provided using the straight-line method over the estimated useful lives of the assets, which are one (1) to seven (7) years.
+ 
+Goodwill, Intangible Assets, and Long-Lived Assets
+ 
+Goodwill is carried at cost and is not amortized. The Company tests goodwill for impairment on an annual basis at the end of each fiscal year, relying on a number of factors including operating results, business plans, economic projections, anticipated future cash flows and marketplace data. Company management uses its judgment in assessing whether goodwill has become impaired between annual impairment tests according to specifications set forth in ASC 350. The Company completed an evaluation of goodwill at July 31, 2019 and determined that there was no impairment.
+F-9
+
+ 
+
+The fair value of the Company’s reporting unit is dependent upon the Company’s estimate of future cash flows and other factors. The Company’s estimates of future cash flows include assumptions concerning future operating performance and economic conditions and may differ from actual future cash flows. Estimated future cash flows are adjusted by an appropriate discount rate derived from the Company’s market capitalization plus a suitable control premium at date of the evaluation.
+ 
+The financial and credit market volatility directly impacts the Company’s fair value measurement through the Company’s weighted average cost of capital that the Company uses to determine its discount rate and through the Company’s stock price that the Company uses to determine its market capitalization. Therefore, changes in the stock price may also affect the amount of impairment recorded.
+ 
+The Company recognizes an acquired intangible asset apart from goodwill whenever the intangible asset arises from contractual or other legal rights, or when it can be separated or divided from the acquired entity and sold, transferred, licensed, rented or exchanged, either individually or in combination with a related contract, asset or liability. Such intangibles are amortized over their useful lives. Impairment losses are recognized if the carrying amount of an intangible asset subject to amortization is not recoverable from expected future cash flows and its carrying amount exceeds its fair value.
+ 
+The Company reviews its long-lived assets, including property and equipment, identifiable intangibles, and goodwill annually or whenever events or changes in circumstances indicate that the carrying amount of the assets may not be fully recoverable. To determine recoverability of its long-lived assets, the Company evaluates the probability that future undiscounted net cash flows will be less than the carrying amount of the assets.
+ 
+Impairment of Long-Lived Assets. Digerati reviews the carrying value of its long-lived assets annually or whenever events or changes in circumstances indicate that the value of an asset may no longer be appropriate. Digerati assesses recoverability of the carrying value of the asset by estimating the future net cash flows expected to result from the asset, including eventual disposition. If the future net cash flows are less than the carrying value of the asset, an impairment loss is recorded equal to the difference between the asset’s carrying value and fair value.
+ 
+Business combinations. Each investment in a business is being measured and determined whether the investment should be accounted for as a cost-basis investment, an equity investment, a business combination or a common control transaction. An investment in which the Company do not have a controlling interest and which the Company is not the primary beneficiary but where the Company has the ability to exert significant influence is accounted for under the equity method of accounting. For those investments that we account for in accordance ASC 805, Business Combinations, the Company records the assets acquired and liabilities assumed at the management’s estimate of their fair values on the date of the business combination. The assessment of the estimated fair value of each of these can have a material effect on the reported results as intangible assets are amortized over various lives. Furthermore, according to ASC 805-50-30-5, when accounting for a transfer of assets or exchange of shares between entities under common control, the entity that receives the net assets or the equity interests shall initially measure the recognized assets and liabilities transferred at their carrying amounts in the accounts of the transferring entity at the date of transfer.
+ 
+Derivative financial instruments. Digerati does not use derivative instruments to hedge exposures to cash flow, market, or foreign currency risks. However, Digerati analyzes its convertible instruments and free-standing instruments such as warrants for derivative liability accounting.
+ 
+For derivative financial instruments that are accounted for as liabilities, the derivative instrument is initially recorded at its fair value and is then re-valued at each reporting date, any changes in fair value is recorded as non-operating, non-cash income or expense for each reporting period. For option-based derivative financial instruments, warrants and notes payable conversion options Digerati uses the Black-Scholes option-pricing model to value the derivative instruments.
+ 
+The classification of derivative instruments, including whether such instruments should be recorded as liabilities or as equity, is re-assessed at the end of each reporting period. Derivative instrument liabilities are classified in the balance sheet as current or non-current based on whether or not net-cash settlement of the derivative instrument is probable within the next 12 months from the balance sheet date.
+ 
+F-10
+
+ 
+
+Notes payable conversion options are recorded as debt discounts and are amortized as interest expense over the term of the related debt instrument.
+ 
+Treasury Shares. As a result of entering into various convertible debt instruments, warrants with fixed exercise price, and convertible notes with fixed conversion price or with a conversion price floor, we reserved 6,000,000 treasury shares for consideration for future conversions and exercise of warrants. The Company will evaluate the reserved treasury shares on a quarterly basis, and if necessary, reserve additional treasury shares. As of July 31, 2019, we believe that the treasury share reserved are sufficient for any future conversions of these instruments. As a result, these debt instruments and warrants are excluded from derivative consideration.
+ 
+Fair Value of Financial Instruments. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. A fair value hierarchy is used which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The fair value hierarchy based on the three levels of inputs that may be used to measure fair value are as follows:
+ 
+Level 1 – Quoted prices in active markets for identical assets or liabilities.
+ 
+Level 2 – Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+ 
+Level 3 – Unobservable inputs that are supported by little or no market activity and that are financial instruments whose values are determined using pricing models, discounted cash flow methodologies, or similar techniques, as well as instruments for which the determination of fair value requires significant judgment or estimation.
+ 
+For certain of our financial instruments, including cash and cash equivalents, accounts receivable, accounts payable and accrued expenses, the carrying amounts approximate fair value due to the short maturity of these instruments. The carrying value of our long-term debt approximates its fair value based on the quoted market prices for the same or similar issues or the current rates offered to us for debt of the same remaining maturities.
+
+
+Our derivative liabilities as of July 31, 2019 and 2018 of $927,000 and $632,000, respectively.
+ 
+The following table provides the fair value of the derivative financial instruments measured at fair value using significant unobservable inputs:
+
+
+
+ | | | Fair value measurements at reporting date using:
+-------------------------------------------------------------------+------------+---------+-------------------------------------------------
+ | | | Quoted prices in | | Significant | 
+ | | | active markets | | other | 
+ | | | for identical | | observable | Significant 
+ | | | liabilities | | inputs | unobservable inputs
+Description | Fair Value | | (Level 1) | | (Level 2) | (Level 3) 
+Convertible promissory notes derivative liability at July 31, 2018 | $ | 632,268 | | - | | - | $ | 632,268
+Convertible promissory notes derivative liability at July 31, 2019 | $ | 927,171 | | - | | - | $ | 927,171
+
+ 
+The fair market value of all derivatives during the year ended July 31, 2019 was determined using the Black-Scholes option pricing model which used the following assumptions:
+ 
+
+Expected dividend yield | 0.00% 
+--------------------------------+------------------
+Expected stock price volatility | 120.27% - 208.29%
+Risk-free interest rate | 1.74% -2.93% 
+Expected term | 0.21 - 2.75 years
+
+ 
+Level 3 inputs.
+ 
+The following table provides a summary of the changes in fair value of the derivative financial instruments measured at fair value on a recurring basis using significant unobservable inputs:
+ 
+
+Balance at July 31, 2017 | $ | - | 
+-----------------------------------------------------------------------------------+---+-----------+--
+Derivative discount - convertible debt | | 541,671 | 
+Derivative loss | | 90,597 | 
+Balance at July 31, 2018 | $ | 632,268 | 
+Derivative from new convertible promissory notes recorded as debt discount | | 1,043,834 | 
+Derivative liability resolved to additional paid in capital due to debt conversion | | (822,922 | )
+Derivative loss | | 73,991 | 
+Balance at July 31, 2019 | $ | 927,171 | 
+
+F-11
+
+ 
+
+Income taxes. Digerati recognizes deferred tax assets and liabilities based on differences between the financial reporting and tax bases of assets and liabilities using the enacted tax rates and laws that are expected to be in effect when the differences are expected to be recovered. Digerati provides a valuation allowance for deferred tax assets for which it does not consider realization of such assets to be more likely than not.
+ 
+Since January 1, 2007, Digerati accounts for uncertain tax positions in accordance with the authoritative guidance issued by the Financial Accounting Standards Board on income taxes which addresses how an entity should recognize, measure and present in the financial statements uncertain tax positions that have been taken or are expected to be taken in a tax return. Pursuant to this guidance, Digerati recognizes a tax benefit only if it is “more likely than not” that a particular tax position will be sustained upon examination or audit. To the extent the “more likely than not” standard has been satisfied, the benefit associated with a tax position is measured as the largest amount that is greater than 50% likely of being realized upon settlement. As of July 31, 2019 we have no liability for unrecognized tax benefits.
+ 
+Stock-based compensation. In June 2018 FASB adopted the Accounting Standards Update No. 2018-07, Compensation – Stock Compensation (Topic 718): Improvements to Non-employee Share-Based Payment Accounting. This update simplifies the accounting for non-employee share-based payment transactions by expanding the scope of Topic 718, Compensation-Stock Compensation, to include share-based payment transactions for acquiring goods and services from non-employees. The guidance is effective for annual periods beginning after December 15, 2018, and interim periods within that reporting period. The Company adopted the updated standard as of May 1, 2018, adopting this guidance did not have a material effect on its consolidated financial statements. During FY 2018 and 2019, the Company issued 2,213,512 common shares and 1,827,927 common shares, respectively to various employees as part of our profit sharing-plan contribution and stock in lieu of cash. At the time of issuance during FY 2018 and 2019 we recognized stock-based compensation expense of approximately $1,240,000 and $312,328, respectively equivalent to the market value of the shares issued calculated based on the share’s closing price at the grant dates.
+ 
+Basic and diluted net income (loss) per share. The basic net loss per common share is computed by dividing the net loss by the weighted average number of common shares outstanding. Diluted net loss per common share is computed by dividing the net loss adjusted on an “as if converted” basis, by the weighted average number of common shares outstanding plus potential dilutive securities. For the years ended July 31, 2019 and 2018, potential dilutive securities including options and warrants were not included in the calculation of diluted net (loss) per common share. Potential dilutive securities, which are not included in dilutive weighted average shares are as follows:
+ 
+
+ | 7/31/2019 | | 7/31/2018
+----------------------------------+-----------+------------+----------
+Options to purchase common stock | | 4,940,000 | | 3,415,000
+Warrants to purchase common stock | | 2,700,000 | | 2,370,000
+Convertible debt | | 13,113,643 | | 3,268,214
+Total: | | 20,753,643 | | 9,053,214
+
+ 
+Noncontrolling interest. The Company follows Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 810, Consolidation, which governs the accounting for and reporting of non-controlling interests (“NCIs”) in partially owned consolidated subsidiaries and the loss of control of subsidiaries. Certain provisions of this standard indicate, among other things, that NCIs be treated as a separate component of equity, not as a liability, that increases and decreases in the parent’s ownership interest that leave control intact be treated as equity transactions rather than as step acquisitions or dilution gains or losses, and that losses of a partially owned consolidated subsidiary be allocated to the NCI even when such allocation might result in a deficit balance.
+ 
+The net income (loss) attributed to the NCI is separately designated in the accompanying consolidated statements of operations and other comprehensive income (loss). For the year ended July 31, 2019 and 2018, the Company recognized a noncontrolling deficits of $128,000 and $57,000, respectively.
+ 
+F-12
+
+ 
+
+Recently issued accounting pronouncements.
+ 
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842). The amendments under this pronouncement will change the way all leases with a duration of one year or more are treated. Under this guidance, lessees will be required to capitalize virtually all leases on the balance sheet as a right-of-use asset and an associated financing lease liability or capital lease liability. The right-of-use asset represents the lessee’s right to use, or control the use of, a specified asset for the specified lease term. The lease liability represents the lessee’s obligation to make lease payments arising from the lease, measured on a discounted basis. Based on certain characteristics, leases are classified as financing leases or operating leases. Financing lease liabilities, those that contain provisions similar to capitalized leases, are amortized like capital leases are under current accounting, as amortization expense and interest expense in the statement of operations. Operating lease liabilities are amortized on a straight-line basis over the life of the lease as lease expense in the statement of operations. This update is effective for annual reporting periods, and interim periods within those reporting periods, beginning after December 15, 2018.  In July 2018 the FASB issued ASU No. 2018-10, Codification Improvements to Topic 842, Leases and ASU 2018-11, Leases (Topic 842), Targeted Improvements, which provided additional implementation guidance on the previously issued ASU.  The Company evaluated this amendment as of August 1, 2018, and concluded that did not have a material effect on the presentation of our consolidated financial statements.
+ 
+In June 2018, the FASB issued Accounting Standards Update No. 2018-07, Compensation – Stock Compensation (Topic 718): Improvements to Non-employee Share-Based Payment Accounting. This update simplifies the accounting for non-employee share-based payment transactions by expanding the scope of Topic 718, Compensation-Stock Compensation, to include share-based payment transactions for acquiring goods and services from non-employees. The guidance is effective for annual periods beginning after December 15, 2018, and interim periods within that reporting period. The Company adopted this updated standard as of May 1, 2018, and adopting this guidance did not have a material effect on the presentation of our consolidated financial statements.
+ 
+NOTE 2 – GOING CONCERN
+ 
+Financial Condition
+ 
+Digerati’s consolidated financial statements for the year ending July 31, 2019 have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities in the normal course of business. Digerati has incurred net losses and accumulated a deficit of approximately $85,320,000 and a working capital deficit of approximately $5,865,000 which raises substantial doubt about Digerati’s ability to continue as a going concern.
+Management Plans to Continue as a Going Concern
+ 
+Management believes that current available resources will not be sufficient to fund the Company’s operations over the next 12 months. The Company’s ability to continue to meet its obligations and to achieve its business objectives is dependent upon, among other things, raising additional capital or generating sufficient revenue in excess of costs. At such time as the Company requires additional funding, the Company will seek to secure such additional funding from various possible sources, including the public equity market, private financings, sales of assets, collaborative arrangements and debt. If the Company raises additional capital through the issuance of equity securities or securities convertible into equity, stockholders will experience dilution, and such securities may have rights, preferences or privileges senior to those of the holders of common stock or convertible senior notes. If the Company raises additional funds by issuing debt, the Company may be subject to limitations on its operations, through debt covenants or other restrictions. If the Company obtains additional funds through arrangements with collaborators or strategic partners, the Company may be required to relinquish its rights to certain technologies. There can be no assurance that the Company will be able to raise additional funds or raise them on acceptable terms. If the Company is unable to obtain financing on acceptable terms, it may be unable to execute its business plan, the Company could be required to delay or reduce the scope of its operations, and the Company may not be able to pay off its obligations, if and when they come due.
+ 
+The Company will continue to work with various funding sources to secure additional debt and equity financings. However, Digerati cannot offer any assurance that it will be successful in executing the aforementioned plans to continue as a going concern.
+ 
+Digerati’s consolidated financial statements as of July 31, 2019 do not include any adjustments that might result from the inability to implement or execute Digerati’s plans to improve our ability to continue as a going concern.
+ 
+F-13
+
+ 
+
+NOTE 3 – INTANGIBLE ASSETS 
+ 
+During FY 2008, Digerati made a loan of $150,000 to NetSapiens Inc. The note receivable had a maturity date of June 26, 2008 with interest at 8% per year. The note was secured by NetSapiens’ proprietary Starter Platform License and SNAPsolution modules. On June 26, 2008 Digerati converted the outstanding interest and principal balance into a lifetime and perpetual NetSapiens’ License. The License provides Digerati with the ability to offer Hosted PBX (Private Branch eXchange), IP Centrex application, prepaid calling, call center, conferencing, messaging and other innovative telephony functionality necessary to offer standard and/or custom services to enterprise markets. The NetSapiens’ License, in the amount of $150,000, is being amortized equally over a period of 10 years. For the years ended July 31, 2019 and 2018, amortization totaled approximately $0 and $13,750, respectively. As of July 31, 2019 the NetSapiens’ License is fully amortized.
+ 
+On December 1, 2017, Shift8 and Synergy Telecom, Inc., a Delaware corporation (“Synergy”), closed a transaction to acquire all the assets, assumed all customers, and critical vendor arrangements from Synergy. The total purchase price was $425,000, the acquisition was accounted for under the purchase method of accounting, with Digerati identified as the acquirer. Under the purchase method of accounting, the aggregate amount of consideration assumed by Digerati was allocated to customer contracts acquired, software licenses, and goodwill based on their fair values as of December 1, 2017.
+ 
+The following information summarizes the allocation of the fair values assigned to the assets. The allocation of fair values is based on an extensive analysis and is subject to changes in the future during the measurement period.
+ 
+
+ | | | Useful life
+----------------------+---------+---------+------------
+ | Synergy | | (years) 
+Customer relationship | $ | 40,000 | | 5
+License - software | | 105,000 | | 3
+Goodwill | | 280,000 | | -
+Total Purchase price | $ | 425,000 | | 
+
+ 
+For the years ended July 31, 2019 and 2018, amortization expense for the acquired intangible was $60,500 and $25,000, respectively.
+ 
+On May 2, 2018, the Company closed on the Merger Agreement with T3 Communications, Inc. to increase its customer base and obtain higher efficiency of its existing infrastructure.
+ 
+The total purchase price was $3,211,945 paid in cash at closing. The acquisition was accounted for under the purchase method of accounting, with the Company identified as the acquirer. Under the purchase method of accounting, the aggregate amount of consideration assumed by the Company was allocated to cash, customer contracts acquired, current assets, property plant and equipment and assumed payables based on their estimated fair values as of May 2, 2018.
+ 
+The following information summarizes the allocation of the purchase price assigned to intangible assets. The allocation of fair values is based on an extensive analysis and is subject to changes in the future during the measurement period.
+ 
+
+ | | | Useful life
+------------------------+----+-----------+------------
+ | T3 | | (years) 
+Customer relationships | $ | 1,480,000 | | 7
+Marketing & Non-compete | | 800,000 | | 5
+Goodwill | | 530,353 | | -
+Total | $ | 2,810,353 | | 
+
+ 
+For the years ended July 31, 2019 and 2018, amortization expense for the acquired assets totaled approximately $371,000 and $93,000, respectively.
+ 
+F-14
+
+ 
+
+Intangible assets at July 31, 2019 and 2018 are summarized in the tables below:
+ 
+
+July 31, 2019 | Gross Carrying Value | | Accumulated Amortization | | | Net Carrying Amount 
+---------------------------------+------------------------+-----------+---------------------------+---+----------+---------------------
+NetSapiens - license, 10 years | $ | 150,000 | | $ | (150,000 | ) | $ | - 
+Customer relationships, 5 years | | 40,000 | | | (12,672 | ) | | 27,328 
+Customer relationships, 7 years | | 1,480,000 | | | (276,077 | ) | | 1,203,923
+Marketing & Non-compete, 5 years | | 800,000 | | | (200,000 | ) | | 600,000 
+Total Define-lived Assets | | 2,470,000 | | | (638,749 | ) | | 1,831,251
+Goodwill, Indefinite | | 810,353 | | | - | | | 810,353 
+Balance, July 31, 2019 | $ | 3,280,353 | | $ | (638,749 | ) | $ | 2,641,604
+
+
+July 31, 2018 | Gross Carrying Value | | Accumulated Amortization | | | Net Carrying Amount 
+---------------------------------+------------------------+-----------+---------------------------+---+----------+---------------------
+NetSapiens - license, 10 years | $ | 150,000 | | $ | (150,000 | ) | $ | - 
+Customer relationships, 5 years | | 40,000 | | | (4,667 | ) | | 35,333 
+Customer relationships, 7 years | | 1,480,000 | | | (64,652 | ) | | 1,415,348
+Marketing & Non-compete, 5 years | | 800,000 | | | (40,000 | ) | | 760,000 
+Total Define-lived Assets | | 2,470,000 | | | (259,319 | ) | | 2,210,681
+Goodwill, Indefinite | | 834,828 | | | - | | | 834,828 
+Balance, July 31, 2018 | $ | 3,304,828 | | $ | (259,319 | ) | $ | 3,045,509
+
+ 
+Total amortization expense for the periods ended July 31, 2019 and 2018 was approximately $379,000 and $123,000, respectively.
+ 
+NOTE 4 - PROPERTY AND EQUIPMENT
+ 
+Following is a summary of Digerati’s property and equipment at July 31, 2019 and 2018 (in thousands):
+ 
+
+ | Useful lives | 2019 | | | 2018 | 
+-------------------------------+--------------+------+------+---+------+--
+Telecom equipment & software | 1-5 years | $ | 978 | | | $ | 831 | 
+Less: accumulated depreciation | | | (399 | ) | | | (118 | )
+Net–property and equipment | | $ | 579 | | | $ | 713 | 
+
+ 
+The Company uses straight-line depreciation, for the years ended July 31, 2019 and 2018, depreciation totaled approximately $289,000 and $104,000, respectively.
+     F-15
+
+ 
+
+NOTE 5 – INCOME TAXES
+ 
+Digerati files a consolidated tax return. The current tax year is subject to examination by the Internal Revenue Service and certain state taxing authorities. As of July 31, 2019, Digerati had net operating loss carry-forwards of approximately $8,596,715 to reduce future federal income tax liabilities; the loss carry-forwards will start to expire in 2020. Under the recently enacted Tax Cuts and Jobs Act (TCJA), the new effective Corporate flat tax rate is 21% (effective for tax years beginning after December 31, 2017). Income tax benefit (provision) for the years ended July 31, 2019 and 2018 are as follows:
+ 
+The effective tax rate for Digerati is reconciled to statutory rates as follows:
+ 
+
+ | 2019 | | | 2018
+--------------------------------------------------------+------+-------+----+-----
+Expected Federal benefit (provision), at statutory rate | | 21.0 | % | | 21.0 | % 
+Change in valuation allowance | | (21.0 | )% | | (21.0 | )%
+ | | 0.0 | % | | 0.0 | % 
+
+ 
+Deferred tax assets are comprised of the following as of July 31, 2019 and 2018:
+ 
+
+ | 2019 | | | 2018 | 
+------------------------------+------+------------+---+------+--
+Net operating loss carryover | $ | 1,805,310 | | | $ | 1,239,503 | 
+Valuation allowance | | (1,805,310 | ) | | | (1,239,503 | )
+Total deferred tax asset, net | $ | - | | | $ | - | 
+
+ 
+At July 31, 2019, realization of Digerati’s deferred tax assets was not considered likely to be realized. The change in the valuation allowance for 2019 was resulted in an increase of approximately $565,807. Management has evaluated and concluded that there are no significant uncertain tax positions requiring recognition in Digerati’s combined financial statements. The current year remains open to examination by the major taxing jurisdictions in which Digerati is subject to tax. The Company files a calendar year return and the net operating loss was adjusted for the fiscal year ended July 31, 2019.
+ 
+During the year ended July 31, 2019 the Company issued 10,965,263 common shares, and under our initial assessment this will likely result in a change of control and the net operation loss (NOL’s) became subject to the separate return limitation year. We will evaluate during the tax year and consider the limitations.
+ 
+We record unrecognized tax benefits as liabilities in accordance with ASC 740 and adjust these liabilities when our judgment changes as a result of the evaluate on new information not previously available. Because of the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the unrecognized tax benefit liabilities. These differences will be reflected as increases or decreases to income tax expense in the period in which new information is available.
+ 
+NOTE 6 – COMMITMENTS AND CONTINGENCIES
+ 
+Commitments 
+ 
+Digerati leases its corporate facilities, sales office and network facilities in Texas and Florida. The annual rent expense under the operating leases was $141,546 and $81,670, for 2019 and 2018, respectively. Below is a list of our primary operating leases:
+
+Location | Lease Expiration Date | Annual Rent | | Business Use | | Approx. Sq. Ft.
+---------------------------------------------------------------+-----------------------+-------------+---------+--------------+---------------------------------+----------------
+825 W. Bitters Rd., Suite 104 San Antonio, TX 78216 | July-22 | $ | 23,654 | | Executive offices | | 1,546
+2401 First Street, Suite 300, Ft. | | | | | Lease of network facilities and | | 
+Myers, FL 34901 | Nov-20 | $ | 107,534 | | office space | | 6,800
+7218 McNeail Dr, Austin, TX 78729 | Aug-21 | $ | 14,222 | | Lease of network facilities | | 25 
+6606 Lyndon B. Johnson, Fwy., FL1, Suite 125, Dallas, TX 75240 | Sep-21 | $ | 25,161 | | Lease of network facilities | | 25 
+9701 S. John Young Parkway, Orlando, FL 32819 | May-23 | $ | 30,528 | | Lease of network facilities | | 540 
+
+ 
+The future minimum lease payment under the operating leases are as follows:
+ 
+
+Years Ending July 31, | Lease Payments | 
+-----------------------+-----------------+--------
+2020 | $ | 160,574
+2021 | | 108,409
+2022 | | 57,057 
+2023 | | 25,440 
+Total: | $ | 351,480
+
+F-16
+
+ 
+
+
+NOTE 7 – STOCK-BASED COMPENSATION 
+ 
+In November 2015, Digerati adopted the Digerati Technologies, Inc. 2015 Equity Compensation Plan (the “Plan”). The Plan authorizes the grant of up to 7.5 million stock options, restricted common shares, non-restricted common shares and other awards to employees, directors, and certain other persons. The Plan is intended to permit Digerati to retain and attract qualified individuals who will contribute to the overall success of Digerati. Digerati’s Board of Directors determines the terms of any grants under the Plan. Exercise prices of all stock options and other awards vary based on the market price of the shares of common stock as of the date of grant. The stock options, restricted common stock, non-restricted common stock and other awards vest based on the terms of the individual grant.
+ 
+During the year ended July 31, 2018, we issued:
+ 
+
+● | 644,732 common shares to various employees as part of the Company’s profit-sharing plan contribution. The Company recognized stock-based compensation expense of approximately $226,000 equivalent to the value of the shares calculated based on the share’s closing price at the grant dates.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | 515,493 common shares to management for services in lieu of cash compensation. The Company recognized stock-based compensation expense of approximately $222,000 equivalent to the value of the shares calculated based on the share’s closing price at the grant dates. 
+● | 646,787 common shares to management for services in lieu of cash compensation. The Company recognized stock-based compensation expense of approximately $306,000 equivalent to the value of the shares calculated based on the share’s closing price at the grant dates. 
+● | 1,025,000 options to purchase common shares to various employees with an exercise price of $0.35 per share and a term of 5 years. The options vest equally over a period of one year. The options have a fair market value of $218,200. 
+● | 275,000 options to purchase common shares to various employees with an exercise price of $0.35 per share and a term of 5 years. The options vest equally over a period of two years. The options have a fair market value of $74,600. 
+● | 545,000 options to purchase common shares to various employees with an exercise price of $0.35 per share and a term of 5 years. The options vest equally over a period of three years. The options have a fair market value of $164,600. 
+● | 420,000 options to purchase common shares to various employees with an exercise price of $0.45 per share and a term of 5 years. The options vest equally over a period of three years. The options have a fair market value of $160,000. 
+
+ 
+The fair market value of all options issued was determined using the Black-Scholes option pricing model which used the following assumptions:
+ 
+
+Expected dividend yield | 0.00% 
+--------------------------------+----------------
+Expected stock price volatility | 162.72%-169.76%
+Risk-free interest rate | 2.13% -2.78% 
+Expected term | 1.0 - 3.0 years
+
+F-17
+
+ 
+
+During the year ended July 31, 2018 we issued the following to non-employee professionals:
+ 
+
+● | In September 2017, the Company issued an aggregate of 12,500 shares of common stock with a market value at time of issuance of $4,375. The shares were issued for consulting services.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In December 2017, the Company issued an aggregate of 100,000 shares of common stock with a market value at time of issuance of $40,000. The shares were issued for consulting services.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In June 2018, the Company issued an aggregate of 100,000 shares of common stock with a market value at time of issuance of $48,000. The shares were issued for consulting services.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In July 2018, the Company issued an aggregate of 194,000 shares of common stock with a market value at time of issuance of $93,720. The shares were issued to various professionals for consulting services.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Also, during the year ended July 31, 2018 we issued the following to settle accounts payables:
+ 
+
+● | In June 2018, the Company issued an aggregate of 35,575 shares of common stock with a market value at time of issuance of $15,288. The shares were issued to settle accounts payables with various professionals, the Company recognized a loss of $5,700 upon issuance of the shares.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+During the year ended July 31, 2019, we issued:
+ 
+
+● | 635,156 common shares to various employees as part of the Company’s Non-Standardized profit-sharing plan contribution. The Company recognized stock-based compensation expense of approximately $114,000 equivalent to the value of the shares calculated based on the share’s closing price at the grant dates.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | 100,000 options to purchase common shares to a member of the Board of Directors with an exercise price of $0.18 per share and a term of 5 years. The options vest equally over a period of one year. At the time of issuance the options had a fair market value of $11,406.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | 1,725,000 options to purchase common shares to members of the Management team with an exercise price of $0.19 per share and a term of 5 years. The options vest equally over a period of one year. At the time of issuance the options had a fair market value of $217,263.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | 250,000 options to purchase common shares to an employee with an exercise price of $0.25 per share and a term of 5 years. The options vest equally over a period of two years. At the time of issuance the options had a fair market value of $39,175.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | 1,192,770 common shares to members of the Management team for services in lieu of cash compensation. The Company recognized stock-based compensation expense of approximately $198,000 equivalent to the value of the shares calculated based on the share’s closing price at the grant dates. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | 1,350,000 shares of common stock to the Executive Officers, with a market value at time of issuance of $256,500, the Stock Grant will vest upon the earlier of the Company achieving $15 million in annualized revenue or listing on a primary stock exchange (e.g. NASDAQ or NYSE American) and will be subject to adjustment for any forward or reverse split of the Company’s stock. The Company recognized approximately $85,500 in stock-based compensation expense related to this issuance during the year ended July 31, 2019. Unamortized compensation cost totaled $171,000 at July 31, 2019.
+
+ 
+During the year ended July 31, 2019 we issued the following to non-employee professionals:
+ 
+
+● | In November 2018, the Company issued an aggregate of 200,000 shares of common stock with a market value at time of issuance of $69,600. The shares were issued for consulting services.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In February 2019, the Company issued an aggregate of 325,000 shares of common stock with a market value at time of issuance of $78,000. The shares were issued for consulting services.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In February 2019, the Company issued an aggregate of 400,000 shares of common stock with a market value at time of issuance of $100,000. The shares were issued for consulting services.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The fair market value of all options issued was determined using the Black-Scholes option pricing model which used the following assumptions:
+ 
+
+Expected dividend yield | 0.00% 
+--------------------------------+------------------
+Expected stock price volatility | 178.79% - 260.07%
+Risk-free interest rate | 1.84% - 2.73% 
+Expected term | 1.0 - 2.0 years 
+
+F-18
+
+ 
+
+Digerati recognized approximately $733,000 and $1,054,000 in stock-based compensation expense to employees during the years ended July 31, 2019 and 2018, respectively. Unamortized compensation cost totaled $433,608 and $397,000 at July 31, 2019 and July 31, 2018, respectively.
+ 
+A summary of the stock options as of July 31, 2019 and July 31, 2018 and the changes during the years ended July 31, 2019 and July 31,2018:
+ 
+
+ | | | | | | Weighted-average 
+-----------------------------+---------+-----------+---+------------------+---+----------------------
+ | | | | Weighted-average | | remaining contractual
+ | Options | | | exercise price | | term (years) 
+Outstanding at July 31, 2017 | | 1,170,000 | | | $ | 0.24 | 4.30
+Granted | | 2,265,000 | | | $ | 0.37 | 5.00
+Exercised | | - | | | | - | - 
+Forfeited and cancelled | | (20,000 | ) | | $ | 0.24 | 3.30
+Outstanding at July 31, 2018 | | 3,415,000 | | | $ | 0.33 | 4.58
+Granted | | 2,075,000 | | | $ | 0.20 | 4.58
+Exercised | | - | | | | - | - 
+Forfeited and cancelled | | (550,000 | ) | | $ | 0.36 | 3.39
+Outstanding at July 31, 2019 | | 4,940,000 | | | $ | 0.27 | 3.65
+Exercisable at July 31, 2019 | | 3,452,405 | | | $ | 0.28 | 3.31
+
+ 
+The aggregate intrinsic value (the difference between the Company’s closing stock price on the last trading day of the period and the exercise price, multiplied by the number of in-the-money options) of the 4,940,000 and 3,415,000 stock options outstanding at July 31, 2019 and July 31, 2018 was $0 and $706,372, respectively.
+ 
+The aggregate intrinsic value of 3,452,405 and 2,006,111 stock options exercisable at July 31, 2019 and July 31, 2018 was $0 and $587,389, respectively.
+ 
+NOTE 8 – WARRANTS 
+ 
+During the year ended July 31, 2018, the Company issued the following warrants:
+ 
+The Company secured $480,000 from various accredited investors under a private placement and issued 960,000 shares of its common stock at a price of $0.50 per share and warrants to purchase an additional 180,000 shares of its common stock at an exercise price of $0.50 per share. We determined that the warrants issued in connection with the private placement were equity instruments and did not represent derivative instruments.
+ 
+In December 2017, Digerati issued 100,000 warrants to a consultant for services, the warrants vested at time of issuance. The warrants have a term of 5 years, with an exercise price of $0.50. Under a Black-Scholes valuation the fair market value of the warrants at time of issuance was approximately $49,000, the company will amortize the fair market value as warrant expense over 12 months. Additionally, Digerati committed to issue 100,000 warrants if the Company’s stock price traded at $0.75 per share for 10 consecutive days, to issue 100,000 warrants if the Company’s stock price traded at $1.00 per share for 10 consecutive days, and to issue 100,000 warrants if the Company’s stock price traded at $1.25 per share for 10 consecutive days. Under a Black-Scholes valuation the fair market value of the warrants at time of issuance was approximately $143,000, the company will amortize the fair market value as warrant expense over 12 months.
+ 
+In January 2018, Digerati issued 220,000 warrants to a consultant for services, the warrants vested at time of issuance. The warrants have a term of 5 years, with an exercise price of $0.001. At time of issuance the company recognized approximately $119,000 in warrant expense using Black-Scholes valuation.
+ 
+In March 2018, Digerati issued 300,000 warrants under two promissory notes and, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.10. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $127,000 and was recognized as a discount on the two promissory notes, the company will amortize the fair market value as interest expense over 9 months.
+ 
+F-19
+
+ 
+
+In March 2018, Digerati issued 30,000 warrants under various promissory notes, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.15. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $12,000 and was recognized as a discount on the two promissory notes, the company will amortize the fair market value as interest expense over 4 months.
+ 
+In April 2018, Digerati issued 400,000 warrants under various promissory notes, the warrants vested at time of issuance. The warrants have a term of 5 years, with an exercise price of $0.15. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $107,000 and was recognized as a discount on the promissory notes, the company will amortize the fair market value as interest expense over 4 months.
+ 
+In April 2018, Digerati issued 100,000 warrants under a promissory note, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.50. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $27,000 and was recognized as a discount on the promissory notes, the company will amortize the fair market value as interest expense over 55 months.
+ 
+In April 2018, Digerati issued 75,000 warrants under a promissory note, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.50. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $19,000 and was recognized as a discount on the promissory notes, the company will amortize the fair market value as interest expense over 25 months.
+ 
+In June 2018, Digerati issued 255,000 warrants under various promissory notes, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.10. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $110,000 and was recognized as a discount on the promissory notes, the company will amortize the fair market value as interest expense over 9 months.
+ 
+In July 2018, Digerati issued 50,000 warrants to a consultant for services, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.50. At time of issuance the company recognized approximately $21,000 in warrant expense using Black-Scholes valuation.
+ 
+In July 2018, Digerati received $15,000 for the exercise of 150,000 warrants, with an exercise price of $0.10 per warrant.
+ 
+The fair market value of all warrants issued was determined using the Black-Scholes option pricing model which used the following assumptions:
+ 
+
+Expected dividend yield | 0.00% 
+--------------------------------+------------------
+Expected stock price volatility | 153.99% - 176.56%
+Risk-free interest rate | 2.05% -2.80% 
+Expected term | 3.0 - 5.0 years 
+
+ 
+During the year ended July 31, 2019, the Company issued the following warrants:
+ 
+In August 2018, Digerati secured $40,000 from an accredited investor under a private placement and issued 80,000 shares of its common stock at a price of $0.50 per share and warrants to purchase an additional 15,000 shares of its common stock at an exercise price of $0.50 per share. We determined that the warrants issued in connection with the private placement were equity instruments and did not represent derivative instruments. The Company adopted a sequencing policy and determined that the warrants with fixed exercise price were excluded from derivative consideration.
+ 
+In October 2018, Digerati issued 200,000 warrants under an extension of payments to existing promissory notes, with a combined current principal balance of $75,000, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.10. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $31,000 and was recognized as a discount on the promissory note, the company amortized the fair market value as interest expense over 3 months.
+ 
+In January 2019, Digerati cancelled 260,000 warrants with an exercise price of $0.15. Additionally, the Company issued 260,000 common shares to replace these warrants, in conjunction with two promissory notes with a principal balance of $50,000, in addition at the time of issuance we recognized a discount of $36,000 for the common stock issued in replacement of warrants.
+ 
+F-20
+
+ 
+
+In February 2019, the Company received $1,500 for the exercise of 15,000 warrants, with an exercise price of $0.10 per warrant.
+ 
+In March 2019, the Company received $6,000 for the exercise of 60,000 warrants, with an exercise price of $0.10 per warrant.
+ 
+In April 2019, the Company secured $50,000 from accredited investors under a private placement and issued 50,000 shares of Series A Convertible Preferred Stock at a conversion price of $0.30 per share and warrants to purchase an additional 100,000 shares of its common stock at an exercise price of $0.20 per share. We determined that the warrants issued in connection with the private placement were equity instruments and did not represent derivative instruments. The Company adopted a sequencing policy and determined that the warrants with fixed exercise price were excluded from derivative consideration.
+ 
+In May 2019, the Company secured $175,000 from accredited investors under a private placement and issued 175,000 shares of Series A Convertible Preferred Stock at a conversion price of $0.30 per share and warrants to purchase an additional 350,000 shares of its common stock at an exercise price of $0.20 per share. We determined that the warrants issued in connection with the private placement were equity instruments and did not represent derivative instruments. The Company adopted a sequencing policy and determined that the warrants with fixed exercise price were excluded from derivative consideration.
+ 
+The fair market value of all warrants issued was determined using the Black-Scholes option pricing model which used the following assumptions:
+ 
+
+Expected dividend yield | 0.00% 
+--------------------------------+------------------
+Expected stock price volatility | 153.99% - 330.94%
+Risk-free interest rate | 2.00% -2.93% 
+Expected term | 3.0 years 
+
+ 
+A summary of the warrants as of July 31, 2019 and 2018 and the changes during the years ended July 31, 2019 and 2018 are presented below:
+ 
+
+ | | | | | | Weighted-average 
+-----------------------------+----------+-----------+---+------------------+---+----------------------
+ | | | | Weighted-average | | remaining contractual
+ | Warrants | | | exercise price | | term (years) 
+Outstanding at July 31, 2017 | | 510,000 | | | $ | 0.29 | 2.87
+Granted | | 2,010,000 | | | $ | 0.26 | 3.34
+Exercised | | (150,000 | ) | | $ | 0.10 | 3.00
+Forfeited and cancelled | | - | | | | - | - 
+Outstanding at July 31, 2018 | | 2,370,000 | | | $ | 0.28 | 2.90
+Granted | | 665,000 | | | $ | 0.18 | 2.61
+Exercised | | (75,000 | ) | | $ | 0.10 | 2.15
+Forfeited and cancelled | | (260,000 | ) | | $ | 0.15 | 3.75
+Outstanding at July 31, 2019 | | 2,700,000 | | | $ | 0.32 | 2.19
+Exercisable at July 31, 2019 | | 2,400,000 | | | $ | 0.24 | 2.09
+
+ 
+The aggregate intrinsic value (the difference between the Company’s closing stock price on the last trading day of the period and the exercise price, multiplied by the number of in-the-money warrants) of the 2,700,000 and 2,370,000 warrants outstanding at July 31, 2019 and July 31, 2018 was $63,602 and $607,557, respectively.
+
+
+The aggregate intrinsic value of 2,400,000 and 2,070,000 warrants exercisable at July 31, 2019 and July 31, 2018 was $63,602 and $597,927, respectively.
+
+
+Warrant expense for the years ended July 31, 2019 and 2018 was $64,000 and $268,000, respectively. Unamortized warrant expense totaled $0 and $64,000 respectively as of July 31, 2019 and July 31, 2018.
+ 
+F-21
+
+ 
+
+NOTE 9 – NON-STANDARDIZED PROFIT-SHARING PLAN 
+ 
+We currently provide a Non-Standardized Profit-Sharing Plan, adopted September 15, 2006. Under the plan our employees qualify to participate in the plan after one year of employment. Contributions under the plan are based on 25% of the annual base salary of each eligible employee up to $54,000 per year. Contributions under the plan are fully vested upon funding.
+ 
+During the years ended July 31, 2019 and July 31, 2018, the Company issued 635,156 and 644,732 respectively, common shares to various employees as part of the Company’s profit-sharing plan contribution. The Company recognized stock-based compensation expense for July 31, 2019 and July 31, 2018 of $114,000 and $226,000, respectively, equivalent to the value of the shares calculated based on the share’s closing price at the grant dates.
+ 
+NOTE 10 – SIGNIFICANT CUSTOMERS
+ 
+During the years ended July 31, 2018 and 2019, the Company did not derive a significant amount of revenue from one single customer.
+ 
+As of the year ended July 31, 2019, the company derived 9%, 7%, 6% and 6% total accounts receivable from four customers. During the year ended July 31, 2018, the company derived 13% and 23% total accounts receivable from two customers.
+NOTE 11 – DEBT 
+ 
+Non-convertible - debt 
+ 
+On December 1, 2017, Shift8 Networks, Inc., dba, T3 Communications (“T3”) and Synergy Telecom, Inc., a Delaware corporation (“Synergy”), closed a transaction to acquire all the assets, assumed all customers, and critical vendor arrangements from Synergy. In conjunction with the transaction, T3 entered into a promissory note for $125,000 with an effective annual interest rate of 6% with 5 quarterly payments and a maturity date of February 28, 2019. The note holder agreed to extend three of the quarterly payment until March 31, 2019.In conjunction with the extension, the Company issued 200,000 warrants with a fair value of $31,000, which was recorded a debt discount and amortized during the year ending July 31, 2019. During the year ended July 31, 2018, the Company made a principal payment of $50,000, and as of July 31, 2018 the outstanding principal balance was $75,000. During the year ended July 31, 2019 the Company paid in full the outstanding principal balance of $75,000 and accrued interest of $3,105.
+ 
+On January 17, 2018, the Company entered into a Promissory Note for $30,000, bearing interest at a rate of 5% per annum, with maturity date of January 19, 2018. The Company paid the full principal amount outstanding and accrued interest on January 19, 2018.
+ 
+On February 21, 2018, the Company entered into a Promissory Note for $35,000, bearing interest at a rate of 5% per annum, with maturity date of March 2, 2018. The Company paid the full principal amount outstanding and accrued interest on March 2, 2018.
+ 
+On March 13, 2018, the Company entered into various Promissory Notes (the “Notes”) for $200,000, bearing interest at a rate of 12% per annum, with maturity date of April 13, 2018. The Company paid the full principal amount outstanding and accrued interest on April 13, 2018. In conjunction with the Notes, the Company issued 30,000 warrants under the promissory notes, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.15. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $12,000 and was recognized as a discount on the promissory notes, the company amortized the relative fair market value as interest expense during the year ended July 31, 2018. During the year ended July 31, 2018, the Company paid the full principal amount outstanding and accrued interest.
+ 
+F-22
+
+ 
+
+On April 27, 2018, T3 entered into a promissory note for $350,000 with an effective annual interest rate of 12% and a maturity date of June 27, 2018. With a principal payment of $200,000 due on May 31, 2018 and a principal payment of $150,000 due on June 27, 2018. The promissory note is secured by a Pledge and Security Agreement, whereby Shift8 agreed to pledge the cash on hand at one of the bank accounts owned by T3 until the principal payment is paid in full. In conjunction with the Notes, the Company issued 3-year warrants to purchase 400,000 shares of common stock each at an exercise price of $0.15 per share. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $107,000 and was recognized as a discount on the promissory notes during the year ended July 31, 2018. During the year ended July 31, 2018, the promissory note was paid in full.
+ 
+On April 30, 2018, T3 entered into a secured promissory note for $650,000 with an effective annual interest rate of 0% and a maturity date of May 14, 2018, provided, however, the Maturity Date will automatically be extended by one (1) additional period of thirty (30) days, until June 14, 2018. In addition, T3 entered into a Security Agreement, whereby T3 agreed to pledge one third of the outstanding shares of its Florida operations, T3 Communications, Inc., the secured interest will continue until the principal balance is paid in full. Furthermore, a late fee of $3,000 per calendar week will be accessed beginning on May 15, 2018 and will continue until he principal balance is paid in full. The lender agreed to extend the maturity date until October 31, 2019, we are currently paying a $3,000 per week late fee. As of July 31, 2019 and July 31, 2018, the outstanding principal balance was $650,000.
+ 
+On April 30, 2018, T3 entered into a credit facility under a secured promissory note of $500,000, interest payment for the first twenty-three months with a balloon payment on the twenty-fourth month and a maturity date of April 30, 2020. Collateralized by T3’s accounts receivables and with an effective annual interest rate of prime plus 5.25%, adjusted quarterly on the first day of each calendar quarter. However, the rate will never be less than 9.50% per annum. In the event of default, the interest rate will be the maximum non-usurious rate of interest per annum permitted by whichever of applicable United States federal law or Louisiana law permits the higher interest rate. T3 agreed to pay the lender a commitment fee of 1.00% upon payment of the first interest payment under the credit facility and 1.00% on the first anniversary of the credit facility. In addition, T3 agreed to pay a monitoring fee of 0.33% of the credit facility, payable in arrears monthly. T3 also agreed to pay an over-advance fee of 3.00% of the amount advanced in excess of the borrowing base or maximum amount of the credit facility, payable in arrears monthly. T3 is required to maintain the following financial covenants: 1) A consolidated debt service coverage ratio, as of the last day of each fiscal quarter, of at least 1.25 to 1.00, 2) A fixed charge coverage ratio, as of the last day of each fiscal quarter, of at least 1.25 to 1.00, and 3) A tangible net worth, at all times of at least $100,000. As of July 31, 2019 and July 31, 2018, the outstanding principal balance was $500,000.
+ 
+On May 1, 2018, T3 entered into a promissory note for $150,000 with an effective annual interest rate of 3% and a maturity date of May 7, 2018. On May 4, 2018 the promissory note was paid in full.
+ 
+On October 12, 2018, the Company issued an unsecured promissory note for $25,000, bearing interest at a rate of 8% per annum, with maturity date of November 12, 2018, subsequently the maturity date was extended to December 10, 2018. In conjunction with the promissory note, the Company issued 140,000 common shares, the shares vested at time of issuance, these shares replaced previously issued warrants with an exercise price of $0.15, therefore the exercise price of $21,000 was recognized as a discount on the promissory note. On December 10, 2018, the Company paid in full the principal amount of $25,000 and accrued interest of $323. In addition, the Company amortized $21,000 of the debt discount as interest expense related to the note.
+ 
+On October 18, 2018, the Company issued an unsecured promissory note for $25,000, bearing interest at a rate of 8% per annum, with maturity date of November 18, 2018. In conjunction with the promissory note, the Company issued 100,000 common shares, the shares vested at time of issuance, these shares replaced previously issued warrants with an exercise price of $0.15, therefore the exercise price of $15,000 was recognized as a discount on the promissory note. On November 16, 2018, the Company paid in full the principal outstanding balance of $25,000 and accrued interest of $159. In addition, the Company amortized $15,000 of the debt discount as interest expense during the term the promissory note.
+ 
+On October 22, 2018, the Company issued a secured promissory note for $50,000, bearing interest at a rate of 8% per annum, with maturity date of December 31, 2018. The promissory note is secured by a Pledge and Escrow Agreement, whereby the Company agreed to pledge rights to a collateral due under certain Agreement. In June 2019, the maturity date was extended to July 31, 2019. As of the date of this filing, we are working with the lender to extend the maturity date on the note. The outstanding balance as of July 31, 2019 was $50,000.
+ 
+F-23
+
+ 
+
+On June 14, 2019, the Company, entered into a Stock Purchase Agreement (the “Agreement”) to acquire a 12% minority interest in Itellum Comunicacions Costa Rica, S.R.L. In conjunction with this transaction, we entered into a non-recourse promissory note for $17,500 with an effective annual interest rate of 8% and an initial maturity date of September 14, 2019. As of the date of this filing, we are working with the lender to extend the maturity date on the note. The outstanding balance as of July 31, 2019 was $17,500.
+ 
+Notes payable, related party 
+ 
+On April 30, 2018, T3 entered into a convertible secured promissory note for $525,000 with an effective annual interest rate of 8% and a maturity date of April 30, 2020. With a principal payment of $100,000 due on June 1, 2018 and a principal payment of $280,823 due on April 30, 2020. Payment are based on a 60-month repayment schedule. At any time while this Note is outstanding, but only upon: (i) the occurrence of an Event of Default under the Note or the Pledge and Escrow Agreement; or (ii) mutual agreement between the Borrower and the Holder, the Holder may convert all or any portion of the outstanding principal, accrued and unpaid interest, Premium, if applicable, and any other sums due and payable hereunder (such total amount, the “Conversion Amount”) into shares of Common Stock (the “Conversion Shares”) at a price equal to: (i) the Conversion Amount (the numerator); divided by (ii) a conversion price of $1.50 per share of Common Stock, which price shall be indicated in the conversion notice (the denominator) (the “Conversion Price”). The Holder shall submit a Conversion Notice indicating the Conversion Amount, the number of Conversion Shares issuable upon such conversion, and where the Conversion Shares should be delivered. The promissory note is secured by a Pledge and Escrow Agreement, whereby T3 agreed to pledge 51% of the securities owned in its Florida operations, T3 Communications, Inc., until the principal payment is paid in full. In conjunction with the promissory note, the Company issued 3-year warrants to purchase 75,000 shares of common stock at an exercise price of $0.50 per share. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was $19,267 and was recognized as a discount on the promissory note. During the years ended July 31, 2019 and 2018, the company amortized $6,395 and $5,604, respectively, as interest expense. The total unamortized discount as of July 31, 2019 and 2018 were $7,298 and $13,693, respectively. In addition, during the years ended July 31, 2019 and 2018, the Company paid $73,223 and $119,000, respectively, of the principal outstanding balance. The total principal outstanding as of July 31, 2019 and 2018 were $332,985 and $406,208, respectively. One of the note holders also serves as President, CEO and Board Member of T3 Communications, Inc., one of our operating subsidiaries.
+ 
+On May 1, 2018, T3 entered into a secured promissory note for $275,000 with an effective annual interest rate of 0% with an interest and principal payment of $6,000 per month and shall continue perpetuity until the entire principal amount is paid in full. The promissory note is guaranteed to the lender by 15% of the stock owned by T3 in its Florida operations, T3 Communications, Inc., the secured interest will continue until the principal balance is paid in full. In conjunction with the promissory note, the Company issued 3-year warrants to purchase 100,000 shares of common stock at an exercise price of $0.50 per share. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $26,543 and was recognized as a discount on the promissory note, the company amortized $7,738 and $2,119 as interest expense during the years ended July 31, 2019 and 2018, respectively. The total unamortized discount as of July 31, 2019 and 2018 were $16,686 and $24,424, respectively. During the years ended July 31, 2019 and 2018, the Company paid $52,721 and $12,547, respectively, of the principal balance. The total principal outstanding as of July 31, 2019 and 2018 were $209,732 and $262,453, respectively. The note holder also serves as Board Member of T3 Communications, Inc., one of our operating subsidiaries.
+ 
+On December 7, 2018, Digerati entered into an unsecured promissory note for $28,000, the Company received net proceeds of $25,000 and added to the principal balance $3,000 of late penalty fee. The note had an effective annual interest rate of 0%, and a maturity date of January 21, 2019. Subsequently, the maturity date was extended to May 06, 2019. In conjunction with the note, the Company issued 28,000 shares of Common Stock, the shares vested at time of issuance. Under a Black-Scholes valuation the relative fair market value of the shares of Common Stock at time of issuance was minimal. In addition, the Company recognized $3,000 as a discount for penalty fee on the promissory note, and amortized $3,000 as interest expense during the year ended July 31, 2019. On May 6, 2019, the Company assigned the principal outstanding balance of $28,000 and accrued interest of $1,334 to another holder under a convertible promissory note (See section convertible promissory note assignment - April 2019 for the details on the assignment). The note holder also serves as Board Member of T3 Communications, Inc., one of our operating subsidiaries.
+ 
+F-24
+
+ 
+
+Convertible debt non-derivative 
+ 
+In March 2018, the Company entered into two (2) Promissory Notes (the “Notes”) for $250,000 each, bearing interest at a rate of 12% per annum. The Notes have a maturity date of September 15, 2018, provided, however, the Company shall have the right to request that the maturity date to be extended by one (1) additional period of ninety (90) days, until December 14, 2018. The Notes are payable every month, commencing April 15, 2018, in monthly payments of interest only and a single payment of the principal amount outstanding plus accrued interest on September 15, 2018. The Company agreed to repay the Notes from the proceeds from the Company’s current private placement. As proceeds from the Private Placement are received, the Company shall direct all funds to the Note Holders until the principal amount outstanding and accrued interest are paid in full. In addition, on March 15, 2018, the Company entered into a Note Conversion Agreement (the “Agreement”) with the Note holders, whereby, the holders may elect to convert up to 50% of the principal amount outstanding on the Notes into Common Stock of Digerati at any time after 90 days of funding the Notes. The Conversion Price shall be the greater of: (i) the Variable Conversion Price (as defined herein) or (ii) the Fixed Conversion Price (as defined herein). The “Variable Conversion Price” shall be equal to the average closing price for Digerati’s Common Stock (the “Shares”) for the ten (10) Trading Day period immediately preceding the Conversion Date. “Trading Day” shall mean any day on which the Common Stock is tradable for any period on the OTCQB, or on the principal securities exchange or other securities market on which the Common Stock is then being traded. The “Fixed Conversion Price” shall mean $0.50. In conjunction with the notes, the Company issued 300,000 warrants, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.10. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $126,538 and was recognized as a discount on the promissory notes. The company amortized $84,433 and $42,105 as a non-cash interest during the years ended July 31, 2019 and 2018, respectively. The total unamortized discount as of July 31, 2019 and 2018 were $0 and $84,433, respectively. Additionally, during the year ended the Company issued 375,000 shares of common stock for payment of $60,000 in accrued interest for the notes. The total principal outstanding balance as of July 31, 2019 and 2018 was $500,000. On December 27, 2018, the Company entered into an Amendment to the Loan Agreements, under the amendments the note holders agreed to extend the maturity date until September 14, 2019. In addition, as part of the amendment, the Company agreed to modify the “Fixed Conversion Price” to $0.35, all other terms under the Promissory Notes remained the same. We accounted for the extensions to the Notes as debt modifications and not extinguishment of debt since the changes in fair value are not substantial in accordance with ASC 470-50. Subsequently, on October 7, 2019, the holders agreed to extend the maturity date until March 30, 2020. In addition, as part of the amendments, the Company agreed to issue 400,000 shares of common stock. The shares were recorded as debt discount and amortized over the remaining term of the notes.
+ 
+On June 19, 2018, the Company entered into various Promissory Notes (the “Notes”) for $272,000, bearing interest at a rate of 10% per annum, with an initial maturity date of April 10, 2019. In conjunction with the Notes, the Company issued 255,000 warrants under the promissory notes, the warrants vested at time of issuance. The warrants have a term of 3 years, with an exercise price of $0.10. Under a Black-Scholes valuation the relative fair market value of the warrants at time of issuance was approximately $118,400 and was recognized as a discount on the promissory notes. The company amortized $109,552 and $8,848 as a non-cash interest during the years ended July 31, 2019 and 2018, respectively. The total unamortized discount as of July 31, 2019 and 2018 were $0 and $109,552, respectively. On March 29, 2019, the Company entered into a First Amendment to the Promissory Notes, under the amendments the note holders agreed to extend the maturity date until June 30, 2019. In addition, as part of the amendments, the Company agreed to issue 85,000 shares of common stock. The shares were recorded as debt discount of $17,425 and amortized over the remaining term of the notes. The company amortized $17,425 as a non-cash interest during the years ended July 31, 2019. The total unamortized discount as of July 31, 2019 for the issuance of the first amendment shares was $0. On June 30, 2019, the Company entered into a Second Amendment to the Promissory Notes, under the amendments the note holders agreed to extend the maturity date until November 30, 2019. In addition, as part of the amendments, the Company agreed to issue 85,000 shares of common stock. The shares were recorded as debt discount of $14,450 and amortized over the remaining term of the notes. The company amortized $2,890 as a non-cash interest during the years ended July 31, 2019. The total unamortized discount as of July 31, 2019 for the issuance of the second amendment shares was $11,560. The total principal outstanding balance as of July 31, 2019 and 2018 was $272,000.
+ 
+Convertible debt - derivative 
+ 
+On January 12, 2018, the Company entered into a securities purchase agreement with Peak One Opportunity Fund, L.P., a Delaware limited partnership (“Peak One”). Under the agreement, Peak One agreed to purchase from us up to $600,000 aggregate principal amount of our convertible debentures (together the “Debentures” and each individual issuance a “Debenture”), bearing interest at a rate of 0% per annum, with maturity on the third anniversary of the respective date of issuance. On July 25, 2018, the securities purchase agreement was amended to increase to $620,000 the aggregate principal amount of the convertible debentures.
+ 
+F-25
+
+ 
+
+Peak One - First Debenture 
+ 
+The Company issued the first debenture (the “Debenture”) to Peak One on January 17, 2018 in the principal amount of $200,000 for a purchase price of $180,000 and 0% percent stated interest rate. The Company paid Peak One $6,000 for legal and compliance fees. In addition, the Company paid $14,400 in other closing costs, these fees were deducted from the proceeds at time of issuance. The Company recorded these discounts and cost of $40,400 as a discount to the Debenture was amortized to interest expense.
+ 
+On July 17, 2018, the Company redeemed $120,000 of the principal outstanding, at a redemption price of $156,000. The Company recognized the redemption price as interest expense during the period.
+ 
+The Company analyzed the Debenture for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. Therefore, the company recognized derivative liability of $112,000 at July 31, 2018, of which $80,000 was recorded as debt discount and was amortized during the term of the note, and $32,000 was recorded as derivative loss. In connection with the execution of the Debenture, we issued 250,000 shares of our common stock to Peak One, the shares were recorded with a relative fair value of $0, the Company also recorded debt discount of $80,000 and amortized to interest expense.
+ 
+On August 2, 2018, the Company redeemed $40,000 of the principal outstanding under the convertible debenture, dated January 12, 2018 with Peak One Opportunity Fund, L. P., at a redemption price of $56,000. The Company recognized the difference between the redemption price and principal balance paid as interest expense of $16,000. On November 26, 2018, the Company issued 139,860 shares of common stock for the conversion of $20,000 of the principal outstanding under the convertible debenture. On December 20, 2018, the Company issued 356,007 shares of common stock for the conversion of $20,000 of the principal outstanding under the convertible debenture.
+ 
+During the years ended July 31, 2019, the Company amortized $80,000 of the debt discount as interest expense related to the convertible debenture. The total unamortized discount as of July 31, 2019 and 2018 were $0 and $80,000, respectively. The total principal outstanding balance as of July 31, 2019 and 2018, were $0 and $80,000, respectively.
+ 
+Peak One - Second Debenture
+ 
+The Company issued a second debenture (the “Debenture”) to Peak One on July 31, 2018 in the principal amount of $220,000 for a purchase price of $198,000 and 0% percent stated interest rate. The Company paid Peak One $5,000 for legal and compliance fees, these fees were deducted from the proceeds at time of issuance. The Company recorded these discounts and cost of $22,000 as a discount to the Debenture and amortized to interest expense.
+ 
+The Company analyzed the Debenture for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. Therefore, the company recognized derivative liability of $189,171. In connection with the execution of the Debenture, we issued 130,000 shares of our common stock to Peak One, the shares were recorded with a relative fair value of $3,627 and $192,798 was recorded as debt discount and amortized during the term of the note.
+ 
+On February 12, 2019, the Company issued 475,511 shares of common stock for the conversion of $20,000 of the principal outstanding under the convertible debenture.
+ 
+On March 8, 2019, the Company issued 356,633 shares of common stock for the conversion of $25,000 of the principal outstanding under the convertible debenture.
+ 
+On April 9, 2019, the Company issued 356,633 shares of common stock for the conversion of $25,000 of the principal outstanding under the convertible debenture.
+ 
+F-26
+
+ 
+
+On May 10, 2019, the Company issued 713,266 shares of common stock for the conversion of $50,000 of the principal outstanding under the convertible debenture.
+ 
+On June 19, 2019, the Company issued 713,266 shares of common stock for the conversion of $50,000 of the principal outstanding under the convertible debenture.
+ 
+During the years ended July 31, 2019 and 2018, the Company amortized $163,584 and $0, respectively of the debt discount as interest expense. The total unamortized discount as of July 31, 2019 and 2018, were $29,214 and $192,798, respectively. The total principal outstanding balance as of July 31, 2019 and 2018 were $50,000 and $220,000, respectively.
+ 
+The Convertible debentures dated January 17, 2018 and July 31, 2018 with Peak One provide the option to the holder to convert at any time on or after the 180th calendar day after the issue date, to convert all or any portion of the then outstanding and unpaid principal amount and interest under the Promissory notes into shares of Common Stock of the Company at a conversion price for each share of Common Stock equal to the lower of (i) $0.50 (the “Fixed Conversion Price”) , or (ii) 70% of the lowest closing bid price of the Company’s Common Stock during the twenty (20) Trading Days immediately preceding the date of the date of conversion of the Debentures (provided, further, that if either the Company is not DWAC Operational at the time of conversion or the Common Stock is traded on the OTC Pink (“OTCP”) at the time of conversion, then seventy percent (70%) shall automatically adjust to sixty-five percent (65%) of the lowest closing bid price (as reported by Bloomberg LP) of the Common Stock for the twenty (20) Trading Days immediately preceding the date of conversion of the Debentures), subject in each case to equitable adjustments resulting from any stock splits, stock dividends, recapitalizations or similar events. (the “Alternate Conversion Price”)
+ 
+The Debentures called for redemption shall be redeemable by the Company, upon not more than two (2) days written notice, for an amount (the “Redemption Price”) equal to: (i) if the Redemption Date (as defined below) is ninety (90) days or less from the date of issuance of this Debenture, One Hundred Ten percent (110%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; (ii) if the Redemption Date is greater than or equal to one ninety-one (91) days from the date of issuance of this Debenture and less than or equal to one hundred twenty (120) days from the date of issuance of this Debenture, One Hundred Fifteen percent (115%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; (iii) if the Redemption Date is greater than or equal to one hundred twenty one (121) days from the date of issuance of this Debenture and less than or equal to one hundred fifty (150) days from the date of issuance of this Debenture, One Hundred Twenty percent (120%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; (iv) if the Redemption Date is greater than or equal to one hundred fifty one (151) days from the date of issuance of this Debenture and less than or equal to one hundred eighty (180) days from the date of issuance of this Debenture, One Hundred Thirty percent (130%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; and (v) if the Redemption Date is greater than or equal to one hundred eighty one (181) days from the date of issuance of this Debenture, One Hundred Forty percent (140%) of the sum of the Principal Amount so redeemed plus accrued interest, if any. The date upon which the Debentures are redeemed and paid shall be referred to as the “Redemption Date”.
+ 
+In the Event of Default to the Holders of all Debentures then outstanding, and in each and every such case, unless such Event of Default shall have been waived in writing by a majority in interest of the Holders of the Debentures (which waiver shall not be deemed to be a waiver of any subsequent default), then at the option of a majority in interest of the Holders and in the discretion of a majority in interest of the Holders, take any or all of the following actions: (i) pursue remedies against the Company in accordance with any of the Holder’s rights, (ii) increase the interest rate applicable to the Debentures to the lesser of eighteen percent (18%) per annum and the maximum interest rate allowable under applicable law, (iii) in the case of an Event of Default under Section 10(e)(ii)(1) based on the Company’s failure to be DWAC Operational, increase the Principal Amount to an amount equal to one hundred ten percent (110%) of the then-outstanding Principal Amount, (iv) in the case of an Event of Default under Section 10(d)(i), increase the Principal Amount to an amount equal to one hundred twenty percent (120%) of the then-outstanding Principal Amount and an additional ten percent (10%) discount shall be factored into the Conversion Price until this Debenture is no longer outstanding, (v) in the case of an Event of Default under Section 10(d)(i) through (v), increase the Principal Amount of the relevant Holder’s Debenture by One Thousand Dollars and 00/100 ($500.00) for each day the related failure continues, (vi) in the case of an Event of Default under Section 10(d)(ii) through (v) arising from an untimely delivery to the Holder of Conversion Shares or shares of Common Stock in de-legended form, if the closing bid price of the Common Stock on the Trading Day immediately prior to the actual date of delivery of Conversion Shares or de-legended shares, as the case may be, is less than the closing bid price on the Trading Day immediately prior to the date when Conversion Shares or de-legended shares were required to be delivered, increase the Principal Amount of the relevant Holder’s Debenture by an amount per share equal to such difference, and (vii) following the expiration of the applicable grace period (if any), at the option and discretion of the Holder, accelerate the full indebtedness under this Debenture, in an amount equal to one hundred forty percent (140%) of the outstanding Principal Amount and accrued and unpaid interest (the “Acceleration Amount”), whereupon the Acceleration Amount shall be immediately due and payable, without presentment, demand, protest or notice of any kinds, all of which are hereby expressly waived, anything contained herein, in the Securities Purchase Agreement or in any other note or instruments to the contrary notwithstanding. In the case of an Event of Default under Section 10(d)(ii), the Holder may either (i) declare the Acceleration Amount to exclude the Conversion Amount that is the subject of the Event of Default, in which case the Acceleration Amount shall be based on the remaining Principal Amount and accrued interest (if any), in which case the Company shall continue to be obligated to issue the Conversion Shares, or (ii) declare the Acceleration Amount to include the Conversion Amount that is the subject of the Event of Default, in which case the Acceleration Amount shall be based on the full Principal Amount, including the Conversion Amount, and accrued interest (if any), whereupon the Notice of Conversion shall be deemed withdrawn.
+ 
+F-27
+
+ 
+
+Firstfire - Promissory Note
+ 
+On May 30, 2018, the Company entered into a securities purchase agreement with Firstfire Global Opportunities Fund, LLC, a Delaware limited liability company (“Firstfire”). Under the agreement, we issued Firstfire a $305,556 principal amount of a convertible promissory note for a cash purchase price of $275,000 (“Promissory note”), bearing interest at a rate of 6% per annum, with maturity on the first anniversary of the date of issuance. The Company paid Firstfire $2,500 for legal and compliance fees. The Company recorded the legal fees and other cost for a total of $33,000 as a discount to the Promissory note and they will be amortized over the term to interest expense. In connection with the execution of the securities purchase agreement, we issued 125,000 shares of our common stock to Firstfire as a commitment fee, the shares were recorded with a relative fair value of $0, the Company also recorded debt discount of $272,500 and amortized to interest expense over the term of the note. 
+ 
+The Company analyzed the Promissory note for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of issuance, the company recognized derivative liability of $330,830 and a debt discount of $272,500 that will be amortized during the term of the note. In addition, the Company recorded a $58,330 as a loss in derivative liability.
+ 
+On November 21, 2018 the Company issued 85,000 shares of common stock for an amendment on the Promissory note and recorded the fair market value of the shares of $23,800 as interest expense.
+ 
+On January 3, 2019, the Company issued 218,181 shares of common stock for the conversion of $15,000 of the principal outstanding under the convertible note.
+ 
+On January 11, 2019, the Company issued 427,972 shares of common stock for the conversion of $30,000 of the principal outstanding under the convertible note.
+ 
+On January 18, 2019, the Company redeemed the full outstanding principal balance on the convertible debenture of $260,556, at a redemption price of $370,000. The Company recognized the difference between the redemption price and principal balance paid as interest expense of $109,444.
+ 
+During the year ended July 31, 2019 and 2018, the Company amortized $272,500 and $0, respectively, of the debt discount as interest expense related to the convertible note. The total unamortized discount as of July 31, 2019 and 2018 were $0 and $272,500, respectively. The total principal outstanding balance as of July 31, 2019 and 2018 were $0 and $305,556, respectively.
+ 
+The Promissory note with Firstfire provide the option to the holder to convert at any time on or after the 180th calendar day after the issue date, to convert all or any portion of the then outstanding and unpaid principal amount and interest under the Promissory note into shares of Common Stock of the Company at a conversion price for each share of Common Stock equal to the lower of (i) $0.50 (the “Fixed Conversion Price”) , or (ii) 65% of the lowest closing bid price of the Company’s Common Stock during the twenty (20) consecutive trading day period immediately preceding the trading day that the Company receives a Notice of Conversion (the “Alternate Conversion Price”)
+ 
+F-28
+
+ 
+
+The Company may Prepay at any time prior to the 180th calendar day after the funding of the Promissory note all or part of the outstanding principal balance, with the exception of any portion thereof which is the subject of a previously-delivered notice of conversion, prior to the maturity date for an amount equal to: (i) if the prepayment date is 90 days or less from the date of issuance, 105% of the sum of the principal amount to be prepaid plus accrued interest, if any; (ii) if the prepayment date is greater than or equal to 91 days from the date of issuance and less than or equal to 120 days from the date of issuance, 110% of the sum of the principal amount to be prepaid plus accrued interest, if any; (iii) if the prepayment date is greater than or equal to 121 days from the date of issuance and less than or equal to 180 days from the date of issuance, 115% of the sum of the principal amount to be prepaid plus accrued interest, if any.
+ 
+In the event of default, the note shall become immediately due and paid in full in an amount (the “Default Amount”) equal to the principal amount then outstanding plus accrued interest through the date of full repayment multiplied by 150%. The holder may, at its sole discretion, determine to accept payment part in Common Stock and part in cash.
+ 
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the Note. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under the Note.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+Convertible Promissory Notes with four (4) investors - January 2019
+ 
+On January 16, 2019, the Company entered into various Securities Purchase Agreements (the SPAs”) with four (4) different investors (each an “Investor”, and together the “Investors”) pursuant to which each Investor purchased a 10% unsecured convertible promissory note (each a “Note”, and together the “Notes”) from the Company. Three of the notes are in the aggregate principal amount of $140,000 each and a maturity date of October 16, 2019. One of the notes is in the aggregate principal amount of $57,750 and a maturity date of January 24, 2020. The purchase price of $140,000 of each of three Notes were paid in cash on January 16, 2019. After payment of transaction-related expenses of $51,000, net proceeds to the Company from the three Notes totaled $369,000. The purchase price of $57,750 Note was paid in cash on January 24, 2019. After payment of transaction-related expenses of $7,750, net proceeds to the Company from Note totaled $50,000. The Company recorded these discounts and cost of $58,750 as a discount to the Notes and fully amortized as interest expense during the period. In connection with the execution of the Notes, we issued 500,000 shares of our common stock to the Note holders, the shares were recorded with a relative fair value of $0 as the notes were fully discounted by derivative liability. 
+ 
+The Company analyzed the Notes for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of issuance, the company recognized derivative liability for the four (4) new convertible notes of $655,345, of which $419,000 was recorded as debt discount and will be amortized during the term of the Notes, and $236,345 was recorded as day 1 derivative loss.
+ 
+On July 12, 2019, the Company redeemed the full outstanding principal balance on two of the convertible notes for $280,000, at a redemption price of $382,726. The Company recognized the difference between the redemption price and principal balance paid as interest expense of $102,726.
+ 
+On July 12, 2019, the Company redeemed $70,000 of the principal outstanding on one of the convertible notes, at a redemption price of $91,000. The Company recognized the difference between the redemption price and principal balance paid as interest expense of $21,000.
+ 
+F-29
+
+ 
+
+On July 19, 2019, the Company issued 156,202 shares of common stock for the conversion of $9,500 of the principal outstanding and $500 in fees under one of the convertible notes.
+ 
+On July 25, 2019, the Company issued 312,500 shares of common stock. The shares were issued in conjunction with a conversion of $20,000 of the principal outstanding under a convertible debenture.
+ 
+The total principal balance outstanding and unamortized discount on the Notes as of July 31, 2019 were $98,250 and $29,765, respectively. The company amortized $389,235 discount from derivative liabilities as interest expense during the year ended July 31, 2019.
+ 
+Each Investor is entitled to, at its option, convert all or any amount of the principal amount and any accrued but unpaid interest of the Note into shares of the Company’s Common Stock, at any time, at a conversion price for each share of Common Stock equal to (i) the lowest trading price of the Common Stock (as defined in the Note) as reported on the National Quotations Bureau OTC Marketplace exchange upon which the Company’s shares are traded during the twenty (20) consecutive Trading Day period immediately preceding the issuance date of each Note; or (ii) 60% multiplied by the lowest traded price of the Common Stock during the twenty (20) consecutive Trading Day period immediately preceding the Trading Day that the Company receives a notice of conversion (the “Variable Conversion Price”). The Variable Conversion Price may further be adjusted in connection with the terms of the Notes.
+ 
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the Notes. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under the Notes.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+Convertible Promissory Note - February 2019
+ 
+On February 22, 2019, the Company entered into a Securities Purchase Agreement (the SPA”) with an investor (an “Investor”) the Investor purchased a 10% unsecured convertible promissory note (the “Note”) from the Company. The note is in the aggregate principal amount of $57,750 and a maturity date of February 22, 2020. After payment of transaction-related expenses of $7,750, net proceeds to the Company from the Note totaled $50,000. The Company recorded these discounts and cost of $7,750 as a discount to the Note and fully amortized as interest expense during the period.
+ 
+The Company analyzed the Note for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of issuance, the company recognized derivative liability for the convertible note of $79,729, of which $50,000 was recorded as debt discount and will be amortized during the term of the Note, and $29,729 was recorded as day 1 derivative loss.
+ 
+The total principal balance outstanding and unamortized discount on the Note as of July 31, 2019 were $57,750 and $29,166, respectively. The company amortized $20,834 discount from derivative liabilities as interest expense during the year ended July 31, 2019. In connection with the execution of the Note, we issued 50,000 shares of our common stock to the Note holder, the shares were recorded with a relative fair value of $0 as the notes were fully discounted by derivative liability. 
+ 
+The Investor is entitled to, at its option, convert all or any amount of the principal amount and any accrued but unpaid interest of the Note into shares of the Company’s Common Stock, at any time, at a conversion price for each share of Common Stock equal to (i) the lowest trading price of the Common Stock (as defined in the Note) as reported on the National Quotations Bureau OTC Marketplace exchange upon which the Company’s shares are traded during the twenty (20) consecutive Trading Day period immediately preceding the issuance date of each Note; or (ii) 60% multiplied by the lowest traded price of the Common Stock during the twenty (20) consecutive Trading Day period immediately preceding the Trading Day that the Company receives a notice of conversion (the “Variable Conversion Price”). The Variable Conversion Price may further be adjusted in connection with the terms of the Note.
+ 
+F-30
+
+ 
+
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the Note. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under the Note.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+Convertible Promissory Note - April 2019
+ 
+On April 20, 2019, the Company entered into a Securities Purchase Agreement (the SPA”) with an investor (an “Investor”) the Investor purchased a 10% unsecured convertible promissory note (the “Note”) from the Company. The note is in the aggregate principal amount of $44,000 and a maturity date of January 19, 2020. After payment of transaction-related expenses of $4,000, net proceeds to the Company from the Note totaled $40,000. The Company recorded these discounts and cost of $4,000 as a discount to the Note and fully amortized as interest expense during the period. In connection with the execution of the Note, we issued 50,000 shares of our common stock to the Note holder, the shares were recorded with a relative fair value of $0 as the notes were fully discounted by derivative liability.
+ 
+The Company analyzed the Note for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of issuance, the Company recognized derivative liability for the convertible note of $55,592, of which $40,000 was recorded as debt discount and will be amortized during the term of the Note, and $15,592 was recorded as day 1 derivative loss.
+ 
+The total principal balance outstanding and unamortized discount on the Note as of July 31, 2019 were $44,000 and $26,668, respectively. The Company amortized $13,332 discount from derivative liabilities as interest expense during the year ended July 31, 2019.
+ 
+The Investor is entitled to, at its option, convert all or any amount of the principal amount and any accrued but unpaid interest of the Note into shares of the Company’s Common Stock, at any time, at a conversion price for each share of Common Stock equal to (i) the lowest trading price of the Common Stock (as defined in the Note) as reported on the National Quotations Bureau OTC Marketplace exchange upon which the Company’s shares are traded during the twenty (20) consecutive Trading Day period immediately preceding the issuance date of each Note; or (ii) 60% multiplied by the lowest traded price of the Common Stock during the twenty (20) consecutive Trading Day period immediately preceding the Trading Day that the Company receives a notice of conversion (the “Variable Conversion Price”). The Variable Conversion Price may further be adjusted in connection with the terms of the Note.
+ 
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the Note. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under the Note.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+F-31
+
+ 
+
+Convertible Promissory Note Assignment - April 2019
+ 
+On April 30, 2019 , the Company entered into an Assignment Agreement whereby Conexus Solutions LLC (the “Assignor”) assigned a principal balance plus accrued interest in the total amount of $29,334 (the Assigned Amount:), representing the total balance outstanding on the Convertible Promissory Note dated December 7, 2018 to Jefferson Street Capital LLC (the “Assignee”). The note is in the aggregate principal amount of $29,334, 10% interest rate and a maturity date of April 30, 2020.
+ 
+The Company analyzed the Note for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of assignment, the Company recognized derivative liability for the convertible note of $36,683, of which $29,334 was recorded as debt discount and will be amortized during the term of the Note, and $7,349 was recorded as day 1 derivative loss.
+ 
+On June 7, 2019, the Company issued 189,008 shares of common stock for the conversion of $15,000 of the principal outstanding and $309 in accrued interest under the convertible note.
+ 
+On June 14, 2019, the Company issued 176,963 shares of common stock for the conversion of $14,334 of the principal outstanding under the convertible note.
+ 
+The total principal balance outstanding and unamortized discount on the Note as of July 31, 2019 were $0 and $0, respectively. The Company amortized $29,334 discount from derivative liabilities as interest expense during the year ended July 31, 2019.
+ 
+The Investors is entitled to, at its option, convert all or any amount of the principal amount and any accrued but unpaid interest of the Note into shares of the Company’s Common Stock, at any time, at a conversion price for each share of Common Stock equal to (i) 60% of the lowest trading price of the Common Stock (as defined in the Note) as reported on the National Quotations Bureau OTC Marketplace exchange upon which the Company’s shares are traded during the twenty (20) consecutive Trading Day period immediately preceding the issuance date of each Note; or (ii) 60% multiplied by the lowest traded price of the Common Stock during the twenty (20) consecutive Trading Day period immediately preceding the Trading Day that the Company receives a notice of conversion (the “Variable Conversion Price”). The Variable Conversion Price may further be adjusted in connection with the terms of the Note.
+ 
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the Note. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under the Note.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+Convertible Promissory Notes with four (4) investors - July 2019
+ 
+In July 2019, the Company entered into various Securities Purchase Agreements (the SPAs”) with four (4) different investors (each an “Investor”, and together the “Investors”) pursuant to which each Investor purchased unsecured convertible promissory note (each a “Note”, and together the “Notes”) from the Company. Three of the notes are in the aggregate principal amount of $146,625 each, 3% interest rate and a maturity date of April 11, 2020. The purchase price of $146,625 of each of three Notes were paid in cash on July 11, 2019. After payment of transaction-related expenses of $57,375, net proceeds to the Company from the three Notes totaled $382,500. One of the notes is in the aggregate principal amount of $140,000, interest rate of 10% and a maturity date of April 10, 2020. The purchase price of $140,000 Note was paid in cash on July 10, 2019. After payment of transaction-related expenses of $17,000, net proceeds to the Company from Note totaled $123,000. The Company recorded these discounts and cost of $74,375 as a discount to the Notes and fully amortized as interest expense during the period. In connection with the execution of the Notes, we issued 450,000 shares of our common stock to the Note holders, the shares were recorded with a relative fair value of $0 as the notes were fully discounted by derivative liability.
+ 
+F-32
+
+ 
+
+The Company analyzed the Notes for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of issuance, the company recognized derivative liability for the four (4) new convertible notes of $959,180, of which $505,500 was recorded as debt discount and will be amortized during the term of the Notes, and $453,680 was recorded as day 1 derivative loss.
+ 
+The total principal balance outstanding and unamortized discount on the Notes as of July 31, 2019 were $579,875 and $449,332, respectively. The company amortized $56,168 discount from derivative liabilities as interest expense during the year ended July 31, 2019.
+ 
+Each of the Investors is entitled to, at its option, convert all or any amount of the principal amount and any accrued but unpaid interest of the Note into shares of the Company’s Common Stock, at any time, at a conversion price for each share of Common Stock equal to (i) the lowest trading price of the Common Stock (as defined in the Note) as reported on the National Quotations Bureau OTC Marketplace exchange upon which the Company’s shares are traded during the twenty (20) consecutive Trading Day period immediately preceding the issuance date of each Note; or (ii) 60% multiplied by the lowest traded price of the Common Stock during the twenty (20) consecutive Trading Day period immediately preceding the Trading Day that the Company receives a notice of conversion (the “Variable Conversion Price”). The Variable Conversion Price may further be adjusted in connection with the terms of the Notes.
+ 
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the each of the Notes. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under each of the Notes.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+Fair Value of Financial Instruments. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. A fair value hierarchy is used which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The fair value hierarchy based on the three levels of inputs that may be used to measure fair value are as follows:
+Level 1 – Quoted prices in active markets for identical assets or liabilities.
+ 
+ Level 2 – Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+ Level 3 – Unobservable inputs that are supported by little or no market activity and that are financial instruments whose values are determined using pricing models, discounted cash flow methodologies, or similar techniques, as well as instruments for which the determination of fair value requires significant judgment or estimation.
+F-33
+
+ 
+
+For certain of our financial instruments, including cash and cash equivalents, accounts receivable, accounts payable and accrued expenses, the carrying amounts approximate fair value due to the short maturity of these instruments. The carrying value of our long-term debt approximates its fair value based on the quoted market prices for the same or similar issues or the current rates offered to us for debt of the same remaining maturities.
+ 
+Our derivative liabilities as of July 31, 2019 and 2018 of $927,000 and $632,000, respectively.
+ 
+The fair market value of all derivatives during the year ended July 31, 2019 was determined using the Black-Scholes option pricing model which used the following assumptions:
+ 
+
+Expected dividend yield | 0.00% 
+--------------------------------+------------------
+Expected stock price volatility | 120.27% - 208.29%
+Risk-free interest rate | 1.74% -2.93% 
+Expected term | 0.21 - 2.75 years
+
+ 
+Level 3 inputs.
+ 
+The following table provides a summary of the changes in fair value of the derivative financial instruments measured at fair value on a recurring basis using significant unobservable inputs:
+ 
+
+Balance at July 31, 2017 | $ | - | 
+-----------------------------------------------------------------------------------+---+-----------+--
+Derivative discount - convertible debt | | 541,671 | 
+Derivative loss | | 90,597 | 
+Balance at July 31, 2018 | $ | 632,268 | 
+Derivative from new convertible promissory notes recorded as debt discount | | 1,043,834 | 
+Derivative liability resolved to additional paid in capital due to debt conversion | | (822,922 | )
+Derivative loss | | 73,991 | 
+Balance at July 31, 2019 | $ | 927,171 | 
+
+ 
+The future principal payments for the Company’s debts is as follows:
+ 
+
+FY | Payments | 
+-------------------------+----------+----------
+2020 | $ | 3,159,459
+2021 | | 111,923 
+2022 | | 67,114 
+2023 | | 23,596 
+Total Principal Payments | $ | 3,362,092
+
+NOTE 12 – EQUIPMENT FINANCING 
+ 
+The Company entered into three financing agreements for equipment purchased. Under the terms of these transactions, assets with a cost of approximately $37,255, $60,408 and $103,509, were financed under three separate financing agreements as of the May 2018, June 2018, and July 2019, respectively. The equipment financing are net of costs associated with the assets such as maintenance, insurance and property taxes are for the account of the Company. The equipment financing agreements are for 36 months, with the first payments starting June 20, 2018, July 20, 2018 and July 12, 2019, respectively and monthly principal and interest payments of $1,176, $1,856 and $3,172, respectively. The interest rate under the financing agreements range from 6.50% to 8.50% per annum. During the years ended July 31, 2019 and 2018, the Company made total principal payments of $32,943 and $3,032, respectively. The future payments under the equipment financing agreements are as follows:
+
+Year | Amount | 
+----------------------------------------------------------+--------+--------
+2020 | $ | 80,655 
+2021 | | 70,233 
+2022 | | 34,897 
+Total future payments: | $ | 185,785
+Less: amounts representing interest | | 20,618 
+Present value of net minimum equipment financing payments | $ | 165,167
+Less current maturities | | 65,152 
+Long-term equipment financing obligation | $ | 100,015
+
+F-34
+
+ 
+
+NOTE 13 – NONCONTROLLING INTEREST 
+ 
+On May 1, 2018, Shift8 Technologies, Inc. (“Shift8”) entered into a Stock Purchase Agreement (’SPA”), whereby in an exchange for $250,000, Shift8 agreed to sell to the buyer 199,900 shares of common stock equivalent to 19.99% of the issued and outstanding common share of Shift8 Technologies, Inc. The $250,000 of the cash received under this transaction was recognized as an adjustment to the carrying amount of the noncontrolling interest and as an increase in additional paid-in capital in Shift8. At the option of the Company, and for a period of five years following the date of the SPA, the 199,900 shares of common stock in Shift8 may be converted into Common Stock of Digerati at a ratio of 3.4 shares of DTGI Common stock for every one (1) share of Shift8 at any time after the DTGI Common Stock has a current market price of $1.50 or more per share for 20 consecutive trading days.
+ 
+For the years ending July 31, 2019 and 2018, the Company accounted for a noncontrolling interest of $128,000 and $57,000, respectively. Additionally, one of the buyers serves as President, CEO and Board Member of T3 Communications, Inc., one of our operating subsidiaries.
+ 
+NOTE 14 – BUSINESS ACQUISITIONS 
+ 
+On December 1, 2017, Shift8 and Synergy Telecom, Inc., a Delaware corporation (“Synergy”), closed a transaction to acquire all the assets, assumed all customers, and critical vendor arrangements from Synergy. Shift8 acquired Synergy to increase its customer base and obtain higher efficiency of its existing infrastructure. Shift8 paid $125,000 upon execution of the agreement, issued 500,000 shares of common stock with a market value of $175,000, and entered into a promissory note for $125,000 with an effective annual interest rate of 6% with 5 quarterly payments and a maturity date of February 28, 2019. The note holder agreed to extend three of the quarterly payment until March 31, 2019. During the year ended July 31, 2018, the Company made a principal payment of $50,000. During the year ended July 31, 2019 the Company paid in full the outstanding principal balance of $75,000 and accrued interest of $3,105.
+ 
+The total purchase price was $425,000, the acquisition was accounted for under the purchase method of accounting, with Digerati identified as the acquirer. Under the purchase method of accounting, the aggregate amount of consideration assumed by Digerati was allocated to customer contracts acquired, software licenses, and goodwill based on their fair values as of December 1, 2017.
+ 
+The following information summarizes the allocation of the fair values assigned to the assets. The allocation of fair values is based on an extensive analysis and is subject to changes in the future during the measurement period.
+ 
+
+ | Synergy | | Useful life (years) | 
+-----------------------+---------+---------+---------------------+--
+Customer relationships | $ | 40,000 | | 5
+License - software | | 105,000 | | 3
+Goodwill | | 280,000 | | -
+Total Purchase price | $ | 425,000 | | 
+
+F-35
+
+ 
+
+The Company incurred approximately $10,000 in costs associated with the acquisition. These included legal, and accounting. The Company expensed these costs during the year ended July 31, 2018.
+ 
+Additionally, on May 2, 2018, the Company closed on the Merger Agreement with T3 Communications, Inc. to increase its customer base and obtain higher efficiency of its existing infrastructure.
+ 
+The total purchase price was $3,211,945, paid in cash upon closing, the acquisition was accounted for under the purchase method of accounting, with the Company identified as the acquirer. Under the purchase method of accounting, the aggregate amount of consideration assumed by the Company was allocated to cash, customer contracts acquired, current assets, property plant and equipment and assumed payables based on their estimated fair values as of May 2, 2018. Allocation of the purchase price is preliminary and based on the best estimates of management.
+ 
+The allocation of fair values is based on an extensive analysis and is subject to changes in the future during the measurement period.
+ 
+
+ | (in thousands) | 
+-------------------------------------------+----------------+------
+ | T3 | 
+Cash | $ | 250 | 
+Accounts receivable & other current assets | | 367 | 
+Intangible assets and Goodwill | | 2,835 | 
+Property and equipment, net | | 568 | 
+Other Assets | | 140 | 
+Total identifiable net assets | $ | 4,160 | 
+Less: liabilities assumed | | (948 | )
+Total Purchase price | $ | 3,212 | 
+
+  The following table summarizes the cost of amortizable intangible assets related to the acquisition:
+ 
+
+ | Cost (in thousands) | | Useful life (years) | 
+------------------------+----------------------+-------+---------------------+--
+Customer relationships | $ | 1,480 | | 7
+Marketing & Non-compete | | 800 | | 5
+Goodwill | | 530 | | -
+Total | $ | 2,810 | | 
+
+ 
+The Company incurred approximately $160,000 in costs associated with the acquisition. These included legal, and accounting. The Company expensed these costs during the year ended July 31, 2018.
+ 
+F-36
+
+ 
+
+Proforma
+ 
+The following is the unaudited proforma results of operations for both acquisitions for the years ended July 31, 2019 and 2018 as if the acquisition occurred on August 1, 2016. The proforma results of operations are presented for informational purposes only and are not indicative of the results of operations that would have been achieved if the acquisition had taken place on August 1, 2016, or of results that may occur in the future.
+
+ | For the years Ended | 
+------------------------------------------------------------------+---------------------+-------
+ | July 31, | 
+ | 2019 | | | 2018 | 
+Revenue | $ | 6,040 | | | $ | 5,674 | 
+Loss from operations | | (2,361 | ) | | | (8,705 | )
+Net Income (loss) | | (4,648 | ) | | | (3,031 | )
+Earnings (loss) per common shares outstanding - Basic and Diluted | $ | (0.27 | ) | | $ | (0.34 | )
+
+NOTE 15 – INVESTMENT IN ITELLUM 
+ 
+On June 14, 2019, the Company, entered into a Stock Purchase Agreement (the “Agreement”) to acquire a 12% minority interest in Itellum Comunicacions Costa Rica, S.R.L. The Company paid $82,500 upon execution of the agreement, issued 500,000 shares of common stock with a market value of $85,000, and entered into a promissory note for $17,500 with an effective annual interest rate of 8% and an initial maturity date of September 14, 2019. As of the date of this filing, we are working with the lender to extend the maturity date on the note. The outstanding balance as of July 31, 2019 was $17,500.
+ 
+The minority interest in Itellum was accounted for as a cost-basis investment, and based on the agreed cash and stock issued, the Company accounted for an initial investment value of $185,000.
+ 
+NOTE 16 – EQUITY
+ 
+During the year ended July 31, 2019, the Company issued the following shares of common stock that are not disclosed in other footnotes:
+ 
+On September 28, 2018, the Company issued an aggregate of 21,672 shares of common stock with a market value at time of issuance of $5,794. The shares were issued to settle accounts payables of $5,287 to a professional, the Company recognized a loss of $507 upon issuance of the shares.
+ 
+On November 5, 2018, the Company issued an aggregate of 16,883 shares of common stock with a market value at time of issuance of $5,875. The shares were issued to settle accounts payables of $5,287 to a professional, the Company recognized a loss of $588 upon issuance of the shares.
+ 
+On November 14, 2018, the Company secured $75,000 from an accredited investor under a Securities Purchase Agreement and issued 258,621 shares of its common stock at a price of $0.29.
+ 
+On November 29, 2018, the Company issued an aggregate of 39,444 shares of common stock with a market value at time of issuance of $11,833. The shares were issued to settle accounts payables of $10,545 to a professional, the Company recognized a loss of $1,288 upon issuance of the shares.
+ 
+On February 5, 2019, the Company issued an aggregate of 60,715 shares of common stock with a market value at time of issuance of $13,357. The shares were issued to settle accounts payables of $10,382 to a professional, the Company recognized a loss of $2,975 upon issuance of the shares.
+ 
+F-37
+
+ 
+
+On February 8, 2019, the Company secured $150,000 from an accredited investor under a Securities Purchase Agreement and issued 600,000 shares of its common stock at a price of $0.25.
+ 
+On February 8, 2019 the Company issued an aggregate of 400,000 shares of common stock with a market value at time of issuance of $100,000 and recognized the total fair market value as stock-based compensation expense at the time of issuance. The shares were issued for consulting services.
+NOTE 17 – SUBSEQUENT EVENTS 
+ 
+Convertible Notes - conversions 
+ 
+On August 26, 2019, the Company issued 250,000 shares of common stock for the conversion of $14,500 of the principal outstanding and $500 in administrative fees under a convertible note.
+ 
+On August 26, 2019, the Company issued 416,666 shares of common stock for the conversion of $25,000 of the principal outstanding under a convertible note.
+ 
+On September 4, 2019, the Company issued 250,620 shares of common stock for the conversion of $10,000 of the principal outstanding and $541 in administrative fees under a convertible note.
+ 
+On September 10, 2019, the Company issued 277,291 shares of common stock for the conversion of $12,750 of the principal outstanding and $2,888 in accrued interest and administrative fees under a convertible note.
+ 
+On September 26, 2019, the Company issued 342,466 shares of common stock for the conversion of $14,500 of the principal outstanding and $500 in administrative fees under a convertible note.
+ 
+Convertible Promissory Notes 
+ 
+Convertible Promissory Note Assignment - August 6, 2019
+ 
+On August 6, 2019, the Company entered into an Assignment Agreement whereby Jefferson Street Capital LLC (the “Assignor”) assigned a principal amount of $25,000, representing a portion of a Convertible Promissory Note dated January 24, 2019 to Armada Investment Fund LLC (the “Assignee”). The note is in the aggregate principal amount of $25,000 and a maturity date of January 24, 2020.
+ 
+The Company analyzed the Note for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of assignment, the Company recognized derivative liability for the convertible note of $27,853, of which $25,000 was recorded as debt discount and will be amortized during the term of the Note, and $2,853 was recorded as day 1 derivative loss.
+ 
+On August 12, 2019, the Company issued 114,123 shares of common stock for the conversion of $7,500 of the principal outstanding and $500 in administrative fees under the convertible note.
+ 
+On August 20, 2019, the Company issued 191,116 shares of common stock for the conversion of $7,500 of the principal outstanding and $538 in accrued interest and administrative fees under the convertible note.
+ 
+After the two above mentioned conversions, the outstanding balance on the promissory note is $10,000.
+ 
+Convertible Promissory Note - August 30, 2019
+ 
+On August 30, 2019, the Company entered into a Securities Purchase Agreement (the “SPA”) with an investor (an “Investor”) the Investor purchased a 10% unsecured convertible promissory note (the “Note”) from the Company. The note is in the aggregate principal amount of $93,500 and a maturity date of May 30, 2020. After payment of transaction-related expenses of $8,500, net proceeds to the Company from the Note totaled $85,000. The Company recorded these discounts and cost of $8,500 as a discount to the Note and fully amortized as interest expense during the period.
+F-38
+
+ 
+
+The Company analyzed the Note for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of issuance, the Company recognized derivative liability for the convertible note of $100,978, of which $85,000 was recorded as debt discount and will be amortized during the term of the Note, and $15,978 was recorded as day 1 derivative loss.
+Other Terms to the Convertible Promissory Note and Note Assignment - August 2019
+ 
+Notes shall bear interest at a rate of eight percent (8%) per annum (the “Interest Rate”), which interest shall be paid by the Company to each Investor in shares of Common Stock at any time an Investor sends a notice of conversion to the Company. Each of the Investors is entitled to, at its option, convert all or any amount of the principal amount and any accrued but unpaid interest of the Note into shares of the Company’s Common Stock, at any time, at a conversion price for each share of Common Stock equal to (i) the lowest trading price of the Common Stock (as defined in the Note) as reported on the National Quotations Bureau OTC Marketplace exchange upon which the Company’s shares are traded during the twenty (20) consecutive Trading Day period immediately preceding the issuance date of each Note; or (ii) 60% multiplied by the lowest traded price of the Common Stock during the twenty (20) consecutive Trading Day period immediately preceding the Trading Day that the Company receives a notice of conversion (the “Variable Conversion Price”). The Variable Conversion Price may further be adjusted in connection with the terms of the Notes.
+ 
+Each of the Notes may be prepaid until 180 days from the issuance date with the following penalties: (i) if a Note is prepaid within one hundred and twenty (120) days of the issuance date, then the prepayment premium shall be 125% of the outstanding principal amount plus any accrued and unpaid interest; (ii) if a Note is prepaid during the period beginning on the date which is one hundred and twenty-one (121) days following the issuance date, and ending on the date which is one hundred eighty (180) days following the issuance date, then the prepayment premium shall be 130% of the outstanding principal amount plus any accrued and unpaid interest. Such prepayment redemptions must be closed and funded within three days of giving notice of prepayment or the right to prepay shall be forfeited.
+ 
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the each of the Notes. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under each of the Notes.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+Convertible Promissory Notes - October 2019
+ 
+In October 2019, the Company entered into two Securities Purchase Agreements (the “SPA”) with multiple investors (the "Investors") the Investors purchased two 8% unsecured convertible promissory notes (the “Notes”) from the Company. The notes are in the aggregate principal amount of $71,500 and a maturity date of July 18, 2020. After payment of transaction-related expenses of $6,500, net proceeds to the Company from the Note totaled $65,000. The Company recorded these discounts and cost of $6,500 as a discount to the Note and fully amortized as interest expense during the period.
+F-39
+
+ 
+
+The Company analyzed the Notes for derivative accounting consideration and determined that the embedded conversion option qualified as a derivative instrument, due to the variable conversion price. As a result, at the time of issuance, the Company recognized derivative liability for the convertible note of $82,462 of which $65,000 was recorded as debt discount and will be amortized during the term of the Note, and $17,462 was recorded as day 1 derivative loss.
+Other Terms to the Convertible Promissory Notes - October 2019
+ 
+Notes shall bear interest at a rate of eight percent (8%) per annum (the “Interest Rate”), which interest shall be paid by the Company to each Investor in shares of Common Stock at any time an Investor sends a notice of conversion to the Company. Each of the Investors is entitled to, at its option, convert all or any amount of the principal amount and any accrued but unpaid interest of the Note into shares of the Company’s Common Stock, at any time, at a conversion price for each share of Common Stock equal to (i) the lowest trading price of the Common Stock (as defined in the Note) as reported on the National Quotations Bureau OTC Marketplace exchange upon which the Company’s shares are traded during the twenty (20) consecutive Trading Day period immediately preceding the issuance date of each Note; or (ii) 60% multiplied by the lowest traded price of the Common Stock during the twenty (20) consecutive Trading Day period immediately preceding the Trading Day that the Company receives a notice of conversion (the “Variable Conversion Price”). The Variable Conversion Price may further be adjusted in connection with the terms of the Notes.
+ 
+Each of the Notes may be prepaid until 180 days from the issuance date with the following penalties: (i) if a Note is prepaid within one hundred and twenty (120) days of the issuance date, then the prepayment premium shall be 125% of the outstanding principal amount plus any accrued and unpaid interest; (ii) if a Note is prepaid during the period beginning on the date which is one hundred and twenty-one (121) days following the issuance date, and ending on the date which is one hundred eighty (180) days following the issuance date, then the prepayment premium shall be 130% of the outstanding principal amount plus any accrued and unpaid interest. Such prepayment redemptions must be closed and funded within three days of giving notice of prepayment or the right to prepay shall be forfeited.
+
+
+The Company shall at all times reserve a minimum of six (6) times the number of its authorized and unissued common stock (the “Reserved Amounts”), free from preemptive rights, to provide for the issuance of Common Stock upon the full conversion of the each of the Notes. Upon full conversion of each Note, any shares remaining in such reserve shall be cancelled. The Company will, from time to time, increases the Reserved Amount in accordance with the Company’s obligations under each of the Notes.
+ 
+Pursuant to the terms of the SPAs, for so long as any of the Investors owns any shares of Common Stock issued upon conversion of a Note (the “Conversion Shares”), the Company covenants to secure and maintain the listing of such shares of Common Stock. The Company is also subject to certain customary negative covenants under the Notes and the SPAs, including but not limited to the requirement to maintain its corporate existence and assets, subject to certain exceptions, and not to make any offers or sales of any security under circumstances that would require registration of or stockholder approval for the Notes or the Conversion Shares.
+ 
+F-40
+
+ 
+ 

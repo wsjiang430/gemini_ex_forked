@@ -1,0 +1,243 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Overview 
+ 
+On October 23, 2019, LRAD Corporation announced it was rebranding as Genasys Inc. Genasys is a global provider of critical communications solutions designed to help keep people safe. Our unified platform provides a multi-channel approach to deliver alerts, notifications, instructions and information before, during and after public safety threats, critical events and other crisis situations.
+ 
+Our multi-channel approach includes:
+ 
+
+• | LRAD® (Long Range Acoustic Devices) that project sirens and audible voice messages with exceptional vocal clarity in a 30° beam from close range out to 5,500 meters;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | CCaaS (Critical Communications as a Service) software that is a reliable, fast and intuitive solution for sending SMS, text, email and social media messages to mobile devices in defined geographic areas, and;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Integrated Solutions that span multiple hardware and software mobile notification channels so that information can be delivered to the people who need it. These solutions include LRAD systems that project sirens and audible voice messages 60° - 360° with industry-leading vocal clarity from close range to over 14 square kilometers from a single installation, and CCaaS software designed to deliver SMS, text, email, and social media messages to mobile devices in defined geographic areas. Our integrated solutions are compatible with the Federal Emergency Management Agency (“FEMA”) Integrated Public Alert & Warning System (“IPAWS”) and other major emergency warning protocols.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We have a history of successfully delivering innovative systems and solutions, pioneering the acoustic hailing device (“AHD”) market with the introduction of our first LRAD AHD in 2003, creating the first multidirectional public safety mass notification systems that project sirens and audible voice messages with industry-leading vocal clarity and area coverage in 2012, and recently revolutionizing the mass notification industry with the only unified platform that combines audible, highly intelligible voice broadcast systems and digital, CCaaS software mobile mass messaging solutions.
+ 
+The Company’s critical communication systems are being used in 72 countries throughout the world in diverse applications, including public safety, national emergency warning systems, mass notification, defense, law enforcement, critical infrastructure protection, and many more. We continue to develop new communication innovations and believe we have significant competitive advantages in our principal markets. 
+ 
+Technology and Products 
+ 
+Our LRAD systems are a technological breakthrough in broadcasting audible, highly intelligible voice messages and tones over long distances and high ambient noise using minimal power. By broadcasting audible voice messages with exceptional vocal clarity and only where needed, we offer novel sound applications that conventional bullhorns, loudspeakers, public address and emergency warning systems cannot achieve.
+ 
+ 1
+
+
+
+Our LRAD products were initially developed for the U.S. Navy to fill a capability gap identified after the October 2000 attack on the USS Cole. LRAD systems are deployed by the U.S. Army, Navy, Air Force, Marine Corps, National Guard and Coast Guard, as well as international military services, and maritime, public safety and commercial security organizations. We have redesigned and enhanced our LRAD AHDs with improved voice intelligibility, output and durability. The rugged construction of our systems enables us to meet stringent military specifications. Our LRAD AHDs are designed to enable users to safely hail and warn, inform and direct, prevent misunderstandings, determine intent, establish large safety zones, resolve uncertain situations, and save lives.
+ 
+Our LRAD AHD product line provides a complete range of solutions from handheld, portable devices to permanently installed, remotely operated systems. We continue to add new models to meet specific customer requirements and to expand into new markets. We have also added various features and accessories, including wireless capability, record on-the-fly microphones, integrated and remote electronics packages, and amplifiers. 
+ 
+Building on the success of our LRAD AHDs, we designed and developed our multidirectional mass notification product line. Unlike most siren based installations, our public safety notification systems broadcast both emergency warning sirens and highly intelligible voice messages with uniform 60° - 360° coverage over local and wide areas. We believe our ability to shape the broadcast coverage area, our industry-leading speech intelligibility, and our multiple system activation and control options enable us to successfully compete in the large and growing mass notification market. 
+ 
+We continue to enhance our acoustic communication technologies and product lines to provide a complete range of systems and accessories. Our patented XL driver technology, which generates higher audio output in a smaller and lighter form factor, is being incorporated into our LRAD AHD and mass notifications systems. To date, we have incorporated our XL driver technology into the LRAD 450XL, LRAD 1950XL, LRAD 950RXL, LRAD DS-60XL, LRAD 360XL, and LRAD 360XL-MID. We are enhancing our system design and manufacturing capabilities to improve the durability and performance of our products. Our systems have been competitively selected over other commercially available systems by the U.S. Department of Defense and numerous international militaries.
+ 
+Our product lines include the following: 
+ 
+LRAD Systems
+
+Acoustic Hailing Devices (AHDs):
+ 
+
+• | LRAD 100X—a self-contained, battery powered, portable AHD designed for use in a variety of mass notification, law enforcement, and public safety applications—is ideally suited for shorter-range perimeter security and communication.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 100X MAG-HS KIT—consists of an LRAD 100X with a high-strength magnetic mount, LRAD Wireless Kit for remote operation and other accessories that provide operators with the flexibility to use the system in a wide range of scenarios.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 450XL—the loudest long range AHD for its size and weight—uses our patented technology to provide more output in a smaller form factor with the same high level of clarity and intelligibility consistent with all our LRAD systems. After extensive testing, in August 2019, the U.S. Army (“Army”) awarded the Company an order of $20.2 million for LRAD 450XL systems and accessories to meet the Army’s critical communications and scalable escalation of force requirements. The LRAD 450XL is designed to provide an effective communication solution for small vessels, military and law enforcement vehicles, and helicopters.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 500RX—engineered and designed on a proprietary pan and tilt system to provide remotely controlled communication, security, and first response.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 950RXL—selected for the U.S. Navy’s multi-year contract for Situational Awareness Systems on Military Sealift Command ships and other U.S. Navy vessels—combines the remotely operated pan and tilt system of the LRAD 500RX with our enhanced XL driver technology.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 1000Xi—selected by the U.S. Navy as its AHD for larger vessels for shipboard defense—can be manually operated to provide long distance hailing and warning and highly intelligible voice communications. This system is available in both fully integrated and remotely operated electronics.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 1950XL—our largest AHD that incorporates our patented XL driver technology features military-tested construction, low power requirements, and a rugged, easily transportable aluminum tripod for rapid deployment. Broadcasting highly intelligible voice communications that can be clearly heard and understood over distances of up to 5,000 meters, the LRAD 1950XL is designed primarily for defense, border, and critical infrastructure security applications.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 2
+
+
+
+
+• | LRAD 2000X—designed to meet the requirements of larger security applications—is our largest AHD. Broadcasting highly intelligible voice communications over distances of up to 5,500 meters, the LRAD 2000X unit is designed primarily for perimeter and border security applications.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We continue to augment our LRAD AHD product line by using our proprietary technology to develop louder, longer distance systems in smaller form factors, as well as incorporating customer and market-specific enhancements. 
+ 
+Public Safety Mass Notification (“PSMN”) Systems:
+ 
+
+• | LRAD DS-60X/DS-60XL—a mounted horn system for areas that require 60° - 360° mass notification coverage. The LRAD DS-60XL has the same form factor as the LRAD DS-60X, uses our patented XL driver technology, and has a 60°, 900-meter range. When configured in a 360° ring array, the broadcast coverage area extends to 2.5 square kilometers. Each LRAD DS-60XL horn in the ring array can be operated independently, providing customizable mass notification area coverage.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 360XL—provides 360° coverage and is targeted for broad market applications including tsunami, hurricane, tornado, and severe weather warnings, government, campus, and industrial public address and emergency notification, and military base mass notification and public address. The LRAD 360XL also uses our patented XL driver technology. Available in several emitter configurations, the LRAD 360XL is powered and controlled by the Company’s Advanced Control Cabinet or Compact Control Cabinet. Using the Company’s CCaaS software, the Compact Control Cabinet provides flexible PSMN system command and control via TCP/IP, WiFi, Fiber, GPRS/GSM, or satellite.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 360XL-MID—designed for urban areas, small campuses, industrial sites, and government & defense facilities, the LRAD 360XL-MID can be installed on existing infrastructure or mounted on a tripod.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 360XL-MID Mobile Kit—comprised of two XL driver powered emitters, ruggedized carrying case power amplifier, hardened control module, all-weather push-to-talk mic, tripod, and other accessories. The kit provides a self-contained solution for operations requiring advanced mobile mass notification. Rapidly deployable, the LRAD 360XL-MID Mobile Kit is designed for defense, homeland security, law enforcement, and PSMN applications.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD 360XT—fully self-contained and self-powered, the LRAD 360XT mobile mass notification system delivers highly intelligible voice and emergency warning tone broadcasts with uniform 360° coverage over an 850-meter coverage radius from a rapidly deployable, telescoping 30-foot pneumatic mast. The LRAD 360XT is integrated and mounted on a ruggedized trailer featuring securely mounted, lockable electronics and equipment enclosures containing the amplifier modules and pneumatic systems.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | LRAD SoundSaber®-X—next generation LRAD SoundSaber mass notification line array speakers. The LRAD SoundSaber-X ("SS-X") features a new lightweight, rugged, and highly efficient driver technology designed to provide exceptional vocal intelligibility while utilizing 66% less power to generate 16dB more in audio output than the previous generation LRAD SS400. The LRAD SS-X is designed to alleviate reflection and echoing, to provide uniform acoustic coverage with wide audio dispersion along the short axis and narrow dispersion along the long axis, and ensure broadcasts are clearly heard and understood in high ambient noise environments. The thin form factor of the LRAD SS-X provides unobtrusive installation for many types of mass notification and public address applications.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Our PSMN voice broadcast systems feature exceptional speech intelligibility and the largest area coverage. The system can be installed independently of existing infrastructure with battery operation, Internet Protocol or satellite connectivity and with AC/Solar power charging systems. The battery capacity follows industry guidelines. Solar power and satellite connectivity options designed to ensure system operation when existing power or communication infrastructure fail. Our voice broadcast systems also have battery backup designed to power 48 hours of continuous operation.
+ 
+CCaaS (Critical Communications as a Service) Software: 
+ 
+Using our cloud-based mobile mass messaging software, we developed our proprietary CCaaS – Critical Communications as a Service – software that integrates geolocation-targeted mobile mass messaging with command and control functionality to activate and operate our PSMN voice broadcast systems. Our CCaaS software is designed to deliver multi-channel, geolocation-targeted alerts, warnings, notifications and information to only the individuals in or entering crisis affected areas.
+ 
+ 3
+
+
+
+Integrated Solutions:
+ 
+By integrating our industry-leading LRAD products with our CCaaS software, we created the only platform that unifies highly intelligible voice broadcast systems and mobile mass messaging solutions for the public safety, emergency warning and mass notification markets. Our CCaaS software platform is designed to integrate with external inputs and sensors that provide platform operators the critical data they need to make informed decisions on when and where to deliver location-based audible and digital alerts and warnings.
+ 
+We believe the integration of mass messaging solutions, our enhanced software capabilities, our highly intelligible LRAD voice broadcasting systems and our platform’s compatibility with major emergency warning protocols, including FEMA’s IPAWS, Wireless Emergency Alerts (“WEA”) and others, significantly augment our existing product offerings and provide us with substantial business growth opportunities in new markets.
+ 
+Strategy 
+ 
+The proliferation of natural disasters, crisis situations and civil disturbances require technologically advanced, multi-channel solutions to deliver clear and timely critical communications to help make and keep the public safe during emergencies. Businesses are also incorporating communication systems that locate and help safeguard employees when critical events occur.
+ 
+By providing the only unified platform that combines audible, highly intelligible voice broadcast systems and CCaaS software, Genasys seeks to deliver a reliable, fast and intuitive solution for sending location-based audible voice communications and geolocation-targeted messages and texts to mobile devices to help keep the public and employees safe.
+ 
+Genasys has developed a global market and an increased demand for LRAD systems and revolutionary public safety notification solutions. We have a reputation for producing quality products that feature industry-leading broadcast area coverage, vocal intelligibility and geo-targeted mass messaging. While the mass notification market is more mature with many established manufacturers and suppliers, we believe that our advanced technology and unified platform provides opportunities to succeed in the large and growing public safety, emergency warning and mass notification markets. We also plan to expand and strengthen domestic and international sales channels by adding key mass notification partners, distributors, and dealers.
+ 
+We plan to continue building on our AHD leadership position by offering enhanced directional and multidirectional voice broadcast systems and accessories for an expanding range of applications. In executing our strategy, we use direct sales to governments, militaries, large end-users, and system integrators. We have built a worldwide distribution channel consisting of partners and resellers that have significant expertise and experience selling integrated communication solutions into our various target markets. As our primary AHD sales opportunities are with domestic and international government, military and law enforcement agencies, we are subject to each customer’s unique budget cycle, which leads to long selling cycles and uneven revenue flow, complicating our product planning. 
+ 
+In fiscal 2020, we intend to continue to pursue domestic and international business opportunities with the support of business development consultants, key representatives and resellers. We plan to grow our revenues through increased direct sales to militaries and large commercial and defense-related companies that desire to integrate our communication technologies into their product offerings. This includes building on fiscal 2019 domestic defense sales by pursuing further U.S. military opportunities. We also plan to pursue mass notification, government, law enforcement, fire rescue, homeland and international security, private and commercial security, border security, maritime security, and wildlife preservation and control business opportunities.
+ 
+Our research and development strategy is to continue innovating voice broadcast systems and accessories, and mobile alert solutions to meet the needs of our target markets. Our PSMN product line includes emitters and speaker arrays in different sizes, as well as various configurations of amplifiers, mounts, power sources, and software. We developed and patented our XL driver technology, which generates higher audio output in smaller, lighter form factors. We have incorporated our XL driver technology into the LRAD 450XL, LRAD 1950XL, LRAD 950RXL, LRAD DS-60XL, LRAD 360XL, and LRAD 360XL-MID. Our LRAD PSMN systems and CCaaS software represent more complex, integrated offerings. We are pursuing certain certifications, which are often required when bidding on government and mass notification opportunities. We intend to invest engineering resources to enhance our PSMN systems and CCaaS software to compete for larger mass notification business opportunities. We are also configuring alternative solutions to achieve lower price points to meet the needs of certain customers or applications. We also engage in ongoing value engineering to reduce the cost and simplify the manufacturing of our products.
+ 
+ 4
+
+
+
+We intend to continue operating with financial discipline in order to create value for our shareholders. We are focused on growing top line revenue by successfully entering new markets and expanding our market share in the global mass notification market, which we believe will translate into increased net profit growth.
+ 
+Manufacturing and Suppliers
+
+Manufacturing. We believe maintaining quality manufacturing capacity is essential to the performance of our products and the growth of our business. Our technologies are different from mass-produced designs, and our manufacturing and assembly involves unique processes and materials. We contract with third-party suppliers to produce various components and sub-assemblies. At the end of fiscal year 2018, the Company moved to a new facility with expanded engineering and manufacturing capacity to support current and expected business growth. In our facility, we complete the final assembly, test and ship our products. We have refined our internal processes to improve how we design, test, and qualify products. We continue to implement rigorous manufacturing and quality processes to track production and field failures. We also perform third-party testing and certification of our products to ensure that they meet rigorous military and commercial specifications. We implement design and component changes periodically to reduce our product costs and improve product reliability and manufacturability. 
+Suppliers. We minimize inventories and maximize the efficiency of our supply chain by having a large number of components and sub-assemblies produced by outside suppliers mostly located within 50 miles of our facility. The Company relies on one supplier for compression drivers for its LRAD products and is making efforts to obtain alternative suppliers to reduce such reliance. The Company’s ability to manufacture its LRAD products could be adversely affected if it were to lose this sole source supplier and was unable to find an alternative supplier. We also purchase several key components and sub-assemblies from foreign suppliers. Consequently, we are subject to the impact economic conditions can have on such suppliers and the fluctuations of foreign currency exchange rates, which could impact our lead times and product costs. We have developed strong relationships with a number of our key suppliers. If these suppliers should experience quality problems or part shortages, our production schedules could be significantly delayed or our costs significantly increased. 
+Sales and Marketing
+
+We market and sell products and services through our sales force based in California, Colorado, Florida, Wisconsin, and Spain as well as through full-time business consultants in Texas, Germany and Thailand. Our corporate and administrative offices are located in San Diego, California. 
+ 
+We sell directly to governments, militaries, large end-users, and defense-related companies. We use independent representatives on a commission basis to assist in our direct sales efforts. We also use a channel distribution model, in which we sell our products directly to independent resellers and system integrators around the world, who then sell our products (or our products integrated with other systems) to end-user customers. We are focusing our internal business development resources on building relationships with defense integrators and other large direct customers. In addition, we utilize part-time consultants with expertise in various U.S. government and defense sectors to advise us on procedures and budgetary policies in an effort to be successful in these areas. 
+ 
+We have a global reputation for providing high quality, innovative voice broadcast systems and mobile alert solutions that have made Genasys and LRAD internationally recognized product brands. We actively promote our brands and products through our website, trade shows, and advertising. We intend to increase the use of our trademarks throughout our product distribution chain and believe growing brand awareness will assist in expanding our business. We believe our reputation for technological expertise, quality products, and strong service and support provide us competitive advantages.
+ 
+Customer Concentration
+
+For the fiscal year ended September 30, 2019, we had two customers accounting for 37% and 10% of revenues, with no other single customer accounting for more than 10% of revenues. For the fiscal year ended September 30, 2018, we had one customer accounting for 20% of revenues, with no other single customer accounting for more than 10% of revenues.
+ 
+Our revenues to date have relied on a few major customers. The loss of any customer could have a materially adverse effect on our financial condition, results of operations and cash flows. We have made progress diversifying our revenues and expect to continue to do so in future periods. 
+ 
+ 5
+
+
+
+Backlog
+
+Our order backlog for products that are deliverable in the next 12 months was approximately $27,014,253 at September 30, 2019, compared to $23,646,910 at September 30, 2018. The amount of backlog at any point in time is dependent upon scheduled delivery dates to our customers and product lead times. Our backlog orders are supported by firm purchase orders. 
+Warranties
+
+We generally warrant our products to be free from material and workmanship defects for a period up to one year from the date of purchase. The warranty is generally a limited warranty, and in some instances imposes certain shipping costs on the customer. We generally provide direct warranty service, but at times we may establish warranty service through third parties.
+ 
+We also provide repair and maintenance agreements and extended warranty contracts at market rates, with terms ranging from one year to several years, as an additional source of revenue and to provide increased customer satisfaction. 
+ 
+Competition
+
+Our technologies and products compete with those of other companies. Commercial and government audio industry markets are fragmented and include numerous manufacturers with audio products that vary widely in price, quality, and distribution channels. Present and potential competitors have, or may have, substantially greater resources to devote to product development. We believe we compete primarily on the originality of our products, the uniqueness of our technology and designs, and our responsiveness to customers and the ability to meet their needs. We believe the quality, durability, and superior performance of our products, which have been developed by incorporating feedback from our customers, and our desire to provide the highest quality products, also provide us competitive advantages.
+ 
+Our LRAD AHD product line features the leading voice broadcast systems for military and commercial applications. Our AHD competitors include Ultra Electronics/USSI, IML Sound Commander, and others. We do not believe these competitors have achieved significant global market penetration in the AHD market to date. We believe our LRAD AHD product line has demonstrated acceptance, has performed extremely well in harsh environments, and can continue to compete on the basis of technical features, performance, ease of use, quality and cost. As we continue to grow this market, future competitors may enter, which could impact our competitiveness. 
+ 
+In the mature and established mass notification market, we compete against several domestic and international competitors, including Everbridge, OnSolve, Whelen Engineering Company Inc., Hoermann, and others. We believe our ability to offer a reliable, fast and intuitive solution for sending location-based SMS, text, email and social media messages to mobile devices in defined geographic areas and providing the only platform that unifies voice broadcast and digital, CCaaS software gives us significant competitive advantages against these established organizations. Further advantages include our ability to shape the broadcast coverage area from 60° - 360°, our industry-leading voice broadcast intelligibility, and our multiple system activation and control options, including satellite, TCP/IP, fiber, Wi-Fi, digital or analog radio, Ethernet or hard wire. We believe our platform’s ease of integration with external sensors and inputs, and compatibility with major emergency warning protocols also provide competitive advantages. We believe the domestic and international markets for public safety, emergency warning and mass notification are substantial and growing. 
+ 
+Seasonality
+
+Because our sales are primarily to domestic and international government departments or agencies, our selling cycles tend to be long and difficult to forecast. We have not experienced any significant seasonality trends to date, but we may experience increased seasonality in the future. 
+Government Regulation
+
+We are subject to a variety of government laws and regulations that apply to companies engaged in international operations, including, among others, the Foreign Corrupt Practices Act, U.S. Department of Commerce export controls, local government regulations and procurement policies and practices (including regulations relating to import-export control, investments, exchange controls and repatriation of earnings). We maintain controls and procedures to comply with laws and regulations associated with our international operations. If we are unable to remain compliant with such laws and regulations, our business may be adversely affected. 
+ 
+ 6
+
+
+
+Our products are produced to comply with standard product safety requirements for sale in the U.S. and similar requirements for sale in Europe and Canada. We expect to meet the electrical and other regulatory requirements for electronic systems or components we sell throughout the world. 
+ 
+Financial Information about Segments and Geographic Areas
+
+Financial information regarding our segments and the geographic areas in which we operate is contained in Note 17, Segment Information, and Note 18, Major Customers, Suppliers and Related Information to our consolidated financial statements.
+Intellectual Property Rights and Proprietary Information
+
+We operate in an industry where innovation, investment in new ideas, and protection of resulting intellectual property rights are important drivers of success. We rely on a variety of intellectual property protections for our products and technologies, including patent, trademark and trade secret laws, and contractual obligations. We pursue a policy of vigorously enforcing our intellectual property rights. 
+ 
+In addition to such factors as innovation, technological expertise, and experienced personnel, we believe strong product offerings that are continually upgraded and enhanced will keep us competitive, and we will seek patent protection on important technological improvements that we make. We have an ongoing policy of filing patent applications to seek protection for novel features of our products and technologies. Prior to the filing and granting of patents, our policy is to disclose key features to patent counsel and maintain these features as trade secrets prior to product introduction. Patent applications may not result in issued patents covering all-important claims and could be denied in their entirety. We also file for trade name and trademark protection when appropriate. We are the owner of federally registered trademarks, including LRAD®, LONG RANGE ACOUSTIC DEVICE®, LRAD-X®, LRAD-RX®, and SOUNDSABER®. Many of our registered trademarks have earned worldwide brand recognition. 
+ 
+Our policy is to enter into nondisclosure agreements with each employee and consultant or third party to whom any of our proprietary information is disclosed. These agreements prohibit the disclosure of confidential information to others, both during and subsequent to employment, or the duration of the working relationship. These agreements may not prevent disclosure of confidential information or provide adequate remedies for any breach. 
+ 
+Research and Development
+
+The sound reproduction and software markets are subject to rapid changes in technology and design with frequent improvements and new product introductions, as well as customized solutions for specific customer applications. We believe our future success will depend on our ability to enhance and improve existing technologies and to introduce new technologies and products on a competitive basis that meet the needs of our customers. Accordingly, we are continuing to engage in significant research and new product development activities. 
+ 
+For the fiscal years ended September 30, 2019 and 2018, we spent approximately $4.5 million and $3.5 million, respectively, on company-sponsored research and development. Future levels of research and development expenditures will vary depending on the timing of further new product development and the availability of funds to carry on additional research and development on currently owned technologies or in other areas. 
+ 
+Executive Officers
+
+The current executive officers of LRAD Corporation and their ages and business experience are set forth below. 
+ 
+Richard S. Danforth, age 60, was appointed Chief Executive Officer in August 2016. Mr. Danforth formed the strategic business consulting firm, RsD Aero, Ltd., in 2014, which provided consulting services for the Defense, Aerospace, Space and Transportation sectors, with an emphasis on M&A and Transatlantic trade. He served at DRS Technologies as Group President of DRS Integrated Defense Systems & Service (2013 – 2014); Chief Executive Officer, President and Board Member of DRS Defense Solutions (2008 – 2012); President, Command Control & Communication (2005 – 2008); President, Navy Electronics & Intelligence Systems (2004 – 2005); and Executive Vice President, Electronics Systems Group (2002 – 2004). He began his career at Raytheon in 1982 and held various manufacturing, quality assurance and program manager positions until 1996. Mr. Danforth was then appointed Vice President of Operations for Raytheon Aircraft Company (1996 – 2000). In 2000, he was named Senior Vice President of Raytheon Aircraft Company’s Commercial Aircraft Business division, where he led a staff of 370 sales, marketing and customer service personnel. Mr. Danforth holds a Bachelor of Science in Industrial Technology from the University of Massachusetts Lowell and a Masters in Engineering Management from Western New England College.
+ 
+ 7
+
+
+
+Dennis D. Klahn, age 61, was appointed Interim Chief Financial Officer in August 2017 and promoted to Chief Financial Officer in September 2017. Mr. Klahn has more than 30 years of accounting, finance and operations experience, which includes serving as Controller or CFO at publicly traded companies. He was most recently a Group Controller at Teledyne RD Instruments, a subsidiary of Teledyne Technologies Incorporated, between 2011 and August 2017. Prior to that role, he served as Controller or CFO at several companies including, ISE Corporation, Overland Storage, Inc., Anacomp, Inc., and International Lottery & Totalizator Systems, Inc. Mr. Klahn began his career as a Staff Accountant at Coopers & Lybrand after receiving his B.A. in Accounting from St. Ambrose University.
+ 
+Executive officers serve at the discretion of the board of directors. 
+ 
+Employees
+
+At September 30, 2019, we employed a total of 83 people. Of such employees, 23 were in research and development, 31 were in production, quality assurance and materials control, 13 were in general and administrative and 16 were in sales and marketing. We contract technical and production personnel from time to time on an as needed basis and use outside consultants for various services. In addition, we have an extensive worldwide network of independent representatives and resellers who actively market and sell our products. We have not experienced any work stoppages, are not a party to a collective bargaining agreement and we consider our relations with our employees to be favorable. 
+Available Information
+
+Our shares of common stock trade on the NASDAQ Capital Market under the symbol “GNSS”. Our address is 16262 West Bernardo Drive, San Diego, California, 92127, our telephone number is 858-676-1112, and our website is located at www.genasys.com. We make available, free of charge through our website, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, reports filed by our directors, executive officers and certain significant shareholders pursuant to Section 16 of the Securities Exchange Act, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act of 1934, as soon as reasonably practical after the reports are electronically filed with or furnished to the Securities and Exchange Commission (“SEC”). The information on our website is not incorporated by reference into this report nor is it part of this report.
